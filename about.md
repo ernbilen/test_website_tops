@@ -5,14 +5,14 @@ The goal of the Tobacco Online Policy Seminar (TOPS) is to provide a free online
 ## Organizers
 
 TOPS is organized by: \\
-Mike Pesko, Georgia State University, <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko)\\
-Ce Shang, University of Ohio, <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@Ce_Shang_HE](https://twitter.com/Ce_Shang_HE) \\
-Justin White, University of California-San Francisco, <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite) \\
-Catherine Maclean, <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@JCMecon](https://twitter.com/JCMecon)
+Mike Pesko, Georgia State University <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko)\\
+Ce Shang, University of Ohio <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@Ce_Shang_HE](https://twitter.com/Ce_Shang_HE) \\
+Justin White, University of California-San Francisco <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite) \\
+Catherine Maclean, Temple University <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@JCMecon](https://twitter.com/JCMecon)
 
 
-TOPS is supported by an advisory committee of:
-Cris Delnevo, Rutgers University, <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@CrisDelnevo](https://twitter.com/CrisDelnevo)\\
-Prabhat Jha, University of Toronto, <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@countthedead](https://twitter.com/countthedead)\\
+TOPS is supported by an advisory committee of: \\
+Cris Delnevo, Rutgers University <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@CrisDelnevo](https://twitter.com/CrisDelnevo)\\
+Prabhat Jha, University of Toronto <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@countthedead](https://twitter.com/countthedead)\\
 
 <!-- <img src="https://img.icons8.com/color/26/000000/twitter.png"/> -->
