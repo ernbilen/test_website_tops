@@ -2,6 +2,10 @@
 
 You can find a list of past seminars with a link to the paper presented and a video recording of the seminar if available.
 
+TBA!
+
+<!--
+
 
 <table width="100%" cellspacing="5" cellpadding="5">
 <tr>
@@ -81,8 +85,8 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <tr style="border-bottom:1px solid black">
     <td colspan="100%"></td>
   </tr>
-  
-  
+
+
   <tr>
   <td colspan="2" height="40" valign="top" class="session"><strong>Date: June 17, 2020</strong></td>
 </tr>
@@ -100,7 +104,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <tr style="border-bottom:1px solid black">
     <td colspan="100%"></td>
   </tr>
-  
+
   <tr>
   <td colspan="2" height="40" valign="top" class="session"><strong>Date: June 24, 2020</strong></td>
 </tr>
@@ -133,7 +137,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <tr style="border-bottom:1px solid black">
     <td colspan="100%"></td>
   </tr>
-  
+
   <tr>
   <td colspan="2" height="40" valign="top" class="session"><strong>Date: July 1, 2020</strong></td>
 </tr>
@@ -165,10 +169,10 @@ You can find a list of past seminars with a link to the paper presented and a vi
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
-  <td height="30" valign="top" class="paper"><a href="pdfs/Hollingsworth_Wing_2020.pdf">"Tactics for design and inference in synthetic control studies: An applied example using high-dimensional data" (with Coady Wing)</a></td> 
+  <td height="30" valign="top" class="paper"><a href="pdfs/Hollingsworth_Wing_2020.pdf">"Tactics for design and inference in synthetic control studies: An applied example using high-dimensional data" (with Coady Wing)</a></td>
   </tr>
 <tr>
- <td height="30" valign="top" class="paper"><a href="pdfs/hollingsworth_wing_scul_2020_presentation_ehec_2020.pdf">Presentation Slides</a></td> 
+ <td height="30" valign="top" class="paper"><a href="pdfs/hollingsworth_wing_scul_2020_presentation_ehec_2020.pdf">Presentation Slides</a></td>
 </tr>
 
 
@@ -191,14 +195,16 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
   <!--  <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Physician Response to Malpractice Allegations: Evidence from Florida Emergency Departments" (with David Cutler and Anupam Jena)</a></td> -->
-  <td height="30" valign="top" class="paper">"Physician Response to Malpractice Allegations: Evidence from Florida Emergency Departments" (with David Cutler and Anupam Jena)</td> 
+  <td height="30" valign="top" class="paper">"Physician Response to Malpractice Allegations: Evidence from Florida Emergency Departments" (with David Cutler and Anupam Jena)</td>
 </tr>
 
   <tr style="border-bottom:1px solid black">
     <td colspan="100%"></td>
   </tr>
-  
 
-  
+
+
 </table>
 
+
+-->

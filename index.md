@@ -11,6 +11,11 @@ Tobacco Online Policy Seminar is an online health economics seminar series. The 
 
 ## Schedule
 
+TBA!
+
+
+<!--
+
 All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 
 <table width="100%" cellspacing="5" cellpadding="5">
@@ -55,7 +60,7 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 
 </table>
 
-
+-->
 
 
 
