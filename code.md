@@ -1,3 +1,3 @@
-## Code of Conduct
+## Guidelines for Participation/Disclosures
 
 ![Code](code.jpg)
