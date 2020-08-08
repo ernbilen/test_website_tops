@@ -231,4 +231,4 @@ Please note that **these times are for the XX zone**.
 
 ## Support or Contact
 
-Contact TOPS by emailing XX or by Twitter <img src="https://img.icons8.com/color/26/000000/twitter.png"/> [@mikepesko](https://twitter.com/mikepesko).
+Contact TOPS by emailing XX or by Twitter <img src="https://img.icons8.com/color/26/000000/twitter.png"/> [@XX](https://twitter.com/XX).
