@@ -4,7 +4,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 
 TBA!
 
-<!--
+{% comment %}
 
 
 <table width="100%" cellspacing="5" cellpadding="5">
@@ -207,4 +207,4 @@ TBA!
 </table>
 
 
--->
+{% endcomment %}

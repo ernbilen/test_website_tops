@@ -1,14 +1,18 @@
 ## Schedule
 
 The schedule is updated regularly as new seminars are added to the series.
+
+{% comment %}
+
+
 All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 
 <table width="100%" cellspacing="5" cellpadding="5">
-  
-  
-  
-  
-<tr> 
+
+
+
+
+<tr>
   <td colspan="4" height="40" valign="top" class="session"><strong>Date: April 22, 2020</strong></td>
 </tr>
 <tr>
@@ -21,7 +25,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
   <td width="150" valign="top" class="time">2:30 PM EDT </td>
   <td height="30" valign="top" class="paper"><a href="pdfs/Simon_etal_2020.pdf">Tracking Public and Private Responses to the COVID-19 Epidemic</a></td>
 </tr>
-  
+
   <tr style="border-bottom:1px solid black">
     <td colspan="100%"></td>
   </tr>
@@ -49,13 +53,13 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
   <tr style="border-bottom:1px solid black">
     <td colspan="100%"></td>
   </tr>
-  
 
 
 
 
 
-  
+
+
 <tr>
   <td colspan="2" height="40" valign="top" class="session"><strong>Date: May 20, 2020</strong></td>
 </tr>
@@ -129,7 +133,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
   <tr style="border-bottom:1px solid black">
     <td colspan="100%"></td>
   </tr>
-  
+
 <tr>
   <td colspan="2" height="40" valign="top" class="session"><strong>Date: July 1, 2020</strong></td>
 </tr>
@@ -141,7 +145,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
- <td height="30" valign="top" class="paper"><a href="pdfs/Giuntella_etal_2020.pdf">"Why Don’t We Sleep Enough? A Field Experiment Among College Students" (with Mallory Avery and Peiran Jiao)</a></td> 
+ <td height="30" valign="top" class="paper"><a href="pdfs/Giuntella_etal_2020.pdf">"Why Don’t We Sleep Enough? A Field Experiment Among College Students" (with Mallory Avery and Peiran Jiao)</a></td>
  <!-- <td height="30" valign="top" class="paper">"Why Don’t We Sleep Enough? A Field Experiment Among College Students" (with Mallory Avery and Peiran Jiao)</td> -->
 </tr>
 
@@ -162,7 +166,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
-  <td height="30" valign="top" class="paper"><a href="pdfs/Hollingsworth_Wing_2020.pdf">"Tactics for design and inference in synthetic control studies: An applied example using high-dimensional data" (with Coady Wing)</a></td> 
+  <td height="30" valign="top" class="paper"><a href="pdfs/Hollingsworth_Wing_2020.pdf">"Tactics for design and inference in synthetic control studies: An applied example using high-dimensional data" (with Coady Wing)</a></td>
  <!--   <td height="30" valign="top" class="paper">"Tactics for design and inference in synthetic control studies: An applied example using high-dimensional data" (with Coady Wing)</td>-->
 </tr>
 
@@ -184,7 +188,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
   <!--  <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Physician Response to Malpractice Allegations: Evidence from Florida Emergency Departments" (with David Cutler and Anupam Jena)</a></td> -->
-  <td height="30" valign="top" class="paper">"Physician Response to Malpractice Allegations: Evidence from Florida Emergency Departments" (with David Cutler and Anupam Jena)</td> 
+  <td height="30" valign="top" class="paper">"Physician Response to Malpractice Allegations: Evidence from Florida Emergency Departments" (with David Cutler and Anupam Jena)</td>
 </tr>
 
   <tr style="border-bottom:1px solid black">
@@ -203,7 +207,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
-   <td height="30" valign="top" class="paper"><a href="https://ssrn.com/abstract=3613950">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</a></td> 
+   <td height="30" valign="top" class="paper"><a href="https://ssrn.com/abstract=3613950">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</a></td>
  <!--  <td height="30" valign="top" class="paper">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</td> -->
 </tr>
 
@@ -229,5 +233,4 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 
 </table>
 
-
-
+{% endcomment %}
