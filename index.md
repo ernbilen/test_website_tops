@@ -1,22 +1,22 @@
-![Banner](ehec_banner.jpg)
+![Banner](banner.jpg)
 
-# Electronic Health Economics Colloquium (EHEC)
+# Tobacco Online Policy Seminar (TOPS)
 
-Welcome to the official website for **Electronic Health Economics Colloquium (EHEC)**.  You can find information about the schedule, view past seminars, find calls for papers,  sign up for email list, and read the seminar code of conduct.  
+Welcome to the official website for **Tobacco Online Policy Seminar (TOPS)**. You can find information about the schedule, view past seminars, find calls for papers,  sign up for email list, and read the seminar code of conduct.  
 
 ## About
 
-The Electronic Health Economics Colloquium (EHEC) is a bi-weekly online health economics seminar series. The goals of EHEC are to share high-quality, new health economics research on a platform that is freely available; maintain and improve communication among health economists during a time of social distancing; and to promote equity in health economics research.
+Tobacco Online Policy Seminar is an online health economics seminar series. The goals of TOPS are to share high-quality, new health economics research on a platform that is freely available; maintain and improve communication among health economists during a time of social distancing; and to promote equity in health economics research.
 
 
 ## Schedule
 
-All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**. 
+All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 
 <table width="100%" cellspacing="5" cellpadding="5">
 
 
- 
+
 
 <tr>
   <td colspan="2" height="40" valign="top" class="session"><strong>Date: August 12, 2020</strong></td>
@@ -29,7 +29,7 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
-   <td height="30" valign="top" class="paper"><a href="https://ssrn.com/abstract=3613950">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</a></td> 
+   <td height="30" valign="top" class="paper"><a href="https://ssrn.com/abstract=3613950">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</a></td>
  <!--  <td height="30" valign="top" class="paper">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</td> -->
 </tr>
 

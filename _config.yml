@@ -1,6 +1,6 @@
-title: Electronic Health Economics Colloquium (EHEC)
-description: [Electronic Health Economics Colloquium (EHEC) conference webpage.]
+title: Tobacco Online Policy Seminar (TOPS)
+description: [Tobacco Online Policy Seminar (TOPS) conference webpage.]
 theme: jekyll-theme-cayman
 plugins:
       - jekyll-seo-tag
-logo: ehec_banner.jpg
+logo: banner.jpg
