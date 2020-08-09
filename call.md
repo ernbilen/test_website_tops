@@ -1,4 +1,4 @@
-## Call for Abstracts
+## Call for Papers
 
 We are looking for applicants interested in submitting either an unpublished paper, or a body of work including both published and unpublished work, using experimental or quasi-experimental variation to help guide the development of an effective tobacco policy framework.
 
