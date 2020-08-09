@@ -231,4 +231,4 @@ Please note that **these times are for the XX zone**.
 
 ## Support or Contact
 
-Contact TOPS by emailing tobpolicy(at)gmail(dot)com or by Twitter <img src="https://img.icons8.com/color/26/000000/twitter.png"/> [@TobPolicy](https://twitter.com/TobPolicy).
+Contact TOPS by emailing tobpolicy(at)gmail(dot)com or by Twitter<img src="https://img.icons8.com/color/26/000000/twitter.png"/> [@TobPolicy](https://twitter.com/TobPolicy).
