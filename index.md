@@ -2,7 +2,7 @@
 
 # Tobacco Online Policy Seminar (TOPS)
 
-Welcome to the official website for **Tobacco Online Policy Seminar (TOPS)**. You can find information about the schedule, view past seminars, find calls for papers,  sign up for email list, and read the seminar code of conduct.  
+Welcome to the official website for **Tobacco Online Policy Seminar (TOPS)**. You can find information about the schedule, view past seminars, find calls for papers, sign up for email list, read the seminar guidelines and disclosure requirements, and learn about other free online seminars.  
 
 ## About
 
