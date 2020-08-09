@@ -1,4 +1,4 @@
-## Other Conferences
+## Other Seminars
 
 Electronic Health Economics Colloquium (EHEC) which is an online seminar series on Health Economics and Policy.
 
