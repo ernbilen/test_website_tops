@@ -14,6 +14,8 @@ Catherine Maclean, Temple University <img src="https://img.icons8.com/color/26/0
 TOPS is supported by an advisory committee of: \\
 Cris Delnevo, Rutgers University <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@CrisDelnevo](https://twitter.com/CrisDelnevo)\\
 Prabhat Jha, University of Toronto <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@countthedead](https://twitter.com/countthedead) \\
-John Cawley, Cornell University <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@cawley_john](https://twitter.com/cawley_john)
+John Cawley, Cornell University <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@cawley_john](https://twitter.com/cawley_john) \\
+Michael Eriksen, Georgia State University <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@MPEriksen](https://twitter.com/MPEriksen) \\
+Jody Sindelar, Yale University
 
 <!-- <img src="https://img.icons8.com/color/26/000000/twitter.png"/> -->
