@@ -13,9 +13,11 @@ Justin White, University of California-San Francisco <img src="https://img.icons
 
 <br>
 
-TOPS is supported by an advisory committee of: \\
+## Advisory Committee \\
 John Cawley, Cornell University <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@cawley_john](https://twitter.com/cawley_john) \\
+Frank Chaloupka, University of Illinois-Chicago \\
 Cris Delnevo, Rutgers University <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@CrisDelnevo](https://twitter.com/CrisDelnevo)\\
+Jeffrey Drope, American Cancer Society  \\
 Michael Eriksen, Georgia State University <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@MPEriksen](https://twitter.com/MPEriksen) \\
 Geoffrey Fong, University of Waterloo <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@gfong570](https://twitter.com/gfong570) \\
 Scott Halpern MD, University of Pennsylvania <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@ScottHalpernMD](https://twitter.com/ScottHalpernMD) \\
