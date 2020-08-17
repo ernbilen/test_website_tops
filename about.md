@@ -13,7 +13,8 @@ Justin White, University of California-San Francisco <img src="https://img.icons
 
 <br>
 
-## Advisory Committee \\
+## Advisory Committee
+
 John Cawley, Cornell University <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@cawley_john](https://twitter.com/cawley_john) \\
 Frank Chaloupka, University of Illinois-Chicago \\
 Cris Delnevo, Rutgers University <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@CrisDelnevo](https://twitter.com/CrisDelnevo)\\
