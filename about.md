@@ -9,8 +9,6 @@ Mike Pesko, Georgia State University <img src="https://img.icons8.com/fluent/22/
 Ce Shang, Ohio State University <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@Ce_Shang_HE](https://twitter.com/Ce_Shang_HE) \\
 Justin White, University of California-San Francisco <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite)
 
-
-
 ## Advisory Committee
 
 John Cawley, Cornell University <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@cawley_john](https://twitter.com/cawley_john) \\
