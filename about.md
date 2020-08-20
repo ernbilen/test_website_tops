@@ -11,9 +11,11 @@ Justin White, University of California-San Francisco <img src="https://img.icons
 
 ## Advisory Board
 
+Warren Bickel, Virginia Tech \\
 John Cawley, Cornell University <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@cawley_john](https://twitter.com/cawley_john) \\
 Frank Chaloupka, University of Illinois-Chicago \\
 Mike Cummings, Medical University of South Carolina \\
+Dhaval Dave, Bentley University \\
 Cris Delnevo, Rutgers University <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@CrisDelnevo](https://twitter.com/CrisDelnevo)\\
 Jeffrey Drope, American Cancer Society  \\
 Sherry Emery, University of Chicago – NORC <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@SherryEmery](https://twitter.com/SherryEmery) \\
@@ -25,9 +27,13 @@ Scott Halpern MD, University of Pennsylvania <img src="https://img.icons8.com/fl
 Bob Hornik, University of Pennsylvania \\
 Prabhat Jha, University of Toronto <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@countthedead](https://twitter.com/countthedead) \\
 Brian King, Centers for Disease Control and Prevention – Office on Smoking and Health \\
+David Levy, Georgetown University \\
+Ruth Malone, University of California, San Francisco <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@MaloneRuth](https://twitter.com/MaloneRuth) \\
 Richard O’Connor, Roswell Park Comprehensive Cancer Center \\
 Jennifer Pearson, University of Nevada, Reno  \\
-Jody Sindelar, Yale University
+Barbara Schillo, Truth Initiative \\
+Jody Sindelar, Yale University \\
+Andrew Strasser, University of Pennsylvania
 
 
 
