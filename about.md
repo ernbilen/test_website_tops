@@ -4,31 +4,31 @@ The goal of the Tobacco Online Policy Seminar (TOPS) is to provide a free multid
 
 ## Executive Board
 
-Catherine Maclean, Temple University <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@JCMecon](https://twitter.com/JCMecon) \\
-Mike Pesko, Georgia State University <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko)\\
-Ce Shang, Ohio State University <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@Ce_Shang_HE](https://twitter.com/Ce_Shang_HE) \\
-Justin White, University of California-San Francisco <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite)
+Catherine Maclean, Temple University <img src="https://img.icons8.com/fluent/15/000000/twitter.png"/>[@JCMecon](https://twitter.com/JCMecon) \\
+Mike Pesko, Georgia State University <img src="https://img.icons8.com/fluent/15/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko)\\
+Ce Shang, Ohio State University <img src="https://img.icons8.com/fluent/15/000000/twitter.png"/>[@Ce_Shang_HE](https://twitter.com/Ce_Shang_HE) \\
+Justin White, University of California-San Francisco <img src="https://img.icons8.com/fluent/15/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite)
 
 ## Advisory Board
 
 Warren Bickel, Virginia Tech \\
-John Cawley, Cornell University <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@cawley_john](https://twitter.com/cawley_john) \\
+John Cawley, Cornell University <img src="https://img.icons8.com/fluent/15/000000/twitter.png"/>[@cawley_john](https://twitter.com/cawley_john) \\
 Frank Chaloupka, University of Illinois-Chicago \\
 Mike Cummings, Medical University of South Carolina \\
 Dhaval Dave, Bentley University \\
-Cris Delnevo, Rutgers University <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@CrisDelnevo](https://twitter.com/CrisDelnevo)\\
+Cris Delnevo, Rutgers University <img src="https://img.icons8.com/fluent/15/000000/twitter.png"/>[@CrisDelnevo](https://twitter.com/CrisDelnevo)\\
 Jeffrey Drope, American Cancer Society  \\
-Sherry Emery, University of Chicago – NORC <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@SherryEmery](https://twitter.com/SherryEmery) \\
-Michael Eriksen, Georgia State University <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@MPEriksen](https://twitter.com/MPEriksen) \\
+Sherry Emery, University of Chicago – NORC <img src="https://img.icons8.com/fluent/15/000000/twitter.png"/>[@SherryEmery](https://twitter.com/SherryEmery) \\
+Michael Eriksen, Georgia State University <img src="https://img.icons8.com/fluent/15/000000/twitter.png"/>[@MPEriksen](https://twitter.com/MPEriksen) \\
 Matthew Farrelly, RTI International  \\
-Geoffrey Fong, University of Waterloo <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@gfong570](https://twitter.com/gfong570) \\
+Geoffrey Fong, University of Waterloo <img src="https://img.icons8.com/fluent/15/000000/twitter.png"/>[@gfong570](https://twitter.com/gfong570) \\
 Maciek Goniewicz, Roswell Park Comprehensive Cancer Center \\
-Scott Halpern MD, University of Pennsylvania <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@ScottHalpernMD](https://twitter.com/ScottHalpernMD) \\
+Scott Halpern MD, University of Pennsylvania <img src="https://img.icons8.com/fluent/15/000000/twitter.png"/>[@ScottHalpernMD](https://twitter.com/ScottHalpernMD) \\
 Bob Hornik, University of Pennsylvania \\
-Prabhat Jha, University of Toronto <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@countthedead](https://twitter.com/countthedead) \\
+Prabhat Jha, University of Toronto <img src="https://img.icons8.com/fluent/15/000000/twitter.png"/>[@countthedead](https://twitter.com/countthedead) \\
 Brian King, Centers for Disease Control and Prevention – Office on Smoking and Health \\
 David Levy, Georgetown University \\
-Ruth Malone, University of California, San Francisco <img src="https://img.icons8.com/fluent/22/000000/twitter.png"/>[@MaloneRuth](https://twitter.com/MaloneRuth) \\
+Ruth Malone, University of California, San Francisco <img src="https://img.icons8.com/fluent/15/000000/twitter.png"/>[@MaloneRuth](https://twitter.com/MaloneRuth) \\
 Richard O’Connor, Roswell Park Comprehensive Cancer Center \\
 Jennifer Pearson, University of Nevada, Reno  \\
 Barbara Schillo, Truth Initiative \\
