@@ -13,7 +13,7 @@ Justin White, University of California-San Francisco <img src="https://img.icons
 
 Warren Bickel, Virginia Tech \\
 Michelle Bloch, National Cancer Institute \\
-Alison Breland, Virginia Commonwealth University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@AlisonBreland](https://twitter.com/AlisonBreland) \\
+Alison Breland, Virginia Commonwealth University \\
 John Cawley, Cornell University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@cawley_john](https://twitter.com/cawley_john) \\
 Frank Chaloupka, University of Illinois-Chicago \\
 Mike Cummings, Medical University of South Carolina \\
@@ -22,6 +22,7 @@ Cris Delnevo, Rutgers University <img src="https://img.icons8.com/fluent/20/0000
 Jeffrey Drope, American Cancer Society  \\
 Sherry Emery, University of Chicago – NORC <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@SherryEmery](https://twitter.com/SherryEmery) \\
 Michael Eriksen, Georgia State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@MPEriksen](https://twitter.com/MPEriksen) \\
+Jean-François Etter, University of Geneva  \\
 Matthew Farrelly, RTI International  \\
 Geoffrey Fong, University of Waterloo <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@gfong570](https://twitter.com/gfong570) \\
 Maciek Goniewicz, Roswell Park Comprehensive Cancer Center \\
@@ -34,7 +35,7 @@ Brian King, Centers for Disease Control and Prevention – Office on Smoking and
 David Levy, Georgetown University \\
 Ruth Malone, University of California, San Francisco <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@MaloneRuth](https://twitter.com/MaloneRuth) \\
 Richard O’Connor, Roswell Park Comprehensive Cancer Center \\
-Jennifer Pearson, University of Nevada, Reno  \\
+Jennifer Pearson, University of Nevada-Reno \\
 Barbara Schillo, Truth Initiative \\
 Jody Sindelar, Yale University \\
 Andrew Strasser, University of Pennsylvania
