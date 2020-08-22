@@ -13,7 +13,7 @@ Justin White, University of California-San Francisco <img src="https://img.icons
 
 Warren Bickel, Virginia Tech \\
 Michelle Bloch, National Cancer Institute \\
-Alison Breland, Virginia Commonwealth University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@AlisonBreland](https://twitter.com/AlisonBreland)
+Alison Breland, Virginia Commonwealth University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@AlisonBreland](https://twitter.com/AlisonBreland) \\
 John Cawley, Cornell University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@cawley_john](https://twitter.com/cawley_john) \\
 Frank Chaloupka, University of Illinois-Chicago \\
 Mike Cummings, Medical University of South Carolina \\
