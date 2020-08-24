@@ -2,4 +2,4 @@
 
 The schedule is updated regularly as new seminars are added to the series.
 
-![schedule](schedule_cropped.jpg)
+<img src="schedule_cropped.png" width="500"/>
