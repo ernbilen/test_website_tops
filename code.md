@@ -1,4 +1,4 @@
 ## Guidelines for Participation/Disclosures
 
-![Code](code2.jpg)
+![Code](instructions.jpg)
 ![Code](code1.jpg)
