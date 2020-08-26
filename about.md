@@ -53,7 +53,7 @@ Ted Wagener, Ohio State University
 *	Shang: American Heart Association, Bloomberg Philanthropies, Canadian Institutes for Health Research, Food and Drug Administration, National Institutes of Health, Presbyterian Health Foundation, Tobacco Settlement Endowment Trust, World Heart Federation
 *	White: Abdul Latif Jameel Poverty Action Lab, Alameda County Public Health Department, American Cancer Society, American Heart Association, Cancer Center UK, Hellman Family Foundation, International Development Research Centre, National Institutes of Health, Robert Wood Johnson Foundation, UCOP Tobacco-Related Disease Research Program
 
-The seminar series itself receives no funding.
+<sup>The seminar series itself receives no funding.</sup>
 
 
 
