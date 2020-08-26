@@ -41,17 +41,17 @@ Jennifer Pearson, University of Nevada-Reno \\
 Barbara Schillo, Truth Initiative \\
 Jody Sindelar, Yale University \\
 Andrew Strasser, University of Pennsylvania
-Ted Wagener, Ohio State University \\
+Ted Wagener, Ohio State University
 
 
 
-<a name="myfootnote1">*</a>: The executive board members report no current or historical funding from tobacco-nicotine industries or foundations they support. Over the past 10 years, executive board members received funding from the following organizations for tobacco research: \\
+<span font-size:4em;"> <a name="myfootnote1">*</a>: The executive board members report no current or historical funding from tobacco-nicotine industries or foundations they support. Over the past 10 years, executive board members received funding from the following organizations for tobacco research: \\
 *	Maclean: American Cancer Society, Food and Drug Administration, National Institutes of Health\\
 *	Pesko: American Cancer Society, Centers for Disease Control and Prevention, National Institutes of Health, and the University of Kentucky’s Institute for the Study of Free Enterprise\\
 *	Shang: American Heart Association, Bloomberg Philanthropies, Canadian Institutes for Health Research, Food and Drug Administration, National Institutes of Health, Presbyterian Health Foundation, Tobacco Settlement Endowment Trust, World Heart Federation\\
 *	White: Abdul Latif Jameel Poverty Action Lab, Alameda County Public Health Department, American Cancer Society, American Heart Association, Cancer Center UK, Hellman Family Foundation, International Development Research Centre, National Institutes of\\ Health, Robert Wood Johnson Foundation, UCOP Tobacco-Related Disease Research Program\\
 
-The seminar series itself receives no funding.\\
+The seminar series itself receives no funding. </span>
 
 
 
