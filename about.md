@@ -2,7 +2,7 @@
 
 The goal of the Tobacco Online Policy Seminar (TOPS) is to provide a free multidisciplinary, international forum for research using experimental or quasi-experimental variation (i.e., a well-defined counterfactual) to study nicotine-tobacco policies, with a particular focus on emerging tobacco products and modified risk tobacco products. This forum is designed to bring together academics, government scientists, students/trainees, funders, healthcare professionals, and advocates, with the goal of breaking silos in tobacco policy research and providing a platform for high-quality research to be discussed and disseminated. The ultimate goal of the forum is to facilitate the production and sharing of knowledge that can be used to develop an effective tobacco policy framework.
 
-## Executive Board<sup>[1](#myfootnote1)</sup>
+## Executive Board<sup>[*](#myfootnote1)</sup>
 
 Catherine Maclean, Temple University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@JCMecon](https://twitter.com/JCMecon) \\
 Mike Pesko, Georgia State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko)\\
