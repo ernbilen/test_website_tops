@@ -45,6 +45,8 @@ Ted Wagener, Ohio State University
 
 <br><br>
 
+
+***
 ### <a name="myfootnote1">*</a>: The executive board members report no current or historical funding from tobacco-nicotine industries or foundations they support. Over the past 10 years, executive board members received funding from the following organizations for tobacco research: \\
 *	Maclean: American Cancer Society, Food and Drug Administration, National Institutes of Health\\
 *	Pesko: American Cancer Society, Centers for Disease Control and Prevention, National Institutes of Health, and the University of Kentucky’s Institute for the Study of Free Enterprise\\
