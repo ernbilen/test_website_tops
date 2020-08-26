@@ -55,6 +55,13 @@ Ted Wagener, Ohio State University
 
 <sup>The seminar series itself receives no funding.
 
+<ul>
+   <li style="color:red;font-size:30px">Example Category</li>
+   <ul>
+     <li> text</li>
+     <li> text</li>
+    </ul>
+  </ul>
 
 
 
