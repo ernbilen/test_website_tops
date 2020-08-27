@@ -41,6 +41,7 @@ Jennifer Pearson, University of Nevada-Reno \\
 Barbara Schillo, Truth Initiative \\
 Jody Sindelar, Yale University \\
 Andrew Strasser, University of Pennsylvania \\
+Jim Thrasher, University of South Carolina \\
 Ted Wagener, Ohio State University
 
 <br><br>
