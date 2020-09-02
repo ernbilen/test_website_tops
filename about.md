@@ -27,12 +27,13 @@ Matthew Farrelly, RTI International  \\
 Geoffrey Fong, University of Waterloo <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@gfong570](https://twitter.com/gfong570) \\
 Maciej Goniewicz, Roswell Park Comprehensive Cancer Center \\
 Emmanuel Guindon, McMaster University \\
-Scott Halpern MD, University of Pennsylvania <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@ScottHalpernMD](https://twitter.com/ScottHalpernMD) \\
+Scott Halpern, University of Pennsylvania <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@ScottHalpernMD](https://twitter.com/ScottHalpernMD) \\
 Peter Hajek, Queen Mary University of London \\
 Bob Hornik, University of Pennsylvania \\
 Prabhat Jha, University of Toronto <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@countthedead](https://twitter.com/countthedead) \\
 Mary Kautz, National Institute on Drug Abuse \\
 Brian King, Centers for Disease Control and Prevention – Office on Smoking and Health \\
+Tessa Langley, University of Nottingham \\
 David Levy, Georgetown University \\
 Ruth Malone, University of California, San Francisco <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@MaloneRuth](https://twitter.com/MaloneRuth) \\
 Rafael Meza, University of Michigan \\
