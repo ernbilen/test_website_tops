@@ -13,6 +13,9 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td colspan="2" height="40" valign="top" class="chair">Presenter: {{ speaker.Presenter }}</td>
 </tr>
 <tr>
+  <td colspan="2" height="40" valign="top" class="chair">Institution: {{ speaker.Institution }}</td>
+</tr>
+<tr>
    <td height="30" valign="top" class="paper">"{{ speaker.Title }}"</td>
 </tr>
 <tr>
