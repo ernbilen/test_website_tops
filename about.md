@@ -11,7 +11,6 @@ Justin White, University of California-San Francisco <img src="https://img.icons
 
 ## Advisory Board
 
-Dana van Bemmel, Food and Drug Administration - Center for Tobacco \\
 Warren Bickel, Virginia Tech \\
 Michelle Bloch, National Cancer Institute \\
 Alison Breland, Virginia Commonwealth University \\
@@ -45,6 +44,7 @@ Barbara Schillo, Truth Initiative \\
 Jody Sindelar, Yale University \\
 Andrew Strasser, University of Pennsylvania \\
 Jim Thrasher, University of South Carolina \\
+Dana van Bemmel, Food and Drug Administration - Center for Tobacco \\
 Ted Wagener, Ohio State University
 
 <br><br>
