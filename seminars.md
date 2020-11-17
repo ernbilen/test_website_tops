@@ -26,11 +26,11 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Draft }}">Paper</a>|<a href="{{ speaker.Paper }}">Slides</a></td>
 </tr>
-{% endif %}
+{% else %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}">Slides</a></td>
 </tr>
-
+{% endif %}
 
 <tr style="border-bottom:1px solid black">
   <td colspan="100%"></td>
