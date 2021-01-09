@@ -17,6 +17,7 @@ Warren Bickel, Virginia Tech \\
 Michelle Bloch, National Cancer Institute \\
 Alison Breland, Virginia Commonwealth University \\
 John Cawley, Cornell University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@cawley_john](https://twitter.com/cawley_john) \\
+Christopher Carpenter, Vanderbilt University \\
 Frank Chaloupka, University of Illinois-Chicago <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@FrankChaloupka](https://twitter.com/FrankChaloupka) \\
 Mike Cummings, Medical University of South Carolina \\
 Dhaval Dave, Bentley University \\
