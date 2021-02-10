@@ -22,7 +22,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
    <td height="30" valign="top" class="paper">Presentation Title: "{{ speaker.Title }}"</td>
 </tr>
 
-{% if (speaker.Presenter == 'Armando Meier')or (speaker.Presenter == 'Michael Darden') %}
+{% if (speaker.Presenter == 'Armando Meier') or (speaker.Presenter == 'Michael Darden') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Draft }}">Paper</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a></td>
 </tr>
