@@ -39,7 +39,6 @@ Brian King, Centers for Disease Control and Prevention – Office on Smoking and
 Ryan Kennedy, Johns Hopkins University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@ryan_david](https://twitter.com/ryan_david) \\
 Tessa Langley, University of Nottingham \\
 David Levy, Georgetown University \\
-Ruth Malone, University of California-San Francisco <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@MaloneRuth](https://twitter.com/MaloneRuth) \\
 Rafael Meza, University of Michigan \\
 Richard O’Connor, Roswell Park Comprehensive Cancer Center \\
 Jennifer Pearson, University of Nevada-Reno \\
