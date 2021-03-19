@@ -7,7 +7,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 
 {% for speaker in site.data.past_seminars %}
 <tr>
-  <td colspan="2" height="40" valign="top" class="session"><strong>Date: {{ speaker.Date | date: `%B %d, %Y' }}</strong></td>
+  <td colspan="2" height="40" valign="top" class="session"><strong>Date: {{ speaker.Date }}</strong></td>
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="chair">Presenter: {{ speaker.Presenter }}</td>
