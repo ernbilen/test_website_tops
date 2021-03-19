@@ -4,4 +4,4 @@ theme: jekyll-theme-cayman
 plugins:
       - jekyll-seo-tag
 logo: banner.jpg
-encoding: UTF-8
+
