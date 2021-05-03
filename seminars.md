@@ -37,11 +37,11 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Draft }}">Paper</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a> |<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">QandA</a></td>
 </tr>
-{% elsif  (speaker.Presenter == '(1) Arjun Teotia / (2) Daphne Wu') %}
+{% elsif (speaker.Presenter == '(1) Arjun Teotia / (2) Daphne Wu') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides #1</a>|<a href="{{ speaker.Paper2 }}" download="{{ speaker.Paper2 }}">Slides #2</a>|<a href="{{ speaker.Draft }}">Paper #1</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">QandA</a></td>
 </tr>
-{% elsif  (speaker.Presenter == 'Anne Burton') %}
+{% elsif (speaker.Presenter == 'Anne Burton') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Draft }}" download="{{ speaker.Draft }}">Paper</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a></td>
 </tr>
