@@ -13,7 +13,7 @@ The goal of the Tobacco Online Policy Seminar (TOPS) is to provide a free multid
 
 ## Schedule
 
-<img src="schedule_summer_2021.jpg" width="700"/>
+<img src="schedule_summer_2021.png" width="700"/>
 
 ## Links
 
