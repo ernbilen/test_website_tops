@@ -1,0 +1,18 @@
+﻿Question Report,,
+Report Generated:,6/11/2021 13:39,
+Topic,Webinar ID,# Question
+Tobacco Online Policy Seminar (TOPS),913 0423 0768,12
+Question Details,,
+#,Question,Answer(s)
+1,"Do you have data on potential substitution with non-cigarette products (e.g., e-cigarettes, etc)",We also looked at e-cigarettes outcome. we found some reduction in e-cigs use after the menthol bans (significant for adults only).
+2,It's not surprising that there's some subsitution for youth. But is there less substitution than there was reduction in menthol use? Meaning that some of the youth discontinued entirely?,"in our regressoin that look at overall smoking by youth as outcome, the policy effect is almost zero, indicating that there is almost no change in youth overall smoking."
+3,"Did you look only at cigarette use, or did you also look at e-cigarette use?",
+4,Similar Q to Mike's: What do you make of the very large decrease in control provinces' purchases on First Nation reserves?,live answered
+5,Is the 2016 youth data a true post-policy assessment? Weren’t several policies not implemented until 2016?,"it is actually 2016/2017 data as the survey was conducted between Oct/Nov in a year to May next year. during this period, some prov serves as control and some as treated."
+6,"I’m just curious, you mentioned there was increase in cigarette use among youth. Was there increase in other tobacco products like ecigarettes?",
+7,Did you look at youth initiation or just current use?,"We looked at 3 cigs use outcomes: used at least 100 cigs in lifetime, ever used cigs, and past 30-day use"
+8,ok thank you,
+9,I wonder if you have any background information that you can share on whether the assignment of treatment status can be seen as random. Are the treated states similar to control states in characteristics?,"we looked at relationship between ban timings across provinces and cigarette prices over time. we found no relationship between the two, which we interpret as meaning that the bans are not endogenous"
+10,"When the ban of menthol cigarettes occured, was there an increase in campaigns that aimed to help smokers quit cigarettes?","we are not aware of any campaign. but in any case, we control for prov and year fixed effect in the model, which should control for these things."
+11,"it seems like the largest unintended impact, especially for youth ,would be an increase in vaping, esp if flavors are still available. Do you have data on vaping?","we looked at vaping outcome. there is actually a reduction in vaping among youth after the ban, though not significant. this means menthol cigs and e-cigs are complements"
+12,"Sales data looks super interesting.  In some of the graphs it looks like sales increase quit a bit before the policy. I'd interpret this as some anticipatory behavior, was the policy expected?",live answered
