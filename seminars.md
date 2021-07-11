@@ -49,6 +49,10 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Partial Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a></td> 
 </tr>
+{% elsif speaker.Presenter == 'Neal Benowitz, Joanna Cohen, Michael Cummings' %}
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Reading List }}">Reading List</a></td> 
+</tr>
 {% else %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a></td>
