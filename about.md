@@ -53,11 +53,11 @@ Ted Wagener, Ohio State University
 
 
 ***
-<a name="myfootnote1">*</a>: The executive board members report no current or historical funding from or board involvement with tobacco-nicotine industries or foundations they support. Over the past 10 years, executive board members received funding from the following organizations for tobacco research:
-*	Maclean: American Cancer Society, Food and Drug Administration, National Institutes of Health, American Heart Association
-*	Pesko: National Institutes of Health, Agency for Healthcare Research and Quality, American Cancer Society, Centers for Disease Control and Prevention, Virginia Foundation for Healthy Youth, and the University of Kentucky’s Institute for the Study of Free Enterprise
-*	Shang: American Heart Association, Bloomberg Philanthropies, Canadian Institutes for Health Research, Food and Drug Administration, National Institutes of Health, Presbyterian Health Foundation, Tobacco Settlement Endowment Trust, World Heart Federation
-*	White: Abdul Latif Jameel Poverty Action Lab, Alameda County Public Health Department, American Cancer Society, American Heart Association, Cancer Center UK, Hellman Family Foundation, International Development Research Centre, National Institutes of Health, Robert Wood Johnson Foundation, UCOP Tobacco-Related Disease Research Program
+<a name="myfootnote1">*</a>: Each executive board member is committed to carrying out a strong research program free of tobacco industry influence. To this end, executive board members agree to accept no funding (including payment or reimbursement) or formal participation (e.g., board membership) with the tobacco industry, foundations they support, or individuals or entities that currently consult for the tobacco industry. We follow the SRNT 2021 definition of the tobacco industry as any company that manufactures commercial tobacco products or is owned in part or in whole by a commercial tobacco manufacturer. We also agree to list all current and historical funding related to tobacco below. Any legally required payments from the tobacco industry (e.g., court depositions) will be disclosed below and donated to an anti-tobacco cause.
+•	Maclean: American Cancer Society, Food and Drug Administration, National Institutes of Health, American Heart Association
+•	Pesko: National Institutes of Health, American Cancer Society, Centers for Disease Control and Prevention, World Health Organization, Agency for Healthcare Research and Quality, Virginia Foundation for Healthy Youth, and the University of Kentucky’s Institute for the Study of Free Enterprise
+•	Shang: American Heart Association, Bloomberg Philanthropies, Canadian Institutes for Health Research, Food and Drug Administration, National Institutes of Health, Presbyterian Health Foundation, Tobacco Settlement Endowment Trust, World Heart Federation
+•	White: Abdul Latif Jameel Poverty Action Lab, Alameda County Public Health Department, American Cancer Society, American Heart Association, Cancer Center UK, Hellman Family Foundation, International Development Research Centre, National Institutes of Health, Robert Wood Johnson Foundation, Southeast Asia Tobacco Control Alliance, UCOP Tobacco-Related Disease Research Program 
 
 The seminar series itself receives no funding.
 
