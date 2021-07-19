@@ -58,7 +58,7 @@ Ted Wagener, Ohio State University
 •	Maclean: American Cancer Society, Food and Drug Administration, National Institutes of Health, American Heart Association \\
 •	Pesko: National Institutes of Health, American Cancer Society, Centers for Disease Control and Prevention, World Health Organization, Agency for Healthcare Research and Quality, Virginia Foundation for Healthy Youth, and the University of Kentucky’s Institute for the Study of Free Enterprise \\
 •	Shang: American Heart Association, Bloomberg Philanthropies, Canadian Institutes for Health Research, Food and Drug Administration, National Institutes of Health, Presbyterian Health Foundation, Tobacco Settlement Endowment Trust, World Heart Federation \\
-•	White: Abdul Latif Jameel Poverty Action Lab, Alameda County Public Health Department, American Cancer Society, American Heart Association, Cancer Center UK, Hellman Family Foundation, International Development Research Centre, National Institutes of Health, Robert Wood Johnson Foundation, Southeast Asia Tobacco Control Alliance, UCOP Tobacco-Related Disease Research Program \\
+•	White: Abdul Latif Jameel Poverty Action Lab, Alameda County Public Health Department, American Cancer Society, American Heart Association, Cancer Center UK, Hellman Family Foundation, International Development Research Centre, National Institutes of Health, Robert Wood Johnson Foundation, Southeast Asia Tobacco Control Alliance, UCOP Tobacco-Related Disease Research Program 
 
 The seminar series itself receives no funding.
 
