@@ -12,7 +12,7 @@ The Tobacco Online Policy Seminar (TOPS) is a free multidisciplinary, internatio
 
 ## Schedule
 
-<img src="schedule_fall2021_winter2022_v2.png" width="700"/>
+<img src="schedule_fall2021_winter2022_v2.jpg" width="700"/>
 
 ## Links
 
