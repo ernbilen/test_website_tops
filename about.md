@@ -17,10 +17,11 @@ Michelle Bloch, National Cancer Institute \\
 Alison Breland, Virginia Commonwealth University \\
 John Cawley, Cornell University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@cawley_john](https://twitter.com/cawley_john) \\
 Christopher Carpenter, Vanderbilt University \\
-Frank Chaloupka, University of Illinois-Chicago <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@FrankChaloupka](https://twitter.com/FrankChaloupka) \\
+Frank Chaloupka, University of Illinois-Chicago \\
 Kenneth Michael Cummings, Medical University of South Carolina \\
 Dhaval Dave, Bentley University \\
 Cristine Delnevo, Rutgers University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@CrisDelnevo](https://twitter.com/CrisDelnevo)\\
+Cliff Douglas, University of Michigan <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@cdoug](https://twitter.com/cdoug) \\
 Jeffrey Drope, University of Illinois at Chicago  \\
 Sherry Emery, University of Chicago – NORC <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@SherryEmery](https://twitter.com/SherryEmery) \\
 Michael Eriksen, Georgia State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@MPEriksen](https://twitter.com/MPEriksen) \\
