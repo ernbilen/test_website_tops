@@ -1,4 +1,7 @@
-﻿## Email List
+---
+header-includes: <script type="text/javascript" src=https://form.jotform.com/jsform/220245182963051></script>
+---
+## Email List
 
 Please put your contact information [**in this form**](https://www.jotform.com/form/220245182963051) to receive all the latest TOPS updates.
 
@@ -8,7 +11,7 @@ If you cannot access the sign-up form, please e-mail the below information to to
 -	Occupation (choose one: student, faculty/academic researcher, government employee, non-profit, think tank or government contractor, healthcare professional, industry, other – specify)
 -	Country of residence
 
-<script src=https://form.jotform.com/jsform/220245182963051></script>
+
 
 
 
