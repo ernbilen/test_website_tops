@@ -9,8 +9,7 @@ If you cannot access the sign-up form, please e-mail the below information to to
 -	Country of residence
 
  ```js
-   const myvar = "hello"
-   module.exports.response = response = ()=>{<script type="text/javascript" src=https://form.jotform.com/jsform/220245182963051></script>}
+   <script type="text/javascript" src=https://form.jotform.com/jsform/220245182963051></script>
     ```
 
 
