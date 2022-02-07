@@ -1,6 +1,3 @@
----
-header-includes: <script type="text/javascript" src=https://form.jotform.com/jsform/220245182963051></script>
----
 ## Email List
 
 Please put your contact information [**in this form**](https://www.jotform.com/form/220245182963051) to receive all the latest TOPS updates.
