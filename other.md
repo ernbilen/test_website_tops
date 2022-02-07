@@ -1,21 +1,9 @@
-<!DOCTYPE html>
+## Other Seminars
 
-<html>
-<head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<link href="style.scss" rel="stylesheet" type="assets/css" />
-</head>
-<body>
+- The [Electronic Health Economics Colloquium (EHEC)](https://www.ehealthecon.org) which is an online seminar series on Health Economics and Policy.
 
-Email list bla bla.
+<img src="ehec_banner.jpg" width="500"/>
 
+- The [Virtual Seminar on the Economics of Risky Health Behaviors (VERB)](https://www.human.cornell.edu/pam/research/hehbad/worldseminars) shares information on the economics of health behaviors, including smoking, alcohol abuse, drug abuse, poor diet, physical inactivity, obesity, risky sex, self-harm, and suicide.
 
-<script type="text/javascript" src=https://form.jotform.com/jsform/220245182963051></script>
-
-
-
-
-
-
-</body>
-</html>
+<img src="hbehavior2.jpg" width="500"/>
