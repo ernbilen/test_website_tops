@@ -8,8 +8,7 @@ If you cannot access the sign-up form, please e-mail the below information to to
 -	Occupation (choose one: student, faculty/academic researcher, government employee, non-profit, think tank or government contractor, healthcare professional, industry, other – specify)
 -	Country of residence
 
- ```js
-   <script type="text/javascript" src=https://form.jotform.com/jsform/220245182963051></script>
-    ```
+{{% mdshortcode %}}<script type="text/javascript" src=https://form.jotform.com/jsform/220245182963051></script>{{% /mdshortcode %}}
+
 
 
