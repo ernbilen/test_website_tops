@@ -9,6 +9,6 @@ If you cannot access the sign-up form, please e-mail the below information to to
 -	Country of residence
 
 
-<script src="/assets/email_test.js"></script>.
+<script src="test_website_tops/assets/email_test.js"></script>.
 
 
