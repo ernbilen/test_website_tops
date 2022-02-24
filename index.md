@@ -1,16 +1,3 @@
-<header>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src=https://www.googletagmanager.com/gtag/js?id=G-Z4MW3Z2E82></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
- 
-  gtag('config', 'G-Z4MW3Z2E82');
-</script>
-</header>
-
-<main>
 ![Banner](banner.jpg)
 
 # Tobacco Online Policy Seminar (TOPS)
@@ -45,5 +32,3 @@ The Tobacco Online Policy Seminar (TOPS) is a free multidisciplinary, internatio
 ## Support or Contact
 
 Contact TOPS by emailing tobpolicy(at)gmail(dot)com or by Twitter <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@TobPolicy](https://twitter.com/TobPolicy).
-
-</main>
