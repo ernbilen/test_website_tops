@@ -41,7 +41,6 @@ Tessa Langley, University of Nottingham \\
 David Levy, Georgetown University \\
 Rafael Meza, University of Michigan \\
 Richard O’Connor, Roswell Park Comprehensive Cancer Center \\
-Jennifer Pearson, University of Nevada-Reno \\
 Barbara Schillo, Truth Initiative \\
 Jody Sindelar, Yale University \\
 Andrew Strasser, University of Pennsylvania \\
