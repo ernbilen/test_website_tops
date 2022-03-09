@@ -28,6 +28,7 @@ Michael Eriksen, Georgia State University <img src="https://img.icons8.com/fluen
 Jean-François Etter, University of Geneva  <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@etterjf](https://twitter.com/etterjf) \\
 Matthew Farrelly, RTI International  \\
 Geoffrey Fong, University of Waterloo <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@gfong570](https://twitter.com/gfong570) \\
+Abigail Friedman, Yale University \\
 Maciej Goniewicz, Roswell Park Comprehensive Cancer Center \\
 Emmanuel Guindon, McMaster University \\
 Scott Halpern, University of Pennsylvania <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@ScottHalpernMD](https://twitter.com/ScottHalpernMD) \\
