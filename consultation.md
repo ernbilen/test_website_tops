@@ -11,3 +11,6 @@ TOPS administrators will review requests for appropriateness and match the reque
 
 ## What if You Need Additional Help Beyond the Free Consultation
 The consultation expert will attempt to provide resources that could be useful for future work, or names of researchers who the requestor may contact independently of TOPS to inquire about serving as a co-author or paid consultant.
+
+## How to Request Services
+Please complete all fields of the [TOPS Consultation Services Request Form](https://form.jotform.com/220683439526057).
