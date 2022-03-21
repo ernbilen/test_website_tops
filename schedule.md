@@ -1,6 +1,8 @@
 ## Schedule
 
-The schedule is updated regularly as new seminars are added to the series. The Spring/Summer series schedule will be released shortly - please stay tuned!
+The schedule is updated regularly as new seminars are added to the series. 
+
+The Spring/Summer series schedule will be released shortly - please stay tuned!
 
 [Register](https://gsu-edu.zoom.us/webinar/register/WN_QBxCQ1owTFumB3iTSzPAjA) for our next TOPS event:
 
