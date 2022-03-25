@@ -19,12 +19,6 @@ The schedule is updated regularly as new seminars are added to the series.
 ![Index](2022.springsummer.png)
 
 
-## Links
-
-- [Schedule](./schedule.md)
-- [Call for Papers](./call.html)
-- [Email List](./email.md)
-- [About](./about.html)
 
 <!--
 - The [AEA list of online seminars](https://www.aeaweb.org/resources/online-seminars)
