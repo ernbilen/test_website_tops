@@ -21,7 +21,11 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
    <td height="30" valign="top" class="paper">Presentation Title: "{{ speaker.Title }}"</td>
 </tr>
-{% if (speaker.Presenter == 'Armando Meier') %}
+{% if (speaker.Presenter == 'Leontine Goldzahl') %}
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Draft }}"> Paper</a></td>
+</tr>
+{% elsif (speaker.Presenter == 'Armando Meier') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.Draft }}">Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (August 2021)</a></td>
 </tr>
@@ -37,7 +41,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}"> Paper</a></td>
 </tr>
-{% elsif (speaker.Presenter == 'Robert West') or (speaker.Presenter == 'Leontine Goldzahl') or (speaker.Presenter == 'Abigail S. Friedman') or (speaker.Presenter == 'Bo Feng') or (speaker.Presenter == 'Rizki Siregar') or (speaker.Presenter == 'Dan Sacks') or (speaker.Presenter == 'Lauren Hoehn-Velasco') %}
+{% elsif (speaker.Presenter == 'Robert West') or (speaker.Presenter == 'Abigail S. Friedman') or (speaker.Presenter == 'Bo Feng') or (speaker.Presenter == 'Rizki Siregar') or (speaker.Presenter == 'Dan Sacks') or (speaker.Presenter == 'Lauren Hoehn-Velasco') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}" download="{{ speaker.Draft }}"> Working Paper</a></td>
 </tr>
