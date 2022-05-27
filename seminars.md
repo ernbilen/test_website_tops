@@ -62,7 +62,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides #1</a>|<a href="{{ speaker.Paper2 }}" download="{{ speaker.Paper2 }}">Slides #2</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper #1</a></td>
 </tr>
 {% elsif (speaker.Presenter == 'Alex Liber') %}
-<tr id='anchor1'>
+<tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}"> Paper #1</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}"> Paper #2</a></td>
 </tr>
 {% elsif (speaker.Presenter == 'Anne Burton') %}
@@ -84,7 +84,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 {% elsif speaker.Presenter == 'John Buckell' %}
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (January 2022)</a></td>
 {% else %}
-<tr>
+<tr id='anchor1'>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a></td>
 </tr>
 {% endif %}
