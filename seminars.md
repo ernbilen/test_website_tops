@@ -42,7 +42,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}"> Paper</a></td>
 </tr>
 {% elsif (speaker.Presenter == 'Robert West') or (speaker.Presenter == 'Abigail S. Friedman') or (speaker.Presenter == 'Bo Feng') or (speaker.Presenter == 'Rizki Siregar') or (speaker.Presenter == 'Dan Sacks') or (speaker.Presenter == 'Lauren Hoehn-Velasco') or (speaker.Presenter == 'Ying Yao') %}
-<tr>
+<tr id='anchor1'>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}" download="{{ speaker.Draft }}"> Working Paper</a></td>
 </tr>
 {% elsif (speaker.Presenter == 'David Hammond') %}
