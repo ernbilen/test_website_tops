@@ -4,4 +4,4 @@ The schedule is updated regularly as new seminars are added to the series.
 
 [Join our email list](https://www.tobaccopolicy.org/email.html) to be notified about upcoming events. [Register](https://gsu-edu.zoom.us/webinar/register/WN_QBxCQ1owTFumB3iTSzPAjA) for the Fall TOPS Series.
 
-![Schedule](2022.fall.png)
+![Schedule](2022.fall.confirmed.png)
