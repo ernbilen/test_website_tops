@@ -57,7 +57,8 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a></td>
 </tr>
-{% elsif (speaker.Presenter == 'Scott Halpern') or (speaker.Presenter == 'Susan Athey, Miguel Hernan, Elizabeth Stuart') or (speaker.Presenter == 'Ce Shang') or (speaker.Presenter == 'Ernest Dorilas') or (speaker.Presenter == 'Kai-Wen Cheng') or (speaker.Presenter == 'Victoria Barone') or (speaker.Presenter == 'Joseph Sabia') or (speaker.Presenter == 'Maxwell Chomas') or (speaker.Presenter == 'Julia Dennett') or (speaker.Presenter == 'Nancy Rigotti') or (speaker.Presenter == 'Erica Mtenga') or (speaker.Presenter == 'Shaoying Ma') %}
+
+{% elsif (speaker.Presenter == 'Scott Halpern') or (speaker.Presenter == 'Ce Shang') or (speaker.Presenter == 'Ernest Dorilas') or (speaker.Presenter == 'Kai-Wen Cheng') or (speaker.Presenter == 'Victoria Barone') or (speaker.Presenter == 'Joseph Sabia') or (speaker.Presenter == 'Maxwell Chomas') or (speaker.Presenter == 'Julia Dennett') or (speaker.Presenter == 'Nancy Rigotti') or (speaker.Presenter == 'Erica Mtenga') or (speaker.Presenter == 'Shaoying Ma') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a></td>
 </tr>
@@ -84,6 +85,10 @@ You can find a list of past seminars with a link to the paper presented and a vi
 {% elsif speaker.Presenter == 'Neal Benowitz, Joanna Cohen, Michael Cummings' %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.ReadingList }}">Reading List</a></td> 
+</tr>
+{% elsif speaker.Presenter == 'Susan Athey, Miguel Hernan, Elizabeth Stuart' %}
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a></td>
 </tr>
 {% elsif speaker.Presenter == 'Paul Rodriguez-Lesmes' %}
 <tr>
