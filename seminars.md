@@ -33,12 +33,16 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.Draft }}">Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (March 2021)</a></td>
 </tr>
+{% elsif (speaker.Presenter == 'Kai-Wen Cheng') %}
+<tr>
+  <td id="kai" colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (August 2022)</a></td>
+</tr>
 {% elsif (speaker.Presenter == 'Christopher Carpenter') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (August 2021)</a></td>
 </tr>
 {% elsif (speaker.Presenter == 'Catherine Maclean') %}
-<tr>
+<tr id="jcm">
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (September 2022)</a></td>
 </tr>
 {% elsif (speaker.Presenter == 'Jamie Hartmann-Boyce') or (speaker.Presenter == 'Aryn Phillips') or (speaker.Presenter == 'Jon Oliver') or (speaker.Presenter == 'Hai Nguyen') or (speaker.Presenter == 'Marcus Munafo') %}
@@ -58,7 +62,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a></td>
 </tr>
 
-{% elsif (speaker.Presenter == 'Scott Halpern') or (speaker.Presenter == 'Ce Shang') or (speaker.Presenter == 'Ernest Dorilas') or (speaker.Presenter == 'Kai-Wen Cheng') or (speaker.Presenter == 'Victoria Barone') or (speaker.Presenter == 'Joseph Sabia') or (speaker.Presenter == 'Maxwell Chomas') or (speaker.Presenter == 'Julia Dennett') or (speaker.Presenter == 'Nancy Rigotti') or (speaker.Presenter == 'Erica Mtenga') or (speaker.Presenter == 'Shaoying Ma') %}
+{% elsif (speaker.Presenter == 'Scott Halpern') or (speaker.Presenter == 'Ce Shang') or (speaker.Presenter == 'Ernest Dorilas')  or (speaker.Presenter == 'Victoria Barone') or (speaker.Presenter == 'Joseph Sabia') or (speaker.Presenter == 'Maxwell Chomas') or (speaker.Presenter == 'Julia Dennett') or (speaker.Presenter == 'Nancy Rigotti') or (speaker.Presenter == 'Erica Mtenga') or (speaker.Presenter == 'Shaoying Ma') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a></td>
 </tr>
@@ -68,7 +72,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 </tr>
 {% elsif (speaker.Presenter == '(1) Arjun Teotia / (2) Daphne Wu') %}
 <tr>
-  <td id="jcm" colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides #1</a>|<a href="{{ speaker.Paper2 }}" download="{{ speaker.Paper2 }}">Slides #2</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper #1</a></td>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides #1</a>|<a href="{{ speaker.Paper2 }}" download="{{ speaker.Paper2 }}">Slides #2</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper #1</a></td>
 </tr>
 {% elsif (speaker.Presenter == 'Alex Liber') %}
 <tr>
