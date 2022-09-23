@@ -74,6 +74,10 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides #1</a>|<a href="{{ speaker.Paper2 }}" download="{{ speaker.Paper2 }}">Slides #2</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper #1</a></td>
 </tr>
+{% elsif (speaker.Presenter == 'Peter Hajek) %}
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.PublishedPaper }}">Published Paper</a></td>
+</tr>
 {% elsif (speaker.Presenter == 'Alex Liber') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}"> Paper #1</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}"> Paper #2</a>|<a href="{{ speaker.Paper2 }}" download="{{ speaker.Paper2 }}"> Paper #3</a></td>
