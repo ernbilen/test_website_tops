@@ -36,7 +36,7 @@ Peter Hajek, Queen Mary University of London \\
 Robert Hornik, University of Pennsylvania \\
 Prabhat Jha, University of Toronto <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@countthedead](https://twitter.com/countthedead) \\
 Mary Kautz, National Institute on Drug Abuse \\
-Brian King, Centers for Disease Control and Prevention – Office on Smoking and Health \\
+Brian King, Food and Drug Administration - Center for Tobacco Products \\
 Ryan Kennedy, Johns Hopkins University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@ryan_david](https://twitter.com/ryan_david) \\
 Tessa Langley, University of Nottingham \\
 David Levy, Georgetown University \\
