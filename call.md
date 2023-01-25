@@ -1,10 +1,10 @@
 ## Call for Papers
 
-We currently accept submissions only from individuals whose primary appointments are at a college/university, research center, or government agency, and for submissions that are not funded by the tobacco industry,1 foundations or consulting organizations they support, or tobacco advocacy organizations.2 ¬
+We currently accept submissions only from individuals whose primary appointments are at a college/university, research center, or government agency, and for submissions that are not funded by the tobacco industry,<span style="vertical-align: baseline; position: relative;top: -0.5em;>1</span> foundations or consulting organizations they support, or tobacco advocacy organizations.<span style="vertical-align: baseline; position: relative;top: -0.5em;>2</span>
  
-1 The tobacco industry refers to any entity that manufactures, distributes, or sells tobacco products, including any parent, affiliate, branch, or subsidiary.
+<span style="vertical-align: baseline; position: relative;top: -0.5em;>1</span> The tobacco industry refers to any entity that manufactures, distributes, or sells tobacco products, including any parent, affiliate, branch, or subsidiary.
  
-2 A tobacco advocacy organization is a not-for-profit, non-governmental organization that uses litigation, lobbying, or public education to influence public policy regarding tobacco products.
+<span style="vertical-align: baseline; position: relative;top: -0.5em;>2</span> A tobacco advocacy organization is a not-for-profit, non-governmental organization that uses litigation, lobbying, or public education to influence public policy regarding tobacco products.
 
 
 [Submission Portal](https://docs.google.com/forms/d/e/1FAIpQLSfZbPQ3fzYBDddCQ7a9Bj3mHfeZOXuhW-rIMcfz5_B4t7N6ag/viewform)
