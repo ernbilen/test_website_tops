@@ -14,9 +14,9 @@ The Tobacco Online Policy Seminar (TOPS) is a free multidisciplinary, internatio
 
 The schedule is updated regularly as new seminars are added to the series. 
 
-[Join our email list](https://www.tobaccopolicy.org/email.html) to be notified about upcoming events. [Register](https://gsu-edu.zoom.us/webinar/register/WN_QBxCQ1owTFumB3iTSzPAjA) for the Fall TOPS Series.
+[Join our email list](https://www.tobaccopolicy.org/email.html) to be notified about upcoming events. [Register](https://gsu-edu.zoom.us/webinar/register/WN_QBxCQ1owTFumB3iTSzPAjA) for the TOPS Series.
 
-![Index](2022.fall.confirmed.png)
+![Index](2023_spring.png)
 
 
 
