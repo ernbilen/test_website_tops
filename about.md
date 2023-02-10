@@ -61,7 +61,7 @@ Theodore Wagener, Ohio State University
 •	Shang: American Heart Association, Bloomberg Philanthropies, Canadian Institutes for Health Research, Food and Drug Administration, National Institutes of Health, Presbyterian Health Foundation, Tobacco Settlement Endowment Trust, World Heart Federation \\
 •	White: Abdul Latif Jameel Poverty Action Lab, Alameda County Public Health Department, American Cancer Society, American Heart Association, California Department of Public Health, Cancer Center UK, Food and Drug Administration, Hellman Family Foundation, International Development Research Centre, National Institutes of Health, Robert Wood Johnson Foundation, Southeast Asia Tobacco Control Alliance, UCOP Tobacco-Related Disease Research Program 
 
-Funding for this conference was made possible, in part, by the Food and Drug Administration through grant 1 R13 FD007554-01. The views expressed in written conference materials or publications and by speakers and moderators do not necessarily reflect the official policies of the Department of Health and Human Services; nor does any mention of trade names, commercial practices, or organization imply endorsements by the United States Government.
+Funding for this conference was made possible, in part, by the Food and Drug Administration through grant R13FD007554. The views expressed in written conference materials or publications and by speakers and moderators do not necessarily reflect the official policies of the Department of Health and Human Services; nor does any mention of trade names, commercial practices, or organization imply endorsements by the United States Government.
 
 
 
