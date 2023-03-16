@@ -5,7 +5,7 @@ The Tobacco Online Policy Seminar (TOPS) is a free multidisciplinary, internatio
 
 ## Executive Board<sup>[*](#myfootnote1)</sup>
 
-Catherine Maclean, Temple University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@JCMecon](https://twitter.com/JCMecon) \\
+Catherine Maclean, George Mason University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@JCMecon](https://twitter.com/JCMecon) \\
 Mike Pesko, Georgia State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko)\\
 Ce Shang, Ohio State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Ce_Shang_HE](https://twitter.com/Ce_Shang_HE) \\
 Justin White, University of California-San Francisco <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite)
