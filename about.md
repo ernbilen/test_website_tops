@@ -11,8 +11,6 @@ Ce Shang, Ohio State University <img src="https://img.icons8.com/fluent/20/00000
 Justin White, University of California-San Francisco <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite)
 
 ## Advisory Board
-Rafael Meza, BC Cancer Research \\
-Matthew Farrelly, Food and Drug Administration - Center for Tobacco Products \\
 Warren Bickel, Virginia Tech \\
 Michelle Bloch, National Cancer Institute \\
 Alison Breland, Virginia Commonwealth University \\
@@ -27,7 +25,7 @@ Jeffrey Drope, University of Illinois at Chicago  \\
 Sherry Emery, University of Chicago – NORC <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@SherryEmery](https://twitter.com/SherryEmery) \\
 Michael Eriksen, Georgia State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@MPEriksen](https://twitter.com/MPEriksen) \\
 Jean-François Etter, University of Geneva  <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@etterjf](https://twitter.com/etterjf) \\
-Matthew Farrelly, RTI International  \\
+Matthew Farrelly, Food and Drug Administration - Center for Tobacco Products  \\
 Geoffrey Fong, University of Waterloo <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@gfong570](https://twitter.com/gfong570) \\
 Abigail Friedman, Yale University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@AFriedmanPhD](https://twitter.com/AFriedmanPhD) \\
 Maciej Goniewicz, Roswell Park Comprehensive Cancer Center \\
@@ -41,7 +39,7 @@ Brian King, Food and Drug Administration - Center for Tobacco Products \\
 Ryan Kennedy, Johns Hopkins University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@ryan_david](https://twitter.com/ryan_david) \\
 Tessa Langley, University of Nottingham \\
 David Levy, Georgetown University \\
-Rafael Meza, University of Michigan \\
+Rafael Meza, BC Cancer Research \\
 Richard O’Connor, Roswell Park Comprehensive Cancer Center \\
 Barbara Schillo, Truth Initiative \\
 Jody Sindelar, Yale University \\
