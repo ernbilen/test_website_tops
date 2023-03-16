@@ -11,7 +11,8 @@ Ce Shang, Ohio State University <img src="https://img.icons8.com/fluent/20/00000
 Justin White, University of California-San Francisco <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite)
 
 ## Advisory Board
-
+Rafael Meza, BC Cancer Research \\
+Matthew Farrelly, Food and Drug Administration - Center for Tobacco Products \\
 Warren Bickel, Virginia Tech \\
 Michelle Bloch, National Cancer Institute \\
 Alison Breland, Virginia Commonwealth University \\
