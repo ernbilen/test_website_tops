@@ -45,6 +45,10 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (December 2022)</a></td>
 </tr>
+{% elsif (speaker.Presenter == 'Dhaval Dave') %}
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (July 2023)</a></td>
+</tr>
 {% elsif (speaker.Presenter == 'Abigail S. Friedman') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (January 2023)</a></td>
@@ -57,7 +61,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}"> Paper</a></td>
 </tr>
-{% elsif (speaker.Presenter == 'Robert West')  or (speaker.Presenter == 'Rizki Siregar') or (speaker.Presenter == 'Dan Sacks') or (speaker.Presenter == 'Ying Yao') or (speaker.Presenter == 'Rachana Bhatt') or (speaker.Presenter == 'Dhaval Dave') or (speaker.Presenter == 'Katherine Meckel') or (speaker.Presenter == 'Aisha Baisalova') or (speaker.Presenter == 'Chad Cotti') or (speaker.Presenter == 'Vinish Shrestha')%}
+{% elsif (speaker.Presenter == 'Robert West')  or (speaker.Presenter == 'Rizki Siregar') or (speaker.Presenter == 'Dan Sacks') or (speaker.Presenter == 'Ying Yao') or (speaker.Presenter == 'Rachana Bhatt') or (speaker.Presenter == 'Katherine Meckel') or (speaker.Presenter == 'Aisha Baisalova') or (speaker.Presenter == 'Chad Cotti') or (speaker.Presenter == 'Vinish Shrestha')%}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}" download="{{ speaker.Draft }}"> Working Paper</a></td>
 </tr>
