@@ -4,10 +4,10 @@ The Tobacco Online Policy Seminar (TOPS) is a free multidisciplinary, internatio
 [**TOPS Video Introduction**](https://youtu.be/EAtI1YA4ldU)
 
 ## Executive Board<sup>[*](#myfootnote1)</sup>
-Director: Mike Pesko, Georgia State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko)\\
+Director: Mike Pesko, Georgia State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko) \\
 Ce Shang, Ohio State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Ce_Shang_HE](https://twitter.com/Ce_Shang_HE) \\
-Jamie Hartmann-Boyce, University of Oxford <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@jhb19](https://twitter.com/jhb19)\\
-Michael Darden, <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Hopkins_Econ](https://twitter.com/Hopkins_Econ)
+Jamie Hartmann-Boyce, University of Oxford <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@jhb19](https://twitter.com/jhb19) \\
+Michael Darden, <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Hopkins_Econ](https://twitter.com/Hopkins_Econ) \\
 
 ## Advisory Board
 Warren Bickel, Virginia Tech \\
@@ -46,13 +46,13 @@ Andrew Strasser, University of Pennsylvania \\
 Andy Tan, University of Pennsylvania <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Andy_SL_Tan](https://twitter.com/Andy_SL_Tan)\\
 James Thrasher, University of South Carolina \\
 Dana van Bemmel, Food and Drug Administration - Center for Tobacco Products\\
-Theodore Wagener, Ohio State University
+Theodore Wagener, Ohio State University \\
 
 ## Founding Members
 Catherine Maclean, George Mason University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@JCMecon](https://twitter.com/JCMecon) \\
-Mike Pesko, Georgia State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko)\\
+Mike Pesko, Georgia State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko) \\
 Ce Shang, Ohio State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Ce_Shang_HE](https://twitter.com/Ce_Shang_HE) \\
-Justin White, University of California-San Francisco <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite)
+Justin White, University of California-San Francisco <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite) \\
 
 <br><br>
 
