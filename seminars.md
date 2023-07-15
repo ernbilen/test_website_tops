@@ -36,6 +36,11 @@ You can find a list of past seminars with a link to the paper presented and a vi
 {% elsif (speaker.Presenter == 'Kai-Wen Cheng') %}
 <tr>
   <td id="kai" colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (August 2022)</a></td>
+
+{% elsif (speaker.Presenter == 'Brian King') %}
+<tr>
+  <td id="kai" colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.PanelQuestion }}" download="{{ speaker.PanelQuestion }}">Panel Question</a></td>
+
 </tr>
 {% elsif (speaker.Presenter == 'Andrea Titus') %}
 <tr>
