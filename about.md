@@ -4,7 +4,7 @@ The Tobacco Online Policy Seminar (TOPS) is a free multidisciplinary, internatio
 [**TOPS Video Introduction**](https://youtu.be/EAtI1YA4ldU)
 
 ## Executive Board<sup>[*](#myfootnote1)</sup>
-Director: Mike Pesko, Georgia State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko) \\
+Director: Mike Pesko, University of Missouri <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko) \\
 Member: Michael Darden, Johns Hopkins University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Hopkins_Econ](https://twitter.com/Hopkins_Econ) \\
 Member: Jamie Hartmann-Boyce, University of Oxford <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@jhb19](https://twitter.com/jhb19) \\
 Member: Ce Shang, Ohio State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Ce_Shang_HE](https://twitter.com/Ce_Shang_HE) 
@@ -51,7 +51,7 @@ Theodore Wagener, Ohio State University
 
 ## Founding Members
 Catherine Maclean, George Mason University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@JCMecon](https://twitter.com/JCMecon) \\
-Mike Pesko, Georgia State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko) \\
+Mike Pesko, University of Missouri <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko) \\
 Ce Shang, Ohio State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Ce_Shang_HE](https://twitter.com/Ce_Shang_HE) \\
 Justin White, University of California-San Francisco <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite) 
 
