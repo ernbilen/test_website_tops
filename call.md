@@ -1,4 +1,4 @@
-## Call for Papers
+## Call for Papers / Nominations
 
 We currently accept submissions only from individuals whose primary appointments are at a college/university, research center, or government agency, and for submissions that are not funded by the tobacco industry,<sup>1</sup> foundations or consulting organizations they support, or tobacco advocacy organizations.<sup>2</sup>
  
@@ -9,7 +9,8 @@ We currently accept submissions only from individuals whose primary appointments
 
 [Submission Portal](https://docs.google.com/forms/d/e/1FAIpQLSfZbPQ3fzYBDddCQ7a9Bj3mHfeZOXuhW-rIMcfz5_B4t7N6ag/viewform)
 
- 
+[Nomination Portal](https://forms.gle/RxnyWKCXAnnqm7818)
+
 Presentations may take one of three formats: 1) traditional single-paper presentations, 2) workshops that describe new tools or methods that are relevant to tobacco policy researchers, or 3) grand rounds presentations that discuss a series of (typically 2-3) thematically related papers. Papers may be unpublished work or recently published work.
 
  
