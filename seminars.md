@@ -66,7 +66,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr id="jcm">
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (September 2022)</a></td>
 </tr>
-{% elsif (speaker.Presenter == 'Jamie Hartmann-Boyce') or (speaker.Presenter == 'Aryn Phillips') or (speaker.Presenter == 'Jon Oliver') or (speaker.Presenter == 'Hai Nguyen') or (speaker.Presenter == 'Marcus Munafo') or (speaker.Presenter == 'Matthew Stone') or (speaker.Presenter == 'Michael Pesko') or (speaker.Presenter == 'Bukola Usidame')  or (speaker.Presenter == 'Andrea Titus') or (speaker.Presenter == 'Vidhura Tennekoon')  %}
+{% elsif (speaker.Presenter == 'Jamie Hartmann-Boyce') or (speaker.Presenter == 'Aryn Phillips') or (speaker.Presenter == 'Jon Oliver') or (speaker.Presenter == 'Hai Nguyen') or (speaker.Presenter == 'Marcus Munafo') or (speaker.Presenter == 'Matthew Stone') or (speaker.Presenter == 'Michael Pesko') or (speaker.Presenter == 'Bukola Usidame')  or (speaker.Presenter == 'Andrea Titus') or (speaker.Presenter == 'Vidhura Tennekoon') or (speaker.Presenter == 'Melanie Dove')  %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}"> Paper</a></td>
 </tr>
