@@ -7,8 +7,8 @@ We currently only accept submissions in which the proposed presenter’s primary
 <sup>2</sup>  A tobacco advocacy organization is a not-for-profit, non-governmental organization that uses litigation, lobbying, or public education to influence public policy regarding tobacco products.
 
 
-[![Submission Form](submission_form.jpg)](https://docs.google.com/forms/d/e/1FAIpQLSfZbPQ3fzYBDddCQ7a9Bj3mHfeZOXuhW-rIMcfz5_B4t7N6ag/viewform){:.centered}
-[![Nomination Form](nomination_form.jpg)](https://forms.gle/RxnyWKCXAnnqm7818){:.centered}
+<p>[![Submission Form](submission_form.jpg)](https://docs.google.com/forms/d/e/1FAIpQLSfZbPQ3fzYBDddCQ7a9Bj3mHfeZOXuhW-rIMcfz5_B4t7N6ag/viewform){:.centered}
+<p>[![Nomination Form](nomination_form.jpg)](https://forms.gle/RxnyWKCXAnnqm7818){:.centered}
 
 
 
