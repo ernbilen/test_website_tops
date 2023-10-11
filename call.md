@@ -6,7 +6,7 @@ We currently only accept submissions in which the proposed presenter’s primary
  
 <sup>2</sup>  A tobacco advocacy organization is a not-for-profit, non-governmental organization that uses litigation, lobbying, or public education to influence public policy regarding tobacco products.
 
-<center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZbPQ3fzYBDddCQ7a9Bj3mHfeZOXuhW-rIMcfz5_B4t7N6ag/viewform"><img src="submission_form.jpg"></a><a href="https://forms.gle/RxnyWKCXAnnqm7818"><img src="nomination_form.jpg"></a></center>
+<center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZbPQ3fzYBDddCQ7a9Bj3mHfeZOXuhW-rIMcfz5_B4t7N6ag/viewform"><img src="submission_form.jpg"></a><a href="https://forms.gle/RxnyWKCXAnnqm7818"><img src="nomination_form1.jpg"></a></center>
 
 
 Presentations may take one of three formats: 1) traditional single-paper presentations, 2) workshops that describe new tools or methods that are relevant to tobacco policy researchers, or 3) grand rounds presentations that discuss a series of (typically 2-3) thematically related papers. Papers may be unpublished work or recently published work.
