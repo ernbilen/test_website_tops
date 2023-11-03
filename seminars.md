@@ -70,7 +70,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}"> Paper</a></td>
 </tr>
-{% elsif (speaker.Presenter == 'Robert West')  or (speaker.Presenter == 'Rizki Siregar') or (speaker.Presenter == 'Dan Sacks') or (speaker.Presenter == 'Ying Yao') or (speaker.Presenter == 'Rachana Bhatt') or (speaker.Presenter == 'Katherine Meckel') or (speaker.Presenter == 'Aisha Baisalova') or (speaker.Presenter == 'Chad Cotti') or (speaker.Presenter == 'Vinish Shrestha') or (speaker.Presenter == 'Russell Leonard')  or (speaker.Presenter == 'Kathleen Hui') %}
+{% elsif (speaker.Presenter == 'Robert West')  or (speaker.Presenter == 'Rizki Siregar') or (speaker.Presenter == 'Dan Sacks') or (speaker.Presenter == 'Ying Yao') or (speaker.Presenter == 'Rachana Bhatt') or (speaker.Presenter == 'Katherine Meckel') or (speaker.Presenter == 'Aisha Baisalova') or (speaker.Presenter == 'Chad Cotti') or (speaker.Presenter == 'Vinish Shrestha') or (speaker.Presenter == 'Russell Leonard')  or (speaker.Presenter == 'Kathleen Hui') or (speaker.Presenter == 'Abigail Friedman') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}" download="{{ speaker.Draft }}"> Working Paper</a></td>
 </tr>
