@@ -1,6 +1,6 @@
 ## Call for Papers / Nominations
 
-We currently only accept submissions in which the proposed presenter’s primary (and active) affiliation  are at a college/university, research center, or government agency, and for submissions that are not funded by the tobacco industry,<sup>1</sup> foundations or consulting organizations they support, or tobacco advocacy organizations.<sup>2</sup>
+We currently only accept submissions from presenters with a primary (and active) affiliation at a college/university, research center, or government agency, and for submissions that are not funded by the tobacco industry,<sup>1</sup> foundations or consulting organizations they support, or tobacco advocacy organizations.<sup>2</sup>
  
 <sup>1</sup>  The tobacco industry refers to any entity that manufactures, distributes, or sells tobacco products, including any parent, affiliate, branch, or subsidiary.
  
