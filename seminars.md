@@ -107,6 +107,10 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}"> Paper #1</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}"> Paper #2</a>|<a href="{{ speaker.Paper2 }}" download="{{ speaker.Paper2 }}"> Paper #3</a>|<a href="{{ speaker.Draft2 }}" download="{{ speaker.Draft2 }}"> Paper #4</a></td>
 </tr>
+{% elsif (speaker.Presenter == 'Lucy Popova') %}
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}"> Paper #1</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}"> Paper #2</a>|<a href="{{ speaker.Paper2 }}" download="{{ speaker.Paper2 }}"> Paper #3</a>|<a href="{{ speaker.Draft2 }}" download="{{ speaker.Draft2 }}"> Paper #4</a>|<a href="{{ speaker.ReadingList }}" download="{{ speaker.ReadingList }}"> Paper #5</a>|<a href="{{ speaker.MorePaper }}" download="{{ speaker.MorePaper }}"> Paper #6</a></td>
+</tr>
 {% elsif (speaker.Presenter == 'Anne Burton') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.Draft }}" download="{{ speaker.Draft }}">Working Paper</a></td>
