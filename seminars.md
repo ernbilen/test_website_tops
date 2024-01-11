@@ -66,11 +66,11 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr id="jcm">
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (September 2022)</a></td>
 </tr>
-{% elsif (speaker.Presenter == 'Jamie Hartmann-Boyce') or (speaker.Presenter == 'Aryn Phillips') or (speaker.Presenter == 'Jon Oliver') or (speaker.Presenter == 'Hai Nguyen') or (speaker.Presenter == 'Marcus Munafo') or (speaker.Presenter == 'Matthew Stone') or (speaker.Presenter == 'Michael Pesko') or (speaker.Presenter == 'Bukola Usidame')  or (speaker.Presenter == 'Andrea Titus') or (speaker.Presenter == 'Vidhura Tennekoon') or (speaker.Presenter == 'Melanie Dove') or (speaker.Presenter == 'Julia Dennett') %}
+{% elsif (speaker.Presenter == 'Jamie Hartmann-Boyce') or (speaker.Presenter == 'Aryn Phillips') or (speaker.Presenter == 'Jon Oliver') or (speaker.Presenter == 'Hai Nguyen') or (speaker.Presenter == 'Marcus Munafo') or (speaker.Presenter == 'Matthew Stone') or (speaker.Presenter == 'Michael Pesko') or (speaker.Presenter == 'Bukola Usidame')  or (speaker.Presenter == 'Andrea Titus') or (speaker.Presenter == 'Vidhura Tennekoon') or (speaker.Presenter == 'Melanie Dove') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}"> Paper</a></td>
 </tr>
-{% elsif (speaker.Presenter == 'Robert West')  or (speaker.Presenter == 'Rizki Siregar') or (speaker.Presenter == 'Dan Sacks') or (speaker.Presenter == 'Ying Yao') or (speaker.Presenter == 'Rachana Bhatt') or (speaker.Presenter == 'Katherine Meckel') or (speaker.Presenter == 'Aisha Baisalova') or (speaker.Presenter == 'Chad Cotti') or (speaker.Presenter == 'Vinish Shrestha') or (speaker.Presenter == 'Russell Leonard')  or (speaker.Presenter == 'Kathleen Hui') or (speaker.Presenter == 'Abigail Friedman') %}
+{% elsif (speaker.Presenter == 'Rizki Siregar') or (speaker.Presenter == 'Dan Sacks') or (speaker.Presenter == 'Ying Yao') or (speaker.Presenter == 'Rachana Bhatt') or (speaker.Presenter == 'Katherine Meckel') or (speaker.Presenter == 'Aisha Baisalova') or (speaker.Presenter == 'Chad Cotti') or (speaker.Presenter == 'Vinish Shrestha') or (speaker.Presenter == 'Russell Leonard')  or (speaker.Presenter == 'Kathleen Hui') or (speaker.Presenter == 'Abigail Friedman') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}" download="{{ speaker.Draft }}"> Working Paper</a></td>
 </tr>
@@ -83,7 +83,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a></td>
 </tr>
 
-{% elsif (speaker.Presenter == 'Scott Halpern') or (speaker.Presenter == 'Ce Shang') or (speaker.Presenter == 'Ernest Dorilas')  or (speaker.Presenter == 'Victoria Barone') or (speaker.Presenter == 'Joseph Sabia') or (speaker.Presenter == 'Maxwell Chomas') or (speaker.Presenter == 'Nancy Rigotti') or (speaker.Presenter == 'Erica Mtenga') or (speaker.Presenter == 'Shaoying Ma') or (speaker.Presenter == 'Charles Courtemanche') or (speaker.Presenter == 'Hojin Park') or (speaker.Presenter == 'Revathy Suryanarayana') or (speaker.Presenter == 'Kevin Callison') or (speaker.Presenter == 'Megan Piper') or (speaker.Presenter == 'Alex Liber') or (speaker.Presenter == 'Theodore Wagener') or (speaker.Presenter == 'Christian Saenz') %}
+{% elsif (speaker.Presenter == 'Scott Halpern')  or (speaker.Presenter == 'Victoria Barone') or (speaker.Presenter == 'Maxwell Chomas') or (speaker.Presenter == 'Nancy Rigotti') or (speaker.Presenter == 'Erica Mtenga') or (speaker.Presenter == 'Shaoying Ma') or (speaker.Presenter == 'Charles Courtemanche') or (speaker.Presenter == 'Hojin Park') or (speaker.Presenter == 'Revathy Suryanarayana') or (speaker.Presenter == 'Kevin Callison') or (speaker.Presenter == 'Megan Piper') or (speaker.Presenter == 'Alex Liber') or (speaker.Presenter == 'Theodore Wagener') or (speaker.Presenter == 'Christian Saenz') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a></td>
 </tr>
@@ -129,14 +129,38 @@ You can find a list of past seminars with a link to the paper presented and a vi
 </tr>
 {% elsif speaker.Presenter == 'Susan Athey, Miguel Hernan, Elizabeth Stuart' %}
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a></td>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a> </td>
 </tr>
 {% elsif speaker.Presenter == 'Paul Rodriguez-Lesmes' %}
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}" download="{{ speaker.Draft }}">Working Paper #1</a>|<a href="{{ speaker.Draft2 }}" download="{{ speaker.Draft2 }}">Working Paper #2</a></td>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}" download="{{ speaker.Draft }}">Working Paper #1</a>|<a href="{{ speaker.Draft2 }}" download="{{ speaker.Draft2 }}">Working Paper #2</a>|<a href="{{ speaker.PublishedPaper}}" download="{{ speaker.PublishedPaper }}">Published Paper (January 2023)</a> </td>
 </tr>
 {% elsif speaker.Presenter == 'John Buckell' %}
+<tr>
   <td id="anchor1" colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (January 2022)</a></td>
+</tr>
+{% elsif speaker.Presenter == 'Ce Shang' %}
+<tr>
+  <td id="anchor1" colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (July 2022)</a></td>
+</tr>
+{% elsif speaker.Presenter == 'Ernest Dorilas' %}
+<tr>
+  <td id="anchor1" colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (March 2022)</a></td>
+</tr>
+{% elsif speaker.Presenter == 'Joseph Sabia' %}
+<tr>
+  <td id="anchor1" colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (December 2023)</a></td>
+</tr>
+{% elsif speaker.Presenter == 'Robert West' %}
+<tr>
+  <td id="anchor1" colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft}}" download="{{ speaker.Draft }}">Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (March 2022)</a></td>
+</tr>
+{% elsif speaker.Presenter == 'Julia Dennett' %}
+<tr>
+  <td id="anchor1" colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (May 2023)</a></td>  
+</tr>  
+  
+  
 {% else %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a></td>
