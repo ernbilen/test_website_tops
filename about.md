@@ -20,7 +20,7 @@ Frank Chaloupka, University of Illinois-Chicago \\
 Kenneth Michael Cummings, Medical University of South Carolina \\
 Dhaval Dave, Bentley University \\
 Cristine Delnevo, Rutgers University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@CrisDelnevo](https://twitter.com/CrisDelnevo)\\
-Jeffrey Drope, University of Illinois at Chicago  \\
+Jeffrey Drope, Johns Hopkins University \\
 Sherry Emery, University of Chicago – NORC <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@SherryEmery](https://twitter.com/SherryEmery) \\
 Michael Eriksen, Georgia State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@MPEriksen](https://twitter.com/MPEriksen) \\
 Jean-François Etter, University of Geneva  <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@etterjf](https://twitter.com/etterjf) \\
