@@ -45,7 +45,6 @@ Jody Sindelar, Yale University \\
 Andrew Strasser, University of Pennsylvania \\
 Andy Tan, University of Pennsylvania <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Andy_SL_Tan](https://twitter.com/Andy_SL_Tan)\\
 James Thrasher, University of South Carolina \\
-Dana van Bemmel, Food and Drug Administration - Center for Tobacco Products\\
 Theodore Wagener, Ohio State University 
 
 ## Founding Members
