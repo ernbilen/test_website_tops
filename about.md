@@ -60,8 +60,8 @@ Justin White, University of California-San Francisco <img src="https://img.icons
 <a name="myfootnote1">*</a>: Each executive board member is committed to carrying out a strong research program free of tobacco industry influence. To this end, executive board members agree to accept no funding (including payment or reimbursement) or formal participation (e.g., board membership) with the tobacco industry, foundations they support, or individuals or entities that currently consult for the tobacco industry. We define the tobacco industry as any company that manufactures commercial tobacco products or is owned in part or in whole by a commercial tobacco manufacturer. We also agree to list all current and historical funding related to tobacco below. Any legally required payments from the tobacco industry (e.g., court depositions) will be disclosed below and donated to an anti-tobacco cause.
 
 •	Pesko: National Institutes of Health, Food and Drug Administration, American Cancer Society, Centers for Disease Control and Prevention, World Health Organization, Agency for Healthcare Research and Quality, Virginia Foundation for Healthy Youth, Health Canada, and the University of Kentucky’s Institute for the Study of Free Enterprise \\
-•	Darden: Johns Hopkins University \\
-•	Hartmann-Boyce: National Institute of Health and Care Research, Cancer Research UK, the University of Oxford, Cochrane, and the British Heart Foundation \\
+•	Darden: None \\
+•	Hartmann-Boyce: National Institute of Health and Care Research (UK), Cancer Research UK, Cochrane, the British Heart Foundation, the National Institutes of Health Research, the US Food and Drug Administration, the Truth Initiative, and the World Health Organization \\
 •	Shang: American Heart Association, Bloomberg Philanthropies, Canadian Institutes for Health Research, Food and Drug Administration, National Institutes of Health, Presbyterian Health Foundation, Tobacco Settlement Endowment Trust, World Heart Federation 
 
 
