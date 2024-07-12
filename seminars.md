@@ -136,7 +136,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 </tr>
 {% elsif speaker.Presenter == 'Paul Rodriguez-Lesmes' %}
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}" download="{{ speaker.Draft }}">Working Paper #1</a>|<a href="{{ speaker.Draft2 }}" download="{{ speaker.Draft2 }}">Working Paper #2</a>|<a href="{{ speaker.PublishedPaper}}" download="{{ speaker.PublishedPaper }}">Published Paper (January 2023)</a> </td>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}" download="{{ speaker.Draft }}">Working Paper #1</a>|<a href="{{ speaker.Draft2 }}" download="{{ speaker.Draft2 }}">Working Paper #2</a>|<a href="{{ speaker.PublishedPaper}}" download="{{ speaker.PublishedPaper }}">Published Paper (January 2023)</a>|<a href="{{ speaker.MorePaper}}" download="{{ speaker.MorePaper}}">Published Paper (August 2024)</a> </td> 
 </tr>
 {% elsif speaker.Presenter == 'John Buckell' %}
 <tr>
