@@ -56,10 +56,10 @@ You can find a list of past seminars with a link to the paper presented and a vi
 </tr>
 {% elsif (speaker.Presenter == 'Dhaval Dave') %}
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (July 2023)</a></td>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (July 2023)</a> </td>
 {% elsif (speaker.Presenter == 'Rahi Abouk') %}
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (March 2024)</a></td>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (March 2024)</a>|<a href="{{ speaker.Paper2}}" download="{{ speaker.Paper2 }}">Supplement #1</a>|<a href="{{ speaker.Draft2 }}" download="{{ speaker.Draft2 }}">Supplement #2</a></td>
 </tr>
 {% elsif (speaker.Presenter == 'Abigail S. Friedman') %}
 <tr>
