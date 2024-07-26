@@ -94,7 +94,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper</a></td>
 </tr>
-{% elsif (speaker.Presenter == '(1) Arjun Teotia / (2) Daphne Wu') %}
+{% elsif (speaker.Presenter == '(1) Arjun Teotia / (2) Daphne Wu') or or (speaker.Presenter == 'Nancy Rigotti ') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides #1</a>|<a href="{{ speaker.Paper2 }}" download="{{ speaker.Paper2 }}">Slides #2</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}">Working Paper #1</a></td>
 </tr>
@@ -102,7 +102,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.PublishedPaper }}">Published Paper</a></td>
 </tr>
-{% elsif (speaker.Presenter == 'Alex Liber') or (speaker.Presenter == 'Andrew Barnes') or (speaker.Presenter == 'Nancy Rigotti')%}
+{% elsif (speaker.Presenter == 'Alex Liber') or (speaker.Presenter == 'Andrew Barnes') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}"> Paper #1</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}"> Paper #2</a>|<a href="{{ speaker.Paper2 }}" download="{{ speaker.Paper2 }}"> Paper #3</a></td>
 </tr>
