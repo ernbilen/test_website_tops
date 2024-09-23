@@ -65,7 +65,7 @@ Justin White, University of California-San Francisco <img src="https://img.icons
 •	Shang: American Heart Association, Bloomberg Philanthropies, Canadian Institutes for Health Research, Food and Drug Administration, National Institutes of Health, Presbyterian Health Foundation, Tobacco Settlement Endowment Trust, World Heart Federation 
 
 
-Funding for this conference was made possible, in part, by the Food and Drug Administration through grant R13FD008285. The views expressed in written conference materials or publications and by speakers and moderators do not necessarily reflect the official policies of the Department of Health and Human Services; nor does any mention of trade names, commercial practices, or organization imply endorsements by the United States Government.
+This project is supported by the Food and Drug Administration (FDA) of the U.S. Department of Health and Human Services (HHS) as part of a financial assistance award  [R13FD008285] totaling $50,000 with 50% funded by FDA/HHS and $50,000 amount and 50% funded by non-government source(s). The contents are those of the author(s) and do not necessarily represent the official views of, nor an endorsement, by FDA/HHS, or the U.S. Government.
 
 
 
