@@ -1,0 +1,1598 @@
+﻿WEBVTT
+
+1
+00:00:04.700 --> 00:00:17.330
+Nathalia Machado: Hi, everyone welcome to the tops the tobacco online policy. Seminar. Thank you for joining us. Today. I am Natalia Machado, incoming Postdoc at the University of Oklahoma. Health Sciences Center
+
+2
+00:00:17.720 --> 00:00:33.430
+Nathalia Machado: Tops, is organized by Mike Pisco at University of Missouri, C. Sheng at the Ohio State University, Michael Jordan at John Hopkin University, and Jamie Hartman Boyce at University of Massachusetts. Amherst.
+
+3
+00:00:33.560 --> 00:00:38.630
+Nathalia Machado: the seminar will be 1 h with questions from the Moderator and discussant
+
+4
+00:00:38.670 --> 00:00:48.219
+Nathalia Machado: the audience may post questions and comments in the Q. And a panel, and the moderator will draw from these questions and comments in conversation with the presenter.
+
+5
+00:00:48.300 --> 00:00:54.329
+Nathalia Machado: Please review the guidelines on tobaccopolis.org for acceptable questions.
+
+6
+00:00:54.550 --> 00:00:59.459
+Nathalia Machado: Please keep the questions professional and related to the research being discussed.
+
+7
+00:00:59.540 --> 00:01:10.399
+Nathalia Machado: Questions that meet the seminar series. Guidelines will be shared with the presenter afterwards, even if they are not read aloud, your questions are very much appreciated.
+
+8
+00:01:10.480 --> 00:01:28.680
+Nathalia Machado: This presentation is being video recorded and will be made available along with the presentation slides on the Topps website, tobaccopolicy.org. With that I will turn the presentation over to today's Moderator, Mike Pesco, from the University of Missouri, to introduce our Speaker.
+
+9
+00:01:30.270 --> 00:01:46.040
+Mike Pesko: Today we conclude our summer 2024. Season, with a single paper presentation by Michael Darden, entitled Optimal E-cigarette Policy. When Preferences and internalities are correlated. This presentation was selected via a competitive review process by submission through the Tops website.
+
+10
+00:01:46.770 --> 00:02:10.100
+Mike Pesko: Dr. Michael Darden is an associate professor at the Cary Business School at Johns Hopkins University, the Academic Program Director for the Master of Science in Healthcare Management at the Cary Business School, a faculty research fellow at the National Bureau of Economic Research, and a co-editor of the Journal of Human Resources. He works in the fields of health, Economics, and health econometrics. Dr. Darden, thank you for presenting for us today.
+
+11
+00:02:11.250 --> 00:02:14.499
+Michael Darden: Thanks so much. Mike, just gonna share my slides. Here.
+
+12
+00:02:18.170 --> 00:02:20.202
+Michael Darden: let's see. Okay, great.
+
+13
+00:02:21.010 --> 00:02:41.590
+Michael Darden: yeah. So thanks for inviting me. This is really fun to present in this. In this great series. The title is Optimal E-cigarette Policy. When Preferences and Internalities are correlated. This paper has been published this year in the Journal of Risk and Uncertainty. And despite that, I mean, I think it's great to present it because it highlights an important
+
+14
+00:02:41.690 --> 00:02:56.010
+Michael Darden: important fact, relative risk perceptions and the incorrect relative risk perceptions that, I think you know, justifies further research. And before I get started, I just want to be very clear about what I mean by the title. Here
+
+15
+00:02:56.050 --> 00:03:01.429
+Michael Darden: I'm I'm gonna take an economic framework to the question of e-cigarette policy.
+
+16
+00:03:01.550 --> 00:03:17.019
+Michael Darden: And so when I say optimal, I mean the kind of a optimal in a kind of a utilitarian social welfare framework. When I say, preferences and internalities being correlated, what I'm talking about here are preferences like
+
+17
+00:03:17.020 --> 00:03:32.339
+Michael Darden: substitution patterns between cigarettes and E cigarettes, and when those are correlated with internalities, what I mean by internalities are just systematic mistakes, that people are making when they think about the trade-offs between the 2 goods.
+
+18
+00:03:32.950 --> 00:03:47.199
+Michael Darden: And in particular, I'm going to be talking about incorrect relative risk perceptions. So how should we think about policy when we have correlation between substitution patterns and information stakes
+
+19
+00:03:47.340 --> 00:04:00.619
+Michael Darden: so full disclosure. I've never received any funding from the tobacco industry or any tobacco industry supported organization and funding for this project came from the Cary Business School at Johns Hopkins.
+
+20
+00:04:01.270 --> 00:04:25.279
+Michael Darden: Okay, so we'll do a little bit of an introduction. I have a theoretical model in the paper. I'm just going to sketch that for this presentation. I'll talk about my survey data, and then I'll try to come back to the theory to think about optimal taxation of e-cigarettes. So just to get started and level set in the most recent National Center for Health Statistics data brief on e-cigarettes.
+
+21
+00:04:25.410 --> 00:04:51.280
+Michael Darden: You can see in 2021, about 4 and a half percent of Americans were using e-cigarettes. There's a little bit of variation by sex here. But the real variation that you can notice here is by age. So for those 18 to 2411% using e-cigarettes, and that falls dramatically when you look at people over the age of 45,
+
+22
+00:04:51.350 --> 00:04:59.130
+Michael Darden: 2%. So this age variation is important when you think about optimal taxation. And I'll talk about that in a minute.
+
+23
+00:04:59.690 --> 00:05:23.350
+Michael Darden: Okay, so the paper is going to be about, how should we think about taxing e-cigarettes? And there is considerable variation across the States in answering this question, both in the size of the tax, but also in the style of the tax. So if you look at the green States. They're taxing the wholesale price.
+
+24
+00:05:23.390 --> 00:05:28.400
+Michael Darden: And you can see some variation across states within the Green States.
+
+25
+00:05:28.410 --> 00:05:54.170
+Michael Darden: The Blue States are specific. Per milliliter of E cigarette liquid tax. You can see some variation in those, and then the yellow States are some kind of combination of those things, and then, of course, the Gray States don't have a tax so considerable variation. It's not obvious that we've answered this question.
+
+26
+00:05:54.170 --> 00:06:19.890
+Michael Darden: And there's a policy dilemma that's really interesting for an economist to think about in the context of e-cigarettes is that e-cigarettes may both e-cigarette taxes may both discourage youth initiation. That's a good thing to the extent that we can prevent the initiation. We can prevent addiction to nicotine. In young people. This could have large implications going forward.
+
+27
+00:06:20.590 --> 00:06:26.639
+Michael Darden: but at the same time higher e-cigarette taxes may discourage adult substitution.
+
+28
+00:06:26.760 --> 00:06:43.610
+Michael Darden: And you know, probably that's a bad thing. If we think that smokers moving cigarette smokers moving to e-cigarettes would be a would be a healthier alternative. So one thing I want to make really clear today, I'm going to be talking about adults here.
+
+29
+00:06:43.640 --> 00:07:04.130
+Michael Darden: I think the argument for e-cigarette taxes, at least as they apply to young people, is pretty straightforward, and I think higher e-cigarette taxes any kind of modeling that I could do for you here in the talk today would suggest higher e-cigarette taxes for young people.
+
+30
+00:07:04.130 --> 00:07:27.650
+Michael Darden: So I'm going to be focusing on adults and specifically adult smokers, because this is really an area where you might argue for lower e-cigarette taxes. And so I'm going to think about again the correlation between preferences and internalities amongst adult cigarette smokers, and then at the end, I'll talk a little bit about adult former cigarette smokers.
+
+31
+00:07:27.820 --> 00:07:40.999
+Michael Darden: But just to be clear for young people. I think there's a very strong argument for for e-cigarette taxes. Okay? So a little bit of background as an economist, why do we want to tax something? In the 1st place.
+
+32
+00:07:41.330 --> 00:08:04.460
+Michael Darden: you know, good, solidly grounded rationales for any kind of taxation would be 1st and foremost externalities. The existence of costs borne by those external to a market. In the case of cigarettes there's some obvious examples here of secondhand smoke, but also higher healthcare expenditures that are not baked into insurance premiums
+
+33
+00:08:04.500 --> 00:08:13.979
+Michael Darden: of the smokers themselves. And so we've got externalities. It's a little less clear about the externality argument in the context of E. Cigarettes.
+
+34
+00:08:14.010 --> 00:08:20.110
+Michael Darden: But what you see a lot of arguments about where e-cigarettes are internalities. Okay, internalities.
+
+35
+00:08:20.120 --> 00:08:26.719
+Michael Darden: costs imposed on oneself through systematic, non-optimizing behavior.
+
+36
+00:08:26.810 --> 00:08:41.580
+Michael Darden: And and the classic example of this is time and consistency in which someone who is addicted to nicotine says, I really want to stop. I really want to quit. Maybe I'll quit tomorrow. Maybe maybe I'll quit tomorrow.
+
+37
+00:08:41.950 --> 00:09:05.679
+Michael Darden: I'm not going to quit today. Maybe I'll quit tomorrow. Tomorrow comes, and they're unable to kind of follow through with that plan of action. So good. Good. I think, evidence that there's some time inconsistency problems here that might justify some taxation. I'm going to focus on imperfect information in this paper, and I want to be very specific about what I what I mean here. So
+
+38
+00:09:05.910 --> 00:09:14.240
+Michael Darden: here's here's some data from hints, the the large cross-sectional survey of the United States.
+
+39
+00:09:14.300 --> 00:09:21.989
+Michael Darden: And the question, is posed to respondents was compared to smoking cigarettes.
+
+40
+00:09:22.230 --> 00:09:26.260
+Michael Darden: Would you say that electronic cigarettes are
+
+41
+00:09:26.990 --> 00:09:33.710
+Michael Darden: much less harmful, less harmful, just as harmful, more harmful, much more harmful. Or I I don't know.
+
+42
+00:09:34.246 --> 00:09:35.789
+Michael Darden: We're missing, I guess.
+
+43
+00:09:36.080 --> 00:09:44.770
+Michael Darden: and what you can see the blue lines if we focus on the blue lines here. Those are from the 2020 hints survey.
+
+44
+00:09:45.070 --> 00:09:55.840
+Michael Darden: And what you can see is that you know 12.5 12.7% of respondents say that e-cigarettes are more harmful than cigarettes.
+
+45
+00:09:55.960 --> 00:10:18.479
+Michael Darden: and 15% say much more harmful than traditional cigarettes. 34% say just as harmful as traditional cigarettes. And so I'm going to argue in this paper that this is a significant fraction of people that are probably getting this question wrong.
+
+46
+00:10:18.510 --> 00:10:30.499
+Michael Darden: at least on average. Furthermore, this is something that has been around, you know, pre, the valley scare. So it's not just the valley scare that caused this
+
+47
+00:10:30.952 --> 00:10:46.429
+Michael Darden: and if anything, between 2014 and 2020, you can actually see the proportion of people who are saying something incorrect, certainly on the more harmful and much more harmful to be growing. So
+
+48
+00:10:46.600 --> 00:10:51.600
+Michael Darden: we, I'm gonna look at this and say that we have a we have a a group of people
+
+49
+00:10:51.630 --> 00:10:53.260
+Michael Darden: who.
+
+50
+00:10:53.280 --> 00:11:04.469
+Michael Darden: a significant fraction of people who are making incorrect inferences on the relative risks of electronic cigarettes relative to traditional cigarettes.
+
+51
+00:11:04.650 --> 00:11:11.339
+Michael Darden: And you know, I think there is some debate about this. There's some open. It's it's a bit of an open question
+
+52
+00:11:11.410 --> 00:11:20.710
+Michael Darden: as to you know exactly what the medical science is. We don't have lifetimes worth of observational data to look at as we do with cigarettes
+
+53
+00:11:20.750 --> 00:11:28.670
+Michael Darden: on e-cigarettes. But I'll point to 1 1 picture. This is from Alcott and rafkins, 2,022
+
+54
+00:11:28.830 --> 00:11:31.719
+Michael Darden: a Aj. Policy paper.
+
+55
+00:11:32.090 --> 00:11:47.310
+Michael Darden: where they surveyed health professionals, physicians, and other scientists on the relative harms of vaping to smoking, and the question here posed to respondents of their survey again, experts in the science
+
+56
+00:11:47.430 --> 00:12:12.130
+Michael Darden: and the medicine was, if the harms from cigarette smoking, you know, could be normalized to one how harmful is vaping! And what you see is that just almost all of the distribution is to the left of one so less harmful with a significant fraction of people who are, you know, experts who are claiming that e-cigarettes are.
+
+57
+00:12:12.190 --> 00:12:31.379
+Michael Darden: if anything, like much, much less harmful. Of course there are some experts that are, you know, responded greater than one. But the majority of the distribution here is to the left, and you've got a lot of mass in this distribution, you know, around 0 point 2. So like a 5th is bad.
+
+58
+00:12:31.420 --> 00:12:36.610
+Michael Darden: So you know. If you combine this with evidence from the Uk.
+
+59
+00:12:36.690 --> 00:12:44.470
+Michael Darden: where, you know, surveys of experts there say, you know, even like 5% as bad as as traditional cigarettes.
+
+60
+00:12:45.130 --> 00:12:50.780
+Michael Darden: it's pretty clear that there is some disconnect between the medical science and what
+
+61
+00:12:50.790 --> 00:12:55.600
+Michael Darden: individuals, and, you know, survey responses are suggesting.
+
+62
+00:12:55.620 --> 00:13:01.850
+Michael Darden: So just to summarize in the the introduction. What we have is a situation in which cigarette smoking
+
+63
+00:13:01.860 --> 00:13:18.300
+Michael Darden: terrible for health. We all know that has declined dramatically in the United States, and we have fairly robust restrictions and regulations on cigarettes from taxation to indoor smoking laws. T. 21. Laws.
+
+64
+00:13:19.120 --> 00:13:25.879
+Michael Darden: flavor bans advertising bans. So cigarette restrictions and regulations are fairly robust.
+
+65
+00:13:26.210 --> 00:13:33.799
+Michael Darden: E-cigarette use which has relatively uncertain health effects has increased dramatically among young people.
+
+66
+00:13:34.493 --> 00:13:40.569
+Michael Darden: And it also offers a, you know, potentially less harmful alternative for current smokers.
+
+67
+00:13:41.289 --> 00:13:50.459
+Michael Darden: Traditional tobacco producers have obviously embraced e-cigarettes. You know, if you're familiar at all with the kind of ad campaigns that you see out of Philip Morris.
+
+68
+00:13:50.840 --> 00:13:56.050
+Michael Darden: and then, or at least the branding of Philip Morris and and Altria more generally.
+
+69
+00:13:56.630 --> 00:13:58.789
+Michael Darden: and then many smokers.
+
+70
+00:13:59.200 --> 00:14:06.619
+Michael Darden: according to national representative survey evidence, have incorrect information regarding the relative harms of cigarettes and e-cigarettes.
+
+71
+00:14:06.810 --> 00:14:17.490
+Michael Darden: So my hypothesis that I wanted to test in this paper was to think about the implications of the incorrect relative risk perceptions.
+
+72
+00:14:17.570 --> 00:14:22.720
+Michael Darden: And particularly my thinking here is that if you have a smoker
+
+73
+00:14:22.890 --> 00:14:28.320
+Michael Darden: who thinks that e-cigarettes are worse than their current behavior.
+
+74
+00:14:28.810 --> 00:14:42.969
+Michael Darden: then that person is going to be less likely to substitute to e-cigarettes when the relative prices change. Okay? So we think from an economics, perspective, relative prices are what's inducing substitution.
+
+75
+00:14:43.310 --> 00:14:59.860
+Michael Darden: And if a person is incorrectly informed about the relative risks, then the people who are incorrectly informed are going to be less likely to substitute to e-cigarettes, and I want to think about what that implies for optimal taxation.
+
+76
+00:15:00.340 --> 00:15:04.799
+Michael Darden: So the goal in the paper is going to be 1st to identify the correlation
+
+77
+00:15:04.830 --> 00:15:10.209
+Michael Darden: between substitution patterns and biased biased relative risk perceptions.
+
+78
+00:15:10.740 --> 00:15:16.490
+Michael Darden: Then I want to incorporate that observed correlation into a model of optimal taxation.
+
+79
+00:15:16.680 --> 00:15:21.339
+Michael Darden: And I want to simulate the optimal tax under different substitution patterns.
+
+80
+00:15:22.100 --> 00:15:24.169
+Michael Darden: So those are the goals of the paper
+
+81
+00:15:24.570 --> 00:15:37.799
+Michael Darden: and the findings. So I did a survey of smokers. It turns out, actually getting all of these pieces of information together is difficult. So I did a survey of of smokers and some former smokers.
+
+82
+00:15:37.840 --> 00:15:44.430
+Michael Darden: 56% of survey respondents held incorrect beliefs about the relative risks.
+
+83
+00:15:45.382 --> 00:15:54.609
+Michael Darden: Correctly informed smokers. So those who correctly identified the fact that e-cigarettes were less harmful than traditional cigarettes
+
+84
+00:15:54.770 --> 00:16:04.599
+Michael Darden: are 63.4% more likely to respond yes, to a question about whether they'd be open and open to substituting to e-cigarettes
+
+85
+00:16:05.560 --> 00:16:10.309
+Michael Darden: and the big implication here from a tax perspective is that
+
+86
+00:16:10.800 --> 00:16:25.169
+Michael Darden: one argument for low e-cigarette taxes is lots of evidence of substitution between e-cigarettes and cigarettes. But the implication of this correlation is that even when you find evidence of mean substitution that's significant
+
+87
+00:16:26.240 --> 00:16:28.859
+Michael Darden: because of this correlation.
+
+88
+00:16:29.150 --> 00:16:37.329
+Michael Darden: you're seeing an argument for larger e-cigarette taxes, and I'll talk about that more clearly when I get to the results.
+
+89
+00:16:37.712 --> 00:16:45.620
+Michael Darden: Just in terms of the contribution of the paper, you know. So there, so a lot of this is building off of Alcott and Rafkin's great paper
+
+90
+00:16:45.640 --> 00:16:51.619
+Michael Darden: in the Aej policy, and I would recommend anybody who's interested in this stuff to to check that paper out
+
+91
+00:16:52.129 --> 00:16:58.579
+Michael Darden: big literature by a lot, a lot of lot of papers by Mike Pesco and and others
+
+92
+00:16:58.610 --> 00:17:10.309
+Michael Darden: on the trying to identify the substitution parameter between E. Cigarettes and cigarettes. The 1st bullet point lists a number of papers that find fairly robust evidence of substitution.
+
+93
+00:17:10.349 --> 00:17:15.710
+Michael Darden: There is. It's not. It's not completely a slam dunk in the literature. There's some evidence of complementarity.
+
+94
+00:17:15.780 --> 00:17:18.140
+Michael Darden: but that, I would argue, is smaller.
+
+95
+00:17:18.589 --> 00:17:27.610
+Michael Darden: And then the tax implications of the paper, the the optimal e-cigarette tax from Alcon and Rafkin is $3 and 73 cents per milliliter.
+
+96
+00:17:27.981 --> 00:17:34.459
+Michael Darden: I'm going to find bigger effects again because I'm going to build in this correlation between preferences and internalities.
+
+97
+00:17:35.121 --> 00:17:39.450
+Michael Darden: And importantly, even in like in an extreme case.
+
+98
+00:17:39.827 --> 00:17:46.779
+Michael Darden: You know which economists are good at thinking about in an extreme case, where e-cigarettes and cigarettes are perfect substitutes.
+
+99
+00:17:47.510 --> 00:17:52.010
+Michael Darden: Ignoring this heterogeneity, says we should be subsidizing e-cigarettes
+
+100
+00:17:52.200 --> 00:18:05.350
+Michael Darden: to the tune of a dollar and 69 cents per milliliter. But with the heterogeneity, you're going to see that the optimal cigarette tax e-cigarette tax is still positive and considerably higher.
+
+101
+00:18:06.028 --> 00:18:09.809
+Michael Darden: Okay. So moving on quickly, then to the theory.
+
+102
+00:18:10.510 --> 00:18:20.439
+Michael Darden: When building this theory, a lot of it is working off of Alcott and Rafkin. And then Alcott and Rafkin were working off of kind of standard public finance theory
+
+103
+00:18:20.500 --> 00:18:35.600
+Michael Darden: that allowed for behavioral problems. Alcott himself was the one who developed a number of these these papers, these theories kind of in the context of sugary sodas, but also other kind of risky behaviors.
+
+104
+00:18:35.620 --> 00:18:44.120
+Michael Darden: But what we need here is a model that allows for externalities and internalities. Again, we need a rationale for taxation
+
+105
+00:18:44.220 --> 00:18:53.849
+Michael Darden: multiple product categories because we've got E cigarettes and cigarettes. And we also need dynamics because of addiction. So it's not a not an easy theory really to build, to build up
+
+106
+00:18:54.366 --> 00:19:05.429
+Michael Darden: and what this should produce is an optimal e-cigarette tax. That's a function of things that you know, empirical scientists can can try to estimate so that we can use
+
+107
+00:19:07.150 --> 00:19:16.609
+Michael Darden: And so the basic idea with the theory. These are, you know, 2 ways of expressing the same optimization problem. So I'm going to focus on the bottom equation.
+
+108
+00:19:16.810 --> 00:19:26.669
+Michael Darden: And this is just saying that the value of being in state. S. Where S. It's kind of a summary of how much tobacco you've used in the past.
+
+109
+00:19:27.040 --> 00:19:40.110
+Michael Darden: The value is going to be equal to the maximum of this equation. And this equation is saying the utility of the consumption of both everything else and tobacco products. Q.
+
+110
+00:19:41.294 --> 00:19:53.370
+Michael Darden: no, yeah. Excuse me. So the the utility of the tobacco products queue plus the kind of normalized utility that somebody would get from consuming everything else in the world.
+
+111
+00:19:53.740 --> 00:19:59.629
+Michael Darden: plus the discounted present value of the value in the future.
+
+112
+00:19:59.760 --> 00:20:09.839
+Michael Darden: Assuming the person survives to that that future, so the survival probability here is a function of their tobacco use, which is, of course, important when you think about.
+
+113
+00:20:09.930 --> 00:20:12.910
+Michael Darden: you know, selective exits and all and all that stuff.
+
+114
+00:20:13.910 --> 00:20:23.670
+Michael Darden: Okay? So in this context an internality is exactly what it should be from something like intermediate micro. So if you're familiar with intermediate micro.
+
+115
+00:20:23.770 --> 00:20:34.509
+Michael Darden: you know, if you think about the consumption of QY. And Qx. And there's an indifference curve. That kind of meets a point of tangency here at at Point A
+
+116
+00:20:34.860 --> 00:20:42.210
+Michael Darden: at Point A, you know, you've got a situation in which the relative prices are equal to the marginal rate of substitution.
+
+117
+00:20:42.530 --> 00:20:45.160
+Michael Darden: And at Point B. That's not true.
+
+118
+00:20:45.450 --> 00:20:51.660
+Michael Darden: So point B is like on, and like less less optimal as a result of that. And so what you're looking for
+
+119
+00:20:51.750 --> 00:20:59.380
+Michael Darden: with an internality is a situation in which the prices are not equal to the marginal utilities.
+
+120
+00:20:59.500 --> 00:21:12.390
+Michael Darden: And so that's how I'm quantifying an internality here. It's the cost from extra cigarette smoking or e-cigarette usage that's due to some kind of problem, like incorrect information or or time inconsistency.
+
+121
+00:21:13.389 --> 00:21:25.129
+Michael Darden: And so, you know, again, we think about internalities and externalities. So the marginal distortion, the the rationale. For some tax, you know corrective taxation
+
+122
+00:21:25.280 --> 00:21:31.689
+Michael Darden: is the sum of the internalities for good J, and the externalities from good J
+
+123
+00:21:34.167 --> 00:21:43.810
+Michael Darden: and then, from a you know, for a policy perspective, the social planner here is trying to maximize this welfare function is the sum of everybody's utility.
+
+124
+00:21:44.450 --> 00:21:55.710
+Michael Darden: and what you get is a fairly straightforward representation of the optimal tax of e-cigarettes on the left hand side as a function of a bunch of stuff that we can estimate.
+
+125
+00:21:56.120 --> 00:22:12.380
+Michael Darden: And so I'll walk a little bit through the dynamics here. So greater substitution between e-cigarettes and cigarettes suggests lower e-cigarette taxes again, because if we can get people to substitute, we don't want to inhibit their ability to use e-cigarettes.
+
+126
+00:22:13.225 --> 00:22:22.749
+Michael Darden: Speaking of smokers there, greater internalities caused by imperfect information would say, lower E cigarette taxes.
+
+127
+00:22:22.820 --> 00:22:31.190
+Michael Darden: and then greater internalities from time, inconsistency, or, or, you know, greater externalities imply greater e-cigarette taxes.
+
+128
+00:22:31.877 --> 00:22:44.280
+Michael Darden: So going forward, what I'm going to do is is try to get some parameters from survey data. But I think this is a good place to pause for some questions.
+
+129
+00:22:47.660 --> 00:22:53.979
+Mike Pesko: Okay, thank you. Michael. Let's turn it over to our discussant today.
+
+130
+00:22:55.887 --> 00:23:08.010
+Mike Pesko: our discussant today is Dr. Antoine Badev, an economist at the Federal Reserve Board of Governors. Dr. Badev is a structural microeconomist, and has published in the field of social and financial networks.
+
+131
+00:23:09.520 --> 00:23:10.950
+Anton Badev: Thank you very much.
+
+132
+00:23:11.020 --> 00:23:14.402
+Anton Badev: Mike. Thank you very much for the invite to discuss this
+
+133
+00:23:15.070 --> 00:23:21.329
+Anton Badev: very interesting paper. So I have. I would like to offer one remark and one question.
+
+134
+00:23:21.927 --> 00:23:27.830
+Anton Badev: You'll see right away from my remark that I really like the paper, but you know more substantively
+
+135
+00:23:28.728 --> 00:23:30.342
+Anton Badev: you see how?
+
+136
+00:23:31.020 --> 00:23:41.440
+Anton Badev: this is a paper that makes a point that often is or neglected in empirical research, that information and beliefs matter for choices rather than what is the objective tools
+
+137
+00:23:41.460 --> 00:23:42.720
+Anton Badev: so many
+
+138
+00:23:42.780 --> 00:23:44.692
+Anton Badev: in many situations?
+
+139
+00:23:47.660 --> 00:23:56.380
+Anton Badev: This this wedge is is overlooked, but objectively wrong beliefs drive suboptimal choices.
+
+140
+00:23:56.440 --> 00:24:04.970
+Anton Badev: and so here on one side the the issue is well. Can taxes undo these suboptimal choices. But
+
+141
+00:24:05.020 --> 00:24:16.659
+Anton Badev: just to stress the issue, I will. Gonna I will go on on saying that the following, those holding wrong beliefs about the effect of cigarettes versus e-cigarette smoking.
+
+142
+00:24:16.980 --> 00:24:29.350
+Anton Badev: behave as if they face different dollar value prices. So imagine you have a consumer that really goes in the store, but that cannot see the price. For some reason he or she sees a different price.
+
+143
+00:24:29.430 --> 00:24:33.940
+Anton Badev: And and this. You know this, when we translate the
+
+144
+00:24:34.100 --> 00:24:39.180
+Anton Badev: this friction in this way clearly presents, presents an issue.
+
+145
+00:24:42.600 --> 00:24:59.434
+Anton Badev: Now, I, the question that I have is. And Mike, I think, he alluded to this in the beginning, but very briefly. So incorporating, you smoking aspect of optimal taxation to me. And I probably haven't thought as careful as
+
+146
+00:25:00.090 --> 00:25:13.791
+Anton Badev: I should. So incorporating youth, smoking aspect. So in the youth smoking aspect, it's not only the wedge between switching to a less harmful option. But also the public interest is into
+
+147
+00:25:14.820 --> 00:25:18.739
+Anton Badev: holding the initiation as low as possible.
+
+148
+00:25:18.800 --> 00:25:20.520
+Anton Badev: But it
+
+149
+00:25:20.610 --> 00:25:23.980
+Anton Badev: is it obvious? Is it obvious
+
+150
+00:25:24.600 --> 00:25:29.819
+Anton Badev: how the optimal taxation will look like if you are able to differentiate
+
+151
+00:25:30.661 --> 00:25:36.809
+Anton Badev: the taxation by the age. If you can impose one tax for young, and another for adult smokers.
+
+152
+00:25:38.120 --> 00:25:47.870
+Michael Darden: Yeah, I mean, I made the I I spoke at the big. Thank you. That's that's yeah. And so that's it's a really important point I mean, I made. I was. I was. I was briefly trying to make the argument at the beginning that
+
+153
+00:25:47.890 --> 00:26:05.809
+Michael Darden: I think that the case for young potential tobacco users is to have a considerably high e-cigarette tax. And you know, in an ideal world you might want a lower tax for adult
+
+154
+00:26:05.940 --> 00:26:22.240
+Michael Darden: individuals, many of whom are not initiating any tobacco use but for tobacco, for so so for non non tobacco users who are older, we don't see a lot of initiation. So taxes are not going to be preventing any kind of initiation
+
+155
+00:26:22.320 --> 00:26:49.130
+Michael Darden: period. But for adult smokers we might want to lower tax to, you know. Help help with help them substitute away from traditional cigarettes. So I mean, in an ideal world. Yeah, I think you might want different prices in a in a world in which we have to have the same price. I think what's overlooked in this discussion is that what really matters is the relative prices
+
+156
+00:26:49.270 --> 00:27:07.290
+Michael Darden: and and the relative prices. If I was in charge of policy, I would say, sure, let's have high e-cigarette taxes, but really high cigarette taxes, and as a result you would have relative taxes that encourage substitution, but also prevent initiation.
+
+157
+00:27:13.180 --> 00:27:13.900
+Anton Badev: Thank you.
+
+158
+00:27:14.340 --> 00:27:15.470
+Mike Pesko: Nope, okay.
+
+159
+00:27:15.610 --> 00:27:17.660
+Mike Pesko: Anything further? Dr. Badev.
+
+160
+00:27:19.190 --> 00:27:21.630
+Anton Badev: At this point. This is the only question I want to ask.
+
+161
+00:27:21.630 --> 00:27:21.930
+Mike Pesko: Okay?
+
+162
+00:27:22.917 --> 00:27:36.159
+Mike Pesko: So there's a few questions in the Q&A panel. Michael? so 1st question is discouraging. Youth really an unambiguously. Good thing! What are the consequences? How may
+
+163
+00:27:37.510 --> 00:27:41.700
+Mike Pesko: How many of these youth will turn to cigarettes instead? Is that better.
+
+164
+00:27:43.080 --> 00:28:00.940
+Michael Darden: Well, I mean, I think I'm looking at trends there, and you see just a dramatic decline in youth initiation of cigarettes over time. So I think it was 16% at the end of the aughts. And it's now around 9% of young people starting
+
+165
+00:28:01.060 --> 00:28:06.879
+Michael Darden: cigarette smoking. So if we follow that trend out. I mean, I'm speaking more about
+
+166
+00:28:06.930 --> 00:28:17.890
+Michael Darden: the prevention of of initiation for any tobacco usage. And so I mean overwhelmingly. Now, kids who become addicted to nicotine are doing so on
+
+167
+00:28:17.900 --> 00:28:23.730
+Michael Darden: on e-cigarettes. Now, it's not obvious that if in in the long run that the health implications are going to be
+
+168
+00:28:23.800 --> 00:28:35.389
+Michael Darden: as terrible as as cigarettes, which is kind of the point of this paper, but my sense is that the trends are moving away from cigarettes pretty pretty hard.
+
+169
+00:28:36.210 --> 00:28:53.860
+Michael Darden: And again, I mean I, you know, in that spirit of relative prices, right? If we have a relative price of cigarettes that's higher than e-cigarettes, you can both discourage initiation, while also encouraging substitution.
+
+170
+00:28:56.530 --> 00:29:13.070
+Mike Pesko: Okay, I'm gonna paraphrase another question here. I think there's the the question relates to if we could think about e cigarette indoor air laws in a similar way as to how you're discussing E. Cigarette taxes. Would there be any
+
+171
+00:29:13.080 --> 00:29:19.050
+Mike Pesko: implications of your your results in terms of how we could think about other policies like indoor air loss.
+
+172
+00:29:19.920 --> 00:29:22.880
+Michael Darden: Yeah, I mean, I think it depends entirely. Well.
+
+173
+00:29:22.950 --> 00:29:29.040
+Michael Darden: I would say I'm not an expert on that. I think that. It does depend significantly on how.
+
+174
+00:29:29.110 --> 00:29:41.429
+Michael Darden: on the health effects of secondhand vapor vape, you know. E-cigarette usage, secondhand usage. I don't know the answer to that, but my guess is that it's much smaller than secondhand smoke.
+
+175
+00:29:41.660 --> 00:29:57.919
+Michael Darden: But that's a i think that's what would determine. That's what's driving the results. Here is the health implications of e-cigarettes versus traditional cigarettes, and I think in a similar framework, you would want to think about the relative effects of secondhand smoke versus secondhand vapor.
+
+176
+00:30:00.500 --> 00:30:01.365
+Mike Pesko: Okay.
+
+177
+00:30:02.990 --> 00:30:15.540
+Mike Pesko: another question. Do we know how adults are characterizing the harmfulness of e-cigarettes? Could it be that they are thinking that e-cigarettes are just as addictive to youth, and more appealing to youth than cigarettes, so are more harmful.
+
+178
+00:30:16.820 --> 00:30:44.649
+Michael Darden: That's a good question. I will actually show you. That's a really good point, and I can show you some indirect evidence on this. So it is the case that you're going to see that people who I label as having correct beliefs in the sense that they are people who think that e-cigarettes are less harmful, are going to have very different absolute beliefs and not just relative, but absolute longevity, loss beliefs about
+
+179
+00:30:45.028 --> 00:30:50.759
+Michael Darden: about about e-cigarettes versus traditional cigarettes. And so I think I think it is picking up this idea
+
+180
+00:30:50.790 --> 00:30:56.430
+Michael Darden: about health effects rather than kind of some dynamic effects for young people.
+
+181
+00:30:57.810 --> 00:31:07.689
+Mike Pesko: Okay, and somebody's somebody's. Also, I'm gonna paraphrase, wondering, if testimonials from actual vapors if that kind of data could be useful in your
+
+182
+00:31:07.710 --> 00:31:10.830
+Mike Pesko: study. Any thoughts on that.
+
+183
+00:31:11.210 --> 00:31:16.790
+Michael Darden: Yeah, I mean, absolutely. I think so. Yeah, yeah, I mean, you know, there's there's there's a fair bit of
+
+184
+00:31:17.180 --> 00:31:32.489
+Michael Darden: like lingering misinformation as a result of the valley scare. And so I think you know, one of the implications of this is that you could, as as Anton suggested, you know, there is a dollar value of the correction of these of this misinformation.
+
+185
+00:31:32.500 --> 00:31:43.139
+Michael Darden: And so I think you know what we need are innovative ways to correct the misinformation, and, you know, qualitative, experiential kind of stories might might be very helpful.
+
+186
+00:31:43.950 --> 00:31:49.459
+Mike Pesko: Okay, how about you? Move on and we'll save the other questions. For the end.
+
+187
+00:31:49.734 --> 00:31:56.869
+Mike Pesko: If people feel free to add questions. If you have any any remaining questions to the Q&A panel, and we'll get to them. Thanks.
+
+188
+00:31:56.870 --> 00:32:23.616
+Michael Darden: Great, great thanks. Okay, so you know, we've got this tax framework. And we have, we have a hypothesis. So it's time to think about data, and I'll say that there are data sets that offer both e-cigarette cigarette and relative risk perception questions. But they they they lack some of the detail in running your own survey. And so I think, in the spirit of
+
+189
+00:32:24.160 --> 00:32:31.509
+Michael Darden: in economics, you know, survey research has really really taken off lately, thanks to Stephanie, Sancheva and others.
+
+190
+00:32:31.550 --> 00:32:37.030
+Michael Darden: you know, popularizing the idea that you can do randomized experiments within survey contexts.
+
+191
+00:32:37.405 --> 00:32:41.964
+Michael Darden: If you're willing to. You know, play some assumptions on stated preferences. And so
+
+192
+00:32:42.370 --> 00:32:51.620
+Michael Darden: That's the path that I took here. And specifically what I did was I posted a survey on the survey research platform. Prolific.
+
+193
+00:32:51.690 --> 00:33:01.530
+Michael Darden: prolific for those who don't know is A is a platform where thousands and thousands of survey takers can can log in.
+
+194
+00:33:01.570 --> 00:33:21.830
+Michael Darden: and they can observe a set of surveys, and some of them are general surveys. Some of them are specific to certain subpopulations, and if a respondent meets the criteria for that subpopulation. Then they could take that survey as well. These are paid surveys, and so I posted a survey on prolific
+
+195
+00:33:21.830 --> 00:33:46.730
+Michael Darden: offering. It's a 6 6 min survey for current or recent cigarette smokers, and offering an hourly wage of $15 an hour. So the initial sampling was for a sample of 1,000 current smokers. I'll talk about the recent smokers. Sorry I'll talk about the former smokers in a minute.
+
+196
+00:33:47.378 --> 00:33:53.740
+Michael Darden: But the criteria was for current or very recent cigarette smokers.
+
+197
+00:33:54.531 --> 00:33:57.739
+Michael Darden: I was going for 1,000 of them.
+
+198
+00:33:58.010 --> 00:34:16.350
+Michael Darden: and the Survey respondents were asked about beliefs regarding the relative harms as well as some stated preference, experimental results. So I'll talk about that now. The main question that I was asking folks was very was that it was a copy of that from hints.
+
+199
+00:34:16.510 --> 00:34:36.080
+Michael Darden: We'll now ask you about your perceptions of the health effects of tobacco compared to cigarette smoking. Would you say that electronic cigarettes are much less harmful all the way to much more harmful. And I'm going to label, and I do some robustness on this. But I'm going to label incorrect beliefs as equally harmful, more harmful, or much more.
+
+200
+00:34:36.560 --> 00:34:42.699
+Michael Darden: And again, if you think back to Alcott and Rafkin's survey of medical professionals.
+
+201
+00:34:42.750 --> 00:34:56.670
+Michael Darden: you know, 90% of medical professionals were saying that the answer is somewhere between, much less harmful and less harmful. So I think this is a valid characterization of beliefs in this context.
+
+202
+00:34:57.333 --> 00:35:10.669
+Michael Darden: I also asked about absence to get to one of the questions in the Q. And a. I asked about absolute harms. And this is a question that you'll you'll often see. So compared to someone who never uses tobacco.
+
+203
+00:35:10.900 --> 00:35:16.909
+Michael Darden: How many years do you think lifelong tobacco use would take off someone's life?
+
+204
+00:35:17.040 --> 00:35:33.900
+Michael Darden: And so then I asked about lifelong cigarette smoking and lifelong electronic use. Electronic cigarette smoking and respondents were able to kind of move these sliders to their preferred answer. So I'll show you some results on that.
+
+205
+00:35:34.683 --> 00:35:40.599
+Michael Darden: Here's some summary statistics. So overall 56% of the sample
+
+206
+00:35:41.002 --> 00:35:47.707
+Michael Darden: a sample of, I had a final sample of 943 to be clear.
+
+207
+00:35:48.120 --> 00:35:49.130
+Michael Darden: so
+
+208
+00:35:49.250 --> 00:35:54.010
+Michael Darden: 56% of those held incorrect beliefs by my definition.
+
+209
+00:35:54.270 --> 00:36:08.499
+Michael Darden: 43% held correct beliefs if you look at the summary statistics, so there were no statistical difference in daily smoking between these groups.
+
+210
+00:36:08.530 --> 00:36:38.529
+Michael Darden: There was no statistical difference between the proportion of current smokers. Again, the sampling frame here was not current or recent smokers, so almost everyone was a current smoker. No statistical difference between price paid per pack and that sort of thing. But there were big differences in usage of e-cigarettes which, again, isn't surprising, because the way I'm defining correct beliefs here is that you believe that e-cigarettes are less harmful
+
+211
+00:36:39.240 --> 00:36:48.770
+Michael Darden: and so ever tried. E-cigarettes 91% for the correct belief, 86% for the incorrect belief, folks
+
+212
+00:36:48.970 --> 00:37:00.260
+Michael Darden: current e-cigarette use so 59% for the correct beliefs, 46% for the incorrect beliefs. These are very statistically significant.
+
+213
+00:37:00.802 --> 00:37:06.290
+Michael Darden: So we have a situation now where we've got a group of people who have correct beliefs.
+
+214
+00:37:06.860 --> 00:37:11.220
+Michael Darden: who are the same in their kind of smoking behavior, but they use e-cigarettes as well?
+
+215
+00:37:11.720 --> 00:37:27.199
+Michael Darden: Then, when we look at the absolute, absolute health harms these questions. So again, the question was, how many years of life will someone lose as a result of lifelong cigarette smoking.
+
+216
+00:37:27.600 --> 00:37:34.859
+Michael Darden: These were roughly the same between the 2 groups, 12.1 and 11.8, not statistically different.
+
+217
+00:37:35.240 --> 00:37:39.550
+Michael Darden: But when you look at lifelong e-cigarette use
+
+218
+00:37:39.810 --> 00:37:48.710
+Michael Darden: the incorrect belief. Folks had a statistically similar level 11.8 years like year years of life lost
+
+219
+00:37:48.860 --> 00:37:51.700
+Michael Darden: relative to the cigarettes.
+
+220
+00:37:51.800 --> 00:38:02.899
+Michael Darden: but they had much lower but correctly informed smokers had much lower expected longevity loss from e-cigar at 6.1 years.
+
+221
+00:38:03.020 --> 00:38:13.500
+Michael Darden: So these are the the correctly informed. Folks are saying that on average they think that E. Cigarettes are about half as bad.
+
+222
+00:38:13.550 --> 00:38:29.340
+Michael Darden: at least on a at least in terms of longevity loss, and that's pretty consistent with the evidence from Alcot. I think their average was lower than that. But you could find a lot of medical professionals that would agree with that sentiment.
+
+223
+00:38:31.060 --> 00:38:35.759
+Michael Darden: I just really quickly. The people who are incorrectly informed
+
+224
+00:38:35.770 --> 00:38:52.200
+Michael Darden: are more likely to be female. They're more likely to be African American. They're more likely to be of less than high school education. I'm not going to put a lot of interpretation in those statistics. But there, there are some differences demographically.
+
+225
+00:38:52.826 --> 00:39:05.139
+Michael Darden: and then substitution. So I asked, I asked, respondents, have you ever considered? Or are you considering quitting traditional cigarettes and exclusively using electronic cigarettes instead.
+
+226
+00:39:05.640 --> 00:39:12.540
+Michael Darden: And here what you see? Oh, so I I categorize open to e-cigarette substitution
+
+227
+00:39:12.770 --> 00:39:18.090
+Michael Darden: on average, about half of the sample was was open to e-cigarette substitution
+
+228
+00:39:18.400 --> 00:39:24.900
+Michael Darden: only 37% of those with incorrect beliefs, but 68% with correct beliefs.
+
+229
+00:39:24.920 --> 00:39:30.460
+Michael Darden: So big difference here in the openness to substitution
+
+230
+00:39:30.510 --> 00:39:42.460
+Michael Darden: by these beliefs. So this is the 1st piece of evidence that suggests that substitutability and preferences are correlated with the internality, with the, with the incorrect beliefs.
+
+231
+00:39:42.910 --> 00:39:57.270
+Michael Darden: and then the other big kind of source of internalities in the tax literature are time and consistent preferences. And so I use the money money early or later, the kind of standard in that literature.
+
+232
+00:39:57.300 --> 00:40:17.309
+Michael Darden: Elicitation question on time preferences. And this is the estimate of the time inconsistent parameter beta 0 point 7 is kind of roughly what you you see in the literature, for it's evidence of time and consistent preferences, but it doesn't systematically vary across the 2 types.
+
+233
+00:40:17.580 --> 00:40:22.630
+Michael Darden: So I think that was just somewhat reassuring that you kind of match the literature in this sample.
+
+234
+00:40:23.199 --> 00:40:27.389
+Michael Darden: But again, big differences in their openness to e-cigarette substitution.
+
+235
+00:40:28.380 --> 00:40:42.410
+Michael Darden: Okay? So then I did tried to incorporate some experimental variation here. And so I said, suppose that the price that you have to pay for cigarettes increased by X, where I varied X between one and $4.
+
+236
+00:40:42.660 --> 00:40:53.809
+Michael Darden: How do you think your current consumption of cigarettes would change and people could respond? They'd completely quit. They would fall by some amount. There'd be no change, or it would increase.
+
+237
+00:40:54.390 --> 00:41:00.159
+Michael Darden: So I, I included, increases for completeness. But you know I don't think the demand curves slope upwards.
+
+238
+00:41:01.460 --> 00:41:12.269
+Michael Darden: Okay? And then, after that question, immediately after that question I said, if you faced the increase in cigarette prices from the last question, how do you think your consumption of e-cigarettes would change.
+
+239
+00:41:12.370 --> 00:41:18.880
+Michael Darden: and respondents could say, large increase all the way up to large large decrease. So
+
+240
+00:41:19.020 --> 00:41:20.560
+Michael Darden: the full range there.
+
+241
+00:41:21.318 --> 00:41:26.679
+Michael Darden: And so then what I did was, I tried to categorize the patterns that you would see from the 2,
+
+242
+00:41:26.710 --> 00:41:38.959
+Michael Darden: from the, from the 2 questions, the the increase, the hypothetical increase in cigarette prices, and the responding belief about their behavior with respect to e-cigarettes.
+
+243
+00:41:39.160 --> 00:41:50.060
+Michael Darden: And so I categorized these into to 3 groups. So d equals 0 was no change or an increase in cigarette smoking, and no change or a decrease in e cigarette consumption. So
+
+244
+00:41:50.460 --> 00:41:54.060
+Michael Darden: so kind of a, you know, a null result there
+
+245
+00:41:55.314 --> 00:42:05.529
+Michael Darden: d equals. One is one of the following, a decrease in cigarette consumption or an increase in e-cigarette consumption, but not both.
+
+246
+00:42:05.810 --> 00:42:16.000
+Michael Darden: and then D equals 2 is what I'm calling pure substitution. So here we have a situation in which the relative prices of cigarettes increase.
+
+247
+00:42:16.050 --> 00:42:22.360
+Michael Darden: we see the person decrease their cigarette consumption and increase their e-cigarette consumption.
+
+248
+00:42:23.241 --> 00:42:34.619
+Michael Darden: And then I just modeled in a multinomial logit framework the choice of D as a function of the prices that we saw that were randomly introduced.
+
+249
+00:42:34.630 --> 00:42:38.920
+Michael Darden: and the interaction between having correct beliefs in those prices.
+
+250
+00:42:39.850 --> 00:42:44.469
+Michael Darden: Controlling for a variety of the exits that you saw in the summary statistics.
+
+251
+00:42:44.530 --> 00:43:13.809
+Michael Darden: And here's the results. The marginal effects from the logit estimation. And so the green line is what I want to focus on. There were no systematic changes, at least statistically, in D equals 0 or D equals. One pure substitution became much more popular in these price experiments. There's not an increase on the intensive margin of how much the price changed.
+
+252
+00:43:13.840 --> 00:43:18.880
+Michael Darden: But you see that these are all statistically different than 0 and positive.
+
+253
+00:43:19.010 --> 00:43:28.509
+Michael Darden: which suggests that for the people with correct beliefs there was more action, more sub, more evidence of direct substitution.
+
+254
+00:43:28.730 --> 00:43:34.039
+Michael Darden: And so that's where I'm going to be getting getting the evidence to inform my my calibration.
+
+255
+00:43:34.768 --> 00:43:46.599
+Michael Darden: Okay, so optimal taxes. Yeah, I don't have a lot of time. So I'm just going to say that after a few assumptions, this is the formula that allows me to simulate the optimal e-cigarette tax.
+
+256
+00:43:47.494 --> 00:43:51.470
+Michael Darden: S. Here is going to be the share of the population of type. Theta.
+
+257
+00:43:51.500 --> 00:43:56.839
+Michael Darden: Theta is just telling me, are you an incorrectly informed person, or an incorrectly informed person?
+
+258
+00:43:57.570 --> 00:44:01.370
+Michael Darden: Ada, is the price. Elasticity of demand for each good.
+
+259
+00:44:01.690 --> 00:44:04.940
+Michael Darden: Q is the consumption of each good.
+
+260
+00:44:06.160 --> 00:44:11.600
+Michael Darden: And then we have the marginal distortion of good J,
+
+261
+00:44:11.920 --> 00:44:14.909
+Michael Darden: which is again the internality and the externality.
+
+262
+00:44:15.240 --> 00:44:29.109
+Michael Darden: the substitution parameter here, just for your just when you look at the graph, this will help with interpretation, positive values of the substitution parameter imply complementarity, negative values implied substitution.
+
+263
+00:44:29.200 --> 00:44:31.469
+Michael Darden: And then Tau is the tax.
+
+264
+00:44:31.770 --> 00:44:37.270
+Michael Darden: So I want to talk about the parameters that I use to to calibrate the model.
+
+265
+00:44:37.300 --> 00:44:42.222
+Michael Darden: Some of these are from Alcott and Rafkin, but some of them are are are new.
+
+266
+00:44:42.560 --> 00:44:56.180
+Michael Darden: so the fraction of relative health harms alpha. This is so, basically, we have a lot of evidence on cigarettes, right? We don't have a lot of evidence in many cases on the on the health effects of e-cigarettes.
+
+267
+00:44:56.190 --> 00:45:02.339
+Michael Darden: And so what we have to do is think about transformation of the cigarette evidence into e-cigarettes.
+
+268
+00:45:02.430 --> 00:45:11.210
+Michael Darden: And so that's a number of these parameters. Alpha is the fraction of the relative. Health harms 0 point 2 1 is the average from the Alcott and Rafkin paper
+
+269
+00:45:11.780 --> 00:45:13.140
+Michael Darden: from their survey.
+
+270
+00:45:13.370 --> 00:45:29.660
+Michael Darden: And then these parameters tell us how much e-cigarette nicotine was relative to cigarettes. Average milliliters per day when vaping. These are transformations that are going to help me move cigarette evidence to e-cigarette evidence.
+
+271
+00:45:30.240 --> 00:45:37.390
+Michael Darden: The healthcare internality. This is something that comes from an old paper, from Gruber and kisaki in 2,001
+
+272
+00:45:37.430 --> 00:45:58.510
+Michael Darden: inflated to today's dollars, and I'll say that the referees were quite critical of how big this number is. The interpretation is that the internality from one pack of cigarettes is $52, which is really large. It is large, so I show some evidence of some robustness of much smaller values, of that in the paper
+
+273
+00:45:59.013 --> 00:46:03.349
+Michael Darden: present orientation is, you know, we got from the money earlier, later experiments.
+
+274
+00:46:03.765 --> 00:46:09.689
+Michael Darden: And then these are just averages from Desica and from the the tax policy center
+
+275
+00:46:10.429 --> 00:46:18.909
+Michael Darden: and then the type specific stuff. So I need in the in the paper. And I need to now start differentiating between the parameters for
+
+276
+00:46:19.510 --> 00:46:22.810
+Michael Darden: correctly informed and incorrectly informed folks.
+
+277
+00:46:23.175 --> 00:46:29.030
+Michael Darden: The share with incorrect with correct information. S. Is going to be 43% from my paper.
+
+278
+00:46:29.726 --> 00:46:36.390
+Michael Darden: The scale. The elasticity of substitution was coming from the price experiments of 57%
+
+279
+00:46:36.480 --> 00:46:40.840
+Michael Darden: more likely to substitute. That's coming from the multinomial logit
+
+280
+00:46:41.190 --> 00:46:47.010
+Michael Darden: price. Elasticity of demand is going to be the same for the 2 groups that's coming from Alcott and Rafkin.
+
+281
+00:46:47.070 --> 00:46:59.930
+Michael Darden: The share of days vaping are coming from the survey evidence for the 2 groups, we did see evidence that correctly informed smokers were more likely to be using e-cigarettes as well.
+
+282
+00:47:00.350 --> 00:47:11.689
+Michael Darden: and then the information internality proportion. So I need to explain this one a little bit. There's we need to know how how much of an internality is created
+
+283
+00:47:11.740 --> 00:47:14.569
+Michael Darden: from in imperfect information.
+
+284
+00:47:15.130 --> 00:47:34.159
+Michael Darden: And so I draw this from Parks, who do a randomized experiment, where they inform individuals who are smoking of their lung age, so not their age, but the age that their lungs resemble as a result of their smoking. This number is usually larger than their current age.
+
+285
+00:47:34.410 --> 00:47:52.310
+Michael Darden: and then, when they did that, they looked one year later to see how many people were still smoking, and they found that the information effect was 0 point 1, 7, 8. And so I used that to scale the healthcare internality and then convert it to e-cigarettes.
+
+286
+00:47:52.310 --> 00:48:05.170
+Michael Darden: So that's a kind of a mouthful. But basically what I'm doing here is saying, I think that the people who have incorrect beliefs have higher internalities. How much? And that's that's how I'm doing that.
+
+287
+00:48:06.200 --> 00:48:13.960
+Michael Darden: Okay? And then I simulate the optimal e-cigarette tax under a variety of assumptions about Sigma.
+
+288
+00:48:14.090 --> 00:48:22.940
+Michael Darden: about the about the substitutability. But remember that I do allow that the substitution parameter to vary by the types.
+
+289
+00:48:23.110 --> 00:48:33.209
+Michael Darden: So in the black line here I substitute, I I calibrate the model, simulate the model of the optimal e-cigarette tax
+
+290
+00:48:33.300 --> 00:48:53.429
+Michael Darden: for different values of sigma, the substitution parameter with, you know, no correl so essentially treating everyone the same. So like, there's no correlation between substitution and internalities. And this is kind of this is very similar to what you see in Alcott and Rafkin in the black line.
+
+291
+00:48:53.430 --> 00:49:09.229
+Michael Darden: So when when e-cigarettes and cigarettes are substitute goods. You see in this region the taxes are relatively small, if substitution is extreme. You might even have an argument for a subsidy for e-cigarettes.
+
+292
+00:49:09.570 --> 00:49:18.629
+Michael Darden: But relatively straightforward. Here, when e-cigarettes and cigarettes are complements that go together.
+
+293
+00:49:18.920 --> 00:49:26.580
+Michael Darden: you start to see pretty high e-cigarette taxes much higher than what we'd see in in a in a given state, for example.
+
+294
+00:49:27.713 --> 00:49:34.669
+Michael Darden: the red line allows. The quantity of e-cigarettes to vary by the 2 groups.
+
+295
+00:49:35.490 --> 00:49:48.230
+Michael Darden: but the blue line is really what I want to emphasize here. The blue line is where I allow the preferences to be correlated with the internalities. And here. What you see is, and this is the essentially the main result of the paper
+
+296
+00:49:48.480 --> 00:49:51.560
+Michael Darden: is a much flatter line
+
+297
+00:49:52.440 --> 00:49:53.680
+Michael Darden: with zoom.
+
+298
+00:49:54.370 --> 00:50:02.260
+Michael Darden: So what this is saying is that even if you find evidence that e-cigarettes and cigarettes are very substitutable.
+
+299
+00:50:04.430 --> 00:50:07.589
+Michael Darden: the optimally cigarette tax is still positive.
+
+300
+00:50:08.210 --> 00:50:11.619
+Michael Darden: And the reason for that is because
+
+301
+00:50:12.350 --> 00:50:16.849
+Michael Darden: high, so so substitution. The the reason for that is.
+
+302
+00:50:16.940 --> 00:50:20.890
+Michael Darden: the people substituting from cigarettes to e-cigarettes
+
+303
+00:50:21.070 --> 00:50:26.930
+Michael Darden: are the ones who are correctly informed and have lower internalities.
+
+304
+00:50:28.430 --> 00:50:35.219
+Michael Darden: The people who are not substituting, who are simply taking more money from with taxes
+
+305
+00:50:35.230 --> 00:50:40.010
+Michael Darden: are the ones who have the big internalities who are incorrectly informed.
+
+306
+00:50:40.330 --> 00:50:43.289
+Michael Darden: And so that's why you see this flatter relationship.
+
+307
+00:50:43.993 --> 00:50:58.430
+Michael Darden: One thing I you know. So the referees didn't like how big that internality was. Part of that was just because inflation has been considerable over the last few few years. And so we have a situation where these these numbers have gotten pretty big.
+
+308
+00:50:59.057 --> 00:51:20.579
+Michael Darden: So I do it. Do the simulations for smaller healthcare internalities, and you get essentially the same results, so smaller magnitudes. But the same results. The the key is not the actual number, but the fact that the slope of this blue line is much flatter.
+
+309
+00:51:21.153 --> 00:51:24.929
+Michael Darden: Okay. And so the main takeaway is just to conclude.
+
+310
+00:51:25.350 --> 00:51:31.679
+Michael Darden: you know, theory says that taxes should depend on the value of the externalities, internalities, and the elasticity of substitution.
+
+311
+00:51:32.611 --> 00:51:37.120
+Michael Darden: Evidence suggests that the elasticity of substitution is small.
+
+312
+00:51:37.350 --> 00:51:40.290
+Michael Darden: and internalities from e-cigarettes are are small.
+
+313
+00:51:41.710 --> 00:51:46.440
+Michael Darden: a strong correlation between those substituting and the value of internalities. That's from my paper.
+
+314
+00:51:46.750 --> 00:51:53.289
+Michael Darden: I found an optimal e-cigarette tax of about $5, which is considerably greater than the State average.
+
+315
+00:51:54.123 --> 00:52:00.320
+Michael Darden: It's also larger than Alcott and Rafkin. Their number was $3 and 73 cents.
+
+316
+00:52:01.010 --> 00:52:09.930
+Michael Darden: And finally, importantly, you know, evidence of substitution for is not a rationale for lower taxes. If those substituting have incorrect beliefs.
+
+317
+00:52:10.260 --> 00:52:13.440
+Michael Darden: And so that's that's the main takeaway of the paper.
+
+318
+00:52:13.761 --> 00:52:17.839
+Michael Darden: So that's it. I'll stop there and and open it up for questions. So thanks.
+
+319
+00:52:19.890 --> 00:52:27.029
+Mike Pesko: Okay, thank you, Michael, for a very interesting presentation. Dr. Badev. Would you like to do your comments.
+
+320
+00:52:27.460 --> 00:52:29.150
+Anton Badev: Yes, sir, thanks again.
+
+321
+00:52:29.290 --> 00:52:32.699
+Anton Badev: I guess I will start by just mentioning that. We.
+
+322
+00:52:32.710 --> 00:52:36.137
+Anton Badev: Yes, this impressive because
+
+323
+00:52:37.340 --> 00:52:41.300
+Anton Badev: Well, while it's easy to grasp that information and beliefs matter.
+
+324
+00:52:41.310 --> 00:52:46.700
+Anton Badev: And here we hear example that we need only not only a special instrumentarium.
+
+325
+00:52:47.020 --> 00:52:51.529
+Anton Badev: we need a relatively complex model to to handle this additional
+
+326
+00:52:51.690 --> 00:53:02.779
+Anton Badev: quirk of of our our world, but also I find it impressive that the daughter had to go out and actually collect additional information deliberately
+
+327
+00:53:03.260 --> 00:53:06.260
+Anton Badev: to pursue this. So I think that this is
+
+328
+00:53:07.530 --> 00:53:18.002
+Anton Badev: you know this. This is something I find personally impressive. So as somebody who appreciates somebody who appreciates dynamic models and at the same time
+
+329
+00:53:19.055 --> 00:53:22.844
+Anton Badev: I would like also the audience to be convinced that this is
+
+330
+00:53:24.720 --> 00:53:31.190
+Anton Badev: there are certain limitations. If we don't, if we don't pursue such a more more elaborate
+
+331
+00:53:31.670 --> 00:53:38.789
+Anton Badev: analysis, we we are going to be confined in in our pursuit. My my question is.
+
+332
+00:53:41.470 --> 00:53:48.660
+Anton Badev: Now we have a dynamic model where individuals internalize the effect of their choices on the future consumption. Specifically, if
+
+333
+00:53:48.760 --> 00:53:57.310
+Anton Badev: and there are a couple of channels, so they. This is a little bit subtle, but nevertheless worth highlighting. Choices affect the probability of survival.
+
+334
+00:53:57.880 --> 00:54:02.960
+Anton Badev: both through contemporaneous smoking, but also through affecting the future survival.
+
+335
+00:54:03.160 --> 00:54:10.130
+Anton Badev: a state. So the model doesn't have learning, and I don't want to go in that direction. But I want to go in the opposite direction
+
+336
+00:54:11.830 --> 00:54:17.110
+Anton Badev: running dynamic models obviously has its fixed cost, and some may find this hard than the benefits.
+
+337
+00:54:17.860 --> 00:54:23.070
+Anton Badev: Do you know, do you have appreciation of the biases that are gonna emerge? If you are to
+
+338
+00:54:23.090 --> 00:54:33.339
+Anton Badev: confine the predictions of the model to a static model? One period model. I think that the simplest way to think about this would be to set that level equal to 0. How much we're going to lose from this?
+
+339
+00:54:35.412 --> 00:54:39.840
+Anton Badev: you know, from your, from from your findings. If we're confined.
+
+340
+00:54:41.300 --> 00:54:42.660
+Michael Darden: The static model.
+
+341
+00:54:42.840 --> 00:54:43.880
+Anton Badev: Yes.
+
+342
+00:54:43.880 --> 00:54:46.950
+Michael Darden: Yeah, it's an interesting question. So
+
+343
+00:54:47.100 --> 00:54:50.250
+Michael Darden: in the current formulation, in a static model.
+
+344
+00:54:51.770 --> 00:54:54.020
+Michael Darden: there's no reason not to smoke
+
+345
+00:54:55.270 --> 00:54:59.679
+Michael Darden: right? Because because the health implications are not there.
+
+346
+00:54:59.910 --> 00:55:03.389
+Michael Darden: If in a 1 shot game, this is.
+
+347
+00:55:03.590 --> 00:55:10.200
+Michael Darden: you know, when you do these models out to age 100, you have a problem, oftentimes because you have to assume that people
+
+348
+00:55:10.430 --> 00:55:11.845
+Michael Darden: die at some point.
+
+349
+00:55:12.320 --> 00:55:20.179
+Michael Darden: And so then the incentive to smoke when you're almost almost 100, for example is, is really higher. And the model says, just yeah, you should. You should really smoke.
+
+350
+00:55:20.820 --> 00:55:22.900
+Michael Darden: So I I think.
+
+351
+00:55:24.860 --> 00:55:29.299
+Michael Darden: I think this is where the you know, the age component matters.
+
+352
+00:55:30.506 --> 00:55:32.379
+Michael Darden: So for
+
+353
+00:55:32.740 --> 00:55:47.520
+Michael Darden: young people, for people under the age of 50, you know, smoking, smoking may decrease lung capacity, but in terms of the large kind of implications of smoking. You don't see any differences in longevity curves before age 50,
+
+354
+00:55:48.110 --> 00:55:53.239
+Michael Darden: and so I think that you know this would be applicable to a group of people.
+
+355
+00:55:53.880 --> 00:56:01.390
+Michael Darden: And maybe, you know, maybe this is actually what this is the most policy relevant age. So if you think that the big effects of smoking happen after age 50.
+
+356
+00:56:01.550 --> 00:56:03.219
+Michael Darden: So if we can convince
+
+357
+00:56:03.380 --> 00:56:10.440
+Michael Darden: 40 year old smokers to switch to e-cigarettes, you have a big kind of policy result as a result from that.
+
+358
+00:56:10.630 --> 00:56:16.769
+Michael Darden: And so I think in in that context, you know, you would want to build into the model
+
+359
+00:56:17.250 --> 00:56:18.260
+Michael Darden: some
+
+360
+00:56:20.135 --> 00:56:24.580
+Michael Darden: lung, you know. So some some contemporaneous health
+
+361
+00:56:24.650 --> 00:56:25.880
+Michael Darden: fx
+
+362
+00:56:26.010 --> 00:56:29.840
+Michael Darden: that make it unattractive to smoke.
+
+363
+00:56:31.080 --> 00:56:33.446
+Michael Darden: but I but I think but I think that
+
+364
+00:56:34.040 --> 00:56:35.850
+Michael Darden: yeah, I think I think
+
+365
+00:56:36.010 --> 00:56:45.650
+Michael Darden: to your point. I mean, I I think the big effects policy wise, the big, the big welfare gains are going to be coming from people in their forties who can be convinced to, not
+
+366
+00:56:45.720 --> 00:56:47.030
+Michael Darden: to to switch.
+
+367
+00:56:48.130 --> 00:56:55.410
+Anton Badev: Let me follow up. This is something. This is something I find very, very interesting, and I want to push a little bit more this direction.
+
+368
+00:56:57.820 --> 00:57:00.179
+Anton Badev: so can you deliver? And this is
+
+369
+00:57:01.290 --> 00:57:04.890
+Anton Badev: this, this is a big ask. I admit it right in the beginning.
+
+370
+00:57:05.070 --> 00:57:06.630
+Anton Badev: Can you deliver
+
+371
+00:57:07.252 --> 00:57:13.700
+Anton Badev: an estimate. Can you deliver? Maybe not, you know not within this. Maybe this may be completely new research effort.
+
+372
+00:57:13.890 --> 00:57:15.890
+Anton Badev: an estimate of the
+
+373
+00:57:17.015 --> 00:57:22.100
+Anton Badev: Welfare cost dollar estimate of the welfare cost of
+
+374
+00:57:22.330 --> 00:57:23.650
+Anton Badev: a small ink
+
+375
+00:57:24.350 --> 00:57:27.198
+Anton Badev: that may vary by
+
+376
+00:57:29.380 --> 00:57:37.099
+Anton Badev: you know by by by observables, and certainly it's going to be age dependent as an estimate. Such individuals who prefer
+
+377
+00:57:37.290 --> 00:57:39.279
+Anton Badev: to resort was static.
+
+378
+00:57:40.000 --> 00:57:42.219
+Anton Badev: Static framework
+
+379
+00:57:42.480 --> 00:57:44.370
+Anton Badev: can control.
+
+380
+00:57:44.630 --> 00:57:59.489
+Anton Badev: For the. For this you know, future visibility, and that's in a way that they can do whatever you're doing, just thinking in a static framework. Okay, that this utility from smoking by age is looks like that. We're just going to incorporate, you know. Regression framework.
+
+381
+00:57:59.630 --> 00:58:04.849
+Anton Badev: you know. Michael doesn't has estimated it into more. You know, much fancier model. We don't need to
+
+382
+00:58:05.190 --> 00:58:07.180
+Anton Badev: and just use this estimate.
+
+383
+00:58:07.550 --> 00:58:11.259
+Anton Badev: Of course it's going to be heterogeneous, you know, by observables.
+
+384
+00:58:12.750 --> 00:58:13.460
+Michael Darden: Yeah.
+
+385
+00:58:13.800 --> 00:58:19.986
+Michael Darden: that's interesting. I mean, I I have 1 min to answer, and I think I need more time.
+
+386
+00:58:20.710 --> 00:58:39.469
+Michael Darden: I think I think it's an interesting point, though I I agree you could try to infer. You know, one thing that I would like to do. I think that would be a nice extension of this is just to simply think about the value of an information campaign that leveled these in that that corrected the corrected the information problem
+
+387
+00:58:39.846 --> 00:58:46.200
+Michael Darden: and that would be something that would be straightforward. But what you're asking, I think, is a little more challenging. So I'd I'd like to think about it.
+
+388
+00:58:48.373 --> 00:58:55.580
+Mike Pesko: Thank you. Dr. Badeb. We'll try to do one more question that I think, captures 2 of the 3 Q. And A's.
+
+389
+00:58:55.948 --> 00:59:04.919
+Mike Pesko: It's about a black markets. And suppose if there's e cigarette taxes black markets could be created is that factored into your
+
+390
+00:59:05.380 --> 00:59:07.120
+Mike Pesko: model at all?
+
+391
+00:59:07.120 --> 00:59:17.400
+Michael Darden: It's only implicit in the in the parameters. So these are observed changes this. It's it's like, how effective is a cigarette tax and actually changing behavior.
+
+392
+00:59:17.510 --> 00:59:23.460
+Michael Darden: And so that would affect the elasticity observed elasticities that go into the model.
+
+393
+00:59:23.470 --> 00:59:31.249
+Michael Darden: It's not explicitly modeled as a black black market. But you could imagine. If we raise taxes and cigarette consumption does not change
+
+394
+00:59:31.350 --> 00:59:34.440
+Michael Darden: a reason for that could be black markets.
+
+395
+00:59:35.120 --> 00:59:39.280
+Mike Pesko: Okay, thank you. I'm gonna turn it back over to our Mc. To take us out the door.
+
+396
+00:59:43.290 --> 00:59:49.150
+Nathalia Machado: So we are out of time. However, if we still have burning questions or thoughts for Dr. Darding.
+
+397
+00:59:49.160 --> 01:00:05.690
+Nathalia Machado: you can join us for top of the tops. I interactive group discussion after right after selected tops events this season to join. Please copy the Zoom Meeting room. URL posted in the chat and switch rooms with us. When these events closer.
+
+398
+01:00:05.890 --> 01:00:18.160
+Nathalia Machado: we will leave this webinar room open for extra minutes after the end, to give everyone a chance to copy the link which is bit.li slash stops meeting all lowercase.
+
+399
+01:00:18.290 --> 01:00:30.049
+Nathalia Machado: Thank you so much to our presenter moderator and discussant, and finally, thank you to the audience of 175 people for your participation have a top snotch weekend.
+
