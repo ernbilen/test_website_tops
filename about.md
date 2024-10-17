@@ -8,6 +8,7 @@ Director: Mike Pesko, University of Missouri <img src="https://img.icons8.com/fl
 Member: Michael Darden, Johns Hopkins University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Hopkins_Econ](https://twitter.com/Hopkins_Econ) \\
 Member: Jamie Hartmann-Boyce, University of Massachusetts Amherst <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@jhb19](https://twitter.com/jhb19) \\
 Member: Ce Shang, Ohio State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Ce_Shang_HE](https://twitter.com/Ce_Shang_HE) 
+Member: Justin White, Boston University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite) 
 
 
 ## Advisory Board
@@ -51,7 +52,7 @@ Theodore Wagener, Ohio State University
 Catherine Maclean, George Mason University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@JCMecon](https://twitter.com/JCMecon) \\
 Mike Pesko, University of Missouri <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko) \\
 Ce Shang, Ohio State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Ce_Shang_HE](https://twitter.com/Ce_Shang_HE) \\
-Justin White, University of California-San Francisco <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite) 
+Justin White, Boston University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite) 
 
 <br><br>
 
