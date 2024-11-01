@@ -1,0 +1,1778 @@
+WEBVTT
+
+1
+00:00:04.500 --> 00:00:17.219
+Rachel Rosen: Welcome to the tobacco online policy seminar tops and thanks for joining us today. I am Dr. Rachel Rosen, a postdoctoral research fellow at Massachusetts General Hospital and Harvard Medical School.
+
+2
+00:00:17.650 --> 00:00:34.040
+Rachel Rosen: Pops is organized by Mike Pesco at University of Missouri, Steve Shang at the Ohio State University, Michael Darden at John Hopkins University, Jamie Hartman Boyce, at University of Massachusetts, Amherst and Justin White, at Boston University.
+
+3
+00:00:34.620 --> 00:00:39.160
+Rachel Rosen: The Seminar will be 1 h with questions from the Moderator and discussant.
+
+4
+00:00:39.260 --> 00:00:53.530
+Rachel Rosen: The audience may pose questions and comments in the Q. And a panel, and the moderator will draw from these questions and comments in conversation with the presenter. Please review the guidelines on tobaccopolicy.org for acceptable questions.
+
+5
+00:00:53.620 --> 00:00:57.839
+Rachel Rosen: Please keep the questions professional and related to the research being discussed.
+
+6
+00:00:58.370 --> 00:01:04.819
+Rachel Rosen: Questions that meet the seminar series. Guidelines will be shared with the presenter afterwards, even if they are not read aloud.
+
+7
+00:01:04.980 --> 00:01:07.400
+Rachel Rosen: Your questions are very much appreciated.
+
+8
+00:01:08.130 --> 00:01:17.350
+Rachel Rosen: This presentation is being video recorded and will be made available along with presentation slides on the tops website, tobaccopolicy.org.
+
+9
+00:01:17.360 --> 00:01:25.190
+Rachel Rosen: I will turn the presentation over to today's moderator, Jamie Hartman Boyce from the University of Massachusetts, Amherst, to introduce our speaker.
+
+10
+00:01:25.810 --> 00:01:42.019
+Jamie Hartmann-Boyce: Thanks so much, Rachel. Today we begin our winter 2025. Season with a grand Rounds. Presentation by Benjamin Toll, entitled E-cigarettes in the Us. Use by physicians prevalence, intentions to quit, and findings from several trials investigating methods for quitting.
+
+11
+00:01:42.710 --> 00:02:00.090
+Jamie Hartmann-Boyce: based out of the Medical University of South Carolina. Dr. Benjamin Toll is a licensed clinical psychologist, a professor of Public Health Sciences and Psychiatry, Vice Chair of Research for the Department of Public Health Sciences, Co-director of the lung cancer screening program and director of the Health Tobacco Treatment program.
+
+12
+00:02:00.450 --> 00:02:07.580
+Jamie Hartmann-Boyce: Dr. Toll has received grants from the Us. National Institutes of Health, including multiple r. 0. 1 grants from the National Cancer Institute.
+
+13
+00:02:07.590 --> 00:02:21.179
+Jamie Hartmann-Boyce: and is an author of over 150 peer reviewed publications relating to nicotine and tobacco research, including several large clinical trials, investigating smoking, cessation, and several pilot clinical trials, testing treatments for e-cigarette use.
+
+14
+00:02:21.460 --> 00:02:32.929
+Jamie Hartmann-Boyce: He has also published multiple clinical practice guidelines and official policy statements for major medical associations, and is the current president of the Society for Research on Nicotine and Tobacco.
+
+15
+00:02:33.120 --> 00:02:36.489
+Jamie Hartmann-Boyce: Dr. Toll. Thank you for presenting for us today.
+
+16
+00:02:39.210 --> 00:02:43.710
+Benjamin Toll: Alright. Thank you very much, Jamie. That was a lovely introduction.
+
+17
+00:02:44.580 --> 00:02:48.370
+Benjamin Toll: We did not plan to both wear green, but we are both wearing green.
+
+18
+00:02:48.520 --> 00:02:52.180
+Benjamin Toll: which is really great. I'm gonna share my screen now.
+
+19
+00:02:53.560 --> 00:02:56.019
+Benjamin Toll: So here.
+
+20
+00:02:56.910 --> 00:02:58.320
+Benjamin Toll: here we go.
+
+21
+00:02:58.340 --> 00:03:03.769
+Benjamin Toll: And then I'm gonna start to go to presentation mode and ken
+
+22
+00:03:04.100 --> 00:03:06.346
+Benjamin Toll: Serena or
+
+23
+00:03:07.860 --> 00:03:13.470
+Benjamin Toll: Jamie, just let me know that you can see it, that it's sharing in in presentation mode.
+
+24
+00:03:13.470 --> 00:03:14.830
+Jamie Hartmann-Boyce: It's looking good.
+
+25
+00:03:14.830 --> 00:03:19.099
+Benjamin Toll: Okay. Great alright, thanks, Jamie. So
+
+26
+00:03:20.079 --> 00:03:27.269
+Benjamin Toll: I am. Gonna I appreciate Jamie and Mike and the board for having me come talk
+
+27
+00:03:27.340 --> 00:03:36.850
+Benjamin Toll: today. We're gonna talk about a variety of subjects concerning e-cigarettes and tobacco
+
+28
+00:03:37.620 --> 00:04:03.499
+Benjamin Toll: conflicts of interest in the past 10 years. So I have testified since 2015 on behalf of plaintiffs who have filed litigation against the industry. That's mostly, but not exclusively. Philip Morris Reynolds and jewel labs. I worked as a paid consultant on a single advisory board about e-cigarettes for Pfizer
+
+29
+00:04:03.540 --> 00:04:12.268
+Benjamin Toll: quite some time ago. So 2018 is when I I did that
+
+30
+00:04:13.020 --> 00:04:21.999
+Benjamin Toll: and we, of course, know that their drug that they represented when Loe approximately 2019 or 2020
+
+31
+00:04:23.077 --> 00:04:47.779
+Benjamin Toll: so I just want to give you my professional perspective. Just so that you understand the lens that I view our work through. So I direct the operations for a tobacco treatment service that touches approximately 10,000 tobacco users per year. It's a large health
+
+32
+00:04:47.930 --> 00:05:05.176
+Benjamin Toll: system, 11 hospitals and many, many outpatient clinics. Usually we provide medications for tobacco treatment. That's mostly patches, gum and lozenges.
+
+33
+00:05:06.730 --> 00:05:21.049
+Benjamin Toll: in the hospital. Those are what's more, prevalent, and most of our physicians, especially hospitalists, don't feel comfortable prescribing a medication that needs follow up
+
+34
+00:05:21.565 --> 00:05:23.699
+Benjamin Toll: although we we, of course, are
+
+35
+00:05:23.880 --> 00:05:26.040
+Benjamin Toll: trying to change that somewhat.
+
+36
+00:05:26.946 --> 00:05:28.519
+Benjamin Toll: About half
+
+37
+00:05:29.240 --> 00:05:36.179
+Benjamin Toll: or more than half of these medically compromised patients have died or will die
+
+38
+00:05:36.330 --> 00:05:38.500
+Benjamin Toll: from use of tobacco.
+
+39
+00:05:38.590 --> 00:05:39.760
+Benjamin Toll: So
+
+40
+00:05:39.820 --> 00:05:48.040
+Benjamin Toll: it really hurts my heart when I open up our medical record. And there's a big black box that comes up in my medical record.
+
+41
+00:05:48.300 --> 00:05:53.400
+Benjamin Toll: which is epic. There's a big black box that comes up and says, this patient is
+
+42
+00:05:54.190 --> 00:06:03.120
+Benjamin Toll: deceased, and that's very upsetting for for me it. It hurts every time frankly, and so I
+
+43
+00:06:03.280 --> 00:06:07.390
+Benjamin Toll: and the fierce a fierce advocate for patience.
+
+44
+00:06:07.420 --> 00:06:17.419
+Benjamin Toll: and all of these patients that use tobacco and have a myriad of psychiatric and of medical problems. They need our help
+
+45
+00:06:18.420 --> 00:06:37.260
+Benjamin Toll: for the quitting process and for their other health issues. Frankly. So, if they quit smoking. If they quit vaping in general, especially for smoking. In general, it will improve almost all of their other health issues.
+
+46
+00:06:37.280 --> 00:06:39.490
+Benjamin Toll: I'm also a passionate
+
+47
+00:06:39.980 --> 00:06:56.799
+Benjamin Toll: a passion advocate for trainees and for colleagues. I feel that trainees are our future, and so we must fight for them, because in 20 years I'll be gone, and hopefully they'll be here and they'll be fighting that good fight.
+
+48
+00:06:56.990 --> 00:06:58.070
+Benjamin Toll: So
+
+49
+00:06:59.742 --> 00:07:06.490
+Benjamin Toll: I am funded by the Musc Hollings cancer Center. That's the Grant number there.
+
+50
+00:07:06.560 --> 00:07:14.770
+Benjamin Toll: Some of these are of the of the pilots that I'm gonna mention are are funded by Startup funds
+
+51
+00:07:14.910 --> 00:07:33.899
+Benjamin Toll: from the cancer center. I've had multiple grants, as Jamie mentioned. That's all public on this website, as Jamie mentioned, I am the president of Sr. And T. But the content of this presentation is not the official views
+
+52
+00:07:34.090 --> 00:07:36.270
+Benjamin Toll: of SR. And T. So
+
+53
+00:07:36.870 --> 00:07:41.539
+Benjamin Toll: this is kind of a broad framework of what we're gonna talk through today.
+
+54
+00:07:42.060 --> 00:07:57.259
+Benjamin Toll: We're going to go through considerations for providers concerning e-cigarettes. We'll talk about the importance, the very, very vast importance of 18 to 24 year olds.
+
+55
+00:07:58.420 --> 00:08:00.510
+Benjamin Toll: any cigarette prevalence.
+
+56
+00:08:00.560 --> 00:08:09.249
+Benjamin Toll: We're gonna talk about. The the very clear data that show that most E cigarette users
+
+57
+00:08:09.590 --> 00:08:12.010
+Benjamin Toll: have plans to quit.
+
+58
+00:08:12.160 --> 00:08:15.269
+Benjamin Toll: And those data of are from Path
+
+59
+00:08:16.288 --> 00:08:22.389
+Benjamin Toll: we're gonna go through pilot study of Nrt, that's Patch plus lozenge
+
+60
+00:08:22.660 --> 00:08:25.050
+Benjamin Toll: or quitting vaping.
+
+61
+00:08:25.080 --> 00:08:33.080
+Benjamin Toll: And then the last trial that will run through is a review of of the drug, formally called
+
+62
+00:08:33.110 --> 00:08:39.750
+Benjamin Toll: Chantix, is now generic. Well, I'm sorry it was Chantics or chanpix
+
+63
+00:08:40.200 --> 00:08:45.780
+Benjamin Toll: in the rest of the world. Now, generic versus
+
+64
+00:08:45.880 --> 00:08:48.909
+Benjamin Toll: placebo for wedding vaping.
+
+65
+00:08:49.370 --> 00:08:55.610
+Benjamin Toll: So if I have seen any further, it's only because I'm standing on the shoulders of giants.
+
+66
+00:08:55.640 --> 00:09:00.259
+Benjamin Toll: Of course, Isaac Newton said that, and he was talking about
+
+67
+00:09:00.400 --> 00:09:07.560
+Benjamin Toll: all of the scientists before him, like Galileo and Magellan, who had
+
+68
+00:09:07.720 --> 00:09:14.990
+Benjamin Toll: whose work he had built upon. And so these are my mentors and sponsors.
+
+69
+00:09:15.690 --> 00:09:19.299
+Benjamin Toll: and I think you guys can see my
+
+70
+00:09:19.540 --> 00:09:38.749
+Benjamin Toll: my pointer right? So I'm just gonna point. So this is Mark Sabel. He's a psychologist that's now retired. But that's who I trained with for graduate school mark is probably best known for creation of a timeline. Follow back, or Tl, Fb.
+
+71
+00:09:39.580 --> 00:09:41.030
+Benjamin Toll: And funnily
+
+72
+00:09:41.590 --> 00:10:08.169
+Benjamin Toll: I said, I mentioned in in Jamie's podcast. Called let's Talk, E. Cigarettes, which is fantastic by the way, and and available on spotify and apple, and all of the streaming platforms certainly go listen to it. It's a great podcast but they have this cute part where there, if you say something like timeline. Follow back. There's a dog that barks, it goes.
+
+73
+00:10:08.220 --> 00:10:18.052
+Benjamin Toll: and and they say obscure scientific reference, and then they say what it is. So apparently Mark's timeline is an obscure scientific reference.
+
+74
+00:10:18.480 --> 00:10:43.319
+Benjamin Toll: but it is the way that most of us measure smoking and drinking behaviors, and Mark in graduate school really taught me how to write a good paper, and taught me how to be a rigorous scientist. Next is Stephanie from Yale, who was one of my 2 postdoc mentors, and Stephanie really is an incredibly rigorous scientist, and she
+
+75
+00:10:43.320 --> 00:10:47.219
+Benjamin Toll: taught me she's currently the co-pi of the Lt. Course.
+
+76
+00:10:47.290 --> 00:11:16.630
+Benjamin Toll: She taught me how to just write a really good grant, and how to be a very thoughtful scientist. And and and by the way, we're we're still in in touch. I still see her. I just talked to Mark a few weeks ago he just turned 80, and he is now retired. And then there's Peter Salovey, who was one of my postdoc mentors, and he introduced me and and helped me
+
+77
+00:11:16.630 --> 00:11:20.607
+Benjamin Toll: to become a game frame
+
+78
+00:11:22.620 --> 00:11:27.719
+Benjamin Toll: investigator. So a framing of framing messages.
+
+79
+00:11:27.780 --> 00:11:44.460
+Benjamin Toll: type of a scientist where I looked rigorously at game frame universal messages. And Peter. When I met Peter in 2,002. He was the chair of the Department of Psychology.
+
+80
+00:11:44.460 --> 00:12:10.679
+Benjamin Toll: And I was so excited I was like, Wow, I'm being trained by the chair of psychology. And then he just rose through the ranks at Yale, through a few deanships, and then Provost, and then he was President for many years, and he just stepped down last year. He's still faculty at at Yale, and Peter really taught me how to delegate. So
+
+81
+00:12:10.730 --> 00:12:24.589
+Benjamin Toll: Peter surrounds himself with a huge group of very smart people, and he taught me how to just delegate things in a a way that allows you to get
+
+82
+00:12:24.790 --> 00:12:26.540
+Benjamin Toll: a lot done frankly.
+
+83
+00:12:27.030 --> 00:12:28.870
+Benjamin Toll: Next is Roy Herbst.
+
+84
+00:12:28.900 --> 00:12:35.789
+Benjamin Toll: who is a very long time sponsor and a professor at Yale. Roy
+
+85
+00:12:36.460 --> 00:12:41.439
+Benjamin Toll: brought me into the world of cancer. And he brought me to the big.
+
+86
+00:12:41.670 --> 00:12:48.749
+Benjamin Toll: the big conferences, and he introduced me to the Ceos and got me to publish in very large cancer
+
+87
+00:12:48.820 --> 00:12:51.820
+Benjamin Toll: journals, and he helped me to go to
+
+88
+00:12:52.100 --> 00:13:04.909
+Benjamin Toll: Congressional briefings. He's just a really lovely guy that cares very much about cancer and science and and he's been a great sponsor and a great friend.
+
+89
+00:13:05.410 --> 00:13:07.000
+Benjamin Toll: And of course we
+
+90
+00:13:07.190 --> 00:13:09.169
+Benjamin Toll: of course, we all know Dr.
+
+91
+00:13:09.280 --> 00:13:11.639
+Benjamin Toll: Comments who I met Mike
+
+92
+00:13:14.530 --> 00:13:17.150
+Benjamin Toll: It was the early 2,000 s.
+
+93
+00:13:17.380 --> 00:13:24.320
+Benjamin Toll: Back when there were T-charps, and that stands for transdisciplinary tobacco. Use Research
+
+94
+00:13:24.770 --> 00:13:41.341
+Benjamin Toll: Center, and I was at a teacher conference. And you know Mike and I were in line for lunch, and Mike said it. It'd be great for you to test your framing through my quit line. And I said, Really, that sounds great. And then
+
+95
+00:13:41.750 --> 00:14:10.020
+Benjamin Toll: From there, from there Mike helped me get my very 1st R. 21, and since then I've worked with Mike on on numerous studies, and it's been a great relationship, and Mike is a very careful scientist that is incredibly loyal, and a force in this field, and we all appreciate his passion very much. So from here. I am now going to talk about
+
+96
+00:14:10.590 --> 00:14:18.540
+Benjamin Toll: teams and my teams. So so this quote, my teammates have my back and I have theirs.
+
+97
+00:14:18.550 --> 00:14:20.280
+Benjamin Toll: This is from
+
+98
+00:14:21.040 --> 00:14:27.610
+Benjamin Toll: 2 time. Mvp. Lamar Jackson, who is the quarterback of
+
+99
+00:14:27.780 --> 00:14:36.220
+Benjamin Toll: the Ravens where I'm from, so I'm from Baltimore, and I'll talk about that a bit during this talk. But in Baltimore we talk about the flock
+
+100
+00:14:36.380 --> 00:14:42.840
+Benjamin Toll: and having a team that matters, a team that you care about. And so this is my flock. So
+
+101
+00:14:42.900 --> 00:14:48.380
+Benjamin Toll: we have a large team in musc of great scientists
+
+102
+00:14:48.530 --> 00:15:03.550
+Benjamin Toll: and great administrators that just do wonderful things. So that's my team. And I care very much about this team, and it's a team that we are excited to work with
+
+103
+00:15:03.610 --> 00:15:05.670
+Benjamin Toll: on a daily basis.
+
+104
+00:15:05.910 --> 00:15:06.950
+Benjamin Toll: So
+
+105
+00:15:07.410 --> 00:15:10.700
+Benjamin Toll: one of the team members is Dr. Tracy Smith.
+
+106
+00:15:10.960 --> 00:15:35.810
+Benjamin Toll: who worked with me and and Dr. King on a letter that came out in Nature medicine. And so that's Dr. Brian King, who we all know, and who is the director of the center for tobacco products at the FDA, and a lovely guy and a great scientist. And we approached Dr. King.
+
+107
+00:15:35.810 --> 00:15:44.886
+Benjamin Toll: So Tracy and I approached. Dr. King said, this is a picture of Brian and I from the Scotland Conference,
+
+108
+00:15:45.390 --> 00:15:55.629
+Benjamin Toll: we approach Brian at the Texas Conference. So before Scotland was San Antonio, Texas, and we approached him and said
+
+109
+00:15:56.000 --> 00:15:59.369
+Benjamin Toll: I had just met with a a physician
+
+110
+00:15:59.590 --> 00:16:08.910
+Benjamin Toll: from a very good school that I'm not gonna mention the name. But he said to me.
+
+111
+00:16:09.320 --> 00:16:12.539
+Benjamin Toll: and yeah, this was an oncologist
+
+112
+00:16:13.820 --> 00:16:17.790
+Benjamin Toll: I meet with loads of oncologists, and he said.
+
+113
+00:16:18.370 --> 00:16:21.240
+Benjamin Toll: vapes. Those are worse than smoking
+
+114
+00:16:21.450 --> 00:16:28.290
+Benjamin Toll: right. I didn't put my head in my hands at that time, but I did say to Brian.
+
+115
+00:16:28.340 --> 00:16:39.280
+Benjamin Toll: You know I am very opposed to youth vaping. But I do think that our physicians need to to know that in general
+
+116
+00:16:39.680 --> 00:16:44.390
+Benjamin Toll: e-cigarettes have less risk than combusted cigarettes.
+
+117
+00:16:44.420 --> 00:16:56.050
+Benjamin Toll: and that was what started a conversation and led to this important letter. And I'm just gonna share our conclusions. If I can get this thing to move forward.
+
+118
+00:16:57.225 --> 00:16:58.220
+Benjamin Toll: So
+
+119
+00:16:59.210 --> 00:17:13.150
+Benjamin Toll: 1st line is that clinicians should provide counseling and an approved medication for treatment. There's no question. So for a cigarette smoker
+
+120
+00:17:13.220 --> 00:17:15.539
+Benjamin Toll: that comes to your clinic
+
+121
+00:17:16.000 --> 00:17:18.889
+Benjamin Toll: start with Meds and with counseling
+
+122
+00:17:19.020 --> 00:17:21.440
+Benjamin Toll: for adults that continue to smoke.
+
+123
+00:17:21.700 --> 00:17:31.439
+Benjamin Toll: Our doctors and providers may consider talking about the relative risks of products and educate
+
+124
+00:17:31.450 --> 00:17:41.740
+Benjamin Toll: patients, that exclusive use of any cigarette, instead of cigarettes, would cut down on exposure to known toxicants and carcinogens.
+
+125
+00:17:41.840 --> 00:17:45.919
+Benjamin Toll: and they need to reinforce that the importance
+
+126
+00:17:46.070 --> 00:17:55.349
+Benjamin Toll: of complete transitioning away from combusted products to get the full full benefits to their health.
+
+127
+00:17:55.770 --> 00:17:59.120
+Benjamin Toll: If patients do choose to use any
+
+128
+00:17:59.170 --> 00:18:10.560
+Benjamin Toll: cigarette for complete transitioning, providers should make patients aware of the 23 products that have been authorized by the FDA. We just hosted Brian here
+
+129
+00:18:10.770 --> 00:18:16.339
+Benjamin Toll: at for for one of our named lectures. It was the Rosenblatt lecture that's hosted by Mike.
+
+130
+00:18:17.605 --> 00:18:18.530
+Benjamin Toll: And
+
+131
+00:18:18.970 --> 00:18:22.859
+Benjamin Toll: Brian said at that time, and I agree
+
+132
+00:18:23.140 --> 00:18:40.310
+Benjamin Toll: you should be talking about the products that have gone through the very rigorous review by the FDA, and been shown scientifically to have fewer toxicants and fewer carcinogens. So it's important that. And I know that this is a polarizing issue.
+
+133
+00:18:40.320 --> 00:18:46.259
+Benjamin Toll: But I do agree with Dr. King that that's what we should do. And the
+
+134
+00:18:46.360 --> 00:18:48.640
+Benjamin Toll: other thing that we say
+
+135
+00:18:48.750 --> 00:18:50.449
+Benjamin Toll: in the article
+
+136
+00:18:50.580 --> 00:18:52.420
+Benjamin Toll: that I didn't have room in this
+
+137
+00:18:52.550 --> 00:18:54.450
+Benjamin Toll: presentation to
+
+138
+00:18:54.500 --> 00:19:00.150
+Benjamin Toll: to to type out. But we'll say verbally, is that we're very opposed
+
+139
+00:19:00.340 --> 00:19:03.679
+Benjamin Toll: to youth. Use one and 2.
+
+140
+00:19:04.830 --> 00:19:13.790
+Benjamin Toll: Our doctors may talk about the idea of complete transitioning away from combusted products, but
+
+141
+00:19:14.330 --> 00:19:17.430
+Benjamin Toll: the end goal should be
+
+142
+00:19:17.590 --> 00:19:18.800
+Benjamin Toll: quitting
+
+143
+00:19:19.280 --> 00:19:26.070
+Benjamin Toll: the vape too, so they can vape for a specified time period. But our end goal
+
+144
+00:19:26.310 --> 00:19:29.980
+Benjamin Toll: should be to transition then off
+
+145
+00:19:30.290 --> 00:19:33.452
+Benjamin Toll: of that vape. So I'm gonna
+
+146
+00:19:34.330 --> 00:19:37.763
+Benjamin Toll: transition now to talking about
+
+147
+00:19:39.050 --> 00:19:41.029
+Benjamin Toll: my views on e-cigarettes.
+
+148
+00:19:41.320 --> 00:19:42.570
+Benjamin Toll: So
+
+149
+00:19:43.110 --> 00:19:44.150
+Benjamin Toll: I
+
+150
+00:19:44.380 --> 00:19:47.469
+Benjamin Toll: I grew up in Baltimore, and my dad was poor.
+
+151
+00:19:47.660 --> 00:19:49.779
+Benjamin Toll: and we had mice. This is a mouse.
+
+152
+00:19:50.339 --> 00:20:02.089
+Benjamin Toll: And mice mice are vermin comes from the Latin word vermis, which means worm. So that's the little worm like larvae, and and the insects that infest food.
+
+153
+00:20:02.150 --> 00:20:09.839
+Benjamin Toll: So mice, poop, and pee all over your residence. It's quite gross. They spread illness, they spread death.
+
+154
+00:20:09.990 --> 00:20:16.159
+Benjamin Toll: they they eat your food. So if your cereal is not in plastic, if it's in.
+
+155
+00:20:16.580 --> 00:20:23.370
+Benjamin Toll: If it's in a carb or box they'll chew right through, and they'll get to your cereal. They they hurt your sleep
+
+156
+00:20:23.480 --> 00:20:26.830
+Benjamin Toll: so they scurry through your walls. They scratch.
+
+157
+00:20:27.290 --> 00:20:32.350
+Benjamin Toll: They're really like they're really a bad, bad thing to have
+
+158
+00:20:32.460 --> 00:20:37.279
+Benjamin Toll: inside your residence for me. That's a combusted cigarette.
+
+159
+00:20:38.330 --> 00:20:44.370
+Benjamin Toll: This is a cat. In fact, this is my cat. Her name is Roxanne or Roxy.
+
+160
+00:20:44.530 --> 00:20:47.410
+Benjamin Toll: So yeah, as you can see.
+
+161
+00:20:47.760 --> 00:20:55.250
+Benjamin Toll: she's much more attractive than mice, so cats in general are much more attractive than mice.
+
+162
+00:20:55.700 --> 00:20:56.650
+Benjamin Toll: but
+
+163
+00:20:57.590 --> 00:21:03.850
+Benjamin Toll: they do poop and pee. It's in a litter box, so it's more contained, but it is still a burden.
+
+164
+00:21:03.890 --> 00:21:06.100
+Benjamin Toll: They cause bad allergies
+
+165
+00:21:06.400 --> 00:21:07.690
+Benjamin Toll: to humans.
+
+166
+00:21:07.830 --> 00:21:11.080
+Benjamin Toll: They scratch up and destroy your furniture.
+
+167
+00:21:11.110 --> 00:21:13.560
+Benjamin Toll: they bite and scratch you.
+
+168
+00:21:13.590 --> 00:21:23.500
+Benjamin Toll: A cat bite is, in fact, quite dangerous. So if you have a true full cat bite. It can lead to sepsis. It can cause very serious
+
+169
+00:21:23.710 --> 00:21:25.469
+Benjamin Toll: problems for me.
+
+170
+00:21:25.830 --> 00:21:27.539
+Benjamin Toll: That's an e-cigarette.
+
+171
+00:21:27.570 --> 00:21:29.740
+Benjamin Toll: So, to be clear.
+
+172
+00:21:29.840 --> 00:21:31.829
+Benjamin Toll: we have mice who are
+
+173
+00:21:32.350 --> 00:21:40.250
+Benjamin Toll: really really bad. That's gonna bust a cigarette, and then a much more appealing and attractive animal.
+
+174
+00:21:40.740 --> 00:21:45.740
+Benjamin Toll: But that still has several issues and several
+
+175
+00:21:45.810 --> 00:21:51.240
+Benjamin Toll: problems and still has some risk and problems that come with it.
+
+176
+00:21:51.930 --> 00:21:52.960
+Benjamin Toll: So
+
+177
+00:21:53.470 --> 00:21:59.467
+Benjamin Toll: now I'm gonna try to speed up. Because I see it's 12. It's 1223. So
+
+178
+00:22:00.790 --> 00:22:30.269
+Benjamin Toll: I want to transition to talking about the importance of young adults. So the industry has always cared about young adults. So Philip Morris called these yams and yas, and they studied them, and they noted in their previously secret documents that they foreshadow the future performance of brands. So these are from the San Francisco library. The only segment that would not fill out the surveys are yams
+
+179
+00:22:31.660 --> 00:22:44.549
+Benjamin Toll: And share was declining among yafs, and followed by softening among 25 to 34 yafs were of particular importance, because they
+
+180
+00:22:45.470 --> 00:22:49.760
+Benjamin Toll: because they represent and they foreshadow the brand's long term
+
+181
+00:22:49.770 --> 00:22:53.489
+Benjamin Toll: performance. When you turn 18,
+
+182
+00:22:53.700 --> 00:23:13.149
+Benjamin Toll: you are generally graduating high school, possibly going to college. You're on your own, you have your own, your your own money, and that's when a time of great transition and a time where, if you can establish brand loyalty, it stays with you.
+
+183
+00:23:13.820 --> 00:23:14.780
+Benjamin Toll: So
+
+184
+00:23:15.060 --> 00:23:32.780
+Benjamin Toll: this is Brandon Sanford and Naomi Brownstein. So Brandon is at the time that he did. This study was one of my postdoc fellows. He is now an assistant professor of family medicine at Musc, and that's Naomi Brownstein, who is an associate
+
+185
+00:23:32.940 --> 00:23:46.540
+Benjamin Toll: professor of biostats here in the Department of Public Health Sciences. So this is using waves, one through 6 of the FDA's path study. And that's a nationally representative
+
+186
+00:23:46.770 --> 00:24:01.259
+Benjamin Toll: study, of course, of it varies, but approximately 45,000 people that that represent our our country. These are the definitions for established smoking and established vaping.
+
+187
+00:24:02.640 --> 00:24:09.020
+Benjamin Toll: So here's what Brandon found. So these dark bars are established
+
+188
+00:24:09.080 --> 00:24:15.060
+Benjamin Toll: smoking, and the years here. So this starts in 2013, and it goes up through 2021.
+
+189
+00:24:15.090 --> 00:24:22.640
+Benjamin Toll: So the the the darker brown bars are smoking, and it's unequivocally going down.
+
+190
+00:24:23.320 --> 00:24:30.900
+Benjamin Toll: and these lighter bars are vaping, and the white bars are the never smokers that vape.
+
+191
+00:24:31.060 --> 00:24:49.340
+Benjamin Toll: So if you look at these bars, they are unequivocally going up. At the time we published this wave 6 was restricted use. We obtained it, and we were floored. That there are now, as of 3 years ago.
+
+192
+00:24:49.490 --> 00:24:54.169
+Benjamin Toll: there are now more, never smoking vapors than established
+
+193
+00:24:54.710 --> 00:25:13.289
+Benjamin Toll: smokers, and that brings us to the great Wayne Gretzky that said ice skate to where the Puck is going to be, not to where it's been. So the Puck has been here. It has been in smoking, but it's going to be in vaping, so we need as a field
+
+194
+00:25:13.690 --> 00:25:20.219
+Benjamin Toll: to shift a large number of our resources towards treatment of vaping.
+
+195
+00:25:20.640 --> 00:25:23.320
+Benjamin Toll: Why, why should we do that? Well.
+
+196
+00:25:23.350 --> 00:25:27.942
+Benjamin Toll: this brings me to Dr. Palmer, who was one of my
+
+197
+00:25:28.880 --> 00:25:37.160
+Benjamin Toll: my pre, Doc and Postdoc, fellows that is now an instructor, and soon to be assistant professor at
+
+198
+00:25:37.340 --> 00:25:46.229
+Benjamin Toll: Musc. She did 2 great studies of pathway 4 and 5, in which she found that
+
+199
+00:25:46.270 --> 00:25:54.999
+Benjamin Toll: approximately 3 fifths in wave, 4 plan to quit, and a smaller number had tried to to quit
+
+200
+00:25:55.060 --> 00:25:59.980
+Benjamin Toll: and in Wave 5. It was 2 thirds plus that planned to quit
+
+201
+00:26:01.117 --> 00:26:10.660
+Benjamin Toll: and almost 20% that it tried to quit. And I believe I'm supposed to stop here and pause to see if there's questions.
+
+202
+00:26:11.500 --> 00:26:16.479
+Jamie Hartmann-Boyce: Thanks, so much, Ben, and thanks also to the call out to our podcast which I appreciate.
+
+203
+00:26:16.807 --> 00:26:28.889
+Jamie Hartmann-Boyce: So our discussant today is Dr. Joanna Strucht, an assistant professor from Massachusetts General Hospital, and Harvard Medical School. I'm going to 1st open up to Joanna for any comments or questions she might have at this point.
+
+204
+00:26:30.010 --> 00:26:48.259
+Joanna Streck: I will save my questions for the end. But just to comment. I loved your nod to patient care, mentoring your own mentors, your mentees and kind of the cycle of mentorship. Yeah, and I've enjoyed the talk so far, and I have some questions for the end. But I don't want to interrupt your flow. Now.
+
+205
+00:26:48.260 --> 00:27:02.250
+Benjamin Toll: Okay, great. So I'm going to keep going. Then. Thank you. Dr. Streck and Dr. Bryce. I'm going to move forward to a study that was conducted by Dr. Palmer.
+
+206
+00:27:03.311 --> 00:27:09.349
+Benjamin Toll: And I believe that you have access to the 6 papers I'm talking through
+
+207
+00:27:09.380 --> 00:27:10.485
+Benjamin Toll: today.
+
+208
+00:27:12.530 --> 00:27:25.890
+Benjamin Toll: Amanda looked at. This was a mix of both mono vapors and dual users. We all know, of course, the dual use means use of both cigarettes and e-cigarettes.
+
+209
+00:27:26.270 --> 00:27:44.689
+Benjamin Toll: In this study. She randomized 30 participants in a 2 to one fashion. To treatment versus control treatment was approximately one month of the 21 milligram patch and the 4 milligram lozenge. The control was a referral to the South Carolina swit
+
+210
+00:27:44.830 --> 00:27:55.810
+Benjamin Toll: to the South Carolina. Quit line and you you can see right here that the 2 to one, you know, gave us about 18 that got treatment and 12 that got
+
+211
+00:27:55.820 --> 00:27:57.190
+Benjamin Toll: control.
+
+212
+00:27:59.260 --> 00:28:00.460
+Benjamin Toll: So
+
+213
+00:28:00.690 --> 00:28:02.639
+Benjamin Toll: what she found was
+
+214
+00:28:02.680 --> 00:28:06.970
+Benjamin Toll: 40% of the people in the treatment group
+
+215
+00:28:07.070 --> 00:28:09.660
+Benjamin Toll: that got patch plus lozenge
+
+216
+00:28:10.230 --> 00:28:11.710
+Benjamin Toll: quit e cigarettes.
+
+217
+00:28:12.550 --> 00:28:16.320
+Benjamin Toll: Unfortunately, no one in the control group quit.
+
+218
+00:28:17.630 --> 00:28:28.319
+Benjamin Toll: and then the dual. And then it gets really interesting for the dual users, so notably none of the dual users quit smoking a quarter
+
+219
+00:28:28.650 --> 00:28:30.139
+Benjamin Toll: quit vaping.
+
+220
+00:28:30.440 --> 00:28:32.749
+Benjamin Toll: but continued to smoke.
+
+221
+00:28:33.060 --> 00:28:39.910
+Benjamin Toll: So that's the wrong way on the the continuum of of risk.
+
+222
+00:28:39.990 --> 00:28:41.160
+Benjamin Toll: We want
+
+223
+00:28:41.290 --> 00:28:47.509
+Benjamin Toll: folks ideally to quit both, but if they're gonna quit one that they quit smoking and they keep vaping.
+
+224
+00:28:48.001 --> 00:28:51.970
+Benjamin Toll: So Dr. Palmer is now. So I I think.
+
+225
+00:28:52.240 --> 00:28:58.920
+Benjamin Toll: and we agree that it may be that dual users need higher doses of nicotine.
+
+226
+00:28:59.010 --> 00:29:03.649
+Benjamin Toll: So Dr. Palmer was funded thankfully by the Acs
+
+227
+00:29:03.740 --> 00:29:15.740
+Benjamin Toll: to do. Again, a small pilot of 45 subjects, in which it's varying doses of Nrt. But higher doses for dual users and
+
+228
+00:29:16.310 --> 00:29:19.090
+Benjamin Toll: her last. Her last follow up
+
+229
+00:29:19.100 --> 00:29:31.479
+Benjamin Toll: is going to be in about a week, so we are very excited to see those data and stay tuned, as we hope to publish those data in the near future. So stay tuned for that.
+
+230
+00:29:32.070 --> 00:29:36.120
+Benjamin Toll: And then the last trial I'm gonna talk through
+
+231
+00:29:36.270 --> 00:29:39.750
+Benjamin Toll: today is with my colleague and good friend Lisa.
+
+232
+00:29:40.360 --> 00:30:01.629
+Benjamin Toll: who is at Yale, and was just a few years behind me, starting at Yale. I'm not going to say what years? Because it was a long time ago. But we have been close colleagues and friends for about 15 years. And this is a group of people at Yale and
+
+233
+00:30:01.700 --> 00:30:04.124
+Benjamin Toll: at Musc who have
+
+234
+00:30:04.860 --> 00:30:12.500
+Benjamin Toll: who have worked on this study. And Lisa presented these data in Scotland.
+
+235
+00:30:12.530 --> 00:30:25.630
+Benjamin Toll: So this was a 2 month study that was across 2 sites. So we got 20 people down here in Charleston, and Lisa's group got 20 at Yale.
+
+236
+00:30:26.073 --> 00:30:43.430
+Benjamin Toll: We. We then randomized them to drug or placebo that went for so the Med use went from week 0 up through week 8, and then we followed them for 4 more weeks for a 1 month. Follow up
+
+237
+00:30:43.890 --> 00:31:03.049
+Benjamin Toll: is the primary care model. So this was a self directed booklet a 5 to 10 min phone call, but we tried for 5. I did. I did a handful of these calls like just to make sure that the operations were going well in this pilot.
+
+238
+00:31:03.494 --> 00:31:14.599
+Benjamin Toll: And the the outcomes were point prevalence at 7 for the past 7 days right here at week 8, and right here at week 12.
+
+239
+00:31:15.360 --> 00:31:18.750
+Benjamin Toll: So here's what the group looks like.
+
+240
+00:31:18.860 --> 00:31:22.630
+Benjamin Toll: So the split on gender was good.
+
+241
+00:31:23.182 --> 00:31:25.659
+Benjamin Toll: It was a mostly white group.
+
+242
+00:31:27.480 --> 00:31:30.529
+Benjamin Toll: The the history of smoking was about half
+
+243
+00:31:31.622 --> 00:31:34.270
+Benjamin Toll: most people vape daily.
+
+244
+00:31:35.142 --> 00:31:43.167
+Benjamin Toll: and through through the day. So they were continuously vaping. It's a very modern group. So they kept vaping
+
+245
+00:31:44.100 --> 00:31:46.600
+Benjamin Toll: they had vaped for about 5 years.
+
+246
+00:31:47.061 --> 00:31:52.799
+Benjamin Toll: This Ec dependence is the promise measure, and these are very high numbers.
+
+247
+00:31:54.610 --> 00:31:59.139
+Benjamin Toll: so that you know this is a dependent group.
+
+248
+00:31:59.680 --> 00:32:05.920
+Benjamin Toll: And they're mostly using dispose and carts. So they're they. They are using
+
+249
+00:32:06.520 --> 00:32:08.929
+Benjamin Toll: almost exclusively
+
+250
+00:32:09.842 --> 00:32:21.479
+Benjamin Toll: those devices. And they're almost exclusively salt based. And it's a mixed psychiatric group. So many psych problems
+
+251
+00:32:22.110 --> 00:32:23.759
+Benjamin Toll: as we see
+
+252
+00:32:24.070 --> 00:32:25.799
+Benjamin Toll: in most samples
+
+253
+00:32:25.850 --> 00:32:29.890
+Benjamin Toll: of of tobacco users in modern times.
+
+254
+00:32:30.270 --> 00:32:31.190
+Benjamin Toll: So
+
+255
+00:32:33.630 --> 00:32:36.109
+Benjamin Toll: here's what we did. We randomized 40
+
+256
+00:32:36.200 --> 00:32:42.439
+Benjamin Toll: people to drug or placebo. One participant had a dose
+
+257
+00:32:42.660 --> 00:32:49.019
+Benjamin Toll: reduction. I called her several times and consulted with Dr. Gray, who's our
+
+258
+00:32:49.120 --> 00:32:50.960
+Benjamin Toll: our psychiatrist
+
+259
+00:32:51.520 --> 00:32:55.039
+Benjamin Toll: on the Musc side, and talked.
+
+260
+00:32:55.200 --> 00:33:14.869
+Benjamin Toll: you know, with her about she had high nausea and so we talked about cutting back her dose 9 other participants had aes that were the common kind of usual suspects for this asset. So that's nausea, insomnia.
+
+261
+00:33:14.940 --> 00:33:16.639
+Benjamin Toll: and vivid dreams.
+
+262
+00:33:18.010 --> 00:33:21.750
+Benjamin Toll: Here's the the findings for this
+
+263
+00:33:22.020 --> 00:33:46.509
+Benjamin Toll: preliminary study. So a nice treatment difference between treatment and placebo at the end of treatment that that degrades slightly, but is still is still very much there at the one month. Follow up. What's interesting is that participants that had a smoking history, regardless of group.
+
+264
+00:33:46.510 --> 00:34:04.479
+Benjamin Toll: had a much higher chance of quitting. So that's an interesting finding. And that was a significant finding. Now let's talk about smoking, obviously one fear of treating vaping, especially if you have a smoking history is that you're going to go back to smoking?
+
+265
+00:34:04.898 --> 00:34:18.300
+Benjamin Toll: And we thankfully did not find that to be true in the drug group. So we had 2 participants for whom that occurred and for the participant that took the drug asset.
+
+266
+00:34:18.790 --> 00:34:23.959
+Benjamin Toll: They quit both products and for the patient that didn't have
+
+267
+00:34:23.969 --> 00:34:29.089
+Benjamin Toll: drug she or or he stopped smoking
+
+268
+00:34:30.530 --> 00:34:33.380
+Benjamin Toll: and and continued to vape.
+
+269
+00:34:33.750 --> 00:34:34.630
+Benjamin Toll: So
+
+270
+00:34:35.070 --> 00:34:42.680
+Benjamin Toll: what are the next steps for this study? So so Lisa and I have an Mpi. Grant that
+
+271
+00:34:42.920 --> 00:34:46.209
+Benjamin Toll: proposes a test of this drug asset
+
+272
+00:34:46.260 --> 00:34:59.539
+Benjamin Toll: versus placebo in a group of 326 mono vapors that would be split evenly between New Haven and Charleston there will be a rigorous
+
+273
+00:34:59.550 --> 00:35:02.398
+Benjamin Toll: test of several biological
+
+274
+00:35:03.230 --> 00:35:06.960
+Benjamin Toll: markers like like DNA damage
+
+275
+00:35:07.380 --> 00:35:08.830
+Benjamin Toll: across time.
+
+276
+00:35:09.878 --> 00:35:15.760
+Benjamin Toll: We have a plan to examine several possible treatment moderators.
+
+277
+00:35:15.860 --> 00:35:24.249
+Benjamin Toll: This got a fundable score, so thank you, to the Nci. The funding line was announced yesterday, and we are
+
+278
+00:35:24.290 --> 00:35:26.529
+Benjamin Toll: below that funding line thankfully.
+
+279
+00:35:26.630 --> 00:35:29.230
+Benjamin Toll: So here are the summary points.
+
+280
+00:35:29.390 --> 00:35:48.189
+Benjamin Toll: If an adult that smokes does not succeed through a 1st line treatment from the FDA. Our doctors and providers may consider talking about the relative risks of e-cigarettes, the importance of complete
+
+281
+00:35:48.780 --> 00:35:49.900
+Benjamin Toll: switching.
+
+282
+00:35:50.010 --> 00:35:53.800
+Benjamin Toll: and make patients aware of the 23
+
+283
+00:35:53.980 --> 00:36:00.169
+Benjamin Toll: vapes that are currently authorized by the FDA with an eventual goal of stopping
+
+284
+00:36:00.300 --> 00:36:02.050
+Benjamin Toll: all product use.
+
+285
+00:36:03.714 --> 00:36:06.129
+Benjamin Toll: In the near future.
+
+286
+00:36:06.270 --> 00:36:10.239
+Benjamin Toll: These products would be the dominant form of tobacco use
+
+287
+00:36:10.680 --> 00:36:12.140
+Benjamin Toll: in this country.
+
+288
+00:36:13.470 --> 00:36:18.499
+Benjamin Toll: A very high number of people who use e-cigarettes plan to quit
+
+289
+00:36:20.630 --> 00:36:24.019
+Benjamin Toll: dual energy may have some
+
+290
+00:36:24.190 --> 00:36:33.239
+Benjamin Toll: use in quitting for mono e-cigarette users. But higher doses of this drug are probably needed for dual users.
+
+291
+00:36:33.550 --> 00:36:38.189
+Benjamin Toll: The drug varenicline tartrate shows a good treatment
+
+292
+00:36:38.290 --> 00:36:39.920
+Benjamin Toll: signal for
+
+293
+00:36:40.040 --> 00:36:41.710
+Benjamin Toll: quitting e-cigarettes.
+
+294
+00:36:41.860 --> 00:36:54.599
+Benjamin Toll: The field and I can't stress this enough. The field desperately needs high quality, large trials to help people that want to quit E cigarettes
+
+295
+00:36:54.850 --> 00:36:56.270
+Benjamin Toll: to do so.
+
+296
+00:36:56.750 --> 00:36:59.169
+Benjamin Toll: And I'm going to close by saying
+
+297
+00:36:59.210 --> 00:37:18.459
+Benjamin Toll: this, this work we do. It's hard. It's a very, very challenging set of studies. Science is hard preventing. Cancer is hard. These are all opportunities for us as a community to rise up and to help others.
+
+298
+00:37:18.500 --> 00:37:20.270
+Benjamin Toll: Please do your part.
+
+299
+00:37:20.480 --> 00:37:31.269
+Benjamin Toll: All these things, all the pressure, all the challenges they are opportunities for our community of tobacco treaters and researchers
+
+300
+00:37:31.900 --> 00:37:34.139
+Benjamin Toll: to rise. And with that
+
+301
+00:37:34.280 --> 00:37:36.820
+Benjamin Toll: I say, thank you, and I'll stop there.
+
+302
+00:37:38.140 --> 00:37:51.230
+Jamie Hartmann-Boyce: Thank you so much, Ben. You've covered a lot in a short amount of time. I really appreciate it. So I'm going to 1st hand over to Dr. Joanna Streck, our discussant. Please do continue adding comments to the Q. And a. And we'll get to as many of them as we can.
+
+303
+00:37:52.080 --> 00:38:04.600
+Joanna Streck: That was a wonderful presentation. Thank you. And so nice to hear how you're seeing the future of this field and future research that other people, including junior people, may want to get into. Write a K. On that topic.
+
+304
+00:38:04.600 --> 00:38:29.430
+Joanna Streck: I'm just curious. I'll just ask one of my sets of questions and then let the rest of the time be for all of the questions in the chat. But I'm curious what you think about the kind of nuance around physician and healthcare provider advice on e-cigarettes. So just thinking about like the how, if you have any thoughts or data around how you might advise someone who's exclusively smoking, and
+
+305
+00:38:29.430 --> 00:38:32.000
+Joanna Streck: wants to try out e-cigarettes to switch
+
+306
+00:38:32.000 --> 00:38:53.640
+Joanna Streck: the question of gradual or abrupt. And then also that great point that you listed around sharing the relative risks of e-cigarettes with tobacco, cigarettes, and any thoughts or data out there where a provider could look at how to talk about through all the risks, especially in light of what you shared, that some of them actually think the opposite that are more dangerous.
+
+307
+00:38:53.640 --> 00:39:19.229
+Benjamin Toll: So I'm I'm glad you asked that. So when we when Nature Medicine published that letter that is publicly available, we tried. They they pay wallet, and I'm sorry that they pay wallet, but they pay wallet, and there's no way to unpay wall letters for some reason. But so when Nature medicine published that letter. The FDA
+
+308
+00:39:19.580 --> 00:39:30.279
+Benjamin Toll: created a suite of websites that talk about relative risks of the of the products. It's a lovely website. It's public. I would encourage
+
+309
+00:39:30.430 --> 00:39:37.959
+Benjamin Toll: all of our physicians and providers to go to that website. Learn what it says. Take
+
+310
+00:39:38.330 --> 00:39:50.900
+Benjamin Toll: a look. It's not. It's not challenging to understand. But I think it can be a little challenging to internalize, because many physicians incorrectly think
+
+311
+00:39:51.010 --> 00:40:01.370
+Benjamin Toll: that smoking is better than vaping, and it's the opposite right? So there's less toxicants and less carciage and less carcinogens
+
+312
+00:40:02.490 --> 00:40:14.419
+Benjamin Toll: in vapes. So I would encourage your colleagues to go to that that website and and and and just learn about these
+
+313
+00:40:14.660 --> 00:40:40.379
+Benjamin Toll: products and and have thoughtful conversations. So it may be that the person has asthma, and it's and and it's not a good choice. Or it may be that they tried varenicline. They tried bupropion. They tried patch, and they feel very desperate and hopeless. They could consider maybe an e-cigar
+
+314
+00:40:40.430 --> 00:40:58.040
+Benjamin Toll: always stress, though the plan is not to stay on the e-cigarette the plan. So for my practice, I never suggest e-cigarettes, but instead, some of my patients, they just come in, and they're and they're vaping. And say, and say, Hey, guess what, Doc.
+
+315
+00:40:58.080 --> 00:41:13.169
+Benjamin Toll: you're gonna be so proud of me. I quit smoking. So the 1st thing I do is I congratulate them. And the second thing I say is, that's great that you did that. Now we have to talk about trying to get you off of that product.
+
+316
+00:41:14.430 --> 00:41:16.029
+Joanna Streck: Awesome. Thank you.
+
+317
+00:41:16.240 --> 00:41:16.559
+Benjamin Toll: Of course.
+
+318
+00:41:16.560 --> 00:41:26.370
+Joanna Streck: And I see they sent that the relative risk piece in the chat, which is awesome. But yeah, Jamie, if you want to do the chat questions. I know we have a ton. That's all I had. Thank you.
+
+319
+00:41:26.370 --> 00:41:38.079
+Jamie Hartmann-Boyce: Absolutely. Thank you, Joanna, so, and thank you everyone for keeping these brilliant questions coming in. We'll get to as many of them as we can, and any others will be sent to Ben at the end as well. So if your question isn't asked, don't panic.
+
+320
+00:41:38.080 --> 00:41:56.870
+Jamie Hartmann-Boyce: so I'll start with one from Gisell Walia, who says, wonderful talk, Ben, you implied or said the endgame was not just tobacco, but nicotine. We generally have accepted that if someone wants to use nicotine gum for years, decades, or even a lifetime is acceptable. Many physicians accept this, although it took many years to get to this point.
+
+321
+00:41:56.870 --> 00:42:02.180
+Jamie Hartmann-Boyce: Why would this be different for non-medicinal nicotine products, especially nicotine pouches.
+
+322
+00:42:03.370 --> 00:42:10.380
+Benjamin Toll: So. Hi, jazz! Thanks for the good question. It's a very thoughtful and very learned
+
+323
+00:42:10.610 --> 00:42:13.519
+Benjamin Toll: question, as usual from jazz.
+
+324
+00:42:13.750 --> 00:42:15.460
+Benjamin Toll: I would say.
+
+325
+00:42:15.920 --> 00:42:29.030
+Benjamin Toll: for the vapes that we know have some levels of heavy metals. They have some levels of some chemicals that are not not air. For for those
+
+326
+00:42:29.920 --> 00:42:41.759
+Benjamin Toll: I would say, unequivocally, we have to stop those. So I have many patients that want to use gum for years, and I say, go for it. And
+
+327
+00:42:41.800 --> 00:43:07.779
+Benjamin Toll: and what I say is this, if you're going to stop that gum and go back to smoking, keep using that gum your entire life. That's like a blood pressure medicine. It's it's keeping you safe, right? But for for vapes, jazz, I think that's not true, because there are, there is some risk. The exact amount is not yet totally quantified, but there is some risk
+
+328
+00:43:07.850 --> 00:43:24.880
+Benjamin Toll: for a tobacco free pouch. I think that the jury is still out. We need more pharmacological studies to look and see if there's risk. These are very new products. They're very appealing products. You know.
+
+329
+00:43:25.514 --> 00:43:30.770
+Benjamin Toll: If Baker Mayfield is taking one on the sidelines of a nationally televised.
+
+330
+00:43:30.860 --> 00:43:51.390
+Benjamin Toll: of of a huge game. Then, this is a big product that is, that is very popular. So and and frankly, we know very little about these products. So I I think what I would say, jazz is for the vapes. There is some risk, and we must get people to quit those
+
+331
+00:43:51.460 --> 00:43:53.140
+Benjamin Toll: for the tobacco pet
+
+332
+00:43:53.420 --> 00:43:56.410
+Benjamin Toll: for the pouches. I'd say that the jury is still out.
+
+333
+00:44:00.470 --> 00:44:02.480
+Benjamin Toll: Oh, you're you're muted, Jamie.
+
+334
+00:44:02.640 --> 00:44:03.829
+Jamie Hartmann-Boyce: Sorry about that.
+
+335
+00:44:04.250 --> 00:44:07.300
+Jamie Hartmann-Boyce: Thank you so much. You'd think, after all these years I'd be used.
+
+336
+00:44:09.000 --> 00:44:23.420
+Jamie Hartmann-Boyce: Alas! So we have a question from Norbert Zilitron Schmidt asking if there's any solid scientific evidence for significant actual health benefits from quitting, vaping. So what happens to people when they quit vaping? Do we know.
+
+337
+00:44:23.610 --> 00:44:27.790
+Benjamin Toll: Such a great question. We need data.
+
+338
+00:44:27.860 --> 00:44:29.210
+Benjamin Toll: There is
+
+339
+00:44:29.340 --> 00:44:55.220
+Benjamin Toll: very, very scant data. And so in the 2, I've proposed a trial. So the trial that that we hope is gonna get funded is gonna is gonna examine that very, that very issue where we're gonna look across time prospectively. If your health improves. Matt Carpenter and I are proposing a
+
+340
+00:44:55.530 --> 00:44:57.249
+Benjamin Toll: Pia one, the 4
+
+341
+00:44:57.270 --> 00:45:00.639
+Benjamin Toll: projects and one project that that
+
+342
+00:45:01.140 --> 00:45:19.150
+Benjamin Toll: that's led by Alana Rajewski. The entire project is to look prospectively across time for our cohort of a thousand patients to see what are the health improvements of quitting, vaping.
+
+343
+00:45:19.200 --> 00:45:20.410
+Benjamin Toll: Frankly.
+
+344
+00:45:20.440 --> 00:45:36.910
+Benjamin Toll: we need data. We don't have data as intelligent people. I think that we can agree that it's likely that there would be some improvements unlike smoking where there's going to be massive improvements. I predict that they're small, but
+
+345
+00:45:37.140 --> 00:45:42.199
+Benjamin Toll: you know but consistent. But I I just don't know of
+
+346
+00:45:43.620 --> 00:45:46.860
+Benjamin Toll: of a large body of evidence that has looked
+
+347
+00:45:47.000 --> 00:45:49.639
+Benjamin Toll: through through this, and we desperately need it.
+
+348
+00:45:51.300 --> 00:46:06.870
+Jamie Hartmann-Boyce: Thank you. So a question here from Cheryl Olson, there will be multiple heated tobacco products in the Us. Market within the next few years based on use in other countries, such as Japan. Among people who smoke. Are you considering similar studies in Htps.
+
+349
+00:46:07.820 --> 00:46:10.049
+Benjamin Toll: Well, I would say.
+
+350
+00:46:10.773 --> 00:46:15.410
+Benjamin Toll: my colleague, Dr. Smith and I have talked about this.
+
+351
+00:46:15.902 --> 00:46:28.369
+Benjamin Toll: You know, one of the of the big issues is production. And if they're really gonna be here, so a as this community knows there was a battle between people
+
+352
+00:46:28.450 --> 00:46:41.940
+Benjamin Toll: Pmi and Altria in which they shut down production, and importation of these devices because they had 2 test markets.
+
+353
+00:46:42.938 --> 00:46:46.210
+Benjamin Toll: And I I believe
+
+354
+00:46:46.620 --> 00:46:51.409
+Benjamin Toll: I I guess the short answer is that I'm not planning
+
+355
+00:46:51.460 --> 00:47:15.929
+Benjamin Toll: studies till I see that these products are actually being used in this country. So I mean, I I am planning for my future studies. Obviously, I'll I'll always study smoking. But I'm I'm really doing a lot of vaping treatment studies now, because I think that's our future and if if the so-called heat not burn, comes this
+
+356
+00:47:16.160 --> 00:47:22.439
+Benjamin Toll: country and takes off. I I think that we like we certainly you should study it.
+
+357
+00:47:24.110 --> 00:47:25.290
+Jamie Hartmann-Boyce: Thank you.
+
+358
+00:47:26.077 --> 00:47:30.450
+Jamie Hartmann-Boyce: Moving on to a question from Matthew Bars. He notes that.
+
+359
+00:47:30.450 --> 00:47:31.170
+Benjamin Toll: Can you.
+
+360
+00:47:31.450 --> 00:47:50.830
+Jamie Hartmann-Boyce: In your paper evaluating nicotine replacement therapy for vaping cessation. 196 people responded to the Ad. But only 30 people were randomized, which is around 15%. He asked if there's the possibility of any selection bias going on here, and if that might affect conclusions.
+
+361
+00:47:51.660 --> 00:47:57.732
+Benjamin Toll: Well, you know, Matt, it's a especially. The dual users are, are
+
+362
+00:47:58.360 --> 00:47:59.740
+Benjamin Toll: an important
+
+363
+00:48:00.050 --> 00:48:06.989
+Benjamin Toll: group, but they have they have a host of issues. And we did screen out a large number of people.
+
+364
+00:48:07.824 --> 00:48:13.155
+Benjamin Toll: There's there's certainly always that possibility. I I hope that's not true.
+
+365
+00:48:13.610 --> 00:48:16.720
+Benjamin Toll: I'm I'm not sure if there's a question behind the
+
+366
+00:48:17.360 --> 00:48:35.610
+Benjamin Toll: question, but I'll say it's a very highly addicted group, and I think that dual users really like I'm confident in in the finding that dual users need high doses of drugs to feel that they are.
+
+367
+00:48:35.760 --> 00:48:39.330
+Benjamin Toll: that they are able to get to quitting.
+
+368
+00:48:40.950 --> 00:48:42.010
+Jamie Hartmann-Boyce: Thank you.
+
+369
+00:48:42.310 --> 00:48:53.239
+Jamie Hartmann-Boyce: We have a question from Margaret Laplante, which is, are any of the 23 FDA authorized devices authorized for cessation purposes, and she says, Thank you. A very interesting discussion.
+
+370
+00:48:53.803 --> 00:49:11.140
+Benjamin Toll: They are not. So they are. So there's 2 paths for these products. One is cedar, and that's a safe and effective rule. So that's like what the nicotine patch did. It's shown to be safe and effective for quitting all of the
+
+371
+00:49:11.640 --> 00:49:13.430
+Benjamin Toll: all the authorized
+
+372
+00:49:13.620 --> 00:49:22.380
+Benjamin Toll: products are on a public health rule that shows that these, that that these products have
+
+373
+00:49:22.400 --> 00:49:35.930
+Benjamin Toll: a scientifically measurable, that that they have a lower amount of risk than a combusted product. So they are not shown to be safe and effective. I wish
+
+374
+00:49:35.970 --> 00:50:01.469
+Benjamin Toll: if I had, like a 1 that could make things happen, I wish that we could have a bunch of E cigarettes that go the safe and effective route. I think that'd be great. So far, I've heard whispers that one company was maybe gonna do one product that way, and so far it's been crickets. I I would love for for us to go the cedar route. I I don't see that happening. But it's certainly possible.
+
+375
+00:50:02.550 --> 00:50:05.730
+Jamie Hartmann-Boyce: Can I just ask a follow up question from my own curiosity? Ben.
+
+376
+00:50:05.730 --> 00:50:06.090
+Benjamin Toll: Yeah.
+
+377
+00:50:06.090 --> 00:50:19.080
+Jamie Hartmann-Boyce: Given our current state of affairs, and the fact that this might continue with no e-cigarettes going through the cedar safe and effective route. Where does that leave clinicians if they're talking about e-cigarettes for quitting smoking? Does that put them in a difficult position.
+
+378
+00:50:19.780 --> 00:50:38.429
+Benjamin Toll: I I mean, I think the fact that it's authorized by the FDA makes at least the providers that I've talked to. It makes them a little more comfortable. But what you're asking, I think, is true. They're still not totally comfortable, so it makes them a bit more comfortable. But it's not. I mean.
+
+379
+00:50:38.920 --> 00:50:56.319
+Benjamin Toll: obviously, if you're a physician that is going to tell a patient to take a product, you want it to be entirely safe. Now, if your patient is, say, pregnant and is smoking, and they've tried
+
+380
+00:50:57.120 --> 00:50:59.880
+Benjamin Toll: Veronica and Patch
+
+381
+00:51:00.250 --> 00:51:10.610
+Benjamin Toll: Bupropion, and they're desperate. Then maybe you're okay doing that. But it's still a hard sell to have a license healthcare
+
+382
+00:51:10.950 --> 00:51:12.300
+Benjamin Toll: Provider
+
+383
+00:51:12.510 --> 00:51:16.260
+Benjamin Toll: fully recommend a product that they know has some risk.
+
+384
+00:51:18.300 --> 00:51:19.553
+Jamie Hartmann-Boyce: Thank you.
+
+385
+00:51:20.440 --> 00:51:28.049
+Jamie Hartmann-Boyce: We have another question here from Norbert Zilatan. Schmidt. What
+
+386
+00:51:28.380 --> 00:51:36.979
+Jamie Hartmann-Boyce: if you know, is the assumption of people who say they want to quit vaping about the danger level of vaping compared to smoking. So this is about perceptions.
+
+387
+00:51:36.980 --> 00:51:45.810
+Benjamin Toll: Oh, that's a really good question. So what is their perception? My understanding is that they perceive that it has high risk.
+
+388
+00:51:46.336 --> 00:51:51.470
+Benjamin Toll: And they want to quit. We we looked at Pathway
+
+389
+00:51:51.490 --> 00:52:04.790
+Benjamin Toll: 4 and 5, and it was going up. We're gonna look again at at 6 and 7. It's a really important question. My UN. Understanding is that most people in the country
+
+390
+00:52:04.830 --> 00:52:08.340
+Benjamin Toll: think that that e-cigarettes are
+
+391
+00:52:08.360 --> 00:52:09.620
+Benjamin Toll: quite dangerous.
+
+392
+00:52:11.580 --> 00:52:12.260
+Benjamin Toll: Yeah.
+
+393
+00:52:12.780 --> 00:52:15.770
+Jamie Hartmann-Boyce: And quite dangerous, related to smoking.
+
+394
+00:52:15.770 --> 00:52:20.070
+Benjamin Toll: Yes, that that they're that they're either the same, or worse
+
+395
+00:52:20.210 --> 00:52:26.219
+Benjamin Toll: than than combusted smoking, which we we all know in in the field, and
+
+396
+00:52:26.740 --> 00:52:35.079
+Benjamin Toll: and I'm from the FDA. There's there's measurably less risk for for vapes. But that that is not well known.
+
+397
+00:52:36.350 --> 00:52:36.734
+Benjamin Toll: Yeah.
+
+398
+00:52:37.120 --> 00:52:38.960
+Jamie Hartmann-Boyce: Same with many places in the world. I think.
+
+399
+00:52:38.960 --> 00:52:39.360
+Benjamin Toll: Right.
+
+400
+00:52:39.760 --> 00:52:40.506
+Jamie Hartmann-Boyce: That's problem
+
+401
+00:52:41.700 --> 00:52:46.110
+Jamie Hartmann-Boyce: great. So some more questions coming in.
+
+402
+00:52:47.170 --> 00:52:57.530
+Jamie Hartmann-Boyce: Nicole Krebs has asked e-cigarette users are still a small percentage of the population for your studies with e-cigarette users that want to quit. Is it hard to identify those people for your trials.
+
+403
+00:52:58.090 --> 00:52:59.619
+Benjamin Toll: Can I tell you
+
+404
+00:53:00.470 --> 00:53:30.010
+Benjamin Toll: it was so fast to get mono vapors like I was shocked. It felt like the old tea Tark days. So in the old tea Tark days, in the late nineties and early 2 thousands, we would fill up a giant room at Yale like like 40 people. I mean, they were just calling, calling, calling, and then like, now it's gotten much harder to find people that want to quit smoking. And we did this Mono vaping study
+
+405
+00:53:30.010 --> 00:53:45.319
+Benjamin Toll: with Chantex or or Veronica, and we had loads of patients coming loads. I mean, it was really very I I was surprised. And I will say, having done
+
+406
+00:53:45.760 --> 00:53:48.340
+Benjamin Toll: both. Now, I found that
+
+407
+00:53:48.885 --> 00:53:56.160
+Benjamin Toll: just in in the Charleston market, a lot of interest in the Mono vapors in
+
+408
+00:53:56.260 --> 00:54:11.420
+Benjamin Toll: quitting and interest, but a little bit lower for the dual user. So it's there. But it's not. It's not as much as I mean these amount of vapors. It I mean, this study was a pleasure, because they just kept coming. I mean, really easy. Yeah.
+
+409
+00:54:11.420 --> 00:54:13.300
+Jamie Hartmann-Boyce: Yeah, interesting.
+
+410
+00:54:13.420 --> 00:54:25.539
+Jamie Hartmann-Boyce: Thank you. A question here from Cheryl Olson. Given your focus on cancer, at what point do you anticipate? We might have useful data on e-cigarettes and cancer risk.
+
+411
+00:54:25.940 --> 00:54:44.980
+Benjamin Toll: Well, I mean, we're gonna in our study. Certainly. We're going to look at DNA damage inflammatory markers. So there's obviously like a chain of events that leads to cancer. We're going to look at those various markers and see if
+
+412
+00:54:45.020 --> 00:54:48.060
+Benjamin Toll: those markers go down upon
+
+413
+00:54:48.080 --> 00:54:55.590
+Benjamin Toll: quitting vaping, and that that'll be a strong signal. And I I'm just I I
+
+414
+00:54:55.840 --> 00:55:05.170
+Benjamin Toll: the main goal of me doing this and of me doing these talks is to try to encourage our colleagues to conduct these trials.
+
+415
+00:55:05.840 --> 00:55:07.469
+Benjamin Toll: Do the trials
+
+416
+00:55:07.950 --> 00:55:18.849
+Benjamin Toll: I would love you to help people to quit and to measure biological risk along the way. It's so important that the new trials have great markers of
+
+417
+00:55:19.610 --> 00:55:21.320
+Benjamin Toll: of inflammation.
+
+418
+00:55:21.390 --> 00:55:21.965
+Benjamin Toll: of
+
+419
+00:55:22.800 --> 00:55:27.048
+Benjamin Toll: of DNA damage, and all of the things.
+
+420
+00:55:28.590 --> 00:55:29.250
+Jamie Hartmann-Boyce: Great.
+
+421
+00:55:29.390 --> 00:55:40.699
+Jamie Hartmann-Boyce: Thank you. A question from Skip Murray. Is anyone doing? Follow up studies to see if people who quit smoking with vapor products are still able to stay smoke free for a long period of time, as in years.
+
+422
+00:55:40.700 --> 00:55:41.866
+Benjamin Toll: Yep. Hello!
+
+423
+00:55:42.730 --> 00:55:44.940
+Benjamin Toll: You know I
+
+424
+00:55:45.910 --> 00:55:47.880
+Benjamin Toll: there are so few studies.
+
+425
+00:55:48.418 --> 00:55:54.850
+Benjamin Toll: I do not know of any. I think that's a great idea. Obviously our goal
+
+426
+00:55:54.850 --> 00:56:18.850
+Benjamin Toll: is to stop smoking. Obviously our goal is for people to stay smoke free. One of my fears that was thankfully not borne out in the pilot studies that we've done that I presented is that you quit vaping and go back to smoking. I think that's a reasonable fear that has to be mitigated
+
+427
+00:56:18.850 --> 00:56:42.700
+Benjamin Toll: for us to feel comfortable, so we don't want. So there's there's a continuum of harm. This is air, and this is smoking and vaping's in here. I'd like people to quit and go to no risk not to quit and to go to higher risk. That's not what we're going for, and we really need good studies
+
+428
+00:56:42.800 --> 00:56:45.010
+Benjamin Toll: that have those long term follow ups.
+
+429
+00:56:46.140 --> 00:57:07.430
+Jamie Hartmann-Boyce: Thank you. A question from George Coledner and George apologies. If I've mispronounced your last name, I'm finding that my vaping and pouch, using patients routinely use continuously similar to chain smoking cigarette smokers. Can you comment on the possibility that e-cigarettes and pouches cause less disease, but are more addictive than tobacco cigarettes.
+
+430
+00:57:07.430 --> 00:57:16.980
+Benjamin Toll: I can. And and can I tell you this is a very polarizing subject in which I've been yelled at by people. I think I think
+
+431
+00:57:17.090 --> 00:57:24.230
+Benjamin Toll: that in a way, if you think about vaping versus smoking, and and it's by the way.
+
+432
+00:57:24.320 --> 00:57:36.339
+Benjamin Toll: a lot of my data comes from my live patients who I speak with, and they and they tell me what they do. So the thing about a vape is this, if you smoke cigarettes, it's
+
+433
+00:57:36.340 --> 00:57:57.209
+Benjamin Toll: 20 to a box right, and then you have to light it right? And then and then, when the 20 cigarettes are done, you crush it and you throw it out. That's a that's a very nice stopping point, right? If you have a 5,000 puff, kang vape, you can just go and go and go, and there's no fixed stopping point.
+
+434
+00:57:57.610 --> 00:58:13.480
+Benjamin Toll: The other thing is, there's no fire for vapes. So I have patients that take their vape. They hit it. They put it under their pillow, and then they sleep, and they wake up, maybe through the night. And certainly 1st thing they take it and hit it
+
+435
+00:58:13.830 --> 00:58:14.969
+Benjamin Toll: straight away
+
+436
+00:58:15.810 --> 00:58:29.810
+Benjamin Toll: with smoking. There's a few other steps right? Because it burns. You gotta like get the cigarette out. You gotta light it. You might want to sit up like, it's just harder. Frankly, so I I think.
+
+437
+00:58:29.920 --> 00:58:41.709
+Benjamin Toll: And we have data from, you know, one of the pathways that shows that it may be that that vapes are slightly more addictive because of continuous
+
+438
+00:58:42.120 --> 00:59:00.980
+Benjamin Toll: your use. But that that's emerging data. I'm not saying that that's definitely true. But I do think it's possible. There's no pouch data that I know of. I do know that the pouches are highly addictive. I have patients that use them
+
+439
+00:59:01.010 --> 00:59:09.800
+Benjamin Toll: through the night. And that use many, many tents. So I mean it is an addictive substance in a different vessel.
+
+440
+00:59:10.570 --> 00:59:17.189
+Jamie Hartmann-Boyce: Wonderful. Thank you so much. That's all we have time for today. That was a brilliant talk, and thanks for dealing with all the rapid fire questions.
+
+441
+00:59:17.190 --> 00:59:17.770
+Benjamin Toll: Of course.
+
+442
+00:59:17.770 --> 00:59:21.859
+Jamie Hartmann-Boyce: We didn't get to yours, and I'm gonna hand over to Rachel to close us out.
+
+443
+00:59:24.310 --> 00:59:36.709
+Rachel Rosen: We are out of time. Thank you to our presenter moderator and discussant, and finally, thank you to our audience of 172 people for your participation today. Hope you have a top snotch weekend.
+
+444
+00:59:37.720 --> 00:59:39.049
+Benjamin Toll: Great. Thank you. Everyone.
+
