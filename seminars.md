@@ -41,6 +41,12 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.ReadingList }}" download="{{ speaker.ReadingList }}">Panel Questions</a></td>
 
+
+</tr>
+{% elsif (speaker.Presenter == 'Hojin Park') %}
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (January 2025)</a></td>
+
 </tr>
 {% elsif (speaker.Presenter == 'Matthew Carpenter') %}
 <tr>
@@ -93,7 +99,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a></td>
 </tr>
 
-{% elsif (speaker.Presenter == 'Scott Halpern')  or (speaker.Presenter == 'Victoria Barone') or (speaker.Presenter == 'Maxwell Chomas') or (speaker.Presenter == 'Nancy Rigotti') or (speaker.Presenter == 'Shaoying Ma') or (speaker.Presenter == 'Charles Courtemanche') or (speaker.Presenter == 'Hojin Park') or (speaker.Presenter == 'Revathy Suryanarayana') or (speaker.Presenter == 'Kevin Callison') or (speaker.Presenter == 'Megan Piper') or (speaker.Presenter == 'Alex Liber') or (speaker.Presenter == 'Theodore Wagener') or (speaker.Presenter == 'Christian Saenz') or (speaker.Presenter == 'Brendan Cirillo') or (speaker.Presenter == 'Yichen Fang') or (speaker.Title == 'Electronic cigarettes and subsequent cigarette smoking in young people: methodological considerations and results from a Cochrane Review') or (speaker.Presenter == 'Sooa Ahn') or (speaker.Presenter == 'Samuel Sturm') or (speaker.Presenter == 'Annika Theodoulou') or (speaker.Presenter == 'Guillermo Paraje') or (speaker.Presenter == 'Jerome Adda') or (speaker.Presenter == 'Doug Levy') %}
+{% elsif (speaker.Presenter == 'Scott Halpern')  or (speaker.Presenter == 'Victoria Barone') or (speaker.Presenter == 'Maxwell Chomas') or (speaker.Presenter == 'Nancy Rigotti') or (speaker.Presenter == 'Shaoying Ma') or (speaker.Presenter == 'Charles Courtemanche') or (speaker.Presenter == 'Revathy Suryanarayana') or (speaker.Presenter == 'Kevin Callison') or (speaker.Presenter == 'Megan Piper') or (speaker.Presenter == 'Alex Liber') or (speaker.Presenter == 'Theodore Wagener') or (speaker.Presenter == 'Christian Saenz') or (speaker.Presenter == 'Brendan Cirillo') or (speaker.Presenter == 'Yichen Fang') or (speaker.Title == 'Electronic cigarettes and subsequent cigarette smoking in young people: methodological considerations and results from a Cochrane Review') or (speaker.Presenter == 'Sooa Ahn') or (speaker.Presenter == 'Samuel Sturm') or (speaker.Presenter == 'Annika Theodoulou') or (speaker.Presenter == 'Guillermo Paraje') or (speaker.Presenter == 'Jerome Adda') or (speaker.Presenter == 'Doug Levy') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a></td>
 </tr>
