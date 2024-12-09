@@ -184,7 +184,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 
 </tr> 
 
-   {% elsif speaker.Presenter == 'Travis Whitacre' or (speaker.Presenter == 'Hojin Park ') %}
+   {% elsif (speaker.Presenter == 'Travis Whitacre') or (speaker.Presenter == 'Hojin Park ') %}
 <tr>
   <td id="anchor1" colspan="2" height="40" valign="top" class="registration">Links (Other materials are embargoed until a later date): <a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a></td>  
 
