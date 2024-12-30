@@ -1,0 +1,1550 @@
+WEBVTT
+
+1
+00:00:03.800 --> 00:00:14.690
+Tong Lin: Welcome to the tobacco online policy seminar tops. Thank you for joining us today. I'm Dr. Tong. Lin, a postdoctoral scholar at Ohio State University
+
+2
+00:00:14.930 --> 00:00:22.540
+Tong Lin: tops is organized by Mike Pascoe at University of Missouri, C. Sean at Ohio State University.
+
+3
+00:00:22.630 --> 00:00:25.720
+Tong Lin: Michael Darden at John Hopkins University.
+
+4
+00:00:25.750 --> 00:00:29.430
+Tong Lin: Jamie Harmon Boyce at University of Massachusetts, Amherst
+
+5
+00:00:29.440 --> 00:00:32.169
+Tong Lin: and Justin White at Boston University.
+
+6
+00:00:32.720 --> 00:00:37.919
+Tong Lin: The seminar will be 1 h with questions from the Moderator and discussant.
+
+7
+00:00:38.050 --> 00:00:42.420
+Tong Lin: The audience may post questions and comments in the Q. And a panel.
+
+8
+00:00:42.430 --> 00:00:47.840
+Tong Lin: and the moderator will draw from these questions and comments in conversation with the presenter.
+
+9
+00:00:48.310 --> 00:00:54.419
+Tong Lin: Please review the guidelines on the tobaccopolicy.org for acceptable questions.
+
+10
+00:00:54.780 --> 00:00:59.730
+Tong Lin: Please keep the questions professional and related to the research being discussed.
+
+11
+00:01:00.410 --> 00:01:08.530
+Tong Lin: Questions that meet the seminar series. Guidelines will be shared with the presenter afterwards, even if they are not read aloud.
+
+12
+00:01:08.880 --> 00:01:11.809
+Tong Lin: your questions are very much appreciated.
+
+13
+00:01:12.170 --> 00:01:16.699
+Tong Lin: The presentation is being video recorded and will be made available
+
+14
+00:01:16.760 --> 00:01:23.159
+Tong Lin: along with the presentation slides on the top website, tobaccopolicy.org.
+
+15
+00:01:24.020 --> 00:01:28.329
+Tong Lin: I will turn the presentation over to today's moderator. See Shan
+
+16
+00:01:28.410 --> 00:01:32.099
+Tong Lin: from the Ohio State University to introduce our speaker.
+
+17
+00:01:32.570 --> 00:01:49.990
+Ce Shang: Thank you. Today we continue our winter. 2025. Season with a single paper presentation by Travis Whitker, entitled Flavored E-cigarette Sales, Restrictions, and young adult tobacco use in the United States.
+
+18
+00:01:50.120 --> 00:01:57.759
+Ce Shang: This presentation was selected via a competitive review process by submissions through the tops website.
+
+19
+00:01:58.030 --> 00:02:17.269
+Ce Shang: Dr. Travis Waker is a postdoctoral scholar at Yale University's School of Public Health, and is a Castor postdoctoral research fellow. Some of his research focuses on the cross-section of adolescent mental health and smoking behavior.
+
+20
+00:02:17.270 --> 00:02:34.399
+Ce Shang: His research analyzes large survey data sites using applied econometric and quasi-experimental analysis to inform how access to mental health care affects an adolescent's health decisions and human capital development.
+
+21
+00:02:34.760 --> 00:02:47.820
+Ce Shang: Dr. Abigail Fredman, Associate Professor at Yale University, is a co-author of the study, and will answer select questions in the Q. And a Dr. Whitaker. Thank you for presenting for us today.
+
+22
+00:02:50.170 --> 00:02:51.020
+Travis Whitacre: Thank you.
+
+23
+00:02:51.290 --> 00:02:52.160
+Travis Whitacre: Alright.
+
+24
+00:02:54.330 --> 00:03:05.690
+Travis Whitacre: Hi! All right, I'm Travis Whitaker. Thank you for having me today. I'd also like to thank my co-authors Abby Friedman and Mike Pesco for their contributions to our project.
+
+25
+00:03:06.800 --> 00:03:07.600
+Travis Whitacre: So
+
+26
+00:03:07.800 --> 00:03:19.330
+Travis Whitacre: so our funding is through some grants from the Nci and FDA and Nih. We have no conflicts of interest to disclose.
+
+27
+00:03:20.640 --> 00:03:37.940
+Travis Whitacre: Okay, so just kind of like, as a quick overview of what we're going to be talking about today. So I'm going to give some like general public or health conundrums involved in thinking about policies for electronic nicotine delivery devices or ends.
+
+28
+00:03:38.120 --> 00:03:51.099
+Travis Whitacre: and describe the quasi-experimental background literature in this space before we dive into our specific research questions, data, methods, findings, limitations and the implications of that.
+
+29
+00:03:51.700 --> 00:04:15.479
+Travis Whitacre: So just some background is like over the past 2 decades. Over this same period, where young adult, combustible cigarette use has fallen from about 17.9% to 6.5%. Young adult ends use has risen pretty dramatically from about 5.4% to 13.6%
+
+30
+00:04:15.530 --> 00:04:35.050
+Travis Whitacre: over the same period. So this has motivated a lot of regulatory research focus on ends, and it's given. And so like. Given, this increase in ends use has been particularly evident among young adults. This has led some policymakers to focus local efforts on regulating ends
+
+31
+00:04:35.050 --> 00:04:47.169
+Travis Whitacre: through restrictions of flavors. So as an example, there's now about a quarter of us residents that live in a jurisdiction with some form of flavored ends, restrictions.
+
+32
+00:04:47.180 --> 00:05:07.279
+Travis Whitacre: and so like one scoping review of quasi-experimental analyses of a variety of different ends, policies from Pesco found that, like 16 of 18 of them, found ends, restrictions, increased. Conventional cigarette use smoking relative to non-adopting states.
+
+33
+00:05:07.360 --> 00:05:17.829
+Travis Whitacre: So this is like a note of caution for policymakers is that these, since these products can have varying like risk profiles and
+
+34
+00:05:18.360 --> 00:05:27.140
+Travis Whitacre: vaping's effect on quality of adjusted life, expectancy is estimated to be about like 37% of that is smoking.
+
+35
+00:05:27.200 --> 00:05:52.049
+Travis Whitacre: So this is going to matter because the goal of an ends regulation is not singular and just reducing ends use. But we also need to consider how the policy effects might affect smoking, either smoking initiation or smoking cessation. So the most ideal ends regulation would be one that could reduce ends use without also increasing smoking rates.
+
+36
+00:05:53.295 --> 00:05:59.980
+Travis Whitacre: So our research question is, then how do policies restricting the sales of flavored ends
+
+37
+00:06:00.000 --> 00:06:08.260
+Travis Whitacre: or flavored electronic nicotine delivery systems affect young adult vaping and cigarette smoking in the United States.
+
+38
+00:06:08.870 --> 00:06:37.020
+Travis Whitacre: So we're going to apply a quasi experimental research design to nationally and state representative data from the behavioral risk factor. Surveillance system survey that focuses on 18 to 29 year olds in order to determine how young adults, ends and cigarettes use changed in states that did not versus did adopt ends, flavor, restrictions, and then, before and after those policies go into effect.
+
+39
+00:06:37.080 --> 00:06:56.720
+Travis Whitacre: So not only are the transitions into daily smoking common in this age group about 52% of us daily smokers, aged 26, through 29, reported 1st smoking daily at or after the age of 18. But benefits from cessation are particularly high.
+
+40
+00:06:56.730 --> 00:07:17.240
+Travis Whitacre: So if we think survival occurs for cigarette smokers who quit before the age 35 are nearly identical to those who are were never smokers. So, consequently this means that policies that decrease habitual smoking among this young adult age group are going to have really large benefits for population health.
+
+41
+00:07:17.717 --> 00:07:25.089
+Travis Whitacre: So our objective is to estimate how ends flavor restrictions relate to young adults use of cigarettes and ends.
+
+42
+00:07:26.520 --> 00:07:27.620
+Travis Whitacre: So
+
+43
+00:07:27.670 --> 00:07:50.339
+Travis Whitacre: our approach to answer this question is, we're going to utilize quasi experimental analyses. And so we're thinking the way that we think about quasi experimental analyses in our paper is a research design which, or a quasi experimental research design that also formally tests. If assumptions for that design are likely to hold
+
+44
+00:07:51.630 --> 00:07:52.590
+Travis Whitacre: and
+
+45
+00:07:53.411 --> 00:07:56.378
+Travis Whitacre: so in reviewing some of the prior literature,
+
+46
+00:07:56.960 --> 00:07:58.293
+Travis Whitacre: before that
+
+47
+00:07:59.030 --> 00:08:17.999
+Travis Whitacre: on the ends, flavor policies that were also quasi-experimental analyses, like following that definition is that there was a study from fried bin which found restrictions on flavored end sales reduced retail sales of ends. But increased cigarette sales.
+
+48
+00:08:18.360 --> 00:08:36.260
+Travis Whitacre: And then there was also a scoping review of 30 studies which found moderate quality evidence that ends restrictions or that yeah flavored ends, restrictions decreased in sales and low quality evidence that they increased cigarette sales.
+
+49
+00:08:36.350 --> 00:09:01.570
+Travis Whitacre: I also want to note that there's also a couple of really excellent working in the er papers that are out, which look at this topic, and are also quasi experimental analyses. But these papers came out after we'd already submitted this paper for Peer Review, and so we weren't able to include them within our paper because of that
+
+50
+00:09:03.630 --> 00:09:04.830
+Travis Whitacre: And so
+
+51
+00:09:06.860 --> 00:09:08.240
+Travis Whitacre: then
+
+52
+00:09:08.700 --> 00:09:11.666
+Travis Whitacre: to provide like a little a preview
+
+53
+00:09:12.100 --> 00:09:13.140
+Travis Whitacre: of
+
+54
+00:09:13.540 --> 00:09:16.560
+Travis Whitacre: like both of our methods and our results.
+
+55
+00:09:16.570 --> 00:09:27.120
+Travis Whitacre: or in our research design, is our team collected a comprehensive data set on state and local restrictions on the sales of flavored ends, cigars, and cigarettes.
+
+56
+00:09:27.180 --> 00:09:48.870
+Travis Whitacre: And so this data set is going to end up being will end up being shared upon its publication. But that's under separate review from this paper. And then we match this data set to a survey data of 18 to 29 year olds from Urfis or the behavioral risk factor, surveillance system over the 2,016 through 2023 year period.
+
+57
+00:09:48.870 --> 00:10:00.790
+Travis Whitacre: We then implemented a two-way fixed effects design to compare States which did versus did not adopt ins flavor restrictions, and before and after those went into effect
+
+58
+00:10:00.920 --> 00:10:12.369
+Travis Whitacre: we are also able to capture partial policy coverage, as our collected flavor policy data set also included municipal flavor policy restrictions when there were none at the State level.
+
+59
+00:10:12.370 --> 00:10:32.049
+Travis Whitacre: One of the potential issues from these designs is that these policies had staggered implementation and that they were implemented at different times, and so that could potentially generate some bias. And so to account for this we test for bias, using goodman bacon decompositions.
+
+60
+00:10:32.570 --> 00:10:36.323
+Travis Whitacre: and we don't find any evidence of
+
+61
+00:10:36.990 --> 00:10:39.900
+Travis Whitacre: bias being introduced through the staggered design.
+
+62
+00:10:40.490 --> 00:10:54.860
+Travis Whitacre: So what we'll end up seeing with our results is that if ends flavor restrictions, or is that ends flavor, restrictions end up yielding reductions in young adult vaping, but increases in young adult smoking.
+
+63
+00:10:56.730 --> 00:10:57.810
+Travis Whitacre: So
+
+64
+00:10:59.010 --> 00:11:11.809
+Travis Whitacre: 1st are the data from our outcomes, and our controls are going to be taken from Burfis, which is an annual cross-sectional survey of non-institutionalized us civilian adults.
+
+65
+00:11:11.850 --> 00:11:13.000
+Travis Whitacre: and it's
+
+66
+00:11:13.160 --> 00:11:15.640
+Travis Whitacre: nationally and State representative.
+
+67
+00:11:17.180 --> 00:11:24.872
+Travis Whitacre: so from purpose. We then formed a balanced panel from the survey. And so this is important, because,
+
+68
+00:11:25.470 --> 00:11:43.380
+Travis Whitacre: There we had to omit some States based off of 2 issues in order to form this balance panel. One was that as the ends. Questions in the survey were optional in the years 2018, and 2020. So there are some States which did not report, for both
+
+69
+00:11:43.380 --> 00:11:57.800
+Travis Whitacre: did not report for both. And so we needed to drop those States in order to form a balanced panel. And it's also important to note that the ends questions were also dropped entirely during the year 2019. So that created an issue. So then.
+
+70
+00:11:57.940 --> 00:12:00.448
+Travis Whitacre: we then match the policy
+
+71
+00:12:01.754 --> 00:12:06.190
+Travis Whitacre: or purpose to policy and environmental control variables.
+
+72
+00:12:06.584 --> 00:12:20.715
+Travis Whitacre: Based off of like state and interview timing. So kind of a general list of like some of like the controls that we'll end up, including is like total bans on unflavored ends smoke, free and vape free workplace laws.
+
+73
+00:12:21.170 --> 00:12:43.639
+Travis Whitacre: deaths from vape associated by lung injuries. If in sales. Restrictions are blocked or stayed, tax rates for cigarette cigars, inns and beer indicators on which types which individuals can legally purchase tobacco products and indicators for legalized medical and recreational cannabis use
+
+74
+00:12:45.080 --> 00:12:47.720
+Travis Whitacre: or legalization or cannabis legalization.
+
+75
+00:12:48.150 --> 00:13:06.210
+Travis Whitacre: And so then our outcome variables are going to be with vaping and smoking. And so they're taken from a question with like the syntax like, do you now use cigarettes, or do you now, or vape e-cigarettes every day? Someday or not at all.
+
+76
+00:13:06.736 --> 00:13:20.250
+Travis Whitacre: And so with this question, we create an indicator variable. For if somebody was a daily and or a current ins user or ends vapor or a cigarette smoker
+
+77
+00:13:20.786 --> 00:13:33.429
+Travis Whitacre: so daily and current cigarette smoking is also predicated on the person having smoked over 100 cigarettes in their lifetime. Otherwise they were not coded.
+
+78
+00:13:33.620 --> 00:13:38.100
+Travis Whitacre: so if they had not smoked a hundred cigarettes in their lifetime, they were not quoted as a smoker.
+
+79
+00:13:40.240 --> 00:13:43.179
+Travis Whitacre: and so then, for our exposure variables.
+
+80
+00:13:44.550 --> 00:14:01.430
+Travis Whitacre: we had our team compiled our own comprehensive flavor policy data set. And so breaking this out into like 2 steps of the work that we had to put in in order to compile this flavor policy data set is like, first, st
+
+81
+00:14:01.540 --> 00:14:04.180
+Travis Whitacre: we compiled a combined list
+
+82
+00:14:04.856 --> 00:14:09.450
+Travis Whitacre: of policies from multiple different advocacy groups
+
+83
+00:14:09.460 --> 00:14:24.780
+Travis Whitacre: which collected flavor policy details across us jurisdictions. And then from there we also conducted our own online searches and reviews, and an attempt to catch any flavor policies which may have been missed by advocacy groups
+
+84
+00:14:25.267 --> 00:14:28.120
+Travis Whitacre: which we were able to identify some.
+
+85
+00:14:28.570 --> 00:14:45.279
+Travis Whitacre: And so then the second. The second step is now that we had this list. We then went and obtained all the signed ordinances and review, and had our team review them to confirm that the policy went into effect on the right dates and
+
+86
+00:14:45.760 --> 00:14:53.692
+Travis Whitacre: so and determine what the effective dates were, and also to determine what all of the different policy details were
+
+87
+00:14:54.560 --> 00:14:57.219
+Travis Whitacre: And so we also.
+
+88
+00:14:57.290 --> 00:15:18.649
+Travis Whitacre: So through this, like, we're establishing effective dates, policy details on like which types of ends, products are restricted. And then each entry was then independently, independently reviewed by 2 coders on our team, and then, if there was any discrepancy found between those 2 coders, we had a 3rd doctoral level Coder resolve that discrepancy
+
+89
+00:15:19.080 --> 00:15:45.340
+Travis Whitacre: so in doing this, we're able to identify policy elements which had not been captured through the advocacy advocacy group documents, and we were also able to identify mistakes such as like false positives or false negatives, where, like a policy could have been listed, that it had been, in effect, from an advocacy group, and then our team was able to identify that this policy was like was only proposed but not actually implemented
+
+90
+00:15:46.024 --> 00:16:04.700
+Travis Whitacre: and so then, over the sample period in our data, we can see then, that flavored end sales restrictions go from almost no coverage to about 28% of us residents being covered by either a state or local flavored ends policy.
+
+91
+00:16:07.005 --> 00:16:07.920
+Travis Whitacre: Alright.
+
+92
+00:16:08.050 --> 00:16:14.320
+Travis Whitacre: And so then the methodology that we're going to be using. Is a 2 way fixed effects analysis.
+
+93
+00:16:14.420 --> 00:16:28.779
+Travis Whitacre: So if you're not familiar with the 2 way fixed effects analysis, the idea of like the regression specification is that we include both a state and like
+
+94
+00:16:28.820 --> 00:16:33.599
+Travis Whitacre: a State fixed effect and a time fixed effect. So
+
+95
+00:16:34.044 --> 00:16:49.040
+Travis Whitacre: which you can see here for the state fixed effect in here, for, like the quarterly time, fixed effect, the idea of this is that within the state fixed effect all of the individual characteristics like unique to that state.
+
+96
+00:16:49.395 --> 00:17:09.319
+Travis Whitacre: Kind of get subsumed into this fixed effect. So it's all it's like a control for a state. And similarly, for, like the time fixed effect. If there's anything unique to that specific quarter on that could be driving like ends, use or smoking queues, it's getting subsumed within this like quarterly fixed effect.
+
+97
+00:17:11.220 --> 00:17:21.180
+Travis Whitacre: We then include also an ample amount of controls. Including other tobacco control restrictions that we had discussed a few slides before
+
+98
+00:17:22.084 --> 00:17:29.580
+Travis Whitacre: and so what this 1st specification is is the idea is that
+
+99
+00:17:29.977 --> 00:17:35.340
+Travis Whitacre: most researchers like if they do like their if 2, a fixed effects regression you would think of.
+
+100
+00:17:35.797 --> 00:17:53.429
+Travis Whitacre: the treatment as like a State flavored policy, and then like a local flavor policy. And you would differentiate those effects as potentially being different where this would be like partial coverage, like within the region. And this is like the full state coverage of the ends, restriction.
+
+101
+00:17:54.073 --> 00:18:06.920
+Travis Whitacre: So we prefer the second specification, where we actually separate out differing state policies. Well, specifically, Maryland's state policy.
+
+102
+00:18:07.460 --> 00:18:16.850
+Travis Whitacre: And the reason for that is that Maryland's policy is actually pretty. Unique compared to the other State policies. One of those is that
+
+103
+00:18:17.020 --> 00:18:34.390
+Travis Whitacre: Maryland's policy is not a law or an executive order. It's just a regulation, but it also is unique in the fact that it applies only to closed system ends or it exempts. Open system ends
+
+104
+00:18:34.390 --> 00:18:50.370
+Travis Whitacre: so you can. It's specifically regulating like disposable ends products. And it also exempts menthol flavors. So there's 2 things that are fairly unique about it compared to some of the other State policies.
+
+105
+00:18:51.840 --> 00:19:05.440
+Travis Whitacre: and so, because of that, we wanted to treat it separately, because there might be different effects from Maryland's policy compared to the other State policies. But then we'll show the results of both of these specifications
+
+106
+00:19:06.860 --> 00:19:19.409
+Travis Whitacre: right? And then, in order for, like causal interpretation, to hold we would need 3 assumptions to these 3 assumptions to hold.
+
+107
+00:19:19.919 --> 00:19:29.560
+Travis Whitacre: The 1st is that covariates adjust for other time varying policies or events related to both the exposure and outcome.
+
+108
+00:19:29.890 --> 00:19:42.549
+Travis Whitacre: Second states that did versus did not adopt flavor. Restrictions need to exhibit parallel trends and their outcome variable before policies went into effect, adjusting for the other covariates.
+
+109
+00:19:42.610 --> 00:19:58.339
+Travis Whitacre: and 3, rd with staggered with staggered adoption. Either comparisons between early versus late adopters do not drive effect estimates or estimates use some type of method that's robust dynamic treatment effects.
+
+110
+00:19:59.400 --> 00:20:10.920
+Travis Whitacre: So by including a broad range of tobacco policy, covariates and controls and adjusting for flavor policy coverage. This should help address assumption one.
+
+111
+00:20:11.100 --> 00:20:20.869
+Travis Whitacre: and then event studies are will check for violations of parallel pre-trins to help test for assumption 2 or
+
+112
+00:20:20.990 --> 00:20:22.170
+Travis Whitacre: and then
+
+113
+00:20:22.600 --> 00:20:33.890
+Travis Whitacre: we're the Goodman Bacon decompositions which we'll be doing will assess for potential bias that could be related to staggered adoption of enslaver policies with assumption. 3
+
+114
+00:20:34.160 --> 00:20:39.946
+Travis Whitacre: and so then within our paper, we stated like, if the goodman vacant decompositions,
+
+115
+00:20:41.059 --> 00:21:08.520
+Travis Whitacre: weren't consistent with no substantive bias, so like if they found evidence of bias due to the staggered policy adoption. Then we would use an approach like Ches Martin's staggered difference in differences. Design. But when we do this. The goodman bacon decompositions. It's consistent with evidence of like no bias introduced due to the staggered implementation. So we
+
+116
+00:21:08.520 --> 00:21:21.740
+Travis Whitacre: stick with like the 2 way fixed effect specification. Because that's going to be more efficient than like the staggered difference in difference design if bias isn't being introduced, or it's likely that
+
+117
+00:21:21.880 --> 00:21:24.029
+Travis Whitacre: bias was not introduced.
+
+118
+00:21:24.470 --> 00:21:28.419
+Travis Whitacre: I think this is where we're gonna pause for some questions.
+
+119
+00:21:31.020 --> 00:21:39.890
+Ce Shang: Thank you. I think. Let's see whether our discussion have any comments. So our discussion today is Dr. Melanie Doll.
+
+120
+00:21:40.080 --> 00:21:54.990
+Ce Shang: an assistant adjunct professor from Uc. Davis. She also has a lead role in the tobacco cessation policy research center and academic and community partnership housed at the Uc. Davis, comprehensive cancer center.
+
+121
+00:21:56.920 --> 00:22:01.389
+Ce Shang: Thank you. So, Dr. Dolph, do you have any comments? Thank you.
+
+122
+00:22:02.807 --> 00:22:03.882
+Melanie Dove: Thank you.
+
+123
+00:22:04.440 --> 00:22:11.919
+Melanie Dove: I just, I just want to say that this is a really interesting study and a creative use of the purpose data.
+
+124
+00:22:12.080 --> 00:22:19.710
+Melanie Dove: And it sounds like you've your methods are very rigorous. Including the comprehensive data set
+
+125
+00:22:19.750 --> 00:22:22.369
+Melanie Dove: that you created on the flavor policies
+
+126
+00:22:22.460 --> 00:22:28.829
+Melanie Dove: and the the quasi experimental analysis with the different specifications.
+
+127
+00:22:28.870 --> 00:22:30.980
+Melanie Dove: The one question that I have
+
+128
+00:22:31.140 --> 00:22:35.449
+Melanie Dove: is about the the dates of the policies. So
+
+129
+00:22:35.840 --> 00:22:47.930
+Melanie Dove: a lot of times policies will have different dates, such as the the date they're past, the date. They're effective, the date they're enforced. And so I'm just wondering which which date you used in your analysis.
+
+130
+00:22:48.610 --> 00:23:15.639
+Travis Whitacre: Right. We collect both the effective dates, the passage dates, and, like an enforcement dates. I think we utilize the effective dates. But I think we also have controls for I think we also have controls, for if there is like a different enforcement date, or if there was like a stay, as I think Abby or Mike could also verify that. But
+
+131
+00:23:17.540 --> 00:23:20.180
+Travis Whitacre: yeah, legislated effective dates.
+
+132
+00:23:20.450 --> 00:23:21.200
+Travis Whitacre: But
+
+133
+00:23:23.560 --> 00:23:24.080
+Travis Whitacre: okay.
+
+134
+00:23:24.080 --> 00:23:25.430
+Melanie Dove: Great. Thank you.
+
+135
+00:23:30.772 --> 00:23:41.099
+Ce Shang: I see one question from the audience, from ho! Jin Park. Does the State restriction override the locality? Level restrictions? And what about the other way around.
+
+136
+00:23:41.600 --> 00:23:45.410
+Ce Shang: It's like, you know, there are different levels of policies.
+
+137
+00:23:46.960 --> 00:23:48.560
+Travis Whitacre: Right? So
+
+138
+00:23:48.610 --> 00:23:50.040
+Travis Whitacre: asking for
+
+139
+00:23:52.760 --> 00:23:56.410
+Travis Whitacre: level. So different intensities of policy.
+
+140
+00:23:57.110 --> 00:24:11.970
+Ce Shang: I think it's like, if the state policies and local policies are different. So which one arise which one so is the, you know the city level, county level policies apply? Or is the State level? And whether there are like preemptions going on so.
+
+141
+00:24:12.430 --> 00:24:13.010
+Travis Whitacre: Right.
+
+142
+00:24:13.010 --> 00:24:15.290
+Ce Shang: Yeah, just to rephrase a bit of the question. Yeah.
+
+143
+00:24:15.470 --> 00:24:18.859
+Travis Whitacre: So I think that would probably depend where it's.
+
+144
+00:24:18.900 --> 00:24:36.860
+Travis Whitacre: If there is a State level policy, then I think that should override whatever any of the local level policies are. If there's no state policy. But there is a local policy, then that's where it would be like the partial coverage, so like within that jurisdiction. It would be covered, but not for the whole state.
+
+145
+00:24:37.546 --> 00:24:38.799
+Travis Whitacre: I think
+
+146
+00:24:39.070 --> 00:24:42.182
+Travis Whitacre: if there's a contradiction
+
+147
+00:24:43.030 --> 00:24:52.610
+Travis Whitacre: then I think it should defer to what the state policy is. Where it's like if there's a state policy that invalidates. But I think.
+
+148
+00:24:53.100 --> 00:24:55.020
+Travis Whitacre: Abby, yeah
+
+149
+00:24:55.030 --> 00:24:56.370
+Travis Whitacre: should be able to
+
+150
+00:24:56.870 --> 00:24:59.730
+Travis Whitacre: like a verify that too. Right?
+
+151
+00:25:00.210 --> 00:25:03.659
+Ce Shang: Yeah, I think she mentioned in the chat box. It really depends.
+
+152
+00:25:03.988 --> 00:25:10.260
+Ce Shang: Yeah, I think those are all the open questions I see in the Q. And a. So please proceed. Thank you.
+
+153
+00:25:10.500 --> 00:25:11.830
+Travis Whitacre: Okay, thank you.
+
+154
+00:25:12.450 --> 00:25:14.290
+Travis Whitacre: Alright. So
+
+155
+00:25:14.704 --> 00:25:19.569
+Travis Whitacre: we'll continue now with, like, looking through. Some of the results.
+
+156
+00:25:19.690 --> 00:25:41.788
+Travis Whitacre: Okay, so what I'm going to show you now, is a summary statistics table. So the 1st thing to note is that because we use the balance panel. I do want to show you like, if we looked at the full data versus the balanced panel that the means for our variables are fairly similar.
+
+157
+00:25:42.700 --> 00:25:47.249
+Travis Whitacre: whether we're using the full data or the balance panel. So that's going to be reassuring.
+
+158
+00:25:49.070 --> 00:26:02.189
+Travis Whitacre: and then other things to point out is that over time we are seeing an increase in ends. Use both with current ends, use and daily ends. Use current and daily ends use.
+
+159
+00:26:02.560 --> 00:26:04.580
+Travis Whitacre: and then we also see
+
+160
+00:26:05.580 --> 00:26:08.309
+Travis Whitacre: declines and current
+
+161
+00:26:08.952 --> 00:26:25.527
+Travis Whitacre: cigarette use and current smoking are in daily cigarette. Use and then only a marginal decline in any current use, whether, if you like, added both cigarette or ends. So either.
+
+162
+00:26:26.260 --> 00:26:36.220
+Travis Whitacre: And then also over time, we see a substantial increase and the amount of flavored ends restrictions and a substant, and
+
+163
+00:26:36.310 --> 00:26:45.510
+Travis Whitacre: also an increase in the amount of flavored cigar and menthol cigarette restrictions, although they, those are outpaced by the flavored end sales restrictions.
+
+164
+00:26:48.830 --> 00:26:49.540
+Travis Whitacre: Then.
+
+165
+00:26:50.260 --> 00:27:13.770
+Travis Whitacre: And so, looking at our 1st set of the 2 way fixed effects results. We're 1st going to look at just current vaping. So within this, each of these letters is going to represent a different specification. And so where A is just the simplified analysis. So this does not use the balance panel and it does not break out Maryland's policy.
+
+166
+00:27:13.900 --> 00:27:15.040
+Travis Whitacre: And then
+
+167
+00:27:15.704 --> 00:27:24.419
+Travis Whitacre: B uses our preferred specification. But it's the full sample and not the balance panel.
+
+168
+00:27:25.136 --> 00:27:31.400
+Travis Whitacre: See uses our preferred specification with the balance panel
+
+169
+00:27:31.620 --> 00:27:59.115
+Travis Whitacre: D does the same thing except we also apply the weights. So we just want to be able to verify that if we use the weights, or if it's unweighted that the results should. How those results compare. And then E and f are 2 robustness checks, one drops the 1st 6 months of COVID-19, and the other drops the 10 highest smoking states
+
+170
+00:28:00.150 --> 00:28:15.330
+Travis Whitacre: and so for our purposes, like we state it's like our preferred specification as C, but for transparency we're just. We'll show you all of the different specifications. And so what you'll see for current vaping.
+
+171
+00:28:15.330 --> 00:28:31.046
+Travis Whitacre: Is that there's a substantial decline in current vaping from the ends, following an ends, restriction, and then there's also a substantial decline in current vaping, following Maryland's
+
+172
+00:28:32.795 --> 00:28:33.810
+Travis Whitacre: restriction.
+
+173
+00:28:36.400 --> 00:28:42.209
+Travis Whitacre: And then, when we look at daily vaping, the results are even stronger
+
+174
+00:28:42.290 --> 00:28:54.690
+Travis Whitacre: in all cases, state restrictions on flavored end sales yield statistically significant reductions in daily vaping. And the same is true for Maryland in all but one of the cases here.
+
+175
+00:28:54.820 --> 00:28:59.238
+Travis Whitacre: But within our preferred specification, it would be
+
+176
+00:28:59.790 --> 00:29:04.760
+Travis Whitacre: about a 3.6% decline in daily vaping from the non-maryland states.
+
+177
+00:29:04.770 --> 00:29:10.170
+Travis Whitacre: and about a 1.1% decline in daily vaping within Maryland.
+
+178
+00:29:12.020 --> 00:29:24.340
+Travis Whitacre: So that for our 2 way fixed effects, event studies the. This is just checking to see if our results are consistent with parallel trends folding.
+
+179
+00:29:24.400 --> 00:29:32.600
+Travis Whitacre: And then so for the balance panel, it's reassuring that. These results look to be consistent with parallel trends.
+
+180
+00:29:34.910 --> 00:29:49.549
+Travis Whitacre: And now for our goodman Bacon. Decompositions intuitively, this Goodman Bacon decompose again. This is the idea here is to check to see if that assumption 3. That like does staggered design create
+
+181
+00:29:50.070 --> 00:30:16.930
+Travis Whitacre: checking to make sure that if staggered design creates bias so intuitively, the goodman Bacon decomposition disaggregates our policy coefficient estimate into 3 different types. So it's essentially we could disaggregate our estimate of how how this ends. Restriction affects daily vaping or current vaping into was the State
+
+182
+00:30:17.180 --> 00:30:21.679
+Travis Whitacre: out of your States that did adopt the policy which what what's
+
+183
+00:30:21.820 --> 00:30:30.539
+Travis Whitacre: is there a difference between like early versus late adopters, or vice versa, with late adopters versus early adopters. Does that
+
+184
+00:30:30.590 --> 00:30:37.850
+Travis Whitacre: affect the coefficient, then, like how much of that coefficient is being driven by adopters versus never adopters
+
+185
+00:30:38.299 --> 00:30:47.529
+Travis Whitacre: and then how much the coefficient is within adopt within the adopter so like pre and post adoption of the policy.
+
+186
+00:30:47.670 --> 00:31:02.969
+Travis Whitacre: and so in terms of where bias can be introduced through stacker design that's going to be coming through a where, if you adopted early, does that affect change? What the coefficient estimate would be than if you adopt late
+
+187
+00:31:04.380 --> 00:31:14.039
+Travis Whitacre: and so what we do then is like with the goodman Bacon. Decomposition is like looking here or looking here at like current vaping.
+
+188
+00:31:15.800 --> 00:31:21.660
+Travis Whitacre: d is the point. Estimate when we include a
+
+189
+00:31:21.870 --> 00:31:37.509
+Travis Whitacre: and e is the point estimate if we X omit a. And so, since these 2 are the same for current vaping. There's no evidence of bias being introduced through the staggered implementation of these policies.
+
+190
+00:31:37.690 --> 00:31:41.890
+Travis Whitacre: similar for daily vaping. We don't find any evidence of.
+
+191
+00:31:42.540 --> 00:31:49.550
+Travis Whitacre: or the these were like, it's consistent with the idea of no bias being introduced via staggered adoption.
+
+192
+00:31:51.060 --> 00:32:02.770
+Travis Whitacre: So then, switching to cigarette smoking, we find evidence that State. Restrictions on flavored in sales yield increases in current smoking. Outside of Maryland.
+
+193
+00:32:02.820 --> 00:32:14.190
+Travis Whitacre: However, what we'll actually see is that Maryland's policy yields reductions in current smoking that are significant in all but one of the balanced sample analyses.
+
+194
+00:32:14.810 --> 00:32:18.490
+Travis Whitacre: So that's going to be pretty interesting. So
+
+195
+00:32:19.180 --> 00:32:21.060
+Travis Whitacre: yeah, we see different effects.
+
+196
+00:32:22.540 --> 00:32:30.500
+Travis Whitacre: of the in sales restriction on current smoking when it's the non Maryland States versus Maryland.
+
+197
+00:32:30.840 --> 00:32:34.309
+Travis Whitacre: So like, then, if we compare this to daily smoking.
+
+198
+00:32:34.330 --> 00:32:37.680
+Travis Whitacre: we see similar results where
+
+199
+00:32:39.270 --> 00:32:45.089
+Travis Whitacre: for the non Maryland States we see market increases in smoking rates.
+
+200
+00:32:45.549 --> 00:32:56.280
+Travis Whitacre: Throughout each of the specifications. After the implementation of an ends, restriction or ends. Flavor, restriction. But that is not the case for Marylands.
+
+201
+00:32:56.798 --> 00:33:07.341
+Travis Whitacre: Although for daily smoking. These we don't really get a significant decrease we don't see significant decreases across the board for
+
+202
+00:33:07.850 --> 00:33:16.717
+Travis Whitacre: within Maryland. But there's no significant but there's no significant increase. There's no evidence of a significant increase, which is,
+
+203
+00:33:19.820 --> 00:33:22.170
+Travis Whitacre: Yeah. I probably more ideal.
+
+204
+00:33:23.080 --> 00:33:36.180
+Travis Whitacre: And so similar with our two-way fixed effects. Event studies when we compare for smoking, is that these are consistent with the idea of, with parallel trends holding
+
+205
+00:33:36.340 --> 00:33:37.440
+Travis Whitacre: so.
+
+206
+00:33:38.320 --> 00:33:50.830
+Travis Whitacre: and with the goodman Bacon decompositions similarly to vaping, we find no evidence of substantive bias being introduced via staggered adoption.
+
+207
+00:33:51.320 --> 00:33:57.469
+Travis Whitacre: Maybe a small difference for daily smoking, but it's pretty small like point 1.
+
+208
+00:33:59.990 --> 00:34:04.010
+Travis Whitacre: So to summarize like some of these results.
+
+209
+00:34:04.748 --> 00:34:14.170
+Travis Whitacre: is like ends. Flavor restrictions are associated with decreases in vaping, but increases in cigarette smoking.
+
+210
+00:34:14.790 --> 00:34:26.219
+Travis Whitacre: So this is equivalent to about 22 to 30% increases in daily smoking, and 76 to 80% reductions in daily vaping relative to 2018 rates
+
+211
+00:34:26.784 --> 00:34:41.739
+Travis Whitacre: so like. So to put that into a ratio that means at the conservative end you have about 3 additional daily smokers for every 5 fewer daily vapors. From the introduction of a flavored ends policy.
+
+212
+00:34:43.679 --> 00:34:46.940
+Travis Whitacre: so what is further concerning is
+
+213
+00:34:47.219 --> 00:35:00.270
+Travis Whitacre: or so, yeah, so that's it's concerning because that ratio is quite large. So even being, even if you're agnostic to the differential effects of smoking versus vaping other concern of like.
+
+214
+00:35:00.410 --> 00:35:03.770
+Travis Whitacre: how? Of that ratio.
+
+215
+00:35:03.780 --> 00:35:10.290
+Travis Whitacre: So this would raise concerns about potential public health costs of these policies due to the increased cigarette use.
+
+216
+00:35:10.904 --> 00:35:28.960
+Travis Whitacre: So this is where. Now it's important to note that while these results are true for state flavored ends restrictions. This is not the case with Maryland's policy in which we saw market declines in both young adult vaping and young adult smoking. So we're going to want to figure out. Why is that
+
+217
+00:35:29.080 --> 00:35:31.399
+Travis Whitacre: so? The Maryland result.
+
+218
+00:35:31.480 --> 00:35:54.150
+Travis Whitacre: which is evidence of a decreased vaping without increased smoking, is really reassuring that there may be a way for flavor policies to reduce vaping without increasing smoking for the young adult Age group. And so now, like the question is, why is that so just at a baseline level like Maryland's policy, differs from other States
+
+219
+00:35:54.150 --> 00:36:03.379
+Travis Whitacre: and a few different ways. The 1st is that it's a regulation, but not a law. There's not really reason. There's not really reason from like what we can think of that
+
+220
+00:36:03.560 --> 00:36:11.880
+Travis Whitacre: this would drive the result. So but with the other 2 is like. Second, it exempts open system devices
+
+221
+00:36:12.240 --> 00:36:15.559
+Travis Whitacre: with a band focusing on disposables.
+
+222
+00:36:16.109 --> 00:36:27.860
+Travis Whitacre: So it could be that disposables are more popular with youth, or initiators, whereas, like open system, ends, may be more popular with smokers attempting to quit.
+
+223
+00:36:27.960 --> 00:36:51.369
+Travis Whitacre: And then, 3, rd it also exempts menthol flavors. So similarly, there could be a possible mechanism. Where young adults or new initiators prefer, like fruity or like dessert type flavors and so targeting them could slow like new initiation and young, or like
+
+224
+00:36:51.370 --> 00:37:01.410
+Travis Whitacre: vaping curious young adults while still offering incentives for current smokers to switch from vaping, from switch to vaping from cigarette smoking.
+
+225
+00:37:01.620 --> 00:37:02.710
+Travis Whitacre: So
+
+226
+00:37:02.800 --> 00:37:26.769
+Travis Whitacre: we don't really have an answer for this. So this means that more research really needs to be done to consider what drives the difference between Maryland's policy and the others flavor and other States flavor policy effects, because ideally, we would like to be able to replicate the results of Maryland's policy where we can reduce vaping rates from young adults without increasing smoking rates.
+
+227
+00:37:28.070 --> 00:37:41.730
+Travis Whitacre: And so there are some limitations from the study and that the data is self-reported and gaps in Burfis data cover it and the gaps in data Burfis data coverage for vaping so ideally we should be able to have
+
+228
+00:37:42.345 --> 00:37:47.799
+Travis Whitacre: more comprehensive coverage from the survey sample. Then
+
+229
+00:37:48.590 --> 00:37:59.879
+Travis Whitacre: flavored in sales. Restrictions would but, like flavored in sales, restrictions would need to increase reporting of cigarette use for a social desirability bias to affect any of our estimates.
+
+230
+00:38:00.449 --> 00:38:16.439
+Travis Whitacre: We're also unable to test for shifts and frequent or or shifts, and frequent to non daily use. So we're not really seeing we're not able to see if like, if people went from daily users to infrequent users
+
+231
+00:38:16.530 --> 00:38:31.409
+Travis Whitacre: or daily smokers to infrequent smokers, and then we cannot distinguish specific mechanisms, such as like retailer compliance changes in manufacturing behaviors and or changes in risk perception.
+
+232
+00:38:32.750 --> 00:38:47.210
+Travis Whitacre: And so then, some of the key implications of our results is that we have evidence of a substitution effect between vaping and smoking for us young adults. And so this is consistent with a lot of the prior work that we talked about at the beginning of this presentation.
+
+233
+00:38:47.250 --> 00:38:58.139
+Travis Whitacre: And so there's also a possibility that a more nuanced policy or approach can achieve reduction in vaping initiation without increasing smoking rates.
+
+234
+00:38:58.150 --> 00:39:05.369
+Travis Whitacre: So in particular policy analyses need to account for these different like cross product effects.
+
+235
+00:39:06.080 --> 00:39:13.619
+Travis Whitacre: Right? Okay, so thank you for giving me the chance to present this work. And now I want to open it up for questions.
+
+236
+00:39:14.540 --> 00:39:21.650
+Ce Shang: Thank you, Travis. So let's see if our discussion today has any additional comments or questions. Thank you.
+
+237
+00:39:23.810 --> 00:39:31.830
+Melanie Dove: Thank you. This is a great presentation, really interesting results, and very clearly presented.
+
+238
+00:39:33.030 --> 00:39:37.876
+Melanie Dove: I I thought the results. Showing that there's a difference in
+
+239
+00:39:38.520 --> 00:39:44.790
+Melanie Dove: The smoking outcome between Maryland and the rest of the States was particularly interesting.
+
+240
+00:39:45.408 --> 00:39:56.579
+Melanie Dove: Did you look at any other? Did you separate out any other states. The one that comes to mind is Massachusetts, which has a really comprehensive policy.
+
+241
+00:39:57.500 --> 00:39:58.330
+Travis Whitacre: Yeah,
+
+242
+00:39:59.580 --> 00:40:03.778
+Travis Whitacre: I guess. For the purpose of this study we separated out
+
+243
+00:40:04.250 --> 00:40:06.140
+Travis Whitacre: Maryland's, I think.
+
+244
+00:40:07.029 --> 00:40:07.719
+Travis Whitacre: With
+
+245
+00:40:08.190 --> 00:40:13.420
+Travis Whitacre: Massachusetts, if I correct, I think part of that is like there's
+
+246
+00:40:13.940 --> 00:40:15.270
+Travis Whitacre: there are a lot of like.
+
+247
+00:40:15.650 --> 00:40:32.123
+Travis Whitacre: look, there's a lot of local variation and some of the policy coverage. And then it. Then it's state level. But yeah, I think that one. We just have it covered at the State level for this and analysis. But I we didn't break out other States
+
+248
+00:40:32.790 --> 00:40:34.740
+Travis Whitacre: unless Abby looked
+
+249
+00:40:34.850 --> 00:40:38.110
+Travis Whitacre: if we if you looked at something before but we didn't.
+
+250
+00:40:38.700 --> 00:40:40.990
+Travis Whitacre: should add it to the paper.
+
+251
+00:40:41.010 --> 00:40:47.590
+Travis Whitacre: Oh, she says, we separately control for coverage from policies banning all end sales. Yeah?
+
+252
+00:40:47.600 --> 00:40:48.630
+Travis Whitacre: Like.
+
+253
+00:40:49.350 --> 00:40:53.333
+Travis Whitacre: yeah, we do have that control. So like when they banned all ends
+
+254
+00:40:53.750 --> 00:40:55.770
+Travis Whitacre: with the 2019 policy.
+
+255
+00:40:57.500 --> 00:40:58.150
+Melanie Dove: You
+
+256
+00:40:58.290 --> 00:40:59.085
+Melanie Dove: and
+
+257
+00:41:00.752 --> 00:41:05.550
+Melanie Dove: do. Do you recall what you found? For the local policies? Was there
+
+258
+00:41:06.202 --> 00:41:12.739
+Melanie Dove: any impact the local policies had on either cigarette use or e-cigarette use.
+
+259
+00:41:14.220 --> 00:41:17.200
+Travis Whitacre: yeah. So I think I have.
+
+260
+00:41:18.610 --> 00:41:24.626
+Travis Whitacre: I have, like, yeah, I have the. We have the table and the paper. So you wanted to like the effect of
+
+261
+00:41:25.640 --> 00:41:29.509
+Travis Whitacre: local use versus state use.
+
+262
+00:41:30.160 --> 00:41:40.149
+Melanie Dove: Right you you presented on the the State level policies, but it looks like you also had a term in your model for whether or not there was a local policy. So I'm just.
+
+263
+00:41:40.150 --> 00:41:55.289
+Travis Whitacre: Yeah, so for yeah, so for local policy, like for daily smoking, for example, there's like a significant increase, I think, in daily smoking from the partial coverage, and I think for vaping it should be
+
+264
+00:41:55.320 --> 00:41:56.330
+Travis Whitacre: that
+
+265
+00:41:58.340 --> 00:42:03.230
+Travis Whitacre: we find a significant decrease in daily vaping with.
+
+266
+00:42:03.360 --> 00:42:05.189
+Travis Whitacre: So I think it had about
+
+267
+00:42:05.300 --> 00:42:06.300
+Travis Whitacre: and
+
+268
+00:42:07.010 --> 00:42:10.339
+Travis Whitacre: the within, like the balance panel
+
+269
+00:42:10.910 --> 00:42:20.649
+Travis Whitacre: ranging from like 3 a 3.8% decline in vaping from the partial coverage to like 5.3%
+
+270
+00:42:20.880 --> 00:42:22.939
+Travis Whitacre: then for, like the
+
+271
+00:42:23.430 --> 00:42:25.070
+Travis Whitacre: smoking rates
+
+272
+00:42:25.370 --> 00:42:28.330
+Travis Whitacre: for the balance panel, it would.
+
+273
+00:42:28.400 --> 00:42:30.610
+Travis Whitacre: It's about a 3%
+
+274
+00:42:31.163 --> 00:42:36.440
+Travis Whitacre: increase. But I think the results aren't significant across all of them. So it might not be as
+
+275
+00:42:36.650 --> 00:42:39.050
+Travis Whitacre: strong of interpretation.
+
+276
+00:42:39.740 --> 00:42:48.219
+Travis Whitacre: So it's yeah, like, Abby said. It's local coverage is linked more strongly to reductions in vaping and most of the specifications. So there's
+
+277
+00:42:48.640 --> 00:42:54.279
+Travis Whitacre: so the evidence is a bit weaker on the increases in smoking for local coverage. But.
+
+278
+00:43:00.430 --> 00:43:06.629
+Melanie Dove: Okay. So it sounds like it's both the state policies and the local policies that are that are having an impact.
+
+279
+00:43:07.310 --> 00:43:09.689
+Travis Whitacre: Yes, yeah. So it's, I think.
+
+280
+00:43:11.320 --> 00:43:12.730
+Travis Whitacre: yeah, I think that
+
+281
+00:43:12.940 --> 00:43:26.169
+Travis Whitacre: they're they're consistent directionally rise, too. So like even for the coefficients. For, like the local coverage for smoking. Even when they're insignificant, they're still positive, which would be the same direction as the State policies.
+
+282
+00:43:27.470 --> 00:43:28.880
+Melanie Dove: Okay, thank you.
+
+283
+00:43:29.340 --> 00:43:35.510
+Melanie Dove: And then my last question is, for some of the specifications, you did not weight the data.
+
+284
+00:43:35.680 --> 00:43:44.000
+Melanie Dove: And from my understanding with survey data, we're supposed to use the weight. So I was just wondering why why you did not weight the data.
+
+285
+00:43:45.030 --> 00:43:51.208
+Travis Whitacre: Yeah, so with I guess we do it both ways with like waiting.
+
+286
+00:43:51.890 --> 00:43:56.138
+Travis Whitacre: versus. We wait it, and we do it unawaited.
+
+287
+00:43:56.720 --> 00:43:57.860
+Travis Whitacre: I
+
+288
+00:43:58.770 --> 00:44:02.920
+Travis Whitacre: I think partially is, because, like within the
+
+289
+00:44:03.581 --> 00:44:22.929
+Travis Whitacre: unweighted sample, a lot of the controls should be like controlling for things that would be included like within the weighted sample. I don't recall, like for the weights that this is. Wait, if it's waiting to get nationally representative. And we're dropping states that that ends up being problematic. Abby can
+
+290
+00:44:23.360 --> 00:44:25.205
+Travis Whitacre: probably clarify there.
+
+291
+00:44:27.670 --> 00:44:29.819
+Travis Whitacre: yeah, she, yeah. But
+
+292
+00:44:30.050 --> 00:44:33.950
+Travis Whitacre: but yeah, I mean, the results are consistent both ways. But
+
+293
+00:44:34.430 --> 00:44:47.039
+Travis Whitacre: yeah, Abby pointed out, the main specification is done both ways to clarify the extent to which weights drive the results. And results are yeah. And the results are consistent with or without weights.
+
+294
+00:44:48.930 --> 00:44:49.760
+Melanie Dove: Okay.
+
+295
+00:44:50.090 --> 00:44:56.929
+Travis Whitacre: So we do consider like for each of the specifications we run, we consider with and without weights. But there's not really much of a difference
+
+296
+00:44:57.980 --> 00:45:00.410
+Travis Whitacre: which I think, yeah, you would expect if
+
+297
+00:45:00.830 --> 00:45:04.970
+Travis Whitacre: but if a lot of your controls are already controlling for the things that
+
+298
+00:45:05.140 --> 00:45:07.270
+Travis Whitacre: things are going to be weighted by.
+
+299
+00:45:09.070 --> 00:45:09.760
+Melanie Dove: Right?
+
+300
+00:45:11.160 --> 00:45:14.049
+Melanie Dove: Okay, thank you very much.
+
+301
+00:45:15.390 --> 00:45:16.085
+Ce Shang: Thank you.
+
+302
+00:45:17.120 --> 00:45:39.189
+Ce Shang: So, audience, please keep your questions coming through the Q&A panel. If we don't have a chance to get to our questions, or, if you would like to discuss with the speaker directly with mics enabled, you are welcome to attend top of the tops. Immediately following this webinar, if interested, please copy the meeting room, URL posted in the chat
+
+303
+00:45:39.290 --> 00:45:45.220
+Ce Shang: later, so that you will be ready to join the live discussion once this Webinar concludes.
+
+304
+00:45:45.230 --> 00:45:54.199
+Ce Shang: So I see a Ib is answering some questions, but there are some also open questions. One is from Tiffany Schumer.
+
+305
+00:45:54.280 --> 00:46:02.469
+Ce Shang: Did you include analysis of cessation services offered in places with flavored and sales, bands.
+
+306
+00:46:04.610 --> 00:46:06.510
+Travis Whitacre: Can you repeat the the.
+
+307
+00:46:06.510 --> 00:46:18.619
+Ce Shang: This cessation? Did you include controls? Analysis of the quitting or cessation services offered in the places, or that also have flavor? E-cigar sales, bands.
+
+308
+00:46:18.620 --> 00:46:22.330
+Travis Whitacre: Oh, I see controls for cessation services. I do not
+
+309
+00:46:23.116 --> 00:46:27.880
+Travis Whitacre: believe we have controls for the cessation services unless
+
+310
+00:46:28.710 --> 00:46:30.550
+Travis Whitacre: Abby knows otherwise. But
+
+311
+00:46:32.790 --> 00:46:37.590
+Ce Shang: Okay, I think she's also answering. And we can circle back to this.
+
+312
+00:46:37.590 --> 00:46:39.050
+Travis Whitacre: Hopefully, so.
+
+313
+00:46:39.280 --> 00:46:39.930
+Ce Shang: Yes.
+
+314
+00:46:40.786 --> 00:46:44.423
+Ce Shang: Also a question from Cheryl Olson.
+
+315
+00:46:45.150 --> 00:46:54.330
+Ce Shang: can you share your views on what policy changes you would like to see implemented or explored, based on these findings. So I think that's a great
+
+316
+00:46:54.650 --> 00:46:56.809
+Ce Shang: high level question. Thank you.
+
+317
+00:46:57.650 --> 00:46:59.470
+Travis Whitacre: Yeah. So I think.
+
+318
+00:46:59.996 --> 00:47:01.030
+Travis Whitacre: I guess
+
+319
+00:47:01.160 --> 00:47:06.073
+Travis Whitacre: part of like what we'd want to see explored is
+
+320
+00:47:06.880 --> 00:47:07.800
+Travis Whitacre: just
+
+321
+00:47:08.290 --> 00:47:12.970
+Travis Whitacre: first, st like more explore some exploration on like more
+
+322
+00:47:13.000 --> 00:47:19.190
+Travis Whitacre: like nuance policies. Where it you could ideally like target
+
+323
+00:47:19.779 --> 00:47:46.290
+Travis Whitacre: have targeted restrictions which help disincentivize vaping for like young adults that were never smokers before, so like potential, like vaping curious young adults. But the don't like disincentivize like young adults that are already smokers from switching to vaping so that's where like Maryland's policy was.
+
+324
+00:47:48.292 --> 00:47:50.130
+Travis Whitacre: Curious, because, like
+
+325
+00:47:50.340 --> 00:47:56.799
+Travis Whitacre: it's there's there were 2 possible ways that maybe that that policy was able to
+
+326
+00:47:57.390 --> 00:47:58.240
+Travis Whitacre: like
+
+327
+00:47:58.930 --> 00:48:02.340
+Travis Whitacre: disincentivize the young adults that had
+
+328
+00:48:02.450 --> 00:48:20.189
+Travis Whitacre: not vaped or smoked before, but maybe incentivize switching from, but kept the incentive to like switch from smoking to vaping for people that might already be smokers. So that might. That's like one area of exploration that I think our results would point to as being pretty, promising.
+
+329
+00:48:22.810 --> 00:48:23.520
+Ce Shang: Thank you.
+
+330
+00:48:23.680 --> 00:48:24.380
+Ce Shang: Yep.
+
+331
+00:48:26.854 --> 00:48:50.330
+Ce Shang: I think. There are also some questions from Laura Buck about the exemptions. So I think. Ib Ib. Already answered them, but I just want to see whether you have any additional answers or comments on this. So one is about the retailer exemptions. There are some local laws or State laws that
+
+332
+00:48:50.550 --> 00:48:55.989
+Ce Shang: exam certain retailers from the e-cigar restrictions. So
+
+333
+00:48:57.710 --> 00:49:01.719
+Ce Shang: do. Do. Can you talk about how you guys dialed with that situation?
+
+334
+00:49:02.470 --> 00:49:21.857
+Travis Whitacre: Yeah. So for different types of exemptions, we when we were building the municipal flavor policy data set, we made sure to note like, whether there, especially, for, like these local policies, if there are any types of exemptions like, there were certain policies that exempted
+
+335
+00:49:22.770 --> 00:49:39.287
+Travis Whitacre: menthol. And then there are certain policies that would like exempt certain types of products. So we coded and made note of whenever there was like an exemption that took place for, like the different policy details.
+
+336
+00:49:39.780 --> 00:49:48.850
+Travis Whitacre: And so I within, like the construction of like that, our municipal flavor policy data set. It was, fairly thorough to make sure that, like
+
+337
+00:49:48.870 --> 00:49:51.930
+Travis Whitacre: for each policy, like, we had
+
+338
+00:49:52.100 --> 00:49:55.499
+Travis Whitacre: all of like the correct characteristics of that policy.
+
+339
+00:49:58.097 --> 00:49:59.192
+Ce Shang: Thank you.
+
+340
+00:50:01.260 --> 00:50:08.550
+Ce Shang: there's a question from Richard. If the non law based policy was effective.
+
+341
+00:50:08.620 --> 00:50:14.870
+Ce Shang: would that be recommended to allow fine-tuning and faster reaction to results.
+
+342
+00:50:15.080 --> 00:50:16.570
+Ce Shang: I think this is about
+
+343
+00:50:16.950 --> 00:50:19.830
+Ce Shang: the regulation versus law.
+
+344
+00:50:20.690 --> 00:50:21.480
+Ce Shang: Oh.
+
+345
+00:50:23.000 --> 00:50:23.910
+Travis Whitacre: So
+
+346
+00:50:24.502 --> 00:50:26.117
+Travis Whitacre: could you repeat that again?
+
+347
+00:50:26.440 --> 00:50:39.469
+Ce Shang: So if the non law. So if it's the not not a law. But if there is policy, but not law, as you mentioned, so, if that was effective, would that be recommended to allow fine tuning and faster reaction.
+
+348
+00:50:39.650 --> 00:50:43.270
+Travis Whitacre: I see so as maybe thinking that like, because it was
+
+349
+00:50:43.330 --> 00:50:52.290
+Travis Whitacre: because it was like a regulation and not like a past law. Oh, yeah. Well, I'll let Abby talk about that one. She's already yeah.
+
+350
+00:50:53.760 --> 00:50:54.500
+Ce Shang: Yes.
+
+351
+00:50:56.390 --> 00:50:57.549
+Abigail Friedman: Can everyone hear me.
+
+352
+00:50:58.270 --> 00:51:00.129
+Ce Shang: Yes, perfect. Yeah. We could hear you.
+
+353
+00:51:00.130 --> 00:51:06.750
+Abigail Friedman: Okay, that is an excellent question. One of the key takeaways from this work is
+
+354
+00:51:06.760 --> 00:51:33.139
+Abigail Friedman: what is different about Maryland. Why did Maryland see its policy reduce vaping and not increase smoking? Is it the fact that it exempted menthol? Is it the fact that it didn't apply to open system devices which are more commonly preferred by adults than they are by youth. Is it? What's going on here? Is it something different about Maryland? That isn't even about this policy, right? It could be something about the regulatory structure in Maryland.
+
+355
+00:51:33.140 --> 00:51:43.519
+Abigail Friedman: That means that a comptroller's regulation is effective in a way that maybe wouldn't generalize. We don't know what it was about Maryland's policy that needs
+
+356
+00:51:43.650 --> 00:51:58.369
+Abigail Friedman: very serious study. I think one of the takeaways from this work is that the States are the laboratory for Federal policy decisions. We need the policy variation in the States to be well studied and carefully studied, to give us direction on what to do next.
+
+357
+00:51:58.370 --> 00:52:23.359
+Abigail Friedman: It would not be a ridiculous thing for a regulator who is interested in trying this out to say, Okay, let's see what happens if we try a flavor regulation that is restricted to closed system devices for a year in a state that hasn't done anything and do a real test of what happens right? But we don't know if it was that or something else. Maybe it doesn't generalize to any other states. Maybe it's
+
+358
+00:52:23.360 --> 00:52:26.999
+Abigail Friedman: Maryland specific. We need more analysis to understand.
+
+359
+00:52:27.830 --> 00:52:42.820
+Ce Shang: Yeah, that's indeed very interesting. So a question from Jessica Reid, can you comment on how these findings fit in the context of the overall decline in smoking observed among young people in the Us.
+
+360
+00:52:45.690 --> 00:52:52.370
+Travis Whitacre: right? So I guess, within the context of like overall decreases in cigarette smoking. I think
+
+361
+00:52:54.530 --> 00:53:02.291
+Travis Whitacre: part of it is like within, I guess where these policies fit into that overall context is like, it's definitely
+
+362
+00:53:02.850 --> 00:53:06.369
+Travis Whitacre: it's definitely positive for like re.
+
+363
+00:53:06.977 --> 00:53:27.530
+Travis Whitacre: for there to be declines and like cigarette smoking among young adults over time, and I guess we'd ideally be able to keep trends moving in that direction. And so that's where it's important when we're looking at these like ends, flavor restrictions to just ensure that we don't end up being like
+
+364
+00:53:27.670 --> 00:53:32.190
+Travis Whitacre: counterproductive with like the restriction where we don't want.
+
+365
+00:53:32.565 --> 00:53:40.730
+Travis Whitacre: We don't want to increase so we don't want to reverse any trends of like declines in smoking rates among young adults.
+
+366
+00:53:41.169 --> 00:53:48.949
+Travis Whitacre: But at the same time, it's also important to pull that into hand to also consider like the
+
+367
+00:53:49.010 --> 00:53:56.639
+Travis Whitacre: rises in vaping rates, which is where? Why we're really advocating for looking more into like
+
+368
+00:53:56.800 --> 00:54:18.700
+Travis Whitacre: policies like what like what happened with Maryland or other more nuanced policies, where we could maybe be able to achieve that goal of like helping smoking rates continue to decline among youth and adolescents, but also try to also work on lowering vaping rates among that same cohort.
+
+369
+00:54:21.569 --> 00:54:22.729
+Ce Shang: Thank you.
+
+370
+00:54:24.070 --> 00:54:24.670
+Ce Shang: think
+
+371
+00:54:25.570 --> 00:54:32.464
+Ce Shang: Abby is also in this, but I can also post this question to you. So how did you take into account the fact that the
+
+372
+00:54:32.990 --> 00:54:42.540
+Ce Shang: maritime controller changed and the new office stopped enforcing its policies at 2022. So did you see anything in the data set
+
+373
+00:54:43.000 --> 00:54:44.740
+Ce Shang: any changes. Hmm.
+
+374
+00:54:45.500 --> 00:54:53.249
+Travis Whitacre: Yeah, I guess I tap Abby probably in for this one, because I think she probably know if there's change that happened.
+
+375
+00:54:53.250 --> 00:55:08.520
+Abigail Friedman: So 2 things. The 1st is a what economists do when they're doing two-way fixed effects analysis question. When you do an analysis of a policy effect. You use the legislated or the official policy, which means that even if
+
+376
+00:55:08.520 --> 00:55:24.180
+Abigail Friedman: for some reason a agency declines to fully enforce it unless it's repealed. It's still treated as if it's in effect, and there are a bunch of reasons why doing anything other than that would keep you from being able to get a causal estimate with these kinds of analyses.
+
+377
+00:55:24.180 --> 00:55:37.619
+Abigail Friedman: Since the comptrollers policy hasn't officially been taken down, and it hasn't been announced to the retailers who the were the groups informed by the original policy of what was going to be implemented, that that is not in effect, it's still treated as an effect.
+
+378
+00:55:38.072 --> 00:55:45.390
+Abigail Friedman: That said when we 1st run ran the analysis. When we 1st submitted it, it only used data through the end of 2022,
+
+379
+00:55:45.540 --> 00:56:06.790
+Abigail Friedman: the 2023 data was released in September and at the R. And R. Stage. When we updated the analysis to be responsive to a peer reviewer, we added 2023. The Maryland implications were the same. So it doesn't seem like there's anything about the changes with comptrollers policy that is driving the Maryland effect. But I do think
+
+380
+00:56:06.960 --> 00:56:19.529
+Abigail Friedman: understanding again, I'm going to go back to. And this is why I'm collaborating with a lawyer in Maryland. Understanding why Maryland is different is going to be really important to inform the policies that are best for public health in this space.
+
+381
+00:56:22.030 --> 00:56:27.550
+Ce Shang: Thank you. I think we are about time, and I don't see any other open questions.
+
+382
+00:56:27.670 --> 00:56:37.320
+Ce Shang: so I'll let Tom, our Mc. To take us out and we have top of the tops later. If you're interested, please join us. Thank you.
+
+383
+00:56:40.240 --> 00:56:51.980
+Tong Lin: We are out of time. However, if you still have burning questions or thoughts for Travis Whitaker, you can join us for top of the tops an interactive group discussion
+
+384
+00:56:52.240 --> 00:56:57.189
+Tong Lin: to join. Please copy the Zoom Meetings room. Yeah. URL, posted in the chat
+
+385
+00:56:57.230 --> 00:57:00.590
+Tong Lin: and switch rooms with us. Once this event concludes.
+
+386
+00:57:00.610 --> 00:57:13.899
+Tong Lin: we'll leave this webinar room for an extra minute. After the end to give everyone a chance to copy the URL, which is bit.ly slash tops meeting all lowercase.
+
+387
+00:57:14.170 --> 00:57:25.359
+Tong Lin: Thank you to our presenter moderator and discussant. Finally, thank you to the audience of 192 people for your participation. Have a top-snotch weekend.
+
