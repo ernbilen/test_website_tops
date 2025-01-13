@@ -12,7 +12,7 @@ Member: Justin White, Boston University <img src="https://img.icons8.com/fluent/
 
 
 ## Advisory Board
-Warren Bickel, Virginia Tech \\
+Warren Bickel (in memoriam), Virginia Tech \\
 Michelle Bloch, National Cancer Institute \\
 Alison Breland, Virginia Commonwealth University \\
 John Cawley, Cornell University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@cawley_john](https://twitter.com/cawley_john) \\
@@ -64,6 +64,7 @@ Justin White, Boston University <img src="https://img.icons8.com/fluent/20/00000
 •	Darden: None \\
 •	Hartmann-Boyce: National Institute of Health and Care Research (UK), Cancer Research UK, Cochrane, the British Heart Foundation, the National Institutes of Health Research, the US Food and Drug Administration, the Truth Initiative, and the World Health Organization \\
 •	Shang: American Heart Association, Bloomberg Philanthropies, Canadian Institutes for Health Research, Food and Drug Administration, National Institutes of Health, Presbyterian Health Foundation, Tobacco Settlement Endowment Trust, World Heart Federation 
+•   White: National Institutes of Health, Food and Drug Administration, American Cancer Society, California Department of Public Health, California Tobacco-Related Disease Research Program, Abdul Latif Jameel Poverty Action Lab (J-PAL)
 
 
 This project is supported by the Food and Drug Administration (FDA) of the U.S. Department of Health and Human Services (HHS) as part of a financial assistance award  [R13FD008285] totaling $50,000 with 50% funded by FDA/HHS and $50,000 amount and 50% funded by non-government source(s). The contents are those of the author(s) and do not necessarily represent the official views of, nor an endorsement, by FDA/HHS, or the U.S. Government.
