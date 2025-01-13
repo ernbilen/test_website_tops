@@ -63,7 +63,7 @@ Justin White, Boston University <img src="https://img.icons8.com/fluent/20/00000
 •	Pesko: National Institutes of Health, Food and Drug Administration, American Cancer Society, Centers for Disease Control and Prevention, World Health Organization, Agency for Healthcare Research and Quality, Virginia Foundation for Healthy Youth, Health Canada, and the University of Kentucky’s Institute for the Study of Free Enterprise \\
 •	Darden: None \\
 •	Hartmann-Boyce: National Institute of Health and Care Research (UK), Cancer Research UK, Cochrane, the British Heart Foundation, the National Institutes of Health Research, the US Food and Drug Administration, the Truth Initiative, and the World Health Organization \\
-•	Shang: American Heart Association, Bloomberg Philanthropies, Canadian Institutes for Health Research, Food and Drug Administration, National Institutes of Health, Presbyterian Health Foundation, Tobacco Settlement Endowment Trust, World Heart Federation 
+•	Shang: American Heart Association, Bloomberg Philanthropies, Canadian Institutes for Health Research, Food and Drug Administration, National Institutes of Health, Presbyterian Health Foundation, Tobacco Settlement Endowment Trust, World Heart Federation \\
 •   White: National Institutes of Health, Food and Drug Administration, American Cancer Society, California Department of Public Health, California Tobacco-Related Disease Research Program, Abdul Latif Jameel Poverty Action Lab (J-PAL)
 
 
