@@ -1,0 +1,1158 @@
+WEBVTT
+
+1
+00:00:02.730 --> 00:00:06.970
+Sam Sturm: Hello and welcome to tops the tobacco online policy seminar.
+
+2
+00:00:07.130 --> 00:00:12.169
+Sam Sturm: Thank you for joining us. Today. I'm Sam Sturm, a Phd. Candidate at Georgia State University
+
+3
+00:00:12.510 --> 00:00:25.970
+Sam Sturm: tops is organized by Mike Pesco at University of Missouri, C. Shang at the Ohio State University, Michael Darden at Johns Hopkins University, Jamie Hartman Boyce at University of Massachusetts, Amherst and Justin White at Boston University.
+
+4
+00:00:26.170 --> 00:00:42.150
+Sam Sturm: The seminar today will be 1 h with questions from the moderator and discussant. The audience may pose questions and comments in the Q. And a panel, and the moderator will draw from these questions and comments in conversation with the presenter. Please review the guidelines on tobaccopolicy.org for acceptable questions.
+
+5
+00:00:42.480 --> 00:00:51.970
+Sam Sturm: Please keep the questions professional and related to the research being discussed, questions that meet the seminar series. Guidelines will be shared with the presenter afterwards, even if they are not read aloud.
+
+6
+00:00:52.190 --> 00:00:54.589
+Sam Sturm: Your questions are very much appreciated.
+
+7
+00:00:55.090 --> 00:01:03.619
+Sam Sturm: Presentation is going to be video recorded and will be made available along with presentation slides on the Tofs website, tobaccopolicy.org.
+
+8
+00:01:03.850 --> 00:01:10.600
+Sam Sturm: I will now turn the presentation over to today's Moderator, Michael Darden, from Johns Hopkins University to introduce our speaker.
+
+9
+00:01:11.870 --> 00:01:29.999
+Michael Darden: Thank you, Sam. So today we continue our winter 2025, season with a single paper presentation by Colin Renhardt, entitled Flavorance and addiction, an empirical analysis of cigarette bans and taxation. The presentation was selected via Competitive Review process by submission through the tops website.
+
+10
+00:01:30.090 --> 00:01:52.060
+Michael Darden: Colin M. Reinhart is a financial economist in the retail credit, risk analysis, division within the supervision, risk and analysis at the office of the controller of the currency. His research interests lie in applied industrial organization and consumer demand modeling with a particular focus on the effects of government policy on consumer and firm behavior.
+
+11
+00:01:52.060 --> 00:02:00.399
+Michael Darden: He joined the Occ in 2024, and holds a Phd. In economics from the University of California. Irvine. Dr. Reinhart, thank you for presenting for us today.
+
+12
+00:02:05.050 --> 00:02:25.660
+Colin Reinhardt: It is my pleasure. Thank you for the opportunity to present. You know this research is very dear to my heart. It is the the work that I left Uci presenting and and sort of in culminates the capstone of my research. So let me go ahead and share this piece.
+
+13
+00:02:28.840 --> 00:02:37.999
+Colin Reinhardt: Now, before I begin, I do have to start with several comments. 1st and foremost, I'm a member of the Federal Government. This
+
+14
+00:02:38.353 --> 00:02:58.880
+Colin Reinhardt: requires me to be very clear that the opinions in this piece is those of myself and Jahweh, and that the views expressed in this presentation do not represent the views of the office of the Comptroll of the Currency, the Department of the Treasury or the United States Government. I think it's kind of clear that the
+
+15
+00:02:59.305 --> 00:03:04.830
+Colin Reinhardt: Department of the Treasury, at least, is not interested in tobacco legislation. Now.
+
+16
+00:03:05.553 --> 00:03:32.746
+Colin Reinhardt: I also want to say that I by trade am an I/O economist. I study consumer and firm behavior. I'm entering y'all space as tobacco policy researchers with this with this work. And I think you know, there is this very interesting application of I/O traditional I/O techniques to these policy questions that you see in in regulatory spaces.
+
+17
+00:03:33.540 --> 00:04:02.760
+Colin Reinhardt: however, as an I/O economist, I understand that a lot of these models come with a huge amount of overhead, especially when it comes to developing and writing and coding. We just don't have a standardized application in I/O to that end. It is extremely important that I/O economists share code with each other. So if anyone is interested in or has questions about the code in this research, please reach out to me. I am more than happy to share all the Matlab code
+
+18
+00:04:02.760 --> 00:04:09.420
+Colin Reinhardt: that I wrote. For this. You know everything as so many I/O researchers have everything sort of handwritten.
+
+19
+00:04:09.550 --> 00:04:14.149
+Colin Reinhardt: and you know it's the only way we can. We can learn and develop better models.
+
+20
+00:04:14.440 --> 00:04:15.140
+Colin Reinhardt: Cool.
+
+21
+00:04:15.360 --> 00:04:34.480
+Colin Reinhardt: Let me go ahead and jump into the other disclosures. I have to make. You know. 1st and foremost, there was no funding received for this in any way, Jaway and I have also not received funding from tobacco companies, pharmaceutical companies, advocacy groups, consulting firms, etc, and that the analyses
+
+22
+00:04:34.480 --> 00:04:49.529
+Colin Reinhardt: within this research are based on data collected from Nielsen. However, the conclusions drawn are those of Jaway and I, and do not reflect the views of Nielsen or the kilt center of marketing.
+
+23
+00:04:50.710 --> 00:05:10.150
+Colin Reinhardt: Now the goal of this work was to determine the impact of the proposed menthol ban. I don't know if y'all have seen but the menthol ban was withdrawn. The proposal was withdrawn about 3 h ago. So this has turned from a what could happen to what would have happened scenario?
+
+24
+00:05:10.950 --> 00:05:23.250
+Colin Reinhardt: and I don't know if it's really particularly important for me to explain why this ban is important. Why cigarette smoking is so harmful. Y'all are tobacco industry researchers. I think that's quite clear.
+
+25
+00:05:24.530 --> 00:05:27.239
+Colin Reinhardt: Within this, though, when I 1st
+
+26
+00:05:27.300 --> 00:05:45.820
+Colin Reinhardt: went into this project as a layperson who had very little knowledge of the tobacco industry. I did not know the overwhelming preference the black American community held for menthol products that black Americans, when they make a choice of cigarette. They choose menthol cigarettes somewhere in the range of
+
+27
+00:05:45.850 --> 00:06:07.759
+Colin Reinhardt: 75 to 90% of the time. And then, looking into this, it seemed to be connected to historical marketing practices that were pushed on to the black American community in the 19 fifties and 19 sixties. Obviously the FDA wanted to save lives, and they proposed this ban, but they also wanted to advance health equity within the black American community.
+
+28
+00:06:07.760 --> 00:06:20.699
+Colin Reinhardt: So in my own research, it is particularly important for me to determine how the menthol ban could have reduced smoking, but also reduced smoking among marginalized communities.
+
+29
+00:06:20.990 --> 00:06:45.999
+Colin Reinhardt: And then I did want to acknowledge that we've seen sort of murmurings in the past of the FDA, looking at banning additional flavor products, flavoring products such as, like flavored e-cigarettes as flavored e-cigarettes are still largely available across most states in their disposable form, although I think there's been some pushback on the cartridge based flavored e-cigarettes.
+
+30
+00:06:46.280 --> 00:07:06.910
+Colin Reinhardt: So with this in mind, there were several research questions that I had when I entered this project. 1st foremost, how does banning menthol cigarettes, impact smoking rates? How about smoking rates within marginalized communities? And do consumers switch to alternative products like e-cigarettes, like smoking cessation products.
+
+31
+00:07:07.040 --> 00:07:30.820
+Colin Reinhardt: And then I wanted to ask the question, Can taxation be as effective in reducing overall smoking? What tax rate results in the same reduction in smoking as that seen under the menthol ban. And then how does consumer surplus compare to the ban as opposed to tax policy. Would people prefer to be banned, or the menthol cigarettes be banned, or would they prefer to be taxed instead?
+
+32
+00:07:32.080 --> 00:07:44.809
+Colin Reinhardt: Then I wanted to ask the question, what if the FDA expands the menthol ban to encompass flavored varieties of e-cigarettes, menthol and flavored e-cigarettes? What would happen to overall E-cigarette smoking rates
+
+33
+00:07:45.100 --> 00:07:55.610
+Colin Reinhardt: and as a teaser to my final results, I find that the menthol ban reduces cigarette smoking by about 13%,
+
+34
+00:07:55.620 --> 00:08:15.559
+Colin Reinhardt: but about 35% in the black American community, which is huge for advocates who want to advance health equity within these marginalized communities, and that consumers, you know, they really don't switch to alternative products like e-cigarettes as a function of the menthol ban.
+
+35
+00:08:15.560 --> 00:08:29.319
+Colin Reinhardt: Can taxation be as effective? The answer is yes, and a dollar and 2 cents tax rate on all cigarettes results in an equivalent reduction in overall smoking, and that
+
+36
+00:08:29.440 --> 00:08:37.340
+Colin Reinhardt: consumers would prefer to be taxed rather than have menthol products banned. However.
+
+37
+00:08:37.941 --> 00:09:03.239
+Colin Reinhardt: that only is the case. If you consider black American consumers within the, you know, overall group of consumers who are having their surplus reduced. If you remove black Americans. Non black Americans would much prefer the tax policy. Sorry. Much prefer the ban as opposed to the tax policy likely going into their differential smoking rates right? Non-black consumers smoke menthol products, maybe 30% of the time.
+
+38
+00:09:03.260 --> 00:09:15.459
+Colin Reinhardt: And then, if the FDA expands the menthol ban to encompass flavored and menthol varieties of e-cigarettes. I find that e-cigarettes have about a 46% reduction in consumption.
+
+39
+00:09:16.440 --> 00:09:41.380
+Colin Reinhardt: In approaching these research questions, I take the traditional I/O approach. I design a model of consumer demand and firm supply. My demand model is an extension of the traditional demand model we use in industrial organization research. I use the random, coefficient nested logit model with Nielsen data from 2015 through July of 2019.
+
+40
+00:09:41.450 --> 00:09:48.049
+Colin Reinhardt: In this I incorporate both retail data and household data. Retail data is great.
+
+41
+00:09:48.420 --> 00:09:58.455
+Colin Reinhardt: It provides a very good understanding of how consumption changes as a function of, say, changes in price
+
+42
+00:09:59.020 --> 00:10:24.159
+Colin Reinhardt: on the flip side. Household data provides a much better estimation of how, say, addiction plays a role in continued consumption, how past consumption influences future consumption. In that I allow addiction to exist within my model as a form of dynamic state, dependent behavior. Whatever you chose in the past will influence what you choose in the future.
+
+43
+00:10:24.400 --> 00:10:54.229
+Colin Reinhardt: I allow for, as I'm you know, for those familiar with logistic modeling techniques. I'm using the nested logit variation of this random, coefficient model. This allows for particular rates of substitution between certain products. So I have categories that would be cigarettes, e-cigarettes, and smoking cessation products. And then within those categories, people are able to substitute between their products of interest at a particular rate, so people would substitute between
+
+44
+00:10:54.230 --> 00:11:09.009
+Colin Reinhardt: menthol and say traditional tobacco cigarettes at a certain rate, as well as menthol tobacco and flavored varieties of e-cigarettes, and that rate is determined by these nesting parameters.
+
+45
+00:11:09.010 --> 00:11:30.980
+Colin Reinhardt: and finally to capture things like black American preference for menthol products. I allow for demographic interactions with the demand parameters in my model. That's the demand side. Once I've estimated that I can turn to the supply side, I have a supply side model that incorporates a dynamic state defended behavior. So my firms in the supply side are pricing today.
+
+46
+00:11:30.980 --> 00:11:40.119
+Colin Reinhardt: knowing that they're going to influence future demand for their product via this dynamic state dependency that exists on the demand side.
+
+47
+00:11:40.390 --> 00:11:53.470
+Colin Reinhardt: And I think that's very realistic in how tobacco companies have priced, and knowing that their products are addictive, and that the change in demand today will influence the change in the demand for the future.
+
+48
+00:11:53.670 --> 00:12:15.119
+Colin Reinhardt: And then, once that once I've defined my supply side I can move into my counterfactual simulations, and in that I also consider merge producers and independent producers. As tobacco companies are increasingly purchasing and creating their own e-cigarette firms to sort of capture this new market.
+
+49
+00:12:16.540 --> 00:12:33.440
+Colin Reinhardt: Now, as I jump into the model, I 1st need to discuss the data I have available to me. I use my primary sources of data are the Nielsen Retail and Nielsen household data. I have household retail data and household data through July or
+
+50
+00:12:33.480 --> 00:12:53.020
+Colin Reinhardt: through 2015, through July of 2019 in this I form my markets of interest at the Dma week level. So the Dma is a designated marketing area defined by Nielsen. It is a group of counties which are
+
+51
+00:12:53.020 --> 00:13:10.739
+Colin Reinhardt: similar in characteristics. So Nielsen defines Dmas. It's proprietary to Nielsen. But I think there's about 206 in the United States, and I use the 100 largest in my model estimation. It accounts for somewhere in the range of 85% of the Us
+
+52
+00:13:10.740 --> 00:13:34.789
+Colin Reinhardt: 85% of all the stores. In my sample, 85% of all the households. In my sample 85% of the Us population. So my research does account for a very large proportion of the United States. And then, when looking at census data. There's no discernible difference in the distribution of consumers outside of my model as opposed to consumers within my model.
+
+53
+00:13:35.660 --> 00:13:51.370
+Colin Reinhardt: And then I obtained speaking of, you know distribution of consumers. I obtain information at the Dma level related to racial and income statistics from the American Community Survey 5 year estimate. So the census bureau
+
+54
+00:13:51.510 --> 00:14:10.600
+Colin Reinhardt: on the household data. I have about 14,000 households who purchase my products of interest over these 4 and a half years. They make quite a few purchases, and I classify each household by their racial and their income status, as that data is available in Nielsen as well. Now
+
+55
+00:14:10.730 --> 00:14:28.019
+Colin Reinhardt: I have an absurd amount of sales information I need to simplify. These demand models are very computationally intensive, and I just can't have that many products in my model. So what I do is I aggregate my products, my sales to the category flavor level.
+
+56
+00:14:28.378 --> 00:14:40.551
+Colin Reinhardt: So I have 6 products. I consider my model that fall into 3 categories, and those categories are the nests at which consumers can substitute between them. So I have sensation products that would be your
+
+57
+00:14:40.990 --> 00:15:01.559
+Colin Reinhardt: your nicotine lozenges, your nicotine patches, your nicorette, your gums. Then I have cigarettes, and within cigarettes you have a choice of regular tobacco cigarettes, or menthol cigarettes and then I have e-cigarettes which contain a choice of regular tobacco e-cigarettes, menthol e-cigarettes, or flavored e-cigarettes.
+
+58
+00:15:02.200 --> 00:15:28.489
+Colin Reinhardt: Finally, I have sales of these products. At the Dma week level I convert quantity sales to smoking rates by dividing the total sales by the population of the designated marking area, and then adjusting that population such that smoking rates formed within my data. Best fit smoking rates observed from the
+
+59
+00:15:28.640 --> 00:15:38.690
+Colin Reinhardt: what is it? countylevelhealthrankings.org or countyhealthrankings.org provides county level estimates of smoking rates, which I can then aggregate up to the Dma level.
+
+60
+00:15:38.870 --> 00:15:39.770
+Colin Reinhardt: Now.
+
+61
+00:15:39.870 --> 00:15:48.180
+Colin Reinhardt: I think this is a good place to have my 1st round of questions, because, you know, after this I'm gonna jump into the model itself.
+
+62
+00:15:48.610 --> 00:16:05.149
+Michael Darden: That's great, Colin. Thank you so much. So let me introduce our discussant today. It's going to be Dr. Travis Whitaker, who's a postdoctoral fellow at Yale University School of Public Health, and is a castor postdoctoral research fellow. So, Dr. Whitaker, take it away, please.
+
+63
+00:16:05.620 --> 00:16:06.880
+Travis Whitacre: Hi, yeah.
+
+64
+00:16:07.401 --> 00:16:32.958
+Travis Whitacre: Yeah. Thanks so much for taking the time to present this today. It's I had some time to read through the paper this week, and it's very well done so I was able to learn a lot. I guess, for this right now I have 2 questions. And then we can get some other questions later. One, I think, in your paper you mentioned one of the concerns
+
+65
+00:16:33.330 --> 00:16:46.961
+Travis Whitacre: from, like some of the groups of like the FDA enforcing a menthol ban was like potential, like discriminatory practices by law enforcement and things like that. So do you know, like any of the details like about
+
+66
+00:16:47.370 --> 00:16:52.980
+Travis Whitacre: how enforcement of the policy, I guess, was supposed to work? I guess now that it's not
+
+67
+00:16:53.650 --> 00:16:54.280
+Travis Whitacre: gonna happen.
+
+68
+00:16:54.280 --> 00:16:55.652
+Colin Reinhardt: I unfortunately don't
+
+69
+00:16:56.110 --> 00:16:56.440
+Travis Whitacre: Okay.
+
+70
+00:16:56.770 --> 00:17:09.120
+Colin Reinhardt: You know I did interview with the FDA at 1 point in time, and they had discussed it. I don't think that's something they could also, you know, talk to. I think that would be up to local communities to enforce the policy. And, you know, to be frank.
+
+71
+00:17:10.060 --> 00:17:20.869
+Colin Reinhardt: there is a whole lot. Localized enforcement does not seem to work right? You know there's I live in Manhattan, and there's that. What is it that the e-cigarette
+
+72
+00:17:21.339 --> 00:17:24.790
+Colin Reinhardt: the ban on flavored e-cigarettes, and
+
+73
+00:17:25.089 --> 00:17:32.929
+Colin Reinhardt: I mean I'm they're still available every you still see them in every store, all the flavored varieties, regardless as to whether or not, they're banned so.
+
+74
+00:17:34.070 --> 00:17:34.730
+Travis Whitacre: Yeah.
+
+75
+00:17:35.300 --> 00:17:57.041
+Travis Whitacre: Okay, okay, yeah. Thanks. And then the other question, I guess more on the your data was, I guess, for the how you have the Nielsen household data? So do you know, like, who is it? Just? You just know that the household is purchasing or do you know, like individuals in the household, are purchasing
+
+76
+00:17:57.410 --> 00:18:07.740
+Colin Reinhardt: Question. I only know that the household is purchasing and and I have to make that assumption that if a household is purchasing, that that household is a smoking household now.
+
+77
+00:18:07.930 --> 00:18:26.809
+Colin Reinhardt: generally I don't see households purchase both menthol and tobacco, or both menthol and e-cigarettes. They seem to switch if they're going to, you know, transition their behavior, which is good. So I think, you know, if a household smokes cigarettes, they're going to stick to maybe their cigarette of choice.
+
+78
+00:18:27.320 --> 00:18:28.000
+Travis Whitacre: I see.
+
+79
+00:18:28.270 --> 00:18:35.839
+Travis Whitacre: Yeah. And so then I guess with that you can't really do any differentials by like age or something like that, since it's the household right?
+
+80
+00:18:35.840 --> 00:18:48.930
+Colin Reinhardt: And Nielsen itself is somewhat restricted. I mean the Nielsen data. The youngest households tend to be in their early twenties, and then but the majority tend to be mid thirties to, you know, late fifties.
+
+81
+00:18:49.680 --> 00:18:54.900
+Colin Reinhardt: So there's there's that is also one of the restrictions in this model. That that
+
+82
+00:18:55.320 --> 00:19:00.389
+Colin Reinhardt: I just don't have the ability to differentiate consumers based on
+
+83
+00:19:01.320 --> 00:19:15.869
+Colin Reinhardt: age. And that is a potential source of bias, which is why it's important that I also have a secondary source of data. The retail data which, hopefully, you know, the combination of these 2 sources will help reduce the biases prevalent in in both.
+
+84
+00:19:17.060 --> 00:19:21.240
+Travis Whitacre: Great. Yeah, thank you. That's it. For right now. From me.
+
+85
+00:19:21.240 --> 00:19:23.010
+Colin Reinhardt: What about the Q. And a. Questions.
+
+86
+00:19:23.220 --> 00:19:33.029
+Michael Darden: Yeah, I think I'm looking at the QA. Questions and and many of them have to do with with the model itself. So I think we should probably move to the model, and then take more time for the second. QA.
+
+87
+00:19:33.370 --> 00:19:34.199
+Colin Reinhardt: Of course.
+
+88
+00:19:34.810 --> 00:19:46.369
+Colin Reinhardt: So with the model itself, I follow what is the traditional assumptions in I/O? We're trying to determine every week what a consumer is going to do by
+
+89
+00:19:46.700 --> 00:19:51.859
+Colin Reinhardt: analyzing their underlying utility that they receive from consumption.
+
+90
+00:19:52.000 --> 00:20:13.249
+Colin Reinhardt: If we assume that a consumer receives no utility or a utility normalized to 0 of not consuming any product of not smoking. Then what we do is we measure the utility of all other choices relative to that choice, and then the consumer will choose whatever gives them the highest amount of happiness, the highest amount of utility.
+
+91
+00:20:13.490 --> 00:20:28.749
+Colin Reinhardt: So again, the utility from consuming nothing is normalized to 0, and then the the utility from consuming a specific choice where that choice is a member of a specific category is as follows, and this is really
+
+92
+00:20:29.070 --> 00:20:58.819
+Colin Reinhardt: excluding this portion here. This is really the standard setup in traditional industrial organization models, you have consumer utility as a function of product characteristics as a function of price, and those product characteristic parameters and the price parameters are individual specific, so they can be broken down into a mean component, a demographic component and a random individual specific component where that random component follows a normal distribution.
+
+93
+00:20:59.190 --> 00:21:02.890
+Colin Reinhardt: So you can imagine, beta, I here is actually beta
+
+94
+00:21:02.890 --> 00:21:09.196
+Colin Reinhardt: plus some demographic specific parameter plus some random individual specific parameter
+
+95
+00:21:09.970 --> 00:21:11.499
+Colin Reinhardt: And then we have
+
+96
+00:21:11.760 --> 00:21:27.649
+Colin Reinhardt: in my model which sort of differentiates it from most other demand models. And that is this dynamic state dependent behavior. What you consumed in the past influences your consumption today. So this 1st portion says, did you consume
+
+97
+00:21:27.940 --> 00:21:52.620
+Colin Reinhardt: any nicotine containing product? Did you consume an e-cigarette? Did you consume a cigarette? Did you consume a cessation product last week? If you did, then it's going to increase your well, potentially increase your propensity to consume again this week. Right? This is an estimatable parameter, so I don't want to place you know, structure on it. But yes, it does increase your propensity to consume again this week is what I find.
+
+98
+00:21:53.170 --> 00:22:15.860
+Colin Reinhardt: And then the second portion says, well, not only is your utility for consumption going to be increased if you consumed a nicotine product last week. But your utility should also increase specifically at the category level, that is, if you consumed a cigarette last week, you should be more likely to consume, or you could be more likely to consume a cigarette again this week. Right?
+
+99
+00:22:15.860 --> 00:22:37.280
+Colin Reinhardt: Addiction is physiological addiction is psychological. You have physical addiction to nicotine products. You want that nicotine. But you also have that psychological addiction. People who smoke cigarettes want to continue to smoke cigarettes. People who smoke e-cigarettes want to continue to smoke e-cigarettes. And this captures that psychological component of addiction.
+
+100
+00:22:37.280 --> 00:22:46.159
+Colin Reinhardt: And then, finally, we have market time product specific demand shocks. And we have this
+
+101
+00:22:46.290 --> 00:23:01.559
+Colin Reinhardt: unobserved individual preference for products that is distributed under the distributional assumptions of a 2 level nested logic model. So this contains that rate of substitution between products which fall within the same category.
+
+102
+00:23:01.810 --> 00:23:17.560
+Colin Reinhardt: Now, it is very important within industrial organization that we're able to break up these individual parameters into a mean component, a demographic, specific component, and a random component
+
+103
+00:23:17.850 --> 00:23:20.789
+Colin Reinhardt: doing so allows us to
+
+104
+00:23:21.280 --> 00:23:50.609
+Colin Reinhardt: decompose our indirect utility function into a product, specific part, that is the same across all individuals and an individual specific part. Where this product specific part contains the mean utility, and then everything individual, specific, demographic, specific is contained within this component here, and then, of course, you also have your nesting parameters in the error term.
+
+105
+00:23:51.550 --> 00:24:19.019
+Colin Reinhardt: This is quite nice, because it means that with simply a guess of the parameter values of theta, all the individual specific parameters, and the guess of the mean utilities of consuming a particular product and a particular market. In a time. We can evaluate a household log likelihood function just by integrating out those unobserved preferences. It's simple. It's easy. A 2 level nested logit model has a
+
+106
+00:24:19.020 --> 00:24:30.819
+Colin Reinhardt: has a form that has a has a actual, you know, mathematical form. So you don't need to do any. You know Monte Carlo integration? And then you know, the the
+
+107
+00:24:30.820 --> 00:24:44.009
+Colin Reinhardt: random components of the preference parameters do have. They're distributed normally. So you do have to do some Monte Carlo integration over that. But that's not too difficult, anyways, that's easy. And then.
+
+108
+00:24:44.010 --> 00:25:07.180
+Colin Reinhardt: with those same guesses, you can also simulate retail market shares. What I do is I draw 200 consumers per market. Each consumer is a particular type, so they're random draws from the demographic distributions in a market, and the preference distribution of market. And then I iterate those consumers over time. So I simulate their consumption over time
+
+109
+00:25:07.180 --> 00:25:09.916
+Colin Reinhardt: to back out. How
+
+110
+00:25:10.910 --> 00:25:19.439
+Colin Reinhardt: changes in price, for instance, could change specific consumers, consumption conditional on their state, dependent behavior.
+
+111
+00:25:19.940 --> 00:25:38.129
+Colin Reinhardt: This is quite nice now. The downside is that Theta contains maybe 20 individual specific parameters. Delta. Here is a parameter value for every product in every market and every time period in my model there's about 135,000 parameters in Delta.
+
+112
+00:25:38.330 --> 00:26:08.010
+Colin Reinhardt: There is no way you could estimate a household level log likelihood function with 135,000 plus parameters. It would take light years for that to happen. So I use the findings of Barry Levinson and Pakis, 1995 paper which says that for any guess of theta there has to exist a unique vector of mean utilities where the simulated market shares
+
+113
+00:26:08.180 --> 00:26:30.110
+Colin Reinhardt: exactly equal the shares observed in my model. So I can use the market simulation to back out the parameter values of delta and then do a search function over theta to maximize the household lock likelihood function, because the household log likelihood function now becomes a function purely of theta.
+
+114
+00:26:30.440 --> 00:26:37.130
+Colin Reinhardt: That's very helpful. And it makes my estimation actually, you know.
+
+115
+00:26:37.170 --> 00:26:44.969
+Colin Reinhardt: reasonable. So I have 15,000 or so households with. You know, they have 2 little over 2 million weekly observations
+
+116
+00:26:44.970 --> 00:27:07.470
+Colin Reinhardt: I search over. I find the values of theta which maximize the household level log likelihood function. And then I use the sandwich estimator of covariance to account for any model misspecification. Once I have backed out the individual parameters which maximize the household log likelihood function. I can then go back
+
+117
+00:27:07.480 --> 00:27:12.276
+Colin Reinhardt: and take regression of the mean utility on my
+
+118
+00:27:13.260 --> 00:27:36.580
+Colin Reinhardt: on my parameters of interest to to obtain, say, the mean utility changes as a result of changes in price, or the average preference for cigarettes among the population. And then I also doing that, I have to bootstrap my standard errors, using a sort of traditional bootstrap routine.
+
+119
+00:27:37.560 --> 00:27:41.260
+Colin Reinhardt: Okay, that is the model estimation.
+
+120
+00:27:41.450 --> 00:27:56.779
+Colin Reinhardt: Let's turn to the demand estimates. There are a whole lot of values here. I'm not going to go through each of them. I think there's only a few. I need to highlight. 1st and foremost price is negative and statistically significant. That is exactly what we would want to see.
+
+121
+00:27:57.340 --> 00:28:18.389
+Colin Reinhardt: I find that low income consumers have an increased preference for cigarettes that makes sense. Given historical preferences. I find that black American consumers have an extreme increased preference for menthol products. Again that makes sense. Given their historical consumption.
+
+122
+00:28:19.200 --> 00:28:35.329
+Colin Reinhardt: I find that looking at the preference parameters, or that the individual specific parameters, past consumption influences current product choice, however, past consumption, influencing current product choice is strongest
+
+123
+00:28:35.690 --> 00:28:42.139
+Colin Reinhardt: at the categorical level. That is, you're willing to consume
+
+124
+00:28:42.500 --> 00:28:50.920
+Colin Reinhardt: products because of past consumption. But you're much more likely to continue to consume what you consumed last week.
+
+125
+00:28:51.497 --> 00:29:12.559
+Colin Reinhardt: And and I want to be clear here with my State dependent parameters that I am capturing hopefully capturing addiction in this. But I'm capturing anything else that goes into continued consumption of cigarette products because I can't, you know, parse out the addictive component of cigarettes from things like habit formation.
+
+126
+00:29:12.680 --> 00:29:35.080
+Colin Reinhardt: And that might be why, for instance, this e-cigarette state dependent behavior is significantly larger than any other state dependent behaviors in the model, that there might be some consumer learning behavior that is going on in the 2015, the 2016, 2017, where consumers try e-cigarettes. They're like, Oh, this is great, and they continue to use them, whereas cigarettes
+
+127
+00:29:35.080 --> 00:29:47.900
+Colin Reinhardt: and cessation products generally. People have formed an opinion about those in the past. So I want to be clear. I'm hopefully capturing addiction. But I'm capturing anything else that goes into continued usage.
+
+128
+00:29:48.340 --> 00:29:52.100
+Colin Reinhardt: And then finally, I have my nesting parameters.
+
+129
+00:29:52.780 --> 00:30:06.940
+Colin Reinhardt: My nesting parameters suggest that there is a high level of substitution among e-cigarettes and a lower level of substitution. Sorry a high level of substitution among flavored tobacco and menthol varieties of cigarettes
+
+130
+00:30:07.040 --> 00:30:26.679
+Colin Reinhardt: and a lower level of substitution among the category of e-cigarettes that is people are more likely to switch between cigarettes than they are to switch between e-cigarettes. And that makes sense. I don't see. You know people who smoke like mango flavored e-cigarettes switching over to tobacco e-cigarettes.
+
+131
+00:30:27.900 --> 00:30:38.990
+Colin Reinhardt: and then finally, in the model, I have my supply side. It's a simple supply side model where I have differentiated firms who are interested in maximizing their profits.
+
+132
+00:30:39.615 --> 00:30:44.119
+Colin Reinhardt: They encompass that state dependent behavior that exists on the demand side.
+
+133
+00:30:44.440 --> 00:30:51.729
+Colin Reinhardt: This does bias my model. When firms decide the prices they're going to set today. They look towards the future.
+
+134
+00:30:52.101 --> 00:31:17.149
+Colin Reinhardt: Obviously, firms at the tail end of my sampling period should be looking beyond the end of my sampling period. But I just don't have any data beyond that. So that biases the final quarters of my data. And I or the final, you know, several weeks of my data. So I just toss out the final quarter of my analysis. I find that firms really don't look more than about 2 months in the future when they're making decisions today.
+
+135
+00:31:17.440 --> 00:31:37.120
+Colin Reinhardt: And then, finally, I consider 2 versions of my supply side model. I have independent producers of cigarettes and e-cigarettes, and merged producers of e-cigarettes and cigarettes to sort of act as bounds on possible firm responses. When we look at how they change their prices in the model. Now.
+
+136
+00:31:37.250 --> 00:31:45.380
+Colin Reinhardt: that was a whole lot of information. I think this is a good spot before I jump into my counterfactuals to allow for questions related to my model.
+
+137
+00:31:50.150 --> 00:31:54.280
+Michael Darden: Dr. Whitaker. I will let you start with any questions about the model.
+
+138
+00:31:55.909 --> 00:32:03.039
+Travis Whitacre: Yes, so I think. What am I? Just
+
+139
+00:32:03.290 --> 00:32:06.560
+Travis Whitacre: a clarifying question on when you I think
+
+140
+00:32:06.750 --> 00:32:23.539
+Travis Whitacre: the model, when it comes to like the purchase. Qua quantity. I think you have a robustness checks portion of this in your paper. But would you be able to explain, kind of like an issue with like stockpiling cigarettes. And then, if it's creates a problem in the model for you.
+
+141
+00:32:23.540 --> 00:32:34.830
+Colin Reinhardt: I did that could create a problem. I did look at stockpiling behavior. I I looked at consumption or purchase behavior after a say, price decrease and
+
+142
+00:32:34.940 --> 00:33:02.120
+Colin Reinhardt: looking and seeing if it took people who, after a price, decrease if it took consumers and the household level data longer to purchase again, and I did not find significant results in that, suggesting that cigarette consumptions might be one of those things people just do habitually rather than now. That's not to say that there aren't that that doesn't happen. It likely does happen, but not enough to, I think, sway the results of my model.
+
+143
+00:33:03.290 --> 00:33:12.233
+Travis Whitacre: I guess. My second question, which is also kind of related to that, is then not necessarily also about the stockpiling, but
+
+144
+00:33:12.810 --> 00:33:21.089
+Travis Whitacre: if different kinds of consumers might purchase different quantities at like different frequencies. Is that something that you're able to
+
+145
+00:33:21.830 --> 00:33:23.679
+Travis Whitacre: account for? Do you think.
+
+146
+00:33:24.980 --> 00:33:34.856
+Colin Reinhardt: The the model itself doesn't really look at frequencies. I would capture, say, frequency, if if consumers, you know, certain
+
+147
+00:33:35.730 --> 00:33:55.670
+Colin Reinhardt: types of consumers are just more likely to purchase. I have. So I have that demographic specific component which captures say demographic preference for products. Obviously, you find low income consumers are more likely to purchase. And I also have a random component. So I assume that across the population there's a normal distribution sort of a normal
+
+148
+00:33:55.670 --> 00:34:19.890
+Colin Reinhardt: distribution of preferences for cigarettes. So you have people who are much more likely to buy cigarettes, and you have people much less likely. But I'm not capturing, and I do want to be clear here as we move into the counterfactuals, particularly the taxation counterfactual. I don't account for how taxation could reduce the quantity sales. I'm just trying to look at whether or not people are going to buy cigarettes
+
+149
+00:34:19.969 --> 00:34:21.440
+Colin Reinhardt: in this.
+
+150
+00:34:25.016 --> 00:34:31.119
+Travis Whitacre: Okay, I think if the we can move to the audience. Q. And a questions.
+
+151
+00:34:31.500 --> 00:34:36.439
+Michael Darden: Great. Yeah, I mean. So what? The 1st question that came up was just about black market substitution.
+
+152
+00:34:36.869 --> 00:34:37.759
+Michael Darden: of course.
+
+153
+00:34:37.760 --> 00:34:45.239
+Michael Darden: Yeah. And so I don't think that's a part of the model. But can you maybe talk about how that that not being in the model would affect things.
+
+154
+00:34:45.510 --> 00:34:47.710
+Colin Reinhardt: I mean, this is probably the the
+
+155
+00:34:48.010 --> 00:34:55.413
+Colin Reinhardt: one of the when I was doing this, the one of the biggest areas or biggest issues I identified was the fact that you do have black market sales.
+
+156
+00:34:56.340 --> 00:35:03.246
+Colin Reinhardt: So I back out my model estimates from observed retail sales. Obviously legal sales.
+
+157
+00:35:03.920 --> 00:35:13.379
+Colin Reinhardt: my estimates 1st on on the demand side and supply side. My estimates are, I think, robust, will be robust so long as
+
+158
+00:35:13.730 --> 00:35:39.509
+Colin Reinhardt: legal sales can act as a proxy for illegal sales, that is, as long as they trend. Similarly. That is the that seems to be the case. Looking at most sources of data. There seems to be, you know, people reduce their legal sales of cigarettes at least over time similar to the reduction in illegal sales, legal and illegal seem to trend, similarly
+
+159
+00:35:40.070 --> 00:35:47.639
+Colin Reinhardt: moving into the counterfactuals. It could be an issue. If, say you, then have smuggling operations which bring.
+
+160
+00:35:48.297 --> 00:35:52.052
+Colin Reinhardt: say, menthol products in the country, or you have
+
+161
+00:35:52.620 --> 00:35:59.589
+Colin Reinhardt: smuggling operations which try to avoid the taxation policy. But I do want to say that a
+
+162
+00:36:00.440 --> 00:36:21.850
+Colin Reinhardt: overarching menthol ban was put into place in Canada in most Canadian States, and there has been no research to suggest that there's been an increase in the illegal sales of menthol products as compared to prior to the bans enforcement. In fact, there's research that suggests there hasn't been an increase in illegal sales of menthol products.
+
+163
+00:36:23.130 --> 00:36:24.120
+Colin Reinhardt: and.
+
+164
+00:36:24.500 --> 00:36:51.228
+Colin Reinhardt: second, the presence of profit. Maximizing smugglers implies that an overarching taxation policy applied to cigarettes means that there will be some pass through rate of that tax policy on to consumers within the legal market. You know these are smugglers who want to make money. If the prices of cigarettes rise everywhere, they can also raise their prices to make an easier buck. So
+
+165
+00:36:51.820 --> 00:37:02.450
+Colin Reinhardt: that even if there was a national tax policy as I propose in this model, I suspect the legal market would face a similar tax as the legal market.
+
+166
+00:37:02.790 --> 00:37:03.390
+Michael Darden: Hmm
+
+167
+00:37:03.530 --> 00:37:32.640
+Michael Darden: great. So one other question that's just kind of a methodological question that I think might be very educational for everyone for me as well. So if I understand correctly, you've got this. You've got this nested, loaded model that you're going to estimate on data in a world where menthol cigarettes are being sold, and you're going to get some substitution patterns that are going to help you think about in a counterfactual world where we ban menthol cigarettes. What are people going to do? And
+
+168
+00:37:32.760 --> 00:37:40.192
+Michael Darden: and and so, you know, there, there are other models out there that have looked at this question like David Levy's work.
+
+169
+00:37:40.570 --> 00:38:05.929
+Michael Darden: which I think you cite, which has kind of some decision rules that are kind of baked in based on past substitution patterns. So I think it would just be educational for me and for the audience to kind of know, how is this model, this economic model different when you, when you take the next step to simulate the effect of a ban from maybe his model or existing models that are out there.
+
+170
+00:38:07.060 --> 00:38:08.935
+Colin Reinhardt: Though with within the literature.
+
+171
+00:38:09.560 --> 00:38:13.529
+Colin Reinhardt: you know, I'm following what would be sort of standard in industrial organization. You take.
+
+172
+00:38:14.000 --> 00:38:26.949
+Colin Reinhardt: So it is. It is a logit model, but it's also a and that's a logit model. But it's also a random, coefficient model. So you have not only the willingness to substitute among products within
+
+173
+00:38:27.730 --> 00:38:34.760
+Colin Reinhardt: within the same category. But you also have a distributional assumption applied to that. If I go back a couple of slides.
+
+174
+00:38:35.500 --> 00:38:49.350
+Colin Reinhardt: you'll see that, you know I have these standard deviations of product preference, suggesting that in the in the market you have rates of substitution of people who are consuming the product as well as a distributional assumption applied to
+
+175
+00:38:49.400 --> 00:39:18.079
+Colin Reinhardt: how people are willing to consume the product, so that, I think, is one of the 1st steps that takes my model away from more traditional models, and, second, a lot of the more traditional models I've seen in the space rely on nested logits applied to solely one source of data. I'm working with household and retail data, and I'm simulating an overall market rather than looking at, say, a sample of specific consumers.
+
+176
+00:39:18.471 --> 00:39:23.959
+Colin Reinhardt: And this helps, as we discussed earlier, fix the issues that are prevalent in
+
+177
+00:39:25.350 --> 00:39:28.930
+Colin Reinhardt: in most models that rely solely on household data. You don't
+
+178
+00:39:29.060 --> 00:39:45.270
+Colin Reinhardt: observe to the best level best level accuracy how consumers change their consumption with a function. As a result of, say, changes in price. It is very difficult to estimate, without sort of aggregate level information, how
+
+179
+00:39:45.310 --> 00:40:12.360
+Colin Reinhardt: changes in demand demand changes a function of price in addition, how firms, of course, the supply side added to this, how firms will respond to the change, the reduction in consumption that you see on the demand side? If you do, in fact, put something like this into place. And finally, you know, sort of differentiating my work from any other work, excluding Sarah Tuckman.
+
+180
+00:40:12.450 --> 00:40:16.489
+Colin Reinhardt: who, who, I think, is at the University of Chicago right now, or maybe
+
+181
+00:40:16.650 --> 00:40:26.194
+Colin Reinhardt: she, Kellogg Kellogg Booth school of marketing. She has a demand model that encompasses this dynamic state dependent behavior as do I.
+
+182
+00:40:26.790 --> 00:40:37.209
+Colin Reinhardt: so I I think it is similar in that. I'm using sort of the base model structure. But I'm adding more bells and whistles, so to say, that, allow me to
+
+183
+00:40:37.940 --> 00:40:45.280
+Colin Reinhardt: analyze consumer and market behavior sort of this equilibrium consumption over time.
+
+184
+00:40:46.780 --> 00:41:15.580
+Michael Darden: Okay, great. So let me, I just want to make one quick announcement. So in the Q&A, please keep the the questions coming. If we don't have time to get to them, or you'd like to discuss with the speaker directly. You're welcome to attend top of the tops immediately following this webinar the URL will be posted in the chat, and so you can join immediately after we're done here. So in the interest of time. Why don't you show us the counterfactuals?
+
+185
+00:41:15.580 --> 00:41:19.429
+Michael Darden: Yep, and this shouldn't take too much time. There's only 3 major counterfactuals.
+
+186
+00:41:19.470 --> 00:41:47.729
+Colin Reinhardt: 1st and most obviously, what happens if we ban menthol cigarettes, and you know referencing papers that have looked at this but from alternative perspectives levy and isabosh. I find the 35% reduction in black American smoking, I believe Isabosh finds a 35.7% reduction. I find a 12.5% reduction 13%. If we average it out. Reduction in overall cigarette consumption.
+
+187
+00:41:48.094 --> 00:41:54.289
+Colin Reinhardt: Levy, it all finds a take a 15% reduction cigarette smoking. So this sort of
+
+188
+00:41:54.290 --> 00:42:09.150
+Colin Reinhardt: counterfactual model that I've developed allows me to find results that would be suggested by tobacco researchers, by people who have spent much more time in this field than IA I/O economist.
+
+189
+00:42:09.210 --> 00:42:35.099
+Colin Reinhardt: But looking at this as well, looking at the market outcomes and the individual specific behavior. I find that about 68% of all menthol smokers switch that reduces when we look at the black American community, only about half of black American smokers actually are willing to switch over to menthol products to non menthol products, that is. And I find that there's a reduction in consumer surplus that is largest among the black American community.
+
+190
+00:42:35.990 --> 00:42:44.559
+Colin Reinhardt: Looking at changes in e-cigarette consumption, I find that there is an increase in e-cigarette consumption as a function of the menthol ban.
+
+191
+00:42:44.560 --> 00:43:07.540
+Colin Reinhardt: That is largest. If we consider the producers of cigarettes and e-cigarettes to be merged, that is, that it's 1 individual company rather than independent entities, while these numbers look large e-cigarette consumption within the time span of my model was still quite low. So actually, my model suggests that less than 2% of
+
+192
+00:43:07.540 --> 00:43:24.209
+Colin Reinhardt: cigarette menthol users actually quit and substitute to e-cigarettes. And that's actually, it turns out quite similar to what was observed in Canada when Canada put in place their own menthol ban that people might have said they'd be willing to consider e-cigarettes, but very few actually followed through on that.
+
+193
+00:43:25.100 --> 00:43:44.065
+Colin Reinhardt: Finally, looking at cessation products. There's very little change in cessation product usage. And this is good. This is sort of my canary in the coal mine the gold mine. If I saw a huge jump in cessation product usage, I would be concerned that my model will be misspecified.
+
+194
+00:43:44.820 --> 00:43:48.459
+Colin Reinhardt: so that is the menthol cigarette ban. One
+
+195
+00:43:48.590 --> 00:44:15.559
+Colin Reinhardt: additional benefit of having these large structural models is, I can also look at other possible counterfactuals of interest, and that is moving into a cigarette sales tax. What sales tax results in an equivalent reduction of overall smoking usage as that's seen under the menthol ban, and I find that a dollar and 2 cents sales tax will reduce smoking consumption equivalently with a smaller reduction
+
+196
+00:44:15.560 --> 00:44:25.009
+Colin Reinhardt: in overall consumer surplus. But that is primarily because of the black American community. If you remove the black American community from the
+
+197
+00:44:25.610 --> 00:44:31.410
+Colin Reinhardt: From this consideration, then you find that non-black households prefer the ban rather than the tax policy.
+
+198
+00:44:32.000 --> 00:44:53.739
+Colin Reinhardt: Now I look at expected revenue from the ban. Now that this is very much a back of the envelope, finding, since I don't account account for how the the tax itself could reduce an individual's consumption of cigarettes. And I find that there's an expected tax revenue of about 100 and 15 ish 1 million a week. That's a lot of money. It's like
+
+199
+00:44:53.740 --> 00:45:09.980
+Colin Reinhardt: 24.4 billion over the 4 years. I consider in my sample, that is money that could be put towards advancing health equity programs in the United States. But again, I do want to say that this is likely a
+
+200
+00:45:10.611 --> 00:45:20.408
+Colin Reinhardt: on the higher end of the expectation, since I'm not accounting for that reduction in consumption that would happen as an individual continues to smoke.
+
+201
+00:45:21.150 --> 00:45:29.689
+Colin Reinhardt: looking at overall changes in consumption. Given tax rates, I would expect the actual value to be maybe
+
+202
+00:45:29.870 --> 00:45:33.992
+Colin Reinhardt: 15 to 20% smaller than what I find
+
+203
+00:45:34.790 --> 00:45:51.390
+Colin Reinhardt: And finally, I find that there's a smaller increase in e-cigarette usage as compared to the menthol ban. As there are no longer individuals looking to use e-cigarettes in order to continue to use menthol products. And again, there's very little impact on cessation product usage.
+
+204
+00:45:52.020 --> 00:46:14.469
+Colin Reinhardt: Finally, what if we expanded the menthol ban to include flavored and menthol varieties of e-cigarettes, and I find that the reduction in cigarette consumption is near identical, and you have a 46% reduction in e-cigarette usage. But this varies strongly over time. As prior to 2018 e-cigarettes were not as popular as they were. Post 2,018.
+
+205
+00:46:14.820 --> 00:46:24.740
+Colin Reinhardt: So I would say that. And I have a graph in the model which shows the reduction in e-cigarette usage over time. That shows that there is, you know, that is highly time dependent.
+
+206
+00:46:25.040 --> 00:46:28.950
+Colin Reinhardt: And again, little impact on cessation product usage.
+
+207
+00:46:29.000 --> 00:46:41.019
+Colin Reinhardt: So that is my model. That is the, you know the results. My counterfactual analysis of sort of taking a traditional I/O approach into looking at this tobacco policy research.
+
+208
+00:46:41.020 --> 00:47:02.440
+Colin Reinhardt: where I combine household and retail data under a random, coefficient, nested, low drip framework. I allow for demographic interactions to capture individual specific and demographic specific consumption. I find that the menthol ban reduces cigarette smoking by about 36%. Among the black American community. You have a 35% reduction in smoking.
+
+209
+00:47:02.440 --> 00:47:15.419
+Colin Reinhardt: which is huge for proponents who want to advance health equity. I find that a dollar and 2 cents sales tax reaches pretty much an equivalent reduction in cigarette smoking. You don't get that
+
+210
+00:47:15.420 --> 00:47:38.020
+Colin Reinhardt: black American reduction in smoking, so it doesn't come with that health equity outcome that you know the Menthol band has. But you do also generate a significant amount of money via tax revenue that could be put towards advancing health equity programs. Finally, I find an expansion of the ban to include menthol and flavored varieties of e-cigarettes results in a
+
+211
+00:47:38.110 --> 00:47:43.770
+Colin Reinhardt: 46% reduction in e-cigarette usage. And that is it. Thank you so much.
+
+212
+00:47:47.750 --> 00:47:49.783
+Michael Darden: Thanks so much. That's great.
+
+213
+00:47:50.320 --> 00:47:54.619
+Michael Darden: Dr. Whitaker, would you like to make any further comments.
+
+214
+00:47:55.635 --> 00:47:56.905
+Travis Whitacre: Sure. Yeah.
+
+215
+00:47:58.180 --> 00:48:06.620
+Travis Whitacre: yeah, thank you for. Yeah. The great presentation. I guess. So. One last question, I guess, regarding when you
+
+216
+00:48:06.860 --> 00:48:08.160
+Travis Whitacre: do with like?
+
+217
+00:48:08.500 --> 00:48:13.340
+Travis Whitacre: Add in like the flavored e-cigarette fan, it.
+
+218
+00:48:13.710 --> 00:48:31.590
+Travis Whitacre: Do you also see like how this would affect like menthol cigarettes, or I mean cigarette smoking usage when both are implemented. Because I would wonder if that would act. You might have a smaller coefficient when there's
+
+219
+00:48:32.040 --> 00:48:35.769
+Travis Whitacre: both of the bans implemented versus just the menthol cigarette ban.
+
+220
+00:48:35.770 --> 00:48:38.615
+Colin Reinhardt: So in in my model counterfactuals.
+
+221
+00:48:39.300 --> 00:49:05.190
+Colin Reinhardt: the implement, the expansion of the I've never looked at just a e-cigarette flavored band. Maybe that is something I should consider I've always considered just the band expanding to include menthol and flavored varieties of e-cigarettes. I've never done the the opposite. What would happen if we just banned e-cigarettes, but left menthol cigarettes alone. That's interesting, and a possible extension of this work.
+
+222
+00:49:05.590 --> 00:49:09.787
+Colin Reinhardt: But at the time that was not, you know the primary question I was focused on
+
+223
+00:49:10.180 --> 00:49:28.399
+Colin Reinhardt: to that end, though I suspect, given that there's very little substitution from cigarettes to e-cigarettes. The reverse is likely true as well that people who smoke e-cigarettes smoke them because they like e-cigarettes, and people who smoke cigarettes like them because they like cigarettes, and there's very little crossover.
+
+224
+00:49:29.140 --> 00:49:35.410
+Travis Whitacre: Yeah, cause I was just curious, because, like, when we had essentially some of our work, we had
+
+225
+00:49:35.998 --> 00:49:50.619
+Travis Whitacre: done a mapping of different like E. Cigarette and cigarette flavor restrictions. And so you had about like one in 10 people that were lived in an area that had like an e-cigarette menthol, restriction, but not a menthol, cigarette restriction.
+
+226
+00:49:50.620 --> 00:49:51.150
+Colin Reinhardt: That's interesting.
+
+227
+00:49:51.150 --> 00:49:51.729
+Travis Whitacre: So I could.
+
+228
+00:49:52.640 --> 00:49:57.139
+Travis Whitacre: That's 1 of those concerns is we're worried about substitution
+
+229
+00:49:57.886 --> 00:50:04.389
+Travis Whitacre: from e-cigarettes to cigarettes when there is a restriction of e-cigarettes, but not the other. But.
+
+230
+00:50:04.390 --> 00:50:31.819
+Colin Reinhardt: I sort of found that my model results suggest that there was this growth of e-cigarette usage over time. And and you did have this reduction in. I'm not going to say that there were not people switching from cigarettes to e-cigarettes. There certainly were quite a few people in my model in the simulation simulated model, at least, who switched were originally cigarette smokers and switched over to e-cigarettes as e-cigar popularity grew.
+
+231
+00:50:31.820 --> 00:50:38.440
+Colin Reinhardt: My results show that my counterfactuals suggest. That was very clear that that happened. Just that
+
+232
+00:50:38.630 --> 00:50:46.679
+Colin Reinhardt: removing particular products is not going to incentivize those consumers. Not just maybe maybe if we've removed
+
+233
+00:50:46.840 --> 00:50:53.416
+Colin Reinhardt: menthol and flavored e-cigarettes. That the consumers want to switch, but that that
+
+234
+00:50:54.810 --> 00:51:01.267
+Colin Reinhardt: that the ban itself would not have incentivized people to change their behavior, that they would have changed their behavior.
+
+235
+00:51:01.950 --> 00:51:03.110
+Colin Reinhardt: regardless.
+
+236
+00:51:05.880 --> 00:51:13.250
+Travis Whitacre: Thank you. I guess there's not much time left, so I'll let you get to the rest of the audience questions. So everyone has their questions.
+
+237
+00:51:13.250 --> 00:51:27.823
+Michael Darden: Yeah, I mean. So actually, you answered one of them. With that, with that question about an e-cigarette flavor ban. So that that's helpful. 1 1 comment just said, Have you? Have you thought about State tax revenue?
+
+238
+00:51:28.170 --> 00:51:30.279
+Colin Reinhardt: I haven't considered state tax revenue that
+
+239
+00:51:30.480 --> 00:51:46.739
+Colin Reinhardt: becomes a lot more difficult. So many of these Dmas, they say, sometimes cross State boundaries by a county or 2, just because they're trying to encompass localities that have similar consumers. So that would be
+
+240
+00:51:47.040 --> 00:51:49.210
+Colin Reinhardt: it difficult to do. Okay.
+
+241
+00:51:49.210 --> 00:52:16.900
+Michael Darden: Yeah, there, there seems to be some demand for it in the chat. So but you know, just maybe for future work. One question that I had, I mean, so you, you have a supply side component of the model, which is, I think, also a differentiating factor from the from the literature and is nice. But you know Newport cigarettes are made by Rj. Rj. Reynolds right? And so like this, like a menthol. Ban
+
+242
+00:52:16.900 --> 00:52:26.899
+Michael Darden: is going to dramatically affect one company more than another company. Have you thought about, like the competitive effects of such a policy
+
+243
+00:52:26.960 --> 00:52:27.480
+Michael Darden: on the.
+
+244
+00:52:27.480 --> 00:52:29.438
+Colin Reinhardt: That would be interesting, maybe.
+
+245
+00:52:30.040 --> 00:52:38.135
+Colin Reinhardt: if I expanded this to include, say, not only independent producers of of cigarettes and e-cigarettes, but independent producers of
+
+246
+00:52:39.050 --> 00:52:40.230
+Colin Reinhardt: you know the the
+
+247
+00:52:40.560 --> 00:53:05.860
+Colin Reinhardt: tobacco cigarettes and and menthol cigarettes. That would have been quite interesting, the difficulty. And there is, you know, if if I wanted to. I could have not aggregate. I could have aggregated, to say, a smaller level where you have menthol products produced by certain manufacturers and cigarette products produced by certain manufacturers as independent. The difficulty with that is
+
+248
+00:53:05.980 --> 00:53:24.968
+Colin Reinhardt: the these I/O models do not run fast. You know, this thing takes 2 weeks or so to converge to the the final solution. And that's with 6 products. And the time increases exponentially. If I had, like a supercomputer that would work, but I'm running it on my personal laptop.
+
+249
+00:53:25.920 --> 00:53:28.339
+Colin Reinhardt: which makes things more difficult.
+
+250
+00:53:29.540 --> 00:53:44.650
+Michael Darden: I completely understand having done these models myself. So remind me, though, what you're doing with respect to withdrawal. So I mean the the cessation here. What are the implications in the model from cessation.
+
+251
+00:53:45.620 --> 00:53:50.849
+Colin Reinhardt: So the model itself doesn't have withdrawal as a component.
+
+252
+00:53:50.980 --> 00:54:08.059
+Colin Reinhardt: You know, the the addiction behavior that I included is myopic. You don't have rational addiction. People aren't considering how their consumption today will influence their consumption of the future. It simply is acting as if you simply looking back one week in the past, and saying, If you consumed last week.
+
+253
+00:54:08.672 --> 00:54:20.759
+Colin Reinhardt: how does that change the amount of happiness you consume this week? So withdrawals are actually being absorbed as a sort of increase in the desire to smoke. This week
+
+254
+00:54:20.900 --> 00:54:35.050
+Colin Reinhardt: I did look at what would happen if I removed addiction as a component in my model, and then I evaluated consumer utility, and I found that addiction made up about, and this would be the withdrawals made up about
+
+255
+00:54:35.495 --> 00:54:46.910
+Colin Reinhardt: and other things like habit formation. We made up about 2%, 2 and a half percent of the overall loss and utility that consumers. That there's just a preference for cigarettes among
+
+256
+00:54:47.180 --> 00:54:54.276
+Colin Reinhardt: certain populations of consumers. Maybe they think it makes them look cool. Maybe they think you know, they're trying to fit in with their peers
+
+257
+00:54:54.770 --> 00:54:57.269
+Colin Reinhardt: And the loss of hurt them more.
+
+258
+00:54:57.270 --> 00:55:05.359
+Michael Darden: I would push back on that. I mean, I think there's there's something missing here right? That like addiction is much more powerful than 2% of the variation in sales.
+
+259
+00:55:05.620 --> 00:55:06.180
+Colin Reinhardt: So.
+
+260
+00:55:06.180 --> 00:55:34.569
+Michael Darden: Physiologically like what we know about addiction. So I mean, I mean, I understand the limitations from perspective. But I but I like you. You kind of led with this or you. One of the conclusions that you were talking about was that you did not expect to see cessation devices going up much, and I would expect them to go up more right. So like, if if I really like, you know that that's a strong preference. But.
+
+261
+00:55:35.160 --> 00:55:38.260
+Michael Darden: Turns out, I'm actually addicted to cigarette, to nicotine as well.
+
+262
+00:55:38.260 --> 00:55:38.740
+Colin Reinhardt: Format.
+
+263
+00:55:38.740 --> 00:55:42.859
+Michael Darden: So when you get rid of my preferred brand, I'm in a I'm in a really bad spot.
+
+264
+00:55:43.070 --> 00:55:43.560
+Michael Darden: you know.
+
+265
+00:55:43.560 --> 00:56:09.709
+Colin Reinhardt: The the increase in cessation product usage is averaged over the entire time. So, unfortunately you would. I've looked at what would happen if I remove the products and then looking at the change in consumption the next week. And you do find a spike in cessation product usage. But that reduces as people sort of wean off of them the consumers. My model wean off of them. The the other issue. And I agree. This is, you know one of the I'm
+
+266
+00:56:09.820 --> 00:56:28.250
+Colin Reinhardt: my state. Dependent behavior only looks at the prior week's consumption. That's really a limitation. With these large demand models. The modeling approach I took makes it makes the gradient of the objective function extremely difficult to calculate.
+
+267
+00:56:28.520 --> 00:56:30.690
+Colin Reinhardt: So I'm only capturing
+
+268
+00:56:30.930 --> 00:56:39.670
+Colin Reinhardt: consumers who are the most addictive and the most extreme form of their addictive component. The other portion is being shoved into their preference. Distribution?
+
+269
+00:56:40.910 --> 00:56:57.259
+Colin Reinhardt: so there is, you know, that issue as well that the addictive component. If I was able to expand that maybe 2 weeks or 3 weeks would be better to capture this, this purely addictive component. So I'm only capturing the most extreme consumers in my model.
+
+270
+00:56:57.980 --> 00:57:13.369
+Michael Darden: Yeah, I mean, I think I mean, another thing you can sell to here is that a lot of the empirical models of smoking are estimated with annual data that helps with the addiction aspect. But it's also not the relevant timeframe in which people are.
+
+271
+00:57:13.370 --> 00:57:14.060
+Colin Reinhardt: Yeah.
+
+272
+00:57:14.650 --> 00:57:18.619
+Michael Darden: So there, there are pros and cons to your approach.
+
+273
+00:57:18.620 --> 00:57:34.310
+Colin Reinhardt: Yes, I looked at expanding this to like biweekly, looking at consumption bi-weekly. But the issue with that is then in the household level data. You can have. People go nearly a month without purchasing a month between purchases and be considered continuous smokers, which
+
+274
+00:57:34.660 --> 00:57:51.401
+Colin Reinhardt: doesn't make. I don't think those people are comparable to people who smoke every week, even with weekly consumption, if they, you know, if they purchase a product on a Monday, and then wait till the next week's Sunday to purchase, that's, you know, continuous consumption, my model?
+
+275
+00:57:51.930 --> 00:58:01.609
+Colin Reinhardt: so I think there's there's issues, especially as you expand this timeframe when you start to capture, it becomes difficult to say. Is this
+
+276
+00:58:02.010 --> 00:58:05.320
+Colin Reinhardt: purely physiological addiction, or is this just
+
+277
+00:58:05.660 --> 00:58:08.180
+Colin Reinhardt: preference for the products? It's sort of like.
+
+278
+00:58:08.280 --> 00:58:10.460
+Colin Reinhardt: you know, mixed in there. It's it's.
+
+279
+00:58:11.110 --> 00:58:17.300
+Michael Darden: It's also it's also it's also kind of glossing over the kind of pack purchasers versus Carton purchasers.
+
+280
+00:58:18.130 --> 00:58:19.390
+Colin Reinhardt: Island that people are talking.
+
+281
+00:58:19.390 --> 00:58:20.050
+Colin Reinhardt: Yeah.
+
+282
+00:58:20.050 --> 00:58:22.743
+Michael Darden: So it's it's hard to disentangle those things.
+
+283
+00:58:23.080 --> 00:58:24.050
+Colin Reinhardt: Absolutely.
+
+284
+00:58:24.190 --> 00:58:41.010
+Michael Darden: Okay. Well, I think we're 1 min away, so I'll kick it back to Sam for to take us out. But just a reminder that we have top of the tops right after. If you'd like to discuss these issues more and the link is in the chat. So immediately following our our webinar. You can you can click there. So thanks.
+
+285
+00:58:44.040 --> 00:58:56.819
+Sam Sturm: Okay, yeah. So that is the end of our time for today. Again, like Michael just said, if you have any extra burning questions or thoughts for Dr. Reinhart. You can join us for top of the tops in an interactive group discussion
+
+286
+00:58:56.820 --> 00:59:15.269
+Sam Sturm: to join. Please copy the Zoom Meeting room, URL. That's posted in the chat and switch rooms with us. Once this event concludes, we're going to leave the Webinar room open for an extra minute after the end to give everyone a chance to copy the URL, which is bitly slash. Toppsmeeting, that is, bit.ly forward slash Topps, meeting all lowercase.
+
+287
+00:59:15.270 --> 00:59:22.299
+Sam Sturm: Thank you to our presenter moderator and discussant, and finally, thank you to the audience of 180 people
+
+288
+00:59:22.300 --> 00:59:25.610
+Sam Sturm: for your participation today. Have a topsnotch weekend.
+
+289
+00:59:27.740 --> 00:59:28.590
+Colin Reinhardt: Thank you.
+
