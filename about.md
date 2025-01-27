@@ -15,28 +15,28 @@ Member: Justin White, Boston University <img src="https://img.icons8.com/fluent/
 Warren Bickel (in memoriam), Virginia Tech \\
 Michelle Bloch, National Cancer Institute \\
 Alison Breland, Virginia Commonwealth University \\
-John Cawley, Cornell University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@cawley_john](https://twitter.com/cawley_john) \\
+John Cawley, Cornell University \\
 Christopher Carpenter, Vanderbilt University \\
 Frank Chaloupka, University of Illinois-Chicago \\
 Kenneth Michael Cummings, Medical University of South Carolina \\
 Dhaval Dave, Bentley University \\
-Cristine Delnevo, Rutgers University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@CrisDelnevo](https://twitter.com/CrisDelnevo)\\
+Cristine Delnevo, Rutgers University \\
 Jeffrey Drope, Johns Hopkins University \\
-Sherry Emery, University of Chicago – NORC <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@SherryEmery](https://twitter.com/SherryEmery) \\
-Michael Eriksen, Georgia State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@MPEriksen](https://twitter.com/MPEriksen) \\
-Jean-François Etter, University of Geneva  <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@etterjf](https://twitter.com/etterjf) \\
+Sherry Emery, University of Chicago – NORC \\
+Michael Eriksen, Georgia State University \\
+Jean-François Etter, University of Geneva   \\
 Matthew Farrelly, Food and Drug Administration - Center for Tobacco Products  \\
-Geoffrey Fong, University of Waterloo <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@gfong570](https://twitter.com/gfong570) \\
-Abigail Friedman, Yale University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@AFriedmanPhD](https://twitter.com/AFriedmanPhD) \\
+Geoffrey Fong, University of Waterloo \\
+Abigail Friedman, Yale University \\
 Maciej Goniewicz, Roswell Park Comprehensive Cancer Center \\
 Emmanuel Guindon, McMaster University \\
-Scott Halpern, University of Pennsylvania <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@ScottHalpernMD](https://twitter.com/ScottHalpernMD) \\
+Scott Halpern, University of Pennsylvania \\
 Peter Hajek, Queen Mary University of London \\
 Robert Hornik, University of Pennsylvania \\
-Prabhat Jha, University of Toronto <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@countthedead](https://twitter.com/countthedead) \\
+Prabhat Jha, University of Toronto \\
 Mary Kautz, National Institute on Drug Abuse \\
 Brian King, Food and Drug Administration - Center for Tobacco Products \\
-Ryan Kennedy, Johns Hopkins University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@ryan_david](https://twitter.com/ryan_david) \\
+Ryan Kennedy, Johns Hopkins University \\
 Tessa Langley, University of Nottingham \\
 David Levy, Georgetown University \\
 Rafael Meza, BC Cancer Research \\
@@ -44,15 +44,15 @@ Richard O’Connor, Roswell Park Comprehensive Cancer Center \\
 Barbara Schillo, Truth Initiative \\
 Jody Sindelar, Yale University \\
 Andrew Strasser, University of Pennsylvania \\
-Andy Tan, University of Pennsylvania <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Andy_SL_Tan](https://twitter.com/Andy_SL_Tan)\\
+Andy Tan, University of Pennsylvania \\
 James Thrasher, University of South Carolina \\
 Theodore Wagener, Ohio State University 
 
 ## Founding Members
-Catherine Maclean, George Mason University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@JCMecon](https://twitter.com/JCMecon) \\
-Mike Pesko, University of Missouri <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko) \\
-Ce Shang, Ohio State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Ce_Shang_HE](https://twitter.com/Ce_Shang_HE) \\
-Justin White, Boston University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite) 
+Catherine Maclean, George Mason University \\
+Mike Pesko, University of Missouri \\
+Ce Shang, Ohio State University \\
+Justin White, Boston University 
 
 <br><br>
 
