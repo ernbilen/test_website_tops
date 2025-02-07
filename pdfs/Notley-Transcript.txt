@@ -1,0 +1,958 @@
+WEBVTT
+
+1
+00:00:03.890 --> 00:00:14.660
+Rime Jebai: Welcome to the tobacco online policy seminar tops. Thank you for joining us. Today. I'm Rim Zhibai, a postdoctoral research associate at Boston University
+
+2
+00:00:14.990 --> 00:00:31.499
+Rime Jebai: tops is organized by Mike Pesco, at University of Missouri, C. Chang at the Ohio State University, Michael Darden at Johns Hopkins University, Jamie Hartman Boyce, at University of Massachusetts, Amherst and Justin White at Boston University.
+
+3
+00:00:31.770 --> 00:00:36.590
+Rime Jebai: The seminar will be 1 h with questions from the Moderator and discussant.
+
+4
+00:00:36.730 --> 00:00:50.719
+Rime Jebai: The audience may pose questions and comments in the Q. And a panel, and the moderator will draw from these questions and comments in conversation with the presenter. Please review the guidelines on tobaccopolicy.org for acceptable questions.
+
+5
+00:00:50.860 --> 00:00:55.409
+Rime Jebai: Please keep the questions professional and related to the research being discussed.
+
+6
+00:00:55.700 --> 00:01:06.189
+Rime Jebai: Questions that meet the seminar series. Guidelines will be shared with the presenter afterwards, even if they're not read aloud, your questions are very much appreciated.
+
+7
+00:01:06.890 --> 00:01:23.240
+Rime Jebai: This presentation is being video recorded and will be made available along with presentation slides on the tops website, tobaccopolicy.org. I will now turn the presentation over to today's Moderator, Justin White, from Boston University to introduce our speaker.
+
+8
+00:01:25.670 --> 00:01:36.690
+Justin White: Today we continue our winter. 2025. Season, with a single paper presentation by Caitlin Notley, entitled Financial Incentives for Smoking Cessation, a Cochrane Review.
+
+9
+00:01:36.800 --> 00:01:42.600
+Justin White: This presentation was selected by a competitive review process by submission through the Tops website.
+
+10
+00:01:43.040 --> 00:02:07.490
+Justin White: Professor Caitlin Notley is director of the Lifespan Health Research Center and co-lead of the Addiction Research Group at the Norwich Medical School University of East Anglia. She's a social scientist by background, with methodological expertise in development and evaluation of complex interventions, clinical trials, applied mixed methods, and systematic reviewing.
+
+11
+00:02:07.770 --> 00:02:18.060
+Justin White: Her particular areas of research expertise are tobacco, smoking, cessation, relapse, prevention and harm reduction approaches for cessation with a focus on vulnerable populations.
+
+12
+00:02:18.090 --> 00:02:39.909
+Justin White: In addition to her work with Cochrane, she currently leads the Nihr Funded Baby breathe smoking relapse prevention trial and is editor-in-chief for the Srnt. Journal nicotine and Tobacco research. Dr. Jamie Hartman Boyce is a co-author of the study, and will answer select questions in the Q. And a Dr. Caitlin Motley. Thank you for presenting for us today.
+
+13
+00:02:44.940 --> 00:02:53.709
+Caitlin Notley: Thank you so much. That's a very kind introduction. I'm just going to share my screen and check that. You can see my slides. Okay.
+
+14
+00:02:53.930 --> 00:02:59.459
+Caitlin Notley: So if you wouldn't mind just giving me a thumbs up, someone, that would be great.
+
+15
+00:03:00.930 --> 00:03:12.170
+Caitlin Notley: Okay, so thank you for the invitation. I'm going to talk to you, as Justin has mentioned, about our Cochrane Review financial incentives for smoking cessation
+
+16
+00:03:12.280 --> 00:03:26.469
+Caitlin Notley: just before we start. I would like to acknowledge that the work is unfunded. It is supported by my employer, the University of East Anglia. Within my role.
+
+17
+00:03:26.500 --> 00:03:51.020
+Caitlin Notley: In the past 5 years I have received funding externally from the National Institute for Health Research and Cancer Research, Uk. But the views expressed in the presentation today are my own, and do not necessarily represent the views of any of those funders, and just to confirm that myself and my co-authors have never received industry funding from either the tobacco or the non-therapeutic nicotine industries.
+
+18
+00:03:51.020 --> 00:04:14.000
+Caitlin Notley: and we have no further conflicts of interest to declare. So I thought I would start just telling you by telling you a little bit about me, and about where I come from. It's really fantastic to be presenting to an international audience this evening. It is 7 o'clock here in the Uk. And I come from a working class background. Usually Friday nights are absolutely sacred. So
+
+19
+00:04:14.000 --> 00:04:36.140
+Caitlin Notley: I'm delighted to be here. I come from the University of East Anglia. We're based in Norwich, Norfolk, in the Uk. It's a rural location, a beautiful campus. We're really lucky that we sit on a research park with access to world leading research facilities and also clinical care on a hospital site.
+
+20
+00:04:36.140 --> 00:04:42.490
+Caitlin Notley: So we'd really welcome anyone that is ever over in the Uk to come and visit. It really is a beautiful campus
+
+21
+00:04:43.180 --> 00:04:50.999
+Caitlin Notley: and a bit about me. I lead the Addiction Research group within the Faculty of Medicine Health at the University of East Anglia
+
+22
+00:04:51.000 --> 00:05:15.690
+Caitlin Notley: we undertake a range of smoking related studies particularly focused on relapse prevention developing and testing complex interventions and nicotine harm reduction approaches. And, as Justin mentioned, I have also recently taken on the role of editor in chief of nicotine and tobacco research. So I've worked for over 20 years in the field
+
+23
+00:05:15.690 --> 00:05:18.859
+Caitlin Notley: focused on nicotine and tobacco research
+
+24
+00:05:19.430 --> 00:05:39.459
+Caitlin Notley: and a bit about Cochrane. So Cochrane is an independent, not-for-profit collaboration that undertakes evidence synthesis to inform clinical guidelines practice and policy, we do this by systematically reviewing all the available evidence and have a very strong emphasis on quality assessment.
+
+25
+00:05:39.540 --> 00:06:01.870
+Caitlin Notley: So Cochrane methods are really considered gold standard in terms of evidence. Synthesis. There's a very comprehensive handbook on systematic reviewing practices, which is an excellent open access resource for colleagues. We have, you know, very rigorous and thorough approach to all of our methods. Excuse my slides for skipping on
+
+26
+00:06:01.870 --> 00:06:11.839
+Caitlin Notley: insisting on pre registration of all reviews, open access, publication of protocols. We have very transparent and open search and review methods.
+
+27
+00:06:11.840 --> 00:06:17.349
+Caitlin Notley: double data, extraction, and very comprehensive checking of all analyses.
+
+28
+00:06:17.350 --> 00:06:42.140
+Caitlin Notley: The editorial process of Cochrane is exceptionally thorough right from the 1st proof through to the final reviewing and editing processes. So all in all, it is a very comprehensive approach to evidence synthesis. And the reason we do this is to really help healthcare providers, patients, carers, researchers, funders, policymakers, guideline developers
+
+29
+00:06:42.330 --> 00:06:51.030
+Caitlin Notley: to be able to base their clinical decision, making on the best available evidence and the synthesis of that evidence
+
+30
+00:06:52.470 --> 00:07:20.529
+Caitlin Notley: so obviously really want to acknowledge the authorship team for this review. No review can be completed really to a good standard. In my opinion in isolation so huge, thanks to the team who've played a huge role in producing this very comprehensive review. There's myself, Sarah Gentry, who unfortunately can't be with us tonight, but who helped with a lot of the Meta analysis? John Livingstone Banks at Cochrane, who helped with a lot of the searches.
+
+31
+00:07:20.530 --> 00:07:50.459
+Caitlin Notley: Linda Bold, who, many of you will know, very eminent colleague in the field, and particularly in the field of smoking cessation in pregnancy. Raphael Piera, who helps with the statistics and advising Montserrat, who helped with a lot of the data extraction for the study. And of course, Jamie Hartman Poys, who, many of you will know, very eminent in terms of her involvement in Cochrane reviews, both in terms of leading and as member of the team.
+
+32
+00:07:50.860 --> 00:07:55.390
+Caitlin Notley: and none of this would have happened without this fantastic team. So, thanks to everyone.
+
+33
+00:07:55.830 --> 00:08:18.889
+Caitlin Notley: So the review I'm going to be talking to you about today is an update of a previous review around incentives for smoking cessation. The update was published last month in January 2025. It's already been highly cited and is influential. Over 1,300 downloads already of full text reviews since its inception.
+
+34
+00:08:18.890 --> 00:08:28.260
+Caitlin Notley: So we're really proud of this work, which has been a huge piece of work, and I'm grateful for the opportunity to talk a bit more about it with you.
+
+35
+00:08:29.010 --> 00:08:55.459
+Caitlin Notley: So just thinking about some of the background, why is it important that we understand the evidence around incentivized approaches for supporting people to quit smoking. Well, it's probably one of the most throwaway statements that we use, and colleagues use within our field that smoking remains the leading preventable cause of death worldwide. This is, of course, accurate, and comes from the World Health Organization.
+
+36
+00:08:55.460 --> 00:09:05.399
+Caitlin Notley: But I just wanted to start by making this point, that although we say this almost as a throwaway statement by way of introduction to talks, we rarely stop to think about
+
+37
+00:09:05.400 --> 00:09:25.680
+Caitlin Notley: what this actually means and for me in my day to day practice and the programs of research that I'm involved in, I'm constantly reminded of the gravity of this statement. So if we consider some of the statistics we know that tobacco use kills up to half of its users who don't manage to quit
+
+38
+00:09:26.132 --> 00:09:32.330
+Caitlin Notley: there is no other legally available consumer product that is so uniquely dead. Dead
+
+39
+00:09:35.090 --> 00:09:39.880
+Caitlin Notley: tobacco kills more than 8 million people each and every.
+
+40
+00:09:40.500 --> 00:09:48.930
+Caitlin Notley: including an estimated 1.3 million non-smokers who are exposed to secondhand smoke.
+
+41
+00:09:49.250 --> 00:10:05.179
+Caitlin Notley: And around 80% of the world's 1.3 billion tobacco users live in low and middle income countries. So just 20% of the world's tobacco users live in high income countries which generate most of the research
+
+42
+00:10:05.610 --> 00:10:16.199
+Caitlin Notley: in 2022% of the world's population used tobacco. That's 36.7% of men and 7.8% of women.
+
+43
+00:10:16.250 --> 00:10:34.430
+Caitlin Notley: So it's really important for us to remember that in industrialised countries where we proudly talk about. Certainly in the Uk we proudly talk about declining rates of smoking. For example, 11% of the general population in the Uk currently smoke, according to latest figures from the smoking toolkit study.
+
+44
+00:10:34.480 --> 00:10:52.570
+Caitlin Notley: But, in fact, those figures mask huge health inequalities, worldwide rates of smoking in low and middle income countries are vastly higher, meaning that the people in our world, who are less well off, living in countries without access to health systems and support available to those of us in
+
+45
+00:10:56.380 --> 00:11:00.429
+Caitlin Notley: smoking related disease of tobacco, smoking
+
+46
+00:11:00.690 --> 00:11:14.710
+Caitlin Notley: so tobacco, smoking. It's a uniquely deadly human consumption behavior. And given this anything, we can do literally anything we can do to support people, to stop smoking in terms of encouragement.
+
+47
+00:11:14.710 --> 00:11:34.139
+Caitlin Notley: Enticement approaches to taxation policy, whatever it may be, anything we can do to help people stop smoking really is a life saving intervention, and almost importantly, is the outcome in terms of health is consideration of people's free will and choice.
+
+48
+00:11:34.220 --> 00:11:43.850
+Caitlin Notley: So when we talk about smoking, what we're talking about is a really powerful addiction that is incredibly difficult for people to move away from
+
+49
+00:11:43.980 --> 00:11:51.810
+Caitlin Notley: most people who smoke do actually want to quit smoking. If you talk to many people who smoke, they will say that they want to quit.
+
+50
+00:11:51.850 --> 00:12:15.589
+Caitlin Notley: They've probably tried to quit smoking, tried, and failed many times, and we know from evidence that most people who smoke have a number of quit attempts before they are able to achieve success. So people need help. People need encouragement and support if they are to successfully quit smoking and incentives is one way in which we might offer that help and support.
+
+51
+00:12:16.490 --> 00:12:31.769
+Caitlin Notley: So I'm talking to you in the context of this review about incentives and incentives are likely to be just one aspect of a comprehensive approach to smoking cessation that can help both individuals to quit and also to address smoking prevalence at a population level.
+
+52
+00:12:31.870 --> 00:12:58.289
+Caitlin Notley: It'd be a good idea. I think if I start by defining what we mean by incentives so incentives for smoking cessation are used as rewards for achieving abstinence, and these might be financial rewards, actual money or vouchers more commonly gift vouchers, or even self deposits using people's own money. The key thing is that these are tangible rewards that can be used to encourage
+
+53
+00:12:58.290 --> 00:13:06.679
+Caitlin Notley: and reward behaviour, change and promote continued engagement in smoking abstinence programs.
+
+54
+00:13:06.770 --> 00:13:30.640
+Caitlin Notley: So there's been interest in terms of incentives in different fields of behaviour change. Incentives have been used to change and help support unhealthy behaviour change. So, for example, incentivising weight loss programs, alcohol reduction programs and also substance misuse, and they've also been used in the field of physical activity.
+
+55
+00:13:31.770 --> 00:13:32.560
+Caitlin Notley: But
+
+56
+00:13:33.480 --> 00:13:52.909
+Caitlin Notley: Financial incentives to promote any sort of behaviour. Change might be considered. Controversial qualitative research has demonstrated that public acceptability of incentives can vary, perhaps due to misinformation or a lack of education about what these programs can achieve.
+
+57
+00:13:52.990 --> 00:14:11.929
+Caitlin Notley: There's also, quite rightly, perhaps, a concern about how these programs might be commissioned. We have, you know, in the Uk an extremely financially stretched healthcare system. And so the idea about paying people to change their behaviour can be quite a controversial idea.
+
+58
+00:14:12.260 --> 00:14:30.129
+Caitlin Notley: There's also been concern about how individuals may receive incentive-based interventions, you know. Do people game? The incentive, you know? Do they lie about their behaviour in order to try and get hold of the incentives, for example.
+
+59
+00:14:30.270 --> 00:14:47.560
+Caitlin Notley: and the other concern has been that perhaps financial incentives only work for the time that they're offered, so perhaps they might be effective at supporting people to change their behaviour. But as soon as they're taken away, does that behaviour revert back to how it was before? Do people go back to smoking?
+
+60
+00:14:47.930 --> 00:14:58.790
+Caitlin Notley: And there might also be cultural acceptability in incentive-based programs. Perhaps some cultures find the idea more acceptable than others.
+
+61
+00:14:59.010 --> 00:15:27.480
+Caitlin Notley: And we see this actually, particularly in developing countries. So in Latin America there are conditional national and cash transfer programs or monetary rewards for behaviour change, often targeting improvements in child and maternal health, and these are quite an accepted form of incentivisation. But that's because they're perhaps embedded within the healthcare system, and we don't see that in other countries
+
+62
+00:15:27.790 --> 00:15:52.359
+Caitlin Notley: in the United Kingdom incentive schemes have been used to particularly encourage pregnant people to quit smoking, and indeed, it seems that there might be greater acceptability of incentive schemes for particular subgroups, where perhaps the public deem that it's especially important that we support people to quit smoking. So clearly. Pregnant people might be one of these subpopulations.
+
+63
+00:15:52.360 --> 00:16:17.329
+Caitlin Notley: So the terms incentive and reward are used interchangeably throughout the review. The way in which they work is really interesting to me as a social scientist there's various theories. One theory is that the process of kind of fairly simple conditioning is at play, you know. You give someone a reward for undertaking a behaviour in this case.
+
+64
+00:16:17.330 --> 00:16:24.880
+Caitlin Notley: quitting smoking, and then they're more likely to repeat that behavior again. So to stay, smoke free.
+
+65
+00:16:25.370 --> 00:16:47.470
+Caitlin Notley: or perhaps rewards work by making the reward much more proximal to the person who's made the behaviour change. And this is interesting. When we think about smoking cessation, we often talk to people about the importance of quitting smoking because of the health gains in later life because of prevention, of future smoking, related disease.
+
+66
+00:16:47.470 --> 00:16:55.559
+Caitlin Notley: But to a young person those kind of benefits that you might see, as you reach middle age or the older years of your life, are, you know.
+
+67
+00:16:55.590 --> 00:17:17.390
+Caitlin Notley: really difficult to imagine and comprehend. So by bringing the reward of changing that behavior in a positive way much closer or more immediate. It is hypothesized through this process of delay, discounting that that might be how the mechanism of incentives is actually operating.
+
+68
+00:17:18.150 --> 00:17:31.880
+Caitlin Notley: So others have suggested that incentives might be particularly beneficial to certain subgroups. Perhaps people on low incomes might stand to gain most financially through taking part in incentive schemes.
+
+69
+00:17:31.900 --> 00:17:59.080
+Caitlin Notley: But and that's something that perhaps we can talk about later in the presentation. But incentives have been used in trials to encourage recruitment for a start into trials to reward compliance with the process. They've been used as a shaping process to reward kind of gradual steps towards cessation, so it might be rewarded rewarding people in cutting down behaviour prior to complete smoking cessation.
+
+70
+00:17:59.340 --> 00:18:17.760
+Caitlin Notley: and they've been used in terms of predefined stages at certain steps, or perhaps as only a contingent payment, and this is particularly important in smoking cessation, so the reward may only be given contingent on a biochemically verified cessation, outcome.
+
+71
+00:18:17.840 --> 00:18:45.559
+Caitlin Notley: outcome. So a variety of rewards have been used for these purposes. But the rewards that are focused on in this review are those that are contingent on success in smoking cessation. So we don't include trials within this review. That reward kind of progressive steps towards cessation. What we're interested in in this review is complete cessation from smoking.
+
+72
+00:18:47.180 --> 00:18:56.709
+Caitlin Notley: Okay, in terms of pregnancy. I mentioned that incentive schemes often seem to invite, perhaps greater public
+
+73
+00:18:59.420 --> 00:19:03.530
+Caitlin Notley: of such a subgroup where we have seen
+
+74
+00:19:03.900 --> 00:19:10.900
+Caitlin Notley: a really great number of trials, and also implementation of the approach into practice.
+
+75
+00:19:11.140 --> 00:19:36.879
+Caitlin Notley: A series of studies conducted in the Us. Were included in the last update of this review, and then complemented by a large randomised, controlled trial in the Uk. And this has really contributed to the majority of the evidence that underpins the conclusions in the update of this Cochrane Review, and have really been influential in informing practice and policy change in the Uk.
+
+76
+00:19:37.770 --> 00:20:01.199
+Caitlin Notley: So in the Uk. For example, we have a government target to reduce smoking in pregnancy to rates of 5% or less. These rates haven't been achieved, and I think that might be one of the reason that there is great interest in trialing alternative kind of non-pharmacological approaches to addressing smoking cessation in pregnancies such as through incentives.
+
+77
+00:20:02.710 --> 00:20:21.519
+Caitlin Notley: So in terms of the Cochrane Review, the last Cochrane Review Update was published back in 2019, and for my sins I also led the review at that time. At that time we found that incentives were effective for supporting smoking cessation.
+
+78
+00:20:21.950 --> 00:20:29.299
+Caitlin Notley: and also they were effective in sporting, smoking cessation for pregnant women.
+
+79
+00:20:29.430 --> 00:20:44.470
+Caitlin Notley: So the pooled risk ratio for quitting with incentives across general population trials with incentives at the longest follow up. So this is checking people's abstinence rate at 6 months or more after enrolment into the study
+
+80
+00:20:44.470 --> 00:20:54.239
+Caitlin Notley: was 1.4 9, and at the time we included 31 randomised, controlled trials. So this equates to just over 20,000
+
+81
+00:20:54.240 --> 00:21:16.630
+Caitlin Notley: people who were involved in those trials, and we concluded, then, that we had high certainty in the evidence that incentives were indeed effective to support sustained smoking cessation, and this means that we are very confident that the true effect lies close to the estimate of the effect. So we have high certainty in the quality of the evidence
+
+82
+00:21:16.830 --> 00:21:29.590
+Caitlin Notley: in terms of the pregnancy trials. Back in 2019 we included at the time 9 trials of pregnant smokers, 8 of those in the Us. And one of them from the Uk.
+
+83
+00:21:29.610 --> 00:21:46.150
+Caitlin Notley: They delivered a risk ratio at longest follow-up, which was up to 24 weeks postpartum. So again, 6 months of 2.3 8. So, although the risk ratio was higher for the pregnancy trials, we only concluded at the time that we had moderate certainty
+
+84
+00:21:46.150 --> 00:22:04.460
+Caitlin Notley: in the evidence that we had available to us at the time, and this was probably because we didn't have enough large, well conducted trials at the time included in the Meta analysis, and the quality appraisal of some of those included trials led us to
+
+85
+00:22:04.570 --> 00:22:10.119
+Caitlin Notley: conclude that we had moderate certainty in that the confidence around that evidence
+
+86
+00:22:11.220 --> 00:22:37.489
+Caitlin Notley: previously in previous versions of this review. So back in 2015, the review was led by Kate Cahill. The conclusion then was that incentives appeared to boost cessation rates while they were in place, so we were able to upgrade the evidence from 2,015 to 2019, because we found evidence of the long term success of abstinence, even after of incentives, even after they had
+
+87
+00:22:37.490 --> 00:22:57.909
+Caitlin Notley: ceased to be offered, so that long term abstinence was what we were able to conclude on in 2019. So the 2019 conclusion suggested that findings from our meta-analysis in mixed populations suggested that incentives continue to have a significant impact on sustained smoking cessation
+
+88
+00:22:57.910 --> 00:23:18.310
+Caitlin Notley: even after they have finished. So even back in 2019, we were fairly sure that the criticism that incentives might only work while they're in place wasn't justified. We had good evidence from the trials that smoking abstinence was continued across trials, even after incentives had ceased to be offered.
+
+89
+00:23:19.760 --> 00:23:43.020
+Caitlin Notley: So the current review update in terms of our objectives. The primary objective was for us to assess the long term effects of incentives and contingency management programs, ie. Incentive programs for smoking cessation across mixed and pregnant populations. We were aware that there were a number of large new trials
+
+90
+00:23:43.150 --> 00:23:53.189
+Caitlin Notley: published from across the world that had triggered this new Review update. And we really wanted to be able to include those trials, to look at the quality of the evidence.
+
+91
+00:23:53.290 --> 00:24:16.260
+Caitlin Notley: Secondary objective was to assess the long term effects of incentives for smoking cessation in mixed populations. Considering whether the incentives have been offered at the final follow up Time point, or whether they had continued to be effective beyond that point, and also to assess the difference in outcomes for pregnant populations.
+
+92
+00:24:18.640 --> 00:24:40.449
+Caitlin Notley: the criteria for studies to be included in the review. We only included randomised, controlled trials or cluster randomized controlled trials, and these trials had to recruit participants who smoked tobacco. We didn't exclude trials that didn't include biochemical verification at
+
+93
+00:24:40.470 --> 00:24:51.179
+Caitlin Notley: recruitment. So these were people who were self reporting as smokers, although some trials did use biochemical validation for recruitment into the trial.
+
+94
+00:24:51.660 --> 00:25:14.810
+Caitlin Notley: the interventions were incentive schemes to reward participants for cessation and abstinence. So you remember, I said, we only included trials rewarding participants, particularly for smoking cessation. We didn't include any trials that rewarded steps towards cessation or rewarded participants for engagement, for example.
+
+95
+00:25:15.330 --> 00:25:27.739
+Caitlin Notley: and studies had to have a control group. The control group varied, but could be what we might call usual care or engagement with other smoking cessation interventions
+
+96
+00:25:27.960 --> 00:25:40.930
+Caitlin Notley: where we had trials that included a number of arms offering incentives. We generally combined those arms so that we had a clean comparison between the intervention of incentives versus the control condition
+
+97
+00:25:41.660 --> 00:26:01.900
+Caitlin Notley: and the outcome of interest, for this review was long term smoking cessation, so we know that staying abstinent from smoking long term has the greatest health benefit, and ideally not ever going back to smoking again. So we were interested in long term smoking cessation for 6 months or more.
+
+98
+00:26:01.900 --> 00:26:17.649
+Caitlin Notley: and this could be self-reported or biochemically validated. In the Meta analysis we included the strictest available outcome. So where trials included biochemical validation, those were the outcomes that we included in our analysis
+
+99
+00:26:18.050 --> 00:26:42.079
+Caitlin Notley: in terms of the pregnancy trials. We were also interested in long term smoking cessation. Some studies only measure this up to the end of pregnancy. So that was our shortest time point for the pregnancy trials. But we also included the longest follow-up postpartum that trials reported, and for some trials. This was up to 2 years following the birth of the baby.
+
+100
+00:26:44.840 --> 00:27:00.190
+Caitlin Notley: Okay, so to get to the results, I apologise that this is a bit small for you to see, but I'll just talk you through it. This is the prisma diagram of the combined studies of mixed population trials and pregnancy trials, too.
+
+101
+00:27:00.190 --> 00:27:28.360
+Caitlin Notley: you can see we had 43 studies included in the previous version of the review. Through searching and screening we eventually went on to undertake full text screening of 158 trials for eligibility. And through that process we identified 19 new studies, 19 new trials reported across 21 articles and included those in the eventual synthesis. So the number of trials
+
+102
+00:27:28.780 --> 00:27:47.589
+Caitlin Notley: included in this review update was 62, and 59 of those studies went on to be included in the Meta analysis. The studies that weren't included were those of low quality that were deemed insufficient in terms of the data available to be included in the Meta analysis.
+
+103
+00:27:49.650 --> 00:28:11.900
+Caitlin Notley: So this again, I apologize for the size of this, but there's such a large number of studies included. I wanted to show you the whole forest plot. This shows you the main results for the incentives. Trials in mixed populations at the long term follow up time, point of at least 6 months across mixed populations.
+
+104
+00:28:11.900 --> 00:28:36.420
+Caitlin Notley: and the finding here shows that the pooled risk ratio for quitting with incentives at longest follow up compared with controls, was 1.5 2. So this was across 39 included trials and over 18,000 participants, and we again reported high certainty in the quality of the evidence just as we did back in the 29
+
+105
+00:28:36.620 --> 00:28:57.609
+Caitlin Notley: revision of the review. So the results weren't sensitive to the exclusion of 7 studies which only offered incentives for cessation at the same time point as the long term follow up. So the difference here is that some studies continue to incentivise people right until the last research follow up Time point.
+
+106
+00:28:57.610 --> 00:29:07.079
+Caitlin Notley: whereas other studies offered the incentives as an intervention. The intervention stopped, and the research continued to follow them up beyond the time that those incentives were offered.
+
+107
+00:29:07.310 --> 00:29:28.259
+Caitlin Notley: So the studies offering incentives at the long-term follow-up time point when pulled in the Meta analysis delivered a risk ratio of 1.4 6, suggesting that the impact of incentives continues for at least some time after the incentives cease for at least 6 months.
+
+108
+00:29:28.570 --> 00:29:37.110
+Caitlin Notley: and the reason we graded this evidence is high. Certainty suggests that we're very confident in the quality of the evidence.
+
+109
+00:29:37.410 --> 00:29:57.840
+Caitlin Notley: despite some of the included studies being included as being considered as a high risk of bias. And this is because when we restricted the analysis to only those studies that we overall judged to be at low risk of bias, we still saw a statistically significant and clinically significant effect in favour of the intervention.
+
+110
+00:29:57.840 --> 00:30:11.010
+Caitlin Notley: and similarly, when we removed the studies at high risk of bias from the analysis, leaving only those at low or unclear risk of bias, there remained, in effect, that was clearly in favour of the incentive-based intervention.
+
+111
+00:30:11.010 --> 00:30:19.040
+Caitlin Notley: So therefore, we can conclude that we're very confident the true effect estimate lies close to that of the estimate of the effect
+
+112
+00:30:21.350 --> 00:30:37.659
+Caitlin Notley: in the subgroup analysis of trials, recruiting participants in substance, misuse treatment. This is a fairly large subgroup of trials included in the review. The results also suggested. There was a favourable benefit of incentives for smoking cessation at longest follow up.
+
+113
+00:30:37.660 --> 00:30:52.909
+Caitlin Notley: So the risk, risk ratio for these trials was 1.2. 2. So, although the confidence intervals for these studies were wider. This really reflects the smaller number of studies and participants included in this subgroup.
+
+114
+00:30:53.040 --> 00:31:10.520
+Caitlin Notley: But the point estimate overall was consistent with the overall meta-analysis which found a beneficial effect of the intervention overall. So this leads us to conclude that incentives are effective for the subgroup of population of substance misusers as well as general population samples.
+
+115
+00:31:12.670 --> 00:31:25.880
+Caitlin Notley: for this update. We also included an adjusted analysis incorporating 3 large cluster, randomized controlled trials without going into the technicalities, they need a set sort of slightly different analysis treatment.
+
+116
+00:31:25.880 --> 00:31:50.659
+Caitlin Notley: We undertook a separate analysis then, including 43 studies which included the 3 large cluster, randomized, controlled trials, and one study which only reported an odds ratio as a pooled odds ratio. And this Meta analysis reported a risk ratio of 1.5, 7 across 43 studies over 23,000 participants. So again.
+
+117
+00:31:50.720 --> 00:32:01.740
+Caitlin Notley: a clear, significant effect of incentive-based interventions, and we had high certainty in the evidence reported, including the cluster, randomised, controlled trials.
+
+118
+00:32:02.940 --> 00:32:31.920
+Caitlin Notley: I won't go into this in detail, but just to show you the overall quality appraisal of the studies, I think the key thing to note from the more recent trials is that generally the trials reported recently in the last few years are far better reported and more likely to score well in terms of risk of bias assessment. Some of the old trials, perhaps score less well, and this might be partly due to the improvement in reporting methods for trials.
+
+119
+00:32:33.340 --> 00:32:55.359
+Caitlin Notley: We also undertook an analysis of the amount of incentives that were offered amongst the included trials, so the total amount of financial reward that was offered as part of the intervention. This wasn't always clearly reported across studies. The financial amount of incentives offered really varied between trials from
+
+120
+00:32:55.360 --> 00:33:24.899
+Caitlin Notley: actually nothing. So trials that used participants own money or self deposits through to a range of between 45 Us. Dollars and just over a thousand Us. Dollars. So we kind of converted the amounts offered in trials to us dollars for comparison purposes, and you can see from the bubble plot here that we found really no clear difference in effect between trials offering very low or high value of incentives or those offering self deposits.
+
+121
+00:33:25.603 --> 00:33:37.269
+Caitlin Notley: So this is really interesting, and and perhaps suggests that there's something at play in terms of the psychological mechanism of the incentive above and beyond the actual amount of the incentive offered.
+
+122
+00:33:38.280 --> 00:33:50.849
+Caitlin Notley: Okay? So I've rambled on for quite a while. I think we'll have a quick pause now, and just check whether there's any questions or discussion points on the mixed population trials before we move on to the pregnancy trials.
+
+123
+00:33:51.660 --> 00:34:15.549
+Justin White: Great thanks. So much so. Our discussant today is Professor David Tappan, an Honorary Senior Research fellow from the University of Glasgow. He has undertaken 2 large trials on financial incentives for smoking cessation during pregnancy in the Uk. And I would invite David, if you have any questions for Caitlin at this stage.
+
+124
+00:34:17.290 --> 00:34:19.320
+David Tappin: Hi Caitlin.
+
+125
+00:34:19.850 --> 00:34:28.230
+David Tappin: The question I really wanted to ask was, I was very struck a course I did on clinical trials
+
+126
+00:34:28.489 --> 00:34:44.440
+David Tappin: of the problem that happened with Streprokinase, where there were so many trials done after before meta-analysis was done.
+
+127
+00:34:44.750 --> 00:34:45.710
+David Tappin: and they
+
+128
+00:34:46.610 --> 00:35:14.189
+David Tappin: found that if you'd done a cumulative metro analysis 15 years before the final trial was reported that many people wouldn't have had to have gone into those 15 trials or 25 trials in the last 15 years. So I wondered whether you, Cochrane, allows you to do a cumulative metro analysis really to say.
+
+129
+00:35:14.440 --> 00:35:16.890
+David Tappin: why are we doing any more trials? Because it's
+
+130
+00:35:17.930 --> 00:35:22.879
+David Tappin: it's proved already, if that makes sense, and that, you know.
+
+131
+00:35:23.020 --> 00:35:34.989
+David Tappin: there's no point in doing any more trials, we can do other things that to try and look what might improve things, but not trials of effectiveness. If that makes sense.
+
+132
+00:35:36.560 --> 00:35:52.499
+Caitlin Notley: Yeah, it does. It's a really good point. I don't know the answer in terms of what Cochrane might say about you know what how many trials is enough. I don't know if Jamie's on the line. She may know that, but I think
+
+133
+00:35:52.958 --> 00:35:57.701
+Caitlin Notley: I mean my own view is that this is the importance of of doing
+
+134
+00:35:58.330 --> 00:36:20.659
+Caitlin Notley: Cochrane reviews and updating them regularly, because you get to a point where you think there is really clear evidence we can see on the incentive trials. There's really clear evidence. They work, they work in trials from, you know, very different populations across the world, small trials, large trials, offering different types of incentives. You know, the effectiveness is really clearly reported. So
+
+135
+00:36:20.840 --> 00:36:28.008
+Caitlin Notley: in essence, you know why we don't need any more trials. We know that financial incentives work?
+
+136
+00:36:29.320 --> 00:36:37.670
+Caitlin Notley: I I think that's a really good point. I don't. Is is Jamie online? Does. She didn't have anything official from Cochrane on how they might stand on this.
+
+137
+00:36:38.780 --> 00:36:39.400
+Jamie Hartmann-Boyce: Hi.
+
+138
+00:36:39.980 --> 00:36:40.560
+David Tappin: Sorry.
+
+139
+00:36:41.140 --> 00:37:10.159
+Jamie Hartmann-Boyce: I don't know if I'm supposed to hop on or not, but I am on the line. It's a great question, and it's something certainly that is being looked into within Cochrane, but it's also something that our grade rating points to. So the idea is, if you have a grade rating of high certainty here. One of the messages we're trying to send with that is that we think further studies of this that are only looking at, for example, incentives versus no incentives are very unlikely to change the outcome, and therefore probably not the best use of
+
+140
+00:37:10.160 --> 00:37:20.410
+Jamie Hartmann-Boyce: resources. So great. Question agreed, and that cumulative analysis is also something that is being looked into within Cochrane, but isn't yet kind of a standard part of Cochrane reviews.
+
+141
+00:37:21.840 --> 00:37:25.730
+David Tappin: I mean, I just, you know, just to sort of
+
+142
+00:37:25.970 --> 00:37:34.849
+David Tappin: when you looked at the Streptokinase, it was that the people that were put in the control group after a certain time, were being
+
+143
+00:37:35.000 --> 00:37:52.470
+David Tappin: detrimentally treated because it had already been proved. If you see what I mean that that was the so it almost made the ethics of actually doing trials. But that's, I suppose, something different than incentives which are not quite the same as streptokinase for myocardial infarction reducing your
+
+144
+00:37:52.960 --> 00:38:04.579
+David Tappin: death rate by 20%. I just, you know, it just makes it very obvious when you have a cumulative meta analysis that you can see after this date
+
+145
+00:38:05.030 --> 00:38:07.129
+David Tappin: didn't need to do it anymore.
+
+146
+00:38:07.850 --> 00:38:08.470
+Caitlin Notley: Hmm.
+
+147
+00:38:09.400 --> 00:38:20.180
+Caitlin Notley: yeah, I mean, it's a brilliant point. And I think the ethical point is is very well made, and I think it does apply for smoking cessation trials as well. You know we know that
+
+148
+00:38:20.650 --> 00:38:28.479
+Caitlin Notley: continuing to smoke is going to kill half the people that that engage in that behaviour. So if we have an intervention that we know works.
+
+149
+00:38:29.040 --> 00:38:52.019
+Caitlin Notley: you know, we should be offering it to people and and there's no need to enroll people into a control condition that I mean, there isn't still an argument, perhaps, about some cultural contexts, although actually included in this review. Now, we have a, you know, a whole range of cultural contexts. And we we can see that the effect is consistent across those contexts. So
+
+150
+00:38:52.300 --> 00:38:55.810
+Caitlin Notley: yeah, I think it's a great great point. Thank you.
+
+151
+00:38:56.050 --> 00:39:00.569
+Justin White: So I think we might have time for David. Do you have one more question at this point, or.
+
+152
+00:39:01.640 --> 00:39:09.919
+David Tappin: It's really probably at the end of the thing. Talking about rollout of these interventions, I was just going to ask a question. Yeah.
+
+153
+00:39:10.820 --> 00:39:33.639
+Justin White: Let's hold that till the end. There are a few audience questions that maybe I can ask quickly. One is related to the finding you just presented about size of incentives. One of your findings is that there was no significant difference between high incentives versus low incentives. Can you talk about this in more detail, one would assume that higher incentives would have better results.
+
+154
+00:39:33.640 --> 00:39:58.390
+Justin White: and this finding contradicts that assumption. Can you discuss any thoughts as to what the optimal level of incentives need to be for people to stop smoking if we want to create best practices and model what the study has done. And I think a related point is just in terms of the cost and cost effectiveness of the intervention. The size of the incentives would probably matter quite a bit. And so it is somewhat surprising that you didn't find any difference. Can you comment on that a little bit more.
+
+155
+00:39:59.930 --> 00:40:29.619
+Caitlin Notley: Yeah, it is surprising, because it kind of makes logical sense, doesn't it, that if you pay people more they're likely to change their behavior to a greater extent, or to continue their abstinence from smoking for longer. But it's not an effect that we find across the trials, and, in fact, the amount is interesting, because, as I said, it does include trials where, you know, actually, no money is given. People have deposited their own money and win it back incrementally.
+
+156
+00:40:29.620 --> 00:40:46.989
+Caitlin Notley: So that that's no cost to the taxpayer and those trials, you know, the effect. Size seems to be similar to the other trials. So that really suggests that there is, you know that the psychological mechanism of being given a reward being rewarded for a behaviour is perhaps
+
+157
+00:40:47.060 --> 00:41:04.169
+Caitlin Notley: as important as the actual, you know, financial amounts. But it is a question that we get asked all the time. And it's a really important question for commissioners. You know, how much should we give people? What's the optimal amount, or what's the minimum amount we could give to, you know, to get the same effect?
+
+158
+00:41:04.560 --> 00:41:30.149
+Caitlin Notley: So we are considering planning an analysis that tries to adjust the amount offered so that it is more directly comparable. You can see in the analysis we did. We kind of crudely converted everything to us. Dollars, so that we could, you know, compare. But actually, of course, the amount offered to a mobile factory worker in
+
+159
+00:41:30.250 --> 00:41:45.049
+Caitlin Notley: Bangkok can be quite different to someone in a high income country that the amount is, you know, meaningful to different people in different contexts. So we're still discussing how to do that analysis. But it is an analysis that we're planning.
+
+160
+00:41:45.520 --> 00:42:06.819
+Justin White: Great. It might be worth considering purchasing power, parity adjustments to deal with that problem. That's 1 thing that economists might recommend, I think, just to make sure that we have time for the rest of your results. The other questions are related, not as much to the mixed population, but to some of the subgroup results. And so maybe if you keep going, we'll ask the remaining questions at the end.
+
+161
+00:42:08.810 --> 00:42:09.480
+Caitlin Notley: Okay.
+
+162
+00:42:10.820 --> 00:42:28.900
+Caitlin Notley: I will continue. Then we've only got a few more slides. So these are the results now from the pregnancy trials. So this is our main meta analysis for the included pregnancy trials looking at incentives versus no incentives at longest follow up, so at least to the end of pregnancy.
+
+163
+00:42:28.910 --> 00:42:55.100
+Caitlin Notley: So in this analysis we included 14 studies of just over 4,300 pregnant people. 11 of these were conducted in the Us. One in France, a new study included from France and 2 from the Uk. So we judged 4 of the studies to be at low risk of bias, 2 at high risk of bias and 8 at unclear risk, and when pulled, the 13 trials that had usable data delivered a risk ratio at longest follow up
+
+164
+00:42:55.100 --> 00:43:15.869
+Caitlin Notley: of 2.1 3. So this is across 13 trials, nearly 4,000 participants. And we concluded for the 1st time in this update of the review, that we had high certainty in the quality of this evidence in favour of incentives. So, as Jamie said, this means that we think that the inclusion of
+
+165
+00:43:15.870 --> 00:43:34.660
+Caitlin Notley: further trials with populations of pregnant people would be unlikely to change the overall conclusion in terms of the effectiveness of incentives for pregnant populations. So this is quite exciting, because it was the 1st time we had this level of certainty in the quality of the evidence
+
+166
+00:43:34.660 --> 00:43:48.150
+Caitlin Notley: for pregnant populations. We also carried out a secondary analysis, looking at incentives versus no incentives, only including follow up until the end of pregnancy.
+
+167
+00:43:48.150 --> 00:43:57.310
+Caitlin Notley: This suggested a slightly stronger, effective incentives for smoking cessation. So 11 included trials, measured cessation at this time point.
+
+168
+00:43:57.310 --> 00:44:16.169
+Caitlin Notley: and delivered a risk ratio at the end of pregnancy of 2.5 2. So this is a corrected version of this analysis. It shows that the incentives really worked during the pregnancy, but, as the previous analysis showed, we now know that incentives also continue to work
+
+169
+00:44:16.240 --> 00:44:20.299
+Caitlin Notley: beyond the time they were offered, and and into the postpartum period
+
+170
+00:44:20.770 --> 00:44:36.130
+Caitlin Notley: so overall. To conclude our conclusion from this latest review update remains that there is high certainty, evidence that incentives improve smoking cessation rates at long-term follow-up in mixed population studies.
+
+171
+00:44:36.130 --> 00:44:56.190
+Caitlin Notley: and the evidence does demonstrate that the effectiveness of incentives is sustained even when the last follow up occurs after incentives have been withdrawn. And now, also we have high certainty evidence that incentive schemes conducted amongst pregnant people who smoke improve smoking cessation rates, both at the end of pregnancy
+
+172
+00:44:56.190 --> 00:45:05.520
+Caitlin Notley: and also beyond that into the postpartum period. And this does represent a change from the previous update in which we were only able to
+
+173
+00:45:05.970 --> 00:45:29.899
+Caitlin Notley: rate the certainty of the evidence as moderate. So previous reviews of incentive-based interventions for smoking cessation have expressed concerns about the time limited effect of incentives, and we've shown through this review that that isn't a concern. The effect of the reward isn't, in fact, completely extinguished when rewards cease.
+
+174
+00:45:29.900 --> 00:45:47.670
+Caitlin Notley: So with regards to smoking cessation, where individuals may initially find quitting difficult incentives might help them with that initial behaviour change. But the effect of the incentive does suggest that that behaviour change has a long term effect and can be maintained.
+
+175
+00:45:50.435 --> 00:45:58.134
+Caitlin Notley: So then, just thinking about the implications, and I know there'll be some points of discussion. On this.
+
+176
+00:45:59.060 --> 00:46:26.630
+Caitlin Notley: So the review includes a large number of new trials and a large number of quite large trials from very diverse cultural settings. As we've just discussed. So just a few examples. The trial by Brown, published in 2019, used self incentives where people deposited their own money in a community-based trial in the Uk. So this was recruiting people who weren't seeking support as part of stop smoking services.
+
+177
+00:46:26.670 --> 00:46:39.340
+Caitlin Notley: A trial in Spain recruited people who smoke attending inpatient treatment for depression. There's great interest in incentives, particularly in mental health populations around smoking cessation.
+
+178
+00:46:39.680 --> 00:47:05.379
+Caitlin Notley: a trial in the Netherlands, a large cluster, randomized, controlled trial, published in 2018, recruited 640 current smokers from 61 companies, and then the largest included trial in the Review, published in 2020, was the trial by White, a cluster, randomized, controlled trial, recruiting over 4,000 employees across 101 workplace clusters in Thailand.
+
+179
+00:47:05.380 --> 00:47:26.180
+Caitlin Notley: These trials particularly interesting, and have added to the weight of the evidence because they're extremely large, and because, taking this approach to clustering has allowed incentives to be kind of implemented as part of often workplace payments, which seems to be an effect that really works.
+
+180
+00:47:26.370 --> 00:47:54.649
+Caitlin Notley: and then the largest included trial with pregnant populations was the tap in trial, published in 2022, which recruited over 900 pregnant people attending Uk. Stop smoking services. So a huge range of kind of different cultural contexts for these trials, different populations, and this really implies that the impact of incentives can be considered as broadly generalisable across contexts and populations.
+
+181
+00:47:54.650 --> 00:48:14.240
+Caitlin Notley: Incentives might particularly appeal to low income populations, and therefore could have an important role to play in reducing health inequalities. But we do need more evidence from low and middle income trials. We might contest that, given the discussion we've just had about cumulative meta analysis
+
+182
+00:48:14.240 --> 00:48:36.879
+Caitlin Notley: and current and future research might also more precisely explore some of the differences between trials in terms of the amount of incentives offered versus self deposits, but overall really strong support for incentive-based interventions. In practice. We've seen this be implemented in practice in terms of our practice in the Uk.
+
+183
+00:48:36.990 --> 00:48:47.940
+Caitlin Notley: In 2023 the Uk Government pledged 15 million pounds to support incentive-based smoking cessation schemes for pregnant people who smoke.
+
+184
+00:48:47.950 --> 00:49:15.019
+Caitlin Notley: And we've seen this widely implemented across the Uk. But it is a time limited, commissioned incentive scheme at the moment. We really hope that this review provides the evidence to ensure that that scheme can continue because real world implementation obviously requires funders to prioritise these schemes over other approaches and to financially invest in them.
+
+185
+00:49:15.020 --> 00:49:30.269
+Caitlin Notley: But the evidence does suggest that the approach is highly cost effective, especially in the light of the improved health and social care outcomes for people who manage to sustain abstinence from smoking and the cost savings to our healthcare systems.
+
+186
+00:49:30.954 --> 00:49:36.610
+Caitlin Notley: So I will stop there and hope for lots of questions from the audience.
+
+187
+00:49:37.520 --> 00:50:07.030
+Justin White: Thanks so much. I would encourage people to continue putting questions in the Q. And a panel, and if we don't have a chance to get to any questions, or if you want to discuss with the speaker directly after this talk with the mics enabled, you're welcome to attend top of the tops, which is immediately following this webinar, and if you're interested, please copy the meeting room, URL, which is posted in the chat now, so that you'll be ready to join the live discussion once this webinar concludes.
+
+188
+00:50:07.030 --> 00:50:13.269
+Justin White: and I would open it back up for our discussant if he has any further questions.
+
+189
+00:50:15.577 --> 00:50:20.999
+David Tappin: The the one question I've got is probably I'm not sure it's anyway.
+
+190
+00:50:21.180 --> 00:50:30.230
+David Tappin: it's about rolling out the incentives to a whole population. And I'm very aware that
+
+191
+00:50:32.600 --> 00:50:40.019
+David Tappin: smoking cessation services for pregnant women this is my area of interest are incredibly idiosyncratic.
+
+192
+00:50:40.900 --> 00:50:49.980
+David Tappin: They're completely different. They're provided by different people funded by different people. The actual intervention is
+
+193
+00:50:50.350 --> 00:50:56.040
+David Tappin: completely different in different places around the Uk. That's just one place.
+
+194
+00:50:57.620 --> 00:51:01.700
+David Tappin: And I'm fearful that
+
+195
+00:51:01.920 --> 00:51:17.089
+David Tappin: when you try and implement it on even an England basis that you won't just try to give the incentive. But you'll also try to change those idiosyncratic services that already exist
+
+196
+00:51:17.330 --> 00:51:23.379
+David Tappin: which will cause a lot of disruption rather than
+
+197
+00:51:23.620 --> 00:51:30.899
+David Tappin: showing an improvement in smoking cessation. And I wonder what your thoughts were on.
+
+198
+00:51:32.040 --> 00:51:51.789
+David Tappin: because what we've what we've. What you've shown is that all these different services, completely different different people, different funders can be council can be health service can be privates in in different places to private people.
+
+199
+00:51:52.770 --> 00:51:56.250
+David Tappin: they're all completely different. So the idea that you have to
+
+200
+00:51:56.490 --> 00:52:03.669
+David Tappin: when you're trying to implement it, that you change the structure of what those people do to adhere to some
+
+201
+00:52:04.010 --> 00:52:13.480
+David Tappin: pre to something that the implementer thinks is a good idea
+
+202
+00:52:13.780 --> 00:52:19.510
+David Tappin: worries me rather than you're just giving the extra incentives on top of What's there already?
+
+203
+00:52:20.950 --> 00:52:21.510
+Caitlin Notley: Hmm.
+
+204
+00:52:22.090 --> 00:52:28.820
+David Tappin: Because you've shown that the services are all different. So why are you trying to implement one? If you see what I mean?
+
+205
+00:52:30.970 --> 00:52:50.859
+Caitlin Notley: Yeah, I mean, it's definitely a a challenge, I guess, across countries. But certainly in the Uk. The funding for, you know, smoking cessation support comes locally through local authorities. And so, you know, the budgets are very different regionally, let alone, you know the interventions that are supported and offered.
+
+206
+00:52:51.494 --> 00:53:01.880
+Caitlin Notley: I mean, there's great potential, I think, for you know, a national incentive scheme that can be digitally rolled out.
+
+207
+00:53:01.920 --> 00:53:23.010
+Caitlin Notley: I think you know, the potential of offering digital interventions is really attractive for incentives. You know, people could be incentivized via vouchers received direct to their smartphone. And that's something that could happen entirely remotely so. We could see a consistent service, certainly across England, if not beyond.
+
+208
+00:53:23.100 --> 00:53:40.310
+Caitlin Notley: But that takes a joined up, you know, healthcare system with shared health records, and as I'm sure you know, we're quite a long way from that still. But it's the future, so it is. It is possible. But I guess one positive
+
+209
+00:53:40.380 --> 00:53:52.160
+Caitlin Notley: outcome of, you know the the huge number of studies included from different populations and different settings that all show a similar effect of incentives is that almost.
+
+210
+00:53:52.160 --> 00:54:16.920
+Caitlin Notley: It doesn't really matter if schemes are rolled out locally in slightly different ways, because we know they'll work. So it's you know, it's encouraging those schemes to be rolled out at whatever level, whether it's locally, nationally, it will fundamentally improve the health of our population and save cost to the healthcare system. So yeah, it doesn't. In a way, it doesn't matter. I don't think.
+
+211
+00:54:17.840 --> 00:54:20.309
+Caitlin Notley: Does that answer your question sufficiently, Dave?
+
+212
+00:54:20.310 --> 00:54:23.810
+David Tappin: Yeah, no, I, yeah, it does.
+
+213
+00:54:25.510 --> 00:54:30.539
+Justin White: So we have a few questions in the chat, David. Did you have anything else? Or.
+
+214
+00:54:30.540 --> 00:54:32.170
+David Tappin: No, no, thank you.
+
+215
+00:54:32.430 --> 00:54:52.430
+Justin White: So one question is regarding whether there's the same effect of the incentives, especially among low income people. I'm curious if you saw anything related to that I did see. There was a trial that came out in Jama network open in 2024 that did find effects among Medicaid and uninsured people in the Us. But whether you have other thoughts on this.
+
+216
+00:54:53.910 --> 00:55:02.080
+Caitlin Notley: Yeah, I mean, one aspect is that many of the trials actually specifically recruited people on low incomes. I guess you know
+
+217
+00:55:02.410 --> 00:55:31.459
+Caitlin Notley: from the starting position that they're presumed to be more effective or more attractive to people on low incomes. So there's perhaps a slight recruitment bias in terms of some of the trials in that respect. But I mean, apart from that, I don't think that there is a difference. Really, we know from the findings. I've shown that the effect kind of is consistent across populations and across different amounts that are offered. So I think.
+
+218
+00:55:31.840 --> 00:55:41.640
+Caitlin Notley: you know, I really, I suppose I'm biased because I'm a sort of social psychologist by background, but I really believe that it is the, you know, the the mechanism of the incentive that
+
+219
+00:55:41.770 --> 00:55:46.209
+Caitlin Notley: has the effect rather than the actual amount.
+
+220
+00:55:47.240 --> 00:55:58.509
+Justin White: So maybe one final question regarding the Uk incentive program for pregnant women. What's the amount of the incentive? And how was that amount decided on.
+
+221
+00:55:58.750 --> 00:56:00.749
+Justin White: If you happen to know those details.
+
+222
+00:56:01.230 --> 00:56:10.929
+Caitlin Notley: I don't. I'm sorry I don't know those details offhand, although I I can easily find them out, and I'm happy to talk to the person that asked that question, and to give that information.
+
+223
+00:56:11.980 --> 00:56:20.130
+Justin White: Sounds good. Do you? Do you? What? What do you see? As the main challenges for scaling that program, you have any thoughts.
+
+224
+00:56:21.573 --> 00:56:36.130
+Caitlin Notley: I think, making the financial argument with any healthcare intervention is probably the main challenge for implementation. You know, commissioners of services have a finite budget, and they have to decide how to spend that budget.
+
+225
+00:56:37.740 --> 00:56:48.919
+Caitlin Notley: there's a there's a really clear health economic argument for incentives in terms of savings, you know, supporting people to stay, smoke free, and prevention of smoking related disease.
+
+226
+00:56:49.060 --> 00:57:03.629
+Caitlin Notley: and I don't think often that argument is made clearly and strongly enough, but I think we might see that changing certainly in the Uk. You know, our healthcare system is really becoming overwhelmed with
+
+227
+00:57:04.110 --> 00:57:25.460
+Caitlin Notley: people suffering non-communicable disease, you know cancers and other smoking related disease. And it's only, you know, an increasing problem. As we have an ageing population, so I think probably the argument will become stronger, and perhaps that will be less of a barrier. But yeah, it's always for I think, for people that commission services weighing up
+
+228
+00:57:25.460 --> 00:57:37.329
+Caitlin Notley: the effectiveness and the amount of money that needs to go into offering one incentive, one intervention versus other potential interventions. And that's not always a logical
+
+229
+00:57:37.460 --> 00:57:56.220
+Caitlin Notley: argument. I think those decisions can be really swayed by, you know, politics and what public opinion is. So I think probably incentive schemes have suffered. We've done amazingly in the Uk and getting them implemented, I think, for pregnant people, but public opinion can really sway the commissioning of some of these
+
+230
+00:57:56.410 --> 00:58:14.770
+Caitlin Notley: schemes. And so you know that you can see the headlines in the tabloid newspapers about, you know, paying smokers to quit. I think you know those kind of headlines do do make a difference. And so, if we can present the the evidence for effectiveness and stand by that evidence, I think we can counteract some of those public opinions.
+
+231
+00:58:17.170 --> 00:58:32.979
+David Tappin: So one of the other things that happens in the Uk is that when you start off a new thing, and this is what happened with smoking cessation service. Correct me if I'm wrong, Caitlin. But
+
+232
+00:58:33.520 --> 00:58:36.680
+David Tappin: the money that's put in 1st of all is ring fenced.
+
+233
+00:58:37.760 --> 00:58:41.819
+David Tappin: But then what happens is the ring fence disappears
+
+234
+00:58:41.930 --> 00:58:47.690
+David Tappin: after a certain amount of time, and the money just disappears to other
+
+235
+00:58:48.500 --> 00:59:01.530
+David Tappin: inverted commas more needed, so so that the services die on their feet is my experience of smoking cessation services for pregnant women.
+
+236
+00:59:02.260 --> 00:59:07.979
+Justin White: Hopefully. We can talk about this more at top of the tops, because I think we're out of time. But maybe Reem can take us out.
+
+237
+00:59:10.040 --> 00:59:11.080
+Caitlin Notley: Thank you.
+
+238
+00:59:11.080 --> 00:59:20.730
+Rime Jebai: We are out of time. However, if you still have burning questions or thoughts for Caitlin Notley, you can join us for top of the tops an interactive group discussion
+
+239
+00:59:20.780 --> 00:59:50.269
+Rime Jebai: to join. Please copy the Zoom Meeting room. URL posted in the chat and switch rooms with us. Once this event concludes, we'll leave this webinar room open for an extra minute after the end, to give everyone a chance to copy the URL, which is bit.ly slash topsmeeting all lowercase. Thank you to our presenter moderator and discussant. Finally, thank you to the audience of 166 people for your participation. Have a tops, notch weekend.
+
