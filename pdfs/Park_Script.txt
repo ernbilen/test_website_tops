@@ -1,0 +1,1382 @@
+WEBVTT
+
+1
+00:00:06.030 --> 00:00:10.800
+Travis Whitacre: Hi, welcome to the tobacco online policy seminar or talk.
+
+2
+00:00:10.840 --> 00:00:18.950
+Travis Whitacre: Thank you for joining us today. I'm Dr. Travis Whitaker, a postdoctoral associate at Yale University School of Public Health.
+
+3
+00:00:19.140 --> 00:00:36.139
+Travis Whitacre: so Tops is organized by Mike Pesco at University of Missouri, Sage at Ohio State University, Michael Darden at Johns Hopkins University, Jamie Hartman Boyce, at University of Massachusetts, Amherst and Justin White, at Boston University.
+
+4
+00:00:36.280 --> 00:00:54.820
+Travis Whitacre: The Seminar will be 1 h with questions from the Moderator and discussant the audience may post questions and comments in the Q. And a panel, and the moderator will draw from these questions and comments in conversations with the presenter. Please review the guidelines on tobaccopolicy.org for acceptable questions.
+
+5
+00:00:54.880 --> 00:00:58.790
+Travis Whitacre: Please keep the questions professional and related to the research being discussed.
+
+6
+00:00:59.100 --> 00:01:07.870
+Travis Whitacre: Questions that meet the seminar series. Guidelines will be shared with the presenter afterwards, even if they are not read aloud. Your questions are very much appreciated.
+
+7
+00:01:08.200 --> 00:01:12.549
+Travis Whitacre: This presentation is being video recorded and will be made available
+
+8
+00:01:12.560 --> 00:01:18.449
+Travis Whitacre: along with the presentation slides on the tops website, tobaccopolicy.org.
+
+9
+00:01:18.580 --> 00:01:26.060
+Travis Whitacre: I will turn the presentation over to today's moderator, Michael Darden, from Johns Hopkins University to introduce our speaker.
+
+10
+00:01:27.230 --> 00:01:42.680
+Michael Darden: Thank you. So today we'll continue our winter. 2025, season with a single paper presentation by Ho. Jen Park, entitled Estimating the Cross tax elasticity of tobacco demand with respect to cannabis taxation in the United States.
+
+11
+00:01:42.680 --> 00:02:01.140
+Michael Darden: Using Nielsen's retail scanner data, this presentation was selected via competitive review process by submission through the Tops website. Dr. Hojin Park is a postdoctoral scholar at the Center for Tobacco research at the Ohio State University. Wexner Medical Center.
+
+12
+00:02:01.280 --> 00:02:10.519
+Michael Darden: His research focuses on health, economic substance, use, behavior, substance, taxation and policy analysis. Using quasi-experimental designs.
+
+13
+00:02:10.600 --> 00:02:30.339
+Michael Darden: His current work includes economic evaluation of cannabis excise taxes in the United States examination of medical cannabis use and perception among cancer survivors and perception by cancer clinicians and evaluating the impacts of basic pension reforms in Korea on older adults, health behaviors.
+
+14
+00:02:30.340 --> 00:02:50.960
+Michael Darden: He earned his Phd. In economics from the University of Kansas in 2022. Dr. Sishang is an Ohio state, is a associate professor at the Ohio State University, and is a co-author on the study, and she will be answering questions in the Q. And A. So Dr. Park. Thank you for presenting for us today.
+
+15
+00:02:53.230 --> 00:03:00.039
+Hojin Park: Oh, micro thanks for the introduction. So let me share my screen first.st
+
+16
+00:03:08.480 --> 00:03:09.334
+Hojin Park: Okay.
+
+17
+00:03:10.440 --> 00:03:30.492
+Hojin Park: hello, everyone. So thanks for joining today's tops talk. So today, I'm gonna talk about our lab research titled the estimating the Cross tax elasticity of tobacco demand with respect to cannabis taxation in the Us using Nielsen retail scanner data. Basically, we try to
+
+18
+00:03:31.090 --> 00:03:46.760
+Hojin Park: use the cannabis tax standardized to evaluate the impact on other substance sales. So we want to estimate the current tax elasticity of tobacco demand in terms of cannabis taxation.
+
+19
+00:03:49.179 --> 00:03:52.779
+Hojin Park: So here we have a a disclaimer slides.
+
+20
+00:03:52.990 --> 00:04:00.729
+Hojin Park: So this study was funded by the Nih Nida funding through the Pic Shang. And
+
+21
+00:04:00.780 --> 00:04:06.629
+Hojin Park: this research used the Nielsen data for the analysis. But the findings are our own.
+
+22
+00:04:08.640 --> 00:04:14.569
+Hojin Park: Yeah, just to talk about the brief background of the study. So in the Us.
+
+23
+00:04:15.170 --> 00:04:40.260
+Hojin Park: there is, there are many states that introduced the recognition cannabis use following the medical cannabis legalization. So many States actually introduced this policy. So, although this is a tobacco study, the cannabis use is also related to the substance use of tobacco products. So we
+
+24
+00:04:40.420 --> 00:04:44.969
+Hojin Park: think that it's important to study cannabis use and the impact of cannabis tax.
+
+25
+00:04:45.900 --> 00:04:53.380
+Hojin Park: So in the Us. As of 2023. There were 24 States, plus the DC. That legalized the Black Russian cabbies.
+
+26
+00:04:53.420 --> 00:05:10.919
+Hojin Park: and the current cannabis use in the us is like 43% of adults have used the cannabis in 2021 among the young adults, and for the high schoolers there were about 27.8% of them that have used the cannabis
+
+27
+00:05:12.070 --> 00:05:38.149
+Hojin Park: and co-use of like I just mentioned. The co-use of cannabis and other substance are not binary. So binge drinkers are more likely to use cannabis using the Colorado data. Since the legislation and a study found that about 6.3 8% of us. Adulterers have co-use the cannabis and tobacco in 2021 using the Nsdah data.
+
+28
+00:05:39.420 --> 00:05:42.080
+Hojin Park: So for the cannabis and cannabis
+
+29
+00:05:42.210 --> 00:06:01.439
+Hojin Park: and tobacco taxation share the similar frameworks. So taxation cannabis as tobacco has 2 purposes. The 1st would be to reduce the cannabis consumption for the public health objectives, and the other reason would be to fund the government functions, to provide services to citizens
+
+30
+00:06:01.750 --> 00:06:11.970
+Hojin Park: similar to e-cigarettes for the for the cannabis. There is no Federal guideline in tax cannabis, in taxing cannabis, particularly for the cannabis
+
+31
+00:06:12.000 --> 00:06:15.200
+Hojin Park: is, has not been
+
+32
+00:06:15.290 --> 00:06:25.119
+Hojin Park: approved for the Federal, even for the medical purposes. So that has been classified. How this has been classified as the schedule one term, although I know
+
+33
+00:06:25.230 --> 00:06:33.349
+Hojin Park: there is some movement of revising that. But currently I believe it's still illegal products at the Federal level.
+
+34
+00:06:34.260 --> 00:06:43.960
+Hojin Park: Because of that, there is a significant heterogeneity in State tax laws, in taxing cannabis products So
+
+35
+00:06:44.100 --> 00:06:52.079
+Hojin Park: at the at the given that time. Sorry. See, let me say this way. So
+
+36
+00:06:52.370 --> 00:06:55.560
+Hojin Park: like I just mentioned, if you guys shared a similar
+
+37
+00:06:56.100 --> 00:07:20.750
+Hojin Park: feature of cannabis taxation, so since there is a similar journey. The empirical analysis for cannabis was not easy. Similarly, for the e-cigar product as well, each State may have developed different policy. But a recent study by code and all, after their 1st edition of standardized specific tax.
+
+38
+00:07:20.910 --> 00:07:25.139
+Hojin Park: they developed the standardized e-cigar tax Pop tax variable
+
+39
+00:07:25.636 --> 00:07:33.493
+Hojin Park: to be used for the empirical studies so recently coded, all 2024 paper developed, and the
+
+40
+00:07:34.240 --> 00:07:43.340
+Hojin Park: introduce the tax variables for both closed form products of e-cigarettes and the open form products of e-cigarettes.
+
+41
+00:07:43.800 --> 00:07:47.920
+Hojin Park: So we're gonna also use that for our analysis to estimate the
+
+42
+00:07:47.930 --> 00:07:52.060
+Hojin Park: elasticities in addition to cannabis tax.
+
+43
+00:07:53.080 --> 00:08:00.599
+Hojin Park: So since the cabs tax similar to e-cigar tax. The tax may be different across the States.
+
+44
+00:08:00.670 --> 00:08:14.289
+Hojin Park: We also developed the standardized excise cannabis tax. Better to e-cigar taxes in standardized to evaluate the tax implications and consumption and relevant outcomes.
+
+45
+00:08:15.040 --> 00:08:22.880
+Hojin Park: So this is our lab study that has been published recently that okay, we just
+
+46
+00:08:22.910 --> 00:08:30.649
+Hojin Park: standardized heterogeneous cannabis taxes by the types and across time based on the cannabis forward products.
+
+47
+00:08:32.240 --> 00:08:41.150
+Hojin Park: So from that paper we also provide the figure for the demonstration of the tax levels of the cannabis standardized.
+
+48
+00:08:41.190 --> 00:08:44.249
+Hojin Park: based on quarter 1, 2023.
+
+49
+00:08:44.330 --> 00:08:54.040
+Hojin Park: So as we can see across the States, the tax levels may differ significantly. So we're gonna use this variation for our estimation.
+
+50
+00:08:56.690 --> 00:09:17.739
+Hojin Park: Okay, so let's if you talk about the relationship among the multiple substances like a cigarette, e-cigarette and cannabis. Most study have actually examined the relationship. Of course, the substances in a 2 product system simply saying, just comparing the 2 products
+
+51
+00:09:17.930 --> 00:09:25.979
+Hojin Park: like a cannabis and cigarettes and the relationship between cannabis and alcohol and the cannabis and e-cigarettes.
+
+52
+00:09:26.840 --> 00:09:41.929
+Hojin Park: and we find that no studies have investigated a 3 product system that incorporate the taxes and sales of each of the substance products. So in this study, we try to evaluate the relationship in a 3 product system.
+
+53
+00:09:43.380 --> 00:09:44.260
+Hojin Park: Framework.
+
+54
+00:09:45.880 --> 00:09:47.567
+Hojin Park: So previous study
+
+55
+00:09:49.790 --> 00:10:01.429
+Hojin Park: so previous studies have focused on understanding the relationship between cigarettes and e-cigarettes. So 1st of all, studies found that cigarettes and e-cigarettes are economic substitutes.
+
+56
+00:10:01.460 --> 00:10:11.519
+Hojin Park: while other studies also find they may be complements. And there may be no significant relationship between the 2 based on their analysis.
+
+57
+00:10:11.996 --> 00:10:17.283
+Hojin Park: So we think we find we feel that the economic relationship may differ
+
+58
+00:10:18.010 --> 00:10:45.519
+Hojin Park: And it's not in the concrete consensus yet. So there is still room to examine if those products are economic substitutes or complements, although we admit that the evidence is more on the substitutability side at the moment based on the literature. But we think that there is still a relationship remains empirically debatable.
+
+59
+00:10:45.580 --> 00:10:48.189
+Hojin Park: particularly based on the tax elasticity.
+
+60
+00:10:49.490 --> 00:10:56.869
+Hojin Park: If you move on to the some evidence related to the cannabis because of the lack of cannabis price and tax
+
+61
+00:10:58.540 --> 00:11:08.290
+Hojin Park: data. There is not much studies that have examined this tax and price of cannabis impact on cannabis use itself, and also other substances
+
+62
+00:11:09.170 --> 00:11:27.050
+Hojin Park: particularly due to the lack of standardized cannabis tax measure. But given our recent study that devised the standardized cannabis tax measure, this is now possible. So we're gonna try to estimate these impact of standardized kind of stacks on other substances.
+
+63
+00:11:28.140 --> 00:11:36.239
+Hojin Park: There's some evidence of how the prices or taxes or other products impact cannabis use
+
+64
+00:11:37.230 --> 00:11:42.971
+Hojin Park: like E cigarettes and cannabis may be complements based on the
+
+65
+00:11:43.660 --> 00:11:47.310
+Hojin Park: variation of the e-cigarette tax increase
+
+66
+00:11:47.800 --> 00:11:52.790
+Hojin Park: and other study found that cigarette and cannabis may be independent.
+
+67
+00:11:53.200 --> 00:12:07.119
+Hojin Park: and the cannabis and apple may be complements or substitutes. So this there are some mixed, Richard, that it can be complements, or sometimes substitutes based on the characteristics of the individual survey
+
+68
+00:12:07.220 --> 00:12:08.379
+Hojin Park: or examined.
+
+69
+00:12:11.700 --> 00:12:35.260
+Hojin Park: So if you also talk about the cigarette part, the cigarette tax has been seen as the most effective tobacco policy instrument to reduce the smoking prevalence. But studies find that the cigarette tax may be less effective in recent years.
+
+70
+00:12:35.320 --> 00:12:50.700
+Hojin Park: but still some study found that there is still some effectiveness, so we would also like to evaluate the effectiveness, effectiveness of the cigarette taxes as a instrument for reducing smoking as well.
+
+71
+00:12:50.870 --> 00:12:54.029
+Hojin Park: So we find that more evidence is needed.
+
+72
+00:12:54.300 --> 00:13:04.470
+Hojin Park: And so our existing studies using the standard taxes based on the 1st edition.
+
+73
+00:13:04.830 --> 00:13:12.060
+Hojin Park: which did not distinguish for their tax variable post form versus open system.
+
+74
+00:13:12.569 --> 00:13:33.950
+Hojin Park: There may be, there may be States with different tax implications. So we've also, again, given the recent development of the second edition of standard taxes for covering both closed and open from taxes. We're gonna use that to evaluate the tax impact on the sales as well.
+
+75
+00:13:35.040 --> 00:13:45.670
+Hojin Park: Importantly, no tax analysis have been estimated for cannabis products. Again, due to the lack of tax information that in standardized form.
+
+76
+00:13:47.330 --> 00:13:50.319
+Hojin Park: so just to summarize the evidence. Gap
+
+77
+00:13:51.709 --> 00:13:56.869
+Hojin Park: no. Existing studies have jointly studied the own and the curve stacks
+
+78
+00:13:57.390 --> 00:14:01.330
+Hojin Park: or press elasticities in a 3 product system.
+
+79
+00:14:02.130 --> 00:14:12.569
+Hojin Park: and no studies have used the seemingly unrelated regression to our knowledge. Given the correlated errors in nature of the substance, consumption equation by taxes.
+
+80
+00:14:13.640 --> 00:14:18.220
+Hojin Park: and no studies have evaluated the double tax measures of cannabis and E. Cigarette.
+
+81
+00:14:18.980 --> 00:14:28.609
+Hojin Park: So for this study for a research question, we estimate the own occurs. Tax elasticities of substance demand in the Us.
+
+82
+00:14:28.690 --> 00:14:37.100
+Hojin Park: And what we're gonna do in this study will be again the 1st estimate, the owner cross tax and impacts in a 3 product system.
+
+83
+00:14:37.120 --> 00:14:51.479
+Hojin Park: And for that we're going to employ the sur, the seemingly unrelated regressions to address the correlated irritants in each of 3 substance sales equation in response to taxes. So
+
+84
+00:14:51.480 --> 00:15:07.150
+Hojin Park: compared to estimating individual equation for each of substances, we're going to do that at once, considering 3 different substances in response to the taxes using the sur.
+
+85
+00:15:08.280 --> 00:15:20.350
+Hojin Park: and we will also evaluate the noble tax measures of cannabis and e-cigarettes again for the e-cigarette taxes. We're going to use the closed form E-cigarette tax and the open form e-cigarette tax.
+
+86
+00:15:22.260 --> 00:15:23.290
+Hojin Park: So
+
+87
+00:15:23.320 --> 00:15:36.760
+Hojin Park: I'm gonna now briefly talk about the data and what variables have been used. So for the outcome variables for the analysis, we have a cannabis sales data in the ons during 2014, through 2022.
+
+88
+00:15:37.190 --> 00:15:44.270
+Hojin Park: So this variable was derived from the State published data on the tax revenue and the kind of sales in dollars.
+
+89
+00:15:45.220 --> 00:15:58.019
+Hojin Park: And our research team hadn't collected the data and curse checks and contacted the state officials for the detail for the details of the tax revenue and the sales. Information
+
+90
+00:15:58.567 --> 00:16:05.880
+Hojin Park: this variable is only available for the time period of the States that introduced the
+
+91
+00:16:06.000 --> 00:16:17.119
+Hojin Park: cannabis legalization. Recreation comes in legalization, and after they opened the legal dispensaries to sell the products.
+
+92
+00:16:19.180 --> 00:16:37.769
+Hojin Park: So we have a sales derived using the tax revenue variable. So we have the tax revenue in dollars variable from the State published data, and we just divide that by the standardized State level kind of tax variable that we generated from our recent study
+
+93
+00:16:39.680 --> 00:16:41.480
+Hojin Park: for the tobacco sales.
+
+94
+00:16:41.895 --> 00:16:48.930
+Hojin Park: Again, for the outcome variable. We have a tobacco sales variable from the Listen scanner data during the same data period.
+
+95
+00:16:49.120 --> 00:16:58.940
+Hojin Park: Again, that our statements level data that we collapse the tobacco sales at the weekly level into statements level
+
+96
+00:16:59.370 --> 00:17:06.699
+Hojin Park: for generating these cigarette cells sold in sticks, and the e-cigarette cells sold in count
+
+97
+00:17:08.530 --> 00:17:12.599
+Hojin Park: for the independent level. We have the the variable
+
+98
+00:17:12.710 --> 00:17:16.640
+Hojin Park: of the standardized cannabis text peripheral. I want ones
+
+99
+00:17:16.680 --> 00:17:36.130
+Hojin Park: that we generated in a recent study. So we just to talk about a little about the verbal itself. We standardized the different types of cannabis taxes into one unified continuous measure. Again, in terms of flower ons, there may be different types of cannabis products.
+
+100
+00:17:36.130 --> 00:17:47.286
+Hojin Park: But since the flower products has been most common products that people use. And also that's the most common types of products that States chose to
+
+101
+00:17:48.230 --> 00:17:51.539
+Hojin Park: based on for their taxation. So we
+
+102
+00:17:51.590 --> 00:17:55.260
+Hojin Park: generate the variable in terms of flower ons.
+
+103
+00:17:55.420 --> 00:18:02.490
+Hojin Park: Again, this variable as well is only available for the States time period. When the States
+
+104
+00:18:02.550 --> 00:18:12.620
+Hojin Park: opened the legal dispensaries, and also for the conversion or the standardization of the cannabis tax variable
+
+105
+00:18:13.224 --> 00:18:26.580
+Hojin Park: most of the most States have adapted the ad following text, so for the tax conversion or tax standardization, we need to have the price information.
+
+106
+00:18:27.000 --> 00:18:46.440
+Hojin Park: So for the price information we are again just collected, based on the State published price data, or when those state public price data are not available, we use the canist benchmarks, data that are proprietary wholesale price data, we purchase for our study.
+
+107
+00:18:46.530 --> 00:18:56.678
+Hojin Park: So we have the price data and the convergence standardization is only available when the price data are available. So the data itself.
+
+108
+00:18:57.200 --> 00:19:05.479
+Hojin Park: may have some missing, but mostly we tried. We tried our best to have a best information for the tax variable
+
+109
+00:19:07.850 --> 00:19:26.339
+Hojin Park: for the again. After all, of this process, we generated the taxes based on varying prices. So this is a standardized cannabis taxes per ounce, using time varying prices of cannabis. We chose to use the time varying prices unlike the e-cigar case.
+
+110
+00:19:26.340 --> 00:19:45.159
+Hojin Park: because cannabis case, the prices are prices and sales of cannabis are only available when the States open the legal dispensaries, so we find that the indigeneity between the price and taxes, if any, may be minimal, and also we also capture the trend of decreasing
+
+111
+00:19:45.210 --> 00:19:51.670
+Hojin Park: price and taxes. That the market itself is, has not been much concentrated.
+
+112
+00:19:53.940 --> 00:19:59.700
+Hojin Park: so other independent variables will be the substances of the cigarette tax
+
+113
+00:19:59.750 --> 00:20:02.929
+Hojin Park: and the standardized beer exercise taps
+
+114
+00:20:02.980 --> 00:20:08.500
+Hojin Park: and their standardized e-cigarette tax again for the standardized e-cigarette tax.
+
+115
+00:20:09.324 --> 00:20:10.080
+Hojin Park: Is
+
+116
+00:20:10.370 --> 00:20:21.469
+Hojin Park: from the recent application by cloud at all. 2024 that differentiated by close form and open form, basically products for and and the taxation
+
+117
+00:20:24.151 --> 00:20:31.659
+Hojin Park: finally, the data is statements, level data set that covers 2014 through 2022
+
+118
+00:20:32.281 --> 00:20:44.780
+Hojin Park: we have 16 States with the sales, cannabis sales and the cannabis tax variable available. Again, these are the States that open the retail cannabis dispensaries.
+
+119
+00:20:45.980 --> 00:20:52.279
+Hojin Park: and we also added the state level per capita income and the seasonally adjusted unemployment rates
+
+120
+00:20:52.420 --> 00:21:01.313
+Hojin Park: and all tax measures and per capita income variable were Cpi adjusted using $2022. So the final samples will be
+
+121
+00:21:01.710 --> 00:21:15.380
+Hojin Park: varying between 500 or 600 in observations based on the specifications. We also introduced the alternative sample up to 5,000 observations. So this is when, the
+
+122
+00:21:15.380 --> 00:21:32.339
+Hojin Park: accounting kind of stacks measure is used again, the kind of sales or kind of stacks may be having some mixing observations based on their availability of the price information, and whether the States opened their dispensaries. Yet
+
+123
+00:21:32.440 --> 00:21:41.494
+Hojin Park: so for some fuller center for the cigarette and e-cigarette tax elasticity analysis, we introduced the
+
+124
+00:21:42.470 --> 00:21:57.590
+Hojin Park: fuller sample by using the alternative context tax measure that's valued 0 for the States that has not introduced the legalization policy or that has not opened the dispensaries to be effective.
+
+125
+00:21:59.330 --> 00:22:02.699
+Hojin Park: So here I have a summary. Stat.
+
+126
+00:22:02.780 --> 00:22:08.499
+Hojin Park: so I got a post few seconds so that you could check out the numbers.
+
+127
+00:22:16.200 --> 00:22:24.230
+Hojin Park: Okay? So again, these are sales. Variables are often variables, and these text variables are the independent variables
+
+128
+00:22:24.550 --> 00:22:27.800
+Hojin Park: that we use in the analysis.
+
+129
+00:22:29.320 --> 00:22:36.710
+Hojin Park: So cannabis taxes. Again, is a dollar value per flower ounce,
+
+130
+00:22:37.520 --> 00:22:49.747
+Hojin Park: and the e-cigar taxes. We have a 2 phones like I mentioned, based on the code at all. 2024 paper again, they are a dollar per liter
+
+131
+00:22:50.180 --> 00:22:53.990
+Hojin Park: differentiate, differentiated by the 1st form and the open form.
+
+132
+00:22:56.350 --> 00:23:08.760
+Hojin Park: So this figure just try to show some trend of tax, and the prices, tax and price for the cannabis, for the upper figure and the lower figures for the trends of substance tax
+
+133
+00:23:09.250 --> 00:23:15.100
+Hojin Park: based on our analysis sample. So the upper figure is from our recent study.
+
+134
+00:23:15.370 --> 00:23:21.384
+Hojin Park: So we see that the kind of taxes tax and prices in either nominal, or we're
+
+135
+00:23:21.830 --> 00:23:45.740
+Hojin Park: measure that are so. Okay. So for the rear term is decreasing. Given the statistical significance, although not significant, we see that in nominal term the prices and taxes may be either stagnant across the time or the decrease. So we see overall the decreasing trends of cannabis price and tax.
+
+136
+00:23:46.717 --> 00:24:09.750
+Hojin Park: If you look at the lower figures for the cigarette and the e-cigarette and the beer taxes trends the blue one for the cigarette tax, we find that in no minute, Tom, it may be increasing across the time, but in the weird time is actually stagnant in value, or is rather decreasing in recent time.
+
+137
+00:24:10.914 --> 00:24:24.740
+Hojin Park: So beer taxes have been pretty similar across the time, and for the e-cigarette tax we see that the closed form taxes has been more increasing in our recent years, compared to the open
+
+138
+00:24:24.760 --> 00:24:26.509
+Hojin Park: from e-cigar attacks.
+
+139
+00:24:28.580 --> 00:24:39.499
+Hojin Park: So for the empirical strategy for our regression analysis, we use the typical two-way fix the facts model based on the difference and differences framework.
+
+140
+00:24:40.450 --> 00:24:43.239
+Hojin Park: So we have this equation to estimate
+
+141
+00:24:44.130 --> 00:24:51.039
+Hojin Park: substance sales the outcome. Variable, again, can be cannabis cigarette or the e-cigarette sales.
+
+142
+00:24:51.300 --> 00:25:09.419
+Hojin Park: and our tax measure will be the independent variables to estimate the impact on the substance sales. So tax measures in dollar per unit of cannabis, cigarette, e-cigarette and beer are used.
+
+143
+00:25:10.110 --> 00:25:17.150
+Hojin Park: and per capita income and unemployment rate, and the 2 fixed effects with the state level clustering.
+
+144
+00:25:17.530 --> 00:25:35.969
+Hojin Park: And again. So we 1st evaluate the each of these substance cells individually, and then we also examine this in 3 variable system, using the seemingly unlimited regression framework to include order. 3 equations.
+
+145
+00:25:36.775 --> 00:25:39.399
+Hojin Park: At once for efficiency.
+
+146
+00:25:39.930 --> 00:25:43.159
+Hojin Park: So let me pause here for patience.
+
+147
+00:25:45.040 --> 00:25:51.380
+Michael Darden: Thanks so much. Cogen so our discussion today is Dr. Michael Pesco, Professor of Economics at the University of Missouri.
+
+148
+00:25:53.730 --> 00:26:14.010
+Mike Pesko: Hi, ho! Chen! Thanks so much for a really interesting presentation so far, I guess, like one of one of the main contributions of of your paper, if I'm understanding it correctly, is that there has not been a paper that has studied the impact of cannabis taxes on cannabis
+
+149
+00:26:14.460 --> 00:26:17.160
+Mike Pesko: sales or use is that? Is that correct?
+
+150
+00:26:17.870 --> 00:26:19.480
+Hojin Park: Yes, that's that's 1 of the.
+
+151
+00:26:19.480 --> 00:26:30.740
+Mike Pesko: Okay, I mean to me that that seems like a really important research question, right? And I know that that this is the tobacco online policy seminar, right? But but I I did kind of wonder if
+
+152
+00:26:31.171 --> 00:26:46.959
+Mike Pesko: if maybe there's 2 papers here right? And I mean, I we haven't gotten into your results or anything like that, right? But it just seems like the the cannabis question seems so important. Right? I'm sure there's a lot of states really wondering. You know what? You know. So we're we've
+
+153
+00:26:47.520 --> 00:27:09.200
+Mike Pesko: legalized, you know. Marijuana right in some cases with referendums. Right? and now you know, what impact can we expect in taxes? Right? In terms of reducing cannabis? Use in particular, for vulnerable populations right? And on revenues. Right? I mean. So that just seems like a hugely important a question.
+
+154
+00:27:09.492 --> 00:27:25.860
+Mike Pesko: and so I do wonder if it's worth really digging in deep on on that side of things, right? And the tobacco stuff in some ways. Yeah, you know, that's important, right? But I feel like, maybe that's like a second order. Importance? Right? It might. Maybe it's a follow up paper or something like that.
+
+155
+00:27:26.300 --> 00:27:49.340
+Mike Pesko: So a couple of questions, one is how how do you guys think about medicinal marijuana? I assume that all the recreational marijuana law States have medicinal marijuana available? Are are there any price differences in medicinal marijuana that we should be aware of, and that could be a confounder here.
+
+156
+00:27:50.630 --> 00:28:04.080
+Hojin Park: I think so for the medical medicinal marijuana or policy to be analyst, so based on our price data that we purchased for the price information that are not available.
+
+157
+00:28:04.590 --> 00:28:09.610
+Hojin Park: There are some change, some differences in the price level
+
+158
+00:28:09.670 --> 00:28:20.030
+Hojin Park: of the Medicare marijuana versus the recreational marijuana or cannabis. But the if you want to use the tax information
+
+159
+00:28:20.600 --> 00:28:27.579
+Hojin Park: most many studies, many States actually does not do not have the taxes on the Medicare products.
+
+160
+00:28:27.650 --> 00:28:29.150
+Hojin Park: so is
+
+161
+00:28:29.340 --> 00:28:41.860
+Hojin Park: less consistent to use whether compared to the recreational case. So we have not touched on the Medicare part yet. But of course, we could also extend our study to the Medicare part.
+
+162
+00:28:43.160 --> 00:28:43.930
+Hojin Park: Yeah.
+
+163
+00:28:44.090 --> 00:28:47.859
+Mike Pesko: So, you know, you know, though it it so some states do. Text.
+
+164
+00:28:49.500 --> 00:29:01.010
+Mike Pesko: that's interesting. I mean, could you just include an indicator variable. For if the State, I mean if they all have medical marijuana, right? So I mean in theory, I think you could just include a dummy, for if the State taxes it or not, right.
+
+165
+00:29:01.400 --> 00:29:03.069
+Hojin Park: Right? Yeah, we could do that.
+
+166
+00:29:03.070 --> 00:29:10.580
+Mike Pesko: You know, just an idea. So something else. You know, thinking a little bit about the outcome. And I think that you guys are probably
+
+167
+00:29:10.810 --> 00:29:38.529
+Mike Pesko: doing the best you can. Right? I mean, my understanding is that your outcome is you have revenue right? And so that must be reported tax revenue, you know, in different government reports, and I'm guessing you guys to to collect that, and and which is probably not an easy undertaking. But but you have that, and then you have your standardized tax right? And so my understanding is that you're taking revenue and dividing it by the taxes right? I mean, I guess 1 1 question
+
+168
+00:29:38.530 --> 00:30:05.060
+Mike Pesko: you know, thinking a little bit about. I think you have, then the tax variable on the the left hand side and the right hand side of your regression right? So I mean, I'd have to think a little bit more about the implications of that right? But also, you know, thinking about like, what's some measurement error. And what does that look like here? Right? And I guess I'm wondering. You know, questions like, you know, reservations? I assume that there could be sales on reservations that do not lead to State revenue.
+
+169
+00:30:05.388 --> 00:30:26.761
+Mike Pesko: And I don't know if that's common or not right. I know there's a lot of tobacco literature right on purchases on on reservations as ways to avoid taxes and places that don't have a compacts right? I don't know if we can expect that same kind of problem with a a marijuana sales or or not. and
+
+170
+00:30:28.114 --> 00:30:41.880
+Mike Pesko: Yeah, I mean I I there could be other sources, but but I guess I was just curious to hear from you. If if there's any other measurement problems that you can, you can think of with the the outcome. And if there's any any other alternative outcomes that might might consider.
+
+171
+00:30:41.910 --> 00:30:47.595
+Hojin Park: Yes, we do. Like I mentioned, if you use the measure based on tax revenue
+
+172
+00:30:47.940 --> 00:30:56.829
+Hojin Park: we technically could include the both the standardized tax on both sides. So given that we also have our attorney measure using the
+
+173
+00:30:56.890 --> 00:31:03.250
+Hojin Park: cannabis sells in dollar dollar value of the cannabis sales for each state
+
+174
+00:31:03.380 --> 00:31:12.499
+Hojin Park: that's available. We just divided that again, it's it's kind of similar, but we are so divide that kind of sales in dollar by the retail price
+
+175
+00:31:12.650 --> 00:31:14.080
+Hojin Park: per ounce.
+
+176
+00:31:14.498 --> 00:31:20.720
+Hojin Park: So that's our kind of measure we have. And we found a similar findings
+
+177
+00:31:21.226 --> 00:31:25.983
+Hojin Park: when we use this outcome variable instead of the tax revenue derived.
+
+178
+00:31:26.580 --> 00:31:30.389
+Hojin Park: But yeah, given that, we could also
+
+179
+00:31:31.182 --> 00:31:36.490
+Hojin Park: try to use some internal measure. But at the moment we have just 2 variables.
+
+180
+00:31:37.383 --> 00:31:38.670
+Hojin Park: So, yeah.
+
+181
+00:31:39.962 --> 00:31:43.117
+Mike Pesko: You know, maybe even something like it's not the same thing. But
+
+182
+00:31:43.470 --> 00:32:00.939
+Mike Pesko: I mean, you could, I guess, use survey data right? I mean, and and you know, study the effect. And maybe you're doing that in other papers. Right? I always think Google trends is interesting, right? Just how often do people search marijuana right in, you know. And did that vary at all, based on
+
+183
+00:32:01.303 --> 00:32:21.649
+Mike Pesko: the amount of the taxes right in the recreational marijuana law states just, you know, possible idea for alternative outcomes to flush out that that 1st state. And just one technical question, are we use? You're using a non-balanced panel. Is that that that correct? And so once the State becomes an Rml state.
+
+184
+00:32:21.650 --> 00:32:23.099
+Hojin Park: Right for the sales, and tax.
+
+185
+00:32:23.100 --> 00:32:24.679
+Mike Pesko: As part of your your data.
+
+186
+00:32:25.000 --> 00:32:25.690
+Hojin Park: Right.
+
+187
+00:32:25.690 --> 00:32:45.239
+Mike Pesko: Okay, it'd be interesting. I would be interested in just some sensitivity around keeping the the panel a a balanced and I guess you won't have any legal sales right in in the pre period without. Rml, right? And just, you know, seeing the implications of of that choice.
+
+188
+00:32:46.070 --> 00:32:47.980
+Mike Pesko: But yeah, great. Please continue.
+
+189
+00:32:48.810 --> 00:32:50.960
+Mike Pesko: Or I'm gonna turn it back to Michael Jordan in case.
+
+190
+00:32:50.960 --> 00:32:51.490
+Hojin Park: Station.
+
+191
+00:32:51.490 --> 00:32:52.680
+Mike Pesko: Questions, thanks.
+
+192
+00:32:53.100 --> 00:32:58.940
+Michael Darden: Yeah, there's 1 question in the chat, but it looks like C is answering it. So why don't we get to your results just for time's sake.
+
+193
+00:32:58.990 --> 00:33:00.140
+Michael Darden: so go ahead.
+
+194
+00:33:01.990 --> 00:33:05.480
+Hojin Park: Okay, okay, so let me reshare.
+
+195
+00:33:18.630 --> 00:33:26.580
+Hojin Park: Okay? So this was our model. So let's move on to the Richard part.
+
+196
+00:33:27.930 --> 00:33:40.799
+Hojin Park: Okay, so this is our main research, using the 2 way fixed effects, estimation for the tax elasticities of the cannabis, cigarette and the e-cigarette respectively.
+
+197
+00:33:41.444 --> 00:33:45.635
+Hojin Park: So each of column here shows for the
+
+198
+00:33:46.210 --> 00:33:51.869
+Hojin Park: estimation for each of cannabis outcome, cigarette outcome and the e-cigarette outcome.
+
+199
+00:33:51.910 --> 00:34:13.210
+Hojin Park: But the 3rd and 5th columns are for the cases when we have the alternative cannabis tax measure. Again, having the 0 values for the time that have not yet opened the legal dispensaries or have not yet legalized the cannabis use yet.
+
+200
+00:34:13.210 --> 00:34:34.279
+Hojin Park: So we have a 5,000 observations. Again, this is for analyzing the cigarette and the e-cigar sales in a more fuller observation more fuller sample rather than the 500 or 600 as like a limited sample, given the cannabis tax and the cells favorable availability.
+
+201
+00:34:35.210 --> 00:34:59.959
+Hojin Park: So if you look at the the significant statistic, statistically significant estimates here. So for the 1st finding for the cannabis side, we see that the increase in cannabis taxes decreases the cannabis sales that which is expected. But we see that the. So again, the this
+
+202
+00:34:59.960 --> 00:35:22.750
+Hojin Park: estimate for all elasticity measure. So we have a negative 1.2 3 tax elasticity of the cannabis tax on the cannabis cells. So this means 1% increase in cannabis. Taxes were reserved in the 1.2 3% decreases in cannabis sales, which is elastic elasticity.
+
+203
+00:35:23.060 --> 00:35:42.000
+Hojin Park: So we have a e-cigarette port. We have a e-cigarette taxes closed form taxes. We see that increasing the e-cigarette tax will reduce the e-cigar sales, which is expected again, but in an inelastic match inelastic case.
+
+204
+00:35:42.030 --> 00:35:43.960
+Hojin Park: So we have a a
+
+205
+00:35:44.060 --> 00:35:54.370
+Hojin Park: increase in 1% of the e-cigar taxes for a closed form will result in the decrease in e-cigar sales by point 1 7%.
+
+206
+00:35:54.440 --> 00:36:02.099
+Hojin Park: But we do not see impact on the impact of e-cigar cells for the open form on the e-cigar cells.
+
+207
+00:36:03.190 --> 00:36:28.319
+Hojin Park: So if you look at the gross tax elasticity in a blue color for the e-cigarette case. We see that increasing cannabis taxes would increase the e-cigarette sales by 0 point 4 7 tax elasticity. So this is gross tax elasticity and positive sign means cannabis and e-cigarettes may be substitutes
+
+208
+00:36:29.502 --> 00:36:35.490
+Hojin Park: but for the cigarette case we have a beer tax. If we increase the beer tax.
+
+209
+00:36:35.500 --> 00:36:45.590
+Hojin Park: the cigarette sales may be decreasing which imply and which shows which indicates the complementary relationship between beer and cigarettes.
+
+210
+00:36:45.930 --> 00:37:09.139
+Hojin Park: But our main focus is more on the Sur case. So we have a sur reserve here. So for the table 3, we have a cannabis sales and the cigarette sales and the e-cigarette sales as outcomes in response to each of taxes, cannabis, taxes, cigarette taxes, e-cigar taxes, and the beer taxes.
+
+211
+00:37:10.110 --> 00:37:19.833
+Hojin Park: So we see pretty similar the bolts. The elasticity estimates in bold or the own elasticity. We see pretty similar
+
+212
+00:37:20.420 --> 00:37:25.410
+Hojin Park: effect size of estimates, as we've seen in the two-way fixed effects
+
+213
+00:37:27.150 --> 00:37:29.350
+Hojin Park: in the sur case as well.
+
+214
+00:37:32.380 --> 00:37:38.003
+Hojin Park: Again, the red one is for the on for the own elasticity, and the blue one is the
+
+215
+00:37:38.680 --> 00:37:41.159
+Hojin Park: current tax elasticity estimates.
+
+216
+00:37:42.120 --> 00:37:54.209
+Hojin Park: But now we have a more significant estimates rather than to a fixed effects case, because, as you are case, we address the correlated error terms across the 3 equations.
+
+217
+00:37:55.600 --> 00:38:01.419
+Hojin Park: So the in the 1st column, if you look at the kind of Texas impact
+
+218
+00:38:01.510 --> 00:38:04.309
+Hojin Park: we see that increase in Canada's taxes will
+
+219
+00:38:04.320 --> 00:38:11.600
+Hojin Park: increase the cigarette sales and the e-cigarette cells which shows the substitutability
+
+220
+00:38:13.221 --> 00:38:22.280
+Hojin Park: in the 3rd column is the tax for the close one we see the increasing taxes will increase the seat of sales.
+
+221
+00:38:22.809 --> 00:38:29.519
+Hojin Park: But in the Easter taxes often we see a Instagram tax reduces the cigarette sales.
+
+222
+00:38:29.540 --> 00:38:37.999
+Hojin Park: So there is some different differential implications of the exhibit taxes by the closed form or the open form.
+
+223
+00:38:38.740 --> 00:38:44.840
+Hojin Park: and the beer taxes overall beer taxes have the impact
+
+224
+00:38:45.500 --> 00:38:49.569
+Hojin Park: of the complementary to other substances.
+
+225
+00:38:51.160 --> 00:39:00.219
+Hojin Park: So this table shows the Sur research, but only looking at the cigarette sales and the e-cigarette cells
+
+226
+00:39:00.815 --> 00:39:16.550
+Hojin Park: based on the if you look at the observation number 5 dozen observations. So here we use the alternative cannabis tax measure that had the values of 0 for the time that did not legalize or to open the dispensaries yet.
+
+227
+00:39:18.003 --> 00:39:22.789
+Hojin Park: So here we see that the own elasticities
+
+228
+00:39:22.970 --> 00:39:30.550
+Hojin Park: are all significant. If you look at the second second column for the cigarette tax impact.
+
+229
+00:39:30.610 --> 00:39:38.599
+Hojin Park: We see that the inelastic elasticity elasticity on the cigarette sales by the cigarette tax
+
+230
+00:39:39.820 --> 00:39:41.979
+Hojin Park: and the e-cigarette tax keys
+
+231
+00:39:42.030 --> 00:39:50.320
+Hojin Park: for the e-cigar sales. We see the closed form is your text, and the open form is your text have different impact
+
+232
+00:39:50.922 --> 00:39:57.189
+Hojin Park: again. So Instagram tax for the platform decreases the easier sales.
+
+233
+00:39:57.210 --> 00:40:02.639
+Hojin Park: But, on the other hand, for the e-cigar tax for the open form, it increases the sales
+
+234
+00:40:03.060 --> 00:40:10.859
+Hojin Park: we're gonna touch on this, Richard, at the conclusion slides. But we see that the taxes and open.
+
+235
+00:40:10.880 --> 00:40:14.280
+Hojin Park: Sorry the e-cigarette products for the 1st phone
+
+236
+00:40:14.340 --> 00:40:23.629
+Hojin Park: or the Instagram tag Instagram products for the open form. There may be some substitutability for the cross tax
+
+237
+00:40:23.680 --> 00:40:31.607
+Hojin Park: estimates. We see a pretty similar research for the cigarette and the e-cigarette we see
+
+238
+00:40:34.370 --> 00:40:41.039
+Hojin Park: we see a complementary impact and e-cigar taxes and cigarette. We again see the complementary impact
+
+239
+00:40:41.310 --> 00:40:44.650
+Hojin Park: and beer tax is again the complementary event.
+
+240
+00:40:44.750 --> 00:40:46.850
+Hojin Park: On the other substances.
+
+241
+00:40:49.598 --> 00:41:01.071
+Hojin Park: So here. So we also try to do some event study for the difference and differences framework using the Dcdh because our
+
+242
+00:41:02.070 --> 00:41:08.870
+Hojin Park: The treatment variable is a continuous variable which is taxed in different substances
+
+243
+00:41:09.443 --> 00:41:15.196
+Hojin Park: we tried our best, but we see that the research on research are pretty
+
+244
+00:41:16.640 --> 00:41:31.629
+Hojin Park: pretty consistent with the 2 way fixed effects finding, but they are quite noisy. So we just try to show that we try this. But we wanted to develop further for the event, study for our framework.
+
+245
+00:41:31.890 --> 00:41:43.449
+Hojin Park: But further, if you look at the cigarette sales case in terms of cigarette taxes, we see no significant effect before the taxes are changing or treated.
+
+246
+00:41:43.895 --> 00:41:46.944
+Hojin Park: But there is no impact after the
+
+247
+00:41:47.440 --> 00:41:49.330
+Hojin Park: There is a change in tax level
+
+248
+00:41:49.660 --> 00:41:55.664
+Hojin Park: for the e-cigarette tax impact on the cigarette sales as well. There was no impact
+
+249
+00:41:56.200 --> 00:42:01.010
+Hojin Park: before or the after. The treatment is binding.
+
+250
+00:42:01.350 --> 00:42:10.279
+Hojin Park: But we want to say is, we're gonna try to exam further for the event study or better verify our research framework.
+
+251
+00:42:11.790 --> 00:42:15.779
+Hojin Park: So here we would like to provide the conclusion slide.
+
+252
+00:42:15.940 --> 00:42:24.879
+Hojin Park: The research question was again the estimating the tax elasticities of tobacco and cannabis sales in the United States.
+
+253
+00:42:25.140 --> 00:42:30.080
+Hojin Park: In summary, we find that through their own text elasticities.
+
+254
+00:42:30.827 --> 00:42:32.439
+Hojin Park: Kind of sells
+
+255
+00:42:32.480 --> 00:42:41.610
+Hojin Park: is kind of sales or tax elastic, with minus 1.2 2 estimates of tax
+
+256
+00:42:42.410 --> 00:42:49.850
+Hojin Park: and cigarette cells in the tool. We fix the tax model to be non-responsive to its own tax
+
+257
+00:42:50.634 --> 00:43:03.979
+Hojin Park: though with the inelastic estimate of tax. But for the inelastic in in case of Sur research. So the cigarette cigarette taxes still reduces the cigarette sales
+
+258
+00:43:05.219 --> 00:43:15.319
+Hojin Park: for the e-cigar sales. This is more interesting part that may response respond to to the taxes, but on the different systems differently.
+
+259
+00:43:16.211 --> 00:43:19.859
+Hojin Park: So we see that for the host system is, your tax
+
+260
+00:43:19.890 --> 00:43:28.570
+Hojin Park: actually reduces the sales which is expected. But we see a positive sign for the e-cigarette taxes based on the open system.
+
+261
+00:43:28.840 --> 00:43:37.070
+Hojin Park: So we understand this, Richard, as because the Nissan data captured mostly the easiest sales of closed system
+
+262
+00:43:37.200 --> 00:43:41.519
+Hojin Park: and the open system closed system. Maybe
+
+263
+00:43:42.233 --> 00:43:47.410
+Hojin Park: open and closed system products may be economic substitutes.
+
+264
+00:43:47.846 --> 00:43:55.009
+Hojin Park: There is a different impact of taxes by the close form or the open form tax on the sales.
+
+265
+00:43:55.080 --> 00:44:01.619
+Hojin Park: So based on Nissan data. This is a sales offer, maybe more on the 1st form Instagram products.
+
+266
+00:44:01.640 --> 00:44:13.750
+Hojin Park: And this shows that relationship between the post from sales and the cost from tax. But we see a different sign on the impact of 1st sorry. The open phone e-cigarette tax
+
+267
+00:44:15.590 --> 00:44:17.670
+Hojin Park: for the cross tax elasticity.
+
+268
+00:44:18.241 --> 00:44:28.630
+Hojin Park: We see that cannabis is cannabis products may be substitutes to cigarettes and the e-cigarette based on our sur finding as your research
+
+269
+00:44:29.397 --> 00:44:38.080
+Hojin Park: but in the direction of cannabis taxes to impact the tobacco sales rather than a previous study that examined the impact of these different taxes
+
+270
+00:44:38.610 --> 00:44:45.009
+Hojin Park: on the cannabis use. So this is, I think, one of the contribution of our study.
+
+271
+00:44:45.465 --> 00:44:54.820
+Hojin Park: And we found the mixed research on the cigarette versus e-cigar relationships. Likely there may be compliments based on our findings.
+
+272
+00:44:55.256 --> 00:45:15.240
+Hojin Park: So this adds to the debate of whether they are economic substitutes or compliments, so the most study found. They may be substitutes with some studies, finding the cigarette e-cigarettes may be compliments, but our finding is more on the complementary side between the cigarette and the e-cigarette.
+
+273
+00:45:16.290 --> 00:45:22.220
+Hojin Park: So a system, a systematic review found actually
+
+274
+00:45:22.340 --> 00:45:27.389
+Hojin Park: systematic review found that there is actually the evidence
+
+275
+00:45:28.470 --> 00:45:44.709
+Hojin Park: that the cigarette and e-cigarettes using sales data may be inconclusive. So maybe the use of different data set in different framework may result in different economic relationship, but our finding is on the complementary side.
+
+276
+00:45:45.390 --> 00:45:49.260
+Hojin Park: and beer taxes in all the regressions.
+
+277
+00:45:49.300 --> 00:45:55.319
+Hojin Park: or the sur 3 fixed defects. Model tend to be economic complements to other substances.
+
+278
+00:45:55.680 --> 00:45:59.040
+Hojin Park: And this is consistent with the filings.
+
+279
+00:45:59.440 --> 00:46:14.300
+Hojin Park: So this is our final slide for the future research. This. This findings our studies finding is currently a preliminary stage. So we need a further investigation.
+
+280
+00:46:14.870 --> 00:46:31.749
+Hojin Park: so for the future approach, we would like to introduce the E single cells variable in elicit format and also categorized by the types of E-spear products to have a further investigation of the risk of the findings
+
+281
+00:46:32.904 --> 00:46:51.820
+Hojin Park: and also for the sales variable itself. We have an overall sales for entire state given time period, but we would like. We would also like to try to use the per capita consumption for sales for each of substances that may have a different different tax implications.
+
+282
+00:46:52.519 --> 00:46:58.449
+Hojin Park: And for the beer and aqua consumption that we would also like to consider for the outcome variable.
+
+283
+00:47:00.218 --> 00:47:10.440
+Hojin Park: Also, like the e-cigar tax cases. We would like to also update the coverage of the cannabis taxes and sales data for larger sample
+
+284
+00:47:11.679 --> 00:47:21.069
+Hojin Park: and also we could also examine the price elasticity, using the instrumental variable framework, using the taxes as instrument.
+
+285
+00:47:21.940 --> 00:47:28.580
+Hojin Park: So overall, we need to do some further investigation, including including the event. Study framework.
+
+286
+00:47:29.826 --> 00:47:39.630
+Hojin Park: So this is all of our presentation slides. So thanks for any comments or suggestion. Yeah, let me stop here.
+
+287
+00:47:40.440 --> 00:47:42.140
+Michael Darden: Thanks so much for doing.
+
+288
+00:47:42.800 --> 00:47:46.099
+Michael Darden: I guess we'll go back to our discussion, Dr. Pesco.
+
+289
+00:47:46.260 --> 00:47:48.490
+Michael Darden: if you have any further comments, questions.
+
+290
+00:47:49.408 --> 00:48:09.501
+Mike Pesko: Yeah, thanks again for a super interesting presentation. I I really liked. There was a table in there. I don't know if it's possible to go back, but column one with showing the the the negative effect that cannabis taxes had on cannabis sales, and then showing the positive effect they had in cigarette and e-cigarette. Sales.
+
+291
+00:48:10.466 --> 00:48:34.829
+Mike Pesko: yeah. I thought that I thought this column one here was was, you know, this is a really important a result, I guess. Right? I mean. So thinking about like, how do we flush out this further right? And I I know that. I know that you're doing a lot with, you know, the other columns, looking at other tobacco product outcomes right? And looking at those coefficients right? But we really could dig into column one carefully, too right, and including
+
+292
+00:48:34.830 --> 00:48:44.799
+Mike Pesko: doing some event studies on it. I know that you propose some some ultra some sensitivity checks that you guys are are planning in in the in the future.
+
+293
+00:48:45.910 --> 00:49:08.120
+Mike Pesko: and I guess this is using the seemingly unrelated regression, like, I would be interested just to see, you know, regular linear, you know, modeling without that. What? What implication is there of the of using the seemingly unrelated regression right? And I think you also showed some event studies from using the the newer Dcdh estimator right.
+
+294
+00:49:08.120 --> 00:49:08.460
+Hojin Park: Great.
+
+295
+00:49:08.580 --> 00:49:22.320
+Mike Pesko: Alternative way to estimate this this result as well. Right? So so a nice work with with this for the if you go one slide
+
+296
+00:49:22.620 --> 00:49:23.900
+Mike Pesko: further right.
+
+297
+00:49:25.160 --> 00:49:25.580
+Hojin Park: Yeah.
+
+298
+00:49:25.580 --> 00:49:32.800
+Mike Pesko: Or maybe next slide, maybe next slide.
+
+299
+00:49:34.110 --> 00:49:34.610
+Mike Pesko: Sorry.
+
+300
+00:49:35.070 --> 00:49:59.340
+Mike Pesko: Okay, it's okay. The the point, I guess, was, I there was. At 1 point, I think you had closed system e-cigarettes, and you had all 51 states right? And then I thought there was. You had open system without 51 states, although that's different than what I'm looking at. Right here. But I I was wondering if if maybe you were only using states that had open system
+
+301
+00:49:59.340 --> 00:50:07.499
+Mike Pesko: e-cigarette taxes at some point. I think that there's I think, that you might have an ability like if if a state has the same.
+
+302
+00:50:07.500 --> 00:50:12.819
+Mike Pesko: does not have a separate open system. E-cigarette tax. Then I think that the closed
+
+303
+00:50:12.950 --> 00:50:20.029
+Mike Pesko: e-cigarette tax rate equals the open system tax rate right, so it might be possible to to not
+
+304
+00:50:20.180 --> 00:50:25.730
+Mike Pesko: restrict your sample just to the those States that have open system. E-cigarette taxes.
+
+305
+00:50:26.112 --> 00:50:50.619
+Mike Pesko: And I guess one other minor comment. I think you're using the Nielsen IQ data, and I know I was involved with some some work with authors from truth, initiative, and we were using Nielsen, IQ. And I've separately done work using Nielsen retail scanner data from the kilt center, and we noticed in our own work that there were big differences in terms
+
+306
+00:50:50.620 --> 00:51:00.230
+Mike Pesko: of tax elasticities between between which versions of the Nielsen data source is used. And I think that I think that there's
+
+307
+00:51:00.573 --> 00:51:20.569
+Mike Pesko: the the Nielsen IQ. They use some kind of projection factors to try to estimate what they think the the market looks like right, whereas the Nielsen retail scanner data they're providing, like the store level, raw data without any kind of projections. Right? And so I was. Just, you know. I've wondered before. What, how were they
+
+308
+00:51:20.650 --> 00:51:32.300
+Mike Pesko: doing these projections? Exactly. And are they projecting in a way that makes tax responsiveness basically fall to almost nothing. So just something to think about a little bit with respect to your own. Your own work.
+
+309
+00:51:32.300 --> 00:51:34.319
+Hojin Park: Okay, yeah, that's really good point.
+
+310
+00:51:34.320 --> 00:51:39.549
+Mike Pesko: Yup. Nice nice nice nice job and I'll turn it back over to Michael Jordan.
+
+311
+00:51:40.460 --> 00:51:41.310
+Hojin Park: Thank you.
+
+312
+00:51:41.960 --> 00:51:54.170
+Michael Darden: Thanks, Mike, and thanks. So, Jim, we don't have any questions in the in the QA. That haven't been answered. So I I'll ask a question just on the on the system, this seeming seemingly unrelated.
+
+313
+00:51:55.547 --> 00:52:15.699
+Michael Darden: So you make a you make a nice case for including beer taxes in your system for reasons, complementarity between marijuana and alcohol potentially. Can you just give some intuition as how you think the results of your system would change if you also modeled
+
+314
+00:52:15.810 --> 00:52:19.860
+Michael Darden: beer, consump, or alcohol consumption directly. So you had a
+
+315
+00:52:19.910 --> 00:52:24.709
+Michael Darden: yeah, you had a 4 dependent, variable system.
+
+316
+00:52:25.350 --> 00:52:31.080
+Michael Darden: And I mean, I'm not. I'm not suggesting that you model everything under the sun. But alcohol seems like a natural one to include here. So
+
+317
+00:52:31.760 --> 00:52:35.319
+Michael Darden: all right, can you give us a sense as how your results might change.
+
+318
+00:52:36.855 --> 00:52:38.459
+Hojin Park: I think the
+
+319
+00:52:38.910 --> 00:52:51.449
+Hojin Park: if we so the benefit of using the S or to my understanding, is just to better control for the error terms in each of the equation for the substances. So in this case
+
+320
+00:52:51.867 --> 00:53:09.420
+Hojin Park: like, I mentioned, where we understand there are some relationship with the beer and the other substances. So including the beer cells as available in the model for the as you are, may actually changes the the standard errors
+
+321
+00:53:09.837 --> 00:53:29.289
+Hojin Park: so I think that may be the most benefit we could get out of the sur. But I cannot just say it will just reduce or increase the statistical significance but it will better the use of sur will will better control for the standard errors.
+
+322
+00:53:29.340 --> 00:53:43.240
+Hojin Park: particularly for the correlated, the errors across the models for each of substances. So that's our understanding. But again, I cannot say it will change this way or that way at the moment.
+
+323
+00:53:43.480 --> 00:53:44.050
+Hojin Park: Yeah.
+
+324
+00:53:45.144 --> 00:53:56.075
+Michael Darden: And then just a question. That's so, I think, somewhat related to your work, but maybe not completely. But like, do we have any estimates in the literature of the
+
+325
+00:53:56.650 --> 00:54:03.540
+Michael Darden: of of the substitutability between kind of black market marijuana and legal marijuana.
+
+326
+00:54:04.140 --> 00:54:06.050
+Michael Darden: So when taxes go up.
+
+327
+00:54:06.530 --> 00:54:12.510
+Michael Darden: when when taxes go up in the legal market, you could imagine that some users switch.
+
+328
+00:54:13.860 --> 00:54:16.949
+Hojin Park: That's right. I think not.
+
+329
+00:54:18.010 --> 00:54:20.632
+Hojin Park: Our search that we found any.
+
+330
+00:54:21.480 --> 00:54:29.498
+Hojin Park: so mostly the literature is like on the cannabis. Ls list of literature, mostly focused on the
+
+331
+00:54:30.240 --> 00:54:32.230
+Hojin Park: like a survey or some
+
+332
+00:54:32.681 --> 00:54:49.410
+Hojin Park: data from like a curse, crowdsource data for the blank market just because of like a prices or tax information. So far, so they are mostly either focusing on the black market itself or based on the survey. So I haven't seen any
+
+333
+00:54:49.825 --> 00:54:54.959
+Hojin Park: studies that did that. But we could also try to do that ourselves.
+
+334
+00:54:55.421 --> 00:55:05.660
+Hojin Park: But that's a really good point to understand the relationship between the blank market response and the labor market by the prices and the taxes of the labor market. Yeah.
+
+335
+00:55:07.824 --> 00:55:11.697
+Michael Darden: One question from the chat. That's that's not related. But
+
+336
+00:55:12.600 --> 00:55:17.519
+Michael Darden: Do you? Do you think about other kind of tobacco control laws like flavor bans
+
+337
+00:55:17.610 --> 00:55:22.209
+Michael Darden: or advertising restrictions, or anything like that in your in your work, and and.
+
+338
+00:55:22.210 --> 00:55:22.769
+Hojin Park: Wouldn't you?
+
+339
+00:55:23.480 --> 00:55:40.980
+Hojin Park: Yeah, I think they are also relevant to include. So that's our of course, future plan to do so. So so far, we have just tried to understand the primitive relationship between the major variables. But we could also add those
+
+340
+00:55:41.891 --> 00:55:52.409
+Hojin Park: policy changes in those like flavors, product span or some other types of State level policies to include. So yeah, that's valid point. Yeah.
+
+341
+00:55:54.179 --> 00:56:03.140
+Michael Darden: Okay, great. Well, we're 3 min away. So I think it's a good time to kick it to Travis, who will take us out. Thank you. Thank you, Richard.
+
+342
+00:56:03.350 --> 00:56:04.270
+Hojin Park: Thanks. Everyone.
+
+343
+00:56:15.730 --> 00:56:22.070
+Travis Whitacre: Alright, so we're out of time. But thank you to our presenter, our moderator, and our discussant
+
+344
+00:56:22.484 --> 00:56:29.039
+Travis Whitacre: and finally, thank you to the audience of about 113 people for all of your participation.
+
+345
+00:56:29.080 --> 00:56:31.910
+Travis Whitacre: and have a top notch weekend.
+
