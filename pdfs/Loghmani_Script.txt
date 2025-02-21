@@ -1,0 +1,1573 @@
+WEBVTT
+
+1
+00:00:03.180 --> 00:00:18.680
+Joanne Constantin: Welcome to the tobacco online policy seminar tops. Thank you for joining us today. I'm Joanne Constantine, a postdoctoral research fellow at the University of Michigan Medical School, Pediatrics Department, Child Health, Evaluation and Research Center.
+
+
+2
+00:00:18.890 --> 00:00:35.460
+Joanne Constantin: Tupps is organized by Mike Pesco at University of Missouri, C. Cheng. At the Ohio State University, Michael Dorden at Johns Hopkins University, Jamie Hartman Boyce at University of Massachusetts, Amherst and Justin White, at Boston University.
+
+
+3
+00:00:35.550 --> 00:00:50.510
+Joanne Constantin: The seminar will be 1 h with questions from the moderator and discussant the audience may pose questions and comments in the Q. And a panel, and the moderator will draw from these questions and comments in conversation with the presenter.
+
+
+4
+00:00:50.900 --> 00:00:56.179
+Joanne Constantin: Please review the guidelines on tobaccopolicy.org for acceptable questions.
+
+
+5
+00:00:56.290 --> 00:01:00.909
+Joanne Constantin: Please keep the questions professional and related to the research being discussed
+
+
+6
+00:01:01.180 --> 00:01:11.590
+Joanne Constantin: questions that meet the seminar series. Guidelines will be shared with the presenter afterwards, even if they are not read aloud. Your questions are very much appreciated.
+
+
+7
+00:01:11.710 --> 00:01:21.620
+Joanne Constantin: This presentation is being video recorded and will be made available along with the presentation slides on the tops website, tobaccopolicy.org.
+
+
+8
+00:01:22.240 --> 00:01:29.539
+Joanne Constantin: I will turn the presentation over to today's Moderator, Mike Pesco, from the University of Missouri, to introduce our speaker.
+
+
+9
+00:01:30.840 --> 00:01:51.770
+Mike Pesko: Today we continue our winter 2025, season with the single paper presentation by Irfan Lagmani, entitled Investigating the Impact of Advertising on smoking cessation. The role of direct-to-consumer prescription drug advertising. This presentation was selected via a competitive review process by submission through the tops website.
+
+
+10
+00:01:52.040 --> 00:02:20.130
+Mike Pesko: Arafan Lagmani is a quantitative marketing. Phd. Student at the University of Washington Foster School of Business. His research interests lie in understanding the effects of interventions and marketing activities with applications in online platforms and the healthcare domain. His aim is to provide policymakers and platform designers with actionable insights and tools to implement impactful and efficient interventions, leveraging methodologies from Econometrics and computer science.
+
+
+11
+00:02:20.270 --> 00:02:31.330
+Mike Pesko: Dr. Ali Goli, an assistant professor of marketing at the University of Washington, is the co-author of the study, and will answer select questions in the Q. And A. Irfan. Thank you for presenting for us today.
+
+
+12
+00:02:33.120 --> 00:02:43.539
+Erfan Loghmani: Thank you, Mike, for having me. Let me go ahead and share my slides for the beginning.
+
+
+13
+00:02:51.770 --> 00:03:00.680
+Erfan Loghmani: Hi, everyone! My name is Erfan, and today I'm going to present this work, which is a joint work with my advisor, Professor Ali Goli.
+
+
+14
+00:03:01.140 --> 00:03:10.760
+Erfan Loghmani: 1st of all, I want to thank the tops organizers for providing this opportunity and for their awesome feedbacks throughout the selection process.
+
+
+15
+00:03:11.650 --> 00:03:31.880
+Erfan Loghmani: So I know that here we have a multidisciplinary audience audience coming from different backgrounds. So whenever I'm gonna use some marketing language, I will try to explain that at my best. But but please feel free to ask any questions if something is not clear.
+
+
+16
+00:03:35.220 --> 00:03:58.729
+Erfan Loghmani: I want to start with this disclosure that basically says that for this project we don't have any fundings from public, commercial or nonprofit sectors, and both me and Ali have never got any fundings from tobacco companies or pharmaceutical companies for this project, nor in the past.
+
+
+17
+00:04:00.360 --> 00:04:11.310
+Erfan Loghmani: Today, I'm going to present 1st start with some introduction and related literature. Then I will talk about our data sources and so on.
+
+
+18
+00:04:13.440 --> 00:04:19.060
+Erfan Loghmani: So we all know that cigarette smoking is still a significant public health challenge.
+
+
+19
+00:04:19.829 --> 00:04:29.109
+Erfan Loghmani: Sadly, there is half a million annual deaths that are directly attributed to tobacco related illnesses, half a million.
+
+
+20
+00:04:29.670 --> 00:04:35.670
+Erfan Loghmani: The economic costs are also huge, with more than 200 billion dollars annually.
+
+
+21
+00:04:37.210 --> 00:04:44.369
+Erfan Loghmani: Now, through the years there have been several anti like smoking cessation products.
+
+
+22
+00:04:44.750 --> 00:04:57.340
+Erfan Loghmani: We have 7 FDA approved products, 5 of them being nicotine replacement therapies like nicotine gums and patches. We also have 2 non-nicotine prescription medication
+
+
+23
+00:04:57.958 --> 00:05:04.179
+Erfan Loghmani: one is Chantix, which is the brand name for substance, war insulin, and we have bupropion.
+
+
+24
+00:05:06.720 --> 00:05:15.820
+Erfan Loghmani: We also have another product which is electronic cigarettes, which is often used by tobacco users as a cessation.
+
+
+25
+00:05:15.980 --> 00:05:18.460
+Erfan Loghmani: a smoking cessation product.
+
+
+26
+00:05:18.630 --> 00:05:25.300
+Erfan Loghmani: However, this one is not FDA approved, so we look at it at a different category.
+
+
+27
+00:05:26.910 --> 00:05:37.220
+Erfan Loghmani: So our main goal in this research is to study, how does advertising, smoking, smoking, cessation products influence consumer behavior and cigarette sales?
+
+
+28
+00:05:38.590 --> 00:05:58.550
+Erfan Loghmani: There are extensive research in clinical domain that look at the clinical efficacy of smoking cessation products in clinical trials, for example, comparing the efficacy of different products. However, in this research. We are looking at the effects of advertising these products rather than just using them.
+
+
+29
+00:06:00.180 --> 00:06:15.780
+Erfan Loghmani: So why, we're looking at advertising to give you a bit of context from the medical literature. There is this consensus that prescription drugs are generally more effective than over the counter options.
+
+
+30
+00:06:17.230 --> 00:06:24.250
+Erfan Loghmani: But from the advertising point, because these products have different access.
+
+
+31
+00:06:24.949 --> 00:06:40.390
+Erfan Loghmani: For example, if someone wants to get the prescription drug, they should go to their doctor, get the prescription and then fill the prescription, but for over the counter options they can easily go to their local supermarkets or pharmacies to get them
+
+
+32
+00:06:41.530 --> 00:06:45.820
+Erfan Loghmani: because of this different access. That this is one
+
+
+33
+00:06:46.448 --> 00:07:00.180
+Erfan Loghmani: important thing that differentiates these products also, these products could act both as complements. For example, we can have co-prescription of Nrts and prescription drugs.
+
+
+34
+00:07:00.320 --> 00:07:04.640
+Erfan Loghmani: or they can play roles as substitutes
+
+
+35
+00:07:04.750 --> 00:07:12.690
+Erfan Loghmani: when consumers opt for more easier accessible options that are nrts. Instead of going to get the prescriptions
+
+
+36
+00:07:13.490 --> 00:07:25.220
+Erfan Loghmani: because of these spillover substitution and complementary effects. This is a complex situation that we want to study further in this project.
+
+
+37
+00:07:27.010 --> 00:07:33.789
+Erfan Loghmani: I want to now give you some examples of what could be the effects of different advertising
+
+
+38
+00:07:33.850 --> 00:07:57.020
+Erfan Loghmani: so direct to consumer advertising for prescription drugs can reduce the cigarettes consumption for people who can access through prescriptions, however, for because of barriers like not having good insurance coverage or prescription requirements, it can push consumers to go for more easier accessible products.
+
+
+39
+00:07:58.210 --> 00:08:11.479
+Erfan Loghmani: On the other hand, advertising for Nrts. While they are promoting one type of cessation aid, it might reduce the likelihood of seeking more effective prescription options
+
+
+40
+00:08:13.180 --> 00:08:21.830
+Erfan Loghmani: in this research. Our main research question is, how does advertising for various smoking cessation products affects consumer demand?
+
+
+41
+00:08:23.440 --> 00:08:28.339
+Erfan Loghmani: We find that direct to consumer advertising of prescription drugs is
+
+
+42
+00:08:28.530 --> 00:08:31.950
+Erfan Loghmani: actually the most effective in reducing cigarette sales.
+
+
+43
+00:08:32.169 --> 00:08:40.329
+Erfan Loghmani: and we find various spillover effects beyond the advertised product that I will talk about more throughout the talk.
+
+
+44
+00:08:41.870 --> 00:08:48.079
+Erfan Loghmani: Our next question is, what is the role of insurance coverage on this advertising effectiveness?
+
+
+45
+00:08:49.050 --> 00:09:04.150
+Erfan Loghmani: Our approach to answer these questions is to combine claims, retails and advertising and data. So we basically have lots of data sources that I will talk about from a long period for 2,011 to 2,019.
+
+
+46
+00:09:06.060 --> 00:09:27.490
+Erfan Loghmani: Before starting, I want to talk about different categories of products that we're gonna look at. We have cigarettes that are traditional, combustible cigarettes. We have electronic nicotine delivery systems which are electronic cigarettes, vapes or cartridges.
+
+
+47
+00:09:28.100 --> 00:09:35.630
+Erfan Loghmani: We have nicotine replacement therapies and prescription drugs which we have these 2 forms of prescription drugs.
+
+
+48
+00:09:36.440 --> 00:09:42.360
+Erfan Loghmani: Now, I want to also talk and highlight which one of these categories can advertise.
+
+
+49
+00:09:42.470 --> 00:09:54.940
+Erfan Loghmani: We know that from Ban in 1971 cigarettes cannot advertise, but other products can legally are allowed to advertise on television.
+
+
+50
+00:09:56.410 --> 00:10:01.300
+Erfan Loghmani: And we are, gonna look at the advertising for these categories.
+
+
+51
+00:10:03.560 --> 00:10:23.449
+Erfan Loghmani: This is how our research connects to previously research. It is just an illustrative list of literature. There are lots of studies. Our research directly connects to tobacco marketing direct to consumer advertising and advertising spillover effects
+
+
+52
+00:10:23.630 --> 00:10:45.139
+Erfan Loghmani: in the tobacco marketing. There are previous research that look at the effect of certain types of advertising. For example, this one looks at Nrt. Advertising and public service announcements in magazines. And one other one is this paper that focuses on e-cigarette advertising.
+
+
+53
+00:10:45.680 --> 00:10:53.480
+Erfan Loghmani: In this project we are gonna take a more comprehensive approach by looking at different categories of products.
+
+
+54
+00:10:53.930 --> 00:11:00.590
+Erfan Loghmani: Next, our research connects to direct consumer advertising for prescription drugs.
+
+
+55
+00:11:00.760 --> 00:11:11.939
+Erfan Loghmani: While there are research that shows the effect of these advertising and different consumer behavior and healthcare outcomes like adherence to drugs.
+
+
+56
+00:11:12.190 --> 00:11:21.870
+Erfan Loghmani: Our research, looking at this specific category with both over the counter options and prescription drugs adds
+
+
+57
+00:11:22.407 --> 00:11:28.990
+Erfan Loghmani: to this domain by looking at this certain situation where we have both types of things.
+
+
+58
+00:11:29.540 --> 00:11:38.409
+Erfan Loghmani: And lastly, our research connects to advertising spillover effects by looking at this domain with its specific characteristics.
+
+
+59
+00:11:40.720 --> 00:11:47.640
+Erfan Loghmani: It's this introduction and related literature. I want to now go and talk about our data.
+
+
+60
+00:11:49.240 --> 00:11:58.549
+Erfan Loghmani: We use a data for 9 years from 2,011 to 2,019. And these are the lists of our data sources.
+
+
+61
+00:11:58.930 --> 00:12:05.200
+Erfan Loghmani: Basically, we have a data on advertising, detailing retail sales, claims and insurance coverage
+
+
+62
+00:12:06.960 --> 00:12:15.180
+Erfan Loghmani: with the advertising data being the heart of our project. I want to take more time and describe what this data look like.
+
+
+63
+00:12:15.430 --> 00:12:29.709
+Erfan Loghmani: So, for example, you're sitting and watching your television, and you're watching a new news channel. And you see one advertising for certain brand. So this is we call an advertising occurrence.
+
+
+64
+00:12:30.670 --> 00:12:39.652
+Erfan Loghmani: and also in the United States there are 210 geographic areas which are called designated market areas which
+
+
+65
+00:12:40.580 --> 00:12:55.090
+Erfan Loghmani: can show different advertising. And our data is at has impressions at these Dma levels. Out of the 210 there are 131 of them that have full
+
+
+66
+00:12:56.150 --> 00:13:04.619
+Erfan Loghmani: list of the occurrences. So they are a less noisy sample that we are gonna focus on these.
+
+
+67
+00:13:05.800 --> 00:13:11.100
+Erfan Loghmani: And basically we have impression estimates at the occurrence. Dma level.
+
+
+68
+00:13:12.820 --> 00:13:25.750
+Erfan Loghmani: Let me talk also about the advertisers. Side advertisers can either purchase ads at the national level, or more narrowly at the local level, which is called the spot.
+
+
+69
+00:13:26.780 --> 00:13:33.930
+Erfan Loghmani: So while I'm here with the map, I want to get ahead of myself and talk a little bit about it.
+
+
+70
+00:13:34.030 --> 00:13:37.629
+Erfan Loghmani: our empirical identification approach.
+
+
+71
+00:13:37.850 --> 00:14:05.016
+Erfan Loghmani: So there are 2 forms of identification. One is the border method strategy, which is which looks at the bordering areas of the Dmas. The assumption there is that looking at the counties at the border, the things in the 2 side of the border should be the same. And the only thing that's different is the advertising exposure. So it focuses on that and
+
+
+72
+00:14:06.460 --> 00:14:09.905
+Erfan Loghmani: takes that for cause. I
+
+
+73
+00:14:10.760 --> 00:14:11.910
+Erfan Loghmani: And friends.
+
+
+74
+00:14:12.210 --> 00:14:24.310
+Erfan Loghmani: However, this method of using only the border areas, it will capture local average treatment effects. There is also another way which uses the whole
+
+
+75
+00:14:24.460 --> 00:14:41.800
+Erfan Loghmani: Dmas and uses fixed effects to absorb the effect of compounds. In this research we have both of the results, but we are going to use the second one, which has all of the areas as our main results.
+
+
+76
+00:14:43.180 --> 00:15:04.400
+Erfan Loghmani: So our advertising data, as I said, is at our current Dma level, and we aggregate this to get a measure which is called gross rating points, which is basically the share of the Dmas the share of the households that have watched certain category of advertisement.
+
+
+77
+00:15:05.420 --> 00:15:24.340
+Erfan Loghmani: This table shows some summary statistics of our advertising data. I want to highlight that prescription drugs is one of the major players in this area that has the highest advertising. Then we have Nrts and Psas and e-cigarettes.
+
+
+78
+00:15:24.580 --> 00:15:32.280
+Erfan Loghmani: So this table again shows the importance of prescription drug, which is often not studied in the literature.
+
+
+79
+00:15:34.480 --> 00:15:38.669
+Erfan Loghmani: Let's talk about our retail and healthcare outcomes real quick.
+
+
+80
+00:15:39.486 --> 00:15:44.490
+Erfan Loghmani: We also, we are looking for retail data
+
+
+81
+00:15:45.555 --> 00:15:49.999
+Erfan Loghmani: which comes from Nielsen retail measurement service.
+
+
+82
+00:15:50.270 --> 00:16:03.519
+Erfan Loghmani: This data has prices, quantity sold feature and display at the Upc week level. So these are some marketing language. So the Upc is basically an identifier for each product.
+
+
+83
+00:16:03.750 --> 00:16:18.056
+Erfan Loghmani: The feature is whether the product have been have run an advertising in the local store outlets or flyers, and the display is basically whether the product is featured in certain
+
+
+84
+00:16:18.780 --> 00:16:24.200
+Erfan Loghmani: special places in the store to grab more eye attention.
+
+
+85
+00:16:25.966 --> 00:16:34.900
+Erfan Loghmani: From this data we're gonna look at 3 categories which are cigarette sales, e-cigarette sales and over the counter energy sales
+
+
+86
+00:16:36.070 --> 00:16:47.699
+Erfan Loghmani: for the healthcare outcomes. We use meritive marked scan data which has individual level medical records on prescribed medicine and outpatient visits.
+
+
+87
+00:16:48.320 --> 00:16:54.870
+Erfan Loghmani: This data is aggregated at Msa level, so we should align it with our Dma level data.
+
+
+88
+00:16:54.980 --> 00:17:05.820
+Erfan Loghmani: And for this data we have. We look at the number of prescriptions and the number of outpatient visits for mental health and substance abuse.
+
+
+89
+00:17:07.260 --> 00:17:15.810
+Erfan Loghmani: But this introduction and data. I think it is a good time to pause and see if there are any questions that I can answer.
+
+
+90
+00:17:17.280 --> 00:17:39.980
+Mike Pesko: Hey? Thank you so much for a very interesting presentation so far. Audience members, if you have questions, please place those questions in the Q. And a panel, and we'll get to those momentarily. But 1st I'll turn it over to our discussant today. Our discussant is Dr. Jim Flynn, a health economist and an assistant Professor of Economics at Miami University, in Oxford, Ohio.
+
+
+91
+00:17:42.290 --> 00:17:45.194
+James Flynn: Yeah. Thanks. Thanks, Mike. So
+
+
+92
+00:17:45.740 --> 00:17:52.059
+James Flynn: I think I want to just start by spending a moment just kind of gushing about how much I like this paper. I think
+
+
+93
+00:17:52.230 --> 00:18:19.049
+James Flynn: I also just want to say, like, how much I appreciate getting the chance to be here and talk about it. So this is a really welcome analysis to this literature that makes a number of, I think, really important contributions. I think you do a good job of claiming a lot of those contributions. I think there's actually some room for you to maybe be a little bit more forceful in claiming about some of the other ones that I think I'll talk a little bit more about that after results as we get into them a little bit more. But
+
+
+94
+00:18:19.050 --> 00:18:40.959
+James Flynn: this is a really interesting paper that addresses this gap right in how to get people one aware of and actually to engage with and use prescription drugs. There's this disconnect between getting phase 3 clinical trials done and getting drugs approved, and then actually getting them to become mainstream part of people's lives, something that
+
+
+95
+00:18:40.960 --> 00:19:00.230
+James Flynn: that people engage with and use on a regular basis. And this paper really shows that there's this important channel for direct to consumer advertising to play. I think I will admit to coming in to reading this paper with a fair degree of skepticism about the how good direct to consumer advertising for pharmaceuticals is.
+
+
+96
+00:19:00.230 --> 00:19:26.009
+James Flynn: but this, I think, substantially moved my priors sort of in that direction to show that there is a real benefit in using it. To let consumers know about this great option that has the potential to really improve people's lives. Also, you leverage this just amazing preponderance of data from all of these different sources to really like fully trace out the impacts of direct consumer advertising
+
+
+97
+00:19:26.050 --> 00:19:36.909
+James Flynn: in this market. That's that's all just really interesting. So I think, just overall. I really really appreciate the detail and the rigor with which you've conducted this analysis.
+
+
+98
+00:19:37.070 --> 00:20:05.300
+James Flynn: I think, in reading the paper, probably my biggest concern or biggest question is thinking about the potential endogeneity of ad placements. And I know it's actually the next slide. I realize that I think you're going to talk about it. But I think the the biggest question that I'd like to get you to. Maybe chat about a little bit more is what? What, if anything, do we know about how advertisers are making the decisions of where to place ads. Right? You definitely address the possibility of
+
+
+99
+00:20:05.350 --> 00:20:17.669
+James Flynn: this endogeneity. And also, I think you have this other border strategy which is great. But that's that's the question that I just, I have no idea about right like, how do? How do these people? How do the advertisers make these kinds of decisions. And what? What, if anything, do we know about it?
+
+
+100
+00:20:18.410 --> 00:20:45.639
+Erfan Loghmani: That's a very good question that I'm gonna talk about more in the upcoming slides. But basically, to give some points. 1st of all, most of the advertising decisions are made in an upfront market which advertisers could basically purchase their ads for the year upfront, which takes about 80% of the advertising.
+
+
+101
+00:20:45.760 --> 00:20:57.179
+Erfan Loghmani: So in this sense, they have very limited targeting capabilities like they should do decisions early on in the year.
+
+
+102
+00:20:57.560 --> 00:21:05.449
+Erfan Loghmani: and the rest is sold throughout the scatter market, which usually comes at the higher price.
+
+
+103
+00:21:06.120 --> 00:21:08.819
+Erfan Loghmani: I'm not sure but there.
+
+
+104
+00:21:09.553 --> 00:21:19.469
+Erfan Loghmani: it's good to maybe show the slides while we are here, and because most of the decisions are either taken annually and quarterly.
+
+
+105
+00:21:19.640 --> 00:21:29.410
+Erfan Loghmani: and we have fixed effects that take out the annual decisions like
+
+
+106
+00:21:30.584 --> 00:21:34.920
+Erfan Loghmani: out. We think that we are accounting for most of this.
+
+
+107
+00:21:35.450 --> 00:21:38.290
+Erfan Loghmani: Now that I'm here. I also had the
+
+
+108
+00:21:38.812 --> 00:21:48.240
+Erfan Loghmani: background like an appendix to talk about this more, I think it's maybe a good time to also talk about this.
+
+
+109
+00:21:48.880 --> 00:21:56.050
+Erfan Loghmani: So basically, the cancer is if sorry
+
+
+110
+00:21:57.460 --> 00:22:13.379
+Erfan Loghmani: if we have some endogeneity happening one thing to show, that is that we could have correlation between different forms of advertising. This is, in fact, seen in our data that
+
+
+111
+00:22:14.035 --> 00:22:25.200
+Erfan Loghmani: Nrt and chantics advertising are correlated. However, when we apply our fixed effect, we see that this correlation goes away. So this is
+
+
+112
+00:22:25.670 --> 00:22:41.089
+Erfan Loghmani: here we are looking at a yearly Dma correlation between these types of ads, and we are plotting the distribution which at the beginning shows a positive correlation. But with the fixed effects we can take out most of the compound.
+
+
+113
+00:22:41.090 --> 00:22:49.399
+Ali Goli: Can I add something this year to to James James Point? I think, James, absolutely. You're right. There is a there is a concern that. Can you go back to the figure?
+
+
+114
+00:22:49.630 --> 00:23:12.120
+Ali Goli: There's a concern that you know there's endogeneity going on. You have some form of targeting, and obviously they do target. Most of the targeting is based on predictable seasonal patterns. I can advertise a little bit more earlier in January rather than January of 2019 versus January of 2018. There's those week of the year fixed effect that take that up.
+
+
+115
+00:23:12.120 --> 00:23:19.680
+Ali Goli: Now to show evidence that these folks are actually smart. There are 2 players that you know advertise a lot. There's Nrts, and there's Shantix.
+
+
+116
+00:23:19.680 --> 00:23:44.449
+Ali Goli: If you actually do the correlation between advertising at Dma year level of Shantix. And then, artist, that gives you the left figure. It seems like they are going for those demand shocks, and you get a positive correlation. Now, if you take the residual variation that largely moves away. And you're using week to week variation exposure to advertising. So I think that's the argument that their fund is making here.
+
+
+117
+00:23:46.860 --> 00:23:50.560
+James Flynn: Yeah, thanks. That. That's that's really helpful. Yeah. And I do think, right, you you
+
+
+118
+00:23:50.850 --> 00:24:00.819
+James Flynn: utilize like a lot of approaches in your data to to get around this as much as you can. Yeah, I think that that is the biggest, the biggest thing I kept thinking about coming back. But I do think you do a great job.
+
+
+119
+00:24:01.310 --> 00:24:17.259
+James Flynn: Looking into that I have. I don't know if you want to get to. If there's audience questions. I have a couple more like smaller, not Nitpicky, I think more just like things that struck me as interesting pieces. But I don't know if you want to get some some audience questions.
+
+
+120
+00:24:19.510 --> 00:24:25.307
+Mike Pesko: So maybe we can. Maybe we can move on in. Let's save some of the questions, for maybe the next segment
+
+
+121
+00:24:25.560 --> 00:24:26.130
+James Flynn: That's great!
+
+
+122
+00:24:26.130 --> 00:24:37.000
+Mike Pesko: So your co-author. Ali has been doing a great job answering QA. Questions. I think that we will leave QA. Alone, for now, and you can move on with your presentation.
+
+
+123
+00:24:37.180 --> 00:24:43.838
+Erfan Loghmani: Okay, yeah. And one other thing I want to add to the James.
+
+
+124
+00:24:44.570 --> 00:25:12.919
+Erfan Loghmani: comments like, you said that finding that direct consumer advertising is effective was interesting. That was also our story. And during the research we started with looking at the effect of public service announcements. But then, when analyzing the data, we found that actually, this direct consumer advertising for prescription drugs are the most effective. So that was a bit of the story behind the project.
+
+
+125
+00:25:13.430 --> 00:25:30.759
+Erfan Loghmani: Now I will. I want to continue the presentation with talking about our empirical approach. We already talked about this a little so we're gonna use the geographic variation in occurrences and impression of ads
+
+
+126
+00:25:30.970 --> 00:25:33.199
+Erfan Loghmani: to estimate the causal effects.
+
+
+127
+00:25:33.750 --> 00:25:53.089
+Erfan Loghmani: And, as James mentioned, there are endogeneity concerns, firms can advertise more in markets where they expect more lift like a lift, is a measure of effectiveness of the advertising, and there could be also spurious correlations like with a seasonality.
+
+
+128
+00:25:53.280 --> 00:26:01.441
+Erfan Loghmani: or like certain times that could go into our estimates that we should be aware of and
+
+
+129
+00:26:01.990 --> 00:26:12.699
+Erfan Loghmani: handled them so the our identification uses this course target targeting that I already talked about.
+
+
+130
+00:26:13.140 --> 00:26:22.730
+Erfan Loghmani: We also have use. The sampling frequency or data is aggregated at the weekly level, but
+
+
+131
+00:26:23.220 --> 00:26:29.609
+Erfan Loghmani: the decisions are made annually or quarterly. So this is another
+
+
+132
+00:26:30.640 --> 00:26:38.980
+Erfan Loghmani: place, because, having a more sampling frequency than when the decisions are made, we can use this variation.
+
+
+133
+00:26:40.040 --> 00:26:44.730
+Erfan Loghmani: and, lastly, we have high dimensional fixed effects to absorb the effect of compounds.
+
+
+134
+00:26:46.130 --> 00:26:53.510
+Erfan Loghmani: As I said, we have a robustness, checks of it, using different method, which is the border method strategy.
+
+
+135
+00:26:54.080 --> 00:27:02.449
+Erfan Loghmani: And when applicable, we use placebo regressions to show that the effects are actually limited to our relevant outcomes.
+
+
+136
+00:27:06.030 --> 00:27:09.389
+Erfan Loghmani: So here is our estimation specification.
+
+
+137
+00:27:09.920 --> 00:27:19.889
+Erfan Loghmani: On the left we have our outcome of interest, which for the healthcare outcomes it could be the number of prescriptions or number of visits
+
+
+138
+00:27:20.910 --> 00:27:34.450
+Erfan Loghmani: underwrite for advertising. We are using this measure, which is a long run measure of ad exposure that discounts the earlier times with this exponential
+
+
+139
+00:27:34.620 --> 00:27:36.260
+Erfan Loghmani: decay.
+
+
+140
+00:27:37.170 --> 00:27:40.300
+Erfan Loghmani: Oh, multiplier!
+
+
+141
+00:27:40.820 --> 00:27:44.679
+Erfan Loghmani: And we are using the Grps to wait the pastimes.
+
+
+142
+00:27:45.070 --> 00:27:53.032
+Erfan Loghmani: And we also have fixed effects. We have market here fixed effects to account for
+
+
+143
+00:27:54.160 --> 00:28:03.109
+Erfan Loghmani: differences through the market years, and we have fixed a fix to account for seasonality and general trends as well.
+
+
+144
+00:28:05.300 --> 00:28:09.459
+Erfan Loghmani: So let's go ahead and talk about the results.
+
+
+145
+00:28:09.990 --> 00:28:17.400
+Erfan Loghmani: Because, in our healthcare data, we have 15% of observations being 0.
+
+
+146
+00:28:17.830 --> 00:28:20.239
+Erfan Loghmani: And maybe the live log or
+
+
+147
+00:28:20.690 --> 00:28:29.030
+Erfan Loghmani: method might have challenges. With the zeros we also show pass on results here.
+
+
+148
+00:28:29.340 --> 00:28:35.260
+Erfan Loghmani: So this table shows the effect of advertising and prescription drugs demand.
+
+
+149
+00:28:35.810 --> 00:28:37.990
+Erfan Loghmani: We see that an
+
+
+150
+00:28:38.300 --> 00:28:48.300
+Erfan Loghmani: the roles we have coefficients for each type of advertising, and we on the left. We have the effects on war insulin. And the propion.
+
+
+151
+00:28:49.040 --> 00:28:55.919
+Erfan Loghmani: Again, I want to remind that where insulin is a substance, name for chantic soap.
+
+
+152
+00:28:56.090 --> 00:29:02.150
+Erfan Loghmani: Here we have decided the direct effect of chantix advertising on Warrensalin
+
+
+153
+00:29:02.807 --> 00:29:14.019
+Erfan Loghmani: is positive and significant. It shows that we have this significant direct effect. We also see category expansion of chantics, ads to other
+
+
+154
+00:29:14.991 --> 00:29:17.939
+Erfan Loghmani: prescription drugs, which here is bupropion.
+
+
+155
+00:29:18.430 --> 00:29:27.249
+Erfan Loghmani: One other thing that we observe from this table is that nicotine replacement, therapy advertising actually reduces
+
+
+156
+00:29:28.110 --> 00:29:34.859
+Erfan Loghmani: prescription drugs use which could be more effective as I talked about earlier.
+
+
+157
+00:29:40.870 --> 00:29:46.020
+Erfan Loghmani: We also look at the effect of advertising on office visits
+
+
+158
+00:29:46.450 --> 00:29:57.430
+Erfan Loghmani: here. We see that chantics ads are also affecting office visits that are not directly tied with a prescription.
+
+
+159
+00:29:57.640 --> 00:30:04.979
+Erfan Loghmani: So we are taking out the visits that have one prescription immediately after them. So these are the effects like.
+
+
+160
+00:30:05.090 --> 00:30:12.919
+Erfan Loghmani: just by seeing that if I'm more likely to visit a doctor or not.
+
+
+161
+00:30:14.970 --> 00:30:22.110
+Erfan Loghmani: and we see that these ads actually encourage individuals to seek professional healthcare support.
+
+
+162
+00:30:22.610 --> 00:30:33.540
+Erfan Loghmani: We also have some placebo results that only looks at emergency visits for mental health and substance abuse, which shows that the effects are not
+
+
+163
+00:30:34.280 --> 00:30:42.079
+Erfan Loghmani: significant there. Which again, shows that our results are only related to the relevant outcomes
+
+
+164
+00:30:43.730 --> 00:30:50.450
+Erfan Loghmani: moving on to our retail sales specification. We have basically the same
+
+
+165
+00:30:51.130 --> 00:30:58.489
+Erfan Loghmani: thing. But we are adding, the prices and other marketing variables as controls here.
+
+
+166
+00:30:59.870 --> 00:31:05.700
+Erfan Loghmani: This table shows the results on our retail data.
+
+
+167
+00:31:06.120 --> 00:31:12.049
+Erfan Loghmani: We see that Chantic's ads show clear evidence of producing cigarette sales
+
+
+168
+00:31:12.850 --> 00:31:17.500
+Erfan Loghmani: and basically other forms of ads are not as much effective.
+
+
+169
+00:31:18.880 --> 00:31:23.343
+Erfan Loghmani: We also see that e-cigarettes play an important role with
+
+
+170
+00:31:23.960 --> 00:31:37.430
+Erfan Loghmani: Chantics, advertising and public service announcements increasing the usage of cigarettes, which shows that probably tobacco users see e-cigarettes as an alternative
+
+
+171
+00:31:37.800 --> 00:31:42.839
+Erfan Loghmani: when they want or to seek, then they seek to quit.
+
+
+172
+00:31:44.450 --> 00:31:49.260
+Erfan Loghmani: Lastly, for the over the counter Nrts, we see near 0 effect.
+
+
+173
+00:31:50.200 --> 00:31:56.100
+Erfan Loghmani: however, in the earlier results we see that nrts and chantics could play
+
+
+174
+00:31:56.430 --> 00:32:01.120
+Erfan Loghmani: substitutional effects between each other.
+
+
+175
+00:32:01.560 --> 00:32:14.120
+Erfan Loghmani: However, here this substitution effect could be lower, because we could also have category expansion for individuals that don't have insurance access.
+
+
+176
+00:32:15.850 --> 00:32:21.600
+Erfan Loghmani: which I will talk about more and show more evidence of this in the upcoming slides.
+
+
+177
+00:32:23.160 --> 00:32:26.730
+Erfan Loghmani: So up to now I talked about our main
+
+
+178
+00:32:26.890 --> 00:32:39.800
+Erfan Loghmani: results that are direct effects of advertising. Next, I want to talk about the role of insurance, but I think here is also a good place to ask for questions.
+
+
+179
+00:32:41.800 --> 00:32:47.970
+Mike Pesko: That's great. So yeah, again, I'll turn it over to our discussant Jim Flynn.
+
+
+180
+00:32:52.325 --> 00:32:54.575
+James Flynn: Yeah, great thank you. So
+
+
+181
+00:32:55.060 --> 00:33:11.170
+James Flynn: this is kind of what I was alluding to the last time. So I actually. So you. You mentioned a number of great contributions that you're making here to me. I think one of the most interesting ones is that you're actually you're showing real evidence that Shantix is
+
+
+182
+00:33:11.170 --> 00:33:33.120
+James Flynn: very successful in real world applications. Right? So we know that it's really good in clinical trials like it passed those with flying colors, and that's great. But there's this huge cry between is a drug useful in a clinical trial setting where it's closely monitored, where people are getting reminders versus when people are actually getting it and purchasing it and taking it in the real world.
+
+
+183
+00:33:33.410 --> 00:33:50.839
+James Flynn: And and this is showing like, so I do the quick like, if we're thinking about making like an Iv estimate here, like scaling the reduced form. By the by, the 1st stage, you're getting an estimate of like a 40% reduction here in cigarette purchases, which is which is huge. That's saying that this drug is incredibly effective.
+
+
+184
+00:33:50.850 --> 00:34:19.209
+James Flynn: And I think that's an important contribution that you're making, and I think you describe it. You're talking about it. But I think it's actually up there with one of the more important things that's coming out of this. You're really showing that in the real world, when people are induced into using this drug, it makes a big difference in their outcomes. And that's really encouraging to me as someone who cares about this. But also I think it's important, and maybe worth highlighting a little bit more aggressively in
+
+
+185
+00:34:19.239 --> 00:34:42.220
+James Flynn: in the paper. So yeah, I think I also think it's worth exploring the dynamics of that. A little bit more like that actually might even be another paper to write on top of this is sort of understanding how and why, and exactly like in what settings the drug is so effective. Because I think you have the data to be able to do that and to have it be pretty well causally identified. Because of this. You know this strategy that you're using.
+
+
+186
+00:34:42.581 --> 00:35:00.289
+James Flynn: So I think that's really cool. I have 2, I guess more more minor suggestions. And this maybe depends on where you are planning to planning to submit it like, if this was to a Health economics journal, I wouldn't suggest leading with, like the log X plus one
+
+
+187
+00:35:00.300 --> 00:35:18.139
+James Flynn: specifications, as I think those are going to receive a lot of pushback from economists. I don't know where you're planning to and what the norms are in that literature. It makes perfect sense. Why, you're choosing to use it right? You have. You have a lot of zeros. You want to have this kind of elasticity interpretation. So I get
+
+
+188
+00:35:18.150 --> 00:35:46.989
+James Flynn: I get using it. I'd suggest either leading with the Poisson, or possibly, you know, trying another one of these transformations, like the inverse hyperbolic sign, or or even square root that tried to do some of the similar things that don't explicitly do that. But that's sort of for you to decide, and what where you're sending it to. And then in thinking about, in thinking about office visits. One thing, it makes sense. Your strategy of
+
+
+189
+00:35:47.150 --> 00:36:08.799
+James Flynn: excluding everyone who has. Who's ever going to use chantics to try and get an idea of other office visits. My concern with that is how correlated that might be with opioid visits which are spiking sort of throughout this period, and so I think in some way to try to try to address that potential elephant in the room, I think would be would be really valuable.
+
+
+190
+00:36:10.113 --> 00:36:11.060
+Erfan Loghmani: Got it?
+
+
+191
+00:36:11.270 --> 00:36:19.860
+Erfan Loghmani: Yeah, to talk about the points you mentioned. 1st of all, I also personally like this thing that
+
+
+192
+00:36:19.980 --> 00:36:42.119
+Erfan Loghmani: the prescription drugs are effective. And, as you said, like this shows the effectiveness of going and having some more support. Because when you go and get some nrts, then you're on your own. And maybe that's the reason why we're not getting more significant effects on that.
+
+
+193
+00:36:42.590 --> 00:36:44.420
+Erfan Loghmani: Yeah, about the log log
+
+
+194
+00:36:44.934 --> 00:37:12.130
+Erfan Loghmani: specification. That's also one thing we faced in our revisions. And as you say, there are problems with the log log and in areas with where we have lots of zeros. So that's why we also put pause on for our earlier results. But actually in our results and the retail sales, because it's at the store level, and we have a very limited
+
+
+195
+00:37:12.290 --> 00:37:19.209
+Erfan Loghmani: zeros we're using the log log which gives us the elasticity.
+
+
+196
+00:37:20.900 --> 00:37:31.119
+Erfan Loghmani: But that was a good one that, as I said we're also working on in our revisions.
+
+
+197
+00:37:31.817 --> 00:37:36.690
+Erfan Loghmani: So let me understand your concern about the Opioid
+
+
+198
+00:37:37.330 --> 00:37:49.570
+Erfan Loghmani: one. So you're thinking that chance advertise, things are also increasing the opioid visits. And we're somehow capturing. That is that correct?
+
+
+199
+00:37:49.890 --> 00:38:08.370
+James Flynn: No, I'm much more worried about it as a confounder, I mean one, I think if we just looked at the raw correlation between where smoking addiction is a problem, and where the opioid crisis has hit harder, there's going to be some correlation there. So the areas that are being advertised to
+
+
+200
+00:38:08.380 --> 00:38:24.780
+James Flynn: by Shantix are also probably ones that are being hit by the opioid crisis. And so something you might be picking that up. I'm not exactly sure how to address that, but I think it merits some discussion, just because I think how much
+
+
+201
+00:38:24.900 --> 00:38:52.509
+James Flynn: visits for Opioid are probably like spiking throughout this period. I think at least some discussion in some way to maybe try to control or or different. I could be wrong about that prior thinking that there's going to be this correlation there, but I do think that some mention some addressing of it, or maybe some some way to control, for the levels of opioid abuse taking place in these different, you know. Marketing areas, I think, is probably worthwhile.
+
+
+202
+00:38:53.250 --> 00:38:56.990
+Erfan Loghmani: I see. Yeah, that's a very good suggestion, I would say.
+
+
+203
+00:38:57.110 --> 00:39:18.290
+Erfan Loghmani: Perhaps some of those would go into our market here. But still I'm also interested in the opioid area, and I should I will take a note to look at that data and see whether there are correlations that still could go into our specification.
+
+
+204
+00:39:18.290 --> 00:39:43.120
+Ali Goli: I think your placebo on emergency visits a little bit, speaks to that. If there is worry that you know generally occurrence of substance, abuse is higher in some certain area that would co-move very well with emergency visits in general. Right? So you don't get any effects there. So I think a little. It's I think you have to investigate this directly head on. But
+
+
+205
+00:39:43.120 --> 00:39:51.430
+Ali Goli: but emergency visits have a good relationship with underlying issues in different geographic areas, and you don't get that. And it's for
+
+
+206
+00:39:51.500 --> 00:39:56.889
+Ali Goli: planned office visits that you get the effect so that a little bit speaks to that doesn't fully address it.
+
+
+207
+00:39:57.210 --> 00:39:58.599
+James Flynn: No, no, that's a great point.
+
+
+208
+00:39:58.600 --> 00:39:59.280
+Ali Goli: Yeah.
+
+
+209
+00:40:00.010 --> 00:40:03.370
+Erfan Loghmani: Yeah, that was very good time. Because perhaps opioid
+
+
+210
+00:40:03.510 --> 00:40:07.050
+Erfan Loghmani: problems are also related to the emergency
+
+
+211
+00:40:07.540 --> 00:40:18.960
+Erfan Loghmani: visit. Thank you, Ali. And but I think the suggestion to put more discussion in paper is also a good one to answer these questions before.
+
+
+212
+00:40:19.920 --> 00:40:21.590
+Erfan Loghmani: Thank you. Thanks.
+
+
+213
+00:40:24.150 --> 00:40:27.249
+Erfan Loghmani: Any other questions, or should I move on.
+
+
+214
+00:40:28.337 --> 00:40:40.830
+Mike Pesko: I, I think that. Yeah, I think that it's it's okay to move on at this point. And people can keep adding questions in the Q&A. your co-author is doing a great job of answering those. Thank you.
+
+
+215
+00:40:44.790 --> 00:40:45.760
+Erfan Loghmani: So
+
+
+216
+00:40:46.230 --> 00:41:05.560
+Erfan Loghmani: our takeaways. So far, we saw that direct consumer advertising for prescription drugs has effects both on retail sales of cigarettes, e-cigarettes, and Nrts, and we also observed effects on prescription, drug use and office visits.
+
+
+217
+00:41:05.990 --> 00:41:18.439
+Erfan Loghmani: So the next question is, how much does the usability of access or access barriers to this like prescription, drugs or office visits affect the effectiveness
+
+
+218
+00:41:18.630 --> 00:41:20.349
+Erfan Loghmani: of advertising.
+
+
+219
+00:41:21.140 --> 00:41:33.109
+Erfan Loghmani: So it was very good if we had a variation in our data here so that we can see the effects across different populations with a variation in their access.
+
+
+220
+00:41:33.550 --> 00:41:45.259
+Erfan Loghmani: However, because our insurance coverage data comes from meritive, which basically has data for only the individuals who have insurance access. We cannot
+
+
+221
+00:41:45.390 --> 00:41:48.570
+Erfan Loghmani: address that in our
+
+
+222
+00:41:48.750 --> 00:42:06.649
+Erfan Loghmani: healthcare. Data. However, we look at our retail sales data and look at the geographic differences in insurance access to see effects on how does insurance access plays role in this area?
+
+
+223
+00:42:08.930 --> 00:42:21.370
+Erfan Loghmani: So as I said, we're gonna use the geographic variation on insurance coverage. And we use public use micro data sample to get a yearly estimates of this.
+
+
+224
+00:42:22.020 --> 00:42:34.160
+Erfan Loghmani: So we create estimates for the access level to our insulin through and through insurance. And we also construct other demographic variables.
+
+
+225
+00:42:36.290 --> 00:42:38.670
+Erfan Loghmani: So our specification
+
+
+226
+00:42:38.810 --> 00:42:53.081
+Erfan Loghmani: would look like this where we are interacting our chantics advertising coefficient with these like z scored values of these other estimates which
+
+
+227
+00:42:54.480 --> 00:43:03.375
+Erfan Loghmani: have for we have interactions with coverage. Also, provider per capita like how easy is to
+
+
+228
+00:43:03.980 --> 00:43:12.089
+Erfan Loghmani: to measure how easy is to get to it. Provider. And we also have these other demographic variables.
+
+
+229
+00:43:13.430 --> 00:43:19.490
+Erfan Loghmani: So these are our results for this heterogeneous effect.
+
+
+230
+00:43:20.750 --> 00:43:22.272
+Erfan Loghmani: We see that
+
+
+231
+00:43:22.970 --> 00:43:39.609
+Erfan Loghmani: chantics advertising has more effects on reducing cigarette sales in areas that have better coverage. And it's easier to go and see the doctor, because there are more providers per capita.
+
+
+232
+00:43:40.860 --> 00:43:45.033
+Erfan Loghmani: So this shows that insurance and usability
+
+
+233
+00:43:45.740 --> 00:43:51.259
+Erfan Loghmani: being easier to access the provider is, in fact, playing a role.
+
+
+234
+00:43:51.780 --> 00:43:59.839
+Erfan Loghmani: We also see that in areas with more insurance coverage, the spillover to Nrts is lower.
+
+
+235
+00:44:01.610 --> 00:44:09.950
+Erfan Loghmani: and we see that this is, in fact true for both e-cigarettes and over the counter options.
+
+
+236
+00:44:11.230 --> 00:44:12.270
+Erfan Loghmani: Oh.
+
+
+237
+00:44:12.410 --> 00:44:34.009
+Erfan Loghmani: now I want to show this story, which this result show that perhaps the users, when they're faced with Chantics advertising that encourages them to go and get the prescriptions they are like. No, no, we can go and get more easily available over the counter options.
+
+
+238
+00:44:34.700 --> 00:44:35.780
+Erfan Loghmani: Oh.
+
+
+239
+00:44:36.570 --> 00:44:51.279
+Erfan Loghmani: so perhaps it could be this story here. But basically this results show that we, while the over the counter. Nrt, coefficient. The base is 0. This difference in geographic
+
+
+240
+00:44:51.420 --> 00:44:58.720
+Erfan Loghmani: areas could explain that in some areas that have less coverage. We see that this spillover.
+
+
+241
+00:45:01.730 --> 00:45:03.480
+Erfan Loghmani: That's this results.
+
+
+242
+00:45:03.810 --> 00:45:07.780
+Erfan Loghmani: I want to now go ahead and wrap up.
+
+
+243
+00:45:08.180 --> 00:45:12.180
+Erfan Loghmani: So what are the implications of our study?
+
+
+244
+00:45:12.730 --> 00:45:24.459
+Erfan Loghmani: There are some debates on limiting direct to consumer advertising for prescription drugs, and our results directly directly speaks to this debate.
+
+
+245
+00:45:25.600 --> 00:45:31.450
+Erfan Loghmani: For that we evaluate the response to a hypothetical 10% reduction
+
+
+246
+00:45:31.910 --> 00:45:36.699
+Erfan Loghmani: for smoking cessation. In the last year of our period
+
+
+247
+00:45:37.350 --> 00:45:47.449
+Erfan Loghmani: we find that this 10% reduction increases cigarette consumption by about 23 million additional packs.
+
+
+248
+00:45:47.690 --> 00:45:53.420
+Erfan Loghmani: At the same time, because their consumer advertising had to spill over to other
+
+
+249
+00:45:53.730 --> 00:45:58.680
+Erfan Loghmani: things, we see a decrease in e-cigarette consumption.
+
+
+250
+00:45:59.080 --> 00:46:19.109
+Erfan Loghmani: but overall these 2, when aggregating them comes to a net effect of nicotine intake of 21 million packs of cigarettes. When we translate this e-cigarette usage to its relevant number of cigarette packs
+
+
+251
+00:46:20.310 --> 00:46:27.780
+Erfan Loghmani: so overall this results show that direct consumer advertising for this certain category is useful
+
+
+252
+00:46:28.280 --> 00:46:30.650
+Erfan Loghmani: and adds to that debate.
+
+
+253
+00:46:32.650 --> 00:46:40.860
+Erfan Loghmani: In this talk we saw that 3rd consumer is the only type of advertising. With clear evidence of effectiveness.
+
+
+254
+00:46:41.490 --> 00:46:47.209
+Erfan Loghmani: I also found that these ads have a spillover effects to over the counter options.
+
+
+255
+00:46:47.530 --> 00:46:55.779
+Erfan Loghmani: We saw that this spillover is actually variable in terms of insurance, access and access to prescriptions.
+
+
+256
+00:46:56.140 --> 00:47:05.323
+Erfan Loghmani: and we finally showed the potential risk of advertising bans in this category with that.
+
+
+257
+00:47:06.190 --> 00:47:17.340
+Erfan Loghmani: I want to thank you again to the organizers and for you for your attention. Here is the link to the paper. If you have any comments feel free to reach out to me or Ali.
+
+
+258
+00:47:17.680 --> 00:47:18.540
+Erfan Loghmani: Thank you.
+
+
+259
+00:47:21.420 --> 00:47:42.719
+Mike Pesko: Thank you, Eric, and just as a reminder, if you're interested in continuing the discussion with the speaker, with Mics enabled you're welcome to attend top of the tops immediately following the webinar. If interested, please copy the meeting room. URL posted in the chat now, so that you will be ready to join the live discussion once the webinar concludes.
+
+
+260
+00:47:43.237 --> 00:47:48.659
+Mike Pesko: and I'll turn it over to Jim for any further. Discuss some comments.
+
+
+261
+00:47:55.690 --> 00:47:56.300
+Erfan Loghmani: I think you're.
+
+
+262
+00:47:56.300 --> 00:47:57.650
+Mike Pesko: You're commuted.
+
+
+263
+00:47:59.130 --> 00:48:15.339
+James Flynn: I almost almost successfully made it through this without messing that up. I I don't have any any major like substantive additional comments. I think the the insurance piece, I think, is is a nice addition. I think that's it's interesting how the
+
+
+264
+00:48:15.340 --> 00:48:35.319
+James Flynn: the over the counter elasticity sort of works there, and that it creates a little bit more substitution, as there's as there's more more insurance coverage. But I think my main substantive comments. I think I already got out there. So I think I just want to say, Yeah, I think this is a really really nice paper congratulations on it.
+
+
+265
+00:48:36.150 --> 00:48:43.200
+Erfan Loghmani: Yeah, thank you. And one thing I think I missed from previous time is your suggestion on the dynamic
+
+
+266
+00:48:43.370 --> 00:48:48.250
+Erfan Loghmani: of the problem. I think that's also a very cool thing to look at.
+
+
+267
+00:48:48.420 --> 00:49:08.909
+Erfan Loghmani: Unfortunately, we can't do that on our retail data, because we don't have individual level data there. But and definitely do that with our medical data and look at their office visits or their prescription intakes to
+
+
+268
+00:49:09.190 --> 00:49:13.479
+Erfan Loghmani: have more intuitions about the dynamics of the problem.
+
+
+269
+00:49:13.960 --> 00:49:19.460
+Erfan Loghmani: Actually, I think we have some results on the prescription adherence.
+
+
+270
+00:49:19.670 --> 00:49:43.659
+Erfan Loghmani: That's I'm not sure if it's in the appendix of this version, or we have not yet added that, but that says that we don't see an effect of advertising and prescription adherence for chantics advertising, however, in that result we see that Nrt. Ads increase the Chantics adherence which we think.
+
+
+271
+00:49:43.660 --> 00:49:44.270
+James Flynn: And.
+
+
+272
+00:49:44.270 --> 00:49:54.473
+Erfan Loghmani: Because Nrt ads take away some population of chantics users from our data that could
+
+
+273
+00:49:55.730 --> 00:50:05.265
+Erfan Loghmani: that are maybe less adherent to the drug use, so removing them would increase the average for the people who
+
+
+274
+00:50:05.830 --> 00:50:07.649
+Erfan Loghmani: your prescription, after.
+
+
+275
+00:50:08.060 --> 00:50:21.000
+James Flynn: Right. So sorry you're saying that that shantix advertising doesn't change like the the likelihood of of adhering to the prescription guidelines of of medication users, that that.
+
+
+276
+00:50:21.000 --> 00:50:35.570
+Erfan Loghmani: Likely. But the lens, like the average lens of adherence. How many weeks you're gonna continue your drug usage if you start after times, which have more advertising.
+
+
+277
+00:50:35.570 --> 00:50:49.010
+James Flynn: Yeah, I think like that null finding is is actually quite interesting on its own right, because that the concern would be that the advertising is gonna get in a bunch of marginal folks who would, who wouldn't be as successful with it. But that this actually
+
+
+278
+00:50:49.160 --> 00:50:54.270
+James Flynn: suggest that's not the case right, that that it's likely to still be just as successful as them. So that that's also very cool.
+
+
+279
+00:50:54.270 --> 00:51:11.160
+Ali Goli: So just just to add here, it's right for Shantex that the marginal consumer is not the bad type of consumer. But when Nrts. Advertised the marginal consumer they take away from Shantex. There would be dumb people who they steal from Shantek.
+
+
+280
+00:51:11.160 --> 00:51:11.660
+James Flynn: Yeah.
+
+
+281
+00:51:11.660 --> 00:51:13.190
+Ali Goli: Those are the people who.
+
+
+282
+00:51:13.190 --> 00:51:13.770
+James Flynn: Or.
+
+
+283
+00:51:14.130 --> 00:51:28.309
+Ali Goli: Less adherent. I think that's what one was saying. So the people who move away from direct to consumer, advertising, from prescription, ad prescription drugs to over the counter options. Those are less adherent, I think that's what.
+
+
+284
+00:51:28.575 --> 00:51:28.840
+James Flynn: Right.
+
+
+285
+00:51:28.840 --> 00:51:30.409
+Ali Goli: Speaks to so.
+
+
+286
+00:51:33.860 --> 00:51:34.680
+James Flynn: Very cool.
+
+
+287
+00:51:35.370 --> 00:51:38.190
+Erfan Loghmani: Thank you for comments.
+
+
+288
+00:51:40.508 --> 00:51:50.149
+Mike Pesko: So I had 1 1 question for you. Is so I think that you're if I'm interpreting it correctly.
+
+
+289
+00:51:50.340 --> 00:51:54.748
+Mike Pesko: your results for East, the effect of
+
+
+290
+00:51:56.120 --> 00:52:00.159
+Mike Pesko: e-cigarette advertising on cigarettes. Could you mind go backing up to that.
+
+
+291
+00:52:00.830 --> 00:52:01.430
+Erfan Loghmani: Sure.
+
+
+292
+00:52:02.340 --> 00:52:21.110
+Mike Pesko: So I think that these these differ a little bit from what Anna Tuckman found. Is that correct? Because I thought that she found e-cigar advertising had an effect on cigarette sales, and I was just wondering if you could just elaborate a little bit more on if there's actually a difference here? And if so, why?
+
+
+293
+00:52:22.020 --> 00:52:25.581
+Erfan Loghmani: Sure. Yeah, that's one thing we
+
+
+294
+00:52:27.002 --> 00:52:49.909
+Erfan Loghmani: put some thought about. That's why we're getting this different result. But actually, when you go to. I think it's because of different. We're using different measure of advertising than the main results in on a document paper. Actually, if you go to the appendix. I think it's their appendix F,
+
+
+295
+00:52:50.180 --> 00:53:05.015
+Erfan Loghmani: which shows that. If you use different carryover effects, the results change. And when they use the same carryover effect of advertising exposure their results are
+
+
+296
+00:53:05.870 --> 00:53:07.970
+Erfan Loghmani: same with us or not.
+
+
+297
+00:53:09.240 --> 00:53:21.539
+Erfan Loghmani: getting like long term effects of advertising. So basically, it's comparing the short term versus long term which our results align with what she has in the appendix.
+
+
+298
+00:53:23.340 --> 00:53:40.411
+Mike Pesko: Okay, great. And one other question. Could you tell us a little bit more about the market scan data that you use? Who like? How many beneficiaries is that capturing? What kind of plan? Health plans are these people in?
+
+
+299
+00:53:41.380 --> 00:53:47.789
+Mike Pesko: How is there a good geographical dispersion of of people across the different Msas.
+
+
+300
+00:53:48.776 --> 00:54:03.980
+Erfan Loghmani: Yeah, that's a good question. So that data only covers individuals that are covered with private insurance coverage, so these are people that who perhaps have better
+
+
+301
+00:54:04.492 --> 00:54:29.159
+Erfan Loghmani: insurance coverages than other people. If I have it correctly on top of my mind, there are, about 20 or 30 million people across the United States. So I would say, it is a very rich data set to look at, and we also have some other ideas to look further into that data.
+
+
+302
+00:54:29.650 --> 00:54:35.600
+Erfan Loghmani: because that also has some demographics on the age and
+
+
+303
+00:54:36.157 --> 00:54:44.040
+Erfan Loghmani: gender of the individuals that we can. We want to take further look into that as well.
+
+
+304
+00:54:46.040 --> 00:54:55.975
+Mike Pesko: Is there any? Is there any benefit of this data over healthcare Costs Institute? I mean, that's the commercial claims data source that I'm most familiar with.
+
+
+305
+00:54:56.670 --> 00:55:04.070
+Mike Pesko: How does market scan like? What are the? How does it stack up with each Cci? And what are the how is it different.
+
+
+306
+00:55:04.870 --> 00:55:18.013
+Erfan Loghmani: So I actually haven't looked at that. I'm not sure if we have access to that or not. But I think based of, based on your description. It should be
+
+
+307
+00:55:18.600 --> 00:55:22.520
+Erfan Loghmani: the same like if it has the claims data.
+
+
+308
+00:55:23.060 --> 00:55:27.370
+Erfan Loghmani: But I'm not sure about the comparison in the size.
+
+
+309
+00:55:28.050 --> 00:55:28.840
+Mike Pesko: Okay.
+
+
+310
+00:55:30.020 --> 00:55:41.689
+Mike Pesko: Alright. Well, thanks again for a very interesting presentation. I think I'm going to turn it over to our Mc. To take us out the door, and just as a reminder if people want to keep the conversation going, please show you top of the tops.
+
+
+311
+00:55:43.020 --> 00:55:43.940
+Erfan Loghmani: Thank you. Everyone.
+
+
+312
+00:55:46.600 --> 00:56:05.370
+Joanne Constantin: We are out of time. However, if you still have burning questions or thoughts for airfund log medi, you can join us for top of the tops an interactive group discussion to join. Please copy the Zoom Meeting room. URL posted in the chat and switch rooms with us. Once this event concludes.
+
+
+313
+00:56:05.370 --> 00:56:18.709
+Joanne Constantin: we will leave this webinar room open for an extra minute after the end, to give everyone a chance to copy the URL, which is bit.ly slash topsmeeting all lowercase.
+
+
+314
+00:56:18.750 --> 00:56:30.040
+Joanne Constantin: Thank you to our presenter moderator and discussant. Finally, thank you to the audience of 144 people for your participation. Have a top snotch weekend.
+
+
+
