@@ -1,0 +1,1070 @@
+WEBVTT
+
+1
+00:00:04.230 --> 00:00:13.629
+Reggie Hebert: Welcome to the tobacco online policy seminar tops. Thank you for joining us today. I'm Reggie Abert, a postdoctoral associate at the Yale School of Public Health
+
+2
+00:00:14.030 --> 00:00:28.270
+Reggie Hebert: Tops is organized by Mike Pesco, at University of Missouri, C. Shang at the Ohio State University, Michael Darden at Johns Hopkins University, Jamie Hartman Boyce at the University of Massachusetts, Amherst and Justin White, at Boston University.
+
+3
+00:00:28.540 --> 00:00:40.189
+Reggie Hebert: The seminar will be 1 h with questions from the Moderator and discussant the audience may post questions and comments in the Q. And a panel, and the moderator will draw from these questions and comments in conversation with the presenter.
+
+4
+00:00:40.300 --> 00:00:45.010
+Reggie Hebert: Please review the guidelines on tobaccopolicy.org for acceptable questions.
+
+5
+00:00:45.250 --> 00:00:49.229
+Reggie Hebert: Please keep the questions professional and related to the research being discussed.
+
+6
+00:00:49.380 --> 00:00:57.730
+Reggie Hebert: questions that meet the seminar series. Guidelines will be shared with the presenter afterwards, even if they're not read aloud. Your questions are very much appreciated.
+
+7
+00:00:57.970 --> 00:01:06.050
+Reggie Hebert: This presentation is being video recorded and will be made available along with presentation slides on the tops website, tobaccopolicy.org.
+
+8
+00:01:06.230 --> 00:01:12.399
+Reggie Hebert: I will turn the presentation over to today's Moderator, Mike Pesco, from the University of Missouri to introduce our Speaker.
+
+9
+00:01:13.570 --> 00:01:30.259
+Mike Pesko: Today we continue our winter. 2025. Season with a single paper. Presentation by David Dragone, entitled Harm Reduction for Addictive Consumption. When does it improve health, and when does it backfire? This presentation was selected via a competitive review process by submission through the tops website.
+
+10
+00:01:30.710 --> 00:01:50.849
+Mike Pesko: Dr. David Dragone is a professor of economics in the Department of Economics at the University of Bologna, Italy. He is an applied theorist whose research focuses on intertemporal decision-making and health Economics, Oligopoly theory and Experimental Economics. He serves as an associate editor for the Journal of Health Economics and Health Economics.
+
+11
+00:01:50.850 --> 00:02:03.060
+Mike Pesko: His research, his Recent Research Examines the economics of risky health behaviors, particularly in the areas of substance, use gambling, obesity and sex work. Dr. Dragone. Thank you for presenting for us today.
+
+12
+00:02:05.610 --> 00:02:08.139
+Davide Dragone: So thank you very much. Can can you see me.
+
+13
+00:02:09.520 --> 00:02:10.570
+Mike Pesko: Yes, we can.
+
+14
+00:02:10.750 --> 00:02:15.609
+Davide Dragone: Alright. So thank you very much. Let me share the presentation.
+
+15
+00:02:17.850 --> 00:02:21.810
+Davide Dragone: and let me see if everything is okay. Is it okay? Can you see me.
+
+16
+00:02:22.720 --> 00:02:23.660
+Mike Pesko: Yes, we can.
+
+17
+00:02:23.920 --> 00:02:28.000
+Davide Dragone: Okay, so thank you very much. Thank you for hosting me for this
+
+18
+00:02:28.040 --> 00:02:49.769
+Davide Dragone: presentation of this work, which is joint work with John Coley from Cornell University. He's also present in the audience, and the goal of this paper is to examine harm, reduction method. And we want to study the conditions under which the introduction of this type of methods may help in improving health, or instead, it may backfire.
+
+19
+00:02:49.800 --> 00:03:13.310
+Davide Dragone: So the general idea is that harm reduction strategies imply or have as an idea that they are switching from a harmful to a less harmful behavior. And specifically, in this presentation, I'm going to focus on addictive goods. And for this audience it's probably convenient to think to an original addictive good as, say, cigarette smoking cigarettes.
+
+20
+00:03:13.310 --> 00:03:19.829
+Davide Dragone: And there's a Harberdasian method. The possibility of introducing vaping electronic cigarettes into the market
+
+21
+00:03:19.830 --> 00:03:43.779
+Davide Dragone: about harm reduction. The reason why we think this paper may be interesting is that there is a debate about whether this is or not an appropriate strategy. Advocates claim that actually may improve health opponents instead, are wary of the possibility of a moral hazard, and eventually initiation, especially among those who would be otherwise abstainers.
+
+22
+00:03:43.780 --> 00:04:00.270
+Davide Dragone: So you can think to teenagers who were not smoking, and that might eventually get lured into trying electronic cigarettes, and eventually even becoming dual users and become smokers. What I'm going to present today is a theoretical model.
+
+23
+00:04:00.270 --> 00:04:14.579
+Davide Dragone: although I'm aware of the variety of backgrounds of the people participating to the seminar. So we'll try to avoid showing you too many equations in this paper. We try to show how the introduction of an addictive
+
+24
+00:04:14.580 --> 00:04:32.939
+Davide Dragone: harm. Reduction method affects consumption of an original addictive good, specifying the conditions under which one side or instead the other side, is correct. Now, the general motivation of why should we care about harm reduction policies? And they say the easy question, in a sense, is
+
+25
+00:04:33.050 --> 00:05:00.999
+Davide Dragone: that they carry, they imply substantial morbidity and mortality. So the World Health Organization estimates millions of deaths every year because of smoking because of alcohol use disorder because of drug overdoses and because of the human and economic costs associated to this mortality and morbidity. Nations have sought methods to reduce risky behaviors. One of them is harm reduction.
+
+26
+00:05:01.000 --> 00:05:08.529
+Davide Dragone: Now I have to be clear about this in general, in the debate, in when people discuss.
+
+27
+00:05:08.560 --> 00:05:29.270
+Davide Dragone: they have in mind sometimes different notions of harm, reduction in principle, it can describe many approaches from needle exchange and the supervised injection facilities in the context of substances that need injection. It is a concept that has also been put forward when discussing about condom distribution.
+
+28
+00:05:29.270 --> 00:05:42.489
+Davide Dragone: or when discussing Naloxone access laws, good Samaritan laws. Even in the context of prostitution, the deal legalizing prostitution has been sometimes introduced in the debate as a
+
+29
+00:05:42.490 --> 00:06:08.050
+Davide Dragone: a variation within the concept of harm reduction policies. We are going to be very specific instead for what we mean by harm. Reduction method, we mean 2 features. One is that it is a substitute for an existing addictive good. We are going to consider addictive substances or addictive consumption, although the case in which there is no addiction involved is just a simple case, a simplified case.
+
+30
+00:06:08.250 --> 00:06:30.700
+Davide Dragone: This substitute is not just addictive, but it's somehow harmful, or at least it's believed to be harmful, but less harmful than the original addictive good. Again, you can think to cigarettes as the original addictive good and to electronic cigarettes instead. As a substitute which is still addictive, it is still harmful, although it's believed to be less harmful.
+
+31
+00:06:30.700 --> 00:06:56.729
+Davide Dragone: And this kind of notion we employ is consistent with, for example, harm, reduction, international, an Ngo which proposes a definition of harm reduction policies as public health policies aimed at decreasing the negative consequences of some behavior without requiring abstinence. So, in a sense, this is the exact opposite of the 0 tolerance approach, which essentially says, if something is bad for you that should be forbidden.
+
+32
+00:06:58.940 --> 00:07:28.660
+Davide Dragone: As I said, the effectiveness is controversial. Let's say we have 2 main polar positions. One advocates who say, well, actually may reduce health harms especially, it may aid quitting people eventually by helping them to phasing out. Imagine a smoker who now has the availability of a cigarette which helps the quitting efforts. Instead, the opponents are concerned about moral as art over 2 specific type of categories. Those who are already
+
+33
+00:07:28.660 --> 00:07:40.449
+Davide Dragone: consumers of an addictive good, say smokers who could become dual consumers, so smokers and vapors, and eventually even reduce their ability to quit.
+
+34
+00:07:40.540 --> 00:08:05.540
+Davide Dragone: and a second category, probably even more sensitive is the category of previous abstainers. You can imagine teenagers who are not smoking, and that instead can initiate the harm reduction method, say vaping because it's cool, or because it's perceived to be less harmful, but because of that they would become addicted to nicotine, and might eventually initiate, not just
+
+35
+00:08:05.540 --> 00:08:11.970
+Davide Dragone: vaping the harmonization method, but also the original addicted good. In a sense this is the worst case scenario.
+
+36
+00:08:12.250 --> 00:08:30.680
+Davide Dragone: and this ambivalence is present also in the when we look at the legislation just focusing, for example, on the Us. In 2019, in the Us. The minimum age to purchase electronic cigarettes was raised from 18 to 21. But then, after 2 years.
+
+37
+00:08:30.750 --> 00:08:43.699
+Davide Dragone: the FDA authorized marketing of e-cigarettes, and then, the year after, just one year, the FDA denied marketing of Juul and products. So a sort of ambivalence which
+
+38
+00:08:43.970 --> 00:09:01.549
+Davide Dragone: probably can be reconducted also to this difficulty in understanding the boundaries and the cases in which harm reduction method can be dangerous or instead beneficial and worldwide. We also see that there are countries that have banned the electronic nicotine delivery systems
+
+39
+00:09:01.920 --> 00:09:14.260
+Davide Dragone: which can be thought as a form of harm, reduction methods, Australia, Brazil, Cambodia, and in general we can see a variety of different regulations from tightly regulated
+
+40
+00:09:14.260 --> 00:09:37.370
+Davide Dragone: to regulate it as if they were pharmaceutical products. So an ambivalence we also see in this type of policies. We see this ambivalence also. If we just look at, for example, taxation of electronic cigarettes in the Us. More than 20 States do not tax at all. And when they do state in other states in which they instead, they tax electronic cigarettes.
+
+41
+00:09:37.370 --> 00:09:59.130
+Davide Dragone: The tax rate ranges wildly from 8% to almost 100%. And we see similar kind of ambivalent attitude also for buprenorphine, which is sometimes more regulated than opioid pain. Relievers. Physicians must take specific trainings, and there are also limitations on the number of patients who can
+
+42
+00:09:59.160 --> 00:10:13.919
+Davide Dragone: be prescribed by single physician buprenorphine. So because of this ambivalence, we think that the model should somehow also represent this. So what I'm going to show you in the next slide is a model of addicted consumption.
+
+43
+00:10:13.920 --> 00:10:41.939
+Davide Dragone: We are going to model the demand for harm. Reduction method, which is not harmful is not harmless. It's not without addictive properties. It's a harm reduction method that is still addictive and still harmful. And we can show the conditions under which the introduction of this harm reduction method can indeed be beneficial or desirable according to some metrics, or instead on the opposite, could instead be actually could backfire.
+
+44
+00:10:42.100 --> 00:11:11.759
+Davide Dragone: Specifically, we will focus on what happens to health. We focus on what happens to previous users of the original addicted good, say smokers. And we study what happens when the harm reduction method is introduced into the market. We also consider those who were previously known users, you may think, to teenagers who are not smoking, and we consider the conditions under which they can begin
+
+45
+00:11:11.780 --> 00:11:20.720
+Davide Dragone: using the harmadachio method and eventually even become smokers after having tried and experimented with the electronic cigarette.
+
+46
+00:11:21.240 --> 00:11:41.030
+Davide Dragone: We believe this this paper and these conditions that we present can contribute to the increasing and growing literature on risk, compensation and moral result in health behaviors with specific focus on ends and the growing and large literature by now
+
+47
+00:11:41.030 --> 00:11:53.439
+Davide Dragone: about ends as substitute for electronic cigarettes in general economic studies on Methadone and buprenorphines or opioids, and we also gave a contribution in terms of the literature on rational addiction.
+
+48
+00:11:53.440 --> 00:12:10.820
+Davide Dragone: because we, we merged the model with model featuring temptation and self-control, although for the for this specific presentation I will not show you the results when augmenting the model in order to allow for self-control and temptation cost.
+
+49
+00:12:11.050 --> 00:12:12.669
+Davide Dragone: So here comes the model.
+
+50
+00:12:12.870 --> 00:12:28.120
+Davide Dragone: We consider 2 goods. C, which is mnemonic for cigarettes. It's the original addictive good, and V, which is mnemonic for vaping, and which we can consider as the harm reduction method. I will consider 2 scenarios.
+
+51
+00:12:28.400 --> 00:12:39.179
+Davide Dragone: an original scenario in which only cigarettes are available, and then a second scenario, in which also vaping the electronic cigarette is available.
+
+52
+00:12:39.390 --> 00:13:08.760
+Davide Dragone: These 2 goods, as I said, have addictive properties, and so in the Beckler, Murphy, Russia addiction, tradition, we consider the case in which consumption of cigarettes or consumption of vaping increases and builds an addictive stock over time. These goods are also harmful, which means that current smoking and current vaping, but also having vaped in the past, or having smoked in the past.
+
+53
+00:13:08.760 --> 00:13:11.230
+Davide Dragone: increases a health harm.
+
+54
+00:13:11.230 --> 00:13:21.139
+Davide Dragone: Now for health economists in the audience, this capital H. Describes health, harm, and not the health capital. So this is not the Grossman model.
+
+55
+00:13:21.616 --> 00:13:32.990
+Davide Dragone: So consumption of these 2 goods contributes both to getting to being addicted, and both to create health harm, with the difference that health harm also depends on past consumption experiences.
+
+56
+00:13:33.460 --> 00:13:50.050
+Davide Dragone: As an economist I will introduce a utility function which represents preferences, and which essentially here says that we, like the individual, likes, smoking and vaping, and another composite good, and is also affected by addiction and
+
+57
+00:13:50.140 --> 00:14:10.690
+Davide Dragone: health harm. Here the important. The assumptions are relatively intuitive. We assume that consuming is pleasurable. This means that not just an individual as a personal taste prefers likes smoking, but also that maybe there are incentives, say social appreciation, which makes smoking or eventually vaping
+
+58
+00:14:10.690 --> 00:14:24.800
+Davide Dragone: pool, which means that in general increasing, smoking, increasing, vaping is desirable from the perspective on the individual additional health harm are bad. This is relatively easy to defend.
+
+59
+00:14:24.800 --> 00:14:34.960
+Davide Dragone: Probably the most important assumption is this one reinforcement which is one of the defining features of the Russian diction model by Becca and Murphy. The idea is that
+
+60
+00:14:34.960 --> 00:14:55.650
+Davide Dragone: the more I have smoked in the past, so the higher my addiction stock. The more I like smoking today, this is a process of learning through consumption learning by consuming, which is actually common to other type of processes. And it's 1 of the defining features of the Russian addiction model. Actually, you'll see
+
+61
+00:14:55.650 --> 00:15:09.340
+Davide Dragone: our results will be derived with respect to the magnitude of this cross derivative. How much past consumption experiences, how much my stock of addiction affects my preferences
+
+62
+00:15:09.350 --> 00:15:15.719
+Davide Dragone: for vaping today. And this is going to be the key criteria I'm going to use in our propositions
+
+63
+00:15:16.480 --> 00:15:40.919
+Davide Dragone: to be fully transparent. We consider closed for solutions because we make a strong assumption about the shape of this utility function. But essentially let me drive you through. Just have a look at the right terms. So the 1st line of the utility function essentially says, desirability vaping, smoking, and the composite good are something that for me are
+
+64
+00:15:40.930 --> 00:16:02.659
+Davide Dragone: valuable. They provide positive margin and utility, they feature reinforcement, which means addictiveness. They are also harmful, and the last one is just a technical assumption of concavity. So this is the overall problem. Don't get scared by this. It's just saying I would like to choose optimally my consumption, and, if available, also vaping.
+
+65
+00:16:02.660 --> 00:16:14.790
+Davide Dragone: which could be 0, which could also be 0. Taking into account what are the dynamic consequences in terms of building up a stock of addiction in terms of harming my health
+
+66
+00:16:14.790 --> 00:16:22.990
+Davide Dragone: over my lifecycle and in a model. I think it's important to have clear what are the trade-offs. One is that
+
+67
+00:16:23.240 --> 00:16:26.639
+Davide Dragone: smoking and vaping increase, addiction and health harm.
+
+68
+00:16:26.910 --> 00:16:46.679
+Davide Dragone: Increasing addiction further increases the marginal utility of smoking and vaping, which would induce further consumption, addictive consumption. But this addictive consumption is bad, and therefore the higher the health harm I'm producing to myself, the less I would like to consume. And so this is the type of trade off that emerges here.
+
+69
+00:16:47.900 --> 00:17:01.990
+Davide Dragone: So I will now consider. I will. In the following slides I will consider 2 scenarios. The 1st scenario is before the harm introduction harm. Reduction method is introduced into the market.
+
+70
+00:17:02.310 --> 00:17:30.790
+Davide Dragone: Only cigarettes, say, are available. Electronic cigarettes are not legal. Do not enter the market or have not been invented yet. And so we ask who consumes and who doesn't? Then I consider a second scenario in which the electronic cigarette has been introduced into the market, and we want to understand how the users of the addictive good the smokers respond, whether they increase or decrease, whether they quit smoking, or instead they smoke and vape.
+
+71
+00:17:30.850 --> 00:17:41.730
+Davide Dragone: How do non-users respond? And probably the question that in the context of harm reduction is more relevant is overall harm reduced.
+
+72
+00:17:42.010 --> 00:17:48.480
+Davide Dragone: But probably it's this is a logical moment to stop a second. If there is some question, I'm very happy to take it.
+
+73
+00:17:53.010 --> 00:18:12.769
+Mike Pesko: Okay, thank you, David. I'm going to turn it over to our discussant, Michael Darden. First, st just a brief introduction. Michael Darden. He is an associate professor at the Cary Business School at Johns Hopkins University. Thank you, Michael, for your comments.
+
+74
+00:18:12.770 --> 00:18:35.830
+Michael Darden: Yeah, thanks, Mike, I mean. So this is great. Thank you so much, David. I mean, this is a really, I think, useful exercise, and it's very helpful for us empirical researchers who who want to think about exactly the dynamics at play. When we think about something like e-cigarettes and their introduction. My 1st question is just a
+
+75
+00:18:36.080 --> 00:18:40.389
+Michael Darden: kind of a a technical question about the utility function.
+
+76
+00:18:41.080 --> 00:18:53.019
+Michael Darden: so if I understood correctly the the health stock or the excuse me, not the health stock, the health harm term. H doesn't affect the marginal utility
+
+77
+00:18:53.250 --> 00:18:55.739
+Michael Darden: of either of the goods. Is that correct?
+
+78
+00:18:56.490 --> 00:18:57.230
+Davide Dragone: It is.
+
+79
+00:18:57.420 --> 00:19:26.389
+Michael Darden: Yeah. And so does that. That rules out the idea that somebody says, you know, smoking is less enjoyable for me because I am, you know, because it's because my health is at a low state. Right? So like somebody said, like, I think one of the values here is the dynamics, right. It's a dynamic model. And when we think about dynamics, we think that health affects behavior in a way that's important.
+
+80
+00:19:26.450 --> 00:19:28.710
+Michael Darden: So can can you just talk us through that.
+
+81
+00:19:29.190 --> 00:19:46.170
+Davide Dragone: Yes, so thank you for the question. Very precise question. Yes. So here we have reduced the number of interactions. So health Harm say, only directly affects the level of utility. So in a static world, it wouldn't affect the incentives.
+
+82
+00:19:46.190 --> 00:20:01.669
+Davide Dragone: But in a dynamic world, actually, since it affects the level of utility, and also the future profile of intertemporary utility of individual, it would actually, it would actually introduce a cause. So there is an effect in terms of optimal choice.
+
+83
+00:20:02.320 --> 00:20:18.899
+Davide Dragone: because it affects through the cost 8 variable essentially, and there is also an effect on each level of utility. You get over time. So it does so, but it doesn't do. It wouldn't be so in a static model. You're fully right, but it does so in a dynamic model.
+
+84
+00:20:19.220 --> 00:20:32.999
+Michael Darden: So it doesn't. So it captures the idea that, like I'm concerned about my health. And so I'm going to switch. But it doesn't. It doesn't account for the fact that, like smoking is is literally just less pleasurable now, because.
+
+85
+00:20:33.000 --> 00:20:33.450
+Davide Dragone: Right.
+
+86
+00:20:33.450 --> 00:21:01.829
+Michael Darden: Okay, that's helpful. So then, in terms of the goals of the model. So I think you're going to give us some conditions in which the introduction of an alternative technology is is good for health or bad for health. I'm a little bit surprised that you haven't instead asked the question. You know how harmful in a relative sense, is the new technology, how harmful would it need to be
+
+87
+00:21:02.020 --> 00:21:05.782
+Michael Darden: for this to be utility maximizing in some way?
+
+88
+00:21:06.370 --> 00:21:28.970
+Michael Darden: because there's considerable uncertainty in the scientific literature about the relative harms of e-cigarettes compared to cigarettes. You know Alcott and Rafkin have that survey in their paper where they find that the physicians are all over the map right? That people don't know. So it seems like that's something that could be useful that your model could produce is kind of like.
+
+89
+00:21:29.050 --> 00:21:41.510
+Michael Darden: you know, if e-cigarettes are only 5% as harmful as traditional cigarettes, then I guess that would be in your your harm reduction function. But can you? Can you speak to that a little bit?
+
+90
+00:21:41.910 --> 00:21:45.760
+Davide Dragone: Yes, no, thank you also. Also, this one is a very good question.
+
+91
+00:21:45.840 --> 00:22:12.600
+Davide Dragone: And so, yes, so in the model, I actually skip this very, very quickly. So here we assume that the so here everything is based on the individual perception, the individual beliefs of how harmful a good is, and how much it contributes to addiction and health harm. So it's really individual beliefs. If they're wrong, then the decisions are correct with respect to the belief. But the belief is wrong.
+
+92
+00:22:13.010 --> 00:22:28.240
+Davide Dragone: And so here I didn't mention it explicitly. For example, here we assumed that the contribution of vaping to the health harm is positive, so it's not enough. And we can think in general, it makes sense
+
+93
+00:22:28.260 --> 00:22:48.540
+Davide Dragone: to think, to debate about harm reduction policies. In the case in which this Epsilon age. The contribution to harm is less than one so less than the contribution to smoking. But you're fully right, especially in the case of vaping actually, in which one can eventually tweak a little bit. Now the vapor.
+
+94
+00:22:48.850 --> 00:23:03.119
+Davide Dragone: then eventually this can even be larger than one. So the model allows for this possibility that this is even riskier or perceived to be riskier in terms of health and contribution to health.
+
+95
+00:23:03.120 --> 00:23:03.490
+Michael Darden: Hmm.
+
+96
+00:23:03.490 --> 00:23:16.030
+Davide Dragone: And I suspect that actually, the results I'm going to show you could be delivered in terms of this perceived excellent age. This perceived contribution to health
+
+97
+00:23:16.300 --> 00:23:21.060
+Davide Dragone: to health. Harm but I I
+
+98
+00:23:21.190 --> 00:23:23.790
+Davide Dragone: I suspect the conclusion would be similar.
+
+99
+00:23:24.230 --> 00:23:27.409
+Davide Dragone: But I don't have closer. I don't have the
+
+100
+00:23:28.220 --> 00:23:31.149
+Davide Dragone: the results. The results exactly to show.
+
+101
+00:23:31.150 --> 00:23:56.019
+Michael Darden: I think it would just be helpful for for the empirical folks to kind of think about. You're right, because if if that epsilon there is 0, then this is, it doesn't matter. And if it's of course, if it's you know, I don't think any. It's probably not the case that epsilon is greater than one in the context of e-cigarettes. So, but it's so. It's somewhere between 0 and one. And you know any information.
+
+102
+00:23:56.020 --> 00:24:04.300
+Davide Dragone: Thresholds that we can get out of a model like this would be helpful for us. But I'll turn over to to Mike, and maybe he has some questions from the audience.
+
+103
+00:24:05.427 --> 00:24:28.870
+Mike Pesko: Thank you, Michael. And please continue to add your your questions to the Q. And a. If you have any. So there's 2 questions there. Currently, 1st is missing. Solid scientific evidence for the claim that vaping is as addictive as smoking is the underlying assumption. Correct? Is nicotine really the only relevant factor for the addiction.
+
+104
+00:24:35.210 --> 00:24:36.450
+Mike Pesko: Oh, you're muted!
+
+105
+00:24:36.866 --> 00:24:37.700
+Mike Pesko: You're on.
+
+106
+00:24:37.700 --> 00:24:49.769
+Davide Dragone: Okay? So no, this is a simplifying assumption. We just here. We just assume that the vaping and and smoking contributes to some addiction stock which is
+
+107
+00:24:50.140 --> 00:24:53.580
+Davide Dragone: likely to be nicotine, but probably not just nicotine.
+
+108
+00:24:53.680 --> 00:24:58.052
+Davide Dragone: And and yes, it's just a simplifying assumption that respect. So
+
+109
+00:25:00.370 --> 00:25:01.230
+Mike Pesko: Right? Yeah.
+
+110
+00:25:01.656 --> 00:25:22.550
+Mike Pesko: and then kind of a, mostly an observation, a comment. But I guess you could provide your reactions to it. The reinforcement theory seems to be falsified by empirical data. Most smokers do indeed increase their consumption in the beginning, but most reach an individual plateau where they stay
+
+111
+00:25:22.880 --> 00:25:25.119
+Mike Pesko: any reactions to to that.
+
+112
+00:25:25.740 --> 00:25:41.900
+Davide Dragone: Yes, no, thank you for the question. That's exactly the intuition one would have about reinforcement. This idea that the more I smoke, the more I like smoking, the more I like smoking, the more I smoke, and this would become explosive. This is a possibility, but it's not the solution of the model. The solution of the model is that
+
+113
+00:25:41.900 --> 00:25:59.719
+Davide Dragone: as I get more and more addicted, I consume more and more. But I do reach a plateau. I will show you in the next slides. So actually, the long run equilibrium, the stationary equilibrium which the smoker smokes regularly, a fixed amount of, say.
+
+114
+00:25:59.720 --> 00:26:17.910
+Davide Dragone: a fixed number of cigarettes so it might produce explosive trajectories. But we are not focusing on these type of trajectories. Also because they couldn't be estimated. They wouldn't be stationary. We focus on stationary trajectories which can be treated also from an economic point of view.
+
+115
+00:26:19.430 --> 00:26:20.030
+Mike Pesko: Good
+
+116
+00:26:21.960 --> 00:26:32.179
+Mike Pesko: Another question here in the Q. And a. What is the basis for the claim that the value of harm from vaping would be less than for smoking. Given the conflicting evidence mentioned.
+
+117
+00:26:34.080 --> 00:26:50.459
+Davide Dragone: There is not much evidence, so the assumptions I showed here about the relative contribution of vaping with respect to smoking, to health, harm, and to consumption. Here it's more because of intuition. That we think
+
+118
+00:26:50.750 --> 00:27:02.029
+Davide Dragone: is is less addictive and less harmful than smoking, and because this is general perception. But I have no hard evidence. This is, in fact, the case.
+
+119
+00:27:04.490 --> 00:27:13.149
+Davide Dragone: I must say, however, that even if we do not impose the assumption that Epson A, so the contribution of vaping to the sticture stock
+
+120
+00:27:13.370 --> 00:27:32.179
+Davide Dragone: is smaller, and even if we do not impose this assumption that the contribution of vaping to health harm is less than smoking. The model still holds. These are just, for I think, building the intuition for what we have in mind, but they're not technically needed.
+
+121
+00:27:34.870 --> 00:27:44.029
+Mike Pesko: Oh, great! That clears the Q&A. So go ahead and proceed with your presentation. Obvious members can feel free to keep adding to the to the Q. And a as we go. Thank you.
+
+122
+00:27:44.030 --> 00:27:56.099
+Davide Dragone: Thank you, Mike. Thank you. Excellent, all right. So after the presentation of the model and what I want to do, consider a scenario before and the scenario after. Let me go for the results directly.
+
+123
+00:27:56.100 --> 00:28:25.959
+Davide Dragone: So we are in the before results. So only smoking is available. I showed you the model. We solved the model, and the model turns out that has a very, very nice solution, which I think we think could be also amenable to empirical estimation. This is an optimal consumption path. It's a policy function. What macroeconomists would call a policy function which says how much consumption is optimal. Given a certain stock of addiction and health at some point in time.
+
+124
+00:28:26.070 --> 00:28:33.370
+Davide Dragone: So if you have some measure of health, harm, say the the health condition of individual, and you have some measure of the addiction stock say how much
+
+125
+00:28:33.480 --> 00:28:38.550
+Davide Dragone: the history of the past history of smoking cigarettes this could be estimated.
+
+126
+00:28:38.780 --> 00:29:00.750
+Davide Dragone: This intercept is actually a function of the long run consumption level. But most importantly, it's also a negative function of prices which means that cigarettes, even if addictive, follow the low demand which is reassuring. It's the typical theoretical prediction of the Russian addiction model. It's also
+
+127
+00:29:00.750 --> 00:29:11.239
+Davide Dragone: the theoretical basis for all tax-based policies aimed at deterring consumption of cigarettes essentially. Now, an interesting thing is that this function
+
+128
+00:29:11.240 --> 00:29:34.339
+Davide Dragone: looks like a linear. It is a linear function, but it can produce oscillatory consumption, oscillatory smoking in the medium term. So let me provide this animation. Imagine a person here. So in blue we have smoking a cigarette. So imagine a person that is a no smoker initially so. No addiction.
+
+129
+00:29:34.460 --> 00:29:43.210
+Davide Dragone: no addiction to nicotine, and no smoking that over time. For some reason, because my friends say I'm cool, or any other reason.
+
+130
+00:29:43.550 --> 00:30:05.660
+Davide Dragone: starts smoking over time. As this person starts smoking over time, the addiction stock increases, the health harm increases, and here the trade-off between the 2 kicks in at some point, because at some point I will reverse smoking. I will decrease my smoking levels. But
+
+131
+00:30:05.910 --> 00:30:29.689
+Davide Dragone: I'm still smoking too much in such a way that my addiction stock increases and my health harm increase even more. And because of that I reduce my smoking over time. I think at some point I had some minimum level. And then I say, well, actually, my health harm has been reducing in the last periods, and also my addiction to nicotine. I can revert back to smoking.
+
+132
+00:30:29.760 --> 00:30:59.440
+Davide Dragone: and, as I was mentioning before, although the model has this reinforcement property in the long run, consumption is going to be stationary eventually, after some oscillatory experimentation, let's say, periods in which you smoke more, and then you smoke less, and then in the long run you get to some stationary level. Now the question is, what are the drivers of these stationary levels? And this is the expression for the long run, consumption level, divided into 3 terms.
+
+133
+00:30:59.600 --> 00:31:12.499
+Davide Dragone: and essentially the idea is, the more I like, the more I find desirable, the more I get approval by my peers for smoking, the more is likely I'm going to smoke in the long run, and this level is positive.
+
+134
+00:31:12.770 --> 00:31:42.020
+Davide Dragone: The higher the price, the lower the likelihood. I'm going to be a smoker in the long run, and then this 3rd term is actually the perceived disutility of addiction and health harm, so depending on how much I like it, how much it costs in monetary terms, and how much it costs in terms of this utility. This is going to determine whether in the long run I'm going to be a smoker or not. And so
+
+135
+00:31:42.080 --> 00:31:51.020
+Davide Dragone: these are the possible drivers. So what makes unconditionally more desirable to smoke, say social appreciation or lack of stigma.
+
+136
+00:31:51.140 --> 00:32:02.209
+Davide Dragone: what can increase and affect the price of smoking. Well, it's monetary price, but eventually taxes or subsidies, not in case we are talking about a good which we want to subsidize.
+
+137
+00:32:02.360 --> 00:32:24.120
+Davide Dragone: And what can affect in this utility of addiction and health harm? Well, for example, awareness about health, harm, education. So this type of factors do affect my behavior, and in the long run I will be a smoker if the sum of these 3 terms is positive. The algebraic sum, then.
+
+138
+00:32:24.610 --> 00:32:40.359
+Davide Dragone: now that we know who's going to be a smoker and who's not going to be a smoker. Let's consider the case in which there's the possibility of introducing a harm reduction method as before. Who's going to be a vapor in the long run? So
+
+139
+00:32:40.660 --> 00:33:10.439
+Davide Dragone: ignore this term for the moment those who are going to be vapor where D here stands for dual consumption, are those who value vaping, who have for some reason, appreciation for their peers, or they like it. So these are the same terms I just showed you in the previous slide. So vapors are those who give value to vaping, for which the price of vaping is not too high, and the disutility of addiction and health harm is not too large.
+
+140
+00:33:10.440 --> 00:33:17.869
+Davide Dragone: so, in a sense, the main drivers are the same. Vaping is more likely, if I like vaping a lot
+
+141
+00:33:17.980 --> 00:33:43.459
+Davide Dragone: net of its cost and utility cost. And what if I was already a smoker? Now this term Zita is a positive, which means that if I was a smoker or eventually a heavy smoker yesterday today, in which vaping is possible, is more likely that I'm going to be a vapor, so previous smokers are more likely to be vapers than previous abstainers.
+
+142
+00:33:44.100 --> 00:33:53.569
+Davide Dragone: So overall the question about, should we introduce, should we allow a harm reduction method on the market.
+
+143
+00:33:53.810 --> 00:34:02.380
+Davide Dragone: It ultimately depends on its effect the effect of the availability of V on C, that is, smoking and health harm.
+
+144
+00:34:02.510 --> 00:34:23.970
+Davide Dragone: And it turns out that all our results can be categorized in 3 cases depending on the intensity of the addictiveness of the harm reduction method. So the intensity of this reinforcement term, which, let me just repeat, is how much the stock
+
+145
+00:34:23.969 --> 00:34:37.400
+Davide Dragone: of addiction I have affects my marginal utility for vaping, and we can distinguish 3 cases in which reinforcement is below a threshold.
+
+146
+00:34:37.610 --> 00:35:01.249
+Davide Dragone: In this case, we say, reinforcement is mild, reinforcement is moderate, reinforcement or addictiveness is high, when, instead, it's above a certain threshold, and that we will provide our results with respect to these 3 possible cases. So let me 1st consider the case about consumption. We want to compare the case in which
+
+147
+00:35:01.520 --> 00:35:03.210
+Davide Dragone: the case of
+
+148
+00:35:03.530 --> 00:35:20.279
+Davide Dragone: the smoking level I had in the previous scenario, when only smoking was available, and we want to compare it with the new regime in which now also vaping is available. Let me recall this. D stands for dual consumption, because
+
+149
+00:35:20.280 --> 00:35:38.440
+Davide Dragone: in the second period both smoking and vaping are available. We are interested in this delta. If it is positive, it means that the person will smoke more after the introduction of the harm reduction method. If it is negative, it means that the person will smoke less. It turns out that this delta depends on
+
+150
+00:35:38.460 --> 00:35:51.919
+Davide Dragone: essentially 2 terms. One is whether or not, I'm going to be a vapor, because if I'm not going to be a vapor, so this is 0. Actually, in the long run there won't be any difference
+
+151
+00:35:52.060 --> 00:35:53.690
+Davide Dragone: for a smoker.
+
+152
+00:35:53.850 --> 00:36:03.519
+Davide Dragone: and this is kind of intuitive. If I'm not going to pick up vaping as a habit, I will just behave as I used to behave when vaping was not available.
+
+153
+00:36:04.370 --> 00:36:27.860
+Davide Dragone: However, if I start to be a vapor, and I showed you before the conditions under which a person becomes a vapor. So if I become a vapor, my response in terms of smoking behavior depends on the intensity of reinforcement depending on my personal tastes with respect to this threshold. So case number one.
+
+154
+00:36:28.890 --> 00:36:39.230
+Davide Dragone: If vaping is very addictive, which means that this term is positive, it means that after vaping.
+
+155
+00:36:39.430 --> 00:36:59.359
+Davide Dragone: after taking up vaping as a behavior. I will also increase my smoking behavior. If I was already a smoker. I now smoke and vape dual consumption, bad scenario. We don't generally like it. If, instead, the person was an abstainer because of vaping, and because vaping is very addictive.
+
+156
+00:36:59.640 --> 00:37:16.110
+Davide Dragone: then this person is likely to initiate and to increase. Smoking before the smoking level was 0. After the introduction of the vaping opportunity and taking up a vaping, the person starts also to smoke.
+
+157
+00:37:17.010 --> 00:37:40.790
+Davide Dragone: Case number 2 vaping is not highly addictive, which means this term is negative, and therefore, after taking up vaping, the person will actually reduce smoking. So if the person was already a smoker, we would observe, actually substitution between vaping and smoking, more vaping and less smoking. If, instead, the person was an abstainer.
+
+158
+00:37:41.010 --> 00:37:47.010
+Davide Dragone: Okay, the person will start vaping, but will not also initiate smoking.
+
+159
+00:37:47.170 --> 00:37:50.920
+Davide Dragone: Okay, so we have these 2 possibilities for what concerns
+
+160
+00:37:51.180 --> 00:37:55.880
+Davide Dragone: smoking as a potential outcome, we are interested. But
+
+161
+00:37:57.270 --> 00:38:03.569
+Davide Dragone: And this, for example, this criterion about the addictiveness might explain, for example, why
+
+162
+00:38:03.710 --> 00:38:24.490
+Davide Dragone: Methadone is typically dispensed in clinics because it's believed to be sufficiently addictive, and the legislators do not trust patients to have a big supply at home. And instead, in other cases, buprenorphine, for example, for opioids, which is widely seen as safer is
+
+163
+00:38:24.670 --> 00:38:31.100
+Davide Dragone: typically allowed to be taken home because it shouldn't, shouldn't create problems of dual consumption.
+
+164
+00:38:31.220 --> 00:38:57.209
+Davide Dragone: Now, what turns what happens instead in terms of health? Because, after all, we are talking about harm reduction policies. And this may be the relevant target health. So as before, we can manipulate our expressions until we get to this very nice and very compact expression, the difference in health harm. Comparing the new scenario and the old scenario, it depends, as before.
+
+165
+00:38:57.240 --> 00:39:19.669
+Davide Dragone: on whether or not, I pick up vaping. If I don't pick up vaping, nothing happens in the long run. I don't vape so. Nothing changes in terms of health with respect to the previous scenario. But if I start vaping, then the answer depends on the intensity of the reinforcement of vaping, or the addictiveness of vaping with respect to this lower enforcement threshold.
+
+166
+00:39:20.030 --> 00:39:22.949
+Davide Dragone: And so again, we have 2 cases.
+
+167
+00:39:23.490 --> 00:39:53.020
+Davide Dragone: If the vaping is moderatory or highly addictive, then this term is going to be positive, and therefore, after vaping my health, harm will get worse if, instead, it's mildly addictive. This term is going to be negative, and the health harm will actually decrease. So let me put everything together. This is the slide that sums up all our results. We have 2 results, essentially one in terms of what happens
+
+168
+00:39:53.030 --> 00:40:08.859
+Davide Dragone: in terms of smoking and what happens in terms of health harm after the introduction of a harm reduction method. And so here we see 3 cases in the case in which addictiveness is mild, moderate, or high. So suppose people pick up
+
+169
+00:40:09.100 --> 00:40:30.040
+Davide Dragone: start with the new harm reduction method, they start vaping. Let's say, if the addictiveness is high, I start vaping, but I also increase my smoking. Overall. Health harm increases. This is clearly a case in which the introduction, the introduction of the harm reduction method backfires.
+
+170
+00:40:30.480 --> 00:40:50.330
+Davide Dragone: so those who are against it might be right under the condition. The harm reduction method is very highly addictive. However, in the opposite case, in which the harm reduction method is mildly addictive. It turns out that the person starts vaping, but would actually reduce smoking. So much
+
+171
+00:40:50.330 --> 00:41:02.699
+Davide Dragone: would be the reduction that the health harm also will ultimately ultimately decrease. So in this case we would have a person that reduces smoking, but increases vaping and overall the health harm
+
+172
+00:41:02.960 --> 00:41:19.280
+Davide Dragone: is decreased. In this case, clearly the harm reduction method is a success, and then we have an intermediate case in which actually there is some substitution between vaping and smoking, so more vaping and less smoking. But that reduction in smoking is not enough.
+
+173
+00:41:19.410 --> 00:41:37.460
+Davide Dragone: and the health harm ultimately increases. So you see, there is a certain variety of nuances. If, instead, the harm reduction method is not considered, then nothing happens because the harm reduction method is essentially irrelevant, and therefore smoking and health harm would remain unchanged.
+
+174
+00:41:37.620 --> 00:41:40.209
+Davide Dragone: So this allows me to go to the conclusion
+
+175
+00:41:40.660 --> 00:41:51.439
+Davide Dragone: I have showed you in in these slides in this presentation, that the introduction of harm, reduction method may have different effects.
+
+176
+00:41:51.730 --> 00:42:02.650
+Davide Dragone: 1st of all, it may be not desirable enough if it's not desirable enough, for example, because flavored electronic cigarettes are not available anymore, then people would just not use it.
+
+177
+00:42:03.080 --> 00:42:16.199
+Davide Dragone: So in this case, if the harm reduction matter is not desirable. It's not good, because we don't observe any decrease in, say smoking, but it's also not bad, because there is no change in the health armor in the addiction stock.
+
+178
+00:42:16.580 --> 00:42:20.360
+Davide Dragone: If it is desirable, however, and people decide to use it.
+
+179
+00:42:20.620 --> 00:42:29.850
+Davide Dragone: then car users are more likely to use, so previous smokers are more likely to be vapers than abstainers.
+
+180
+00:42:30.180 --> 00:42:50.520
+Davide Dragone: And then I also mentioned some of the variables that may affect this initiation, choice, and and choice of vaping like social appreciation, stigma, prices, and taxes to speak of monetary incentives, awareness about health harms. And so this is kind of relatively
+
+181
+00:42:50.660 --> 00:43:00.990
+Davide Dragone: known from the anti-smoking. The literature on anti-smoking policy which have exactly tried to address these specific elements.
+
+182
+00:43:01.050 --> 00:43:29.629
+Davide Dragone: And then I showed you 3 cases which we can sum up in the following way, if people start with the harm reduction method, but the harm reduction method is mildly addictive. Then the advocates of the introduction of the harm reduction method are right, because, indeed, because of people who start vaping, then they will also reduce smoking, and their health harm would be reduced
+
+183
+00:43:30.120 --> 00:43:58.409
+Davide Dragone: if, instead, it is highly addictive. The opposite, of course, vaping and smoking become complements. And so people who start vaping also become smokers or even harder smokers. So in that case harm reduction method would backfire. And then I showed you also an intermediate case, which, of course, when the harm reduction method is moderately addictive, in which we observe, in fact, less consumption say less smoking, but overall there is more health harm.
+
+184
+00:43:58.410 --> 00:44:12.570
+Davide Dragone: So depending on your objective function, whether you are more concerned about smoking as a behavior, or instead, you're more concerned on health harm as an outcome in terms of health, then you may get different.
+
+185
+00:44:12.730 --> 00:44:16.259
+Davide Dragone: You may like or not case number 3,
+
+186
+00:44:16.390 --> 00:44:20.779
+Davide Dragone: and with this I conclude and thank you very much for your attention.
+
+187
+00:44:31.530 --> 00:44:39.140
+Mike Pesko: Okay, thank you. Let's turn it over to our discussion. And, as usual, please continue to add questions to the Q. And a.
+
+188
+00:44:39.980 --> 00:44:58.870
+Michael Darden: Great paper is really interesting, and I appreciate all the work that you you did in laying out the different cases. I think that's super helpful. I want to ask one question relative to the literature that you've probably gotten, and I just would help my own thinking on this. Can you clarify the ways in which
+
+189
+00:44:59.190 --> 00:45:13.439
+Michael Darden: your model and your predictions and your results are different from those from the Alcott and Rafkin paper in that model. You know they had a discrete time model in which they were thinking about utility maximization.
+
+190
+00:45:13.440 --> 00:45:32.049
+Michael Darden: and clearly their efforts were to try to get down to some sufficient statistics where they could think about the welfare implications of e-cigarettes, and they really emphasize the cross price. Elasticity of substitution between e-cigarettes and cigarettes.
+
+191
+00:45:32.070 --> 00:45:36.479
+Michael Darden: The price elasticities of each respective good, and the relative health harms.
+
+192
+00:45:36.540 --> 00:45:38.479
+Michael Darden: and your model comes in and says.
+
+193
+00:45:38.810 --> 00:45:58.590
+Michael Darden: what really matters here is the relative addictiveness, or how addictive is the absolute addictiveness of the harm reduction method. So can you. Can you help me think about the differences between the 2 papers, and where we should go from here.
+
+194
+00:45:58.930 --> 00:46:04.170
+Davide Dragone: Yeah. So no, thank you for the question. So the way
+
+195
+00:46:04.480 --> 00:46:10.480
+Davide Dragone: the way I showed you the results, everything is framed in terms of addictiveness, and these 3 categories
+
+196
+00:46:12.670 --> 00:46:38.540
+Davide Dragone: but alternatively, and also we also framed as the harm reduction method introduced or not into the market. You can think to this in an alternative way like the price. So suppose both goods were available always. But for some reason in the previous period the price of the electronic cigarette is very, very high, and then it's reduced.
+
+197
+00:46:38.680 --> 00:46:52.430
+Davide Dragone: So in a sense, we consider a case in which, from an infinite price of electronic secret, it becomes a feasible price which people can afford because of that. Actually, we show in the paper that our results.
+
+198
+00:46:52.830 --> 00:47:15.780
+Davide Dragone: which depends on these 3 thresholds are the same results you would obtain in terms of cross elasticity. In other words, sorry took me some time. We could obtain cross elasticity, which is positive or negative on, say, behavior, say smoking, depending on the sign of this addictiveness term.
+
+199
+00:47:15.860 --> 00:47:35.320
+Davide Dragone: So by changing the addicting that would change the cross price. Elasticity of that paper with respect to that we add one of the key variables. That is this reinforcement property, and we also focus on health harm
+
+200
+00:47:36.065 --> 00:47:39.744
+Davide Dragone: which depends again on this reinforcement feature.
+
+201
+00:47:40.270 --> 00:48:05.140
+Michael Darden: That's great. That's helpful. Thank you. One thing I want to ask about that you didn't really talk about in the presentation you alluded to, but is prominent in the paper is the behavioral implication, some of the behavioral economics and some of the deviations from a rational model. And specifically, you focus on the kind of gall and pessendorfer literature on dual self and temptation.
+
+202
+00:48:05.360 --> 00:48:24.830
+Michael Darden: And I'm wondering why you focused in on that particular behavioral deviation from rationality when instead, you know again thinking about Alcott and Rafkin, they think about just the pure time and consistency problem in which someone is unable to
+
+203
+00:48:24.830 --> 00:48:41.070
+Michael Darden: plans to quit, but is unable to quit smoking cigarettes. Your focus is, instead on this dual self temptation framework. And I wonder what the differences in terms of policy implications are between those 2 frameworks. When we have this harm, reduction method.
+
+204
+00:48:42.630 --> 00:49:11.830
+Davide Dragone: Yeah, thank you. So in general, when we talk about policy interventions as economists, we always want to justify this intervention on the basis of some market failure or eventual internality or self-control cost. And this is typically this harm. Reduction debate is a typical case in which there is a policy intervention. So we wanted to. So what was the market failure? It was exactly what the discussion I had with John Coley, and we said, Well, where is the market failure.
+
+205
+00:49:12.020 --> 00:49:41.680
+Davide Dragone: and there is no market failure in the model, as the model I showed you, because the individual is perfectly able to understand cost and benefits of smoking and vaping in the long run, takes them into account and behaves optimally. But we felt like there was a missing ingredient, and that's why we went for the temptation and self-control course which allows to take into account this conflict between what people that want to smoke and people that can't quit. For example.
+
+206
+00:49:42.347 --> 00:50:06.999
+Davide Dragone: we did a model explicitly timing consistent behavior, because, in a sense, that is a second step. So I think conceptually, it's better to have the benchmark the first, st best, in a sense, what would be the best ideal behavior? And then, when you want to focus on whether people are able to implement that first, st best behavior. Then it's a good idea to introduce timing consistency as a second step.
+
+207
+00:50:07.380 --> 00:50:15.716
+Michael Darden: So. Okay, I I think I understand that. But that kind of so that that tease up my last question, which is, which is
+
+208
+00:50:16.270 --> 00:50:42.330
+Michael Darden: You know, I think of the rational addiction framework, or any of these frameworks as explaining the dynamics of people who have a positive stock of addictive capital already, and they do a good job of that. The models don't do a good job historically, of thinking about the initiation of these products. So if I'm a young person and I'm fully rational according to the model.
+
+209
+00:50:42.390 --> 00:50:54.269
+Michael Darden: I should be able to forecast the fact that this addictive path of consumption is going to lead me to lower levels of utility relative to a counterfactual in which I have no nicotine consumption at all.
+
+210
+00:50:54.801 --> 00:51:03.230
+Michael Darden: And so I I wonder you know, when we think about the world in which now there's not just one addictive product, but 2
+
+211
+00:51:04.056 --> 00:51:17.140
+Michael Darden: you know, I mean what assumptions are needed here. So we're assuming that people fully understand the addictiveness of each of these goods. Why are people starting in this case?
+
+212
+00:51:18.100 --> 00:51:18.980
+Davide Dragone: Oh,
+
+213
+00:51:20.840 --> 00:51:39.379
+Michael Darden: Because that's I mean, I asked that from kind of a policy perspective, too, because the the trade off here is that we want potentially to get smokers to switch. But we don't want to. We don't want to have young people start e-cigarettes. And that's what we're seeing in. The Us. At least, is huge of young people getting addicted to nicotine through e-cigarettes. So
+
+214
+00:51:39.910 --> 00:51:43.670
+Michael Darden: you know. Does your can. Can your model help us think about that?
+
+215
+00:51:44.830 --> 00:52:05.140
+Davide Dragone: Yes and no. So let's say you're fully right that the Russian addiction model explains why people keep on consuming an addictive good more than why do they start? And for that there are there were no other models that were like, because they don't know how much addictive it is. For example, our finance. There was
+
+216
+00:52:05.764 --> 00:52:12.319
+Davide Dragone: actually, for example, the picture I showed it was a picture in which the addiction stock was 0.
+
+217
+00:52:12.320 --> 00:52:12.990
+Michael Darden: And.
+
+218
+00:52:12.990 --> 00:52:28.049
+Davide Dragone: Initial consumption was 0. But then, exactly because of the incentives people start consuming. I'm not sure, however, that in the long run the profile of a person that starts smoking, although, is harming
+
+219
+00:52:28.190 --> 00:52:34.570
+Davide Dragone: their health. I'm not sure this is the level of utility is going to be higher than the.
+
+220
+00:52:34.910 --> 00:52:36.479
+Michael Darden: Oh, I think it's gonna be lower.
+
+221
+00:52:37.320 --> 00:52:44.820
+Davide Dragone: I'm not. I'm not sure I'm not going. I'm not sure it's going to be lower. I'm not sure it's going to be lower. You have to take into account, also that
+
+222
+00:52:45.610 --> 00:52:46.080
+Davide Dragone: it's over.
+
+223
+00:52:46.080 --> 00:52:53.339
+Davide Dragone: They wouldn't do that. Actually, they wouldn't start if if the overall profile, the overall discounted profile were
+
+224
+00:52:55.650 --> 00:52:56.800
+Davide Dragone: were lower.
+
+225
+00:52:57.210 --> 00:52:58.989
+Davide Dragone: No, no, you're these are. You're fully right.
+
+226
+00:52:58.990 --> 00:53:06.869
+Michael Darden: I mean, I think that's the flavor of the question, right? So like I mean, they need some exogenous shock to get a positive stock to get them going right.
+
+227
+00:53:07.070 --> 00:53:09.420
+Michael Darden: some, some something that.
+
+228
+00:53:09.710 --> 00:53:30.069
+Davide Dragone: That's the usual. That's the Becker, Murphy explanation. If something happens, a divorce or a shock. And therefore, for some reason, I start in our model. It's just that it's convenient, even with a 0 stock, because you take into account the future consequences. This is just a good idea to start.
+
+229
+00:53:30.070 --> 00:53:49.920
+Michael Darden: I see John has a comment in the chat. It says, people initiate when they perceive the marginal utility of consumption is greater than the sum of all of the pecuniary costs and their perception of the long run, non pecuniary costs, future which include health, future health harms, and future higher addictive stock.
+
+230
+00:53:50.280 --> 00:53:51.260
+Michael Darden: Okay?
+
+231
+00:53:51.490 --> 00:54:04.319
+Michael Darden: So it's, I think what's interesting here, too, is that you know, in in most of economics, we think of innovation as being utility and improving right. And so here we have a innovation that
+
+232
+00:54:04.470 --> 00:54:13.840
+Michael Darden: the kind of utility implications are are mixed, depending on its features, and the behavioral response.
+
+233
+00:54:13.840 --> 00:54:27.389
+Davide Dragone: Even more actually, exactly even more, because what we explicitly acknowledge is that actually, policymaker may have also in the debate. People may have different objectives. You may just be interested in teenagers, smoking.
+
+234
+00:54:27.770 --> 00:54:43.280
+Davide Dragone: or in smoking behavior per se, or in health, farm, or in utility in terms of utility. This is all well, except for the case, that the self-control, extension, but without temptation and self-control. This is all welfare improving.
+
+235
+00:54:43.540 --> 00:54:44.170
+Michael Darden: Yeah, okay.
+
+236
+00:54:44.170 --> 00:54:48.529
+Davide Dragone: It's just health worsening in some cases. So it makes people smoke more.
+
+237
+00:54:48.800 --> 00:54:55.439
+Davide Dragone: So just considering single parts, single ingredients of our utility function.
+
+238
+00:54:55.590 --> 00:55:23.709
+Mike Pesko: So we have a few outstanding questions, so I probably should try to cover these quickly. Thanks for a great, great discussion. One of the questions here in the chat from one of the tops administrators is many countries, and some Us. States have introduced limits on nicotine concentration in vape liquid. Does your model predict that this would reduce addiction, stock, and lower consumption of both the harm, reduction method and the original harmful good.
+
+239
+00:55:26.100 --> 00:55:31.040
+Davide Dragone: And he should. Yes, yes.
+
+240
+00:55:31.260 --> 00:55:32.130
+Mike Pesko: Okay. Okay.
+
+241
+00:55:32.130 --> 00:55:34.680
+Davide Dragone: Sorry. It's very short, short answer.
+
+242
+00:55:34.680 --> 00:55:43.749
+Mike Pesko: Okay, alright, so I'm gonna combine 2. 0, I see. John's responding to one of Ken Warner's questions now. But I'll try to co collapse them here.
+
+243
+00:55:43.880 --> 00:56:01.279
+Mike Pesko: So Ken says, the rational addiction models largely ignore the rationality of becoming addicted. Becoming addicted is rarely, if ever, rational in the sense that beginning smokers or vapors do not understand addiction. If you believe that they will become addicted, please explain how you incorporate this in your model
+
+244
+00:56:02.063 --> 00:56:07.710
+Mike Pesko: incorporating your model of irrational irrationality or irrationality of becoming addicted.
+
+245
+00:56:07.890 --> 00:56:25.770
+Mike Pesko: And he also then added, also, considering the addiction versus harm utility factors. There are studies, reporting that laboratory mice addicted to certain drugs will choose those drugs over food and water repetitively, they will literally starve themselves to death. Please explain how you would incorporate such irrational behavior into a rational addiction model.
+
+246
+00:56:26.880 --> 00:56:42.629
+Davide Dragone: So the the term yeah, I should have been very, very clear. So the term rational is not the term rational. We use in normal discourse. So the term rational in the rational model means
+
+247
+00:56:43.370 --> 00:57:07.870
+Davide Dragone: it's a technical concept which just means that people exactly know what they want to do, and they behave as they planned. It has nothing to do with being smart, or being clever or being farsighted. So in general, when we talk about being people doing irrational things. It's like doing stupid things. In this specific case rationality is not about people being smart.
+
+248
+00:57:07.870 --> 00:57:30.899
+Davide Dragone: It's just people making a plan which they believe is the optimal plan and being able to implement it. So it's a technical definition. I think it's a marketing, probably marketing mistake, or probably marketing genius genius idea to call it a model of rational addiction. It's a model of addiction in which people learn over time how to how
+
+249
+00:57:31.380 --> 00:57:33.920
+Davide Dragone: how to affect the preferences. In a sense.
+
+250
+00:57:34.470 --> 00:57:40.649
+Davide Dragone: So what I'm saying is that it's a linguistic, definitional problem.
+
+251
+00:57:41.220 --> 00:57:44.260
+Davide Dragone: It doesn't. It has nothing to do with being smart.
+
+252
+00:57:45.090 --> 00:58:03.090
+Mike Pesko: Okay? And I have. I have one of my own questions. So I'm assuming that the harm reduction method. It depends on people preferring your like. The original addictive good more than the harm reduction method is, is that accurate.
+
+253
+00:58:03.790 --> 00:58:14.030
+Davide Dragone: It's not necessary. It's not strictly necessary. It's just people that were smoking before or using the original addictive good. And then the other good becomes available or less expensive.
+
+254
+00:58:14.510 --> 00:58:18.809
+Mike Pesko: So I mean you know, I I guess. How how do? How should we think about?
+
+255
+00:58:18.920 --> 00:58:20.460
+Mike Pesko: I think that
+
+256
+00:58:21.069 --> 00:58:26.020
+Mike Pesko: you know, like I typically think of harm reduction, at least as like, okay, there's some
+
+257
+00:58:26.230 --> 00:58:47.890
+Mike Pesko: product that provides less utility to users, right? But that's safer right? And so people, they make like a trade off, you know, between, you know, I want to consume the the original substance because I like it more. But this other product is safer. So you know, I'm going to to use that right. And e-cigarettes in some ways, I feel is kind of unusual, because.
+
+258
+00:58:47.890 --> 00:58:59.410
+Mike Pesko: you know, I think there's a lot of people like there's a lot of accidental quitters, people that didn't even mean to quit smoking, and they picked up an e-cigarette and tried it one day, and suddenly they decided that they just preferred the e-cigarette. Right?
+
+259
+00:58:59.831 --> 00:59:24.008
+Mike Pesko: And and obviously it doesn't have some of the you know, some of the the odors that that smoking have, and and other things like that that aren't necessarily health, but that that might affect, you know, desirability of using one product or the other. So so our should we be thinking of e-cigarettes as a harm reduction? Or is there kind of a case to be made that e-cigarettes aren't necessarily a harm reduction product. And they're they're just kind of
+
+260
+00:59:24.460 --> 00:59:30.870
+Mike Pesko: like a product that some consumers, at least might just prefer even regardless of like
+
+261
+00:59:31.726 --> 00:59:37.739
+Mike Pesko: the even regardless of the health implications, they might just have a stronger preference for one or the other.
+
+262
+00:59:37.740 --> 00:59:49.659
+Davide Dragone: I think it's I think it's a fair comment. So in principle the the 2 goods may have different marginal utilities, so vaping can be so. The harm reduction method can be yes, worse quality, in a sense. So
+
+263
+00:59:50.220 --> 01:00:06.250
+Davide Dragone: or but could also be more more appreciated, more desirable. That wouldn't change the results on vaping. The way we think to vaping in the context of this paper is that it can be a harm reduction method. It's actually the
+
+264
+01:00:06.560 --> 01:00:25.150
+Davide Dragone: the way we think this. And we were interested in the conditions under which smoking and vaping are substitutes and complements. And and we are actually kind of happy that we could reconduct these differences to the intensity of how much addictive is vaping.
+
+265
+01:00:27.670 --> 01:00:36.550
+Mike Pesko: Alright. Well, thanks so much for a great presentation. In a in a thoughtful discussion, I'm going to turn it over to our Mc. To take us out the door.
+
+266
+01:00:37.100 --> 01:00:38.190
+Davide Dragone: Thank you very much.
+
+267
+01:00:39.350 --> 01:00:48.809
+Reggie Hebert: We are out of time. Thank you to our presenter moderator and discussant, and finally, thank you to the audience of 181 people for your participation have a top-snotch weekend.
+
