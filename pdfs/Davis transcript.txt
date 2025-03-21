@@ -1,0 +1,328 @@
+14:00:48 Hello, everyone. Welcome to the Tobacco Online Policy Seminar, also known as TOPS.
+14:00:54 Thank you so much for joining us today. So I'm Mariel Bello. I'm a postdoctoral research associate.
+14:00:59 At the Center for Alcohol and Addiction Studies at Brown University School of Public Health.
+14:01:04 And TOPS is organized by Mike Pesco at the University of Missouri see Chang at the Ohio State University, Michael Darden.
+14:01:13 At John Hopkins university Jamie Hartman voice.
+14:01:18 At University of Massachusetts Amherst and justin white at Boston University.
+14:01:24 So the seminar will be one hour with questions from the moderator and discussant.
+14:01:28 And the audience may post questions and comments in the Q&A panel And the moderator will draw from these questions and comments in the conversation with the presenter.
+14:01:38 So please review the guidelines on tobacopolicy.org for acceptable questions. And please keep the questions professional and related to the research being discussed.
+14:01:49 Questions that meet the seminar series guidelines will be shared with the presenter afterwards, even if they're not read aloud.
+14:01:55 And your questions are very much appreciated. So this presentation is being video recorded and will be made available Along with the presentation slides on the TOPS website.
+14:02:06 At tobaccopolicy.org. So I'll turn over the presentation to our moderator, Justin White from Boston University.
+14:02:17 Today, we continue our winter 2025 season with a single paper presentation by Brad Davis.
+14:02:24 Entitled Estimating the Effect of E-Cigarette Nicotine Limits on E-Cigarette and Cigarette Sales.
+14:02:31 This presentation was selected by a competitive review process by submission through the TOPS website.
+14:02:36 Dr. Brad Davis is a postdoctoral fellow at the University of Missouri and a health economist.
+14:02:42 Specializing in the regulation of tobacco, marijuana, and firearms. He serves as an administrator for TOPS and teaches the economics of crime.
+14:02:50 He earned his PhD in economics from Florida State University in May 2024.
+14:02:56 Dr. Mike Pesco, a professor at the University of Missouri, is a co-author of the study and will answer select questions In the Q&A. Brad, thank you for presenting for us today.
+14:03:19 See you anymore. All right. Thank you so much for that introduction.
+14:03:24 And as Justin noted, I'm a postdoctoral fellow here at the University of Missouri.
+14:03:30 And part of my responsibilities is that I am actually one of the administrators for the top seminar.
+14:03:36 First off, I just want to say thank you to everyone who attends this seminar.
+14:03:41 This is a great resource to provide research for people in this field.
+14:03:47 It wouldn't happen without the people that attend. So thank you.
+14:03:51 Today I'll be presenting a joint work with Abigail Friedman and Mike Pesco on estimating the impact of e-cigarette nicotine limits on sales of e-cigarettes and combustible cigarettes in Canada.
+14:04:07 So this research is supported by the National Institutes of Health and by Health Canada. And the content here is solely the responsibility of the authors and does not necessarily reflect the views of NIH or Health Canada.
+14:04:23 In addition, my research has been funded in part by the American Cancer Society and the National Institutes of Health.
+14:04:30 And I have received no tobacco related funding over the previous 10 years or ever.
+14:04:38 So to motivate, we've seen a lot of governments around the world wanting to regulate nicotine in tobacco products with the aim of reducing their addictiveness and reducing negative health outcomes that are caused by tobacco products.
+14:04:56 So an older example of this is around 20 and 30 years ago, we saw many countries, including the EU, limit the amount of nicotine that could be inhaled by combustible cigarettes to one milligram.
+14:05:12 More recently, we've seen governments considering mandating very low nicotine cigarettes.
+14:05:19 These are cigarettes that have had 95 to 99% of the nicotine removed from them.
+14:05:25 And we saw in January of this year. The US FDA proposed a rule mandating these cigarettes. However, with the new administration, this has been moved to long-term actions.
+14:05:38 Signaling that this isn't likely to take place anytime soon. Similarly, we saw New Zealand pass legislation to severely limit nicotine in cigarettes.
+14:05:52 But this law was later repealed before it could ever take effect.
+14:05:58 We've also seen regulations for e-cigarettes limiting nicotine so For example, in the EU, they limited nicotine to 20 milligrams per milliliter. This is the nicotine concentration in vape liquid.
+14:06:13 Canada also passed the same limit of 20 milligrams per milliliter.
+14:06:17 And even in the US, we've seen some states do the same concentration or same nicotine limit, but at a higher concentration. So 35.
+14:06:26 Milligrams per milliliter. Currently, there are no economic studies that estimate the impact of limiting nicotine in tobacco products. So in this paper, what we do is use a difference in difference model to study the impact of Canada's nicotine limit of 20 milligrams per milliliter and see how it affects sales of e-cigarettes and combustible cigarettes.
+14:06:54 So we'll begin by looking at two theoretical models that are going to provide insights on what we might expect the impact of a policy like this to be.
+14:07:05 So the first model is the LARB 2020. Their model says that consumers are purchasing varying different tobacco products based on their underlying demand for nicotine.
+14:07:17 And so they'll consume different products depending on the cost of the product, the efficacy of the product at delivering nicotine.
+14:07:25 In the health and social cost of that product. And so when we think about limiting nicotine in e-cigarettes.
+14:07:34 So again, this is thinking about nicotine concentration. Once you lower the nicotine concentration.
+14:07:42 If consumers are wishing to consume the same amount of nicotine.
+14:07:47 They'll have to consume more volume of the product. So it increases the, in other words, it increases the per unit cost of consuming the container from e-cigarettes and it reduces the efficacy of nicotine delivery.
+14:08:04 So if they're wishing to keep their nicotine consumption constant, they may either increase consumption of e-cigarette products, or they might substitute other tobacco products, including combustible cigarettes, which are a more harmful product.
+14:08:23 There's also this other model from call A and drag on in which we actually saw presented two weeks ago on top. So if you're interested further in this model, you can see the, you can go to the website and see the
+14:08:37 The recording from that presentation. What this model does is it looks at products where you have a a harmful addictive good and then a harm reduction method. And when does that lead to that lead better outcomes. And what they say is that the more addictive the harm reduction method is, so in this case, e-cigarettes.
+14:09:00 The more it increases the marginal utility of the harm reduction method and the original addictive good.
+14:09:08 So in other words, when thinking about limiting nicotine concentrations.
+14:09:13 This should reduce nicotine addiction overall and lead to reductions in consumption of both e-cigarettes and combustible cigarettes.
+14:09:24 In addition, we might expect that lower addiction levels could increase quit success rates when people are wishing to discontinue use of tobacco products.
+14:09:36 So these two different models highlight different potential impacts. One model says we'd expect to see reductions in use of e-cigarettes and tobacco products.
+14:09:47 While another model says we might experience unintended consequences of the policy, such as increases in e-cigarette sales or increases in cigarette sales.
+14:09:58 So this highlights the importance of testing empirically what the impacts of a policy like this would be.
+14:10:08 So I'll go ahead and give you the timeline of this policy's adoption within Canada because There was some early variation at the province level.
+14:10:17 Starting with Ontario in July 2020, they implemented a nicotine limit of 20 milligrams per milliliter Followed by British Columbia and Nova Scotia in September 2020.
+14:10:31 And then in July 2021, the federal government applied a nicotine limit across all provinces and territories the same limit of 20 milligrams per milliliter.
+14:10:44 And so the natural approach to identifying the effect would be to look at this early variation at the province level and estimate the impact up until the federal limit. And that's how we initially approached this topic.
+14:11:00 However, we were running into some hurdles along the way. So the first hurdle was that Ontario exempted vape shops.
+14:11:08 And as you'll see in a few slides, our data is for gas and convenience stores.
+14:11:13 So including Ontario in our analysis would have introduced a lot of bias that would have been very difficult to overcome.
+14:11:20 Ultimately had to drop Ontario completely. Then British Columbia's policy also accompanied a flavor ban Which makes it more challenging to separately identify the impact from the flavor ban versus the nicotine limit.
+14:11:39 And then finally, for Nova Scotia. Our sales data aggregates the entire Maritimes region. So three provinces into one panel so that that panel would have only received a partial treatment.
+14:11:53 And so all of these things combined led us to having to abandon this initial identification strategy.
+14:12:03 So what we do instead is we use a difference in difference framework, but we're comparing The late adopting provinces due to the federal limits to our early adopting provinces. So in this case.
+14:12:18 Our control group are always treated provinces. So we're looking at the impact in the provinces that were treated because of the federal limit relative to provinces that already had the policy in place.
+14:12:33 And so all of these policies Except for Ontario, all these policies limit the nicotine concentration in e-cigarettes to 20 milligrams per milliliter and it applies broadly to all retailers including General retailers, vape shops, and online sales.
+14:12:57 So moving on to our data. We use.
+14:13:02 So all of our data is for October 2020 through December 2022. So this gives us nine months of pretreatment.
+14:13:10 Period. And then about a year and a half of post-treatment.
+14:13:14 For our e-cigarette data, we use data from Nielsen IQ. It provides detailed data of sales of e-cigarette products in about 6,000 gas and convenience stores.
+14:13:25 This is 24% of the gas and convenience store retail sector.
+14:13:32 And gas and convenience store the sales make up about 31% of e-cigarette sales within the e-cigarette market.
+14:13:43 This data is reported at the UPC by province, by month, year level.
+14:13:49 So UPC is just another name for a barcode. So every unique product has its own UPC. So it might be the same brand, the same flavor.
+14:14:01 But a different nicotine concentration, it will receive its own UPC or maybe same brand, same concentration, but a different flavor, it will receive its own UPC.
+14:14:11 And so we take this data and aggregate the sales characteristics to the province by month, year level for our analysis.
+14:14:20 Unfortunately, one of the limitations of this data set is that we're limited to four panels representing five provinces.
+14:14:31 For our outcomes, we look at the nicotine average nicotine concentration The price per milligram of nicotine. So how much do consumers have to pay to receive a milligram of nicotine.
+14:14:44 We look at sales defined as the number of units per capita.
+14:14:50 And then we also look at the average fluid volume per unit.
+14:14:53 The price of e-cigarettes and the number of unique UPCs.
+14:15:00 So we also supplement this analysis with data from Google Trends.
+14:15:05 Which is going to measure relative search interest within Google searches.
+14:15:10 About tobacco products. So there's three outcomes we look at. We look at Google searches related to e-cigarettes.
+14:15:18 Google searches related to e-cigarettes specifically within Google Shopping, which is the online shopping platform within Google.
+14:15:25 And then we look at Google searches containing the phrase vape shop.
+14:15:31 And we believe that these search terms are good proxies for changes in consumer behavior.
+14:15:37 So for our e-cigarette sales data, one limitation is that we're limited to gas and convenience stores.
+14:15:44 However, if there are other changes in other markets such as online markets or in vape shops, this is going to going to tell us something about the direction of those impacts.
+14:15:56 So if there are changes in Google searches within Google Shopping.
+14:16:01 We can infer that this is a good indication of changes in sales within that retail sector.
+14:16:10 And so what do we mean by when we say searches related to a topic?
+14:16:14 That's just a broad umbrella of several search terms. That relate to a specific topic.
+14:16:21 And this is a more robust method because it doesn't rely on any specific search phrase.
+14:16:29 And this data is available at the province by month year level and includes nine provinces.
+14:16:35 We have to exclude Prince Edward's Islands and the island and the territories due to low search volume, which prevents these scores from being calculated.
+14:16:46 And then finally, for our cigarette sales data. We use data from from Health Canada, which reports shipments of cigarette sticks from manufacturers to wholesalers and retailers.
+14:17:00 And this is very high quality data because it's mandatory that it's reported to the government and it's available at the month year level for all territories and provinces.
+14:17:13 So for our identification strategy, we estimate the following difference in difference model.
+14:17:20 Where our dependent variable is either the units of e-cigarettes or the sticks of combustible cigarettes per capita.
+14:17:27 In province P and month T. Our treatment variable is nicotine limit, which indicates when the nicotine limit goes into effect. So for our treated group, this is when the federal policy goes into effect.
+14:17:41 For our control group, this variable always turns on, so it's not changing for the control.
+14:17:48 And then we also control for other time varying policies that are of interest, such as the cigarette tax rate.
+14:17:55 The e-cigarette tax rate an indicator variable for e-cigarette flavor bands.
+14:18:01 And then also an indicator variable for the Atlantic region During a time of… of a COVID related travel ban between Quebec and the Atlantic region, which is believed to have led to increases in cigarette sales within the Atlantic region.
+14:18:18 And then finally, we also include province by month At province and month year fixed effects.
+14:18:28 So beta one is our coefficient of interest, and it has a causal interpretation under the parallel trends assumptions.
+14:18:36 Assumption, which we will evaluate using event studies.
+14:18:41 And then one thing to note is that we do have a small number of clusters. So we cluster at the province level.
+14:18:48 Which can lead to, because of the small number of clusters, this can lead to over rejection of the null hypothesis.
+14:18:54 We supplement our analysis with Wild Bootstrap p-values to correct for this over rejection.
+14:19:03 Let's see. And we'll go ahead and pause here for questions.
+14:19:08 Great. Thank you. As a reminder to our audience, you can put any questions you have in the Q&A panel. And our discussant today is Dr. Kaiwen Chang, an associate professor in the Department of Health Administration and Informatics.
+14:19:25 At Governor State University. Dr. Chang's expertise and training are in health economics and policy analysis, specifically in the tobacco control field, and I will turn it over to you, Kaiwan, if you have any comments or questions at this stage.
+14:19:38 Thanks a lot, Justin. Thank you, Brad.
+14:19:44 This is a timely research project. There is an established body of literature confirming substituting behaviors from consumers in response to other policies such as taxes, minimum legal purchase age laws.
+14:19:58 And flavor bins. This is the first economic paper exploring the potential substitution responses Electronic cigarettes nicotine limit policy. Thank you again for allowing me to read this article. I enjoy reading it. I look forward to seeing this article getting published.
+14:20:22 I have a few questions, well actually two questions. It totally makes sense to me to explore the possibility of switching from e-cigarettes to cigarettes for a cheaper nicotine source alternative.
+14:20:38 In response to e-cigarette nicotine limit policy. But aside from switching to a completely different nicotine product category.
+14:20:49 Jew is back, there may be some switching within e-cigarette. Product category, for example.
+14:20:55 Switching to cartridges with larger volumes or switching to Salt-based e-cigarettes that deliver nicotine more efficiently.
+14:21:07 Users may now have more frequent paths They may take deeper or prolonged paths to maintain their desired nicotine level And switching to cartridges with larger volumes to sustain their frequent puffs or switch to E-cigarettes to consume nicotine in a more efficient way
+14:21:31 Do you consider, do you think this is a reasonable argument and how would this potential switching within e-cigarettes category affect your findings.
+14:21:43 And the second question is about the rationale for why focusing on the Google search for vape shops and online shopping I understand you use this as the proxy for online and vape shop purchasing for e-cigarettes.
+14:22:03 But federal policy And the most provincial policies on e-cigarette nicotine limits include online and vape shop purchasing channels as well.
+14:22:15 So could you please clarify the rationale for looking at these purchase purchasing channels And why you would expect there could be an increase in e-cigarette sales from these channels after the policy.
+14:22:31 So these are the two questions I have for now.
+14:22:35 Yep. Thank you for those questions or for those good clarifying questions.
+14:22:41 Those are actually closely related. Right. With the nicotine limit, the consumer is going to have, if they're going to consume the same amount of nicotine after They're going to have to consume more volume so more more puffs, maybe deeper puffs, and so on and so forth. And so actually, I think we think that could actually lead to some substitution into
+14:23:07 Other markets besides gas and convenience stores. So ideally. We would use sales data from vape shops or online sales, but that's not currently available right now or not that we know of. And so as a proxy we we use the Google Trends. Now, how does this relate to sales at gas and convenience stores? So most of these sales are
+14:23:36 In gas and convenience stores are for pods. So you buy a device and the nicotine or the vape liquid is in these prepackaged pods that you can replace and they usually sell them for uh you know for with about two milliliters
+14:23:54 Per pod. If you're suddenly consuming more volume.
+14:24:00 That's going to come at an increased cost. And so you might be looking for a cheaper alternative One of those cheaper alternatives would be to use a device that has its own refillable liquid. So you buy a much larger
+14:24:16 Bottle of vape liquid 30, 50 or 100 milliliters And then you can pour it into the device to refill it, if you refill it. And this is often substantially cheaper than using the pods or the cartridges.
+14:24:32 And so that's one reason why we might expect substitution into other retail sectors like bait shops and in online markets. Another reason might be if there is noncompliance within the with vape shops or online retailers, which there has been some evidence shown by the Canadian
+14:24:59 Vaping Association, they put out a report last year showing that some vape shops were not being compliant. And in this report, they have, for example, that they'll list the product as 20 milligrams per milliliter, but then It might say something like, feels like 50, right? And then
+14:25:19 Of course, if you test it, it's actually 50 milligrams per milliliter.
+14:25:25 And so those are two reasons why we might expect substitution into retail sectors.
+14:25:39 Thank you.
+14:25:40 Nope.
+14:25:36 Do you have anything else right now, Kylan? Okay. So maybe I have one clarifying question. You were just talking about compliance and I was curious Do you know how the law is being enforced? Do they have inspectors going out or do you have a sense of sort of
+14:25:54 How that operates?
+14:25:57 I'm not sure. That's a good question, too. To follow up on and to investigate more
+14:26:05 Yeah, that sounds good. It probably relates to the non-compliance issue. Okay, well, I'm not seeing any other open questions so feel free to continue.
+14:26:18 All right.
+14:26:23 All right, so we'll go ahead and start with our e-cigarette results. So this is Looking at the impact of nicotine concentrations.
+14:26:33 Which we see it reduced by 23 milligrams per milliliter so Before the policy, it was above 40 milligrams per millimeter.
+14:26:43 After it was right around 18. So this is a 50% reduction And this ride in line with what we'd expect. So after the policy, it went to 18 milligrams per milliliter with a federal policy of 20, you would expect the average to be
+14:26:58 Right around there. When we look at the price of nicotine from e-cigarettes so this is Saying how much how many does the consumer have to spend to get a milligram of nicotine, we see 128% increase in that cost to consumers.
+14:27:20 So in other words, consumers are going to have to pay more than double the amount to consume the same amount amount of nicotine.
+14:27:31 So before I show you the results for our e-cigarette sales.
+14:27:36 I just wanted to show you the unadjusted trends in e-cigarette sales. And so this gray box here shows sales from before the province before policy. And so since it's before the province level policy It's not available for analysis in our model.
+14:27:57 But what you can see, so the blue is our control group, red is the treated provinces.
+14:28:04 What you can see is that these two groups were experiencing increases in e-cigarette sales And then British Columbia put in their nicotine limit and you see sales begin to fall, but then level out around 0.015.
+14:28:20 Meanwhile, the treated group, they continue experiencing increases in sales. Until the federal limit goes into effect and then they begin seeing declines in sales of e-cigarettes.
+14:28:34 While the control group When the federal policy goes in.
+14:28:39 Experiences the same number of sales before and after. And so this is important to note for our identification strategy.
+14:28:46 Because you might imagine some scenario where the control group might be impacted by the federal limit.
+14:28:53 Which would make it might impact might make it a not not a good control group But we don't believe that's the case just based on the fact that sales are constant before and after in the control group. And if they were impacted in a significant way, you would expect to see some shifts here.
+14:29:14 All right, so moving on to the event study for e-cigarette cells We see about a 10% reduction. However, if we look at the pre-trends on this event study, we see that the that the trends are non-parallel prior to treatment so the
+14:29:31 The treated group is experiencing increases in sales relative to the control.
+14:29:36 Indicating that this estimate is likely biased. So there are a number of approaches that could be used to correcting bias from non-parallel trends.
+14:29:48 What we do is that we use a pre-trend extrapolation procedure that's been discussed and used in other papers.
+14:29:55 Essentially, what this approach does is that it uses the linear, the province level linear time trends in the pretreatment period.
+14:30:04 And projects that into the post-treatment period. And it adjusts the dependent variable to reflect deviations from that trend.
+14:30:13 And so when we use this model. First thing to note looking at this event study model is we see parallel trends in the pre-period And then we see a larger impact on e-cigarette sales. We see about a 41% percent reduction in e-cigarette sales within gas and convenience stores.
+14:30:35 So this is quite a large Reduction, especially when you consider it's being paired with the nicotine limit.
+14:30:45 So you have lower units being sold at lower concentrations. And this comes out to over a 50 reduction in the amount of nicotine being consumed from e-cigarettes at gas and convenience stores.
+14:31:00 Now, we might be concerned that although there's fewer units being sold, maybe they're selling them at higher volume.
+14:31:08 So we look at three different models. And even if we take the the largest estimate from this model. It's only about a 3% increase in the average fluid volume per unit. And so this is not a major concern for our analysis. In fact, we do another
+14:31:28 A model where we look at where we use the volume as our unit of sales And it does not affect our results.
+14:31:40 So looking at the impact on the market for low nicotine e-cigarettes.
+14:31:45 We might expect there's a lot of substitution from high nicotine e-cigarettes to low nicotine e-cigarettes.
+14:31:52 In a simple supply and demand model, we can model this as an increase in demand for low nicotine e-cigarettes, in which case we expect the price to go up and the quantity to increase.
+14:32:04 So if we look at the price for low nicotine e-cigarettes.
+14:32:09 We see some fairly precise estimates in these first few few periods.
+14:32:15 Small increases in price But then in the long run, these estimates their variance gets quite large.
+14:32:25 Suggesting that the impact is not there's not very precise in the long run.
+14:32:31 Which this is about what you'd expect considering that in the short run the that the supply is going to be highly inelastic In the long run, consumers are able or producers are able to adjust and and produce more. So this is about what we would expect.
+14:32:51 Looking at sales of low nicotine e-cigarettes, and I should just clarify, when I say low nicotine e-cigarettes, I just mean e-cigarettes below 20 milligrams per milliliter We see quite a large increase, so 320% increase in sales of low nicotine e-cigarettes. So we see this substitution taking place from high nicotine
+14:33:15 To low nicotine e-cigarettes. When we look at consumption of sales of high nicotine e-cigarettes.
+14:33:25 We see large reductions, a 97% decrease in high nicotine e-cigarette cells.
+14:33:32 And this is exactly what you would expect. I mean, this product is illegal after the policy goes into effect. And so you see almost all the sales for that product go away.
+14:33:47 We also look at the number of unique UPCs for high and low nicotine e-cigarettes. So just as a reminder, the UPC is the barcode. So every unique product has its own UPC.
+14:34:02 And we can see that in the red, looking at high nicotine UPCs, we see a sharp decline after the policy goes into effect.
+14:34:11 And which approaches zero in the long run. So companies are discontinuing their high nicotine Products, meanwhile, for low nicotine products, we see an increase in the number of UPCs. And so this means that after the policy companies are releasing new
+14:34:30 New low nicotine products. And so looking at the overall effect, it kind of creates this unique U-shape where you see a decline in the number of unique e-cigarette products. But in the long run, after about 15 or 16 months.
+14:34:49 We're back at the same level as we were before.
+14:34:58 So just to summarize our findings on the effect of sales at gas and convenience stores, we see Nicotine concentrations reduce from just over 40 to 40 to about 18 milligrams per milliliter.
+14:35:15 We estimate that the overall unit sales goes down by 40%.
+14:35:22 We see an increase in the price of consuming nicotine from e-cigarettes by 125%, so more than doubling the price consumers have to pay to consume nicotine from e-cigarettes.
+14:35:34 And then finally, we see an increase in the number of unique low nicotine e-cigarette products by also 125%.
+14:35:45 So we see that sales are going down in gas and convenience stores.
+14:35:51 Next, we're going to look at our Google Trends analysis, which are going to tell us something about what's taking place in other markets such as online markets or vape shops.
+14:36:07 You know, we might expect that that search interest also goes down for other retail sectors.
+14:36:18 However, we also might see increases if consumers substitute to other retail markets.
+14:36:27 So looking at Google searches related to e-cigarettes, we see about an 18% increase.
+14:36:37 Now, something to note is that the impact doesn't really happen until about eight months after the policy.
+14:36:44 So this suggests that there might be some stockpiling so maybe consumers stockpile the high nicotine product before the ban.
+14:36:53 And then once they run out, they might be going to vape shops Or sorry, or other retailers spaces to to buy higher volume products.
+14:37:08 When we look at searches related to e-cigarettes within Google Shopping.
+14:37:14 We see a 19% increase. And it doesn't really, again, it doesn't really pick up until about eight months after the policy goes into effect so so there's 19% more Google searches within the online platform online uh yeah the online platform within Google.
+14:37:37 For online sales. And then we see a 34% increase in Google searches containing the phrase vape shop. And the pattern persists of this taking place around uh eight months after the policy goes into effect. So these three results combined
+14:38:01 Suggest that there's, at the very least there's more consumer interest in e-cigarettes in Google Shopping.
+14:38:10 And more consumer interest in vape shops Which we believe is a good proxy for sales in these categories as well although You know, because this is not sales data, we don't we don't have an indication of the… of how much sales might be changing in these categories.
+14:38:31 So we'll go ahead and pause here. For more questions and comments.
+14:38:37 Great. I would encourage the audience to keep your questions coming through the Q&A panel.
+14:38:42 And if we don't have a chance to get to all questions or if you would like to discuss with the speaker directly with mics enabled.
+14:38:50 You're welcome to attend Top of the Tops immediately following the webinar.
+14:38:55 And if you're interested, please keep the meeting room URL posted. Sorry, copy the meeting room URL, which is going to be posted in the chat.
+14:39:05 Now so that you'll be ready to join the live discussion once this webinar concludes. And I will now turn it over to Kai Wen, our discussant.
+14:39:16 If she has any further questions at this time.
+14:39:20 Thanks, Justin. Yeah, I'm wondering about the potential influence of pandemic and Ivali as well Since this adoption of adoption nicotine limit policy happens around the pandemic.
+14:39:39 Particularly for the early adoption provinces. So this increase of online shopping, online searching.
+14:39:47 Google information sorts of things Or purchase or not purchase of nicotine products may be partially due to pandemic and lockdown rather than e-cigarette nicotine limit potential or potentially Also, around that time, the Ivali outbreak may also explain the decrease in e-cigarette cells
+14:40:11 Pandemic lockdown policies and risk perception of Ivali outbreak may also differ by province. So how would you consider these contextual factors of pandemic and evaluate potentially explain your findings?
+14:40:28 Yeah. So yeah, I mean, that's always a concern with with research done around this time period.
+14:40:35 So one of our robustness checks that we do in the paper is that we drop 2020 from our analysis, which is a common robustness check in case there's something taking place in 2020.
+14:40:48 Now… And our results are consistent when we do that.
+14:40:53 Now, there might be a concern around the time of when when when the lockdowns start ending in 2021 and and in provinces opening opening back up.
+14:41:10 Now, that would only be a concern Because we have province or time fixed effects, right?
+14:41:18 If it's impacting all provinces. Equally over time, we wouldn't expect that to be driving the results So there would have to be something that's correlated precisely with our treatment variable that's not happening in our control.
+14:41:38 Provinces. At the time, I'm not aware of any way in which that might be driving the results, but that's certainly probably something that we could investigate further.
+14:41:58 Okay, I think there is one there is one further question, which is actually in the answer tab of the Q&A where there was a clarification from Jessica Reid about sort of like the nature of your analysis and She asked as a follow up whether you've tried running what I believe is referring to the Google Trends analysis
+14:42:21 Using only the same five provinces that you used in your e-cigarette sales analysis.
+14:42:31 We have not actually, but I think that would probably be Probably be a good thing to do. And so, yes, I would definitely um consider adding that. So just so that we make sure we're comparing the estimates in the same provinces. Yep.
+14:42:48 Okay. I am at this point not seeing other questions. Mike is efficiently querying.
+14:42:54 Them. So feel free to wrap up.
+14:42:58 All right. Thank you. All right, so now we'll move into our results for cigarette sales.
+14:43:08 Now, cigarette sales are a bit more cyclical, so there's a lot more up and down in these trends.
+14:43:13 And it's not quite as smooth as the e-cigarette sales but If you're looking at the timing of this federal limit and looking before and after It's not clear that there's any large changes between the treatment and control groups. It appears roughly the same before and after.
+14:43:37 And so I'll go ahead and move on to the results and show that that's about what we see in our results as well.
+14:43:47 It doesn't appear to be any differences before and after the policy goes into effect.
+14:43:52 We do estimate a negative coefficient. However, it's not statistically significant and it's not economically significant.
+14:43:59 Only about a 3% reduction. So we don't see any impact on any impact on on cigarette sales.
+14:44:11 We do some robustness checks for this result. So we do the drop one province.
+14:44:16 We run the same analysis, but dropping a different province every time just to make sure that there's not something unique or unobserved about any one province that's driving the result.
+14:44:28 And it's pretty consistent across all coefficients. We use different models. So here on the far left is our baseline model.
+14:44:39 However, we also run an unweighted model So in our baseline, we weight it by population We do a model where we drop 2020 in case we think There's something funny going on with COVID.
+14:44:57 We do run a model adding Ontario as a treaty group and then we run And then we do a model of synthetic difference and difference. And none of these estimates are statistically significant and in all of the coefficients are roughly the same.
+14:45:15 All right, so in summary, we estimate the impact of a 20 milligram per milliliter a limit in e-cigarettes.
+14:45:25 And we find that a 40% decrease in e-cigarette sales in gas and convenience stores.
+14:45:33 Which corresponds to about a 60 to 70% decrease in nicotine consumption from e-cigarette sales at gas and convenience stores. So this is a large reduction in nicotine consumption.
+14:45:46 There is one paper from the public health literature that looks at the impact of Utah's 35 milligram per milliliter e-cigarette nicotine limit. And they find that it was not associated with any changes to in e-cigarette sales?
+14:46:01 And there might be two reasons for the difference in findings between our paper And there's one is that the Utah's limit is 35 milligrams per milliliter, which is significantly higher than Canada's limit of 20.
+14:46:17 The other reason is that we find evidence of shifts in consumer behavior to online outlets into vape shops. And we find this through the form of using the Google trends and we see a 19% increase in searches related to
+14:46:33 E-cigarettes within Google Shopping. And a 34% increase in searches containing the phrase vape shop.
+14:46:43 And so overall, it's hard to make any conclusions about the total impact on e-cigarette sales. Since we don't know, we don't have the proper data to estimate potential changes that are taking place in the vape shop or online.
+14:47:03 Markets. And then finally, we don't see any effect on sales of combustible cigarettes.
+14:47:12 And can rule out effects larger than a 3% increase. With 95% confidence based on conventional clustered standard errors.
+14:47:25 And so going back to the two models that I introduced at the beginning.
+14:47:32 In some ways, they are both predictive of different things taking place in the market. So in the large 20, yeah, I think 2020, they say It predicts that you'd potentially see substitution of consumers to lower cost tobacco products.
+14:47:50 Which is likely what's taking place based on our results from Google Trends is consumers may be switching from gas and convenience stores to vape shops so that they can buy products that have more vape liquid at a lower cost.
+14:48:08 And then going back to Kali and Dragoon. They predict that you would see decreases in sales of e-cigarettes and tobacco products. And while we don't know for certain what's taking place uh overall in the e-cigarette sales market.
+14:48:29 We can say that we don't see increases in cigarette sales.
+14:48:34 And so we don't estimate that there's any unintended consequences in terms of people going back to combustible cigarettes.
+14:48:44 So that's all I have for my presentation. I guess we'll continue with more Comments?
+14:48:53 Any questions?
+14:48:53 Yeah, great. Thanks so much, Brad. Kaiwen, do you have any other questions at this point?
+14:49:00 Nope.
+14:49:08 Yep.
+14:49:01 Okay. So it looks like Mike is in the process of answering one of the open questions. If I could ask just one clarifying question about the cigarette data. It seems like shipments to wholesalers and retailers is slightly different from sales.
+14:49:18 And I'm not really familiar with sort of the shipments data. You mentioned it's high quality.
+14:49:24 Do you know how correlated it is with sales um
+14:49:32 So is your concern that they might be sending it to a retail and then they're not selling the product?
+14:49:39 So the timing of the sales could be different as well as, you know, especially shipments to wholesalers who are then sending it off to some other retailer. I don't know if those wholesalers would be selling, sending it subsequently just to retailers in Canada or possibly elsewhere. I guess that would be another concern.
+14:49:58 Yes, that's a good question. I hadn't really considered that much.
+14:50:05 Thinking about there might be some delay in timing I'm not sure. I'll have to think about that.
+14:50:11 And consider the implications I think… You know, it's probably shipments to retailers is probably a good proxy for sales, but there might be some delay. And then I don't know about whether the wholesalers are sending it to across provinces.
+14:50:32 But yeah, I'll have to look into that. Thank you.
+14:50:35 Sure. We do now have a few questions here. So one is just asking about subgroups. So were there changes in consumption evaluated in subgroups such as Black people, Eskimos.
+14:50:49 Low-income population, LGBTQ, Yeah, so what are your thoughts?
+14:50:56 No, unfortunately, we don't observe anything about the consumers. All this is from the the retailer's perspective. So all we have is the sales of different product types.
+14:51:08 Yeah. Did you check or explore any impacts on the US Canada border? Do individuals cross the border to obtain stronger vape juice?
+14:51:20 Yeah, so that's a great question. So that was something we were concerned about, that consumers might be going across the border And a lot of the Canadian population lives relatively close to the border. We do have e-cigarette sales data in the US, and we looked at vape shops and our retailers that are
+14:51:44 Located near the border and compared them to We looked at event shops that were I think 50 miles to the border and compare them to other vape shops in the state.
+14:51:57 And we ran a bunch of different models, a bunch of different specifications and We didn't really see any clear evidence of this taking place. There were some slightly positive estimates but they were They weren't statistically significant.
+14:52:11 And they were pretty small in magnitude, maybe about a 5% increase at most.
+14:52:18 Okay. Do you have any information on e-cigarette content other than nicotine, like cannabis or Delta THC
+14:52:27 No, that's… No, I don't think that… Well, it's not in our data.
+14:52:34 Yep.
+14:52:35 And yeah, I'd have to think about the relevance of that yeah
+14:52:41 Okay. Maybe the person was thinking in terms of substitution. Another question is.
+14:52:46 Okay.
+14:52:46 Since you have the UPC codes on hand, have you evaluated what the effect is of the 20 milligram per milliliter limit on sales of batteries.
+14:52:57 Those are the devices that Juul views pods go into. I would assume a decrease in sales of batteries absent any quality changes would mean people choosing to quit altogether or a decrease in initiation. That was the comment from this person.
+14:53:15 That would be really interesting to look at. Right now, we don't have any sales data on batteries but i'm I'm curious if we could find that, what we'd find.
+14:53:28 Okay, I think it might be in the Nielsen data, those UPCs, so it might be worth looking at.
+14:53:34 Okay. Yeah.
+14:53:35 And then another question is, what implications of your results on e-cigarette cessation? So somewhat related perhaps.
+14:53:45 It's hard to say. Definitively, since we don't know the overall impact on on e-cigarette sales.
+14:53:56 You know, I wouldn't, I would imagine that a policy like this would You know, reduce addiction levels but if it's hard to say for certain based on the data that we're using and And the conclusion of our results, we need to know the overall impact on nicotine consumption.
+14:54:20 And while it appears that it's decreasing in the Galveston convenience store sector.
+14:54:25 I'm not certain what it would be Overall, so… No.
+14:54:32 Okay. So maybe I'll ask a question since we have a couple of minutes.
+14:54:37 Yeah.
+14:54:38 So you mentioned early on as sort of motivation for your paper, Dean Lillard's model on demand for nicotine.
+14:54:47 Mm-hmm.
+14:54:46 And you noted that a couple of the sort of inputs that affect demand are sort of the health or social effects of the product.
+14:54:58 Yeah.
+14:54:59 And so this relates to Kai Wen's question about COVID effects is that you could imagine other things that could be changing could be social desirability for maybe the public perception around use of vaping products, especially maybe relative to cigarettes, as well as maybe health beliefs.
+14:55:20 And it might be interesting to sort of look at what those trends look like over time. And I assume that's not something you've done so far, but it seems like there might be other sort of survey data that might be able to
+14:55:33 Indirectly get at those.
+14:55:36 So just to clarify what i mean what um what outcomes are you referring to specifically?
+14:55:42 So specifically these as confounders. So thinking about, you know, if the, say.
+14:56:05 Right. I see. Yeah.
+14:55:49 Public sentiment towards vaping products is changing at the same time that it's sort of like the timing of that coincides with when these nicotine caps are being adopted that that could potentially sort of be a concern for the estimates. Similarly, people are realizing that or, you know.
+14:56:09 Either because of Evali or other things like their beliefs about sort of the riskiness of vaping products.
+14:56:16 Is changing, that could perhaps coincide with the timing of these policies being adopted.
+14:56:24 Yeah, so yeah, I think that would… That'd be a good thing to look into.
+14:56:30 Probably one of the limitations of that is a lot of survey data might be taken annually.
+14:56:35 And so we're looking at a very short a fairly short window when these policies take effect, but it would certainly be worth looking into so Yeah, I'll have to to add that to the list.
+14:56:53 Okay. There is another question, which seems a little bit speculative, but will Trump tariffs have an impact Which I assume is referring to sales of vaping products perhaps in the US or Canada?
+14:57:10 I'm not sure. I don't know. I don't know. I'm assuming I don't know enough about this to, I don't know enough about the manufacture of manufacturing of e-cigarettes too.
+14:57:24 Make any conclusive remarks on that.
+14:57:25 Yeah. Fair enough. Okay. I think we will turn it over then to Marielle to take us out. Thank you so much.
+14:57:36 All right, so we're out of time. So if you have any burning questions or thoughts for Dr. Brad Davis, feel free to join us for the tops of the Tops Which is an interactive group discussion.
+14:57:48 So to join, please copy the Zoom meeting room URL that's posted in the chat.
+14:57:52 And that way you can switch rooms with us once the event concludes.
+14:57:56 We'll leave this webinar room open for about an extra minute or so.
+14:58:01 After the end just to give everyone a chance to copy the url Which is bit.ly slash tops, meaning all lowercase.
+14:58:08 So if you're interested in presenting for us in the next season, please consider submitting a brief presentation proposal On our website, tobacopolicy.org by April 7th.
+14:58:20 And thank you so much to our presenter, our moderator, and our discussant.
+14:58:25 And also finally, thank you so much to the audience of 171 people for your participation.
