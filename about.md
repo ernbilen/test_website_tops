@@ -4,7 +4,8 @@ The Tobacco Online Policy Seminar (TOPS) is a free multidisciplinary, internatio
 [**TOPS Video Introduction**](https://youtu.be/EAtI1YA4ldU)
 
 ## Executive Board<sup>[*](#myfootnote1)</sup>
-Director: Mike Pesko, University of Missouri <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko) \\
+Director: Mike Pesko, University of Missouri <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko) <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" style="width:20px; height:auto; vertical-align:middle;"/>[
+@mikepesko.bsky.social](https://bsky.app/profile/mikepesko.bsky.social)\\
 Member: Michael Darden, Johns Hopkins University \\
 Member: Jamie Hartmann-Boyce, University of Massachusetts Amherst \\
 Member: Ce Shang, Ohio State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Ce_Shang_HE](https://twitter.com/Ce_Shang_HE) \\
