@@ -7,9 +7,11 @@ The Tobacco Online Policy Seminar (TOPS) is a free multidisciplinary, internatio
 Director: Mike Pesko, University of Missouri <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko) <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" style="width:20px; height:auto; vertical-align:middle;"/>[
 @mikepesko.bsky.social](https://bsky.app/profile/mikepesko.bsky.social)\\
 Member: Michael Darden, Johns Hopkins University \\
-Member: Jamie Hartmann-Boyce, University of Massachusetts Amherst \\
+Member: Jamie Hartmann-Boyce, University of Massachusetts Amherst <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" style="width:20px; height:auto; vertical-align:middle;"/>[
+@jhb19.bsky.social](https://bsky.app/profile/jhb19.bsky.social) \\
 Member: Ce Shang, Ohio State University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@Ce_Shang_HE](https://twitter.com/Ce_Shang_HE) \\
-Member: Justin White, Boston University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite) 
+Member: Justin White, Boston University <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@justinswhite](https://twitter.com/justinswhite) <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" style="width:20px; height:auto; vertical-align:middle;"/>[
+@justinwhite.bsky.social](https://bsky.app/profile/justinwhite.bsky.social)
 
 
 ## Advisory Board
