@@ -1,0 +1,1514 @@
+WEBVTT
+
+1
+00:00:03.720 --> 00:00:16.980
+Yixian Crystal Chen: Welcome to the tobacco online policy seminar also known as tops. Thank you for joining us today. I'm Ishan Crystal Chen, a research methodologist at the British Columbia Cancer Research Institute
+
+2
+00:00:17.950 --> 00:00:36.250
+Yixian Crystal Chen: tops is organized by Mike Pascoe at the University of Missouri, Si. Sheng at Ohio State University, Michael Darden at Johns Hopkins University, Jamie Hartman Boyce at University of Massachusetts, Amherst and Justin White at Boston University.
+
+3
+00:00:37.250 --> 00:00:47.109
+Yixian Crystal Chen: The Seminar will be 1 h with questions from the Moderator and the discussant. The audience may post questions and comments in the Q. And a panel.
+
+4
+00:00:47.250 --> 00:00:53.220
+Yixian Crystal Chen: and the moderator will draw from these questions and comments in conversation with the presenter.
+
+5
+00:00:53.560 --> 00:00:58.999
+Yixian Crystal Chen: Please review the guidelines on tobaccopolicy.org for acceptable questions.
+
+6
+00:00:59.540 --> 00:01:12.989
+Yixian Crystal Chen: Please keep the questions professional and related to the research being discussed. Questions that meet the Seminar series. Guidelines will be shared with the presenter afterwards, even if they are not read aloud.
+
+7
+00:01:13.250 --> 00:01:15.960
+Yixian Crystal Chen: Your questions are very much appreciated.
+
+8
+00:01:17.670 --> 00:01:28.380
+Yixian Crystal Chen: This presentation is being video recorded and will be made available along with the presentation slides on the tops website@tobaccopolicy.org.
+
+9
+00:01:28.840 --> 00:01:37.460
+Yixian Crystal Chen: Now, I will turn the presentation over to today's moderator, Jamie Hartman Boyce, from the University of Massachusetts, amrest.
+
+10
+00:01:38.040 --> 00:01:51.920
+Jamie Hartmann-Boyce: Thank you so much. So today we begin our summer 2025, season with a grand round presentation by Natalie Walker, entitled Cytosine Nicotine Salts and Vaping Cessation. Dual Trials from the New Zealand Frontier.
+
+11
+00:01:52.270 --> 00:02:01.439
+Jamie Hartmann-Boyce: Professor Natalie Walker from the Faculty of Medical and Health Sciences, University of Auckland, New Zealand specializes in public health research, working across various disciplines.
+
+12
+00:02:01.610 --> 00:02:05.830
+Jamie Hartmann-Boyce: Her tobacco research has spanned from preclinical research through to policy.
+
+13
+00:02:06.500 --> 00:02:18.700
+Jamie Hartmann-Boyce: Her key focus is conducting large pragmatic community-based phase, 3. Smoking cessation trials that have a strong equity focus generating evidence on the effectiveness of interventions as opposed to efficacy.
+
+14
+00:02:19.140 --> 00:02:25.990
+Jamie Hartmann-Boyce: These trials are included in relevant Cochrane systematic reviews, thus informing policy, decision making and treatment guidelines.
+
+15
+00:02:26.140 --> 00:02:40.039
+Jamie Hartmann-Boyce: Dr. Walker has recently taken up a new role as Director of Flinders, clinical trials and professor in the College of Medicine and Public Health, Flinders University in Adelaide, South Australia. Dr. Walker. Thank you so much for presenting for us today.
+
+16
+00:02:41.140 --> 00:02:43.570
+Natalie Walker: Thank you. Nice to meet everybody.
+
+17
+00:02:46.410 --> 00:02:56.050
+Natalie Walker: I just it's very early in New Zealand. It is 6. I'm sorry. In Australia it's 6 30, so I'm a little bit dusty, but I'll just share my slides.
+
+18
+00:03:01.516 --> 00:03:08.390
+Natalie Walker: Can I have confirmation that these are in presenter view, or.
+
+19
+00:03:08.390 --> 00:03:12.480
+Jamie Hartmann-Boyce: Presenter view right now. So we're seeing the notes view.
+
+20
+00:03:14.850 --> 00:03:15.989
+Natalie Walker: The notes here.
+
+21
+00:03:16.180 --> 00:03:20.330
+Jamie Hartmann-Boyce: Yeah. So they're not in the they're not in the kind of full screen mode right now.
+
+22
+00:03:20.580 --> 00:03:31.220
+Natalie Walker: Okay, let's skip. It sorted just one moment. We had this all working before, and
+
+23
+00:03:37.960 --> 00:03:39.100
+Natalie Walker: here we go.
+
+24
+00:03:40.230 --> 00:03:41.080
+Jamie Hartmann-Boyce: Perfect.
+
+25
+00:03:43.930 --> 00:03:47.460
+Natalie Walker: Okay, right? Thank you for your time.
+
+26
+00:03:48.330 --> 00:03:53.449
+Natalie Walker: I'll just progress here. Just some disclosures for you to quickly have a look at.
+
+27
+00:03:58.490 --> 00:04:00.309
+Natalie Walker: and I'll start. So
+
+28
+00:04:00.935 --> 00:04:13.100
+Natalie Walker: in New Zealand we have had a smoke free. 2025 goal which has been defined as less than 5% of all populations smoking by 2025.
+
+29
+00:04:13.390 --> 00:04:27.560
+Natalie Walker: And so when I 1st started working in smoking cessation, this piece of modelling had come out based on from New Zealand, looking at smoking prevalence, and what needed to happen in order to reach this goal.
+
+30
+00:04:27.660 --> 00:04:28.730
+Natalie Walker: And
+
+31
+00:04:28.890 --> 00:04:38.970
+Natalie Walker: the immediate thing that you can see is the green line is that in order to reach the 5% goal is that you need to have at least a 5 fold increase in cessation.
+
+32
+00:04:39.330 --> 00:04:48.249
+Natalie Walker: And so that's why the group I work with and myself started to really focus on. Okay, how can we start to really get people quitting?
+
+33
+00:04:54.470 --> 00:04:58.729
+Natalie Walker: So this got us thinking about, well, what is the ideal cessation intervention?
+
+34
+00:04:59.800 --> 00:05:02.159
+Natalie Walker: It has to be something that's affordable.
+
+35
+00:05:02.400 --> 00:05:15.720
+Natalie Walker: It has to be practicable, effective cost, effective, acceptable, safe and equitable. So it's not just about whether it works and it's safe. It's much, much more than that.
+
+36
+00:05:17.620 --> 00:05:33.079
+Natalie Walker: And so, as part of this, we started a body of work undertaking a number of trials we have undertaken 19 to date. So this is community-based trials with up to 18,000 participants overall.
+
+37
+00:05:34.670 --> 00:05:46.019
+Natalie Walker: Importantly, these trials are really very pragmatic, because they're very, very real world. So we're looking at effectiveness. We're not looking at efficacy
+
+38
+00:05:46.350 --> 00:06:04.390
+Natalie Walker: and in effectiveness trials. You have a very heterogeneous population. So very few exclusion criteria, very trying to mimic real world situations so very light touch. We don't pay participants, for instance, because payment in a self is an intervention.
+
+39
+00:06:09.940 --> 00:06:14.490
+Natalie Walker: So the 1st study I'm going to talk about is a recently completed clinical trial.
+
+40
+00:06:14.810 --> 00:06:19.750
+Natalie Walker: looking at combining nicotine vapes with cytosine.
+
+41
+00:06:20.640 --> 00:06:25.860
+Natalie Walker: and this has recently been presented at the Sr. And T. Conference in New Orleans.
+
+42
+00:06:26.010 --> 00:06:28.699
+Natalie Walker: So it's the same presentation that I gave there.
+
+43
+00:06:30.310 --> 00:06:50.029
+Natalie Walker: So the rationale for the trial was that our research that we've undertaken has shown that vapes are more effective than nicotine replacement therapy for smoking cessation, also more acceptable to users. We've done quite a lot of work around cytosine, and we've shown that cytosine is more effective than Nrt. And also more acceptable.
+
+44
+00:06:50.890 --> 00:06:59.319
+Natalie Walker: We also did a non-inferiority trial in New Zealand that found cytosine is at least as effective as varenicline for smoking cessation.
+
+45
+00:07:00.200 --> 00:07:06.319
+Natalie Walker: But better acceptability, fewer adverse events, and in its much lower cost.
+
+46
+00:07:07.280 --> 00:07:19.429
+Natalie Walker: And we've also done a lot of work around text messaging for smoking cessation. And we know that combining messaging with medication for smoking is much more effective than just having
+
+47
+00:07:20.440 --> 00:07:24.039
+Natalie Walker: the text message alone, or the medication alone.
+
+48
+00:07:25.360 --> 00:07:38.349
+Natalie Walker: So we thought that to us the best intervention, the best of the best is the cytosine and the vapes in the text. And so that's why we decided to do an investigation
+
+49
+00:07:38.890 --> 00:07:42.920
+Natalie Walker: to see whether that hypothesis was true.
+
+50
+00:07:43.980 --> 00:07:47.610
+Natalie Walker: So this is a single blind 3 M. Community-based trial
+
+51
+00:07:49.000 --> 00:07:59.740
+Natalie Walker: it. Here's our eligibility criteria. You can see it's very, very open. The only exclusions were really around. Whether there was any contraindications to the use of sizing
+
+52
+00:08:00.340 --> 00:08:06.519
+Natalie Walker: and recruitment was at a national level, and what we had is social media advertising
+
+53
+00:08:07.290 --> 00:08:31.780
+Natalie Walker: that directed people to a web based portal where they could read more information about the study they could undertake. Screening online and baseline data was collected and they were randomized online. And we have a very tight system to prevent bots and things like that. And there's a double consent process and all information collected online. It's got a read cap at the back
+
+54
+00:08:32.100 --> 00:08:33.470
+Natalie Walker: collecting the data
+
+55
+00:08:33.820 --> 00:08:47.990
+Natalie Walker: so you can see a large sample size. We aim for large 800 participants and 90% power, and we adjust for a loss to follow up. So the protocol was published. So you can see the reference at the bottom.
+
+56
+00:08:51.220 --> 00:08:56.980
+Natalie Walker: So the interventions are as outlined here.
+
+57
+00:08:58.030 --> 00:09:06.099
+Natalie Walker: So the standard 25 day treatment for cytosine with a maintenance dose extending out to the end of week. 12. So 12 weeks of treatment.
+
+58
+00:09:06.580 --> 00:09:14.649
+Natalie Walker: the we tested a nicotine salt vape. I think this is the 1st trial that's ever
+
+59
+00:09:14.970 --> 00:09:23.839
+Natalie Walker: done that that's finished, and we chose a tobacco flavor. And again, this was for 12 weeks, and people could
+
+60
+00:09:24.340 --> 00:09:35.389
+Natalie Walker: change the flavor they wanted. If they wanted to change the flavor, they could go and buy a different flavor that was up to them. So we didn't kind of restrict what they did with the vape once they got it.
+
+61
+00:09:35.750 --> 00:09:39.490
+Natalie Walker: and they could also change the the strength if they wanted to.
+
+62
+00:09:40.070 --> 00:09:43.900
+Natalie Walker: And then everyone got 6 months of text-based support.
+
+63
+00:09:47.760 --> 00:09:52.199
+Natalie Walker: So here is our diagram of flow, of how people went through the trial.
+
+64
+00:09:54.420 --> 00:09:58.489
+Natalie Walker: You can see that we reached our
+
+65
+00:09:58.880 --> 00:10:03.470
+Natalie Walker: recruitment sample size of just over 800.
+
+66
+00:10:04.710 --> 00:10:08.670
+Natalie Walker: And the main thing to note is that
+
+67
+00:10:08.960 --> 00:10:14.159
+Natalie Walker: over time 6 months is our primary outcome is that
+
+68
+00:10:14.630 --> 00:10:20.830
+Natalie Walker: there was differential withdrawal and loss to follow up. So so you can see here that
+
+69
+00:10:21.180 --> 00:10:27.820
+Natalie Walker: 6% in the cytosine and Vape group withdrew
+
+70
+00:10:28.150 --> 00:10:35.469
+Natalie Walker: in the Vape group. 11% withdrew, but up to 20 and 20% withdrew in the cytosine. Only group.
+
+71
+00:10:36.070 --> 00:11:00.530
+Natalie Walker: So we often see in these types of trials differential withdrawals because people come into the study wanting a particular intervention, which is why you'll see up in our exclusion criteria. We have a very set statement. Say that if you have a preference. We don't want you to come into the trial, but still we still often get this differential withdrawal. So it's indicating that people wanted the vapes potentially.
+
+72
+00:11:04.360 --> 00:11:11.860
+Natalie Walker: So, the baseline data you can see here. And
+
+73
+00:11:12.560 --> 00:11:17.689
+Natalie Walker: the main thing to note here is that there was balance between all of the groups, and
+
+74
+00:11:18.080 --> 00:11:22.681
+Natalie Walker: we had a predominance of women coming into the study. So
+
+75
+00:11:23.800 --> 00:11:26.990
+Natalie Walker: Approximately 3 quarters of the population were women
+
+76
+00:11:27.730 --> 00:11:33.070
+Natalie Walker: relatively low, level of schooling. So half the sample had a low level.
+
+77
+00:11:33.590 --> 00:11:37.229
+Natalie Walker: We had a 33, or approximately
+
+78
+00:11:37.340 --> 00:11:43.129
+Natalie Walker: 33% were indigenous Maori and a large population
+
+79
+00:11:43.780 --> 00:11:45.999
+Natalie Walker: of people that were drinking it heavy
+
+80
+00:11:47.810 --> 00:12:01.170
+Natalie Walker: rates, so they really needed some support and also high use of cannabis. So these are the populations who are often smoking at much higher rates. So it really shows that we are reaching into those populations.
+
+81
+00:12:02.920 --> 00:12:14.589
+Natalie Walker: I really like this slide because it tells you that we really should be doing a different type of study design, we should be doing a cluster randomized trial design, because
+
+82
+00:12:14.700 --> 00:12:18.179
+Natalie Walker: participants who came in are also living with other people that smoke
+
+83
+00:12:18.885 --> 00:12:25.260
+Natalie Walker: and interestingly, they're also living with other people with vapes, or they know people who use vapes.
+
+84
+00:12:25.810 --> 00:12:36.580
+Natalie Walker: So that's another discussion about whether this type of design is the right type of design, because it's almost unethical not to be helping other people in the family.
+
+85
+00:12:39.090 --> 00:12:41.040
+Natalie Walker: So here's our 1st result.
+
+86
+00:12:43.540 --> 00:12:56.319
+Natalie Walker: the main thing to notice here. Is that so? We had. We had follow about 1, 3, and 6 months, and it's in 6 months we verified quitting as well. So the black is the unverified data.
+
+87
+00:12:57.520 --> 00:13:01.690
+Natalie Walker: the black text and the red text is when we verify. So you'll see that
+
+88
+00:13:02.020 --> 00:13:11.040
+Natalie Walker: as soon as you verify, we get a halving in the quit rates because of that social desirability bias around saying, Yes, I have quit
+
+89
+00:13:11.190 --> 00:13:14.150
+Natalie Walker: but once you test. If they really did, they haven't.
+
+90
+00:13:14.660 --> 00:13:17.370
+Natalie Walker: So this is fairly standard and what you'd see.
+
+91
+00:13:17.770 --> 00:13:28.070
+Natalie Walker: So this tells you that the combination treatment of vape and cytosines was had a higher quit rate than those that only received the vape. So this is the 1st comparison.
+
+92
+00:13:28.310 --> 00:13:31.280
+Natalie Walker: But this was not statistically different.
+
+93
+00:13:33.860 --> 00:13:42.790
+Natalie Walker: for the second comparison, which is the combination treatment, vitacytosine alone. Again, you can see, once you verify having an
+
+94
+00:13:42.930 --> 00:13:44.420
+Natalie Walker: the quit rights
+
+95
+00:13:44.540 --> 00:13:53.960
+Natalie Walker: again, you can see that the combination treatment had a high quip rates at 19% compared to the Cytosine only group, which was 14.
+
+96
+00:13:54.230 --> 00:13:56.909
+Natalie Walker: But again, this was not statistically different.
+
+97
+00:14:00.750 --> 00:14:08.879
+Natalie Walker: So what about treatment used? So we asked them, did you use the treatment as you were instructed, and
+
+98
+00:14:09.230 --> 00:14:19.179
+Natalie Walker: you can see that it's actually fairly similar between the groups in the way the vapes were used and how the cytosine was used so nothing overly different
+
+99
+00:14:19.580 --> 00:14:43.520
+Natalie Walker: as a pragmatic trial. You can tell people please take the medicine this way, but in reality people don't do that, and you can see that obviously here. So, for instance, cytosine is meant to have been taken daily, but 61% didn't. So it just reflects the real world. This is, you want people to do as they're told, but they don't always do that, and if you reflect on your own behavior you'll be the same. Probably
+
+100
+00:14:46.070 --> 00:14:52.630
+Natalie Walker: so we have self-reported adverse events now so
+
+101
+00:14:52.790 --> 00:14:56.909
+Natalie Walker: approximately half the sample had an adverse event.
+
+102
+00:14:58.080 --> 00:15:09.250
+Natalie Walker: These adverse events were more common in people with the combination vape and cytosine. So this is 514 events and 176 participants.
+
+103
+00:15:09.740 --> 00:15:12.719
+Natalie Walker: The least amount of events were in the vape. Only group
+
+104
+00:15:16.640 --> 00:15:22.449
+Natalie Walker: There was no statistical difference in the amount of vape in the events between the groups
+
+105
+00:15:22.980 --> 00:15:26.079
+Natalie Walker: and the thing to notice here. These are your most common events
+
+106
+00:15:26.910 --> 00:15:38.319
+Natalie Walker: for all participants, and you can see it's headache. Nausea. I've highlighted the ones in red is the most common and dry mouth for those that receive the vapes
+
+107
+00:15:42.670 --> 00:15:45.120
+Natalie Walker: just moving some slides. Just a second.
+
+108
+00:15:45.260 --> 00:15:45.950
+Natalie Walker: Yeah.
+
+109
+00:15:48.930 --> 00:15:49.840
+Natalie Walker: Okay?
+
+110
+00:15:50.610 --> 00:15:55.300
+Natalie Walker: So we also looked at all cause serious adverse events, of which there were 14.
+
+111
+00:15:55.740 --> 00:16:06.430
+Natalie Walker: And so we assessed these events to see whether they were likely associated with the treatments. So we use the Who umc causality, assessment.
+
+112
+00:16:06.790 --> 00:16:18.519
+Natalie Walker: and 7 adverse events were identified that were possibly related to treatment. So they weren't certainly related, and they weren't probably related. They were just, possibly.
+
+113
+00:16:18.890 --> 00:16:30.800
+Natalie Walker: and that means that the event had a reasonable time relationship with the use of the products, but could also be explained by something else, such as a health concern or disease or other drugs.
+
+114
+00:16:32.130 --> 00:16:45.129
+Natalie Walker: And so of these 7 events there were 3 in the Vape cytosine group. This was a mild seizure, some worsening depression and chest pain
+
+115
+00:16:45.680 --> 00:16:50.069
+Natalie Walker: in the Vape only group. There was one event. This was pneumonia.
+
+116
+00:16:50.560 --> 00:17:07.479
+Natalie Walker: which was this person was hospitalized, and in the cytosine only group there were 3 events so severe chest pain, and 2 instances of suicidal ideation. And again, there is potentially other explanations for those events, but they were graded as possible
+
+117
+00:17:10.530 --> 00:17:23.189
+Natalie Walker: right in terms of acceptability. So we always ask whether they would recommend the treatment to somebody else who wanted to quit. And so that's sort of proxy measure for acceptability. And it was reasonably balanced between all the groups.
+
+118
+00:17:24.599 --> 00:17:38.049
+Natalie Walker: So in summary, the combination of cytosine with vapes and text did not contribute any additional benefit, and but there was no and there was no increased risk of adverse events, and most people found this acceptable.
+
+119
+00:17:39.030 --> 00:17:57.160
+Natalie Walker: So the trial is just strengths and limitations highly generalizable. High participation by populations with high smoking prevalence. The findings were consistent across all the sensitivity and subgroup analysis in time. So I haven't presented that data. But it's consistent.
+
+120
+00:17:57.970 --> 00:18:16.149
+Natalie Walker: We also had a very person-centred approach to adverse event reporting which I haven't discussed, but we used a slightly different process for that, and the limitations were that attrition in one arm and higher than anticipated loss to follow up just a little bit and else predominantly a female sample.
+
+121
+00:18:16.900 --> 00:18:20.199
+Natalie Walker: So I'll stop there, and take any questions.
+
+122
+00:18:21.060 --> 00:18:42.009
+Jamie Hartmann-Boyce: Wonderful. Thank you so much, Natalie. So in this 1st Q. And a pause, 1st of all, I'd like to encourage anyone who has them to enter their questions via the Q. And A. Box. But I also want to introduce our discussant today. Dr. Lisa Picito, an assistant professor of psychiatry from Yale School of Medicine and Director of the Tobacco Treatment Service at Yale New Haven Hospital.
+
+123
+00:18:42.100 --> 00:19:01.280
+Jamie Hartmann-Boyce: Dr. Fucido studies cessation Interventions for Cigarettes and e-cigarettes and the effects of noncombustible tobacco and nicotine products and their constituents on cigarette smoking behavior to inform us. FDA regulation of those products. So Dr. Fucido, thank you so much for being here today and over to you for any questions to start us off.
+
+124
+00:19:02.290 --> 00:19:11.609
+Lisa Fucito: Great. Well, thank you very much for the opportunity to participate. And, Natalie, it's wonderful to see you and to hear about your continued, incredible work in this evolving tobacco cessation space.
+
+125
+00:19:11.710 --> 00:19:28.749
+Lisa Fucito: You know, it's surprising that the combined group didn't do better. I mean, they had a little bit of a signal there, but they didn't do significantly better, and from your results, although it wasn't that big of a difference it looked like there might have been a possibility of them vaping about 10% less
+
+126
+00:19:28.830 --> 00:19:47.739
+Lisa Fucito: daily if I saw that correctly. So it made me wonder about if you got into the weeds a little bit in the data if they perhaps were using the vape devices a little bit less frequently because they're juggling another behavior that was taking a medication multiple times a day.
+
+127
+00:19:47.740 --> 00:20:05.569
+Lisa Fucito: and it made me think of a mentor years ago in trying to develop Cbt. Interventions who emphasized, you know. Sometimes it's good to give people one or 2 things that they can really master. But if we add a bit more isn't necessarily better. And so
+
+128
+00:20:05.820 --> 00:20:19.029
+Lisa Fucito: my question would be, I wonder if something like that might apply here, that there's sort of 2 big behaviors that people had to navigate. And did you see any any change at more of a day level in terms of how frequently they were using in this group the vape throughout the day.
+
+129
+00:20:20.621 --> 00:20:29.649
+Natalie Walker: Yes, we do have some data on that. I I don't have the database of the results in front of me, but we do ask a bit more detail, but
+
+130
+00:20:30.290 --> 00:20:33.890
+Natalie Walker: because we only touch base with them at
+
+131
+00:20:34.000 --> 00:20:55.290
+Natalie Walker: intimate at times, like they're not keeping like a diary of what they're doing or anything like that. We we won't have any of that nuance, but it's a good point, and it's something I can explore a little bit more. So we're still in the process of writing this paper up. So exploring the data and adding depth. So that's a good point that I will explore more. It is possible. Yeah.
+
+132
+00:20:56.710 --> 00:21:12.230
+Lisa Fucito: And I think, related to that question. You know there's the new formulation of cytosine from achieve life sciences which has reduced the dosing regimen. So I'm wondering if you think that potential reduction in the burden of how many times a day you have to take the medicine might possibly help
+
+133
+00:21:12.370 --> 00:21:15.099
+Lisa Fucito: work with this edition a little bit better.
+
+134
+00:21:15.590 --> 00:21:24.459
+Natalie Walker: Absolutely. Yeah, we use the existing dose and dosing regimen. So that's from the very old one
+
+135
+00:21:24.600 --> 00:21:28.050
+Natalie Walker: from Eastern Europe. So we.
+
+136
+00:21:29.750 --> 00:21:38.969
+Natalie Walker: we, we do need to think about the the new one, because compliance could be an an issue in that sense, too. Yeah.
+
+137
+00:21:40.880 --> 00:21:41.490
+Lisa Fucito: Great.
+
+138
+00:21:42.340 --> 00:21:53.759
+Jamie Hartmann-Boyce: Great. Thank you so much. I don't see any questions in our Q. And A. Right now. So do please put them in audience members and Natalie, I'll hand back over to you. We've got about 35 min left.
+
+139
+00:21:54.160 --> 00:21:54.820
+Jamie Hartmann-Boyce: included.
+
+140
+00:21:54.820 --> 00:21:55.730
+Natalie Walker: Okay.
+
+141
+00:21:55.930 --> 00:22:09.930
+Natalie Walker: right? I'll go very fast. So, coming back to our fact that we have a smoke free goal, the government put in place a particular action plan. So they had this goal. But they didn't have a plan to reach it. And so eventually a plan turned out.
+
+142
+00:22:10.050 --> 00:22:21.840
+Natalie Walker: And this plan was all about how vaping is part of the story in the action plan. They had quite uniquely a nicotine reduction strategy.
+
+143
+00:22:22.150 --> 00:22:30.849
+Natalie Walker: And in order to achieve that access to cleaner sources of nicotine is very, very important to help people switch away from tobacco.
+
+144
+00:22:30.960 --> 00:22:37.269
+Natalie Walker: So ultimately, though once people have switched away from the tobacco, they should also.
+
+145
+00:22:37.550 --> 00:22:47.310
+Natalie Walker: and maybe they've switched to a reduced harm nicotine. So that's nrt in the e-cigarettes. Then you need to have to offer them some way to come off the nicotine as well.
+
+146
+00:22:47.810 --> 00:23:14.120
+Natalie Walker: So that's been the plan. And so then we started thinking, Well, do we need some strategies or some research around vaping cessation. We have no idea what people are doing, particularly in New Zealand, and at this time we were thinking about this Amanda Palmer in the Us. Had written this wonderful paper a systematic review. Well, looking at? Well, what is the evidence? What are people using? What's the research base around vaping cessation?
+
+147
+00:23:14.490 --> 00:23:20.020
+Natalie Walker: And, as you can see, there was not a lot of research, and
+
+148
+00:23:21.370 --> 00:23:25.550
+Natalie Walker: she only found 2 randomized trials that had been undertaken.
+
+149
+00:23:25.900 --> 00:23:38.420
+Natalie Walker: Mine was on text messaging from the U.S.A. And as this population was targeted was 18 to 24 year olds quite a large sample, and you know, a really robust trial here.
+
+150
+00:23:38.640 --> 00:23:39.990
+Natalie Walker: But sort of.
+
+151
+00:23:41.040 --> 00:24:06.460
+Natalie Walker: So it's very selected into one population, a small population, you know the 18 to 24. But we know in New Zealand that a lot of people with vape are over 24. So what do we offer them? It was a pilot study again, a Us. Study. This is looking at nicotine reduction in 24 adults. So that was the sum total of evidence. And then there was a conference presentation and a cytosine
+
+152
+00:24:06.540 --> 00:24:12.089
+Natalie Walker: trial had was presented. This paper is now published which I've got the reference here
+
+153
+00:24:12.270 --> 00:24:17.292
+Natalie Walker: of the the Us. Based cytosine. So
+
+154
+00:24:19.090 --> 00:24:41.680
+Natalie Walker: and a phase 2 trial. It had people 18 years and over so much more inclusive in terms of the age group. But there was some exclusion criteria. So people with mental health concerns using illicit substances, so the trials in New Zealand. We don't exclude people on mental health concerns or use of illicit substances unless there's
+
+155
+00:24:41.970 --> 00:24:43.960
+Natalie Walker: a clear contraindication.
+
+156
+00:24:44.460 --> 00:25:03.549
+Natalie Walker: So there was some total of information that we had to draw upon. There were some guidance documents coming out of the Uk. And Canada around the same time, the guidance, because there was again very little information on which to provide guidelines, and in New Zealand the New Zealand Court line had some
+
+157
+00:25:04.383 --> 00:25:26.669
+Natalie Walker: some messaging about what they thought we should be talking about to people. And they were just starting to develop a quick miss a text message system to be able to help people, but really focusing on behavioral support, because again, there was no treatment available. So we weren't in New Zealand able to recommend the use of Nrt, for instance.
+
+158
+00:25:27.700 --> 00:25:34.650
+Natalie Walker: And so this was what was available, and but no actual research being undertaken around vaping cessation in New Zealand.
+
+159
+00:25:34.990 --> 00:25:44.849
+Natalie Walker: And so we decided, well, we need to start getting some information. So the 1st thing we're going to do is a survey of people who have quit vaping find out what they did.
+
+160
+00:25:45.450 --> 00:25:49.870
+Natalie Walker: Then we're going to use that information to inform the development of a clinical trial.
+
+161
+00:25:50.200 --> 00:26:01.780
+Natalie Walker: and this information will help inform the the New Zealand vaping cessation guidelines once they come out, and hopefully a Cochrane Review will happen. It has since happened. But at the time this is where we were.
+
+162
+00:26:02.900 --> 00:26:05.989
+Natalie Walker: So this is 2022. We did the survey.
+
+163
+00:26:06.310 --> 00:26:11.890
+Natalie Walker: the trial. We are running at the moment, and we won't get data from that until 2028.
+
+164
+00:26:12.320 --> 00:26:15.379
+Natalie Walker: Some guidance came out in 2024,
+
+165
+00:26:16.270 --> 00:26:21.040
+Natalie Walker: and the Cochrane Review has recently become
+
+166
+00:26:21.710 --> 00:26:27.879
+Natalie Walker: available. And there's a presentation in a couple of months where you'll hear more about that one.
+
+167
+00:26:29.570 --> 00:26:39.899
+Natalie Walker: So when we started this survey, this is just the state of play in New Zealand. You can go and look at this link here, and you'll be able to find play around with the data and see what else is going on.
+
+168
+00:26:40.250 --> 00:26:45.370
+Natalie Walker: But you can see that smoking daily and vaping daily was very, very low
+
+169
+00:26:45.760 --> 00:27:02.619
+Natalie Walker: and vaping daily, only was much a little bit higher. But once you take a equity lens to this, things look quite different. So here's an example just looking at by age group and gender. And you can see that smoking was highest in
+
+170
+00:27:04.810 --> 00:27:10.149
+Natalie Walker: in this is the middle 1, 9% in 55 to 64 year old men.
+
+171
+00:27:11.450 --> 00:27:17.190
+Natalie Walker: whereas if those people that are vaping daily is highest in 18 to 20 four-year women.
+
+172
+00:27:17.470 --> 00:27:22.959
+Natalie Walker: so that's why it's really important to look at the subgroups, not just the total.
+
+173
+00:27:25.200 --> 00:27:38.809
+Natalie Walker: So our survey is about to be published, so that will be made available as soon as that comes out. But basically it was using market research panels to recruit over a thousand people who used to smoke or currently smoked
+
+174
+00:27:40.530 --> 00:27:57.910
+Natalie Walker: and either currently vaped or used to vape, and we asked them a whole lot of questions about looking at vaping dependence. Their identity quit attempts, why they wanted to quit, and what strategies they used, what worked, what didn't any triggers to relapse? Things like that?
+
+175
+00:27:58.550 --> 00:28:00.379
+Natalie Walker: So here's our sample
+
+176
+00:28:03.570 --> 00:28:07.849
+Natalie Walker: And you can see over here in the red that we had an older sample.
+
+177
+00:28:08.870 --> 00:28:19.400
+Natalie Walker: reflecting the fact that there were the population. The older sample were the people that are vaping in New Zealand, and we also had a good representation of indigenous Maori.
+
+178
+00:28:22.570 --> 00:28:44.380
+Natalie Walker: so we found very consistent findings that, irrespective of smoking history or current vaping status, the majority of participants had made one or 2 quit attempts, so people were wanting were trying to quit. Their main reasons were around worried about health concerns, particularly as the media was very vocal about potential health concerns. At this time
+
+179
+00:28:44.620 --> 00:28:50.439
+Natalie Walker: there was some people really just didn't like feeling dependent on vapes, and also the cost of vapes
+
+180
+00:28:51.780 --> 00:29:07.079
+Natalie Walker: and interesting. The most common strategies were just quitting like cold turkey, but also importantly, nicotine reduction was was often used, and support from family and friends was very important as part of this quit journey.
+
+181
+00:29:09.070 --> 00:29:15.839
+Natalie Walker: We asked them, you know, if you were going to give advice to somebody about who wanted to stop vaping. What would you say? And they said
+
+182
+00:29:16.010 --> 00:29:20.706
+Natalie Walker: there were. It was really lovely stories. This lot of this work is qualitative. So
+
+183
+00:29:21.410 --> 00:29:35.499
+Natalie Walker: the free text fields that we gave them opportunity to just really talk about what they would do. So avoidance was important. They wanted to restrict where you have the vape, because the vape is always on you, whereas a cigarette is extinguished and it's gone
+
+184
+00:29:36.940 --> 00:29:43.679
+Natalie Walker: because the vape's always on you. It's like, put it somewhere. That's a pain to go and get so have it away from you.
+
+185
+00:29:45.140 --> 00:29:48.660
+Natalie Walker: Avoid being around. Others who vape throw the vape away.
+
+186
+00:29:49.650 --> 00:29:51.140
+Natalie Walker: Some quotes here.
+
+187
+00:29:52.880 --> 00:30:02.889
+Natalie Walker: They talked about seeking medical support going through the quit line, but also utilizing vape retailers to give you some guidance and support to help you come off vaping.
+
+188
+00:30:08.080 --> 00:30:35.320
+Natalie Walker: There's a lot of comments were around the hand to mouth action and those sensory elements of vaping. And so they were talked about, you know, using sweets or having something else in your hand or in your mouth. Use of fidget spinners were was talked about. So thinking about the sensory elements and that sort of aligns with the smoking research, where sensory elements are very important
+
+189
+00:30:37.710 --> 00:30:49.940
+Natalie Walker: in terms of quitting other than cold turkey. As we talked about some people using patches and gum nicotine reduction, including not only reducing the nicotine content, but the frequency
+
+190
+00:30:50.050 --> 00:30:52.349
+Natalie Walker: having a 0 nicotine on hand
+
+191
+00:30:53.830 --> 00:31:01.344
+Natalie Walker: and building self efficacy. So there was a lot of really lovely comments about being kind to yourself and
+
+192
+00:31:02.450 --> 00:31:07.040
+Natalie Walker: It made me think that one of the interventions we should look at is peer support.
+
+193
+00:31:07.240 --> 00:31:13.059
+Natalie Walker: because they were very compassionate, and I think that some somebody should do some work in that area.
+
+194
+00:31:13.550 --> 00:31:18.129
+Natalie Walker: and also the concept of disgust. Another area that's very big in the smoking field
+
+195
+00:31:18.410 --> 00:31:21.559
+Natalie Walker: looking into the area, a topic of disgust.
+
+196
+00:31:23.090 --> 00:31:34.179
+Natalie Walker: Barriers to quitting were really about the fact that vaping gave them something to do and fiddle within their hand. And just yeah, but like a phone does, I suppose.
+
+197
+00:31:34.580 --> 00:31:42.750
+Natalie Walker: concerns about relapsing concerns, about weight gain and managing stress. And for some people they just enjoyed vaping
+
+198
+00:31:43.060 --> 00:31:45.959
+Natalie Walker: particularly a long term.
+
+199
+00:31:46.550 --> 00:31:49.855
+Natalie Walker: People who have been smoking for long term and
+
+200
+00:31:51.220 --> 00:31:59.370
+Natalie Walker: they they felt it like with. When they tried to quit. They felt there was a sense of loss, because it was just part of who they were.
+
+201
+00:32:02.400 --> 00:32:04.840
+Natalie Walker: And again, some people just could quit.
+
+202
+00:32:04.950 --> 00:32:06.500
+Natalie Walker: They had no problem.
+
+203
+00:32:07.480 --> 00:32:10.410
+Natalie Walker: So any questions on that. I've gone through quite fast.
+
+204
+00:32:11.270 --> 00:32:19.660
+Jamie Hartmann-Boyce: Thank you so much, Natalie. That was really wonderfully insightful. Dr. Facido, over to you and everyone else. Please keep questions coming through the Q. And A.
+
+205
+00:32:20.460 --> 00:32:42.800
+Lisa Fucito: Yeah, really interesting results on the survey. You know, I wanted to piggyback off on the notion of the trust in the vape retailer, because I think that's a really important space that your survey highlights. And I'm just curious. You know, it's an interesting dichotomy, right? On the one hand, you know. Business owners are there, and they want to help support. But at the same time
+
+206
+00:32:43.030 --> 00:32:58.120
+Lisa Fucito: they're incentivized to sell their product right. And so I think about individuals who might go to the vape shop because they want to turn to the products to quit smoking. But then, at the same time, they may want to go back there to then get advice, to try to come off of vaping, and
+
+207
+00:32:58.140 --> 00:33:16.989
+Lisa Fucito: the inclination is probably to just go and rely on the expertise of these individuals, and I don't know if the expertise may vary in New Zealand compared to the United States. But in clinic I'll talk to patients, and they'll say, Yeah, you know, I asked if there was a lower nicotine version, and they didn't really have it in that in that product.
+
+208
+00:33:17.170 --> 00:33:18.430
+Lisa Fucito: And so
+
+209
+00:33:18.600 --> 00:33:25.329
+Lisa Fucito: there's that sort of contention right where we know probably the reduction of nicotine would be vital and important.
+
+210
+00:33:25.480 --> 00:33:38.370
+Lisa Fucito: But yet when they go, what actually happens when they get to the vape shop, and I think your idea that maybe a peer could be in there to intercept could be this really important pathway. But I'm just curious what your thoughts are about
+
+211
+00:33:38.480 --> 00:33:45.450
+Lisa Fucito: capitalizing on. You know the the reliance on the vape retailer as an important part of this.
+
+212
+00:33:45.950 --> 00:33:52.480
+Natalie Walker: Yeah, yeah. I mean, it's a very, very good point, you know, I know, for when vapes 1st started
+
+213
+00:33:52.700 --> 00:33:57.319
+Natalie Walker: to be available in New Zealand. A lot of the retailers were actually
+
+214
+00:33:58.280 --> 00:34:06.490
+Natalie Walker: vapors themselves, and had been former smokers and had switched. And so they were selling because they believed in their product because it helps them
+
+215
+00:34:06.880 --> 00:34:33.939
+Natalie Walker: so. Yes, it depends on the person and and the retailers background and their motives. So it's a bit hard to know, isn't it. But it's just we did have specialist retailers. It's how the government framed them. It's part of when they started to try and regulate the access to vapes, but as experts in helping you switch away from the tobacco, and
+
+216
+00:34:33.989 --> 00:34:53.550
+Natalie Walker: and so that messaging was out around how they were specialists and hate. And that was their role to help you switch. So it maybe seemed logical to then ask them to how to come off the vapes. So that's probably just maybe a difference in policy, environment and how it's articulated
+
+217
+00:34:53.800 --> 00:34:57.779
+Natalie Walker: to the population compared to other countries. So
+
+218
+00:34:58.660 --> 00:35:08.410
+Natalie Walker: I like the idea of having the buddy. I think that's somebody. I haven't done any work on on having peer support. So somebody that's a specialist in that area definitely should look at that.
+
+219
+00:35:12.350 --> 00:35:15.529
+Jamie Hartmann-Boyce: Well, thank you any more questions from you. At this juncture Lisa.
+
+220
+00:35:16.210 --> 00:35:20.280
+Lisa Fucito: I think there's been some questions coming in from the panel from the audience, but we can.
+
+221
+00:35:20.460 --> 00:35:33.189
+Jamie Hartmann-Boyce: Yes, so I will head to those questions from the audience now, and do keep them coming. The 1st one, Natalie actually goes back to cytosine. They've asked if there's any information available on the safety of cytosine in pregnancy and breastfeeding.
+
+222
+00:35:34.350 --> 00:35:38.308
+Natalie Walker: Yes. It's a contraindication.
+
+223
+00:35:39.530 --> 00:35:49.183
+Natalie Walker: There is not much published, and pharmaceutical companies will have some more details. It's just not openly published.
+
+224
+00:35:50.330 --> 00:36:03.090
+Natalie Walker: So yes, it's just to be cautious not to use it by breastfeeding or in pregnancy, just because the data was not available. And so it's a yeah. It is contraindicated.
+
+225
+00:36:03.940 --> 00:36:11.329
+Jamie Hartmann-Boyce: Thank you. And the second question was about this most recent paper that you presented on. Did you ask about
+
+226
+00:36:11.610 --> 00:36:23.789
+Jamie Hartmann-Boyce: perceptions of the risk of vaping versus smoking the question notes across the world. Many surveys show that about half the population believe that vapes are equally or more harmful than smoking.
+
+227
+00:36:25.070 --> 00:36:36.000
+Natalie Walker: No, that was not the point of the survey. So this was really focused on understanding what people do to quit. But we didn't ask about that particular question.
+
+228
+00:36:37.370 --> 00:37:03.689
+Jamie Hartmann-Boyce: Thank you so much. So, thanks to those, put their questions in the Q. And a. Please keep them coming. If we don't have a chance to get to all questions, or, if you'd like to discuss with the speaker directly with mics enabled, you're very welcome to attend top of the tops. Immediately following this, webinar. If interested, please copy the meeting room, URL posted in the chat now, so that you'll be ready to join the live discussions once, this webinar concludes. But now over to you, Natalie, you've got about 20 min left.
+
+229
+00:37:04.320 --> 00:37:05.420
+Natalie Walker: Okay, thank you.
+
+230
+00:37:07.080 --> 00:37:09.019
+Natalie Walker: Okay. So we had the survey.
+
+231
+00:37:09.720 --> 00:37:12.949
+Natalie Walker: some guidance documents that came out. And when they thought, Okay.
+
+232
+00:37:13.130 --> 00:37:24.620
+Natalie Walker: we need to start thinking about what we're going to do now for our trial, you know, and and sitting there, though what's what's our intervention? And going right back to that very 1st slide. I talked at the start of this talk around
+
+233
+00:37:24.840 --> 00:37:34.700
+Natalie Walker: what is an effective intervention. And it's not just it has to work. And it's safe. It's a lot more than that. So we came back to Cytosine.
+
+234
+00:37:34.830 --> 00:37:43.069
+Natalie Walker: I still think that cytosine is an amazing treatment. For all the reasons I've already talked to about. It's more effective than Nrt.
+
+235
+00:37:43.670 --> 00:37:45.159
+Natalie Walker: It's more acceptable.
+
+236
+00:37:45.963 --> 00:37:50.070
+Natalie Walker: Is at least as effective. For in a clean this is around smoking cessation.
+
+237
+00:37:50.530 --> 00:37:53.410
+Natalie Walker: acceptable for your side effects.
+
+238
+00:37:54.700 --> 00:38:03.629
+Natalie Walker: But this was around smoking cessation. So by rights it should apply to to nicotine cessation.
+
+239
+00:38:04.840 --> 00:38:18.289
+Natalie Walker: and that one trial I mentioned around cytosine being more effective than placebo for vaping cessation. So that was that phase 2 trial from the Us. And it had a few side effects. So we thought, we're going to do the cytosine. It makes sense to do the cytosine.
+
+240
+00:38:20.050 --> 00:38:30.729
+Natalie Walker: and our comparison would be the nicotine tapering, because that was the other evidence that we'd seen from our survey that people were using the tapering already.
+
+241
+00:38:30.920 --> 00:38:52.789
+Natalie Walker: and of course we needed some behavioural support around. And we needed to develop that. And so this was our research question going into the trial. This was funded by the Health Research Council of New Zealand, and so we spent a bit of time, as you do, getting ethics and getting everything ready, and we went through our regular to get regulatory authority to run the trial.
+
+242
+00:38:54.220 --> 00:38:56.480
+Natalie Walker: and we got stopped.
+
+243
+00:38:56.980 --> 00:39:04.390
+Natalie Walker: So the Regulator said, you shouldn't be doing a effectiveness trial.
+
+244
+00:39:05.000 --> 00:39:20.680
+Natalie Walker: You should be doing an efficacy trial. You need to have full medical oversight. You need to bring it into a clinic environment, you know. So they wanted more of a phase, 2 type of study. We just don't have the money to do that type of study.
+
+245
+00:39:21.560 --> 00:39:26.010
+Natalie Walker: And so we had to redesign the study like, Okay.
+
+246
+00:39:26.507 --> 00:39:32.849
+Natalie Walker: we didn't agree with the decision, but we had to do as we're told, and so we redesigned the study.
+
+247
+00:39:34.230 --> 00:39:50.969
+Natalie Walker: and we went to the Nrt. Mainly because this is what the smoking cessation providers in the community were wanting to offer. People who wanted to quit vaping, but they weren't permitted to. And so we thought, well, if we could do it through a trial, that's 1 way we can make this happen.
+
+248
+00:39:52.410 --> 00:40:03.330
+Natalie Walker: We talked about the fact that the the pilot study vaping, nicotine tapering was, was already there. But also we look at the Cochrane Reviews, and this is why the reviews are so valuable.
+
+249
+00:40:04.170 --> 00:40:06.160
+Natalie Walker: The combination in our T
+
+250
+00:40:06.680 --> 00:40:19.870
+Natalie Walker: is superior to single use, and also cut down to quit and use of fast acting oral nrt, which is essentially what the vapors is also effective. So we thought, Okay, well.
+
+251
+00:40:20.190 --> 00:40:23.780
+Natalie Walker: we'll go with the combination in it.
+
+252
+00:40:25.160 --> 00:40:35.709
+Natalie Walker: and we'll keep the nicotine tapering. So this is was our redesign. So, despite this trial being funded a wee while ago, we've had to spend some time doing this redesign.
+
+253
+00:40:37.380 --> 00:40:44.199
+Natalie Walker: So this is our research question. We've dropped the age down. Usually we do 18 plus. But we've gone to 16, plus.
+
+254
+00:40:44.890 --> 00:40:58.799
+Natalie Walker: This is the trial here. It's the the clinical trial. Id is here. If we look at, look it up and look at all the outcome variables. The protocol is not yet published. We have started. Recruitment. Recruitment is going very well.
+
+255
+00:40:59.450 --> 00:41:11.899
+Natalie Walker: These are the eligibility criteria. So you currently vape nicotine at least weekly. You used to smoke, or you have never smoked. So it's sort of bringing in our never smoking population.
+
+256
+00:41:13.370 --> 00:41:22.520
+Natalie Walker: And again, the way this works is, there's this website, we use social media advertising and
+
+257
+00:41:22.730 --> 00:41:29.040
+Natalie Walker: in various forms. And people come into the website. They have the ability to read about the study.
+
+258
+00:41:30.390 --> 00:41:39.359
+Natalie Walker: a two-step consent process. They baseline data is collected online, they get randomized online and the material gets sent out to them.
+
+259
+00:41:39.760 --> 00:41:56.090
+Natalie Walker: And then we phone them for follow up again a very tight website. So no bots can come in, and there's lots of verification that the person is real and they get a copy of the consent form participant information sheet. All of that gets sent to them and to their Gp.
+
+260
+00:41:57.410 --> 00:42:00.129
+Natalie Walker: so this is the trial that's running. At the moment
+
+261
+00:42:00.350 --> 00:42:25.880
+Natalie Walker: we have our group, one gets combination nit. We went with the patch and the mouth spray. So why the mouth spray one? Because it's got that fiddle factor. You can play with it in your hand fiddle around with it, which some of that sensory elements of vapes. So we thought that would be quite relevant in this sense, and it fits in your back pocket nicely.
+
+262
+00:42:26.080 --> 00:42:34.380
+Natalie Walker: And so that's where we've gone with that. And then the nicotine reduction we are allowing
+
+263
+00:42:35.380 --> 00:42:43.590
+Natalie Walker: we co-designed what this looked like. We co-design it with end users who have quit vaping and
+
+264
+00:42:44.650 --> 00:43:08.659
+Natalie Walker: and have had experience of this nicotine reduction. And so, because it's such a personal thing, we created a booklet that says, Okay, if you want to reduce, these are the different ways you can do it. Here's some examples. But ultimately it's for you to develop your own strategy, and you can either follow ours or you do your own one or a bit of both.
+
+265
+00:43:08.820 --> 00:43:10.080
+Natalie Walker: And so
+
+266
+00:43:10.920 --> 00:43:29.899
+Natalie Walker: so we've created this beautiful booklet, and then we've also got a booklet that is around some of the behavioral support where we've included some of the findings from that survey. So this we've used the voice of people that have done it. So. So it looks very beautiful. We're really happy with the way that looks.
+
+267
+00:43:30.410 --> 00:43:36.870
+Natalie Walker: People have to use their own vapes and their own e-liquid and the nicotine reduction arm. And of course.
+
+268
+00:43:37.720 --> 00:43:43.409
+Natalie Walker: people who use disposables. They may not be able to get a lower level of
+
+269
+00:43:44.194 --> 00:43:58.389
+Natalie Walker: nicotine depending on on the disposable. So they we said, you may just have to focus more. You know, fiddle around with how you might do. It might be about this reducing the sessions rather than the nicotine. So
+
+270
+00:43:58.590 --> 00:44:09.619
+Natalie Walker: all of this stuff was new to us. It was quite, quite different from quitting smoking, and you have to have some real good thought about. Okay, how? How are we going to get them to to reduce the nicotine
+
+271
+00:44:09.770 --> 00:44:14.760
+Natalie Walker: over time, and both groups get the behavioural support.
+
+272
+00:44:14.900 --> 00:44:17.569
+Natalie Walker: So this is what it looks like just visually.
+
+273
+00:44:17.850 --> 00:44:20.120
+Natalie Walker: This is our online screening
+
+274
+00:44:20.270 --> 00:44:26.580
+Natalie Walker: takes 6 days approximately to get the courier to them because they're any. They're throughout the entire country.
+
+275
+00:44:27.207 --> 00:44:36.729
+Natalie Walker: They have 8 week treatment period, and we said to them, You've got 8 weeks to quit by the end of, you know, end of 8 weeks. That's your designated quit date, and then all follow up
+
+276
+00:44:37.000 --> 00:44:40.409
+Natalie Walker: is hinged on this quit date, as you can see.
+
+277
+00:44:40.630 --> 00:44:43.400
+Natalie Walker: calling it 1, 3, and 6 months.
+
+278
+00:44:45.150 --> 00:44:51.880
+Natalie Walker: You might ask why we don't go out to 12 months. That's because we just don't have enough money to go out to 12 months.
+
+279
+00:44:53.640 --> 00:44:58.029
+Natalie Walker: The biggest challenge for this was trying to define abstinence.
+
+280
+00:44:58.170 --> 00:45:05.720
+Natalie Walker: This is a really good question. People haven't really thought about this, or talked about it very much. What is abstinence from vaping?
+
+281
+00:45:06.210 --> 00:45:10.140
+Natalie Walker: Is it being vape-free and tobacco free?
+
+282
+00:45:10.820 --> 00:45:14.520
+Natalie Walker: Was it being just fate free, or has it been nicotine free?
+
+283
+00:45:14.650 --> 00:45:17.150
+Natalie Walker: What is it that we want? What what is it?
+
+284
+00:45:17.380 --> 00:45:19.399
+Natalie Walker: And so, as a group, we
+
+285
+00:45:19.900 --> 00:45:27.690
+Natalie Walker: came to these, this is our decision. Others in the on the call may have different views, but this is what we came to.
+
+286
+00:45:27.800 --> 00:45:33.170
+Natalie Walker: so to be. Vape, free and tobacco free. We are collecting all 3 outcomes.
+
+287
+00:45:33.880 --> 00:45:37.860
+Natalie Walker: But our primary is around being vape, free and tobacco free.
+
+288
+00:45:38.460 --> 00:45:41.439
+Natalie Walker: So self-report of no device, device, use.
+
+289
+00:45:41.650 --> 00:45:44.889
+Natalie Walker: and self-report, no use of any tobacco products.
+
+290
+00:45:46.230 --> 00:45:53.409
+Natalie Walker: but individuals may or may not be using nicotine replacement therapy, and then we had
+
+291
+00:45:53.590 --> 00:46:01.639
+Natalie Walker: vape free. This is our definition. No device use, but may or may not be using tobacco products and or Nrt
+
+292
+00:46:02.250 --> 00:46:09.370
+Natalie Walker: and nicotine-free, not using vaping, not vaping nicotine, not using any tobacco products and not using Nrt.
+
+293
+00:46:12.440 --> 00:46:14.150
+Natalie Walker: so there needs to be
+
+294
+00:46:14.707 --> 00:46:30.680
+Natalie Walker: a lot more thinking about this. I know that there's colleagues in the Uk. And Mcneil as an example, sort of looking at these definitions, you know, what do we actually want? What do we think is needed? And what does the participant want?
+
+295
+00:46:33.210 --> 00:46:37.820
+Natalie Walker: So that's just a very quick
+
+296
+00:46:38.040 --> 00:46:43.249
+Natalie Walker: overview of what that trial is doing. It's like, I say, it's gonna take a while to run, but
+
+297
+00:46:43.670 --> 00:46:48.139
+Natalie Walker: We'll get the protocol out as soon as possible, so that people can have a bit more of a look at it. But
+
+298
+00:46:48.270 --> 00:46:50.270
+Natalie Walker: oh, in there! Thank you.
+
+299
+00:46:51.480 --> 00:47:04.980
+Jamie Hartmann-Boyce: Thank you so much, Natalie. I cannot wait to see the results of that trial, even though I know we have a little while to wait for it. So 1st over to you, Lisa, for any questions you might have, and audience members, please feel free to put through your questions in the Q. And A.
+
+300
+00:47:06.230 --> 00:47:26.649
+Lisa Fucito: A very exciting trial, and can't wait for the results as well. You know. I think you raised a really important point about you know? How do we define abstinence? But I think what this new era of research also makes me think about is, how do we measure vaping as an outcome. Up to now we've been sort of measuring, are you vaping? And it's largely been a yes, no question. And now, all of a sudden.
+
+301
+00:47:26.910 --> 00:47:39.709
+Lisa Fucito: for those of us who've been used to studying cigarettes for so long. Where it's, you know, it's really easy for people to to count. They have a pack, and they can look in their pack, how many they've smoked or not. Now, all of a sudden we're looking at this as an outcome, and
+
+302
+00:47:39.990 --> 00:48:06.769
+Lisa Fucito: the landscape is just, you know it's kind of the Wild West. And so I'm curious about, you know, lessons learned that you can advise the group on about. You know your thoughts about measuring this, because, you know, eventually we might want to get into a little bit more detail about, you know, reductions in vaping, and your thoughts about how to measure it. Especially, you know, asking people if there's different definitions, right number of puffs a day, or or number of continuous sessions. Or so I'm just. I'm curious.
+
+303
+00:48:06.770 --> 00:48:07.140
+Natalie Walker: Yes.
+
+304
+00:48:07.140 --> 00:48:07.720
+Lisa Fucito: It in your thoughts.
+
+305
+00:48:07.720 --> 00:48:11.889
+Natalie Walker: Yeah, well, of course, you know you you want to collect everything.
+
+306
+00:48:12.300 --> 00:48:14.149
+Natalie Walker: but that's not what you can do.
+
+307
+00:48:14.684 --> 00:48:17.605
+Natalie Walker: You know, we got a large number of people.
+
+308
+00:48:18.230 --> 00:48:24.409
+Natalie Walker: and we don't want to know when we're calling them to collect outcome data. You know. They give us 10 min, that's it.
+
+309
+00:48:24.630 --> 00:48:29.310
+Natalie Walker: you know. So you've got to be fast. You've got to be really clear, and you have to
+
+310
+00:48:29.620 --> 00:48:48.830
+Natalie Walker: maintain and build a relationship with them. So you don't lose them. And so, you know, giving them an hour long of questions is not going to work, you know. It's just not even feasible. So this is one of the issues. You know, we're not doing an efficacy study. We're not got people in the room. We're not doing intensive monitoring. This is very light touch.
+
+311
+00:48:49.130 --> 00:49:07.250
+Natalie Walker: And so you have to be very specific and thinking about is this question going to be enough? And so again, if you go and look onto the trial register. You'll see we've got outcome variables a lot. I feel like we've got too many. But we've got a lot. But it's what we've ended up with because we it is a new field. And what
+
+312
+00:49:07.470 --> 00:49:12.310
+Natalie Walker: what is the right question? And we have looked at frequency.
+
+313
+00:49:12.980 --> 00:49:15.989
+Natalie Walker: it's not gone into too much detail.
+
+314
+00:49:16.860 --> 00:49:23.160
+Natalie Walker: And and again, something like an efficacy trial. You can expand on that, and you can
+
+315
+00:49:23.270 --> 00:49:29.640
+Natalie Walker: explore that with more depth. But this type of study, very light touch, high level, that's all I can say. Is it.
+
+316
+00:49:31.600 --> 00:49:49.709
+Lisa Fucito: Yeah, really important point, especially like you're saying. And how do you assess for this in a brief way? And as we go into other clinical settings. We're going to need to be able to figure out what's the most efficient way to understand and track this. Another follow up question I had was, you know, the other thing. I think that's unique and different about vaping is just the flavors.
+
+317
+00:49:49.720 --> 00:50:14.630
+Lisa Fucito: and that the missing of those flavors, as you transition which obviously there can be flavored other tobacco products. But you know the opportunities for vapes are enormous, and so I don't personally know a lot about the mouth spray that you mentioned. But one practical question I had is, is that flavored in any way and sort of follow up would be, I'm curious about oral nicotine pouches, and if that sort of entered the landscape for for you
+
+318
+00:50:14.870 --> 00:50:28.739
+Lisa Fucito: in this space, having worked with a couple of patients now in clinic who've used the pouches to come off of vapes because the flavor part of it was a big piece for them, so I'll pause there with my question.
+
+319
+00:50:29.110 --> 00:50:37.361
+Natalie Walker: Yeah. Yeah. Good. Very good question. Yes. So this, yeah. Again, we were struggling. This, what's what flavors mouth spray, should we have?
+
+320
+00:50:38.400 --> 00:50:41.830
+Natalie Walker: Should. A what other? Nrt, so
+
+321
+00:50:42.120 --> 00:50:47.469
+Natalie Walker: so we are collecting all types of nrt any form of nrt. Product that they use.
+
+322
+00:50:48.152 --> 00:50:56.059
+Natalie Walker: So if the pouches, the pouches are just starting to appear, but if they so we've got that in there, but we've got an open category. So
+
+323
+00:50:56.170 --> 00:51:03.320
+Natalie Walker: if any other form comes onto the market in the next 3 years we should be able to pick it up. So every form of nicotine
+
+324
+00:51:03.560 --> 00:51:05.550
+Natalie Walker: that they use will be captured.
+
+325
+00:51:05.720 --> 00:51:09.340
+Natalie Walker: Because that's a really important question.
+
+326
+00:51:09.740 --> 00:51:28.879
+Natalie Walker: So we went with the mint mouth spray, because that's the dominant brand. A flavor used currently for the mouth spray. There are others available. But again, participants can go and purchase an alternative flavor if they wouldn't want to, but that's at their own cost.
+
+327
+00:51:29.520 --> 00:51:30.210
+Natalie Walker: So
+
+328
+00:51:31.580 --> 00:51:47.540
+Natalie Walker: so yes, a lot of work around flavours. It's another area of research that can be expanded on if you're quitting. How much, how important is the flavour? But you see from the survey. Some people wanted to use the concept of disgust, get a horrible flavour.
+
+329
+00:51:48.470 --> 00:51:58.050
+Natalie Walker: so so that aversion therapy. So maybe, you know, should you be using that in a trial, an aversive taste. And so
+
+330
+00:51:58.800 --> 00:52:07.180
+Natalie Walker: again, you know, we we're learning as we go. And I'm sure we'll make mistakes. But we'll you know every mistake is always a learning, so.
+
+331
+00:52:09.480 --> 00:52:14.769
+Lisa Fucito: Very exciting. I have other questions, but I think some some have posed posed on the Q. And A. So let's turn to that.
+
+332
+00:52:15.390 --> 00:52:32.369
+Jamie Hartmann-Boyce: Thank you. So we have a question in on the Q&A. Both groups in this trial get behavioral support material is the content. Different in the 2 groups or the same in the Combo Nrt. Group, is the goal to quit right away, and not at the end of 8 weeks as it is for the nicotine reduction group. So 2 questions in there.
+
+333
+00:52:32.850 --> 00:52:41.299
+Natalie Walker: Okay, good one. I'll take the last question first.st So yes. So the the so the instruction is, you've got 8 weeks to quote.
+
+334
+00:52:42.250 --> 00:52:46.239
+Natalie Walker: You're gonna your goal is to quit by the end of 8 weeks.
+
+335
+00:52:46.570 --> 00:52:55.959
+Natalie Walker: How they do that we will capture, but they can play around. So, giving them some control of their journey rather than being so so prescriptive.
+
+336
+00:52:58.270 --> 00:53:01.840
+Natalie Walker: So. And the 1st way. What? Just what was the 1st question again.
+
+337
+00:53:01.840 --> 00:53:05.510
+Jamie Hartmann-Boyce: The content of the behavioral support? Did it differ between the groups.
+
+338
+00:53:05.510 --> 00:53:08.209
+Natalie Walker: No. So the same behavior support.
+
+339
+00:53:08.870 --> 00:53:18.169
+Natalie Walker: So it's this beautiful booklet. And again just capturing all the knowledge that we've got from the survey, but also combining it with sort of
+
+340
+00:53:18.510 --> 00:53:29.019
+Natalie Walker: good concepts. We already know from smoking cessation, literature around relapse, prevention and strategies like that. So they get. They both groups, get the same booklet.
+
+341
+00:53:30.430 --> 00:53:31.430
+Jamie Hartmann-Boyce: Thank you.
+
+342
+00:53:31.440 --> 00:53:50.730
+Jamie Hartmann-Boyce: I'm going to use the chair's prerogative to ask you a question as well, Natalie, if that's okay, we've also been grappling within our Cochrane reviews, about what outcomes we look at in this new world where we have vaping, we have pouches, we have smoking, and how we define abstinence. And so one of the questions that relates to something that Lisa said
+
+343
+00:53:50.730 --> 00:54:02.979
+Jamie Hartmann-Boyce: is where oral nicotine pouches might fit in there. So if someone is using an oral nicotine vouch do they achieve your but nothing else do they achieve your 1st 2 levels of abstinence?
+
+344
+00:54:03.400 --> 00:54:05.909
+Jamie Hartmann-Boyce: They obviously don't achieve the nicotine free one.
+
+345
+00:54:06.740 --> 00:54:16.690
+Natalie Walker: Yeah, yeah, so what? What is that? And it's going to be really hard for the Cochrane Review. Because how do you summarize that? What is that definition? And some people may not even have? Really.
+
+346
+00:54:16.990 --> 00:54:18.399
+Natalie Walker: it's possible
+
+347
+00:54:19.530 --> 00:54:28.299
+Natalie Walker: that definition is not standard. It needs to be standardized, I think. But it's not currently. So it's going to be messy for you trying to do that review.
+
+348
+00:54:28.820 --> 00:54:29.370
+Jamie Hartmann-Boyce: Yeah.
+
+349
+00:54:30.047 --> 00:54:35.809
+Natalie Walker: And and so that's why we've we've got the the 3 different ones at the moment. Yeah.
+
+350
+00:54:35.950 --> 00:54:55.419
+Jamie Hartmann-Boyce: Excellent, and also related to your outcome definition, question something we've been wondering about when you have that kind of vaping and smoke free or vape free outcomes. Are you asking or thinking about? If people are vaping things other than nicotine? Or is the focus only on nicotine vaping for those 2 outcomes.
+
+351
+00:54:55.420 --> 00:54:59.750
+Natalie Walker: Another very good question we are asking.
+
+352
+00:54:59.990 --> 00:55:09.719
+Natalie Walker: I remember rightly. Yes, I think we are asking. We are asking if you're vaping other things. So remember the very 1st trial I presented to you.
+
+353
+00:55:09.960 --> 00:55:12.119
+Natalie Walker: No people were using cannabis.
+
+354
+00:55:13.360 --> 00:55:17.960
+Natalie Walker: So I'm very curious about wow! What are they vaping?
+
+355
+00:55:18.330 --> 00:55:23.790
+Natalie Walker: As well, you know. So it's reduced harm if they vape and so
+
+356
+00:55:24.320 --> 00:55:27.949
+Natalie Walker: what does that look like? So we are looking at that as well.
+
+357
+00:55:29.140 --> 00:55:34.340
+Jamie Hartmann-Boyce: Thank you so much, Lisa. Do you want to ask one more question? We probably have time for one more.
+
+358
+00:55:34.620 --> 00:55:48.080
+Lisa Fucito: Well, I know Mike posed the question about if there's any efforts in the Us. To bring the mouth spray on board, so I don't know if anybody knows. But the only other question I was going to raise. And I think your data potentially will be able to help answer. This is
+
+359
+00:55:48.290 --> 00:56:04.300
+Lisa Fucito: the challenge we also face with dosing Nrt for for vaping. And I really appreciate the 21 milligram approach that you took. Assuming we probably need the highest dose, you know. But Amanda's research, and you know, some other research suggests
+
+360
+00:56:04.820 --> 00:56:17.059
+Lisa Fucito: they might even need the double patching strategy or or going forward, you know clinically, do we use time to 1st vape to dose the oral form? I mean, it's it's a really weird landscape. What do we do.
+
+361
+00:56:17.450 --> 00:56:20.400
+Natalie Walker: Yeah, again. And we've kind of given.
+
+362
+00:56:20.550 --> 00:56:31.550
+Natalie Walker: We've given people. You know, this is how these 2 products are used. But we're collecting kind of how they're using them, because it's an unknown, isn't it? So?
+
+363
+00:56:32.340 --> 00:56:47.230
+Natalie Walker: And what is the right dose we'll say they're on is 21 milligram patch too much. So we've given them some advice. If they're finding the patch too strong. You know. What are you going to do in that situation? So people have the autonomy to to go and get their own.
+
+364
+00:56:47.710 --> 00:56:55.609
+Natalie Walker: Nrt, or you know, this is available in a number of places. So they have the ability to change, because
+
+365
+00:56:55.760 --> 00:57:20.690
+Natalie Walker: that's what happens in the real world. You go and get a prescription for some medicine from your doctor. You may or may not take it. You may only take some of it, and then you might go to the pharmacy and get something different, you know. So this is the elegance of a pragmatic trial is you're capturing the real journey of people. Not a very prescribed one.
+
+366
+00:57:22.000 --> 00:57:28.490
+Natalie Walker: So very different different designs. But it's it's trying to catch a
+
+367
+00:57:29.350 --> 00:57:43.980
+Natalie Walker: and that's why the quit rates are much lower for smoking cessation trials of their pragmatic. Because if you're paying someone to come into a clinic and you're seeing them every time. And you're getting all the data, and it's really robust. You are doing as you are told.
+
+368
+00:57:44.400 --> 00:57:49.050
+Natalie Walker: The quit rates will be good compared to someone in the community who just
+
+369
+00:57:49.250 --> 00:57:52.480
+Natalie Walker: sort of as just alone on their journey. Yeah.
+
+370
+00:57:53.140 --> 00:57:53.719
+Lisa Fucito: Yeah, you'll get.
+
+371
+00:57:53.720 --> 00:57:54.320
+Natalie Walker: The same thing.
+
+372
+00:57:54.320 --> 00:58:06.270
+Lisa Fucito: Shed light on that question, though of you know how many people and what types of individuals were having to top up with extra nrt, and how does that correspond with their use? Your trial will better, and you know, address those questions.
+
+373
+00:58:06.610 --> 00:58:08.619
+Natalie Walker: Yeah, yeah, so we will have that data.
+
+374
+00:58:09.030 --> 00:58:17.060
+Natalie Walker: It's this is why we've got slightly more outcomes than we would normally have because of it. It's like, Oh, but we really need to know that. So yeah.
+
+375
+00:58:17.450 --> 00:58:21.359
+Jamie Hartmann-Boyce: Well, thank you so much. This was brilliant, and just so
+
+376
+00:58:21.550 --> 00:58:28.159
+Jamie Hartmann-Boyce: impressed by everything that you're doing. I will hand over to Crystal now to close us out as we are out of time.
+
+377
+00:58:32.230 --> 00:58:53.299
+Yixian Crystal Chen: Alright. So we're out of time. However, if you still have burning questions or thoughts, for you can join us for top of the tops and interactive group discussion to join. Please copy the Zoom Meeting room, URL posted in the chat and the switch rooms with us. Once this event concludes.
+
+378
+00:58:53.460 --> 00:59:15.960
+Yixian Crystal Chen: we will leave this webinar room open for an extra minute after the end, to give everyone a chance to copy the URL, which is bitterly tops meeting all lowercase. Thank you to our presenter moderator and discussant. Finally, thank you to the audience of 55 people for your participation. Have a top notch weekend.
+
