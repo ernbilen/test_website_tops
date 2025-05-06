@@ -217,7 +217,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 </tr>
 {% elsif (speaker.Presenter == 'Natalie Walker') %}
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration">Links (Video and slides embargoed until a later date): <a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.Draft }}"> Paper</a>|<a href="{{ speaker.Transcript }}" download="{{ speaker.Transcript }}">Transcript</a></td>
+  <td colspan="2" height="40" valign="top" class="registration">Links (Video and some slides embargoed until a later date): <a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.Draft }}"> Paper</a>|<a href="{{ speaker.Transcript }}" download="{{ speaker.Transcript }}">Transcript</a></td>
 </tr>
 
    {% elsif speaker.Presenter == 'Benjamin Toll' %}
