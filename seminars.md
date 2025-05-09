@@ -219,6 +219,10 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links (Video and some slides embargoed until a later date): <a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.Draft }}"> Paper</a>|<a href="{{ speaker.Transcript }}" download="{{ speaker.Transcript }}">Transcript</a></td>
 </tr>
+{% elsif (speaker.Presenter == 'Makayla Lavender, James Flynn') %}
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.Draft }}"> Paper</a>|<a href="{{ speaker.Paper2 }}" download="{{ speaker.Paper2 }}">Slides</a>|<a href="{{ speaker.Draft2 }}" download="{{ speaker.Draft2 }}">Paper</a>|<a href="{{ speaker.Transcript }}" download="{{ speaker.Transcript }}">Transcript</a></td>
+</tr>
 
    {% elsif speaker.Presenter == 'Benjamin Toll' %}
 <tr>
