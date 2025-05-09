@@ -1,0 +1,1206 @@
+WEBVTT
+
+1
+00:00:02.800 --> 00:00:24.019
+Mike Pesko: Welcome to the tobacco online policy seminar tops. Thank you for joining us today. I'm Mike Pesco, a professor at the University of Missouri tops is organized by Me. C. Shang, at the Ohio State University, Michael Darden at Johns Hopkins University, Jamie Herbert-boyce at University of Massachusetts, Amherst and Justin Wade, at Boston University.
+
+2
+00:00:24.260 --> 00:00:51.790
+Mike Pesko: The seminar will be 1 h with questions from the Moderator and discussing the audiences, may post questions and comments in the Q. And A. Panel, and the moderator will drop from these questions and comments and conversation with the presenter. Please review the guidelines on tobaccopolicy.org for acceptable questions. Please keep the questions professional and related to the research being discussed. Questions that meet the seminar series. Guidelines will be shared with the presenter afterwards, even if they are not read aloud. Your questions are very much appreciated.
+
+3
+00:00:52.030 --> 00:01:06.880
+Mike Pesko: The presentation is being video recorded and will be made available along presentation slides on the tops website. tobaccopolicy.org. I will turn the presentation over to today's moderator, Michael Darden, from Johns Hopkins University, to introduce our speaker.
+
+4
+00:01:09.630 --> 00:01:24.830
+Michael Darden: Thank you, Mike. Today we continue our summer. 2025. Season with a Panel Presentation by Michaela Lavender and James Flynn, entitled Comparison of 2 papers, effects of tobacco, 21 on maternal smoking.
+
+5
+00:01:24.860 --> 00:01:42.540
+Michael Darden: These presentations were selected via competitive review process by submission through the tops website. Please note that today's seminar will run until 3 15 Pm. Eastern time to accommodate the full panel format. We'll begin with a 25 min presentation by Dr. Lavender, followed by questions from a discussant
+
+6
+00:01:42.550 --> 00:01:59.200
+Michael Darden: and an audience. Q. And a next, Dr. Flynn will present for 25 min, followed by a discussants, comments, and audience questions. We'll conclude the session with overarching reflections and final comments from the discussant and any any additional Q. And a.
+
+7
+00:01:59.530 --> 00:02:15.640
+Michael Darden: So our 1st speaker is Dr. Michaela Lavender. She's a health economist and an assistant professor at the University of Nevada, Las Vegas. Her research centers on how people respond to public insurance and health policies using natural experiment methodologies to to measure causal impacts.
+
+8
+00:02:15.720 --> 00:02:39.980
+Michael Darden: One area of work focuses on how tobacco policies affect teens, including the flavored tobacco ban and raising the tobacco age to 21. She's also studied how subsidized insurance eligibility, such as medicaid and marketplace plans, impact family decisions such as fertility, labor, market participation amongst parents and early retirement. Among older adults.
+
+9
+00:02:40.150 --> 00:02:58.710
+Michael Darden: Dr. Tim Bursak is an associate professor at Wolford College, and Dr. Luda Sanchak. Arden is a associate professor at Susquehanna university. They're both co-authors on the study, and they're going to answer select questions in the Q. And A. Dr. Lavender. Thank you for presenting for us today.
+
+10
+00:02:59.830 --> 00:03:05.129
+Makayla Lavender: Yes, thank you for having me let me go ahead and share my slides.
+
+11
+00:03:05.920 --> 00:03:06.710
+Makayla Lavender: House.
+
+12
+00:03:10.980 --> 00:03:12.230
+Makayla Lavender: Okay?
+
+13
+00:03:12.340 --> 00:03:14.500
+Makayla Lavender: And then we'll just start from the beginning.
+
+14
+00:03:16.480 --> 00:03:29.020
+Makayla Lavender: So, as was mentioned, we're going to be presenting our work on Tobacco. 21 laws, and how that affected maternal smoking among teens during pregnancy, and this paper was recently published in health economics.
+
+15
+00:03:29.210 --> 00:03:36.139
+Makayla Lavender: so I do not have any funding sources for this paper or for any other papers.
+
+16
+00:03:39.450 --> 00:04:02.720
+Makayla Lavender: So to start off, we're going to look at county and State level tobacco. 21 policies. These are policies that raise the legal purchasing age from 18 up to 21 for tobacco products. And we're going to look at how that impacted pregnant women. Ages 18 to 20, we're going to use birth certificate data from the vital statistics.
+
+17
+00:04:02.720 --> 00:04:24.789
+Makayla Lavender: And we are going to use a legit difference in difference model. That accounts for the staggered adoption. We have 15 different treatment areas that we're going to look at that, roll this out at various different times, and in that we're going to focus in on New York City and California, since those are where the majority of our treated observations are.
+
+18
+00:04:24.790 --> 00:04:49.439
+Makayla Lavender: And for those 2 locations we're also going to use an age-based difference in difference model where we're comparing the outcomes for 18 to 20 year olds to older women, 24 to 26 in those same locations. So we'll talk about that as well overall. We did find significant reductions in smoking pre-pregnancy and during pregnancy, and that was largely driven
+
+19
+00:04:49.440 --> 00:05:16.060
+Makayla Lavender: by California, and to some degree New York City. Our magnitude overall is smaller than most of the other tobacco. 21 studies that look at self-reported survey information among teens and a more general population. Because of that, we weren't able to go on and look at the impact of reduced smoking on birth outcomes like we would have otherwise liked to have done
+
+20
+00:05:16.110 --> 00:05:43.899
+Makayla Lavender: so. It's well established both in the general public, not just among tobacco scholars. Like all of you guys, that smoking is really bad for both maternal and for child outcomes. And so there's been policies to kind of directly send that messaging things like labels on packages of cigarettes. We're just going to look at a general policy that affects all teens, but because of the impacts of smoking.
+
+21
+00:05:43.900 --> 00:05:48.189
+Makayla Lavender: This subpopulation is really important. To consider.
+
+22
+00:05:48.950 --> 00:06:16.910
+Makayla Lavender: This graph shows you the prevalence of smoking by age, and you can see that it's most common around age 21. And we're really going to focus on this group in red the 18 to 20 year olds. The hope is that if we can get smoking reduced in this population, then, as these women age up, we could have lower smoking rates across the whole age distribution over time.
+
+23
+00:06:18.470 --> 00:06:45.009
+Makayla Lavender: So some background on these tobacco. 21 policies, the 1st one started Anita Massachusetts. It's a city level policy back in 2,005. And we're not going to be able to look at city level policies in our data, because the finest level we can really get down to is county level. But this is where it started, and then the big city level rollout was in New York City in 2014. We will look at New York City.
+
+24
+00:06:45.440 --> 00:07:05.740
+Makayla Lavender: and then we have some State level expansions in 2016, and the momentum just kept building. And then, when we got to December 2019, the Federal Government raised the legal purchasing age to 21 nationwide. And so we're going to stop our data at the end of 2019.
+
+25
+00:07:07.090 --> 00:07:30.209
+Makayla Lavender: I'm going to briefly go over the literature, and we're going to focus more on the methods in this talk. So when looking at self-reported tobacco use among teens from survey results we do find in literature consistent, significant declines. There's several of these papers, and we're just going to look at the magnitudes that
+
+26
+00:07:30.370 --> 00:07:37.859
+Makayla Lavender: most of them are around 20% or higher. So there's several of these studies.
+
+27
+00:07:38.390 --> 00:08:06.639
+Makayla Lavender: There's also some literature looking at reduced tobacco sales. Now in these studies, they can't really link who's purchasing and the age of that person. So they kind of tease this out by looking at brands favored by younger smokers, and then also the share of the county that's below 21. But these papers did find evidence that not only did self-reported smoking go down, but also cigarette sales went down
+
+28
+00:08:08.240 --> 00:08:34.419
+Makayla Lavender: now, just because we raise the tobacco age from 18 to 21 doesn't mean that no one under 21 can smoke, and even doesn't mean that they can't necessarily purchase tobacco. There's been some concern about weak enforcement that if people are not checking the ids that people under 21 can still purchase tobacco. And so that's a common theme that we've seen in some of the literature.
+
+29
+00:08:34.429 --> 00:08:58.839
+Makayla Lavender: This interesting new study came out, and it was mentioned on the self-reported slide as well, because it did find reductions and self-reported smoking. But then, when they kind of took it to the next level and looked at biomarkers using urine samples, they did not find any reductions. And so the concern here is that, well, maybe people are just reporting
+
+30
+00:08:58.840 --> 00:09:05.260
+Makayla Lavender: less smoking, but they are still smoking. So they want to appear like they're compliant with the law.
+
+31
+00:09:06.800 --> 00:09:31.129
+Makayla Lavender: Now, we're going to get into our paper. This is a list of the 15 different treatment locations that we have in our study. There's the expansion date. And then this is the number of births in our sample to women 18 to 20 years old, and you can see that our largest areas by far are California, followed by New York City.
+
+32
+00:09:31.130 --> 00:09:41.929
+Makayla Lavender: We also have a significant number of births in Oregon, but because we only have one year of post data for Oregon. We're not able to do a lot
+
+33
+00:09:41.930 --> 00:09:56.679
+Makayla Lavender: with that. I guess. 2 years. Sorry about that we're also going to use women 24 to 26 as a placebo group. I won't go over those results, but we will use them as a control group in our age, base difference and difference model.
+
+34
+00:09:58.440 --> 00:10:17.980
+Makayla Lavender: Our data is from the vital statistics we're using 2012 through 2019, we have some demographic data about the mothers. But we really just use the race. And whether this is the 1st birth things like education, marital status, we don't have a lot of good variation there, because our sample is so young.
+
+35
+00:10:18.690 --> 00:10:40.789
+Makayla Lavender: There is data about how many cigarettes the mother smoked in the 1st 3 months prior to conception. And then, during each of the trimesters of her pregnancy, we're not going to use that continuous variation. We're just going to reduce this down to binary variables because of concerns about misreporting or recall bias.
+
+36
+00:10:41.840 --> 00:11:05.259
+Makayla Lavender: Some of the States, unfortunately, were slow to adopt the revision of the birth certificate that contains this detailed information about tobacco outcomes, and consequently we end up needing to drop 11 states due to missing smoking data. And so these had more than 10% missing in 2012 at the start of our period. This isn't
+
+37
+00:11:05.270 --> 00:11:21.119
+Makayla Lavender: missings due to women not wanting to report. It really is a State level policy issue. So we do find similar smoking in the end of our period, among those who were dropped and and those who we kept.
+
+38
+00:11:22.080 --> 00:11:26.849
+Makayla Lavender: we have measures on infant health, but we're we don't do very much with it.
+
+39
+00:11:28.540 --> 00:11:44.170
+Makayla Lavender: Here's a map. That kind of shows you what we're doing. Essentially, we're comparing the areas in dark red that adopted a tobacco 21 policy to the areas in light red where there was never a policy adopted.
+
+40
+00:11:44.170 --> 00:12:01.780
+Makayla Lavender: We also drop the areas in black. These counties have a tobacco 21 policy at a sub county level. And so, because we can't identify where in the county a mother lives, we just drop those, which means we drop most of Massachusetts.
+
+41
+00:12:01.910 --> 00:12:15.009
+Makayla Lavender: We also drop areas with a tobacco, 19 policy in gray, where they raise the tobacco age to 19 instead of 21, and the beige color is missing because of that smoking data.
+
+42
+00:12:16.900 --> 00:12:43.340
+Makayla Lavender: So this kind of shows you the descriptive statistics about our pre-pregnancy, smoking binary measure over time in our areas that never expanded a tobacco. 21 policy. And then in California and New York City, just highlighting 2 of our 15 expansion locations, and what you can see right away is that the baselines are very different.
+
+43
+00:12:43.340 --> 00:13:07.820
+Makayla Lavender: and that even in the never treated areas there is still a significant decline in smoking, despite not having a tobacco. 21 policy. So we're not too concerned about the differences in baselines of a difference in difference model, because we can control for group level fixed effects which we do. But what we're concerned about are these trends. And so the idea of a difference in difference is that this
+
+44
+00:13:08.040 --> 00:13:32.839
+Makayla Lavender: never treated group is supplying the counterfactual of what our treated locations would have looked like if they had not expanded tobacco 21. And so if we take the trend that we're seeing in the never treated area in New York City's post period, and we impose it on New York city's post period, we would see that the implied
+
+45
+00:13:32.840 --> 00:13:49.699
+Makayla Lavender: counterfactual smoking rate would have been negative by the end of our time period. And that's obviously impossible. So that's a problem. If we were to run a linear probability model here, what we would see is that the smoking rate
+
+46
+00:13:49.700 --> 00:14:06.459
+Makayla Lavender: from a tobacco 21 policy would have increased because it's higher than the counterfactual. So that's a concern. We see a similar issue with New York City. If we take this trend and impose it on New York City it becomes negative by the end of our period.
+
+47
+00:14:06.690 --> 00:14:22.519
+Makayla Lavender: And so what we do to address this issue is, we rescale our outcome to being on a log. Odd scale. So here's the graph again, but on a log, odd scale. And you can see that the trends are much
+
+48
+00:14:23.063 --> 00:14:33.699
+Makayla Lavender: more similar, and that we're not going to hit this 0 lower bound problem. And so that's why we end up going with the low git model.
+
+49
+00:14:35.420 --> 00:15:03.319
+Makayla Lavender: This is another way to kind of see, how do the parallel trends hold? We run an event study looking at the 3 years prior and the 3 years after, centered on treatment date, and we see no significant difference in our pre period. But then we do see significant declines in our post period. This is not the model that we use in the paper. It's just kind of a test for parallel trends.
+
+50
+00:15:03.610 --> 00:15:33.589
+Makayla Lavender: Now, additionally, we have 15 treated groups, and it'd be a little naive to assume that the trend for the never treated group holds without any significant difference for all 15 of our treated groups. So in the appendix tables. We also run specifications that have group trends from the Pre period kind of projected out to the post period, and we look at differences and deviations, the relative deviation from their trend
+
+51
+00:15:33.590 --> 00:15:40.159
+Makayla Lavender: that really attenuates our results. But we do still find significant reductions in smoking.
+
+52
+00:15:41.340 --> 00:15:46.889
+Makayla Lavender: So what are we going to do, we're going to do a logit difference in difference model. This has
+
+53
+00:15:47.240 --> 00:15:58.059
+Makayla Lavender: a couple of complications. First, st how do we interpret a logit difference in difference model? And to answer that we're going to rely on Puhani's 2,012 paper.
+
+54
+00:15:58.420 --> 00:16:27.479
+Makayla Lavender: And then we have this issue of staggered adoption which has taken over the difference in difference literature since 2020 there's a whole range of different solutions. James Funn is going to present a different solution than we do. But what we're going to go with is the Woolridge 2012 paper using an extended two-way fixed effects model. And this works really well with the Puhani paper. And so that's our approach.
+
+55
+00:16:28.160 --> 00:16:37.419
+Makayla Lavender: Let's go over what Puhani says about the interpretation of a legit difference in difference. Model. First, st imagine just a linear.
+
+56
+00:16:37.420 --> 00:17:02.239
+Makayla Lavender: simple difference in difference model, no staggered adoption where you have binary treatment groups and a pre post period. And so then, if you were to run the basic model, the interaction coefficient between the treated group and the post period. That would tell you the treatment effect that would give you the same thing as taking the second derivative of the treated group over time.
+
+57
+00:17:02.630 --> 00:17:17.869
+Makayla Lavender: And then you could also think of a potential outworks framework where you're thinking about the treated group. Sorry treated group in the post period, and you're looking at it when the policy is turned on versus the outcome, when the policy is not turned on.
+
+58
+00:17:17.869 --> 00:17:40.800
+Makayla Lavender: and all 3 of these are the same. However, when you get to a logit difference in difference model, all 3 of them are different, the interaction coefficient, and the second derivative can have the opposite sign, and so most people know, not to interpret the interaction coefficient of a logit model. You use margins to look at effects of logit models.
+
+59
+00:17:41.254 --> 00:18:02.929
+Makayla Lavender: What Puhani says of these 3 that you want to focus on is actually the potential outworks outcomes framework. And so you could take the treated group in the post period, project it with the treated interaction, turned on and off and take the difference. The problem with using kind of predict as a post
+
+60
+00:18:03.020 --> 00:18:22.520
+Makayla Lavender: regression command to get that is, you don't get the standard errors. And so this is where kind of a trick from the Woolridge paper comes in is that you can actually add this slightly redundant variable which is turning on and off
+
+61
+00:18:22.610 --> 00:18:43.390
+Makayla Lavender: the treatment. Essentially, this becomes one turned on when it's a post group in the post period. So that's redundant to this interaction here. But by adding it you're able to ask margins to kind of turn on and off that treatment effect. And this might make more sense in a moment.
+
+62
+00:18:45.210 --> 00:19:07.218
+Makayla Lavender: yeah. So here is our equation from the Woolridge to a extended to a fixed fx we have legit outcome, and then we're going to have this interaction of variables where the W. Is again somewhat redundant. This is going to give us a whole bunch of tau gt coefficients.
+
+63
+00:19:07.650 --> 00:19:20.080
+Makayla Lavender: what's gonna happen is essentially for our 15 treated groups. As soon as they enter their post period. We're gonna add a month indicator for every month in their post period.
+
+64
+00:19:20.080 --> 00:19:48.270
+Makayla Lavender: That's going to be relative to the month indicators in kind of the common post period. And so for all of our treated groups, we're measuring their post period effect for each post period, separately relative to the never and the not yet treated groups who don't have their own Tau gt, coefficient coming in here.
+
+65
+00:19:48.420 --> 00:20:12.150
+Makayla Lavender: and so that protects us from the concern about a plain old two-way fixed effects model, where you're comparing late treatment groups to early treatment groups, because essentially, every treated group is getting its own coefficient. It's busy supplying its own effect in the post period, and so it can't be serving as a basis for the newly treated groups.
+
+66
+00:20:13.010 --> 00:20:23.559
+Makayla Lavender: We're not actually going to be interested in all these Tau Gt coefficients. Again, we're going to run margins to find the effect of
+
+67
+00:20:23.830 --> 00:20:25.820
+Makayla Lavender: the treatment impact.
+
+68
+00:20:26.410 --> 00:20:49.579
+Makayla Lavender: This is a graph that doesn't show up in the paper, but I think it's just illustrative of what's going on here. If we look at the marginal effects of all of those like treated groups in their post period. Those are all these light blue dots, and it's incredibly noisy. We can then aggregate using margins to the group level, which are these dark blue dots.
+
+69
+00:20:49.580 --> 00:21:13.680
+Makayla Lavender: and because a lot of our treated groups are so small, those are incredibly noisy looking at these p-values. But then, if we look at the overall across all treated groups and their respective post periods. That gives us this kind of overall effect in Green and the California and New York City Group effect is kind of hiding behind this one.
+
+70
+00:21:15.450 --> 00:21:22.779
+Makayla Lavender: This is kind of a run through of the code. Just because we're told that you guys are more interested in the methods. We create this
+
+71
+00:21:22.810 --> 00:21:48.970
+Makayla Lavender: global with all of our interaction terms, we feed that into our logit model. And then, as a post command, we're looking at the marginal effect of that W in our treated groups in the post period, and then in our individual groups like California versus New York and their post period, or some combination of these.
+
+72
+00:21:50.300 --> 00:22:13.900
+Makayla Lavender: so that brings us to our results. This table is for the extended two-way fixed effects model for our 3 main outcomes, which are smoking pre-pregnancy, first, st trimester persistence. So this is whether a mom is smoking in the 1st trimester given that she smoked in the 3 months before conception.
+
+73
+00:22:13.960 --> 00:22:21.750
+Makayla Lavender: and then we have smoking during pregnancy, which is any of the trimesters among every mom.
+
+74
+00:22:23.170 --> 00:22:27.649
+Makayla Lavender: So our overall effect is negative and significant.
+
+75
+00:22:27.760 --> 00:22:56.679
+Makayla Lavender: Our main specification. We don't consider the tobacco controls, and we find about a 7.7 5% reduction in pre-pregnancy smoking. If we look for New York City and California separately, we find really large impacts for New York City, though they're a little bit noisier because we have a smaller sample in California. The reduction is about 14.4 4%.
+
+76
+00:22:57.070 --> 00:23:16.129
+Makayla Lavender: Looking at 1st trimester persistence, we don't find anything significant. This is partially due to a smaller sample size, but we also think it's indicative of the fact that there aren't more quits during pregnancy. Our reduction in smoking is really coming from not smoking pre-pregnancy.
+
+77
+00:23:16.130 --> 00:23:38.019
+Makayla Lavender: When we go on to look at smoking during pregnancy, we find magnitudes that are somewhat similar to our smoking during pre-pregnancy. So again, we're not seeing a lot of increased quits during pregnancy. We're mostly seeing that this is driven by the fact that people aren't smoking pre-pregnancy.
+
+78
+00:23:39.580 --> 00:23:53.589
+Makayla Lavender: We also want to look at the impact over time. We would expect this impact to grow as fewer people initiate, and then they become older, and and that kind of works through the cycle
+
+79
+00:23:53.810 --> 00:24:12.089
+Makayla Lavender: overall, we find a significant and increasingly larger reduction over time. And that's similar for New York City and California. This impact grows over time. And it's significant in both of those treated locations.
+
+80
+00:24:13.440 --> 00:24:31.419
+Makayla Lavender: The 1st trimester persistence, again, is insignificant, and when we get to smoking during pregnancy we do see a reduction that grows, though it's less significant. And in California, it is again significantly increasing the effect.
+
+81
+00:24:32.310 --> 00:24:34.759
+Makayla Lavender: I'm going to skip the placebo table.
+
+82
+00:24:36.220 --> 00:25:02.799
+Makayla Lavender: Our next model was to use a legit difference in difference based on age. And so here we're comparing women 18 to 20, with 24 to 26, first, st just only looking at New York City. The benefit of this is like, if there are other state policies that are changing regarding tobacco, like cigarette taxes, indoor smoking laws, all of those things are treating younger women and older women. Similarly.
+
+83
+00:25:03.140 --> 00:25:07.619
+Makayla Lavender: what we find in New York City is that nothing is significant.
+
+84
+00:25:08.800 --> 00:25:37.650
+Makayla Lavender: When we look at California we do find significant reductions in smoking pre-pregnancy, and during pregnancy, again, persistence is not significant. And so this magnitude is a little bit smaller than the one we got from our other model. But it's very consistent. So in our other model, this was 14.4 and 14.4 5% reduction. So that's very similar.
+
+85
+00:25:40.190 --> 00:26:00.930
+Makayla Lavender: So in conclusion, we find that tobacco. 21 laws did reduce maternal smoking. The clearest case we have is when we're looking at California, which we can look at individually, or we can look at it as driving kind of the overall result across our 15 areas.
+
+86
+00:26:00.930 --> 00:26:14.980
+Makayla Lavender: There, we're finding about a 14.5% reduction and smoking, using the extended to a fixed effects model or a 12.9 13.6% reduction, using
+
+87
+00:26:15.000 --> 00:26:18.179
+Makayla Lavender: the age-based difference in difference models.
+
+88
+00:26:18.500 --> 00:26:33.580
+Makayla Lavender: Again, we really think that this is driven by less smoking pre-pregnancy, not increased quits, and the magnitudes are significantly smaller than the other papers. In the literature. Among a general teen population.
+
+89
+00:26:33.790 --> 00:26:49.920
+Makayla Lavender: We had hoped that we would have gotten magnitude similar to the overall population, and then we probably could have gone on to look at the impacts on on birth, weight, and and other health outcomes of the infant easier. But we don't really have
+
+90
+00:26:49.920 --> 00:27:10.840
+Makayla Lavender: enough power to do that. This could be showing us that risk preferences or other things are different among this subpopulation than the broader teen population. It could be that teens who are becoming pregnant have more risk tolerance. And so they're also
+
+91
+00:27:10.840 --> 00:27:16.779
+Makayla Lavender: less likely to quit tobacco just because of raising the minimum purchasing age
+
+92
+00:27:18.440 --> 00:27:31.989
+Makayla Lavender: again, we weren't able to do a two-stage regression to look at the impact on birth outcomes. If we do a reduced form where we put low birth weight as the outcome variable, the results are insignificant.
+
+93
+00:27:32.100 --> 00:27:56.760
+Makayla Lavender: We also did some back of the envelope calculations to kind of see. Okay, if we scaled this up to the national level, how many fewer low birth weight infants would there be, and I won't walk through these steps. But we ended up finding really similar reductions to what the Institute of Medicine report from 2015 estimated the long run impact
+
+94
+00:27:56.760 --> 00:28:08.850
+Makayla Lavender: on reductions in low birth weight infants. And it's not trivial. But we're both finding something around 5,000 fewer low birth
+
+95
+00:28:09.530 --> 00:28:17.339
+Makayla Lavender: infants per year. So that concludes our presentation, and I am happy to take questions.
+
+96
+00:28:19.010 --> 00:28:35.690
+Michael Darden: Thanks so much, Dr. Lavender. That was terrific. We're going to pivot to our discussant today, and the discussant is Dr. Rahi Abok, who's an associate professor at William Patterson University, and the director of the Cannabis Research Institute there. So Rahi, take it away.
+
+97
+00:28:36.760 --> 00:28:45.580
+Rahi Abouk: Thank you, Michael. So, 1st of all, I have to thank the authors for this paper and congratulations on the publication.
+
+98
+00:28:45.840 --> 00:28:49.831
+Rahi Abouk: So they certainly addressed a very important topic.
+
+99
+00:28:50.510 --> 00:28:54.870
+Rahi Abouk: to study how tobacco. 21 would affect a very important
+
+100
+00:28:55.110 --> 00:29:00.920
+Rahi Abouk: group of population, pregnant teens, basically, or youth pregnant youth.
+
+101
+00:29:01.130 --> 00:29:14.649
+Rahi Abouk: So overall, it's a very well done research. Very well done. Paper. I have just maybe a series of questions, concerns and comments
+
+102
+00:29:14.800 --> 00:29:23.130
+Rahi Abouk: which I don't think it's gonna have any impact since the work has been already published. But just for discussion.
+
+103
+00:29:23.410 --> 00:29:48.619
+Rahi Abouk: So my 1st point is about the way the authors motivate the use of logic regression. And the idea of parallel pretreatment trend is basically in the form is is basically when we consider base the mean out, what can I? How can I say this?
+
+104
+00:29:48.980 --> 00:29:53.079
+Rahi Abouk: So we should control for a set of covariates.
+
+105
+00:29:53.190 --> 00:29:57.850
+Rahi Abouk: So this is really unconditional trend.
+
+106
+00:29:58.230 --> 00:30:09.229
+Rahi Abouk: But in in practice, when one test, the pre parallel pretreatment trend. We should basically consider the effect of other observable and then
+
+107
+00:30:09.420 --> 00:30:22.470
+Rahi Abouk: evaluate how the trends look like. So it's totally fine. If the authors want to use a logic or nonlinear framework for their estimation.
+
+108
+00:30:22.560 --> 00:30:49.049
+Rahi Abouk: It was interesting to me so honestly so. I really didn't thought about choosing the functional form the way they did in this paper, but they probably need it might be a good idea to consider the fact that part of recruitment trend is usually should be considered in the, in, in the form of conditional mean estimation, not really unconditional
+
+109
+00:30:49.370 --> 00:30:55.309
+Rahi Abouk: mean, which basically just showing the trend and concluding that the
+
+110
+00:30:55.570 --> 00:31:14.349
+Rahi Abouk: in order to satisfy the condition we might get to the values underneath 0. That is a violation. And that's why we probably want to use a different functional form. The second comment that I have is about the set of explanatory variables that they use in their estimation.
+
+111
+00:31:14.820 --> 00:31:26.339
+Rahi Abouk: It sounds like they mostly rely on mother's race and 1st birth. Although the data set the national Wide Web statistics system
+
+112
+00:31:26.440 --> 00:31:34.670
+Rahi Abouk: provide some additional covariates, such as health coverage, if they can consider different
+
+113
+00:31:35.090 --> 00:31:39.869
+Rahi Abouk: binary variable for having Medicaid Medicaid
+
+114
+00:31:40.160 --> 00:31:50.369
+Rahi Abouk: uninsured, and some other type of coverage, marital status, and mother's education. So these these factors could be taken into account in estimation.
+
+115
+00:31:51.208 --> 00:32:00.830
+Rahi Abouk: Also, I believe their equation number one do not take into account the effect of any State or local level policies.
+
+116
+00:32:01.350 --> 00:32:06.500
+Rahi Abouk: as far as I understood, based on the paper and
+
+117
+00:32:07.440 --> 00:32:24.739
+Rahi Abouk: I. Some additional suggestions for controlling policy variables could be minimum wages, e-cigarette taxes, e-cigarette sales, ban and medicaid expansion that might have some level of impact on the outcome of interest.
+
+118
+00:32:26.203 --> 00:32:42.070
+Rahi Abouk: the the other thing. That is a basically consequence of the way they motivated the use of nonlinear functional form is that they do not take in. They do not study the effect of T. 21 laws on
+
+119
+00:32:43.608 --> 00:32:53.110
+Rahi Abouk: the number of average daily smoking, basically that they mentioned that probably that they did not really
+
+120
+00:32:53.310 --> 00:32:56.199
+Rahi Abouk: do this analysis because of
+
+121
+00:32:56.690 --> 00:33:11.400
+Rahi Abouk: really not recalling the number of days. But it's very informative to know the intensity, the effect of these laws on the intensity of the smoking. So this is really something that potentially is missing in this analysis.
+
+122
+00:33:11.990 --> 00:33:20.010
+Rahi Abouk: So the other concern I had was about the way they defined the treatment variable
+
+123
+00:33:20.811 --> 00:33:29.280
+Rahi Abouk: in the literature for birth outcome. They usually authors usually rely on the
+
+124
+00:33:29.430 --> 00:33:46.430
+Rahi Abouk: gestational age or conception at the point, considering everything at the point of congestion conception that's really at the birth. So in this work, authors consider the
+
+125
+00:33:46.750 --> 00:33:51.190
+Rahi Abouk: that the point of treatment 10 months before birth.
+
+126
+00:33:51.320 --> 00:33:53.709
+Rahi Abouk: so given that there are some
+
+127
+00:33:55.980 --> 00:34:11.640
+Rahi Abouk: different lengths of gestation or different gestational age. So it's better to take into account the effect of gestational age and just subtract it from the birthday to get the actual date of conception. That's basically the type of work that
+
+128
+00:34:11.980 --> 00:34:13.530
+Rahi Abouk: Janet Corey
+
+129
+00:34:14.050 --> 00:34:26.499
+Rahi Abouk: does usually in all of her work. In and that way we can calculate the date of conception or month of conception instead of the month of birth, or just considering everybody
+
+130
+00:34:26.770 --> 00:34:31.595
+Rahi Abouk: treated 10 months before the birth.
+
+131
+00:34:32.928 --> 00:34:40.289
+Rahi Abouk: the other question I had is about the the way that the inference is done in the analysis of
+
+132
+00:34:40.570 --> 00:34:45.380
+Rahi Abouk: point estimates related to New York City and California.
+
+133
+00:34:45.670 --> 00:34:49.140
+Rahi Abouk: and given that these situations are
+
+134
+00:34:49.270 --> 00:34:58.079
+Rahi Abouk: single treated units. I'm curious to know, how authors treat or calculate, or estimate the
+
+135
+00:34:58.220 --> 00:35:04.629
+Rahi Abouk: standard errors for these estimation. Given that there is a literature suggesting that when we have
+
+136
+00:35:04.790 --> 00:35:16.320
+Rahi Abouk: very few treated clusters. So the conventional methods for calculating the standard errors are quite a little different then.
+
+137
+00:35:16.871 --> 00:35:25.109
+Rahi Abouk: Just conventional cases other than that I think the rest of the paper is really well done, and congratulations again.
+
+138
+00:35:26.690 --> 00:35:32.269
+Michael Darden: Thanks so much right, Dr. Lavender. Do you want to spend about 5 min responding.
+
+139
+00:35:32.610 --> 00:35:56.750
+Makayla Lavender: Yeah, so I'll try. And I took some notes, and I'll hopefully I'll hit all of them in kind of a similar order. So you did mention kind of these parallel trends are not conditional. We did. This is was really for illustrative purposes. We did run linear probability models and look at the trends with conditions and and additional controls, and
+
+140
+00:35:56.750 --> 00:36:20.279
+Makayla Lavender: they were bad in a linear probability model. And they did look much better in a low git model. So what we're seeing here in the unconditional was really playing out when we control for other variables in a regression form you mentioned adding additional demographic controls. You mentioned health insurance. That's a really good one. We definitely could have done that.
+
+141
+00:36:20.280 --> 00:36:40.659
+Makayla Lavender: We know that about 40% of births are covered by Medicaid. It's probably a little higher in this teen population. And so that's something where we would have had good variation to include again, with 18 to 20 year olds just the majority of them are not married. And so adding that control
+
+142
+00:36:40.800 --> 00:37:05.010
+Makayla Lavender: was not super feasible. It could be a good indicator of things like the intentionality of the pregnancy and things like that. But we just don't have a lot of variation similar with education. Almost all of them have no high school or high school, some college, but we don't have anything like completed college or anything higher than that. So that's why we didn't choose it.
+
+143
+00:37:05.480 --> 00:37:19.909
+Makayla Lavender: You mentioned that in equation one which was our event study that we didn't control. We didn't add our tobacco controls, and I think that is true. I think we didn't do that in this model, and
+
+144
+00:37:20.280 --> 00:37:50.109
+Makayla Lavender: my co-authors could correct me. If I'm wrong in our main regressions. Equation 2, which was our main policy, we did look at it both with tobacco controls and without. And then that's kind of implicitly done with the the legit difference in difference by age. So it was less important in that one. But you're right. We didn't do that in the event study. And we could have done that and seen how it impacted kind of this test of parallel trends.
+
+145
+00:37:50.800 --> 00:37:57.950
+Makayla Lavender: You also mentioned for like additional controls, looking at wages like
+
+146
+00:37:59.210 --> 00:38:05.340
+Makayla Lavender: I think especially tailoring wages to kind of like young women would would be interesting.
+
+147
+00:38:06.012 --> 00:38:16.349
+Makayla Lavender: Because if you're thinking about, we do control for things like tobacco taxes, but your purchasing power is different by those wages. So that's a valid point.
+
+148
+00:38:16.350 --> 00:38:40.310
+Makayla Lavender: In addition, you mentioned like controlling for Medicaid expansion. I have some work on Medicaid expansion, and what that did to birth outcomes. And the answer in my other work is basically nothing. I find that the marketplace expansion did have some impact on fertility decisions, but not the Medicaid expansion, reviewed some papers that found similar things. So
+
+149
+00:38:40.310 --> 00:38:47.309
+Makayla Lavender: we didn't control for that. But I could see why you would think that. And again adding health insurance controls is a good idea.
+
+150
+00:38:47.670 --> 00:39:10.809
+Makayla Lavender: You suggested that we look at continuous measure for intensity purposes. Again, that's a good point. You're definitely right that how much someone is smoking is very important, just like, are you smoking or not? Unfortunately, when you get to James Flynn's paper you'll look at that outcome, so he'll take care of that one for us.
+
+151
+00:39:11.391 --> 00:39:22.170
+Makayla Lavender: You mentioned how we times the policy to the births, and you're right that in our paper we just used a flat 10 month approach.
+
+152
+00:39:22.170 --> 00:39:44.890
+Makayla Lavender: The reason we didn't use the actual gestational age, even though we do have that information is we're concerned. It might be endogenous. We know that smoking can impact the likelihood of preterm birth. And so if that is changing, then if we kind of include it, we could get some issues right. And so by using 10 months.
+
+153
+00:39:45.110 --> 00:39:47.569
+Makayla Lavender: The conception time was, you know
+
+154
+00:39:47.760 --> 00:39:52.210
+Makayla Lavender: it. It seems like that's a little bit of the conservative approach, because it walks it back
+
+155
+00:39:52.860 --> 00:40:02.890
+Makayla Lavender: earlier. We know by the time that the mom conceived that policy was in place. And so that's why we went with that kind of that standard approach.
+
+156
+00:40:04.650 --> 00:40:22.449
+Michael Darden: Sorry. I hate to. I hate to cut it off, but I wanna make sure that we have enough time for our second presentation. So but I I think this is a good opportunity actually to to jump in and say that we are gonna be doing a top of the tops today from 3, 15 to 3 45.
+
+157
+00:40:22.450 --> 00:40:46.520
+Michael Darden: And so that link is going to be available in the chat. So we can continue this discussion, which I think is really great. So I want to move on and get to the second presentation. So today we have James Flynn, Dr. James Flynn. He's an assistant professor in the Economics department at Miami University, in Oxford, Ohio, and is a research affiliate at the Institute of Labor Economics. Iza.
+
+158
+00:40:47.000 --> 00:41:07.969
+Michael Darden: His primary research interests are in health, labor and public economics. Specifically, he uses quasi-experimental methods to study the effect of policies designed to address risky behaviors, including sexual and reproductive health, sugar, sweetened beverage, taxes and tobacco. 21 laws, Dr. Flynn, thank you for presenting for us today.
+
+159
+00:41:11.030 --> 00:41:17.290
+James Flynn: Hi. Oh, yeah, thanks. Thanks so much for having me. Thank you, Dr. Lavender, for a great
+
+160
+00:41:17.440 --> 00:41:21.909
+James Flynn: great talk. I'm just sharing my slides. So
+
+161
+00:41:22.040 --> 00:41:24.706
+James Flynn: I'm gonna start with the
+
+162
+00:41:26.064 --> 00:41:35.189
+James Flynn: disclosure slide. So I, this work has not received any outside funding, nor have I received any funding from tobacco related sources in the past 10 years. So
+
+163
+00:41:35.220 --> 00:41:50.450
+James Flynn: Dr. Lavender did a great job of doing background and lit review and motivating, I think. Why, this is an important topic. So I'm actually just gonna start by doing a quick compare and contrast. So we are
+
+164
+00:41:50.450 --> 00:42:12.169
+James Flynn: addressing the same question. We're using the same data source. We're doing a lot of similar things. We're doing a number of different things, some of which don't really matter to the results. And then a couple of things that do actually change results just a little bit. So I'm just going to run through similarities differences and then overall big picture. Because even so, our findings are
+
+165
+00:42:12.310 --> 00:42:36.890
+James Flynn: largely in line with some minor differences. So we're using the same data source. We're both using the Nvss natality records. We're both dropping municipal tobacco, 21 laws, and dropping states that have tobacco, 19 laws. We also, we drop the same States due to missing a significant number of observations. The things that we do a little differently is, I focus
+
+166
+00:42:36.890 --> 00:43:00.489
+James Flynn: specifically on State laws. So I'm dropping all the States that have a significant number of county, a significant portion of the population that's impacted by a county law. Part of my reasoning for doing that is, you know, concerns about tax avoidance and being able to to cross borders and shop to get around laws. So by focusing on State laws, I hope to have the
+
+167
+00:43:00.570 --> 00:43:12.969
+James Flynn: the strongest impact. So I include mothers that are 18 to 21 versus 18 to 20 for 18 year olds and 21 year olds. We can think they're both partially treated because we can expect them to be
+
+168
+00:43:13.160 --> 00:43:36.149
+James Flynn: constrained by the tobacco. 21 laws during part of their pregnancy. Right? So, for example, someone who's born who gives birth at 21 was most likely under 21 for a good portion of their pregnancy. So this turns out not to matter. I do a number of different specifications where I do 18 to 2118 to 2019 to 18, to 1921. Those don't really seem to matter. So
+
+169
+00:43:36.150 --> 00:43:55.200
+James Flynn: I also include births that were conceived in 2020. So adding an additional year of data, this means more treated States. It also means a potential concern because of the national tobacco. 21 which I'm going to sort of get into what that does and why I do what I do in a second.
+
+170
+00:43:55.200 --> 00:44:25.090
+James Flynn: This also leads us to differences in model specification. We'll see, you'll see from my descriptive figures that their paper has this, that excellent figure that shows the concern about projecting across 0, using the linear probability model or using a rate by having more states, the treated and control groups that I'm going to be looking at look much, much more similar than California and New York, due to the untreated areas, which is why I do go with the
+
+171
+00:44:25.180 --> 00:44:54.569
+James Flynn: either the linear probability model or the rate. So I'm also I do a couple of additional things on top of the things that their team does. So I'm also looking at whether it matters whether the strength of the various laws matter. So I'll get to what that means in a second as well. And then I also look at effects by education, so breaking it down versus with mothers with more or less than a high school degree. So in big picture, I'm largely finding no results, but we're both finding results
+
+172
+00:44:54.660 --> 00:45:12.720
+James Flynn: that the effect of tobacco 21 on smoking among pregnant mothers is much smaller than among 18 to 20 year old smokers overall found elsewhere in the literature, largely through self-reported smoking outcomes. That's big picture what you can sort of expect as far as the similarities and differences in what we what we do
+
+173
+00:45:13.686 --> 00:45:15.820
+James Flynn: very much. My main findings.
+
+174
+00:45:15.820 --> 00:45:45.230
+James Flynn: I find no significant reductions in prenatal smoking across the board. I can rule out with my specifications, reductions of larger than 6% on the extensive margin. So meaning whether or not the mother was smoking at all, and then reductions larger than 5% on the intensive margin. Looking at the number of cigarettes smoked per day. So this does not rule out the size of the reduction that's found in their paper. So essentially their significant finding is within the confidence bounds of my null finding.
+
+175
+00:45:45.920 --> 00:46:11.619
+James Flynn: So I largely find that it doesn't matter when focusing on specifically on mothers without a high school degree who may be more likely to smoke at baseline. I also find no significant reductions when focusing just on the States that have the strictest laws. So with all these null findings, you, I guess, wouldn't expect to find any impacts on birth outcomes, either. But since I'm not able to rule out some modest reductions. I also show the estimates that I have
+
+176
+00:46:11.620 --> 00:46:21.160
+James Flynn: on on birth outcomes as well, and and I find no no significant reductions or no significant improvements in in birth outcomes due to tobacco. 21 laws there either.
+
+177
+00:46:22.680 --> 00:46:26.020
+James Flynn: So building they. They mentioned the
+
+178
+00:46:26.559 --> 00:46:34.900
+James Flynn: tobacco. 21 law that went in place nationally, or at least became law nationally on December 20th of 2019, so
+
+179
+00:46:35.120 --> 00:47:02.029
+James Flynn: that law for a few years was in this sort of gray area, where it was technically the law of the land, but it did not become enforceable until 90 days after the FDA publishes its final rule, and this didn't take place until just a few months ago. In September, September 2024. So in the meantime, States continued passing tobacco 21 laws continuously, despite the national law being in place. There's also a great deal of variation in the
+
+180
+00:47:02.580 --> 00:47:06.950
+James Flynn: the the specifics of these different State laws. And and so it's actually not
+
+181
+00:47:06.960 --> 00:47:35.259
+James Flynn: precisely clear whether the State versus the national laws matter the most. So to give you an example of what I mean by this. If you go to tobacco 2, 1.org right now you'll find this map right? So it sort of shows this dichotomy where it says at the top. Tobacco. 21, the law of the land, but then also highlights the not only the States, with and without various tobacco, 21 laws, but also based on the grades that the preventing tobacco addiction foundation gives to each of the different laws.
+
+182
+00:47:35.380 --> 00:47:45.551
+James Flynn: So that's that's largely what I'll be looking at and thinking about. And so so where do these grades come from? This sort of the grades from the previous slide? So the
+
+183
+00:47:45.890 --> 00:48:15.789
+James Flynn: the website here says that a strong tobacco 21 law will do all the following right, so it'll include current and future products, including e-cigarettes, require retailers to verify age prior to sale require retailers to post signs. Right? Have an Enforcement mechanism enforcement agency with the retail licensing program with funding dedicated to enforcement costs. Right? So there's all these things that a good tobacco 21 law should do, and there is, of course, a ton of variation from state to state whether whether these things are included in those laws. Which is
+
+184
+00:48:15.790 --> 00:48:17.070
+James Flynn: why I I
+
+185
+00:48:17.070 --> 00:48:24.382
+James Flynn: think that there's reason to think that even even post the national law, the actual enforcement happening at the State level can matter?
+
+186
+00:48:24.890 --> 00:48:40.130
+James Flynn: So a number of studies have found that the tobacco 21 laws have reduced self-reported smoking across a number of different surveys right through across berfis and yrbs, monitoring the future and the path data set.
+
+187
+00:48:40.310 --> 00:49:09.959
+James Flynn: So all find large, significant reductions in smoking because of tobacco. 21 laws so concerns may still sort of exist because of self-reporting bias in this case. So a couple of papers, I think, do a good job of going sort of beyond just looking at survey data. So this paper in 2024. So adds Nielsen, scanner data right and finds large reduction in actual tobacco purchases which are concentrated among areas with higher young populations, so really suggesting that it's
+
+188
+00:49:09.960 --> 00:49:22.779
+James Flynn: the restrictive nature of these laws that are reducing smoking here. So overall. There's relatively strong evidence that tobacco 21 laws reduce smoking, but the one paper that I want to dive into a little bit more that.
+
+189
+00:49:23.060 --> 00:49:23.750
+James Flynn: But
+
+190
+00:49:24.120 --> 00:49:42.410
+James Flynn: Dr. Lavender mentioned, is this paper by Kadi Chika and Nielsen, that just came out last year in the Journal of Health Economics. So she mentioned right. They supplement self-reported survey findings with data that comes from biomarkers. Right? So they sort of confirm other studies, finding that tobacco 21 laws reduce self-reported smoking.
+
+191
+00:49:42.410 --> 00:49:54.309
+James Flynn: What was really interesting to me in this paper. Right? So they have this mixed evidence in biomarker data. Finding that there's some evidence of reduced nicotine exposure, but no real evidence of reduced overall tobacco exposure
+
+192
+00:49:54.320 --> 00:50:19.420
+James Flynn: was particularly interesting is that by just focusing on the sample of sort of clear smokers based on the biomarker data. They find that tobacco 21 laws make people in that group more likely to self-report, not smoking right? So among the clear smokers, making it illegal to smoke or to purchase cigarettes, makes that group more likely to self-report as not smokers, and this that finding really.
+
+193
+00:50:19.480 --> 00:50:38.589
+James Flynn: you know, even beyond this paper and this literature raises a big concern over papers that use self-reported survey evidence to find, you know, the effect of laws that are designed to influence that behavior, because it really can influence people's willingness to report or to admit to engaging in that kind of behavior.
+
+194
+00:50:38.820 --> 00:50:51.840
+James Flynn: I think one of the really nice things about this approach of using this natality data to look for evidence of tobacco. 21 laws is, it creates another setting where you have both self-reported and biological evidence of smoking that you can.
+
+195
+00:50:51.840 --> 00:51:10.899
+James Flynn: that you can look at right. So birth records, of course, include responses about smoking prior to pregnancy, and during each trimester of pregnancy. We also know that prenatal smoking has a number of harmful impacts on developing fetuses. So if there's a huge reduction in self-reported smoking, this should also show up in these these other measures, which.
+
+196
+00:51:11.190 --> 00:51:16.559
+James Flynn: having seen the previous paper, we know largely, is not what we're going to see. So
+
+197
+00:51:16.660 --> 00:51:37.670
+James Flynn: I'm using the same data set. So I'm using birth records from 2014 to 2021, I'm backing out. So I'm interested in smoking around conception, not birth. So I'm using the gestational age length to calculate the month of conception. So, thinking about the month of birth, calculating the number of months of gestation from the number of weeks of gestation, and then backing up
+
+198
+00:51:37.670 --> 00:51:54.059
+James Flynn: to figure out what month the birth was conceived in. So I'm keeping births that were conceived in 2014 to 2020 to 18 to 21 year old mothers. And then I'm also going to split by maternal education. So those that graduate High school, those graduate High School versus those that have not.
+
+199
+00:51:54.923 --> 00:52:12.576
+James Flynn: Combining this with the the grades that I showed earlier from the preventing tobacco Addiction foundation right to to look at the impact of this laws with various strengths and then combining with a number of tobacco policy controls. So e-cigarette minimum legal sale ages, excise taxes, indoor smoking bans,
+
+200
+00:52:13.340 --> 00:52:14.520
+James Flynn: etcetera. So
+
+201
+00:52:15.024 --> 00:52:23.430
+James Flynn: a couple of descriptive figures here. So this shows both the the the percentage of
+
+202
+00:52:23.430 --> 00:52:46.600
+James Flynn: mothers in my treated areas or my sorry, my, my analysis sample, not just my treated areas smoking overall versus the percent of the population that is tobacco. 21 treated. So, for example, for the percent of the births in each year, that for which a tobacco 21 law was in place at the time of conception. And so you sort of see these
+
+203
+00:52:47.780 --> 00:52:48.990
+James Flynn: simulate them
+
+204
+00:52:49.210 --> 00:53:17.929
+James Flynn: over time. What we see is a reduction in smoking that's sort of consistently occurring, while at the same time there's an increase in the percentages of births that are that are covered by these laws, which in some ways is suggestive of a treatment effect here, but at the same time the reduction in smoking begins well before any laws, any of these laws go into effect, and really doesn't sort of show, any evidence of really of a dose response, whereas when a bunch of people become treated as California
+
+205
+00:53:18.010 --> 00:53:26.310
+James Flynn: becomes treated in 2016, we don't really see a response to that specific that specific impacts.
+
+206
+00:53:26.740 --> 00:53:30.019
+James Flynn: So in addition, this shows
+
+207
+00:53:30.590 --> 00:53:51.900
+James Flynn: for my within my sample the States which ever receive a tobacco 21 law from during this period. So all the States that receive a tobacco, 21 law anytime between 2016, and 2020, comparing the rates over time, the smoking rates over time of that group with the group that never passes a statewide tobacco. 21 law over that period.
+
+208
+00:53:51.900 --> 00:54:01.789
+James Flynn: and largely, you know, previewing the null results that I have coming up in a few slides, does it not? Really, if there was an impact of tobacco? 21.
+
+209
+00:54:01.790 --> 00:54:22.209
+James Flynn: Excuse me, tobacco. 21 laws on these outcomes. What we would expect to see is a divergence between the 2 lines, right? So the rates are lower for the treated areas than the untreated areas. But I would also suggest that these are. These are much closer than the baseline rates. Looking at the other paper. So this, I think.
+
+210
+00:54:22.240 --> 00:54:44.640
+James Flynn: motivates, or at least makes it make sense to use either a linear probability model or a or a rate in this in this case. So I also do this for the number of cigarettes. The average daily number of cigarettes smoked during this period, and the results are typically pretty similar. Right? We see some level of convergence prior to any of these laws going into effect, and then really pretty stable
+
+211
+00:54:44.700 --> 00:54:48.119
+James Flynn: sort of lack of change occurring throughout the rest of this period.
+
+212
+00:54:51.486 --> 00:54:51.863
+James Flynn: So
+
+213
+00:54:52.260 --> 00:55:17.710
+James Flynn: I'm using 2 empirical strategies. They're both versions of the basic diff and diff where we're thinking about smoking in State S and quarter. Q. Right. So particularly, you know, the rate of smoking among mothers in state, S. Who conceived in quarter Q. Being explained by the treat being a state that had a tobacco. 21 law, in effect, during the quarter in which the birth is conceived.
+
+214
+00:55:18.024 --> 00:55:34.040
+James Flynn: with with with state and quarter fixed effects. Right? So the the 1st strategy that I'm going to present my my results from and then sort of show that they're robust or similar. Using the other version is the synthetic difference and differences strategy of Arkanjelski at all, I think.
+
+215
+00:55:34.260 --> 00:55:56.349
+James Flynn: mostly motivated because of the concern that in the previous descriptive graphs that the pre-trends prior to any of the laws going into effect showed that the States were converging over that time. So the biggest hope of this of implementing this empirical strategy is to to find a comparison group that more closely matches the trends prior to the implementation of each law.
+
+216
+00:55:56.350 --> 00:56:12.050
+James Flynn: So what this strategy does is, it creates a weighted average of all possible control states or states in the in the donor pool similar to the synthetic control method. Right? It has unit weights where it matches the pre-treated outcome of the treated
+
+217
+00:56:12.050 --> 00:56:41.490
+James Flynn: group or groups to a weighted average of the potential control outcomes using a set of unit weights, then it also includes a set of time weights which emphasizes pretreatment periods that are most predictive of the post-treatment outcome. So this is done to minimize the impact of outliers in prediction of what's going to happen. Following the intervention. Right? So this returns, what's convenient about this is, it returns a single difference and differences coefficient. That's a combination of the individual. 2 by 2 comparisons. So 2 by 2, I'm sort of referring to the
+
+218
+00:56:41.630 --> 00:56:57.670
+James Flynn: the Goodman Bacon literature and papers, thinking about the simple difference in differences, comparisons of a group that's not treated compared to a group that is taking the difference over time of each of those groups, and the difference in the differences of those gives us an individual. 2 by 2,
+
+219
+00:56:57.970 --> 00:57:14.469
+James Flynn: all of those are combined to give a single different coefficient. That is what we'll see in my tables and figures. So the benefits of using this approach is, it's a potentially more appropriate counterfactual, the drawback here being that State level observations are going to be
+
+220
+00:57:14.470 --> 00:57:28.529
+James Flynn: sorry that it has to be in a state level panel, where each State is only given one observation per year. Right? So the States are going to be weighted. So this is saying that California is going to equal weight to Vermont, which is
+
+221
+00:57:28.560 --> 00:57:46.249
+James Flynn: not not ideal. So in addition to this, I'm going to implement the stack difference and differences approach of Synch's at all. 2019, I for time, I'm not going to get too bogged down in the details of this. But really what it does is for each treatment period, each timing of treatment right? It creates a clean comparison of
+
+222
+00:57:46.250 --> 00:58:04.660
+James Flynn: the treated units that are treated in that specific period versus all of the units that are never treated throughout that entire period, and not treated before it either right? So similarly right. It creates breach of each of these stacks that has a clean comparison. It gets a different diff coefficient, and then the overall
+
+223
+00:58:04.750 --> 00:58:31.740
+James Flynn: different diff coefficient is going to come from a an average of all of those based on the weights from the goodman bacon paper. So this allows me to implement to estimate things at the county level. So each stack here I'm going to include 5 quarters before the implementation and then 6 quarters after so using the reference quarter is going to be the quarter prior to the law going into effect. So even if the law went into effect at the end of a quarter. I'm going to use the previous quarter for my comparison.
+
+224
+00:58:32.126 --> 00:58:47.050
+James Flynn: So each stack, including a treated unit and clean controls. Stacks are appended on top of each other right and then estimated using a county using county stack and quarter stack fixed effects. This is going to allow me also to implement the event study version of this as well, which I'll briefly show.
+
+225
+00:58:48.915 --> 00:59:15.839
+James Flynn: So the 1st set of results. So this is on the using the rate of smoking as a dependent, variable running this synthetic difference and differences strategy here. So this I hate, including tables in a paper. But this is I wanted to show what the basic tables table is going to look like. And then I'm going to show you a graph of the same coefficients. And then I'm basically just going to continue showing graphs. Whereas in the paper I'm using using tables because I think
+
+226
+00:59:15.840 --> 00:59:41.789
+James Flynn: running, walking through coefficient estimates on a table in a presentation is, I think, laborious for both the presenter and those in the crowd. So really, what I want to highlight is that I'm largely finding all positive coefficients that are statistically insignificant, that are ruling out large reductions, but not statistically ruling out, you know, small, modest reductions in this case. So this 1st
+
+227
+00:59:41.910 --> 00:59:54.080
+James Flynn: coefficient is you know, is enough to to rule out larger than a 6% reduction in fetal smoking for mother, for smoking prior to becoming pregnant.
+
+228
+00:59:54.260 --> 01:00:23.460
+James Flynn: And then so what I can also show is this will give us. So, looking at the graph of this, we can see each of the individual comparisons. And so in the top left, you can actually see the comparison to California, which sort of shows the same concern that Dr. Lavender was bringing up. But then, looking at all of the subsequent comparisons. For the most part, we're not really seeing any reductions sort of happening in the following the intervention, the quarters, following the intervention particularly not along the same
+
+229
+01:00:23.460 --> 01:00:38.830
+James Flynn: trajectory that we're seeing from the other paper. I think part of that is due to the fact that their paper showed that it took 3 full years for this to show up, whereas I'm looking at quarters here, and almost none of these have time for that effect to actually materialize.
+
+230
+01:00:40.080 --> 01:00:59.819
+James Flynn: Similarly, I'm going to continue showing coefficient plots like this. This is essentially recreating the table that I showed you as a series of coefficients. So here, this is the same thing as that previous table. What I have the dotted line at the bottom there represents the coefficient from from Dr. Lavender's paper showing that
+
+231
+01:01:00.110 --> 01:01:06.190
+James Flynn: well, there, they're finding a negative and significant estimate. It's within the confidence bounds that that I'm finding here as well.
+
+232
+01:01:08.540 --> 01:01:13.160
+James Flynn: Okay. So the this is the the same
+
+233
+01:01:13.440 --> 01:01:37.280
+James Flynn: graph, same table as before, except using the number of daily cigarettes as the dependent, variable as opposed to the rate or question of whether or not the mother is smoking during each of these periods, again, getting all positive and statistically insignificant coefficients, you know, enabling me to rule out some large reductions, but not not making it a
+
+234
+01:01:37.560 --> 01:01:41.589
+James Flynn: not enabling me to rule out modest or or smaller reductions as well.
+
+235
+01:01:42.600 --> 01:01:52.900
+James Flynn: So if I focus on only non high school grads who have higher rates of smoking. To begin with again. Now, I actually have negative estimates, but again
+
+236
+01:01:53.000 --> 01:02:18.529
+James Flynn: insignificant in the case which is going to be sort of a recurring theme here, as I go through more results. Is that largely finding insignificant or no results? I'm doing this again, looking at States with only stronger laws, so either laws that were grade A or grade A or B, which, from the preventing tobacco addiction foundation grades are the ones that have the largest. So the strongest laws, based on the sort of
+
+237
+01:02:18.560 --> 01:02:24.530
+James Flynn: rubric of different elements that sort of go into a strong tobacco. 21 law.
+
+238
+01:02:24.570 --> 01:02:29.670
+James Flynn: And again, you know, finding your positive and statistically insignificant coefficients.
+
+239
+01:02:32.175 --> 01:02:32.710
+James Flynn: So
+
+240
+01:02:32.870 --> 01:03:00.080
+James Flynn: in addition, right? So for each State that is within my treated sample. I run the synthetic difference and differences specification on each of those States individually, and, as you might expect, there's a great deal of variation across the coefficients. I have them ordered here by an alphabetical order, as opposed to in order of implementation. If we do, if I reorder them based on period of implementation which you might expect to see, states that had
+
+241
+01:03:00.440 --> 01:03:08.869
+James Flynn: laws in place for a longer period might have bigger effects, but it again, it also. It again, looks mostly just like like noise if I recreate it that way.
+
+242
+01:03:11.264 --> 01:03:35.410
+James Flynn: I also I do this reestimate these specifications based on individual years of age again, thinking that only 18. So only 1920, and then maybe 18 and 21 year olds should be showing up as being impacted by these laws. But as I do this, you sort of don't really see any differences that are showing up in the specifically treated ages compared to the the untreated ages.
+
+243
+01:03:36.450 --> 01:03:37.390
+James Flynn: Okay?
+
+244
+01:03:38.500 --> 01:04:07.609
+James Flynn: And finally, right? So I also because I'm coming up with null results sort of across the board from the previous slides, you would probably be surprised to see any improvements in birth outcomes showing up. And I'm not right. So, looking at birth weight an indicator, for whether a birth was low birth, weight, the weeks of gestation and an indicator for whether the birth was preterm in all cases I'm finding small
+
+245
+01:04:07.640 --> 01:04:14.259
+James Flynn: and statistically insignificant economically, not terribly important, coefficient estimates.
+
+246
+01:04:16.200 --> 01:04:25.080
+James Flynn: and then additionally right? So when I implement the the stacked event study, as you saw previously. What we really see is similar to the
+
+247
+01:04:25.770 --> 01:04:36.259
+James Flynn: the concerns that I had, and perhaps motivating the concerns that I had, which led me to using the synthetic difference and differences specification. It does look like there is a little bit of a pre-trend where
+
+248
+01:04:36.260 --> 01:04:56.360
+James Flynn: it looks like there is more smoking going on in the in the treated areas compared to the control areas. Really, what that is is due to the slower reduction that's taking place in the treated areas versus the untreated areas over time. But what I would highlight is that there doesn't seem to be a significant drop happening in and around the treatment time.
+
+249
+01:04:56.844 --> 01:05:03.885
+James Flynn: So I do a number of things for robustness. I'm I know I'm running short on time here. So I'm just gonna wrap up as quickly as I can.
+
+250
+01:05:04.190 --> 01:05:27.650
+James Flynn: what I want to point out is that results are qualitatively unchanged. If I drop California, because, as the other paper pointed out, it's likely, Miss specified using the rate or linear probability model. If I restrict the data to just pre 2020, due to the concerns about the national law. My results are qualitatively unchanged, though I do lose some precision. I get some larger confidence bounds if I change the dependent variable to a log. Odds ratio as they use.
+
+251
+01:05:27.650 --> 01:05:37.719
+James Flynn: My my coefficients do become positive, but sort of but stay insignificant, though I will say I was basically able to almost precisely replicate the other paper's findings by sort of.
+
+252
+01:05:37.770 --> 01:05:40.400
+James Flynn: you know, converging all the way into their specification
+
+253
+01:05:40.470 --> 01:06:02.509
+James Flynn: so to wrap up. So I do think that the California law does appear to have impacted prenatal smoking. The subsequent laws do not appear to have had as much of an impact partially attributable to noise from the national law. Other State laws were not able to be assessed for multiple years as the California law was, which in their paper it was the 3rd year after that really showed up.
+
+254
+01:06:02.823 --> 01:06:12.219
+James Flynn: So that that's a challenge. However, even in California right. The effect is much smaller than the reduction in self-reported smoking, among other States. And I think one thing that
+
+255
+01:06:12.460 --> 01:06:38.440
+James Flynn: has been really coming up over and over again in my mind is that open research. There is an open research question of whether or not the post 2019 State laws matter for consumption. In these other data sources. I think most papers are stopping at 2019. There are these other laws going into effect, and it's not clear to me whether they have any teeth or not. And I think that's actually a good research question for a graduate student who might be listening to take on and think about yourself.
+
+256
+01:06:38.660 --> 01:06:41.590
+James Flynn: and with that I will turn it back over.
+
+257
+01:06:42.600 --> 01:06:48.360
+Michael Darden: Thanks so much, Dr. Flynn. That was great. We're going to kick back to our discussant Rahi Abok.
+
+258
+01:06:49.960 --> 01:06:55.377
+Rahi Abouk: Thank you, James, for the presentation great work. So
+
+259
+01:06:56.160 --> 01:07:10.700
+Rahi Abouk: 1st of all, I have to mention that this work extend the analysis in terms of the number of years and the the work consider 2,011, 2,021.
+
+260
+01:07:10.820 --> 01:07:16.349
+Rahi Abouk: So 2 more years of observation, and looking at the
+
+261
+01:07:16.600 --> 01:07:20.780
+Rahi Abouk: relationship, using a linear regression model.
+
+262
+01:07:20.950 --> 01:07:28.799
+Rahi Abouk: And also, as far as I understand, the data is aggregated at the State quarter level.
+
+263
+01:07:29.390 --> 01:07:38.639
+Rahi Abouk: So this work is also. This work also excludes about 13 States from the analysis due to different reasons.
+
+264
+01:07:39.241 --> 01:07:45.628
+Rahi Abouk: Some, first, st because of having missing smoking similar to the previous work
+
+265
+01:07:46.270 --> 01:08:02.729
+Rahi Abouk: 5 States are being excluded, due to having grandfather clauses in their T. 21 law which could be included in the analysis, and to at least as a robustness check to see how they might impact
+
+266
+01:08:02.840 --> 01:08:04.799
+Rahi Abouk: the analysis. Analysis.
+
+267
+01:08:05.279 --> 01:08:16.520
+Rahi Abouk: The other also excludes New York, Missouri, and Illinois, because they are they before their State law. They had county or city laws. So
+
+268
+01:08:17.322 --> 01:08:35.279
+Rahi Abouk: this is fine, but I think it might be a good idea to add a robustness check to see what happens if we include those States to be analysis, because the more treated the States we can keep in the analysis, the better and the more comprehensive picture we're gonna have
+
+269
+01:08:36.020 --> 01:08:45.470
+Rahi Abouk: one limitation of doing studying the smoking among pregnant women is that that missing smoking among
+
+270
+01:08:46.050 --> 01:08:47.590
+Rahi Abouk: those 10 or
+
+271
+01:08:47.810 --> 01:08:59.530
+Rahi Abouk: 12 States that have missing smoking information. But other than that, the more States we can keep in the analysis, the better the more informative the study would be.
+
+272
+01:08:59.910 --> 01:09:06.950
+Rahi Abouk: And the other idea I had was about the data aggregation app.
+
+273
+01:09:07.634 --> 01:09:14.450
+Rahi Abouk: That's that might be my personal preference. But whenever we have individual level data available.
+
+274
+01:09:14.529 --> 01:09:41.050
+Rahi Abouk: it might be better to stick to the analysis at the individual level rather than aggregating it at the different level, because theoretically it might make sense because we we shouldn't really see that much change. But we don't know. Given the several demographic differences in individuals, it when we have individual level data. So let's just use the individual level data.
+
+275
+01:09:41.080 --> 01:09:51.190
+Rahi Abouk: I understand that there might be some complication in terms of the methodology. And this choice was driven by the choice of the methodology used because
+
+276
+01:09:51.229 --> 01:09:55.580
+Rahi Abouk: the synthetic approach works with the aggregate level data. But
+
+277
+01:09:56.231 --> 01:10:16.259
+Rahi Abouk: it. It might be a good idea to check the other side of the story, to see. Basically, let's assume that we want to use the individual level data. Now, which methodology helps us to answer this question, using individual level data and just do the analysis and see what kind of results we we might get.
+
+278
+01:10:16.630 --> 01:10:26.030
+Rahi Abouk: The other point is about the way we handle the national. T. 21. Law. I understand that the national T. 20, t. 21 law
+
+279
+01:10:26.120 --> 01:10:49.020
+Rahi Abouk: was enforced 1st in September 2024. But the law was effective in December 2019. So and I was checking your the the trend analysis in your presentation. And I saw that there was a slight decline from 2019 to 2020
+
+280
+01:10:49.120 --> 01:10:51.609
+Rahi Abouk: in the control state. So
+
+281
+01:10:51.820 --> 01:11:00.629
+Rahi Abouk: the I understand that enforcement does matter. But at the at the other hand, we have the law effective
+
+282
+01:11:02.250 --> 01:11:04.889
+Rahi Abouk: early 2,020.
+
+283
+01:11:05.050 --> 01:11:17.029
+Rahi Abouk: So probably we should deal with this situation with a little bit of cautious, we should be very cautious, not saying that. Okay. So this law was enforced 2,014. So we assume that
+
+284
+01:11:17.160 --> 01:11:41.859
+Rahi Abouk: the national T. 21 really doesn't exist. So it might be a good idea to spend a little bit more time and discuss this issue and test it with different methodology, different things. But you did really nice job in reporting a series of robustness checks by age, which was very interesting. Actually, while reading the paper, I said it might be a good idea to just do a
+
+285
+01:11:41.910 --> 01:11:47.820
+Rahi Abouk: just by age effect, and I really was able to find those
+
+286
+01:11:48.100 --> 01:11:51.759
+Rahi Abouk: analysis in the paper which was nice.
+
+287
+01:11:52.379 --> 01:11:59.569
+Rahi Abouk: I I recommend you to. If you want to stick to the aggregate level analysis
+
+288
+01:12:00.110 --> 01:12:17.839
+Rahi Abouk: and you want to aggregate your data at the State level. So do the analysis for all of your estimations at the State level, because in the current version of the paper I realized that you mentioned that you got some of the effective dates for county and city. From
+
+289
+01:12:18.100 --> 01:12:23.170
+Rahi Abouk: the paper that I and Mike and Prabel
+
+290
+01:12:23.300 --> 01:12:43.390
+Rahi Abouk: wrote, I, I got the impression that, okay, so you're you're doing an analysis for sub state. T. 21. But as as you mentioned, you just look at the state. T, 21. Law, your figure a 2 you show the counties
+
+291
+01:12:43.570 --> 01:12:58.480
+Rahi Abouk: that have t 21. So if you want to stick with the State, so just stick with the States in all basically presentation in all graphs. And you can just drop that part about the effective date from our paper. Maybe that might be a better idea.
+
+292
+01:12:58.480 --> 01:13:21.789
+Rahi Abouk: So one more thing is about the idea that you use biomarker measure to study the effect of T. 21 like Eric's paper. So I think this. The smoking measures in national vital statistics are self-reported.
+
+293
+01:13:21.830 --> 01:13:32.460
+Rahi Abouk: They are not really but the well you're you're right. That birth outcome, or could be counted as a biomarker measures. But basically the smoking measure, the main
+
+294
+01:13:32.520 --> 01:13:39.209
+Rahi Abouk: measure of your analysis is basically something self reported. So don't really push that much on that
+
+295
+01:13:40.390 --> 01:13:55.249
+Rahi Abouk: that's pretty much it. So it was, it was a okay. I meant, I noticed a couple of typos. So we should be basic definitely take if you just give it
+
+296
+01:13:55.470 --> 01:14:01.249
+Rahi Abouk: couple of times, read of the paper, so I'm pretty sure that you can fix them. But it was not really something, Major.
+
+297
+01:14:01.460 --> 01:14:07.389
+Rahi Abouk: but very well done. Paper. I wish you good luck in publishing, and the next steps.
+
+298
+01:14:08.470 --> 01:14:33.389
+Michael Darden: Thank thank you, Rahi. A long list of things there to think about. We are right at time, though, so I am going to be respectful of everybody's time, and I want to encourage everyone. If you're interested in this discussion, you want to continue it. We have top of the tops, which is the link is in the in the in the chat. But at the moment I'm going to kick it back to our Mc Mike Pesco.
+
+299
+01:14:34.910 --> 01:14:59.610
+Mike Pesko: We are out of time. However, if you still have burning questions or thoughts for Michaela or James, you can join us for top of the tops and interactive group discussion to join. Please copy the Zoom Meeting room. URL posted in the chat and switch rooms with us. Once this event concludes, we'll leave the Webinar room open for an extra minute after the end, to give everyone a chance to copy the URL, which is bid.ly
+
+300
+01:15:00.120 --> 01:15:01.140
+Mike Pesko: slash
+
+301
+01:15:01.700 --> 01:15:13.610
+Mike Pesko: tops, meeting all lowercase. Thank you to our presenters, moderator and discussant. Finally, thank you to the audience of 150 people for your participation. Have a top snatch weekend.
+
