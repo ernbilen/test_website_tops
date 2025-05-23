@@ -1,0 +1,1574 @@
+WEBVTT
+
+1
+00:00:02.680 --> 00:00:15.859
+Danyi Li: Welcome to the tobacco online policy seminar tops. Thank you for joining us today. I'm Danny BA. Phd. Candidate in health behavior research at Keck School of Medicine University of Southern California.
+
+2
+00:00:15.870 --> 00:00:33.380
+Danyi Li: Tops. Is organized by Mike Pesco at University of Missouri, Shinshan at Ohio State University, Michael Darden, at Johns Hopkins University, Jamie Hartman Boyce at the University of Massachusetts, Hamhurst, and Justin White at Boston University.
+
+3
+00:00:33.600 --> 00:00:57.710
+Danyi Li: The seminar will be 1 h with questions from the Moderator and the discussant. The audience may post questions and comments in a Q&A panel, and the moderator will draw from those questions and comments in conversation with the presenter. Please review the guidelines on tobaccopolicy.org for acceptable questions. Please keep the questions professional and related to the research being discussed.
+
+4
+00:00:58.180 --> 00:01:17.329
+Danyi Li: Questions that met the seminar series. Guidelines will be shared with the presenter afterwards, even if they are not read aloud. Your questions are very much appreciated. The presentation is being video recorded and will be made available along with presentation slides on the top website, tobaccopolicy.org.
+
+5
+00:01:17.600 --> 00:01:29.329
+Danyi Li: I will turn the presentation over to today's moderator, Mike Pesco, at the University of Missouri, and also Justin White, from Boston University, to introduce our speaker.
+
+6
+00:01:31.270 --> 00:01:35.820
+Mike Pesko: May we continue our summer? 2025 apologies.
+
+7
+00:01:36.640 --> 00:01:53.670
+Mike Pesko: Today we continue our summer. 2025. Season with a single paper presentation by Jonathan Livingstone Banks, entitled Interventions for Smokeless Tobacco Cessation, a Cochrane Review. This presentation was selected via a competitive review process by submission through the Tops website
+
+8
+00:01:53.730 --> 00:02:20.159
+Mike Pesko: Jonathan Livingstone Banks is a lecturer and senior researcher in evidence-based healthcare at the University of Oxford. He's an expert on evidence synthesis primarily working on tobacco control topics, and he's a member of the Cochrane Tobacco Addiction Group, where he was managing editor and information specialist and the Axford Tobacco Addiction Group. He has authored over 20 Cochrane reviews on tobacco control topics and is always eager to discuss a new evidence synthesis project.
+
+9
+00:02:20.230 --> 00:02:23.180
+Mike Pesko: Dr. Livingstone Banks, thank you for presenting for us today.
+
+10
+00:02:36.130 --> 00:02:43.389
+Jonathan Livingstone-Banks: Hello, right. It is a pleasure to be here. So let me set up my slides.
+
+11
+00:02:56.220 --> 00:03:00.170
+Jonathan Livingstone-Banks: Okay, is that visible to everybody?
+
+12
+00:03:00.170 --> 00:03:01.100
+Mike Pesko: Yes, they are.
+
+13
+00:03:01.740 --> 00:03:03.130
+Jonathan Livingstone-Banks: Marvelous
+
+14
+00:03:04.590 --> 00:03:11.023
+Jonathan Livingstone-Banks: okey dokey. Well, thank you for the introduction, and thank you for the invitation to be here. It's a pleasure.
+
+15
+00:03:11.670 --> 00:03:13.520
+Jonathan Livingstone-Banks: so yeah, I'm John.
+
+16
+00:03:13.680 --> 00:03:25.710
+Jonathan Livingstone-Banks: and I'll be talking to you today about a systematic review that we conducted looking at smokeless tobacco products and how we can best help people to quit using them.
+
+17
+00:03:27.510 --> 00:03:36.910
+Jonathan Livingstone-Banks: before I start off. Just a big thank you to my collaborators on this. So I worked with a range of wonderful and clever people.
+
+18
+00:03:37.150 --> 00:03:46.179
+Jonathan Livingstone-Banks: mostly based at the University of York. I think, with a few exceptions, you can see their lists in the author list there on the slide
+
+19
+00:03:46.360 --> 00:03:51.019
+Jonathan Livingstone-Banks: without them wouldn't have been able to actually make this piece of work happen, as
+
+20
+00:03:51.260 --> 00:03:52.839
+Jonathan Livingstone-Banks: as we'll see in next slide.
+
+21
+00:03:53.950 --> 00:03:55.050
+Jonathan Livingstone-Banks: Once we
+
+22
+00:03:55.200 --> 00:04:18.160
+Jonathan Livingstone-Banks: we'll see in the next slide. There we go. This piece of research had no funding. This was a little bit of a passion project which was conducted entirely off of goodwill from people who are willing to pitch in and help with getting the work done, despite there being very little reward for it, so very grateful.
+
+23
+00:04:21.019 --> 00:04:25.830
+Jonathan Livingstone-Banks: There are no conflicts of interest to report for this piece of work.
+
+24
+00:04:26.398 --> 00:04:30.370
+Jonathan Livingstone-Banks: As no funding was received as well as is
+
+25
+00:04:30.500 --> 00:04:42.910
+Jonathan Livingstone-Banks: was mentioned in the introduction. I'm a member of the Cochrane Tobacco Addiction Group, and an associate editor for Cochrane, where this was published. But I was not involved in the editorial process for this work at all.
+
+26
+00:04:43.190 --> 00:04:46.480
+Jonathan Livingstone-Banks: 3 of the authors of this review
+
+27
+00:04:47.230 --> 00:05:01.830
+Jonathan Livingstone-Banks: were responsible for conducting one of the trials that was included within it, but they had nothing to do with the data, extraction, or evaluation of that study as per best practices with Cochrane systematic reviews.
+
+28
+00:05:04.600 --> 00:05:11.820
+Jonathan Livingstone-Banks: So the topic for this work is smokeless tobacco products.
+
+29
+00:05:13.790 --> 00:05:30.889
+Jonathan Livingstone-Banks: as you can see. There, I've got a little asterisk by smokeless tobacco, because I think probably the 1st couple meetings that we had to discuss this work were dominated by discussions of whether or not smokeless tobacco is, in fact, really the right name for this family of products.
+
+30
+00:05:32.580 --> 00:05:41.159
+Jonathan Livingstone-Banks: by smokeless tobacco. What I'm going to be talking about is the range of tobacco products that do include tobacco itself.
+
+31
+00:05:42.740 --> 00:05:49.619
+Jonathan Livingstone-Banks: that are either chewed or held in the mouth or dissolved in water or snorted
+
+32
+00:05:50.810 --> 00:05:59.900
+Jonathan Livingstone-Banks: Anything that doesn't involve combustion, and with 2 notable exceptions, this does not include
+
+33
+00:06:00.080 --> 00:06:18.909
+Jonathan Livingstone-Banks: heat, not burn, sort of heated tobacco devices which heat tobacco to release a vapour, but with no combustion, and nor does it include e-cigarettes which some people might consider to be a smokeless tobacco product. Given that they don't create any smoke.
+
+34
+00:06:19.150 --> 00:06:20.289
+Jonathan Livingstone-Banks: These are not
+
+35
+00:06:20.510 --> 00:06:27.859
+Jonathan Livingstone-Banks: what I'm going to be talking about today. Today. I'm going to be talking about what we might more traditionally have safely called smokeless tobacco products.
+
+36
+00:06:29.000 --> 00:06:34.480
+Jonathan Livingstone-Banks: That being said, they are a very diverse range of products.
+
+37
+00:06:36.110 --> 00:06:56.179
+Jonathan Livingstone-Banks: they are used by over 300 million people across the world in various forms. They are most prominently used in South Asia and Southeast Asia, where they're very common, but they're also strongly associated with Northern America and the Nordic countries as well.
+
+38
+00:06:56.940 --> 00:07:06.819
+Jonathan Livingstone-Banks: They are a very diverse family of products. They come in different forms from snooze, which is little
+
+39
+00:07:07.020 --> 00:07:09.980
+Jonathan Livingstone-Banks: packets of tobacco to
+
+40
+00:07:10.370 --> 00:07:17.819
+Jonathan Livingstone-Banks: chewing tobacco, which is sort of often just loose tobacco leaves, but also many of the
+
+41
+00:07:18.010 --> 00:07:26.480
+Jonathan Livingstone-Banks: South Asian products will be wrapped in leaves or other kinds of packages. Some come in pastes or powders.
+
+42
+00:07:26.610 --> 00:07:33.120
+Jonathan Livingstone-Banks: and they have a range of different ingredients as well, so some will be much more pure tobacco.
+
+43
+00:07:33.270 --> 00:07:50.029
+Jonathan Livingstone-Banks: others will be mixed with a variety of ingredients, things like arica and beetle, which are nuts and leaves that get combined in South Asian and Southeast Asian products, also slaked lime and various flavourings.
+
+44
+00:07:50.510 --> 00:07:54.549
+Jonathan Livingstone-Banks: and with all of this variety of products
+
+45
+00:07:54.660 --> 00:07:57.980
+Jonathan Livingstone-Banks: comes with a variety of usage patterns.
+
+46
+00:07:58.230 --> 00:08:05.509
+Jonathan Livingstone-Banks: so some of them are held just under the lip and left there. Others are chewed
+
+47
+00:08:05.790 --> 00:08:10.520
+Jonathan Livingstone-Banks: and spat out, others are even dissolved in water or snorted.
+
+48
+00:08:11.450 --> 00:08:14.090
+Jonathan Livingstone-Banks: They also come with different health effects.
+
+49
+00:08:14.950 --> 00:08:22.939
+Jonathan Livingstone-Banks: because they're also produced in different ways. So things like Scandinavian snooze will be produced to factory conditions.
+
+50
+00:08:23.100 --> 00:08:26.739
+Jonathan Livingstone-Banks: and of these products is probably one of the safer ones.
+
+51
+00:08:26.950 --> 00:08:36.900
+Jonathan Livingstone-Banks: whereas many of the products used in south and Southeast Asia will be made by cottage industry, so they'll be made by a local person
+
+52
+00:08:37.799 --> 00:08:41.750
+Jonathan Livingstone-Banks: mixing ingredients by hand that they've acquired in the local community.
+
+53
+00:08:43.190 --> 00:08:46.149
+Jonathan Livingstone-Banks: And this can have an impact on
+
+54
+00:08:46.300 --> 00:08:55.019
+Jonathan Livingstone-Banks: both their addictive properties, but also their health. It's also also worth noting some of those ingredients that get included things like the arica, the beetle, the snake lime.
+
+55
+00:08:55.130 --> 00:08:59.390
+Jonathan Livingstone-Banks: they can impact both. How addictive the substance is.
+
+56
+00:09:00.490 --> 00:09:06.110
+Jonathan Livingstone-Banks: for instance, steak lime affects the Ph which can then affect how much nicotine is absorbed.
+
+57
+00:09:06.630 --> 00:09:13.380
+Jonathan Livingstone-Banks: And they can also have health impacts in and of themselves, because they're also largely unregulated as well
+
+58
+00:09:15.160 --> 00:09:21.969
+Jonathan Livingstone-Banks: in terms of how we might help people quit using these products.
+
+59
+00:09:22.420 --> 00:09:26.720
+Jonathan Livingstone-Banks: There's a range of different interventions available.
+
+60
+00:09:26.900 --> 00:09:37.280
+Jonathan Livingstone-Banks: and all of the potential interventions here are pretty much the same as the potential interventions we might think of when we're looking to help people quit using combustible tobacco. So smoking.
+
+61
+00:09:37.960 --> 00:09:46.030
+Jonathan Livingstone-Banks: these can involve nicotine replacement, therapy treatments, pharmacotherapies like varanacline or bupropriion.
+
+62
+00:09:46.180 --> 00:09:56.229
+Jonathan Livingstone-Banks: but also behavioral interventions like counselling brief advice or community interventions as well it's worth noting that
+
+63
+00:09:58.230 --> 00:10:06.380
+Jonathan Livingstone-Banks: these products and interventions to help people quit using them receive a lot less attention from the research community.
+
+64
+00:10:06.570 --> 00:10:19.850
+Jonathan Livingstone-Banks: So just for a little bit of context in the Cochrane Library there are over 90 different systematic reviews looking at different tobacco control interventions focused primarily on combustible tobacco.
+
+65
+00:10:20.437 --> 00:10:28.999
+Jonathan Livingstone-Banks: There is only one systematic review in the Cochrane Library looking at smokeless tobacco, which is the one I'm going to be talking to you about today.
+
+66
+00:10:31.570 --> 00:10:32.450
+Jonathan Livingstone-Banks: So
+
+67
+00:10:33.650 --> 00:10:47.509
+Jonathan Livingstone-Banks: we set out to conduct a Cochrane Systematic Review. For those of you who don't know what a Cochrane systematic review is. A systematic review is a research product where we combine all of the available evidence that
+
+68
+00:10:47.640 --> 00:10:58.939
+Jonathan Livingstone-Banks: addresses a specific research question, and we try and bring out answers that are greater than the sum of its parts. So you learn more than you would from just reading. Those individual studies by themselves.
+
+69
+00:10:59.470 --> 00:11:10.450
+Jonathan Livingstone-Banks: and Cochrane are considered to be the gold standard. When it comes to systematic reviews. They have the most rigorous standards, and are the most demanding to complete
+
+70
+00:11:11.260 --> 00:11:18.580
+Jonathan Livingstone-Banks: our goal here was to replace a previously published Cochrane Review. So there was a review on this topic
+
+71
+00:11:19.310 --> 00:11:36.380
+Jonathan Livingstone-Banks: that by this point was out of date. It was a good 10 years out of date, I believe, and the current author team weren't in a position to update it. So we took that on, and we conducted this entirely from scratch. So we started from the beginning again, because we also wanted to update the methods to reflect modern best practice.
+
+72
+00:11:37.110 --> 00:11:44.089
+Jonathan Livingstone-Banks: Our goal was to assess any intervention for helping people quit using smokeless tobacco.
+
+73
+00:11:44.740 --> 00:12:00.220
+Jonathan Livingstone-Banks: and we also wanted to try and explore. If the effectiveness of these interventions varies, based on what products or where they are so trying to reflect some of that variety and diversity in these products. If that affects how easy they are to quit.
+
+74
+00:12:01.200 --> 00:12:14.619
+Jonathan Livingstone-Banks: We defined our research question using the pcos acronym. So when we were judging whether or not to include studies in our review. We were interested in a population of any users of smokeless tobacco products.
+
+75
+00:12:16.250 --> 00:12:23.369
+Jonathan Livingstone-Banks: We were also interested in dual users of combustible tobacco. So long as they were still smokeless tobacco users.
+
+76
+00:12:23.830 --> 00:12:30.279
+Jonathan Livingstone-Banks: The interventions were any intervention, so long as it was intended to help people quit using their smokeless tobacco
+
+77
+00:12:30.740 --> 00:12:37.110
+Jonathan Livingstone-Banks: compared with either a placebo, some other eligible intervention or no treatment at all.
+
+78
+00:12:37.470 --> 00:12:44.839
+Jonathan Livingstone-Banks: and the outcome of interest for us primarily was abstinence from all tobacco use at 6 months or longer.
+
+79
+00:12:45.130 --> 00:13:03.509
+Jonathan Livingstone-Banks: The reason why this is all tobacco use as opposed to just smokeless tobacco use is because we didn't think that this would be a real benefit quitting using smokeless tobacco, if you've only switched on to smoking cigarettes instead. So we really were only interested in. If people have genuinely quit
+
+80
+00:13:03.660 --> 00:13:14.490
+Jonathan Livingstone-Banks: using any form of tobacco at all, though we did still include data. If a data from a study was only based on smokeless tobacco cessation.
+
+81
+00:13:14.920 --> 00:13:18.709
+Jonathan Livingstone-Banks: and the studies that we were interested in were randomized, controlled trials
+
+82
+00:13:23.580 --> 00:13:25.040
+Jonathan Livingstone-Banks: for our methods.
+
+83
+00:13:25.150 --> 00:13:33.079
+Jonathan Livingstone-Banks: As I said, this was a Cochrane systematic review, and we followed Cochrane methods. So these are the strictest methods for this kind of research.
+
+84
+00:13:33.190 --> 00:13:52.760
+Jonathan Livingstone-Banks: I won't belabor the steps that we follow too much, but I'm very happy to answer follow-up questions. If anyone wants to know more about a specific thing, I can fill in on the details some of the important things that I think are worth highlighting is that this was all based on a predefined protocol that we published in the Cochrane Library in 2022.
+
+85
+00:13:53.480 --> 00:14:09.249
+Jonathan Livingstone-Banks: We followed best practice from the Cochrane Library Standards, Prisma, which is a set of reporting guidelines, standards set out by the Cochrane Tobacco Addiction group, and also the Russell Standard, which represents some of the best practice for
+
+86
+00:14:10.020 --> 00:14:12.029
+Jonathan Livingstone-Banks: smoking cessation research.
+
+87
+00:14:13.490 --> 00:14:30.200
+Jonathan Livingstone-Banks: We conducted systematic searches of a range of online databases of research. And we did that up to or from conception right up to the 16th of February 2024. So we concluded all research that was conducted up to that date.
+
+88
+00:14:32.110 --> 00:14:42.210
+Jonathan Livingstone-Banks: We screened, extracted, and appraised the methodological quality of all of those studies based
+
+89
+00:14:42.600 --> 00:14:53.390
+Jonathan Livingstone-Banks: on best practice, which means doing all of that in duplicate to researchers from our team independently screening, and then in the subsequent steps, data, extraction, and risk of bias assessment.
+
+90
+00:14:53.860 --> 00:14:58.830
+Jonathan Livingstone-Banks: doing that independently from one another and resolving any discrepancies by discussion.
+
+91
+00:14:59.940 --> 00:15:10.930
+Jonathan Livingstone-Banks: Once we had all that data, we brought it together. In our synthesis. We conducted a narrative synthesis, writing up the characteristics of studies, and also the findings.
+
+92
+00:15:11.200 --> 00:15:21.279
+Jonathan Livingstone-Banks: and then the cool bit is that we got to conduct a meta analysis. So that's a statistical pooling where we combined the results of many of those studies together to get us more reliable answers.
+
+93
+00:15:23.100 --> 00:15:31.290
+Jonathan Livingstone-Banks: We then used the grade methods to ascertain the certainty of evidence for each of our main conclusions.
+
+94
+00:15:31.520 --> 00:15:47.429
+Jonathan Livingstone-Banks: for those of you who aren't familiar with grade. It's a tool by which we can judge not only what our findings are, but how confident we can be in those findings based on the evidence that's contributed to them. It's based on a set of factors, including the risk of bias of the included studies.
+
+95
+00:15:47.630 --> 00:15:52.530
+Jonathan Livingstone-Banks: How consistent the findings of those studies are whether there's imprecision.
+
+96
+00:15:52.740 --> 00:15:58.129
+Jonathan Livingstone-Banks: how directly relevant the evidence is. And if there's any evidence of publication bias.
+
+97
+00:16:03.560 --> 00:16:06.709
+Jonathan Livingstone-Banks: talking a little bit about our analysis methods.
+
+98
+00:16:09.160 --> 00:16:17.560
+Jonathan Livingstone-Banks: We conducted meta-analyses using mental Hansel models to form risk ratios with 95% confidence intervals.
+
+99
+00:16:17.720 --> 00:16:23.240
+Jonathan Livingstone-Banks: We did this on an intention to treat basis. So that means that we judged
+
+100
+00:16:23.850 --> 00:16:29.430
+Jonathan Livingstone-Banks: participant outcomes based on the arms that they were randomized to, regardless of whether or not they received that intervention.
+
+101
+00:16:29.700 --> 00:16:36.139
+Jonathan Livingstone-Banks: and we considered anyone who has lost a follow up to be continuing using tobacco.
+
+102
+00:16:36.350 --> 00:16:39.780
+Jonathan Livingstone-Banks: This is all within best practice.
+
+103
+00:16:40.370 --> 00:16:58.479
+Jonathan Livingstone-Banks: We planned some subgroup and sensitivity analyses to explore potential heterogeneity. We anticipated there'd be quite a lot of heterogeneity in this review. So variety and results. That's largely because of the sheer amount of variety there is in these products in smokeless tobacco products.
+
+104
+00:16:58.620 --> 00:17:04.980
+Jonathan Livingstone-Banks: So we plan to conduct sensitivity analyses, testing the effect of removing studies at high risk of bias
+
+105
+00:17:05.240 --> 00:17:11.879
+Jonathan Livingstone-Banks: studies that didn't report abstinence from all tobacco use, but just from smokeless tobacco use.
+
+106
+00:17:12.170 --> 00:17:21.330
+Jonathan Livingstone-Banks: and ones where the population had a high use of erica or beetle outside of the smokeless tobacco products that they were consuming.
+
+107
+00:17:21.940 --> 00:17:33.180
+Jonathan Livingstone-Banks: We also plan to subgroup studies within those analyses based in our attempts to try and explore the variety of these products and how that might impact
+
+108
+00:17:33.560 --> 00:17:45.890
+Jonathan Livingstone-Banks: on cessation rates. So we wanted to explore a couple of different ways of dividing these studies. So we were thinking, based on either the geographical or cultural origin of the product.
+
+109
+00:17:46.340 --> 00:18:08.139
+Jonathan Livingstone-Banks: or also potentially based on what the ingredients of the product were. So the National Cancer Institute and Centers for Disease Control and Prevention have a classificatory system with 4 categories for smokeless tobacco products based on the key constituents that are in them besides tobacco. And so we hope to use that for further dividing these studies as well.
+
+110
+00:18:12.000 --> 00:18:21.539
+Jonathan Livingstone-Banks: that's all I have to say as a preliminary for the methods. That might be a good point to pause in case anyone has any questions. Before I plow onto what we've found.
+
+111
+00:18:23.090 --> 00:18:36.679
+Justin White: Great I am, Justin. I'm filling in or taking over for Mike at this point. Thanks, Mike, for pitch hitting. So I want to remind everybody that you can put your questions in the Q. And A.
+
+112
+00:18:36.880 --> 00:18:59.890
+Justin White: And I think to start off. We're going to turn it over to our discussant to have 1st shot at asking questions. And our discussant today is Dr. Benjamin Chafee, a professor from the University of California, San Francisco, where he studies tobacco use among adolescents and oral health across the life course, and so Ben feel free to ask any questions you have at this stage.
+
+113
+00:19:00.680 --> 00:19:09.650
+Ben Chaffee (UCSF): Yeah, thank you very much. And you know one, John, thank you for for sharing your team's work and and everything that went into putting this together.
+
+114
+00:19:10.970 --> 00:19:18.390
+Ben Chaffee (UCSF): Really excellent to have an updated resource on this topic and and thank you to the Tops team for inviting me for a chance to share some thoughts today.
+
+115
+00:19:19.190 --> 00:19:27.619
+Ben Chaffee (UCSF): and I'll just start out with an observation that carrying out a systematic review is really a time intensive.
+
+116
+00:19:28.570 --> 00:19:55.570
+Ben Chaffee (UCSF): thankless process. In many cases it just requires so much meticulous attention to detail. And every time I've engaged in a systematic review we'll set out. Here's our plan. Here's our protocol, and then it always seems that there's unexpected complexities that come up along the way that make it take longer than you think. It's going to take to finish. And John, maybe your team's done 20 of these. Now, from what I understand, this may be old hat, but I see it as a really
+
+117
+00:19:55.940 --> 00:20:04.700
+Ben Chaffee (UCSF): extensive undertaking, and want to thank your team for doing this, and not only a systematic review, but a Cochrane systematic review that just raises the level of
+
+118
+00:20:04.970 --> 00:20:08.959
+Ben Chaffee (UCSF): in some cases rigidity in how, in the rules you must follow.
+
+119
+00:20:10.280 --> 00:20:17.739
+Ben Chaffee (UCSF): But within those rules the idea is to advance the the rigor of the process and come out with, you know, something we can really have confidence in the end.
+
+120
+00:20:18.980 --> 00:20:22.409
+Ben Chaffee (UCSF): So it's mostly an observation. But if if you have any thoughts just on.
+
+121
+00:20:22.960 --> 00:20:31.960
+Ben Chaffee (UCSF): you know the process, and what went into it, or any general comments on what makes a Cochrane Review different from your your general systematic review. Maybe you can take a minute or so on that.
+
+122
+00:20:33.380 --> 00:20:42.290
+Jonathan Livingstone-Banks: Sure I mean, 1st of all, thank you very much. Very kind of you to say I am blushing a little bit, so that makes me feel very warm inside. Thank you.
+
+123
+00:20:42.750 --> 00:20:52.749
+Jonathan Livingstone-Banks: And yeah, I mean, I certainly conducting systematic reviews, and especially Cochrane reviews, is a very, it can be quite a big job, and it involves a lot of people sometimes.
+
+124
+00:20:55.510 --> 00:21:13.799
+Jonathan Livingstone-Banks: I think it's great fun. I mean, I'm definitely a systematic review. Geek, this is what I do pretty much all day every day, and I love the idea of being able to combine the work that people have already done, to try and learn something beyond what you might get from those individual parts. Hopefully.
+
+125
+00:21:15.340 --> 00:21:30.760
+Jonathan Livingstone-Banks: And certainly I've been in a very lucky and privileged position in that I was. I was trained how to do this within the Cochrane Tobacco Addiction Group. By my wonderful mentors, Jamie Hartman Boyce and Nicola Linson, who are real geniuses at this stuff.
+
+126
+00:21:30.920 --> 00:21:31.730
+Jonathan Livingstone-Banks: So
+
+127
+00:21:33.410 --> 00:21:43.660
+Jonathan Livingstone-Banks: I mean, yeah, there's there's a lot of rules, and there's a lot of methods involved. But there's also it's, I think the the real fun comes when you get to the tricky, complicated bits, and you've got to
+
+128
+00:21:43.870 --> 00:22:01.279
+Jonathan Livingstone-Banks: think critically about well, actually, how do we bend the rules in such a way where you maintain that scientific rigor, but actually, as you say, where it's not too rigid, and where you can actually still get valuable information and not get beaten by the book, as it were. But yeah, thank you.
+
+129
+00:22:01.900 --> 00:22:11.419
+Ben Chaffee (UCSF): Yeah, I think as we get into the results, we can talk. If any of those kind of instances came up when you tried to classify different studies, and how to put quality
+
+130
+00:22:11.980 --> 00:22:16.889
+Ben Chaffee (UCSF): around your conclusions, you know, is this moderate evidence? Is this limited evidence things like that?
+
+131
+00:22:18.220 --> 00:22:38.040
+Ben Chaffee (UCSF): For now, though, I'll highlight something else you brought up at the beginning. You talked about smokeless tobacco being overlooked, and I'll agree with that strongly and cigarettes clearly are still the main global killer anywhere, 8 to 9 million preventable deaths per year due to cigarette smoking but smokeless tobacco. This family of products is certainly meaningful.
+
+132
+00:22:38.640 --> 00:22:40.399
+Ben Chaffee (UCSF): you know here in the United States.
+
+133
+00:22:40.740 --> 00:22:47.270
+Ben Chaffee (UCSF): If you look at the statistics use of smokeless tobacco among adults is about 2% prevalence.
+
+134
+00:22:48.620 --> 00:22:51.630
+Ben Chaffee (UCSF): But that underestimates because we have such
+
+135
+00:22:51.930 --> 00:22:55.280
+Ben Chaffee (UCSF): gender difference in the use of this product is almost
+
+136
+00:22:55.590 --> 00:23:04.800
+Ben Chaffee (UCSF): predominantly male, at least in the Us. And many other settings. So it's really 4% prevalence of use of smokeless tobacco among men in the United States.
+
+137
+00:23:04.940 --> 00:23:10.930
+Ben Chaffee (UCSF): And that's getting right up there with the prevalence of electronic cigarettes, which is maybe 5 6% among us men.
+
+138
+00:23:12.360 --> 00:23:17.190
+Ben Chaffee (UCSF): And then, when you look at a place like India, the most populous country in in the world
+
+139
+00:23:17.890 --> 00:23:28.269
+Ben Chaffee (UCSF): overall among all adults, we're surpassing 20% prevalence of smokeless tobacco use and and higher again, among men, maybe 2530% among men versus 10 to 15% among women.
+
+140
+00:23:28.790 --> 00:23:36.960
+Ben Chaffee (UCSF): So this is really a significant contributor to disease. Something that strikes me when you look at the statistics in India is that
+
+141
+00:23:37.250 --> 00:23:49.599
+Ben Chaffee (UCSF): when you look at cancers by site oral cavity. Cancer is right up there near the tops in some studies will suggest that that's the number one cancer site among men. Some studies will put it number 2 behind lung cancer.
+
+142
+00:23:49.950 --> 00:23:56.419
+Ben Chaffee (UCSF): But much of that cancer burden that oral cancer burden directly traces back to use of smokeless tobacco.
+
+143
+00:23:57.200 --> 00:23:58.050
+Ben Chaffee (UCSF): And
+
+144
+00:23:59.100 --> 00:24:23.759
+Ben Chaffee (UCSF): as you've mentioned, too, the products are quite different. There's this heterogeneity in products, and where they're used. And when you're talking about South Asia and Southeast Asia, these are really the most dangerous products. They have high levels of nitrosamines that are linked to causing cancer. You talked about the alkalinity of these products, allowing really rapid absorption or more absorption of nicotine that can make them more addictive.
+
+145
+00:24:24.880 --> 00:24:27.030
+Ben Chaffee (UCSF): And so 1 1 irony of
+
+146
+00:24:27.790 --> 00:24:39.779
+Ben Chaffee (UCSF): the this review, and and where the evidence for cessation lies is that where the most dangerous products are being used at the highest prevalence isn't necessarily where we have the most evidence.
+
+147
+00:24:40.540 --> 00:24:45.060
+Ben Chaffee (UCSF): The you mentioned the previous Cochrane Review, that was published in 2,015.
+
+148
+00:24:45.610 --> 00:24:53.989
+Ben Chaffee (UCSF): At that time every trial but one in that review was from the United States, and so I think
+
+149
+00:24:54.140 --> 00:24:59.079
+Ben Chaffee (UCSF): I'll I'll let you comment on this if you see it this way, this mismatch between
+
+150
+00:24:59.400 --> 00:25:01.469
+Ben Chaffee (UCSF): disease, burden, and evidence.
+
+151
+00:25:02.060 --> 00:25:24.019
+Ben Chaffee (UCSF): where things stood 10 years ago with the Review, where virtually all of the trials were coming out of the United States, and how things are different in this review 10 years later, where I know you haven't gotten the results yet, but maybe a little foreshadowing where perhaps we have some better global representation, and but maybe not quite yet where we'd like to be when it comes to
+
+152
+00:25:24.860 --> 00:25:28.330
+Ben Chaffee (UCSF): covering the range of different products and the range of different geographies.
+
+153
+00:25:30.760 --> 00:25:38.610
+Jonathan Livingstone-Banks: Yeah, absolutely. I mean, certainly things aren't as much better as they ought to be.
+
+154
+00:25:39.178 --> 00:25:50.659
+Jonathan Livingstone-Banks: There are more studies now. We'll see on the next slide in the tool. I've got a breakdown of the studies that we found, and there are more in in sort of South Asian countries.
+
+155
+00:25:51.385 --> 00:25:57.490
+Jonathan Livingstone-Banks: But it's still definitely not proportionate to the distribution of users.
+
+156
+00:25:57.760 --> 00:26:05.040
+Jonathan Livingstone-Banks: which is a shame. So the the progress between this between the last version of this review, and this one
+
+157
+00:26:05.160 --> 00:26:09.400
+Jonathan Livingstone-Banks: is not what we might hope, but there is a bit of a silver lining in that
+
+158
+00:26:09.560 --> 00:26:27.140
+Jonathan Livingstone-Banks: in terms of the research that is currently underway that we identified. So I think probably the difference when we come to the next update of this review, I'm not sure when that will be, but hopefully, sometime in the next few years, perhaps, I think the picture will be potentially a lot more reassuring.
+
+159
+00:26:30.470 --> 00:26:32.720
+Justin White: Okay, Ben, do you have any more questions at this stage?
+
+160
+00:26:33.790 --> 00:26:36.930
+Ben Chaffee (UCSF): No, I think we should probably dive in and start looking at these results.
+
+161
+00:26:37.130 --> 00:26:38.370
+Justin White: Yeah, let's get to it.
+
+162
+00:26:39.250 --> 00:26:40.502
+Jonathan Livingstone-Banks: At all. Okay?
+
+163
+00:26:44.010 --> 00:26:46.258
+Jonathan Livingstone-Banks: So in terms of what we found
+
+164
+00:26:46.810 --> 00:26:53.940
+Jonathan Livingstone-Banks: based on systematic searches of the databases, we came up with 43 randomized control trials.
+
+165
+00:26:54.070 --> 00:26:58.610
+Jonathan Livingstone-Banks: including between them just over 20,000 people.
+
+166
+00:27:00.740 --> 00:27:06.360
+Jonathan Livingstone-Banks: As Ben alluded to, there is still a significant skew in terms of where
+
+167
+00:27:07.750 --> 00:27:14.619
+Jonathan Livingstone-Banks: these studies are being conducted. So of those 43 studies, 33 of them were in North America.
+
+168
+00:27:14.990 --> 00:27:24.400
+Jonathan Livingstone-Banks: 2 were in Scandinavia, and only 8 were conducted in South Asia or Turkey as well.
+
+169
+00:27:26.200 --> 00:27:54.430
+Jonathan Livingstone-Banks: So there is still definitely a skew. Things have come forward from the previous version of this, where there was only one study, but still not as representative as we would like, especially when we then think that these studies weren't all looking at the same interventions. So it's not like we can pool those 8 studies in South Asia and Turkey together and get a more reliable answer because many of them were looking at different things. So we've got to split them down further than that
+
+170
+00:27:55.540 --> 00:27:58.890
+Jonathan Livingstone-Banks: in terms of the interventions that they did look at
+
+171
+00:28:00.000 --> 00:28:03.579
+Jonathan Livingstone-Banks: the main interventions that the studies looked at were
+
+172
+00:28:04.750 --> 00:28:26.789
+Jonathan Livingstone-Banks: various forms of behavioural support. So 21 studies looked at counselling interventions of various forms of intensity, and 7 looked at brief advice. So this is like where a clinician is kind of in quite a short period of time, advising someone to quit using smokeless tobacco and maybe giving them a little bit of advice. How, but it's not intensive at all.
+
+173
+00:28:27.600 --> 00:28:34.100
+Jonathan Livingstone-Banks: There were also some studies comparing pharmacotherapies, either with placebo or no medication.
+
+174
+00:28:34.390 --> 00:28:38.139
+Jonathan Livingstone-Banks: 11 trials looked at nicotine replacement therapy.
+
+175
+00:28:38.390 --> 00:28:42.439
+Jonathan Livingstone-Banks: and 2 looked at Varanacline, and 2 looked at Bupropria.
+
+176
+00:28:43.130 --> 00:28:52.799
+Jonathan Livingstone-Banks: Now there are also a few other trials that looked other interventions. So there were a couple that looked at things like Yoga workplace interventions, or comparing
+
+177
+00:28:52.900 --> 00:28:58.899
+Jonathan Livingstone-Banks: behavioural interventions of similar intensity with one another, to try and determine which might be more effective.
+
+178
+00:28:59.060 --> 00:29:04.629
+Jonathan Livingstone-Banks: And there were also 2 trials that compared nicotine replacement therapy with tobacco, free snuff.
+
+179
+00:29:05.110 --> 00:29:12.709
+Jonathan Livingstone-Banks: I'm not going to focus on those ones because they were all quite small and marginal studies. I'm going to focus on the comparisons we have up on screen here.
+
+180
+00:29:12.840 --> 00:29:26.240
+Jonathan Livingstone-Banks: as these also represent probably the mainstream options that we would think of as cessation aids. Given the main players that exist in the smoking cessation arena.
+
+181
+00:29:29.040 --> 00:29:34.530
+Jonathan Livingstone-Banks: We appraised the quality of all of these studies, using the Cochrane risk of bias tool.
+
+182
+00:29:34.800 --> 00:29:37.920
+Jonathan Livingstone-Banks: And these are the results of that. So
+
+183
+00:29:38.320 --> 00:29:46.240
+Jonathan Livingstone-Banks: in this figure we can see the bias is broken down into different domains of bias, so representing different
+
+184
+00:29:46.470 --> 00:29:49.289
+Jonathan Livingstone-Banks: aspects of the methods of those studies
+
+185
+00:29:50.110 --> 00:29:57.899
+Jonathan Livingstone-Banks: green represents where a study was at low risk of bias, the the methods were suitable that we wouldn't expect them to be biased.
+
+186
+00:29:58.895 --> 00:30:00.199
+Jonathan Livingstone-Banks: Red is where
+
+187
+00:30:00.820 --> 00:30:12.399
+Jonathan Livingstone-Banks: there is an issue with the methods, and we would expect there to be some high risk of bias and unclear is where there was insufficient information in the study, reporting for us to make a judgment one way or the other.
+
+188
+00:30:13.100 --> 00:30:30.840
+Jonathan Livingstone-Banks: The white sections are where a study wasn't appraised for that domain. So there are some domains that we didn't appraise. All studies on the bottom 3 are only relevant to cluster randomized control trials as opposed to individually randomised trials. So only a fraction of the trials had used that method.
+
+189
+00:30:31.120 --> 00:30:36.409
+Jonathan Livingstone-Banks: and the the 3rd from bottom blinding of participants and personnel.
+
+190
+00:30:36.880 --> 00:30:45.290
+Jonathan Livingstone-Banks: We don't appraise that when it comes to behavioural interventions, because it's impossible to blind for them. So it's impossible to rule out performance bias in that case
+
+191
+00:30:46.490 --> 00:31:11.020
+Jonathan Livingstone-Banks: based on the overall ratings for those studies. So if a study was at high risk of bias for one domain, then we classified it as being at high risk of bias overall, if it was not at high risk for any single domain. But it was unclear for one or more domains. Then we ranked it as unclear risk of bias, and we only considered trials to be at low risk of bias if they were at low risk, for every domain in the appraisal.
+
+192
+00:31:11.180 --> 00:31:14.510
+Jonathan Livingstone-Banks: So we can see here we only had 5 trials that we would deem
+
+193
+00:31:14.700 --> 00:31:17.030
+Jonathan Livingstone-Banks: as being safely at low risk of bias.
+
+194
+00:31:19.340 --> 00:31:22.970
+Jonathan Livingstone-Banks: 16 were unclear because of insufficient information.
+
+195
+00:31:23.360 --> 00:31:30.269
+Jonathan Livingstone-Banks: and 22 out of our 43 trials we deem to be a high risk of bias because of various methodological flaws.
+
+196
+00:31:32.070 --> 00:31:38.880
+Jonathan Livingstone-Banks: and we took this into account. Then, when we conducted our synthesis, speaking of which
+
+197
+00:31:41.400 --> 00:31:50.169
+Jonathan Livingstone-Banks: I don't know how well this will show up on your screens, but I'm going to talk you through it, anyway. So you don't necessarily really need to see the forest plot here.
+
+198
+00:31:50.979 --> 00:32:01.890
+Jonathan Livingstone-Banks: Our 1st comparison is grouping together studies that tested some form of cessation, counselling compared with minimal support or usual care.
+
+199
+00:32:03.630 --> 00:32:09.090
+Jonathan Livingstone-Banks: So the results here deeds show a benefit.
+
+200
+00:32:09.190 --> 00:32:17.009
+Jonathan Livingstone-Banks: So there was an increased cessation rate amongst people randomised to receive counseling compared with those
+
+201
+00:32:17.910 --> 00:32:21.240
+Jonathan Livingstone-Banks: who received were randomized to receive minimal support.
+
+202
+00:32:21.760 --> 00:32:26.589
+Jonathan Livingstone-Banks: What's notable here, though, is that there was a high degree of heterogeneity.
+
+203
+00:32:26.730 --> 00:32:45.809
+Jonathan Livingstone-Banks: So we assessed heterogeneity in these analyses, using a statistic called the I squared, which gives us a percentage. The higher the percentage. The more variation there is in the numerical results of these studies that goes beyond what we would normally expect and attribute to just variation by chance.
+
+204
+00:32:45.960 --> 00:32:51.520
+Jonathan Livingstone-Banks: So 69% is quite a large amount of heterogeneity, certainly worth exploring.
+
+205
+00:32:52.070 --> 00:32:52.830
+Jonathan Livingstone-Banks: And
+
+206
+00:32:53.240 --> 00:33:00.229
+Jonathan Livingstone-Banks: we tried various ways to try and explore this heterogeneity to see if we could get to the bottom of it and see if this pooling was really appropriate.
+
+207
+00:33:01.705 --> 00:33:05.060
+Jonathan Livingstone-Banks: Our planned subgroupings
+
+208
+00:33:05.160 --> 00:33:09.520
+Jonathan Livingstone-Banks: that we had hoped to be able to do so. The ones I spoke about earlier.
+
+209
+00:33:09.720 --> 00:33:33.989
+Jonathan Livingstone-Banks: based on the geographical distribution or the types of products are really trying to drill down into those different types of smokeless tobacco, and if that affects cessation rates, we weren't able to conduct any of those subgroup analyses because there wasn't enough variety in the studies that we had. So even though there's so much variety in the products that exist
+
+210
+00:33:34.180 --> 00:33:42.559
+Jonathan Livingstone-Banks: that wasn't reflected in the studies. And this goes back to the points that Ben was making about how there is a skew in terms of the research that's been conducted.
+
+211
+00:33:43.260 --> 00:33:55.990
+Jonathan Livingstone-Banks: So we weren't able to explore the heterogeneity through that method. So we came up with some ad hoc ways of subgrouping, based on characteristics of the studies which we thought might represent types of difference.
+
+212
+00:33:56.370 --> 00:34:06.539
+Jonathan Livingstone-Banks: So the one that's up on the screen. Here we subgrouped, based on the intensity of the counseling, so the number of hours of contact that the person would have.
+
+213
+00:34:07.510 --> 00:34:12.159
+Jonathan Livingstone-Banks: With someone who's trying to convince them and give them support in quitting smoking.
+
+214
+00:34:12.520 --> 00:34:22.320
+Jonathan Livingstone-Banks: The other subgrouping we did was based on the modality of support. So, for instance, whether it was face to face or over the telephone, or some mix of the 2.
+
+215
+00:34:23.100 --> 00:34:28.880
+Jonathan Livingstone-Banks: In both cases we weren't able to get to the bottom of that heterogeneity
+
+216
+00:34:29.270 --> 00:34:40.810
+Jonathan Livingstone-Banks: so based on what we've been able to do so far, that is still unexplained. So there is still a bit of a question mark as to whether or not it's appropriate for all of these studies to be combined in the same place.
+
+217
+00:34:41.190 --> 00:34:44.600
+Jonathan Livingstone-Banks: But we can take reassurance from the fact that
+
+218
+00:34:45.940 --> 00:34:50.670
+Jonathan Livingstone-Banks: While there is this high degree of heterogeneity in terms of the extent of the effect.
+
+219
+00:34:50.980 --> 00:34:56.700
+Jonathan Livingstone-Banks: if you look at all the points in the plot going up from top to bottom.
+
+220
+00:34:57.101 --> 00:35:01.320
+Jonathan Livingstone-Banks: You can see that the direction of effect for all of them is very consistent.
+
+221
+00:35:01.880 --> 00:35:11.320
+Jonathan Livingstone-Banks: so we don't have them scattered all over the place with some disagreeing or not. Whether or not it helps, it really is largely disagreement on the extent of the benefit.
+
+222
+00:35:11.720 --> 00:35:17.539
+Jonathan Livingstone-Banks: and it's also worth noting that if we hold this result up again
+
+223
+00:35:17.970 --> 00:35:43.659
+Jonathan Livingstone-Banks: against the results that we have from behavioural support, or specifically for counselling to help people quit smoking combustible tobacco. Those results look quite similar. So there's kind of comparable findings in that sense that we should be very careful in terms of comparing the results of different meta analyses against one another. But given that, they're broadly in the same ballpark, we can be reassured by that, at least partially.
+
+224
+00:35:45.500 --> 00:35:50.360
+Jonathan Livingstone-Banks: We also combined results from studies testing
+
+225
+00:35:51.080 --> 00:35:53.649
+Jonathan Livingstone-Banks: brief advice compared with no support.
+
+226
+00:35:54.260 --> 00:35:59.279
+Jonathan Livingstone-Banks: And again, here we did find evidence of a benefit
+
+227
+00:35:59.450 --> 00:36:08.649
+Jonathan Livingstone-Banks: of more people quitting who had received that brief advice. There's still some evidence of heterogeneity that I squared statistic is at 49%.
+
+228
+00:36:09.300 --> 00:36:25.279
+Jonathan Livingstone-Banks: And also we do have confidence intervals here that while they're statistically significant. We may think that they include the potential for no clinically significant difference.
+
+229
+00:36:25.610 --> 00:36:31.410
+Jonathan Livingstone-Banks: So only very few more people quitting that may not be enough to then justify the intervention.
+
+230
+00:36:33.244 --> 00:36:36.160
+Jonathan Livingstone-Banks: So to summarize the results that we find here.
+
+231
+00:36:37.820 --> 00:36:40.179
+Jonathan Livingstone-Banks: We have a summary of findings table.
+
+232
+00:36:40.330 --> 00:36:57.159
+Jonathan Livingstone-Banks: and in the top row. Here you can see counseling versus usual care or minimal support. Our risk ratio was 1.7 9, with confidence intervals going from 1.4 4 to 2.1 6, and this is based on evidence from 21 studies over 7,000 people.
+
+233
+00:36:58.380 --> 00:36:59.230
+Jonathan Livingstone-Banks: The
+
+234
+00:36:59.540 --> 00:37:06.689
+Jonathan Livingstone-Banks: absolute effect of that is that we might expect per 1,000 people for approximately 278 to successfully quit.
+
+235
+00:37:07.730 --> 00:37:31.099
+Jonathan Livingstone-Banks: We, using grade, ranked this as moderate certainty evidence. So the way that grade works is, you start off at high and then, depending on certain flaws in the evidence base you downgrade. So in this case we downgraded because of that unexplained heterogeneity that 69%, we couldn't explain it. So we didn't feel we felt that that represented a step back in how confident we could be in the findings
+
+236
+00:37:31.690 --> 00:37:37.930
+Jonathan Livingstone-Banks: for brief advice. The risk ratio was more modest, but still comparable to what we might expect.
+
+237
+00:37:38.140 --> 00:37:58.869
+Jonathan Livingstone-Banks: Brief advice to help people quit smoking combustible tobacco. The risk ratio was 1.2 4, with confidence intervals going from 1.0 3 to 1.4 8. This is based on evidence from 6,000 people across 7 studies with an absolute quit rate of approximately 1 86 people per 1,000.
+
+238
+00:37:59.630 --> 00:38:02.090
+Jonathan Livingstone-Banks: We rank this as moderate certainty. Evidence
+
+239
+00:38:02.410 --> 00:38:10.950
+Jonathan Livingstone-Banks: we downgraded because of that imprecision, because the confidence intervals included the potential for no clinically significant benefit.
+
+240
+00:38:11.700 --> 00:38:38.500
+Jonathan Livingstone-Banks: And while the majority of studies in this analysis were at high risk of bias. We didn't downgrade for high risk of bias, because when we conducted our sensitivity analysis, testing the effect of what would happen if we remove those high risk of bias studies. It didn't change the direction of effect. So we can be more reassured that those high risk of bias studies aren't skewing the result one way or the other. It's relatively stable for that.
+
+241
+00:38:40.170 --> 00:38:44.709
+Jonathan Livingstone-Banks: So that was our 2 comparisons for behavioral interventions.
+
+242
+00:38:45.300 --> 00:38:48.730
+Jonathan Livingstone-Banks: We also were able to pull studies on pharmacotherapies.
+
+243
+00:38:49.040 --> 00:38:55.940
+Jonathan Livingstone-Banks: So for our analysis, looking at nicotine replacement therapy compared with either placebo or no medication.
+
+244
+00:38:56.410 --> 00:39:02.269
+Jonathan Livingstone-Banks: we did find a benefit with a risk ratio of 1.1 8.
+
+245
+00:39:03.130 --> 00:39:10.469
+Jonathan Livingstone-Banks: We did have some heterogeneity of an I squared of 39%, which is still there, but not as concerning as with those prior
+
+246
+00:39:11.480 --> 00:39:12.130
+Jonathan Livingstone-Banks: analyses.
+
+247
+00:39:12.260 --> 00:39:26.290
+Jonathan Livingstone-Banks: And when we conducted a risk of bias assessment removing those studies at high risk of bias, this did change the direction of effect. So there is potential that the high risk of bias studies may well be skewing
+
+248
+00:39:27.120 --> 00:39:31.950
+Jonathan Livingstone-Banks: the findings there. That's something that perhaps is is worth exploring some more in the future.
+
+249
+00:39:32.570 --> 00:39:46.109
+Jonathan Livingstone-Banks: Notable here is that whereas the behavioral intervention results were broadly comparable with what we might expect, based on the rates for same interventions for smoking cessation.
+
+250
+00:39:46.260 --> 00:39:53.030
+Jonathan Livingstone-Banks: The results here are less impressive than we've seen with nicotine replacement therapy as an intervention for smoking cessation.
+
+251
+00:39:54.360 --> 00:39:56.190
+Jonathan Livingstone-Banks: Where the
+
+252
+00:39:56.370 --> 00:40:20.470
+Jonathan Livingstone-Banks: result here is 1.1 8 with confidence intervals going up to 1.3 3 for smoking cessation. The Cochrane Review, looking at nicotine replacement therapy has a risk ratio of 1.5 5 with confidence intervals that don't overlap with these. And again, we've got to be cautious. Comparing these things we can't hold up and say it works better with one than the other, but it's certainly a bit of a question mark, and something that we may want to
+
+253
+00:40:21.080 --> 00:40:23.510
+Jonathan Livingstone-Banks: explore with future research.
+
+254
+00:40:25.480 --> 00:40:34.729
+Jonathan Livingstone-Banks: We were also able to conduct very small analyses. Pooling results from studies that compared either varenicline or bupropion versus placebo.
+
+255
+00:40:36.210 --> 00:40:49.259
+Jonathan Livingstone-Banks: In both cases, or in both cases we had results again that were less impressive than their counterparts for smoking cessation. But again, we should be cautious with such comparisons, and also these
+
+256
+00:40:49.750 --> 00:40:54.460
+Jonathan Livingstone-Banks: analyses are based on very small analyses. We've got 2 studies each for these.
+
+257
+00:40:54.700 --> 00:41:01.019
+Jonathan Livingstone-Banks: whereas the equivalent analyses for smoking cessation have 40 or 50 studies in them
+
+258
+00:41:01.800 --> 00:41:12.779
+Jonathan Livingstone-Banks: worth noting is that while varenicline still shows a benefit, the current evidence doesn't necessarily support the appropriate for helping people quit smokeless tobacco
+
+259
+00:41:13.830 --> 00:41:16.100
+Jonathan Livingstone-Banks: to summarize these results on our table
+
+260
+00:41:17.710 --> 00:41:23.850
+Jonathan Livingstone-Banks: for nicotine replacement therapy, we concluded that we had low certainty evidence of a benefit.
+
+261
+00:41:24.580 --> 00:41:26.360
+Jonathan Livingstone-Banks: We downgraded
+
+262
+00:41:26.500 --> 00:41:35.629
+Jonathan Livingstone-Banks: the evidence here because of risk of bias, because studies of risk of bias when we remove them in our sensitivity analysis, it did change the direction of effect.
+
+263
+00:41:35.760 --> 00:41:46.279
+Jonathan Livingstone-Banks: and also for imprecision, because those confidence intervals do include the potential of no clinically significant benefit, even though they are a statistically significant benefit
+
+264
+00:41:47.280 --> 00:41:53.830
+Jonathan Livingstone-Banks: for Bupropion versus placebo. We found low certainty evidence, and this we downgraded
+
+265
+00:41:54.300 --> 00:42:14.679
+Jonathan Livingstone-Banks: 2 levels because of imprecision, and this was in virtue of because it was such. A small analysis only included 293 people, and there were fewer than 150 events. So people successfully quitting significantly fewer than 150. So, in accordance with grade rules, we downgraded 2 levels for imprecision.
+
+266
+00:42:15.560 --> 00:42:27.150
+Jonathan Livingstone-Banks: for Veronicam. We downgraded the evidence one level again for imprecision. This was because there were fewer than 300 events. Again, in virtue of the fact of what a small analysis this is.
+
+267
+00:42:28.430 --> 00:42:38.239
+Jonathan Livingstone-Banks: So to bring all of that together in our conclusions, we can say that we have moderate certainty, evidence
+
+268
+00:42:38.890 --> 00:42:46.759
+Jonathan Livingstone-Banks: that counselling and brief advice to quit are effective ways to help people quit using smokeless tobacco.
+
+269
+00:42:47.130 --> 00:42:52.189
+Jonathan Livingstone-Banks: We also have moderate certainty evidence in favor of using varenicline. For this purpose
+
+270
+00:42:52.650 --> 00:42:57.139
+Jonathan Livingstone-Banks: we have low certainty evidence favoring nicotine replacement therapy.
+
+271
+00:42:57.410 --> 00:43:04.310
+Jonathan Livingstone-Banks: But at the moment low certainty evidence does not currently support using bupropion for smokeless tobacco cessation.
+
+272
+00:43:05.640 --> 00:43:13.020
+Jonathan Livingstone-Banks: Now there are a few things we can draw from this and thinking about next steps, and where we need to go next with the research
+
+273
+00:43:14.800 --> 00:43:34.440
+Jonathan Livingstone-Banks: And as someone who does systematic reviews, I often find myself saying something to the effect of, We just need more primary research. So please come on, folks, let's get a wriggle on. Let's let's do some more trials on this, please. If you need someone to vouch for you to do a trial. I will preach from the mountaintops of how important these trials are.
+
+274
+00:43:35.700 --> 00:43:47.589
+Jonathan Livingstone-Banks: Out of 43 trials that were conducted. Only 8 of them were conducted in the populations where the usage for these products is highest. But there is a silver lining in that
+
+275
+00:43:47.800 --> 00:44:10.219
+Jonathan Livingstone-Banks: of the 22 ongoing studies that we identified in this review, so ones that haven't been finished and data isn't available yet. 20 of them were being conducted in these regions, so we can see a real shift, both in the quantity of evidence being generated. Remember, that represents a 50% increase on what's already been done over, however, many years.
+
+276
+00:44:10.390 --> 00:44:16.489
+Jonathan Livingstone-Banks: But also it's now starting to be done in the right places as well that are most relevant to an international
+
+277
+00:44:16.610 --> 00:44:18.990
+Jonathan Livingstone-Banks: problems such as this is
+
+278
+00:44:21.050 --> 00:44:38.520
+Jonathan Livingstone-Banks: for my sake, so that we can redo these analyses and actually get to the bottom of exploring the variety and heterogeneity amongst these products. I would really love it if people did more studies, exploring the variety of these products, both transparently reporting what products people were using
+
+279
+00:44:39.450 --> 00:44:42.990
+Jonathan Livingstone-Banks: and whether they were also using.
+
+280
+00:44:43.260 --> 00:44:52.779
+Jonathan Livingstone-Banks: whether they were dual users of smokeless tobacco and combustible tobacco, or if they used other products like beetle or erica, as well as their smokeless tobacco.
+
+281
+00:44:52.990 --> 00:44:59.150
+Jonathan Livingstone-Banks: so doing more work on this, but also transparently reporting a lot of the studies, didn't give us enough detail to work with.
+
+282
+00:44:59.930 --> 00:45:17.240
+Jonathan Livingstone-Banks: also a point of interest. While there were 2 studies that compared tobacco, free snuff with nicotine replacement therapy as a way of quitting smokeless tobacco as of yet there are no trials that look at oral nicotine pouches as a way to quit using smokeless tobacco.
+
+283
+00:45:17.380 --> 00:45:26.980
+Jonathan Livingstone-Banks: Now, obviously, that's unsurprising. It's still very early days for those products, and we're still figuring out what to make of them and what role they may play in tobacco control or not.
+
+284
+00:45:27.150 --> 00:45:41.389
+Jonathan Livingstone-Banks: But it seems on an intuitive level that they may be an ideal product for helping people quit using smokeless tobacco products. Given the potential similarities in the usage habits that we can imagine they have.
+
+285
+00:45:42.390 --> 00:45:50.689
+Jonathan Livingstone-Banks: Anyway, I'm very happy to answer further questions. Thank you very much for listening to me. I hope I didn't ramble on too long.
+
+286
+00:45:51.310 --> 00:46:02.650
+Justin White: That was wonderful. Thanks so much. I want to just remind our audience that if you have any questions you're welcome to put them in the Q. And A. And we can ask our speaker, and I will turn it back
+
+287
+00:46:02.790 --> 00:46:07.909
+Justin White: over to our discussant to see if he has any questions to get us started.
+
+288
+00:46:10.660 --> 00:46:13.077
+Ben Chaffee (UCSF): Thanks, John. That was really fantastic.
+
+289
+00:46:14.350 --> 00:46:22.270
+Ben Chaffee (UCSF): we've got quite a few things that come to mind and try and decide where to start first.st And why don't we jump in with one of these top line findings
+
+290
+00:46:22.450 --> 00:46:24.490
+Ben Chaffee (UCSF): that's across these trials?
+
+291
+00:46:26.100 --> 00:46:34.040
+Ben Chaffee (UCSF): Counseling was found with moderate evidence to be pretty effective at cessation. And, as you said, that's a
+
+292
+00:46:34.150 --> 00:46:42.420
+Ben Chaffee (UCSF): different finding that has generally been reported for cigarettes, at least in terms of the potential magnitude of the impact both on a relative scale
+
+293
+00:46:42.640 --> 00:46:50.050
+Ben Chaffee (UCSF): and an absolute scale. If you look at the percentage of individuals who quit with counseling versus comparison group, it's it's substantial.
+
+294
+00:46:50.310 --> 00:46:53.240
+Ben Chaffee (UCSF): at least based on the studies that are in this review.
+
+295
+00:46:54.600 --> 00:46:55.154
+Ben Chaffee (UCSF): So
+
+296
+00:46:56.010 --> 00:47:11.150
+Ben Chaffee (UCSF): when I 1st asked by saying, Is there anything particular about the content or the delivery of these counseling interventions that you think makes them, you know, well suited for smokeless tobacco or effective. I mean, you can think about counseling, delivered
+
+297
+00:47:11.150 --> 00:47:26.419
+Ben Chaffee (UCSF): during a health visit from a physician or a dental professional, you can think about counseling over an app or a quitline. It was the landscape of these counseling interventions look like what? What was common across these studies, or was there anything in particular that stood out.
+
+298
+00:47:28.510 --> 00:47:30.900
+Jonathan Livingstone-Banks: It's a really good question, and I think there's
+
+299
+00:47:31.130 --> 00:47:40.323
+Jonathan Livingstone-Banks: I should probably give the caveat. There's a there's a bit of a limit on how much I can usefully say. I think I mean certainly part of the
+
+300
+00:47:41.550 --> 00:47:59.320
+Jonathan Livingstone-Banks: part of one of the drawbacks of being a systematic reviewer is. Sometimes you get a little bit long sighted looking at studies, and you can be grouping things together without looking too much at the details which are a lot harder to explore sometimes, especially when you don't have enough evidence to to use some of the analytic tools to divide.
+
+301
+00:47:59.770 --> 00:48:06.639
+Jonathan Livingstone-Banks: But certainly one thing that's that's notable is that there were.
+
+302
+00:48:07.010 --> 00:48:14.660
+Jonathan Livingstone-Banks: There were some of these interventions that were significantly more intensive, so some of them did involve like multiple hours of counselling extended over periods.
+
+303
+00:48:15.397 --> 00:48:21.360
+Jonathan Livingstone-Banks: And obviously these were all tailored specifically to be focusing on smokeless tobacco as well.
+
+304
+00:48:21.750 --> 00:48:22.500
+Jonathan Livingstone-Banks: And
+
+305
+00:48:23.430 --> 00:48:31.210
+Jonathan Livingstone-Banks: one thing that is notable from our inability to get to the bottom of the heterogeneity in the meta-analysis
+
+306
+00:48:31.370 --> 00:48:35.929
+Jonathan Livingstone-Banks: is that there wasn't necessarily any kind of strict
+
+307
+00:48:36.070 --> 00:48:49.510
+Jonathan Livingstone-Banks: pattern based on intensity that you might expect to see. So, you know, I mean, you might hypothesize that. Well, it would make sense if the more intensive counselling interventions gave us better quit rates.
+
+308
+00:48:49.760 --> 00:49:01.760
+Jonathan Livingstone-Banks: and we didn't really see any kind of strict pattern for that in the data. Now, of course, there could be a range of different forms of variety that might explain that. So I wouldn't want someone to conclude.
+
+309
+00:49:01.900 --> 00:49:07.460
+Jonathan Livingstone-Banks: Therefore we shouldn't be giving more intensive counselling. I don't think we are in a position to conclude that at all.
+
+310
+00:49:08.920 --> 00:49:24.479
+Jonathan Livingstone-Banks: I think what we, what we can conclude is that this approach is likely effective. It's probably probably helps. And what we now need to do is drill down onto the details. But I mean, in so far as what we can conclude from our work
+
+311
+00:49:25.250 --> 00:49:30.520
+Jonathan Livingstone-Banks: on what characteristics are more valuable than others. I I really can't say, based on.
+
+312
+00:49:31.260 --> 00:49:33.789
+Jonathan Livingstone-Banks: based on the findings of our analysis. Sadly.
+
+313
+00:49:34.830 --> 00:49:43.739
+Ben Chaffee (UCSF): Yeah, no, I agree. I mean, you're dealing with a relatively small amount of studies. Once you start slicing it by, you know, hours of contact time.
+
+314
+00:49:43.850 --> 00:49:49.370
+Ben Chaffee (UCSF): you know, you may be trying to make a conclusion based on just, you know, a handful of studies put together.
+
+315
+00:49:49.870 --> 00:49:51.539
+Ben Chaffee (UCSF): And and you're right, and
+
+316
+00:49:51.650 --> 00:50:02.480
+Ben Chaffee (UCSF): you'd love to also look at all these different dimensions of splitting out the counseling who delivered it. I think about you know how much is the message tailored in particular for smokeless tobacco.
+
+317
+00:50:02.860 --> 00:50:17.300
+Ben Chaffee (UCSF): and individuals who use smokeless tobacco, at least here in North America, the groups with the highest prevalence of smokeless tobacco use tend to be male. Usually younger men, rural communities identify as white racially, ethnically.
+
+318
+00:50:17.620 --> 00:50:20.600
+Ben Chaffee (UCSF): blue collar, politically, socially conservative.
+
+319
+00:50:21.070 --> 00:50:23.070
+Ben Chaffee (UCSF): And so here's an audience that
+
+320
+00:50:24.090 --> 00:50:35.090
+Ben Chaffee (UCSF): you know, for any cessation counseling. You want to be non-judgmental. You want to respect the autonomy of the individual, but if those aspects may be even magnified further in this demographic.
+
+321
+00:50:35.310 --> 00:50:41.279
+Ben Chaffee (UCSF): And I think about you're probably familiar with the website, killthecan.org, which is a
+
+322
+00:50:41.670 --> 00:50:44.600
+Ben Chaffee (UCSF): it's it's really supposed to be a support community.
+
+323
+00:50:44.820 --> 00:51:00.399
+Ben Chaffee (UCSF): not from physicians telling people to quit, but from individuals who use smokeless tobacco, who are on their own quit journey, trying to support each other and and build community around that. And so these aspects of the counseling may be particularly important for a smokeless product.
+
+324
+00:51:02.990 --> 00:51:04.422
+Jonathan Livingstone-Banks: Yeah, and certainly
+
+325
+00:51:05.880 --> 00:51:09.139
+Jonathan Livingstone-Banks: So there's there's other work that I've I've been involved in. So
+
+326
+00:51:09.898 --> 00:51:20.779
+Jonathan Livingstone-Banks: on the combustible tobacco front. We conducted another Cochrane Review, where we can were able to conduct a component network meta-analysis
+
+327
+00:51:20.970 --> 00:51:24.669
+Jonathan Livingstone-Banks: on behavioural interventions to help people quit combustible tobacco.
+
+328
+00:51:24.830 --> 00:51:33.910
+Jonathan Livingstone-Banks: and through that we were able to really drill down on individual components and and get some insights into what aspects may be more or less effective.
+
+329
+00:51:34.850 --> 00:51:46.789
+Jonathan Livingstone-Banks: So in theory, if we got to the point where there was enough evidence to be able to do that, and with smokeless tobacco, then we could drill down, using evidence synthesis as a viable tool.
+
+330
+00:51:46.910 --> 00:52:03.129
+Jonathan Livingstone-Banks: But I mean for context, that that review for smoked tobacco. I think that had about 350 studies in it to be able to to do that level of in-depth component network metro analysis. So we're we're obviously still a long way from there for the minute.
+
+331
+00:52:06.010 --> 00:52:07.370
+Ben Chaffee (UCSF): Well turn from
+
+332
+00:52:07.480 --> 00:52:15.930
+Ben Chaffee (UCSF): from the findings for counseling for for a moment, and look at the findings for Nrt. Nicotine replacement therapy, which
+
+333
+00:52:16.320 --> 00:52:18.440
+Ben Chaffee (UCSF): you know, weren't particularly impressive.
+
+334
+00:52:18.620 --> 00:52:23.160
+Ben Chaffee (UCSF): There wasn't, was not strong evidence that nicotine replacement therapy
+
+335
+00:52:23.420 --> 00:52:25.729
+Ben Chaffee (UCSF): can can help people to quit smokeless.
+
+336
+00:52:27.420 --> 00:52:32.689
+Ben Chaffee (UCSF): which is you mentioned it, too, that a little bit of a reversal from what you see for combustible products, where
+
+337
+00:52:32.920 --> 00:52:37.130
+Ben Chaffee (UCSF): pharmacotherapy and nicotine replacement are more effective than counseling. At least that's
+
+338
+00:52:37.310 --> 00:52:38.870
+Ben Chaffee (UCSF): where the evidence seems to lie.
+
+339
+00:52:40.080 --> 00:53:07.370
+Ben Chaffee (UCSF): But one thing that came out of the previous Cochrane Review in 2015 was that if you split by method of Nrt. There's at least some indication that nicotine lozenges may be more effective than other forms of nicotine replacement, and the authors of that review. They were cautious around. They say, look, this is based on 5 studies only there's still a wide confidence interval. If you remove certain studies based on
+
+340
+00:53:07.550 --> 00:53:11.639
+Ben Chaffee (UCSF): not having a placebo, then the results are a little bit different.
+
+341
+00:53:11.880 --> 00:53:19.670
+Ben Chaffee (UCSF): but it still it. It made intuitive sense. It said, Look, you've got a smokeless product that people hold in their mouth for a slow release of nicotine over time.
+
+342
+00:53:19.800 --> 00:53:28.180
+Ben Chaffee (UCSF): Here's a lozenge that in some ways, you know, approximates that behavior. Maybe that could be a reason why this looks more promising.
+
+343
+00:53:29.640 --> 00:53:42.980
+Ben Chaffee (UCSF): I don't think there's necessarily any new trials since that last review came out. But was that something that you looked at, that you thought about that you maybe would encourage more research on, because it seemed promising.
+
+344
+00:53:44.010 --> 00:54:00.390
+Jonathan Livingstone-Banks: Yeah, I mean, I've got to hold my hands up. I mean, we didn't. We didn't explore that. We didn't, didn't really think about that, and and that is, I think, probably a legitimate oversight on our part. And I think there's there's a compelling hypothesis there. And obviously, you know, sort of trying to match.
+
+345
+00:54:01.900 --> 00:54:09.079
+Jonathan Livingstone-Banks: the usage pattern of the Nrt. To the habit is going to be a great approach, and certainly, if we can see more evidence on that.
+
+346
+00:54:09.430 --> 00:54:14.460
+Jonathan Livingstone-Banks: Then. Then, yeah, I think that does sound like a promising kind of
+
+347
+00:54:14.970 --> 00:54:30.890
+Jonathan Livingstone-Banks: aspect to explore. And I think that's something we could definitely plan to explore. In the next update of this review, one of the great things with Cochrane reviews is because they are these living documents. We get to update them periodically. We can take on board suggestions like that, and and really make that
+
+348
+00:54:31.180 --> 00:54:35.050
+Jonathan Livingstone-Banks: part of our next set of methods. And and I think that's a great thing to do.
+
+349
+00:54:36.530 --> 00:54:50.530
+Ben Chaffee (UCSF): And and it really speaks to to one of the challenges for smokeless tobacco cessation. And you mentioned this in the beginning. Most of these trials are taking the same tools that have been tried and true for cigarettes and applying them to a different product.
+
+350
+00:54:52.490 --> 00:54:56.200
+Ben Chaffee (UCSF): We should be encouraging creativity to think outside that framework.
+
+351
+00:54:56.610 --> 00:55:12.430
+Ben Chaffee (UCSF): Sure, we have a tobacco based product that contains nicotine. But maybe there are some aspects of it, you know, in terms of the the rapidity with which nicotine reaches the brain, that we should be thinking about it differently in our approach to cessation, and you know, certainly would love to see more trials
+
+352
+00:55:13.360 --> 00:55:15.399
+Ben Chaffee (UCSF): thinking differently about this product.
+
+353
+00:55:16.430 --> 00:55:21.149
+Jonathan Livingstone-Banks: Absolutely. Yeah. I think a bit of imagination. And really trying to
+
+354
+00:55:21.270 --> 00:55:26.480
+Jonathan Livingstone-Banks: start from 1st principles and thinking about what would be effective interventions, I think, is going to be
+
+355
+00:55:27.260 --> 00:55:36.549
+Jonathan Livingstone-Banks: part of the way of really, you know, sort of generating the right hypothesis based on potential mechanism of action, that we can then test with trials.
+
+356
+00:55:36.680 --> 00:55:38.840
+Jonathan Livingstone-Banks: I think, yeah, that's exactly the approach.
+
+357
+00:55:40.560 --> 00:55:43.970
+Ben Chaffee (UCSF): You're not seeing a lot of activity in the the Q. And A. I'm gonna give you one last
+
+358
+00:55:44.220 --> 00:55:44.810
+Ben Chaffee (UCSF): question.
+
+359
+00:55:45.430 --> 00:55:46.110
+Justin White: Platform.
+
+360
+00:55:47.270 --> 00:55:55.700
+Ben Chaffee (UCSF): I saw you raise the the topic of nicotine pouches which is on a lot of our minds as they're. They're a new product, and there's a few different ways we can think about
+
+361
+00:55:56.430 --> 00:56:09.089
+Ben Chaffee (UCSF): what role these products may have in the cessation space. I mean, there's certainly the idea of a harm reduction paradigm. We take individuals who are using a presumably more dangerous, higher nitrosamine, smokeless product
+
+362
+00:56:09.350 --> 00:56:15.830
+Ben Chaffee (UCSF): and try to encourage them to switch over to to a novel oral nicotine product like a pouch.
+
+363
+00:56:16.610 --> 00:56:23.660
+Ben Chaffee (UCSF): And of course, then you've got to consider among your outcomes dual use and long-term continued use of of oral nicotine pouches.
+
+364
+00:56:24.370 --> 00:56:31.050
+Ben Chaffee (UCSF): And then, presumably, there's also individuals who are using these pouches who would like to quit. They're they're highly addictive. They they would.
+
+365
+00:56:31.370 --> 00:56:38.070
+Ben Chaffee (UCSF): They may not have anything for support or any evidence-based strategies to get off a nicotine pouch.
+
+366
+00:56:38.500 --> 00:56:42.220
+Ben Chaffee (UCSF): So if you had to design just one trial.
+
+367
+00:56:42.390 --> 00:56:59.259
+Ben Chaffee (UCSF): how? And of course the answer is you want to look at both these things, you want to do it in different ways. But if you had to prioritize where to put your funding, where to put your resources? What would a trial of nicotine pouches look like? What outcomes you think would be most important? How would you go about designing that.
+
+368
+00:57:00.370 --> 00:57:03.160
+Jonathan Livingstone-Banks: Yeah, I mean, that's that's a really good question. And I think
+
+369
+00:57:03.480 --> 00:57:15.080
+Jonathan Livingstone-Banks: I think I would probably take my lead from the e-cigarettes research, because I mean, I think the parallels are clear for everyone to see. I mean what what e-cigarettes are to
+
+370
+00:57:15.190 --> 00:57:27.359
+Jonathan Livingstone-Banks: combustible tobacco cigarettes, oral nicotine pouches are to smokeless tobacco, or to many of the products anyways. Certainly, if you're comparing them with something like snooze, it's almost like a 1 for one comparison, really.
+
+371
+00:57:28.109 --> 00:57:40.560
+Jonathan Livingstone-Banks: So I think some of the, or pretty much all of the questions that come with oral nicotine pouches are going to be the same questions that we've seen come up with E cigarettes, you know, sort of about
+
+372
+00:57:42.990 --> 00:58:02.249
+Jonathan Livingstone-Banks: whether there are potential gateway effects, what the health impacts are, whether they are good for cessation as an intervention or as a population level product. You know all of these things. So I think probably the main things that I would want to see from a trial, are sort of beyond it, being well conducted and well reported, and hopefully
+
+373
+00:58:04.220 --> 00:58:09.609
+Jonathan Livingstone-Banks: would be I think. Certainly, looking at
+
+374
+00:58:10.970 --> 00:58:18.039
+Jonathan Livingstone-Banks: abstinence with a long follow up so certainly 6 months or longer, to be in line with what we would hope for from from other
+
+375
+00:58:18.360 --> 00:58:26.470
+Jonathan Livingstone-Banks: and tobacco cessation interventions. Looking at what the long term use of the study product is.
+
+376
+00:58:27.020 --> 00:58:36.050
+Jonathan Livingstone-Banks: So seeing, you know, if at 6 months or a year are people still using your nicotine pouches, even if they successfully quit the smokeless tobacco product.
+
+377
+00:58:38.100 --> 00:58:40.980
+Jonathan Livingstone-Banks: And I think as well, probably the the one
+
+378
+00:58:41.100 --> 00:58:47.500
+Jonathan Livingstone-Banks: different thing where this comes, apart from what we might just see. Expect, you know, sort of mirroring the e-cigarettes. Research.
+
+379
+00:58:48.259 --> 00:58:51.669
+Jonathan Livingstone-Banks: is again comes down to the sheer variety of
+
+380
+00:58:53.020 --> 00:59:02.480
+Jonathan Livingstone-Banks: of smokeless tobacco products, right. So you know, if we're thinking about warm nicotine pouches as a snooze cessation intervention, then
+
+381
+00:59:02.640 --> 00:59:14.400
+Jonathan Livingstone-Banks: it's like, basically exactly the same product. Almost you could. Probably you know, trick someone into using them, not recommending that, anyway. But you know, comparing that with
+
+382
+00:59:15.570 --> 00:59:21.390
+Jonathan Livingstone-Banks: Gutka or or Pan in South Asia like, they're very different products.
+
+383
+00:59:21.700 --> 00:59:28.359
+Jonathan Livingstone-Banks: or even the the chewing and dip tomatoes in in America, like they're they have a different usage.
+
+384
+00:59:28.530 --> 00:59:31.690
+Jonathan Livingstone-Banks: So it would be interesting to see
+
+385
+00:59:32.670 --> 00:59:37.820
+Jonathan Livingstone-Banks: how acceptable they are, if they feel like the right fit for cessation.
+
+386
+00:59:38.632 --> 00:59:40.990
+Jonathan Livingstone-Banks: Or would people rather be using
+
+387
+00:59:41.300 --> 00:59:49.249
+Jonathan Livingstone-Banks: a pharmacotherapy, or or even an e-cigarette, or or whatever other intervention they might be interested in using. So I think.
+
+388
+00:59:49.570 --> 00:59:57.440
+Jonathan Livingstone-Banks: while there are some smokeless tobacco products where omps are like the obvious intervention that we should be investigating
+
+389
+00:59:57.660 --> 01:00:01.429
+Jonathan Livingstone-Banks: for others. We probably shouldn't be
+
+390
+01:00:01.810 --> 01:00:08.519
+Jonathan Livingstone-Banks: too complacent in assuming that it would be a good match, and we should probably do the legwork and actually figuring out
+
+391
+01:00:08.860 --> 01:00:12.989
+Jonathan Livingstone-Banks: if people would be interested in even using these products for that purpose.
+
+392
+01:00:13.530 --> 01:00:29.499
+Justin White: So, keeping my eye on the time, I think we probably have to leave it there. Clearly, this is an area where there's a lot more research needed. And so I appreciate your call for that. And why don't I turn it over to the Mc Danit to take us out.
+
+393
+01:00:30.530 --> 01:00:42.670
+Danyi Li: Thank you. We are out of time. So thank you to our presenter moderator and discussant. Finally, thank you to the audience of 68 people for your participation, and have a top-snotch weekend.
+
