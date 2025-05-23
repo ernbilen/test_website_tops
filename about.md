@@ -47,7 +47,6 @@ Richard O’Connor, Roswell Park Comprehensive Cancer Center \\
 Barbara Schillo, Truth Initiative \\
 Jody Sindelar, Yale University \\
 Andrew Strasser, University of Pennsylvania \\
-Andy Tan, University of Pennsylvania \\
 James Thrasher, University of South Carolina \\
 Theodore Wagener, Ohio State University 
 
