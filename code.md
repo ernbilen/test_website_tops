@@ -1,7 +1,5 @@
 ## Guidelines for Participation/Disclosures
 
-![Banner](banner.jpg "Tobacco Online Policy Seminar (TOPS) banner")
-
 <div class="guidelines" style="margin-top: 20px;">
   <h2 style="margin-top: 20px;">GUIDELINES FOR PARTICIPATION:</h2>
   <ol>
