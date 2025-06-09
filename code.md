@@ -1,4 +1,4 @@
-## Guidelines for Participation/Disclosures
+# Guidelines for Participation/Disclosures
 
 <div class="guidelines" style="margin-top: 20px;">
   <h2 style="margin-top: 20px;">GUIDELINES FOR PARTICIPATION:</h2>
