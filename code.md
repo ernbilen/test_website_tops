@@ -1,5 +1,7 @@
 ## Guidelines for Participation/Disclosures
 
+![Banner](banner.jpg)
+
 <div class="guidelines">
   <h2>GUIDELINES FOR PARTICIPATION:</h2>
   <ol>
@@ -41,4 +43,29 @@
   </ol>
 </div>
 
-![Code](disclosures.jpg)
+<div class="disclosures">
+  <h2>DISCLOSURES:</h2>
+  <ol>
+    <li>
+      All presenters must include a disclosure slide with their presentation that includes the following information:
+      <ol type="1">
+        <li>
+          Funding source for presented work provided to you or any co-authors. If none, state so.
+        </li>
+        <li>
+          For the presenter, tobacco-related funding sources over the last 10 years for any research, including (but not limited to)
+          funding from pharmaceutical companies, tobacco companies, advocacy organizations (including tobacco control groups), and/or
+          consulting/litigation services. Financial interest or other relationships may include grants or research support, or being an employee,
+          consultant, stockholder, member of speaker's bureau, owner of a company or product, designer of a product, etc.
+          Please err on the side of over-caution in reporting potential tobacco-related funding. If none, state so.
+        </li>
+      </ol>
+    </li>
+    <li>
+      When presenting the disclosure slide, presenters are highly encouraged to address potential financial repercussions in publishing findings
+      reaching the <em>opposite</em> conclusion of those they will be presenting. Presenters are also encouraged to explain any <em>transparency</em>
+      measures they have undertaken in the face of potential conflicts, such as providing the raw data and opportunities for replication.
+    </li>
+  </ol>
+</div>
+
