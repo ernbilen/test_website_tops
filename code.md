@@ -1,9 +1,9 @@
 ## Guidelines for Participation/Disclosures
 
-![Banner](banner.jpg)
+![Banner](banner.jpg "Tobacco Online Policy Seminar (TOPS) banner")
 
-<div class="guidelines">
-  <h2>GUIDELINES FOR PARTICIPATION:</h2>
+<div class="guidelines" style="margin-top: 20px;">
+  <h2 style="margin-top: 20px;">GUIDELINES FOR PARTICIPATION:</h2>
   <ol>
     <li>
       Questions and comments for the speakers from audience members are to be entered into the Zoom ‘Q&amp;A’ feature.
@@ -43,8 +43,10 @@
   </ol>
 </div>
 
-<div class="disclosures">
-  <h2>DISCLOSURES:</h2>
+<hr style="margin: 40px 0;">
+
+<div class="disclosures" style="margin-top: 20px;">
+  <h2 style="margin-top: 20px;">DISCLOSURES:</h2>
   <ol>
     <li>
       All presenters must include a disclosure slide with their presentation that includes the following information:
@@ -68,4 +70,5 @@
     </li>
   </ol>
 </div>
+
 
