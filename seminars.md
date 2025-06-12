@@ -98,9 +98,14 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}" download="{{ speaker.Draft }}"> Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}"> Published Paper (March 2025)</a></td>
 </tr>
 
-{% elsif (speaker.Presenter == 'Rizki Siregar') or (speaker.Presenter == 'Dan Sacks') or (speaker.Presenter == 'Ying Yao') or (speaker.Presenter == 'Rachana Bhatt') or (speaker.Presenter == 'Aisha Baisalova') or (speaker.Presenter == 'Chad Cotti') or (speaker.Presenter == 'Vinish Shrestha') or (speaker.Presenter == 'Kathleen Hui') or (speaker.Presenter == 'Abigail Friedman') or (speaker.Presenter == 'Eye Eoun Jung') %}
+{% elsif (speaker.Presenter == 'Rizki Siregar') or (speaker.Presenter == 'Dan Sacks') or (speaker.Presenter == 'Ying Yao') or (speaker.Presenter == 'Rachana Bhatt') or (speaker.Presenter == 'Aisha Baisalova') or (speaker.Presenter == 'Chad Cotti') or (speaker.Presenter == 'Kathleen Hui') or (speaker.Presenter == 'Abigail Friedman') or (speaker.Presenter == 'Eye Eoun Jung') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}" download="{{ speaker.Draft }}"> Working Paper</a></td>
+</tr>
+
+{% elsif (speaker.Presenter == 'Vinish Shrestha') %}
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}" download="{{ speaker.Draft }}"> Working Paper</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}"> Published Paper (December 2024)</a></td>
 </tr>
 
 {% elsif (speaker.Presenter == 'Russell Leonard') %}
