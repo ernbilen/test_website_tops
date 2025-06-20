@@ -222,7 +222,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td id="anchor1" colspan="2" height="40" valign="top" class="registration">Links (Other materials are embargoed until a later date): <a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a></td>  
 </tr>
-{% elsif (speaker.Presenter == 'Travis Whitacre') or (speaker.Presenter == 'Colin Reinhardt') or (speaker.Presenter == 'Caitlin Notley') or (speaker.Presenter == 'Doris Gammon') or (speaker.Presenter == 'Erfan Loghmani') or (speaker.Presenter == 'Jonathan Livingstone-Banks') or (speaker.Presenter == 'Davide Dragone') or (speaker.Presenter == 'Dana Mowls Carroll') %}
+{% elsif (speaker.Presenter == 'Travis Whitacre') or (speaker.Presenter == 'Colin Reinhardt') or (speaker.Presenter == 'Caitlin Notley') or (speaker.Presenter == 'Doris Gammon') or (speaker.Presenter == 'Shweta Mital') or (speaker.Presenter == 'Erfan Loghmani') or (speaker.Presenter == 'Jonathan Livingstone-Banks') or (speaker.Presenter == 'Davide Dragone') or (speaker.Presenter == 'Dana Mowls Carroll') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}"> Paper</a>|<a href="{{ speaker.Transcript }}" download="{{ speaker.Transcript }}">Transcript</a></td>
 </tr>

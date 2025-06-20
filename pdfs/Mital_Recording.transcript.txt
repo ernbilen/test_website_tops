@@ -1,0 +1,818 @@
+WEBVTT
+
+1
+00:00:03.260 --> 00:00:21.690
+Chris Lowenstein: Welcome to the tobacco online policy seminar tops. Thank you for joining us today. I'm Dr. Chris Lowenstein, an incoming postdoctoral fellow at the University of Missouri tops is organized by Mike Pesco, at University of Missouri, C. Shang at the Ohio State University, Michael Darden at Johns Hopkins University.
+
+2
+00:00:21.800 --> 00:00:27.480
+Chris Lowenstein: Jamie Hartman Boyce at University of Massachusetts, Amherst and Justin White, at Boston University.
+
+3
+00:00:27.810 --> 00:00:31.779
+Chris Lowenstein: The seminar will be 1 h with questions from the Moderator and discussant.
+
+4
+00:00:31.800 --> 00:00:58.459
+Chris Lowenstein: The audience may post questions and comments in the Q. And a panel, and the moderator will draw from these questions and comments in conversation with the presenter. Please review the guidelines on tobaccopolicy.org for acceptable questions. Please keep the questions professional and related to the research being discussed, questions that meet the seminar series. Guidelines will be shared with the presenter afterwards, even if they're not read aloud. Your questions are very much appreciated.
+
+5
+00:00:58.750 --> 00:01:14.610
+Chris Lowenstein: This presentation is being video recorded and will be made available along with presentation, slides on the tops website, tobaccopolicy.org. I will now turn the presentation over to today's Moderator, Justin White, from Boston University to introduce the Speaker.
+
+6
+00:01:15.820 --> 00:01:34.420
+Justin White: Today we continue our summer. 2025. Season, with a single paper. Presentation by Shweta Mital, entitled are E-cigarettes, Substitutes, or Complements to combustible cigarettes among youths evidence from Canada. This presentation was selected by a competitive review process by submission through the Tops website
+
+7
+00:01:34.700 --> 00:01:49.870
+Justin White: is a health economist and assistant professor at the University of Manitoba. She earned her Phd. In 2021 from Memorial University, and completed a postdoctoral fellowship there before joining the University of Manitoba in 2023.
+
+8
+00:01:49.920 --> 00:02:09.510
+Justin White: Her research spans 2 areas of health economics, namely, evaluation of health policies, particularly substance use policies and health technology assessment. Dr. Hai Nguyen, a professor at Memorial University, is a co-author of the study, and will answer select questions in the Q. And A. Dr. Mittal. Thank you for presenting for us today.
+
+9
+00:02:15.470 --> 00:02:21.830
+Shweta Mital: Thank you very much for the kind introduction. I'll not share my slides.
+
+10
+00:02:28.390 --> 00:02:32.199
+Shweta Mital: I hope the slides are on your screen now.
+
+11
+00:02:32.580 --> 00:02:33.160
+Justin White: That's good.
+
+12
+00:02:34.640 --> 00:02:45.669
+Shweta Mital: Right. Good afternoon, everyone, and thank you very much for giving me the opportunity to be presenting this work here today. I'm very excited to present this work that I've co-authored with Hai Nguyen.
+
+13
+00:02:45.950 --> 00:02:55.850
+Shweta Mital: and in this paper we essentially revisit the question of whether e-cigarettes are substitutes or complements to combustible cigarettes among youth, but with a slight twist.
+
+14
+00:02:56.030 --> 00:03:10.680
+Shweta Mital: And I'll come to that in a bit. First.st Some disclosures. The funding for this study came from the Canadian Institute of Health Research and the Canada Research has program. I have no conflicts to disclose in terms of funding from tobacco related sources.
+
+15
+00:03:12.530 --> 00:03:20.550
+Shweta Mital: so as researchers and others interested in the field of tobacco, related research. You, it's probably not surprising to you that
+
+16
+00:03:20.760 --> 00:03:27.979
+Shweta Mital: smoking among youth has gone down recently, both in the United States and in Canada. So the graph on the left
+
+17
+00:03:28.180 --> 00:03:36.819
+Shweta Mital: shows the decline in youth, smoking among youth, aged about 12 to 19 years in Canada.
+
+18
+00:03:37.260 --> 00:03:39.890
+Shweta Mital: and at the same time, however.
+
+19
+00:03:40.150 --> 00:03:49.840
+Shweta Mital: vaping among youth has gone up. And so the graph on the right shows that between 2015, 16 and 2018 19,
+
+20
+00:03:50.030 --> 00:04:00.379
+Shweta Mital: youth vaping has risen from about 29% to 45%. That's about one and a half times increase. And that's the red line up there.
+
+21
+00:04:00.540 --> 00:04:06.459
+Shweta Mital: So then the obvious question, then, is, What is the relationship between these 2 phenomena?
+
+22
+00:04:06.600 --> 00:04:21.020
+Shweta Mital: Is youth smoking, going down because youth are substituting, vaping for smoking? Now those who oppose e-cigarettes would argue that the decline in smoking started well before e-cigarettes came into the market.
+
+23
+00:04:21.170 --> 00:04:32.069
+Shweta Mital: And so this decline is not really attributable to e-cigarettes. In fact, they would say, e-cigarettes are a gateway to smoking, but then those who support e-cigarettes would say.
+
+24
+00:04:32.714 --> 00:04:38.030
+Shweta Mital: the recent declines in smoking are much larger than what we've seen in earlier years.
+
+25
+00:04:38.270 --> 00:04:47.410
+Shweta Mital: and if e-cigarettes were indeed a gateway to smoking, then we should have seen a resurgence in smoking when vaping increased. But we don't really see that.
+
+26
+00:04:48.110 --> 00:04:55.500
+Shweta Mital: So this debate essentially boils down to the question, are e-cigarettes, substitutes, or complements to combustible cigarettes.
+
+27
+00:04:56.980 --> 00:05:13.409
+Shweta Mital: Now, there's a growing literature, particularly in the United States, that has sought to answer this substitution versus complementarity debate, using the minimum legal age law for electronic cigarettes as a source of exogenous variation in youth vaping
+
+28
+00:05:14.154 --> 00:05:26.449
+Shweta Mital: but this literature has come to a mixed conclusion. So some of the earlier studies that used aggregate level data found that the minimum legal age laws for e-cigarettes increase cigarette use.
+
+29
+00:05:26.820 --> 00:05:35.600
+Shweta Mital: And if these laws also reduce e-cigarette use which we would expect if these laws are effective, then e-cigarettes and cigarettes would be substitutes.
+
+30
+00:05:36.030 --> 00:05:47.940
+Shweta Mital: Then the later studies that used individual level data found mixed results. Some of them found a reduction in cigarette use associated with the minimum legal age law for e-cigarettes, others found an increase.
+
+31
+00:05:49.850 --> 00:06:13.389
+Shweta Mital: There's also a broader literature. That's again trying to address the substitution versus complementarity question, using a number of other policies as exogenous. To identify these effects, which include cigarette and e-cigarette taxes. Ban on electronic nicotine delivery systems in Massachusetts, which was implemented in 2020
+
+32
+00:06:13.670 --> 00:06:33.659
+Shweta Mital: and bans on favored vaping products. And again, this literature comes to mixed conclusions depending on which policy is being used to identify the effects which age group the study is looking at, but more or less these studies point towards a substitution story
+
+33
+00:06:33.980 --> 00:06:37.189
+Shweta Mital: that e-cigarettes and combustible cigarettes are substitutes.
+
+34
+00:06:37.560 --> 00:06:50.049
+Shweta Mital: What is, however, lacking so far, is that no study has really teased out the effect of the laws on smoking initiation and cessation separately.
+
+35
+00:06:51.690 --> 00:07:07.109
+Shweta Mital: So in this study we revisit the question of whether the e-cigarettes and combustible cigarettes are substitutes or complements. Again, using the minimum legal age law for e-cigarettes as a source of exogenous variation in youth vaping.
+
+36
+00:07:07.390 --> 00:07:26.840
+Shweta Mital: But we go beyond looking at just the effect of the laws on smoking participation, to try to identify the mechanisms through which these effects come about. So specifically, do these laws increase or reduce smoking, initiation, smoking cessation, or both.
+
+37
+00:07:27.560 --> 00:07:31.490
+Shweta Mital: So let's talk a little bit more about these mechanisms.
+
+38
+00:07:32.140 --> 00:07:43.670
+Shweta Mital: So you can think of the effect of these laws on smoking participation or prevalence as a combination of the effect on smoking initiation and the effect on smoking cessation.
+
+39
+00:07:44.250 --> 00:07:50.009
+Shweta Mital: Now in terms of smoking initiation for those who've never smoked.
+
+40
+00:07:50.680 --> 00:08:06.670
+Shweta Mital: What we would expect is that the e-cigarette minimum legal age would reduce access to e-cigarettes and therefore reduce initiation of e-cigarettes, and if e-cigarettes are a gateway to combustible cigarettes, then we would expect these laws to also discourage smoking initiation.
+
+41
+00:08:07.210 --> 00:08:13.319
+Shweta Mital: but at the same time. Now that these laws are making e-cigarettes less accessible.
+
+42
+00:08:13.470 --> 00:08:20.319
+Shweta Mital: and these are youth who have never smoked before, they may be more likely to start smoking instead.
+
+43
+00:08:21.550 --> 00:08:38.730
+Shweta Mital: then talking about cessation for those who are currently smoking, a lot of these people often use e-cigarettes as a smoking cessation tool. And so when the minimum legal age law makes e-cigarettes less available, less accessible.
+
+44
+00:08:39.000 --> 00:08:45.940
+Shweta Mital: These individuals might continue to smoke, and so it may, it may make them less likely to quit smoking.
+
+45
+00:08:47.090 --> 00:09:03.210
+Shweta Mital: So then, the effect on smoking participation is is driven by actually what happens on what happens to smoking initiation? What happens to smoking cessation that would determine the the combined effect on smoking prevalence.
+
+46
+00:09:04.470 --> 00:09:10.890
+Shweta Mital: So we basically tried to tease apart these 2 effects on initiation and cessation. How do we do that?
+
+47
+00:09:11.490 --> 00:09:28.799
+Shweta Mital: We basically explored the variation in the adoption of minimum legal age law across Canadian provinces. So between 2015 and 2017, 8 of the 10 Canadian provinces adopted the minimum Legal Age law. 2 of these, Quebec and Manitoba
+
+48
+00:09:28.980 --> 00:09:42.760
+Shweta Mital: set the minimum legal age at 18, and the others set the minimum legal age at 19, and then in May of 2018, the Federal minimum Legal Age law came about and they set the minimum legal age at 18 across the board.
+
+49
+00:09:45.340 --> 00:09:55.290
+Shweta Mital: So we use the two-way fixed effects model where we regress the outcome on the minimum legal age law, which is the difference in differences term.
+
+50
+00:09:56.020 --> 00:10:15.319
+Shweta Mital: we control for individual level, demographic characteristics, age, sex and household size, province level time, varying factors, cigarette price, unemployment rate to control for the economic climate in the province and the presence of Menthol secret bans. And of course we include province and time, fixed effects.
+
+51
+00:10:15.830 --> 00:10:21.810
+Shweta Mital: We estimate this difference in differences, model using an ordinary, least squares regression.
+
+52
+00:10:22.000 --> 00:10:37.939
+Shweta Mital: And in the context of Canada, where we have 10 provinces, we face the challenge of small number of clusters. And so we use the effective number of clusters method by Kurdish, Nepal, and Staker Ward. For statistical inference. To account for these small number of clusters.
+
+53
+00:10:39.050 --> 00:10:54.650
+Shweta Mital: we additionally use a triple differences design. Where we compare, where we also compare outcomes between the the youth who are below the minimum legal age, and who are therefore targeted by this law.
+
+54
+00:10:55.030 --> 00:11:03.490
+Shweta Mital: and those were above the minimum legal age, but are below age 24. Just to keep the treated and controlled age groups as comparable as possible
+
+55
+00:11:05.080 --> 00:11:15.939
+Shweta Mital: in terms of outcomes. We look at 2 participation outcomes whether or not the respondent ever smoked, and whether or not they currently smoke
+
+56
+00:11:16.710 --> 00:11:38.620
+Shweta Mital: in terms of initiation, we look at past 12 month initiation over smoking initiation overall, and then broken down into whether the initiation is into regular smoking or into experimental smoking, and in terms of smoking cessation. We look at past 12 months smoking cessation, all these are binary outcomes. Yes, no outcomes.
+
+57
+00:11:39.270 --> 00:11:49.029
+Shweta Mital: The data for these outcomes comes from the Canadian tobacco use monitoring survey, which is a nationally representative survey of Canadians
+
+58
+00:11:49.130 --> 00:12:04.560
+Shweta Mital: and its replacement. The Canadian tobacco, alcohol, and drug Survey. We also use another survey the youth, smoking survey and replacement, the Canadian student tobacco, alcohol, and drug survey, which is again nationally representative survey, but of youth only in grades
+
+59
+00:12:04.840 --> 00:12:09.409
+Shweta Mital: 6 to 12, and we use this. These surveys in a robustness check.
+
+60
+00:12:10.170 --> 00:12:15.119
+Shweta Mital: The study period of our analysis is from 2,004 to 2017.
+
+61
+00:12:15.380 --> 00:12:20.010
+Shweta Mital: There were 2 reasons why we stopped at 2017 first, st
+
+62
+00:12:20.130 --> 00:12:34.229
+Shweta Mital: the Federal minimum Legal Age law came about in 2018, and so after that all provinces essentially become treated provinces, and so given the recent advances in the difference in differences. Literature. If you were to compare these
+
+63
+00:12:34.240 --> 00:12:54.110
+Shweta Mital: treated provinces that became treated after the Federal minimum legal age. Law came about with provinces that had implemented the law earlier. Then we would run into the issue of forbidden comparisons, and the two-way fixed effects estimates would likely be biased. So that was the 1st reason why we started 2017.
+
+64
+00:12:54.500 --> 00:13:01.980
+Shweta Mital: The second reason was more of a logistical issue. The data on initiation and cessation outcomes were available only up to 2017.
+
+65
+00:13:04.720 --> 00:13:10.990
+Shweta Mital: Now I show you the survey questions that we use to answer. Sorry to construct these outcomes
+
+66
+00:13:11.090 --> 00:13:18.309
+Shweta Mital: we 1st looked at ever cigarette use which was based on the question, have you ever smoked a whole cigarette?
+
+67
+00:13:18.810 --> 00:13:44.079
+Shweta Mital: We also then looked at current smoking which followed the standard statistics candidate definition of a current smoker, which is basically a person who currently smokes cigarettes daily or occasionally for smoking initiation. In the past 12 months. There was no survey question that directly asked respondents whether or not they started smoking in the past 12 months, but we do know from the survey.
+
+68
+00:13:44.140 --> 00:13:56.870
+Shweta Mital: the age at which they started smoking and their current age. So we match those 2 to see if the age, if the 2 ages match, then we say, the person started smoking in the past 12 months.
+
+69
+00:13:57.420 --> 00:14:08.110
+Shweta Mital: and then, based on whether they said they're a current smoker or an experimental smoker, we classified them into initiation into regular smoking versus experimental smoking.
+
+70
+00:14:08.280 --> 00:14:20.779
+Shweta Mital: And then the past 12 months, smoking cessation outcome was based on the question, When did you stop smoking, so they said they stopped smoking less than a year ago. Then it was they were. They were
+
+71
+00:14:21.060 --> 00:14:28.509
+Shweta Mital: classified as having having quit in the past 12 months, and and otherwise they were not.
+
+72
+00:14:28.730 --> 00:14:33.509
+Shweta Mital: So I guess we'll stop here for questions if anyone has any.
+
+73
+00:14:34.590 --> 00:15:04.420
+Justin White: Great thanks so much. I want to encourage our audience to keep placing questions in the Q. And a panel. And now we're going to turn to our discussant. Our discussant today is Dr. Reviti Sturyana Rayana, an assistant professor at the O'donnell School of Public Health at Ut Southwestern Medical Center. Her research sits at the intersection of health economics and public policy with ongoing work, investigating how tobacco regulations, influence consumer choices around cigarettes and other harm reduction
+
+74
+00:15:04.420 --> 00:15:12.430
+Justin White: products across multiple countries. So ramaty, do you have any questions at this stage for Shweta.
+
+75
+00:15:12.430 --> 00:15:29.570
+Revathy Suryanarayana: Yeah, so thanks so much, Justin, for the introduction. And thank you, Shweta, and the organizers of tops for allowing me to discuss the paper. I really enjoyed reading the paper. I thought it was very thoughtful and very well written throughout, and
+
+76
+00:15:29.570 --> 00:15:55.139
+Revathy Suryanarayana: I really appreciated how you went beyond thinking just about smoking prevalence and try to distinguish between smoking cessation and smoking initiation, and also the careful discussion of the mechanisms behind how these 2 products, e-cigarettes and combustible cigarettes would be interacting. So at this point I had 2 questions which sort of
+
+77
+00:15:56.220 --> 00:15:58.686
+Revathy Suryanarayana: delves into the background of
+
+78
+00:15:59.380 --> 00:16:03.340
+Revathy Suryanarayana: background at this point of your sample time period. So
+
+79
+00:16:03.570 --> 00:16:16.028
+Revathy Suryanarayana: the 1st question is about youth tobacco use patterns. So I was just wondering what the broader landscape of e-cigarette use was among youth. So what
+
+80
+00:16:16.820 --> 00:16:19.800
+Revathy Suryanarayana: do we know? Something.
+
+81
+00:16:33.630 --> 00:16:36.169
+Shweta Mital: Sorry I thought, think.
+
+82
+00:16:36.431 --> 00:16:40.350
+Justin White: Yeah, the audio is frozen on on my end. Is that for you, too, Shvata?
+
+83
+00:16:40.620 --> 00:16:41.970
+Shweta Mital: Yes, yes.
+
+84
+00:16:41.970 --> 00:16:42.610
+Justin White: Okay.
+
+85
+00:16:45.610 --> 00:16:47.660
+Justin White: Brevity, are you? Are you there with us?
+
+86
+00:16:50.130 --> 00:17:17.899
+Justin White: Okay, maybe I'll jump in with one clarifying question and hopefully, she'll join us in a second. So you mentioned that 2 of the the provinces had different age cutoffs. I think it was Quebec and Manitoba, and I was curious, so I think that would presumably affect your triple differences in terms of who the targeted group or not is, did you make any other sort of accommodation for the fact that there were different. legal age.
+
+87
+00:17:18.010 --> 00:17:19.989
+Justin White: The cutoffs for those provinces.
+
+88
+00:17:20.270 --> 00:17:44.439
+Shweta Mital: Yes, definitely. So the target age was used. Sorry the minimum legal age was used as the cutoff. So for the provinces that had 18 as the minimum legal age. The control Age group started from 19 and onwards. Sorry 18 and above, and for those that had 19 as the minimum legal age. We defined it accordingly. It's 19. And above, was the control age group.
+
+89
+00:17:44.790 --> 00:17:46.190
+Shweta Mital: Okay? Crazy.
+
+90
+00:17:47.281 --> 00:17:58.369
+Justin White: So I'm not seeing any other questions in the QA. I think Reviti can jump in when she comes back hopefully at the end. And so I would say, maybe feel free to continue.
+
+91
+00:17:59.350 --> 00:18:00.030
+Shweta Mital: Great.
+
+92
+00:18:03.250 --> 00:18:07.149
+Shweta Mital: So then, moving on to the results.
+
+93
+00:18:07.690 --> 00:18:12.612
+Shweta Mital: So I'll 1st show you the trends in smoking participation. So
+
+94
+00:18:13.470 --> 00:18:35.440
+Shweta Mital: these graphs show the trends in participation both in the provinces that did and did not adopt the minimum legal age law. So the solid line represents participation in provinces that adopted the minimum legal Age law at some point, and the dashed lines are provinces that never adopted the law. The 2 vertical lines
+
+95
+00:18:35.570 --> 00:18:45.049
+Shweta Mital: represent the time period between which the provinces adopted the minimum legal age law, which is between 2015 and 2017. And again, this staggered adoption here.
+
+96
+00:18:45.630 --> 00:18:57.229
+Shweta Mital: So what you'll notice here is that there's a downward trend in participation, continuous downward trend in both provinces that did and did not adopt the law.
+
+97
+00:18:57.330 --> 00:19:19.589
+Shweta Mital: Now we are in the context of staggered adoption. So there's not a lot that we can make out for the 2015 to 2017 time period in terms of differences between the provinces that did and did not adopt the law. But overall there doesn't seem to be a lot happening, and the trends don't seem to diverge very much.
+
+98
+00:19:20.570 --> 00:19:42.369
+Shweta Mital: Here are the difference and differences results. So I show you the results for the full sample. And then we also look at the 2 age groups 15 to 16 and 17 to 18. And the reason we break down into 2 age groups is to see whether the effects are different for youth who are closer to the minimum legal age and those who are further away.
+
+99
+00:19:42.850 --> 00:19:56.629
+Shweta Mital: So you can see from this table here. There's no effect of the minimum legal age law on smoking participation, either in the full sample or in the 2 age, groups of 15 to 16 and 17 to 18 year olds.
+
+100
+00:19:57.880 --> 00:20:08.279
+Shweta Mital: And then here are the difference in the triple difference, analysis results. And again, they support the difference in difference results that there's no effect of the laws on smoking participation.
+
+101
+00:20:10.450 --> 00:20:29.669
+Shweta Mital: Now let's turn to the mechanisms where there's a lot more going on. And so you'll see from the 1st column here that the minimum legal age law had an overall led to an overall reduction in smoking initiation in the past 12 months.
+
+102
+00:20:30.410 --> 00:20:40.100
+Shweta Mital: and this reduction is driven by almost similar reductions in initiation into both regular smoking and into experimental smoking.
+
+103
+00:20:41.470 --> 00:20:53.349
+Shweta Mital: although the coefficient is only statistically significant for experimental smoking, and then in terms of smoking cessation. Again, the coefficient is negative, although it's imprecisely estimated.
+
+104
+00:20:54.403 --> 00:21:03.636
+Shweta Mital: But it's a negative sign. And these effects this reduction in both smoking initiation and possibly smoking cessation
+
+105
+00:21:04.630 --> 00:21:08.920
+Shweta Mital: is concentrated largely among the 17 to 18 year olds.
+
+106
+00:21:09.800 --> 00:21:21.929
+Shweta Mital: I would want to mention here that the the imprecise estimate for smoking cessation is likely due to the smaller sample size of the current smokers. In our sample
+
+107
+00:21:24.150 --> 00:21:37.859
+Shweta Mital: the triple difference results again, support the difference in differences results. So again, a reduction in smoking, initiation and smoking cessation, which is largely concentrated among 17 to 18 year olds so
+
+108
+00:21:38.090 --> 00:21:55.680
+Shweta Mital: overall these results, then suggest that there's another effect on participation. But there's a reduction in smoking initiation, which is offset by a reduction in cessation, and these effects are concentrated among the older youth who are closer to the minimum legal age.
+
+109
+00:21:56.860 --> 00:22:25.360
+Shweta Mital: Now we are in the context of staggered policy, adoption, and from the recent difference in differences, literature in the context of staggered policy adoption, where there is heterogeneous policy effects. The two-way fixed effects estimates are likely to be biased, and so we used bacon decomposition to break down our two-way fixed effects, estimate and weight the good versus bad comparisons.
+
+110
+00:22:25.870 --> 00:22:47.189
+Shweta Mital: And so what we noticed is that most 99% of our comparisons are actually good comparisons where we are comparing the either comparing the treated provinces to never treated provinces, or we are comparing early treated provinces to late treated provinces, using late treated provinces as controls
+
+111
+00:22:48.190 --> 00:23:11.329
+Shweta Mital: only about 1% of our comparisons are forbidden comparisons where we are comparing the late provinces, using early treated provinces as controls. And even so, you'll notice that the sign of these coefficients of these 2, by 2 estimates, are similar to that, and the good comparisons
+
+112
+00:23:13.340 --> 00:23:14.410
+Shweta Mital: now
+
+113
+00:23:15.020 --> 00:23:31.849
+Shweta Mital: staggered. Policy, adoption and the bias into a fixed effects, estimates would arise, and the problem negative weights in this context would arise only if the policy effects are heterogeneous. So
+
+114
+00:23:32.060 --> 00:23:38.160
+Shweta Mital: we next used the test for homogeneity by Jaquila, which
+
+115
+00:23:38.420 --> 00:23:50.459
+Shweta Mital: essentially relies on the idea that the treatment of the policy effects in this context would be homogeneous if the residualized outcome which basically partials out the effect of
+
+116
+00:23:51.920 --> 00:23:59.110
+Shweta Mital: but which is the which is basically partialing out the effect of province and your fixed effects.
+
+117
+00:23:59.590 --> 00:24:08.569
+Shweta Mital: The relationship of that residualized outcome with residualized treatment. If that is linear, then the policy effects are homogeneous.
+
+118
+00:24:09.950 --> 00:24:21.009
+Shweta Mital: which basically then translates into the fact that the slope is the same between the treatment and the control provinces. So what you'll notice here is that
+
+119
+00:24:21.170 --> 00:24:31.430
+Shweta Mital: when we apply this to our context, the coefficients on the interaction term are not statistically significant for any of the outcomes.
+
+120
+00:24:31.600 --> 00:24:34.040
+Shweta Mital: meaning thereby that the
+
+121
+00:24:34.180 --> 00:24:51.980
+Shweta Mital: slope does not differ between provinces that did versus did not adopt the minimum legal age law. So together, this test for homogeneity and vacant decomposition suggests that the tuba fixed effects estimates are unlikely to be biased in our context.
+
+122
+00:24:53.340 --> 00:25:06.450
+Shweta Mital: we also test for pre-policy trends in outcomes. And you'll see from these graphs there's no significant difference in trends between treated and control provinces in the pre-policy period.
+
+123
+00:25:08.130 --> 00:25:17.050
+Shweta Mital: And then we also did a bunch of robustness checks where we restricted the time period to 2010 to 2017, essentially to rule out any
+
+124
+00:25:17.320 --> 00:25:20.639
+Shweta Mital: any effects of historical policies
+
+125
+00:25:21.160 --> 00:25:29.330
+Shweta Mital: we also control for province specific linear time trends. We control for wave-free air laws that a number of provinces implemented.
+
+126
+00:25:29.570 --> 00:25:44.980
+Shweta Mital: we restricted the age group to up to age 22 instead of up to age 24 in the triple difference analysis, just to see if the the Controlled Age group would have any effect on our on our estimates.
+
+127
+00:25:45.885 --> 00:25:56.949
+Shweta Mital: We also excluded provinces that adopted the Menthol ban. At the same time, 3 provinces adopted at the same time, Nova Scotia, Quebec, and Ontario, we excluded those, and, as I mentioned earlier.
+
+128
+00:25:57.200 --> 00:26:17.980
+Shweta Mital: we used another survey, the youth smoking survey and its replacement, and ran the same analyses again. And in all of these analyses our main findings continued to hold, which is that there's no effect on smoking participation, and our effects on smoking initiation and cessation also continued to hold.
+
+129
+00:26:20.440 --> 00:26:21.470
+Shweta Mital: So
+
+130
+00:26:21.710 --> 00:26:43.849
+Shweta Mital: to summarize, then, what we find is that the minimum legal age law for e-cigarettes have no effect on smoking participation. But these null effects are actually masking a reduction in smoking initiation that's being offset by a reduction in smoking cessation, and these effects are particularly driven by the 17 to 18 year olds.
+
+131
+00:26:44.210 --> 00:26:49.120
+Shweta Mital: What does that mean for the relationship between e-cigarettes and combustible cigarettes? Then
+
+132
+00:26:49.250 --> 00:27:08.409
+Shweta Mital: it depends on the smoking status of people. So if we are looking at never smokers, then the relationship between combustible cigarettes and electronic cigarettes is likely that of complements, whereas if we are looking at existing smokers, and the relationship is that of substitutes.
+
+133
+00:27:08.930 --> 00:27:23.890
+Shweta Mital: Then, going back to the point from where I started. These findings, then explain why the rising e-cigarette use did not have any effect on the declining trend in combustible cigarette use that we've seen in recent years.
+
+134
+00:27:25.410 --> 00:27:55.259
+Shweta Mital: What does that imply from a policy perspective? Well, 1st of all, there will be its concerns. That minimum legal age laws will induce youth to switch to combustible cigarettes. Perhaps it may actually prevent these youth from starting smoking. But at the same time policymakers need to consider the possible negative consequences of these laws and smoking cessation, because these existing smokers may be less likely to quit.
+
+135
+00:27:56.320 --> 00:27:59.710
+Shweta Mital: Thank you very much, and I'd be happy to take any questions.
+
+136
+00:28:00.850 --> 00:28:08.649
+Justin White: Thanks so much. That was great. Rabbit, I think. You're back with us, do you? Wanna ask any questions that you have.
+
+137
+00:28:09.390 --> 00:28:19.989
+Revathy Suryanarayana: I'll attempt to ask questions before I cut off again. Apologize for that. But the 1st question I had with respect to the results
+
+138
+00:28:20.090 --> 00:28:45.120
+Revathy Suryanarayana: is essentially you're looking at sort of the second stage of a law that affects e-cigarettes right? And then so I was wondering if you had any thoughts on how this is affecting the 1st stage, which is, how does this law, or how has it changed e-cigarette use among youth? So do you have any statistics on that? Or do you have any evidence for that?
+
+139
+00:28:45.710 --> 00:29:14.879
+Shweta Mital: Yes, a great question. We actually did another. My co-author actually published another study where we very looked at the effects of the minimum Legal Age law on electronic cigarette use among youth the same age group. And the conclusion of that study was that there was still an increase in e-cigarette use, but that the rate of increase was lower after the minimum legal age law came into force, so
+
+140
+00:29:15.110 --> 00:29:21.919
+Shweta Mital: the law did not reverse the trend in e-cigarette use among youth, but it slowed down. The increase.
+
+141
+00:29:22.290 --> 00:29:23.060
+Revathy Suryanarayana: I see?
+
+142
+00:29:23.845 --> 00:29:30.880
+Revathy Suryanarayana: So which brings me to another question which I had for the 1st part. But I couldn't ask which is, do you?
+
+143
+00:29:31.910 --> 00:29:59.810
+Revathy Suryanarayana: Because the central identification in the paper is essentially relying on differences in how Mla laws were enforced across provinces. I was wondering if you can talk a little bit more about how these laws were actually enforced on the ground, so was there a real variation in terms of how strictly they were implemented or monitored across provinces. And just to get a sense of
+
+144
+00:29:59.930 --> 00:30:07.209
+Revathy Suryanarayana: you know, what was it from the perspective of young adults and retailers who were trying to access e-cigarettes. At this time.
+
+145
+00:30:10.565 --> 00:30:11.510
+Shweta Mital: So
+
+146
+00:30:11.870 --> 00:30:23.146
+Shweta Mital: so there there is! As again. This was. This goes back to the previous study, and so there we looked at the ease of access. And you did say that
+
+147
+00:30:23.670 --> 00:30:33.816
+Shweta Mital: There was the the act, the ease of access to e-cigarettes was became harder after the laws. So, but then
+
+148
+00:30:34.650 --> 00:30:37.889
+Shweta Mital: they also try to rely on social sources.
+
+149
+00:30:39.010 --> 00:30:39.440
+Shweta Mital: So
+
+150
+00:30:40.250 --> 00:30:48.919
+Shweta Mital: on the one hand, the minimum legal age law is is restricting them. But then they are switching to more to social sources. So that is
+
+151
+00:30:49.740 --> 00:30:53.859
+Shweta Mital: bit of a policy issue that needs to be monitored. I guess.
+
+152
+00:30:54.250 --> 00:30:54.960
+Revathy Suryanarayana: Yeah.
+
+153
+00:30:55.190 --> 00:31:13.820
+Revathy Suryanarayana: And and just one last question, when we think about the broader policy implications because this is young adults and the time the age group that you're looking at is usually the time when they're not just using e-cigarettes and cigarettes, or they're also thinking of other risky health
+
+154
+00:31:13.940 --> 00:31:39.649
+Revathy Suryanarayana: behaviors like alcohol, consumption and cannabis use. So have you considered whether these laws, now that it's in effect in the whole country, and it's been almost 5 years right or 7 years, if my math is right. But I'm just curious whether there could be sort of unintended consequences or complementarities in these domains, as well.
+
+155
+00:31:40.860 --> 00:31:55.270
+Shweta Mital: That's a great point. We haven't looked at the effects of the laws on other substances, but that's certainly feasible. Given. There is data on other substances, and would be worth looking into.
+
+156
+00:31:58.015 --> 00:32:02.749
+Revathy Suryanarayana: yeah, that's all the questions I have. Justin and sorry for cutting off for you.
+
+157
+00:32:03.880 --> 00:32:29.740
+Justin White: No problem at all. Okay. Great. So we do have one question in the Q&A still and I'd encourage anyone else who has questions to feel free to add any. So this is a question from Jenny Chadwick. Who's asking about? Do you suspect that the reduction in cessation is result in misunderstanding of sales versus uplaws that's
+
+158
+00:32:29.900 --> 00:32:59.500
+Justin White: purchase. Use possession laws. So the sales versus sort of regulating purchase use possession in that, in the way in that. The way even in this research is framing the law is minimum legal age versus minimum legal sales age? And so basically asking about that relationship as well as is the law actually penalizing purchase, use possession and not just sales in Canada.
+
+159
+00:33:04.373 --> 00:33:10.686
+Shweta Mital: I. So the law is penalizing sales not possession.
+
+160
+00:33:11.950 --> 00:33:27.679
+Shweta Mital: and if I've understood the question correctly, the smoking cessation outcome is basically asking respondents whether or not they quit in the past 12 months. So that doesn't really
+
+161
+00:33:27.810 --> 00:33:36.599
+Shweta Mital: it. It's not directly related to whether or doesn't have a minimum legal age foundation there, I mean, it's
+
+162
+00:33:37.060 --> 00:33:40.669
+Shweta Mital: I don't know if I've understood the question correctly.
+
+163
+00:33:41.570 --> 00:33:58.999
+Justin White: I think I interpreted as whether or not well, yeah. So I'm not 100% sure. But I think the idea that do people? Do the youth think that sales is being regulated? Or do they think that youth and possession of being regulated
+
+164
+00:33:59.000 --> 00:34:17.570
+Justin White: in here? Jenny, is clarifying research has shown that when individuals think their behavior is illegal they're less likely to seek treatment. So in other words, maybe she's wondering if there's misreporting because people might think that they're admitting to illegal behavior, I think, is, do you think that there are reporting biases, I guess, is how I would characterize it?
+
+165
+00:34:19.610 --> 00:34:29.840
+Shweta Mital: So with survey data, there is, and these are youth. There is a possibility of desirability bias and reporting biases. But I
+
+166
+00:34:29.989 --> 00:34:50.600
+Shweta Mital: but I think it's fairly clear that these are restrictions on sales, because, there are. So whenever these you go to go to a store to purchase, they have a verification of identity and and all that. So it's it's not just about possession, but sales.
+
+167
+00:34:51.610 --> 00:35:11.070
+Justin White: And there's a question from Mike Pesco. This is actually in the chat for panelists. Any reason why the structural relationship between smoking and vaping among youth would be different in the Us. Versus Canada as of the end of 2018. So how do you sort of reconcile your results versus other published findings in the literature.
+
+168
+00:35:13.228 --> 00:35:25.791
+Shweta Mital: So number of factors could could play a role. So 1st of all, the the minimum legal age in the us is, is, I believe, now been increased to 21. So
+
+169
+00:35:26.300 --> 00:35:30.960
+Shweta Mital: Whether or not the the 18 to 20 year olds would have
+
+170
+00:35:31.100 --> 00:35:40.330
+Shweta Mital: a similar use. Pattern and similar substitution pattern is something to think about, and also the other
+
+171
+00:35:40.520 --> 00:35:57.150
+Shweta Mital: vape free air laws and smoke free air laws that are different in Canada versus in the United States. So those might also play a role in in changing the relationship. Those are some of the factors that I can think of that might lead to differences.
+
+172
+00:35:58.270 --> 00:36:28.150
+Justin White: And Mike has another question for you. The initiation and cessation measures are as of the past 12 months. Could you use a combination of the ever question ever question 12 month, change, question and current question to construct an alternative outcome that would be initiation or cessation more than 12 months ago, and he says that would also be interesting, as the most responsive people might have been impacted early in the e-cigarette era.
+
+173
+00:36:29.640 --> 00:36:31.560
+Justin White: Any thoughts on on that.
+
+174
+00:36:32.090 --> 00:36:40.824
+Shweta Mital: That's certainly very interesting. We. We never did that, but certainly something to look into. Going forward.
+
+175
+00:36:41.430 --> 00:36:48.070
+Shweta Mital: we only focused on the past 12 months, and and did not go beyond beyond that.
+
+176
+00:36:49.510 --> 00:36:57.239
+Justin White: Great so I am not seeing any further questions. I think we
+
+177
+00:36:57.430 --> 00:37:04.880
+Justin White: we're running early. Given where we're at and
+
+178
+00:37:08.280 --> 00:37:09.540
+Justin White: I think
+
+179
+00:37:10.740 --> 00:37:16.387
+Justin White: in that case we might wrap up. Unless revity, do you have anything else that you want to throw out?
+
+180
+00:37:17.290 --> 00:37:18.610
+Justin White: Since we have some more time.
+
+181
+00:37:19.120 --> 00:37:26.988
+Revathy Suryanarayana: I I had a question, but it's more of it's not something related to the paper. But I was just thinking, because this is sort of
+
+182
+00:37:27.550 --> 00:37:34.784
+Revathy Suryanarayana: The your sample time period is still 2018, I believe. Right? 2017, and so
+
+183
+00:37:35.660 --> 00:37:59.559
+Revathy Suryanarayana: there's a lot that happened particularly in the Us. You had the Evali, which sort of changed the relationship between e-cigarettes and cigarettes like how people think about because the risk factor associated with e-cigarettes just went up, even though it I mean the reasons behind that is totally different. But do you think, like the relationship that you, the conclusion that you have in the paper
+
+184
+00:37:59.560 --> 00:38:11.299
+Revathy Suryanarayana: might have been impacted by any such informational shocks? Or do you think there is any reason to believe that they could change the relationship that you observe
+
+185
+00:38:13.970 --> 00:38:22.290
+Revathy Suryanarayana: smoking initiation increased. Because now, you know, when you look at risk perceptions, one became much more.
+
+186
+00:38:25.440 --> 00:38:44.170
+Shweta Mital: Yes, certainly it will be interesting to look at the period beyond 2017, now that the flavors are more popular, and then the bands on flavors come about so the relationships might change.
+
+187
+00:38:44.330 --> 00:39:06.930
+Shweta Mital: and it would also be interesting to then compare how the relationship in the Post Federal minimum Legal aid period with flavor bans and with nicotine cabs is different than what it was in the past. Without these additional policy measures, in place.
+
+188
+00:39:07.110 --> 00:39:08.999
+Justin White: Certainly worth looking into.
+
+189
+00:39:10.510 --> 00:39:11.280
+Revathy Suryanarayana: Thank you.
+
+190
+00:39:12.120 --> 00:39:23.499
+Justin White: And there's 1 more question now in the chat. Can you clarify your definition of smoking cessation? It seems to be successful. Cessation rather than cessation attempts. Is that right?
+
+191
+00:39:24.100 --> 00:39:34.319
+Shweta Mital: Yes, it's successful cessation. So if they said they quit smoking, but they also answered yes to whether the smoking passed 30 days. Then they're not counted.
+
+192
+00:39:36.120 --> 00:39:46.500
+Shweta Mital: The company has quit. Sorry has not has not quit, so they have to. They have to have said that they quit smoking, and they would not have used cigarettes in the past 30 days.
+
+193
+00:39:48.400 --> 00:40:03.579
+Justin White: Okay, great and any other thoughts about sort of like the how your findings relate to the broader literature on minimally minimum legal sales, age and sort of whether you feel that these are consistent with sort of what what's been found elsewhere.
+
+194
+00:40:03.990 --> 00:40:09.100
+Justin White: and and sort of the benefits of including the initiation versus cessation.
+
+195
+00:40:10.300 --> 00:40:26.887
+Shweta Mital: So the broader literature and most studies. Find a substitution story. They relate, they say cigarettes and e-cigarettes are substitutes. We find there's no effect. But then
+
+196
+00:40:27.920 --> 00:40:38.090
+Shweta Mital: that may also be because, we're, we're basically digging a little bit deeper into the the whole story and looking at the mechanism. So
+
+197
+00:40:38.420 --> 00:40:41.640
+Shweta Mital: so substitution would mean secret use
+
+198
+00:40:42.000 --> 00:40:46.130
+Shweta Mital: would have gone up assuming e-cigarette use went down
+
+199
+00:40:46.840 --> 00:40:52.191
+Shweta Mital: Whereas it this would. This might just be driven by
+
+200
+00:40:53.250 --> 00:41:05.154
+Shweta Mital: by a lower sorry, a higher smoking cessation rate. Oh, sorry! A lower smoking cessation rate that could have driven this substitution relationship based on our findings. So
+
+201
+00:41:05.860 --> 00:41:15.059
+Shweta Mital: I think it's important to then dig into the details of of the substitution versus complementarity story, which is what we're doing in this paper.
+
+202
+00:41:16.860 --> 00:41:22.209
+Justin White: Yeah, I think we will give everybody back 15 min of their day. And, Chris, do you wanna take us out? Thanks. So much.
+
+203
+00:41:23.370 --> 00:41:24.620
+Shweta Mital: Thank you very much.
+
+204
+00:41:27.900 --> 00:41:41.530
+Chris Lowenstein: Great great. That's it for today. Thank you. To our presenter moderator and discussant. Finally, thank you to the audience of 185 people for your participation have a tops, notch, weekend.
+
