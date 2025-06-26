@@ -38,7 +38,7 @@ Peter Hajek, Queen Mary University of London \\
 Robert Hornik, University of Pennsylvania \\
 Prabhat Jha, University of Toronto \\
 Mary Kautz, National Institute on Drug Abuse \\
-Brian King, Food and Drug Administration - Center for Tobacco Products \\
+Brian King, Campaign for Tobacco-Free Kids \\
 Ryan Kennedy, Johns Hopkins University \\
 Tessa Langley, University of Nottingham \\
 David Levy, Georgetown University \\
