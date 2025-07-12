@@ -1,0 +1,926 @@
+WEBVTT
+
+1
+00:00:02.980 --> 00:00:16.309
+Reiley Hartmuller: Welcome to the tobacco online policy seminar tops. Thank you for joining us. Today. I'm Riley Hartmuller, a research program coordinator at the Institute for global tobacco control in the Johns Hopkins Bloomberg School of Public Health
+
+2
+00:00:16.720 --> 00:00:32.939
+Reiley Hartmuller: Tops, is organized by Mike Pesco at University of Missouri, C. Shang at the Ohio State University, Michael Darden at Johns Hopkins University, Jamie Hartman Boyce at University of Massachusetts, Amherst and Justin White at Boston University.
+
+3
+00:00:33.080 --> 00:00:45.309
+Reiley Hartmuller: The seminar will be 1 h with questions from the moderator and discussant the audience may pose questions and comments in the Q. And a panel, and the moderator will draw from these questions and comments in conversation with the presenter.
+
+4
+00:00:45.420 --> 00:01:02.559
+Reiley Hartmuller: Please review the guidelines on tobaccopolicy.org for acceptable questions. Please keep the questions professional and related to the research being discussed. Questions that meet the seminar series. Guidelines will be shared with the presenter afterwards, even if they are not read aloud. Your questions are very much appreciated.
+
+5
+00:01:02.690 --> 00:01:18.159
+Reiley Hartmuller: This presentation is being video recorded and will be made available along with presentation slides on the tops website, tobaccopolicy.org. I will turn the presentation over to today's moderator, Michael Darden, from Johns Hopkins University, to introduce our speaker.
+
+6
+00:01:20.120 --> 00:01:33.410
+Michael Darden: Thank you, Riley. Today we continue our summer. 2025, season with a single paper. Presentation by Jamie Hartman Boyce, entitled Interventions for quitting vaping findings from a new Cochrane Living Systematic Review.
+
+7
+00:01:33.480 --> 00:01:55.700
+Michael Darden: Jamie Hartman Boyce is an assistant professor in health, promotion, and policy at the University of Massachusetts. Amherst her research mainly consists of applied evidence synthesis in areas including tobacco control, diet, physical activity and long-term conditions. She's a Cochrane editor and a member of the Cochrane Tobacco Addiction Group, Dr. Hartman Boyce. Thank you for presenting for us today.
+
+8
+00:01:56.260 --> 00:02:03.649
+Jamie Hartmann-Boyce: Thank you so much for giving me the opportunity to do so, and to all of you for being here. I'm just going to go ahead and get my slides up.
+
+9
+00:02:09.370 --> 00:02:31.210
+Jamie Hartmann-Boyce: So I'm going to assume that's all working well, unless someone tells me otherwise, before I get going just to note that my research has been recently or is currently funded by cancer research. Uk, the Nih FDA in the States, the Nihr in the Uk and the World health organization. I also do some research consultancy for the truth initiative.
+
+10
+00:02:31.210 --> 00:02:40.110
+Jamie Hartmann-Boyce: The work I'm presenting today is funded entirely by cancer research. Uk, and I've never received funding from tobacco, nicotine, or pharmaceutical industries.
+
+11
+00:02:40.110 --> 00:03:07.540
+Jamie Hartmann-Boyce: Most important acknowledgement is the team who works on this review. We are a multi institution multinational team and the work we do, especially when it comes to Cochrane reviews, let alone living. Cochrane reviews could never be done by just one or 2 of us. It really and truly is a team effort, and I'm really grateful to all of them for their work, and particularly want to acknowledge Elsa Butler and Nicola Linson, who are the 1st authors of this paper.
+
+12
+00:03:08.730 --> 00:03:33.700
+Jamie Hartmann-Boyce: So today I'm going to start us off with a quick introduction to Cochrane. Then I want to talk a little bit about what we mean when we talk about living systematic reviews, and then go on to this review in particular, including its rationale and its methods. Then there'll be a pause for any questions that the discussant or the audience might have. I'll then go through results and conclusions, and end with time for discussion and further questions.
+
+13
+00:03:35.010 --> 00:04:04.439
+Jamie Hartmann-Boyce: So with anyone unfamiliar with Cochrane, we are a global nonprofit organization that exists essentially to inform people who might be making decisions around their healthcare, whether those be patients, carers, clinicians, or policymakers or guideline developers. Our goal in Cochrane is not to tell people what to do or what the right or wrong decision might be. It's to make sure that when people are making these decisions that can be really impactful
+
+14
+00:04:04.820 --> 00:04:26.670
+Jamie Hartmann-Boyce: to health and well-being, they are doing so with the best available evidence to hand. And the way we do this is through producing systematic reviews. Our reviews are published in the Cochrane Library, and they follow a really strict set of methodological guidance and standards, published in something called the Cochrane Handbook, which is many, many chapters and many, many pages long.
+
+15
+00:04:26.690 --> 00:04:51.300
+Jamie Hartmann-Boyce: Our methods are generally considered gold standard when it comes to synthesizing evidence, and they are designed to not only show a complete picture of what the evidence says in hopefully as unbiased, transparent, and systematic way as possible, but also tell us how much we can trust the evidence in front of us, using established frameworks for that purpose.
+
+16
+00:04:52.070 --> 00:05:21.089
+Jamie Hartmann-Boyce: Now, within Cochrane Cochrane used to exist as a number of different review groups. Funding structures have changed over the last few years, but the Cochrane Tobacco Addiction Group, which I'm a part of, still remains. We were established back in the 19 nineties at the University of Oxford, and funded by the Nihr, which is essentially the British version of the Nih. From our inception until March of 2023, when the Nihr stopped funding all of the review groups in the Uk.
+
+17
+00:05:21.290 --> 00:05:25.920
+Jamie Hartmann-Boyce: At that time, until March 2023, we existed as a group.
+
+18
+00:05:26.120 --> 00:05:42.350
+Jamie Hartmann-Boyce: partly to do our own reviews, but also to support others, doing the review that element, that latter element of supporting others and our editorial function has ended with the lack of our infrastructure funding. But we do continue to get funded to conduct specific Cochrane reviews, one of which I'm going to be presenting today.
+
+19
+00:05:42.950 --> 00:06:01.970
+Jamie Hartmann-Boyce: Our aims as a group are to inform tobacco policy control internationally to inform tobacco control research ensuring it's focused on important, unanswered questions which we've done through priority setting exercises in the past and to contribute in whichever way we can to help reduce tobacco use and its burdens.
+
+20
+00:06:03.160 --> 00:06:28.129
+Jamie Hartmann-Boyce: So the review I am presenting today is one of 2 living systematic reviews that our group manages. Now, what does this mean? Doesn't mean that all other systematic reviews are dead. No, but what we mean when we call something a living, systematic review is that we regularly in our case monthly search for new evidence that might change our reviews, findings in a traditional systematic review or a traditional
+
+21
+00:06:28.130 --> 00:06:41.490
+Jamie Hartmann-Boyce: review. It might be published once, or it might be that a few years later someone revisits it and thinks it's time for an update. But with a living, systematic Review. We are continually looking for that new evidence. There is never a pause on that.
+
+22
+00:06:42.200 --> 00:06:59.129
+Jamie Hartmann-Boyce: We trigger an update to the review, which means we update the analyses in the text. Whenever a new study is identified which initiates creation of a new comparison or outcome within an existing comparison, might change our existing conclusions, or strengthen or weaken our existing conclusions.
+
+23
+00:06:59.800 --> 00:07:23.469
+Jamie Hartmann-Boyce: Living systematic reviews, I think, to many people sound good on paper, but I will put out some warning flags that it is a very time intensive process. So I would not suggest anyone use this method unless they have dedicated funding to do so. And because it's so, time intensive and resource intensive, it really is only appropriate in certain instances. This is where uncertainty exists.
+
+24
+00:07:23.560 --> 00:07:37.930
+Jamie Hartmann-Boyce: where the topic is a policy or clinical priority, and where we know that further studies are underway that could impact decision making. If any of those 3 elements don't apply, then it's probably not appropriate to conduct a review as a living systematic review.
+
+25
+00:07:38.230 --> 00:07:55.679
+Jamie Hartmann-Boyce: So, as I mentioned, this living systematic review is one of 2 that we lead in our team. Both of them are funded by cancer research, Uk and their companion projects. So I just wanted to quickly talk you through this to give you a little bit of context of where this review sits for us and the information available on it.
+
+26
+00:07:56.440 --> 00:08:10.790
+Jamie Hartmann-Boyce: So here we have a snapshot of our website, where we keep all of this information on these 2 living systematic reviews. One is on e-cigarettes for smoking cessation, and the other is on interventions for quitting vaping, which I'm focusing on today.
+
+27
+00:08:11.150 --> 00:08:21.939
+Jamie Hartmann-Boyce: I wanted to point out this box up here in the top right hand corner. The website is here. But also, if you, Google Cochrane E-cigarette living systematic review. This will come up.
+
+28
+00:08:21.940 --> 00:08:41.389
+Jamie Hartmann-Boyce: If you click on this button here you will see whatever studies we found up to the current month that you are looking. So that's where we log all of the new studies we find. And you can see the links to them. And whether or not they're new studies or ongoing studies or new papers linked to an existing study. In our review.
+
+29
+00:08:42.320 --> 00:08:58.659
+Jamie Hartmann-Boyce: Also, further down on this page, we log our news and impact our presentations podcasts and videos, and also some companion products that we produce, including evidence and gap maps and some publications which accompany our main reviews.
+
+30
+00:08:58.660 --> 00:09:18.379
+Jamie Hartmann-Boyce: I did want to give a plug for my colleague, Nicola Linson's and I's Monthly podcast where we interview people who do research on e-cigarettes. And that runs alongside these reviews. So when we find new studies every month that feed into these reviews. We will highlight what that new evidence is on that podcast which is available anywhere, you listen to podcasts.
+
+31
+00:09:19.120 --> 00:09:43.959
+Jamie Hartmann-Boyce: I also wanted to highlight these key publications. This comes up when resource allows. If a policymaker or a member of the public or clinician comes to us with a question that could be answered but by our review, but isn't answered by our review. We will consider if we can do some sort of companion publication that addresses that usually not using Cochrane methods. And so we are always open to those suggestions and feedback
+
+32
+00:09:43.960 --> 00:09:52.529
+Jamie Hartmann-Boyce: as well. And a lot of why we do what we do is because wonderful people who are involved in this research or using this research to make decisions come to us
+
+33
+00:09:52.530 --> 00:09:53.880
+Jamie Hartmann-Boyce: with their questions.
+
+34
+00:09:54.290 --> 00:10:10.559
+Jamie Hartmann-Boyce: So on. Now to our specific review on interventions for quitting vaping. The 1st iteration of this review was published in January of 2025. And today, I'm going to focus on findings from this published review, which is available open access
+
+35
+00:10:10.560 --> 00:10:35.540
+Jamie Hartmann-Boyce: online. But I do want to note that an update to this Review was triggered this spring a new study was published, which was going to in this case likely strengthen one of our conclusions for one of our primary outcomes. So that update is underway at the moment we're planning on submitting it to Cochrane next month, and I'll give you a little bit of a kind of a sneak preview of what's in there at the end, with a note that is very much subject to change, as Peer review has not
+
+36
+00:10:35.540 --> 00:10:36.920
+Jamie Hartmann-Boyce: yet taken place.
+
+37
+00:10:38.580 --> 00:10:42.370
+Jamie Hartmann-Boyce: So to start off with some quick background to this review
+
+38
+00:10:42.880 --> 00:11:01.550
+Jamie Hartmann-Boyce: we set out to look at interventions for quitting, vaping for a number of reasons we knew from looking at guidelines on this, from speaking to people who vape from speaking to clinicians, that there was a lot of uncertainty on how best to support people to stop using nicotine containing vapes
+
+39
+00:11:01.550 --> 00:11:18.890
+Jamie Hartmann-Boyce: in the Uk. For example, the guidance on using e-cigarettes in people who smoke as a way to transition off of smoking, so that once someone is fully transitioned away from smoking, they've quit entirely. They've started vaping. They should then quit vaping when they're no longer at risk of relapse to smoking.
+
+40
+00:11:19.210 --> 00:11:32.260
+Jamie Hartmann-Boyce: However, there's then no information on how they should quit vaping. So this seemed a really big gap in the evidence, and we're also hearing anecdotally some troubling stories, and seeing these published in some newspapers and articles
+
+41
+00:11:32.260 --> 00:11:58.779
+Jamie Hartmann-Boyce: about people who had perhaps never smoked, who started vaping and then were concerned about the impacts vaping was having on their lives and decided to switch over to smoking. We know that, though not harm free nicotine vaping is considerably less harmful than smoking, and so we absolutely don't want people doing. An absence of evidence on how to best to quit vaping is to turn to smoking. That would be a public health disaster.
+
+42
+00:11:59.730 --> 00:12:26.629
+Jamie Hartmann-Boyce: When we think about possible interventions for quitting, vaping, we can think of all the things that we think of when we think of smoking cessation, so those could be pharmacological interventions, behavioral interventions, combinations of the 2. Also, there could be changes to something about the e-cigarette itself. For example, the amount of nicotine in it, or something to do with the sensory aspects of it that could help people cut down and quit vaping ultimately
+
+43
+00:12:27.550 --> 00:12:47.680
+Jamie Hartmann-Boyce: so in terms of how we went about doing this, what's really important to cancer research, Uk to us as our research team and also to Cochrane, is that we involve what Cochrane calls consumers in this and by consumers. What we mean are people who have lived experience of the topic that we're looking at. So in this case, people who have lived experiences of vaping.
+
+44
+00:12:47.980 --> 00:13:02.059
+Jamie Hartmann-Boyce: So to kick off this work we held a consumer planning consultation in June of 2023. This is an online workshop where participants concluded that it would be clear to use the term vape rather than e-cigarette in the review title. So we changed that.
+
+45
+00:13:02.290 --> 00:13:15.020
+Jamie Hartmann-Boyce: and they also suggested a couple of different outcomes that we might add to the review, which included things like change in weight and change in alcohol use. Following vaping cessation interventions which members of the public were interested in.
+
+46
+00:13:15.730 --> 00:13:26.080
+Jamie Hartmann-Boyce: In 2024. As we were wrapping up our initial version of the review. We held a second workshop and online consultation to discuss dissemination plans for the results of our review.
+
+47
+00:13:26.580 --> 00:13:50.870
+Jamie Hartmann-Boyce: And this group has diverse vaping and smoking experiences. So some of them have never smoked. Some of them have smoked in the past or currently smoke. They're from different social backgrounds. They're all reimbursed for their time and our actual grant application for this and our project has a lead consumer contributor whose experience of both smoking and vaping, and we follow a toolkit that is set out by cancer research, Uk.
+
+48
+00:13:51.210 --> 00:14:09.179
+Jamie Hartmann-Boyce: And gives us various resources that we can use to support this involvement. I'm really happy to talk about that. We found it really valuable in terms of making sure what we produce is as useful and usable as possible, and not just all kind of in our sometimes narrow academic mind frame.
+
+49
+00:14:09.450 --> 00:14:25.290
+Jamie Hartmann-Boyce: So, following this rationale and our input from consumers, we landed on the following objectives for this work to conduct a living, systematic review, assessing the benefits and harms of interventions to help people stop vaping compared to each other, or to placebo, or no intervention.
+
+50
+00:14:25.290 --> 00:14:53.770
+Jamie Hartmann-Boyce: and also to assess how these interventions affect the use of combustible tobacco, and whether those effects vary based on participant characteristics, we brought that second one in as one of our primary objectives, because we knew there were a lot of concerns, particularly among people who used e-cigarettes as a way to transition away from smoking, that if they then were to quit vaping, they might relapse to smoking, and we saw that concern coming up in our national guidance in the Uk. Hence adding this in as something we really wanted to look at across these studies.
+
+51
+00:14:55.100 --> 00:15:13.450
+Jamie Hartmann-Boyce: So I'm now going to go on and talk you through our methods, as anyone who has written, read or attempted to read or write. A Cochrane Review knows they're extremely long and detailed documents. I am not going to be going into the nitty gritty of a lot of this. It would be.
+
+52
+00:15:13.450 --> 00:15:25.339
+Jamie Hartmann-Boyce: take us a lot of time, and perhaps not be the most interesting talk to listen to. But all of the information is available up online. I'm also happy to take questions. But just to say, this is really an overview of the methods that I'm giving here.
+
+53
+00:15:26.090 --> 00:15:39.680
+Jamie Hartmann-Boyce: So when it comes to a systematic review, one of the most critical things is defining at the outset what we're going to include in terms of studies. So here we included studies in any participants using any kind of nicotine vape at baseline.
+
+54
+00:15:40.010 --> 00:15:59.109
+Jamie Hartmann-Boyce: It had to be testing any intervention designed to support people who vape to stop vaping. So this could include those things I discussed earlier and behavioral interventions, pharmacological interventions, changes in characteristics of vapes, any combination of those, and if something else popped up that didn't fit into that window, we would also be interested in it, though it hasn't. Yet.
+
+55
+00:15:59.950 --> 00:16:22.239
+Jamie Hartmann-Boyce: We were interested in studies that compared any of these above to each other or to control or placebo conditions in order to be included. Studies had to measure one of our primary or secondary outcomes, and I'll come on to those in a second, and we only included studies where participants were randomized. So randomized controlled trials or randomized crossover trials. This would also include cluster randomized trials.
+
+56
+00:16:23.250 --> 00:16:44.629
+Jamie Hartmann-Boyce: So in Cochrane, we don't say primary and secondary outcomes. Instead, we say critical and important outcomes. So our critical outcomes for this review, and the ones that I'm going to focus on in this presentation are threefold. The 1st is vaping cessation at the longest follow-up point, at least 6 months from the start of the intervention measured on an intention to treat basis.
+
+57
+00:16:44.830 --> 00:17:02.999
+Jamie Hartmann-Boyce: So, including all participants in their originally assigned groups, and we always use the strictest definition of abstinence reported, so prefer biochemically validated results over self-reported ones where possible, and we count people who are lost to follow up as continuing to vape in those analyses.
+
+58
+00:17:03.030 --> 00:17:26.349
+Jamie Hartmann-Boyce: We're also interested in any data on changing combustible tobacco use, in other words, smoking between baseline and the longest follow-up point at least 6 months from the start of the intervention. That 6 month follow-up point is a standard follow-up point across smoking cessation research. So we've applied it here as well. In these studies. Some studies were in people who smoked at baseline. Some studies were in people who didn't. Some studies could be in a mix.
+
+59
+00:17:26.349 --> 00:17:34.429
+Jamie Hartmann-Boyce: So we included any kind of measure and change in combustible tobacco use. This could be uptake, it could be quitting, it could be relapse, etc.
+
+60
+00:17:34.600 --> 00:17:46.869
+Jamie Hartmann-Boyce: We also collected data on the number of participants reporting serious adverse events of one week or longer, as defined by the study authors. If these were reported at more than one time point we used the measure of longest follow-up. Here.
+
+61
+00:17:47.390 --> 00:18:15.139
+Jamie Hartmann-Boyce: Our secondary outcomes, otherwise known as our important outcomes in Cochrane Speak, is a longer list. It includes those vaping cessation and combustible tobacco use outcomes between 3 and 6 months for vaping cessation, and between baseline and longest follow-up for combustible tobacco use. If there were lots of studies in this area we would have just stuck with our 6 month outcome. But we knew that there weren't a ton, and we wanted to be bringing in as much research as we reasonably could.
+
+62
+00:18:15.360 --> 00:18:44.899
+Jamie Hartmann-Boyce: We also collected data on the number of participants reporting adverse events at one week or longer. So those are non-serious adverse events, number of people vaping a substance other than nicotine at longest follow-up at 3 months or longer changes in weight and alcohol use between baseline and longest follow-up point. Again, as suggested by our consumer participants, and changes in a variety of measures in the blood breath and urine at longest follow-up of one week or longer
+
+63
+00:18:46.230 --> 00:19:13.640
+Jamie Hartmann-Boyce: we searched a bunch of different databases for the version of the review that's published that I'm presenting today. Those searches run up to April of 2024. They're all listed here, and these are all standard databases that we would search for any of our Cochrane reviews. We also searched reference lists of eligible studies and abstracts from the 2024 Sr. And T. Conference and Contacted Study Authors where needed for further detail or clarity.
+
+64
+00:19:14.790 --> 00:19:38.490
+Jamie Hartmann-Boyce: We followed standard Cochrane methods for data, extraction and risk of bias. This basically means everything is done independently and duplicate with any discrepancies resolved by discussion or referral to a 3rd reviewer. That's best practice. Because we know with screening and data, extraction and risk of bias, assessment, things can go wrong. Human error creeps in, or misinterpretation can happen. So that's why we do it independently and in duplicate.
+
+65
+00:19:38.940 --> 00:20:04.820
+Jamie Hartmann-Boyce: We assess risk of bias using the Cochrane risk of bias tool version, one for randomized controlled trials that is available in the Cochrane Handbook. But we also published a paper a few years ago, kind of listing our standard considerations for Cochrane tobacco addiction reviews as they apply to this, for example, how cessation is measured or abstinence is measured, what kind of thresholds, we look at for loss to follow up, etcetera, and we followed those for this review, as well
+
+66
+00:20:05.850 --> 00:20:33.529
+Jamie Hartmann-Boyce: in terms of synthesis, or combining the results across the studies. We grouped our studies by comparisons and outcomes reported, we calculated individual study and pooled effects as appropriate, using random effects, mantle Hansel methods to calculate risk ratios with 95% confidence intervals for our dichotomous outcomes. For any continuous outcomes. We used random effects inverse variance methods to calculate mean differences. And again, those 95% confidence intervals
+
+67
+00:20:33.770 --> 00:21:03.069
+Jamie Hartmann-Boyce: we used a measure called I squared to assess statistical heterogeneity. This is a test which results in a percentage which indicates how much of the differences between studies are above that which we might expect due to chance alone. And as a rule of thumb, anything less than 30%. We're really not worried about 30 to 60%. We're curious about if it gets above 60%, we're wondering if it's even appropriate to present pooled results for that study
+
+68
+00:21:04.040 --> 00:21:13.319
+Jamie Hartmann-Boyce: where we had enough studies to do so, we subgrouped our data by age group, looking at those under 18, those over 18 or studies that included a mix of ages.
+
+69
+00:21:13.440 --> 00:21:30.619
+Jamie Hartmann-Boyce: As with all of our Cochrane reviews, we use sensitivity analysis to test the robustness of our results to the exclusion of studies at high risk of bias. And what that means is, we put all the studies in our analysis that are eligible, and then we remove those at high risk of bias to see if removing them changes our results in any meaningful way.
+
+70
+00:21:31.780 --> 00:21:53.800
+Jamie Hartmann-Boyce: Also, we assess the certainty of evidence. So it's not just what does the evidence show? But how much can we trust it? And to do this we use the grade approach, which is something that is used internationally amongst many journals and guideline developers, and I will be talking about grade rating. So I just wanted to quickly introduce these for anyone unfamiliar with these, the idea behind grade
+
+71
+00:21:54.120 --> 00:21:56.370
+Jamie Hartmann-Boyce: grading is that for every
+
+72
+00:21:56.730 --> 00:22:24.819
+Jamie Hartmann-Boyce: primary outcome within our primary comparisons we judge the certainty of evidence, and it can be one of 4 judgments. It can range from high certainty to very low certainty. And what that reflects is how confident we are in our effects, and to me, as a systematic reviewer. What that also means is, how confident am I that another study isn't going to come along and change the results in some meaningful way. Right? So if it's very low certainty, that means we think another study could come along and just complete
+
+73
+00:22:24.820 --> 00:22:45.460
+Jamie Hartmann-Boyce: change our findings. If it's high certainty, it means, you know more studies could come out. But we really think the interpretation of this is going to remain pretty robust. And we consider these grades based on a number of elements, including study, design, risk of bias, inconsistency, or statistical heterogeneity, indirectness. So if for some reason the population studied
+
+74
+00:22:45.460 --> 00:22:55.119
+Jamie Hartmann-Boyce: are possibly not directly relevant to some of the populations of interest and also imprecision, which is a way of saying really wide confidence intervals or small event numbers.
+
+75
+00:22:55.340 --> 00:23:05.380
+Jamie Hartmann-Boyce: So I'm gonna pause there for any questions. I can stop sharing. If that's useful, I'll stop sharing for a second.
+
+76
+00:23:06.200 --> 00:23:26.749
+Michael Darden: Thanks, Jamie. So let me introduce our discussant today. It's going to be Dr. Eli Klemper, who's an associate professor from the University of Vermont. Dr. Klemper's research focuses on dual use of cigarettes and e-cigarettes and interventions to address both products. So quite quite helpful for this discussion. So Eli I will kick it to you.
+
+77
+00:23:26.750 --> 00:23:34.220
+Elias Klemperer: Hi, thanks for having me. I'm excited to be discussing today. So, Jamie, that was very clear introduction and background on
+
+78
+00:23:35.030 --> 00:23:53.179
+Elias Klemperer: description of the, you know, rigorous Cochrane methods used for Meta analysis. So I, you know, start with just 2 comments. One is just how impressive it is to see all the resources surrounding this very thorough review that you did. You know from the website to the podcast and then especially the consumer panel.
+
+79
+00:23:53.230 --> 00:24:12.369
+Elias Klemperer: So that's pretty neat to hear about, and I found it interesting that you know. From the consumer panel came this question of what happens to cigarette smoking when people quit e-cigarettes and something I'm personally very interested in. So it was neat to hear that that came up in the consumer panel as well.
+
+80
+00:24:12.970 --> 00:24:37.829
+Elias Klemperer: You know. Just one quick question. I wonder if you know, either in this review or in Cochrane reviews on tobacco interventions. In general, it's ever considered to do sensitivity analyses where missing at follow-up is handled differently than assumption. You know the standard which is assumption that people are using. And I wonder specifically if that's relevant for vaping cessation or e-cigarette cessation studies
+
+81
+00:24:37.830 --> 00:24:51.580
+Elias Klemperer: given more heterogeneity in baseline use patterns where some people go periods of days without vaping and still engage in treatment to quit, but there are periods of abstinence in between.
+
+82
+00:24:51.910 --> 00:24:59.370
+Jamie Hartmann-Boyce: It's a really good question, Eli. We've done it in the past, for you know, just using one of our smoking cessation reviews as a test case.
+
+83
+00:24:59.630 --> 00:25:22.550
+Jamie Hartmann-Boyce: I think it was the one on nicotine replacement therapy. But don't don't quote me on that. So it's a while ago, and we found it really didn't change our estimates in any meaningful way. Part of what's happening is that what we're estimating here is is a relative risk as opposed to an absolute risk, but it's a good point that it might be different when it comes to vaping, and I think that is certainly something we could explore
+
+84
+00:25:22.600 --> 00:25:38.100
+Jamie Hartmann-Boyce: in the future at the moment. There probably aren't enough studies in the review that if we did it we could say there's definitely no difference, or there's absolutely a difference. But when we amass a few more studies, I think it would be a really interesting thing to look at, because you're right. These populations are very different.
+
+85
+00:25:38.180 --> 00:25:47.160
+Jamie Hartmann-Boyce: and most of the smoking cessation literature is in adults, whereas in this field we're getting more and more studies in young people where that might be different as well.
+
+86
+00:25:51.910 --> 00:25:55.199
+Jamie Hartmann-Boyce: Thanks, those are all that's all I have. It was a very thorough introduction.
+
+87
+00:25:55.200 --> 00:25:56.129
+Jamie Hartmann-Boyce: Is it like.
+
+88
+00:25:57.303 --> 00:26:02.676
+Michael Darden: Okay, great. We have one question that just popped up in the chat. So I'll I'll just go ahead and read it.
+
+89
+00:26:05.250 --> 00:26:06.660
+Michael Darden: let me see.
+
+90
+00:26:07.270 --> 00:26:14.337
+Michael Darden: when e-cigarettes were approved for human consumption over 12 years ago, without any knowledge of how to quit
+
+91
+00:26:16.370 --> 00:26:22.400
+Michael Darden: should should we have done this earlier is, the question, should is, is, how timely is this.
+
+92
+00:26:22.400 --> 00:26:27.510
+Jamie Hartmann-Boyce: Oh, great question. So I mean, I think
+
+93
+00:26:28.010 --> 00:26:43.799
+Jamie Hartmann-Boyce: if it was possible to do so in an ideal world, we would have had more primary studies of interventions for helping people quit vaping earlier, in which case we would want to do a systematic review like this earlier. What I would say is that for us
+
+94
+00:26:45.050 --> 00:27:06.439
+Jamie Hartmann-Boyce: the value of a systematic review with only a couple of primary studies in it, particularly if they're smaller pilot studies, is maybe not as obvious as when we're amassing a critical body of data, and one of the challenges in any research field but one that we particularly come up against with e-cigarettes is that this is a pretty new technology. It evolves all the time.
+
+95
+00:27:06.800 --> 00:27:22.980
+Jamie Hartmann-Boyce: And yet scientific research, particularly randomized, controlled trials, are not quick things to do. You can't just decide one day. Oh, a lot of people are vaping. Let's do a randomized, controlled trial of how to help them quit right? We know the Grant applications process. If they get funded, then the recruitment, the ethics.
+
+96
+00:27:22.980 --> 00:27:39.109
+Jamie Hartmann-Boyce: the conduct of the study, and then the time it takes to get something published and go through. Peer Review introduces a really substantial lag, so absolutely would it have been useful to have this information earlier? Yes, pragmatically would it have been useful for us to do this review 5 years ago?
+
+97
+00:27:39.230 --> 00:27:41.320
+Jamie Hartmann-Boyce: Unfortunately, probably not.
+
+98
+00:27:42.460 --> 00:27:43.909
+Jamie Hartmann-Boyce: It was a great question.
+
+99
+00:27:44.360 --> 00:28:10.850
+Michael Darden: I have one question. Certainly I've read these, but I've never done one, and I've never participated in one. So I mean, I think it's really interesting and wonderful work, you know. Really useful stuff. Is there ever like a hierarchy of interventions that you think about here? So like, maybe we have you know, kind of mixed evidence on something like text messages which are informative about, you know, quitting to some extent.
+
+100
+00:28:10.850 --> 00:28:24.149
+Michael Darden: And so but but maybe there's like richer evidence. If you if you characterize it, it's just like information, right? It's not just text messages, but like some information of advertising, or you know just some kind of
+
+101
+00:28:24.150 --> 00:28:36.340
+Michael Darden: physician warning when they interact with a Gp or something like that. And so those can all be kind of thought of as informative kind of signals, as opposed to something totally different, like like higher taxes.
+
+102
+00:28:36.520 --> 00:29:02.270
+Jamie Hartmann-Boyce: Yes, that's a great question. So in evidence, synthesis, and systematic reviewing, we refer to this kind of crudely as lumping versus splitting. So some people are identified as lumpers, and others are identified as splitters, because, as you can imagine, you know, like in pharmacotherapies, it's much more straightforward when it comes to behavioral interventions. In particular, there are so many different ways that you could classify those interventions and group them.
+
+103
+00:29:02.520 --> 00:29:19.620
+Jamie Hartmann-Boyce: I tend to be a little bit of a lumper. So I'm like, the more we can throw in. Let's go for it. Unfortunately, I work with a bunch of splitters who are like. Is that really appropriate Jamie. And the thing that we're thinking about there is whether or not we think that a pooled estimate, so that statistical estimate, that point estimate.
+
+104
+00:29:20.420 --> 00:29:43.359
+Jamie Hartmann-Boyce: Would we really expect to see the same across these different studies, if you know chance wasn't a part of it? And if the answer is No, you know, I would think, possibly, that my reaction to a text message that's automated sent to my phone might be different from my reaction to a message delivered by my clinician verbally in person. Then we probably wouldn't go ahead and pull those data.
+
+105
+00:29:43.550 --> 00:29:51.640
+Michael Darden: Gotcha a couple of things really quickly in the in the chat. So have you queried, for reason for wanting to quit.
+
+106
+00:29:52.630 --> 00:29:56.699
+Jamie Hartmann-Boyce: Some of these studies do look at that at the
+
+107
+00:29:57.740 --> 00:30:03.190
+Jamie Hartmann-Boyce: kind of individual participant level. And in general you see a
+
+108
+00:30:04.190 --> 00:30:13.820
+Jamie Hartmann-Boyce: a bunch of different reasons. This also kind of depends on how the question is asked, and if it's a survey or an open ended question. But a lot of the comments are around
+
+109
+00:30:14.030 --> 00:30:29.705
+Jamie Hartmann-Boyce: just not wanting to be addicted to something anymore, right? Which is, you know, if you can't vape and you get a headache, and that's unpleasant for you. That's that's a reason that comes up concerns about health effects and side effects cost.
+
+110
+00:30:30.230 --> 00:30:34.729
+Jamie Hartmann-Boyce: I say, those are probably the 3 most common reasons that come up. But there's there's a real range.
+
+111
+00:30:35.489 --> 00:30:44.739
+Michael Darden: One more. How do you deal with publication bias and the tendency of investigators not to publish negative data or for editors, for that matter, to accept 0.
+
+112
+00:30:44.740 --> 00:30:45.100
+Jamie Hartmann-Boyce: Oh!
+
+113
+00:30:45.100 --> 00:30:46.440
+Michael Darden: These are negative findings.
+
+114
+00:30:46.440 --> 00:31:10.419
+Jamie Hartmann-Boyce: Yeah, it's a real issue. So if we had an analysis with 10 or more studies which we do not in this review, our 1st step would be to do something called a funnel plot, where we're looking to see if there's any evidence that perhaps smaller studies with findings that are of less interest to journal editors are, for example, going unpublished. We can't do that here. So really, the
+
+115
+00:31:10.420 --> 00:31:37.739
+Jamie Hartmann-Boyce: what we do is we try and look for unpublished literature, particularly through Srnt. Abstracts and reaching out to investigators, because we know things are more likely to kind of make it into a poster presentation than they are to be published in an academic journal, and certainly that there's a time lag there as well. But we can't. We definitely can't rule it out. So we in our limitations of this review state that though we've made every effort to, we can't rule out the possibility of publication bias.
+
+116
+00:31:38.140 --> 00:31:48.209
+Michael Darden: Great. So let's continue with the presentation. So just for the audience. If you have more questions, please put them in the QA. And we'll try to get to them by the end. So go ahead.
+
+117
+00:31:48.610 --> 00:31:49.980
+Jamie Hartmann-Boyce: Okay.
+
+118
+00:31:53.360 --> 00:31:55.800
+Jamie Hartmann-Boyce: get in the slideshow again.
+
+119
+00:31:57.560 --> 00:32:08.520
+Jamie Hartmann-Boyce: Great. So moving on now to the results. And just a reminder that this is from our current published version. And I'm only going to focus on our critical outcomes just for the sake of time.
+
+120
+00:32:08.790 --> 00:32:33.349
+Jamie Hartmann-Boyce: So we ended up with 9 included studies in this Review. That is really not very many, and these weren't particularly big trials either. This represented just over 5,000 participants, all of whom were motivated to stop using nicotine vapes. This is an important point to point out, because we would have also been interested in studies in people who weren't motivated to quit. But in this case wanting to quit vaping was a mandatory criteria to be included in these studies.
+
+121
+00:32:33.940 --> 00:32:42.040
+Jamie Hartmann-Boyce: In 6 of these 9 participants were obstinate from tobacco smoking at Baseline, but most studies included some participants who had previously smoked
+
+122
+00:32:42.200 --> 00:32:52.189
+Jamie Hartmann-Boyce: 8 studies included adults, people aged 18 or older, 3 included only young adults, so 18 to 24, and one included only 13 to 17 year olds.
+
+123
+00:32:53.060 --> 00:33:18.029
+Jamie Hartmann-Boyce: in terms of our risk of bias ratings. What this graph shows us here is each of the domains that we assess our studies, for when it comes to risk of bias for our Cochrane reviews, if a study is judged to be at high risk of bias. In at least one domain it is considered at high risk of bias, overall and removed in sensitivity. Analyses, if it's judged at unclear in some domains, but not high in any. Then we judge it to be
+
+124
+00:33:18.030 --> 00:33:30.380
+Jamie Hartmann-Boyce: unclear risk of bias overall, and the study is only going to be judged to be at low risk of bias, if it's at low risk of bias in all of the domains we assess. And the reason for this is that one of these things going wrong can bias the results of a study
+
+125
+00:33:30.440 --> 00:33:36.850
+Jamie Hartmann-Boyce: so overall, we judge 3 of our studies to be at low risk of bias, 3 at high risk and 3 at unclear risk.
+
+126
+00:33:37.180 --> 00:33:47.520
+Jamie Hartmann-Boyce: I'm now going to go into our findings, as they relate to pharmacotherapies, and I want the next slide is going to look like a lot of information, and I will orient you to it.
+
+127
+00:33:47.520 --> 00:34:13.749
+Jamie Hartmann-Boyce: So what we have here for anyone unfamiliar with it is a Cochrane. Summary of Findings table what we see here, and what we have at the start of all Cochrane reviews. And indeed, you'll see these elsewhere as well, is the comparison of interest for us. So in this case this is combination nicotine, replacement therapy. In other words, patch and some short acting form of nicotine replacement therapy compared to a minimal control condition for nicotine vaping cessation.
+
+128
+00:34:14.429 --> 00:34:28.210
+Jamie Hartmann-Boyce: And what we can see here are our 3 primary outcomes of interest for this review. So vaping cessation at 6 months or longer changing, combustible tobacco use at 6 months or longer, and number for participants reporting serious adverse events
+
+129
+00:34:29.120 --> 00:34:59.060
+Jamie Hartmann-Boyce: in these grade tables, we'll calculate, anticipate absolute effects based on the data we have available. We also found a relative effect here that was indicative of over double the chances of successfully quitting, vaping, and people getting combined nrt. Compared to control. But you'll note very wide confidence intervals here, and that leads to us, having very low certainty in this evidence due in this case to imprecision. So it's 1 small study with very wide confidence intervals. And that's this B here.
+
+130
+00:34:59.060 --> 00:35:26.929
+Jamie Hartmann-Boyce: as well as to risk of bias, because the only study contributing data here was judged to be at high risk of bias. So what this tells us is that in this comparison, we think more studies could come along and completely change these findings. No studies reported on changing combustible tobacco use at 6 months or longer for this comparison, and in this case great for the participants. No one suffered from any serious adverse events. But it means we can't come up with any estimate of the potential risk there.
+
+131
+00:35:27.730 --> 00:35:55.459
+Jamie Hartmann-Boyce: And here are the forest plots which sit behind the data presented in that summary of findings table. So for anyone unfamiliar with forest plots. They're a graphical way of displaying the information in a meta-analysis where you have a row per study. In this case, when we looked at vaping cessation 6 months or longer. There was only that one study, and we can see here those really wide confidence intervals indicative of serious imprecision.
+
+132
+00:35:55.460 --> 00:36:23.029
+Jamie Hartmann-Boyce: We can see that there were no serious adverse events in this study here and here we have combined results from 2 studies which looked at vaping cessation between 3 and 6 months. And this is one of those cases where that uncertainty really flags up. You know, when we had the 6 month data, it looked like a lot more people were quitting with Nrt. When we bring in another study. And we're looking at data in that slightly shorter window. We're not seeing any clear evidence of a difference between arms.
+
+133
+00:36:24.200 --> 00:36:34.709
+Jamie Hartmann-Boyce: So our next pharmacotherapy I want to talk about is cytosine and cytosine for anyone unfamiliar with it is a nicotine receptor, partial agonist, which is the same drug class as varenicline.
+
+134
+00:36:34.880 --> 00:37:00.999
+Jamie Hartmann-Boyce: Only one study compared cytosine to placebo for nicotine vaping cessation. It didn't follow up at 6 months or longer. So we don't have any data on vaping cessation or changing combustible tobacco use for our primary outcomes. Here again, fortunately, none of the participants experienced any serious adverse events. But this does preclude coming up with any statistical analysis here. This was judged to be a very low certainty, due to imprecision.
+
+135
+00:37:03.060 --> 00:37:27.580
+Jamie Hartmann-Boyce: and in terms of the data and some of our other outcomes here. This study did suggest possible promise when it came to its shorter term, vaping cessation outcome. We did see more people quitting in the intervention arm than the control arm, but with some imprecision, with confidence intervals incorporating the possibility of no difference. This study also reported on changing combustible tobacco product use at less than 6 months.
+
+136
+00:37:27.790 --> 00:37:35.390
+Jamie Hartmann-Boyce: And again, confidence intervals were wide. It didn't suggest any clear difference, but we would definitely want more evidence on that.
+
+137
+00:37:36.810 --> 00:37:42.339
+Jamie Hartmann-Boyce: Moving on to what I think is our final pharmacotherapy. We looked at Varenicline
+
+138
+00:37:42.460 --> 00:37:51.819
+Jamie Hartmann-Boyce: compared to control for smoking cessation in the published version of this review. We only had one trial which looked at vaping cessation at 6 months or longer.
+
+139
+00:37:51.820 --> 00:38:16.269
+Jamie Hartmann-Boyce: and it found statistically significant evidence of benefit in more people quitting, vaping with varenicline than not. On Varenicline, however, this was judged to be low certainty due to imprecision. This was a small number of events, and still relatively wide confidence intervals, and a future study could come along and change this. This study didn't report on changing combustible tobacco use at 6 months or longer.
+
+140
+00:38:16.580 --> 00:38:19.079
+Jamie Hartmann-Boyce: and in this case it was
+
+141
+00:38:19.460 --> 00:38:30.320
+Jamie Hartmann-Boyce: only one of the 3 studies. Had any serious adverse events occurring in that one study. There were more of these events in the intervention than control arm, but wide confidence intervals here
+
+142
+00:38:31.910 --> 00:38:55.030
+Jamie Hartmann-Boyce: and here are just the forest plots backing up that information, as you can see here for our serious adverse events. 2 of our 3 studies had no participants experiencing any events. And here we see 3 studies contributing to this data on vaping cessation between 3 and 6 months, showing possible evidence of a benefit, but with confidence intervals narrowly incorporating the possibility of no difference.
+
+143
+00:38:56.420 --> 00:39:10.900
+Jamie Hartmann-Boyce: So when it comes to changes in vape characteristics. We only had one study that looked at this in terms of our primary outcomes. This looked at reducing the amount of nicotine and or the
+
+144
+00:39:11.360 --> 00:39:31.789
+Jamie Hartmann-Boyce: frequency with which someone vaped compared to no support for vaping cessation. Again, more people quit in the intervention arm than the control arm. But this was again a very small study, with wide confidence intervals, and we considered this evidence to be very low certainty, due to both issues, with risk of bias and issues with imprecision.
+
+145
+00:39:31.790 --> 00:39:55.400
+Jamie Hartmann-Boyce: No, none. The study did not report on change into combustible tobacco use or number of participants reporting serious adverse events. And here's this data here for both at the 6 months or longer outcome, and the 3 and 6 month outcome at the 3 and 6 month outcome, we see no difference, whereas then, at the 6 month outcome, we see possible indication of a benefit. But again, with a lot of imprecision there.
+
+146
+00:39:56.890 --> 00:40:24.439
+Jamie Hartmann-Boyce: when it came to behavioral interventions, we found the strongest evidence for text message based interventions compared to no or minimal support for vaping cessation. In this case we pulled data from 2 studies in over 4,000 participants, you'll note that overall our review only included around 5,000 participants. So really, the bulk of them are coming from these 2 studies of one text message based intervention for vaping cessation
+
+147
+00:40:24.440 --> 00:40:34.129
+Jamie Hartmann-Boyce: in young people. This is the truth. Initiatives vaping cessation. App. We considered this to be low certainty evidence. We didn't downgrade
+
+148
+00:40:34.130 --> 00:40:45.799
+Jamie Hartmann-Boyce: for risk of bias, but we did downgrade here, due to indirectness. Indirectness is probably the hardest of the grade considerations to PIN down.
+
+149
+00:40:45.800 --> 00:41:10.690
+Jamie Hartmann-Boyce: But what we're interested in here is the impact of any text message based intervention on any population that's vaping. And in this case, because it was very specific. American young adults and adolescents testing the same intervention. We consider this, we don't know whether or not this result is generalizable to adults to people who smoke to people outside of the Us. Hence that low judgment. Here
+
+150
+00:41:10.890 --> 00:41:19.320
+Jamie Hartmann-Boyce: there was no evidence of serious adverse events here either. But again, this was low certainty evidence just due to imprecision primarily.
+
+151
+00:41:20.500 --> 00:41:33.919
+Jamie Hartmann-Boyce: And here's that supporting data. What we see here are really consistent effect estimates in the study in those under 18, and in the studies that includes young adults. So people, both under and over 18 years old.
+
+152
+00:41:33.920 --> 00:41:58.820
+Jamie Hartmann-Boyce: we can see that these are really similar effect estimates, because our confidence intervals overlap, and because our I squared value, which, as you might remember, is how we think about statistical heterogeneity, is 0%. So there's a really consistent findings with pretty tight confidence intervals. We'd kind of interpret either end of these confidence intervals as indicating benefit here. And really our only concern here is around generalizability to other populations.
+
+153
+00:41:58.820 --> 00:42:04.000
+Jamie Hartmann-Boyce: and here we see that no participants reported serious adverse events.
+
+154
+00:42:04.120 --> 00:42:17.479
+Jamie Hartmann-Boyce: So moving on to our conclusions, all Cochrane reviews and in implications for practice and implications for research, we spend a lot of time crafting the wording of these so much as I hate doing it. I tend to just copy and paste
+
+155
+00:42:17.480 --> 00:42:37.260
+Jamie Hartmann-Boyce: the wording onto my slides. I'm not going to read you through all of these, but our implications for practice are really around the fact that what we have so far is very limited in terms of evidence. We need more in order for clinicians, patients, policymakers, to really make any clear recommendations. When it comes to this space.
+
+156
+00:42:38.320 --> 00:42:43.799
+Jamie Hartmann-Boyce: we call for further randomized, controlled trials across all of these comparisons
+
+157
+00:42:43.990 --> 00:42:58.290
+Jamie Hartmann-Boyce: and all of these outcomes, because this is a relatively new research area. We are not criticizing these studies for being small. It's often required and sensible and reasonable, and a good investment of resources to do these small pilot trials first.st
+
+158
+00:42:58.290 --> 00:43:25.949
+Jamie Hartmann-Boyce: But we're really looking forward to seeing these larger trials which are better powered to detect statistically significant differences coming out. And one of the encouraging things about doing this review is that every month we find more ongoing studies get registered either as protocols or on trial registries. So we know this is a really active area of research. And even though results are quite uncertain right now, I feel relatively hopeful and optimistic that we're going to be getting more clarity in this important clinical space fairly soon.
+
+159
+00:43:26.560 --> 00:43:51.539
+Jamie Hartmann-Boyce: Now, just to finish off. As I mentioned, an update is underway. Findings from this are totally preliminary subject to change. They're not for wider distribution. But I just wanted to note for anyone who's wondering that this new update incorporates data to May 2025. It includes an additional 6 studies, both of new comparisons, of new interventions and of new outcomes. With an existing comparison.
+
+160
+00:43:51.540 --> 00:44:03.569
+Jamie Hartmann-Boyce: We identified 19 ongoing studies at this point. So there is a lot going on right now. And I think for us the thing that triggered this update that made us think it was definitely time to do. This
+
+161
+00:44:03.570 --> 00:44:27.749
+Jamie Hartmann-Boyce: was, I just wanted to call out a new large study of Vareniclean for vaping cessation, following up participants at 6 months, conducted in young people by Eden Evans at all. And here we see it's really increasing our precision around that estimate, and it is consistent with the other study and showing benefit, although more pronounced benefit of the use of varenicline for vaping cessation.
+
+162
+00:44:27.950 --> 00:44:36.730
+Jamie Hartmann-Boyce: So that's it for me. I wanted to make sure we ended with plenty of time for questions and comments. I'm very happy to take them, and thank you so much for listening.
+
+163
+00:44:37.230 --> 00:44:41.769
+Michael Darden: Thank you so much. Yeah, so let's kick it back to our discussant. Dr. Klumper.
+
+164
+00:44:42.740 --> 00:44:57.179
+Elias Klemperer: Yeah, thanks so much, Jamie. That was a really fantastic presentation. And it's really encouraging just to see the framework set up, you know, as more Rcts develop. It's setting up the story to see see how this plays out. So I'm
+
+165
+00:44:57.180 --> 00:45:20.120
+Elias Klemperer: encouraged by that, you know. It was encouraging to see the results, especially coming out around Varenicline for smoking, cessation and watching that triangle move further to the right is exciting and and promising as well as text message intervention, you know. I think those are very accessible intervention, and it's good to know we have that at least in one text message package
+
+166
+00:45:20.680 --> 00:45:43.869
+Elias Klemperer: on the other side. It was noteworthy that there really wasn't much data around how smoking is affected among people as they quit e-cigarettes which might be understandable. Given that these interventions are targeting e-cigarettes per se. But you know, I think it was noteworthy. And early on you said a couple of studies, maybe 6. I can't remember the exact number
+
+167
+00:45:43.870 --> 00:45:54.419
+Elias Klemperer: had dual dual users. People who are using cigarettes and e-cigarettes at baseline. And so, you know, it seems like we would want to know, how does vaping cessation impact cigarette smoking down the line?
+
+168
+00:45:55.540 --> 00:46:15.440
+Elias Klemperer: So you know, one question that comes to mind is around subgrouping. And so, you know, understanding, this was a relatively small group of studies in this review, but wondering about plans in the future whether you think you may subgroup according to baseline e-cigarette characteristics, for instance, type of e-cigarette use nicotine strength.
+
+169
+00:46:15.530 --> 00:46:26.450
+Elias Klemperer: and whether you may do that around cigarettes as well, whether they're dual use of cigarette smoking is ongoing or history of cigarette use. So just be curious to hear your thoughts on those.
+
+170
+00:46:26.450 --> 00:46:49.619
+Jamie Hartmann-Boyce: Yeah, great question. So on that 1st point about not collecting data on combustible tobacco use in a bunch of these studies just to clarify. I think it was that in 6 of those some of them were dual users, but others had formerly quit smoking, but they had smoked in the past. So it's a history of doing so. And I do. I am happy to note that that new study from Evans et Al. Does collect
+
+171
+00:46:49.680 --> 00:47:01.699
+Jamie Hartmann-Boyce: smoking data as well. Most of those participants were people with no smoking history, and there was no sign that quitting vaping led them to take up smoking. It's reassuring when it comes to subgroups.
+
+172
+00:47:01.870 --> 00:47:04.219
+Jamie Hartmann-Boyce: it's a really good question.
+
+173
+00:47:04.480 --> 00:47:14.657
+Jamie Hartmann-Boyce: We actually identified a bunch of different covariates, we might call them that we'd be interested in looking at, and certainly things around.
+
+174
+00:47:15.370 --> 00:47:35.989
+Jamie Hartmann-Boyce: People's smoking history would be an important one when it comes to things around e-cigarette characteristics. Or, you know, cigarette characteristics, for that matter. And people who do smoke our challenge here is somewhat that we subgroup at the study level instead of the participant level. So unless the study was saying, we are only recruiting participants who vape
+
+175
+00:47:36.250 --> 00:47:42.148
+Jamie Hartmann-Boyce: pod based salt devices right? Which in the for the most part they don't
+
+176
+00:47:43.170 --> 00:47:51.780
+Jamie Hartmann-Boyce: It would be difficult to subgroup on that one of my particular kind of I don't. I don't know if bugbear is the right word, but something that that concerns me slightly
+
+177
+00:47:52.060 --> 00:48:13.719
+Jamie Hartmann-Boyce: is not like what type of e-cigarette they're using, but what they are actually vaping in terms of substances, particularly when we're looking at adolescents and young adults in the Us. Where we know there is a lot of co-use of nicotine and Thc. In e-cigarettes, and we really didn't find much information or data on that. But I think
+
+178
+00:48:13.720 --> 00:48:25.199
+Jamie Hartmann-Boyce: that would be something I would like to know more about, and particularly when we think about these interventions like varenicline that are designed specifically to target nicotine addiction.
+
+179
+00:48:25.420 --> 00:48:33.149
+Jamie Hartmann-Boyce: What is happening if those people are also vaping Thc, have they stopped vaping? Thc, you know what what's going on there? I don't think we have a good sense of that.
+
+180
+00:48:33.630 --> 00:48:46.219
+Jamie Hartmann-Boyce: And just another thing on subgroup analysis. There's so many different ways. We could split these studies right. And I'd say, if you're interested in differences, in responses based on participant characteristics.
+
+181
+00:48:46.540 --> 00:49:02.010
+Jamie Hartmann-Boyce: subgroup analysis and meta analysis is one way to kind of look at that, or at least acknowledge the differences. But it's deeply flawed. Right? It's it's a very kind of crude way of asking that question. And what we'd really want to look at is individual participant data in order to establish that.
+
+182
+00:49:03.880 --> 00:49:06.730
+Elias Klemperer: That makes a lot of sense. Yeah, thanks for that explanation.
+
+183
+00:49:07.070 --> 00:49:35.410
+Elias Klemperer: One other question that came up as you were speaking here. You've gone through this body of literature very thoroughly, and I'm wondering if you can reflect on the extent to which people take interventions that have been demonstrated, effective for cigarette smoking and simply copy paste, and you try them for e-cigarettes, which is a very logical way to go about things given. It's the same versus truly modifying these interventions, maybe more so, thinking about this with behavioral interventions
+
+184
+00:49:35.800 --> 00:49:45.599
+Elias Klemperer: or dosing regimens, but truly modify them to try to fit this new, well newer device, which is e-cigarettes rather than smoking, so how similar are they, or
+
+185
+00:49:46.120 --> 00:49:47.210
+Elias Klemperer: modified.
+
+186
+00:49:47.720 --> 00:49:55.780
+Jamie Hartmann-Boyce: That's a good question. It's like a gross oversimplification and generalization. I think I would say that the ones in
+
+187
+00:49:56.680 --> 00:50:19.039
+Jamie Hartmann-Boyce: adults like, and we're not talking. The ones that are restricted to young adults to me seem very similar to what we might see in smoking cessation research, which is a very reasonable place to start, as you say, obviously not the same with kind of reducing the amount of nicotine in the E-liquid. There's not really a synonymous thing that an individual could do with a cigarette right now, though there may be in the future.
+
+188
+00:50:19.840 --> 00:50:44.939
+Jamie Hartmann-Boyce: When it comes, I think what is different about this. There's a few things that are different about this research area to me. But one of them is is that there's a lot of young people representation in these studies and actually smoking cessation interventions in young people and adolescents are not studied nearly as much as they are in adults. And actually, it's very difficult to find any evidence of successful smoking cessation interventions in young people.
+
+189
+00:50:45.200 --> 00:51:02.529
+Jamie Hartmann-Boyce: and so I think the vaping cessation interventions that are being targeted at young people do feel more specific to vaping. But I suspect that part of that is that there simply isn't a successful model to build off of in the smoking cessation space for that particular population.
+
+190
+00:51:03.660 --> 00:51:04.870
+Elias Klemperer: Interesting thanks.
+
+191
+00:51:08.440 --> 00:51:32.939
+Michael Darden: There are a number of great questions in the Q. And A. So one in particular, I want to highlight here thinking about the risk perceptions of the tobacco users. So there's this well-known fact, at least in the United States, that a large percentage of tobacco users are under the perception that e-cigarettes are worse for health than our traditional cigarettes.
+
+192
+00:51:33.120 --> 00:51:45.580
+Michael Darden: And is that something that you can capture at all in any of your work? And and how do you think it matters for substitution from e-cigarettes to nothing, and from e-cigarettes to traditional cigarettes.
+
+193
+00:51:46.230 --> 00:52:05.549
+Jamie Hartmann-Boyce: It is certainly something I'm aware of, and that pains me on a regular basis, as someone who does science and likes evidence in this space. You know, I 1st got involved in e-cigarette research back in 2014, and I'd say every year since then the evidence has become clear that, you know, regulated nicotine containing
+
+194
+00:52:05.550 --> 00:52:22.590
+Jamie Hartmann-Boyce: e-cigarettes are much less harmful than smoking, and public opinion has gone in the absolute opposite direction. And that's not just a Us. Problem. It's worth noting that we see that in the Uk as well, where e-cigarettes are even more openly promoted as a way to reduce harm from continued nicotine use, particularly in people who smoke.
+
+195
+00:52:22.630 --> 00:52:23.720
+Jamie Hartmann-Boyce: So
+
+196
+00:52:24.160 --> 00:52:38.749
+Jamie Hartmann-Boyce: it's something we're aware of. It's something that in our communication and dissemination efforts we try to be really clear about, and you know, at every opportunity kind of try to provide some some evidence to correct those misperceptions.
+
+197
+00:52:40.860 --> 00:53:03.889
+Jamie Hartmann-Boyce: personally, although I don't have evidence to support this. I think it comes into play anecdotally in these stories of people who are switching from vaping to smoking. So I think it's an issue. It's not something we can easily look at in these trials right in general. These trials, as far as I know, aren't asking people whether they think one is more harmful than the other, and seeing what happens.
+
+198
+00:53:05.120 --> 00:53:11.080
+Jamie Hartmann-Boyce: So, yeah, that's kind of an unsatisfactory answer. But I acknowledge it's a major issue.
+
+199
+00:53:12.070 --> 00:53:21.699
+Michael Darden: Yeah, I agree. And I've been thinking a lot about that. It's it's just in the back of my mind. In every one of these studies, you know, because we're thinking about people making these choices. But
+
+200
+00:53:22.070 --> 00:53:34.679
+Michael Darden: Ken Warner has a question. So can you broadly kind of how does Cochrane handle a large effect that's statistically imprecise
+
+201
+00:53:34.890 --> 00:53:38.733
+Michael Darden: versus a small effect that has very tight confidence
+
+202
+00:53:40.300 --> 00:53:41.420
+Jamie Hartmann-Boyce: Great question.
+
+203
+00:53:42.870 --> 00:54:06.150
+Jamie Hartmann-Boyce: I think I'm going to treat each of those a slightly different question. So essentially, we came up with, and it is arbitrary, but we kind of pre-specified it for our Cochrane smoking cessation reviews that any effect kind of any relative effect above or below the 5% threshold was meaningful. Right? So if
+
+204
+00:54:06.260 --> 00:54:12.500
+Jamie Hartmann-Boyce: it's increasing your chances of smoking by 6%, but your intervals are really precise around that
+
+205
+00:54:12.800 --> 00:54:27.679
+Jamie Hartmann-Boyce: we're going to consider that an important finding and an important difference. And that's because, if you think about it, you know one in 2 people who regularly smoke are going to die from doing so. So it matters. Even if it's a small effect, it still really matters when we think about
+
+206
+00:54:30.180 --> 00:54:32.370
+Jamie Hartmann-Boyce: imprecision. There.
+
+207
+00:54:32.890 --> 00:54:57.029
+Jamie Hartmann-Boyce: if you have such a small effect. It's going to be unlikely that its confidence interval is not going to touch no difference which is one, but it might do so, in which case we wouldn't downgrade due to imprecision if we see a large effect, but it has really wide confidence intervals that incorporate the possibility of no difference, and particularly if it incorporates the possibility of the opposite happening that would definitely downgrade our certainty in the estimate. And what
+
+208
+00:54:57.290 --> 00:55:02.500
+Jamie Hartmann-Boyce: what I think is important to mention here is that when we think about certainty, we're not saying like.
+
+209
+00:55:03.190 --> 00:55:16.740
+Jamie Hartmann-Boyce: we're certain that you should go do this right. That's not what we're saying as reviewers, we are saying, if we're saying, it's high certainty that we're fairly certain that more studies aren't going to radically change this estimate. And that's where we're really thinking about precision in that way.
+
+210
+00:55:17.140 --> 00:55:18.813
+Michael Darden: Okay, okay.
+
+211
+00:55:20.343 --> 00:55:28.699
+Michael Darden: can you? Can you just tell me, like in in relation to the kind of growing literature on price effects for e-cigarettes.
+
+212
+00:55:29.976 --> 00:55:39.260
+Michael Darden: Are these interventions that you're looking at? Are they larger? Are they smaller than like a dollar increase in the e-cigarette tax that literature.
+
+213
+00:55:39.990 --> 00:55:43.619
+Jamie Hartmann-Boyce: I'm not sure they're comparable to be honest like
+
+214
+00:55:45.110 --> 00:55:46.949
+Jamie Hartmann-Boyce: there, you're kind of looking at
+
+215
+00:55:48.790 --> 00:55:56.109
+Jamie Hartmann-Boyce: population level of effects of a policy. And here you're looking at the impacts of an individual level intervention. So
+
+216
+00:55:57.390 --> 00:56:26.749
+Jamie Hartmann-Boyce: to me, I would think about, there are many reasons why I would say they're probably not comparable. 1st of all, you're going to use different methods to estimate them, but also, especially, I think, with vaping right now in young people this, like dynamic of what's going on with the people around you is probably very likely to influence your own vaping behavior in a way that if one of your friends is randomized to one intervention that is probably not going to change what's happening in your whole social group.
+
+217
+00:56:27.380 --> 00:56:33.089
+Michael Darden: Yeah, I mean, I'm just thinking about more of, like the the usefulness of this, you know, from a maybe a policy perspective.
+
+218
+00:56:34.130 --> 00:56:44.050
+Michael Darden: If a policymaker is thinking about raising taxes or changing the tax changing population wide tobacco control laws. Can they use this information in some way? That's.
+
+219
+00:56:44.730 --> 00:57:02.079
+Jamie Hartmann-Boyce: I think, what we know from smoking, and what I would be shocked if it weren't. The case for vaping. Is that really like multi pronged approaches are the way we need to go. We need policy that impacts these things at the population level in terms of their availability and accessibility. And we also need individual level interventions to support people.
+
+220
+00:57:02.200 --> 00:57:29.869
+Jamie Hartmann-Boyce: and those can kind of work in conjunction with one another. Or there might be some groups who aren't affected by one and are affected by the other. So I would. You know my certain hope would be that no one reads this review, and it's like, oh, we don't need population level interventions. We can just rely on individual level, vaping cessation interventions. I don't believe that at all. And, like most public health people. I also think you know, stopping people from starting is probably better than trying to help people stop once they've already started.
+
+221
+00:57:29.870 --> 00:57:42.810
+Jamie Hartmann-Boyce: But I do think particularly for clinicians and people who vape and people who write guidelines for clinicians. This information on individual level work is really important.
+
+222
+00:57:43.730 --> 00:58:00.660
+Michael Darden: Yeah. Okay. really, quickly. In the last minute. Can you just give give us a sense? And I'm sorry there's not quite the question in the chat. But can you just give us a sense about, you know, kind of community local, like the the percent, the the beliefs of local community leaders. How important this is
+
+223
+00:58:01.150 --> 00:58:25.579
+Michael Darden: in terms of so is it widely, I mean, is it? Is it widely believed that we need to encourage vaping cessation? Or is this something that is not like cigarettes where, you know, there's obviously secondhand smoke. And we meet with like community people really think we need to get rid of the cigarette smoking with indoor smoking bans and things like that. Is there a lot of like on the ground support for vaping cessation?
+
+224
+00:58:25.580 --> 00:58:33.749
+Jamie Hartmann-Boyce: Oh, it totally depends where you are in my corner of Massachusetts. Yep, right, but I'm in Massachusetts.
+
+225
+00:58:34.780 --> 00:58:35.970
+Jamie Hartmann-Boyce: I think
+
+226
+00:58:36.780 --> 00:59:00.900
+Jamie Hartmann-Boyce: lots of people have very strong opinions about whether or not vaping cessation is an important area of research, or one that should be prioritized, particularly when we know that smoking remains the leading cause of death and disease worldwide right? That is an incontrovertible fact, and we don't want to take our eyes off of that central issue. However, I also think that we think vaping is probably not risk free
+
+227
+00:59:00.900 --> 00:59:28.759
+Jamie Hartmann-Boyce: right? And to me, almost more importantly, we know that people who vape want a section of them want to quit, and if they want to do that, we want to make sure they're doing so in a way that is going to maximize the safety of any attempt they make, reduce the chance that they might start smoking, maximize the effectiveness of that attempt, and also be resource efficient for them. We know people spend money on things that are not evidence based all the time.
+
+228
+00:59:28.790 --> 00:59:38.530
+Jamie Hartmann-Boyce: And so I think it is really important to do this vaping cessation research, because we know there is a need from it, from people who vape. And for me, that's the most compelling reason to do it.
+
+229
+00:59:39.020 --> 00:59:55.260
+Michael Darden: Great. Thank you. Thanks so much for the presentation. So we're out of time. I want to emphasize that if you have more questions you can join us in top of the tops which the link is in the chat. It's the one up from the bottom, and we will go to our Mc. To take us out.
+
+230
+00:59:59.030 --> 01:00:22.370
+Reiley Hartmuller: So. Unfortunately we are out of time. However, if you still have burning questions or thoughts for Jamie Hartman, boys, you can join us for top of the tops and interactive group discussion to join. Please copy the Zoom Meeting. URL posted in the chat and switch rooms with us. Once this event concludes, we'll leave this webinar room open for an extra minute after the end, to give everyone a chance to copy the URL,
+
+231
+01:00:22.370 --> 01:00:35.949
+Reiley Hartmuller: which is bitly slash topsmeeting all lowercase. Thank you to our presenter moderator and discussant. Finally, thank you to the audience of 164 people for your participation. Have a topsnotch weekend.
+
