@@ -41,6 +41,10 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.ReadingList }}" download="{{ speaker.ReadingList }}">Panel Questions</a></td>
 
+</tr>
+{% elsif (speaker.Presenter == 'Doug Levy') %}
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (June 2025)</a></td>
 
 </tr>
 {% elsif (speaker.Presenter == 'Hojin Park') %}
