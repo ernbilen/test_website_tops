@@ -6,4 +6,4 @@ Join our e-mail list for updates: [https://www.tobaccopolicy.org/email.html](htt
 
 Or register for Zoom seminars directly: [https://bit.ly/TOPS-Summer2025](https://bit.ly/TOPS-Summer2025).
 
-![Schedule](TOPS_schedule_Summer2025v2.jpg)
+![Schedule](TOPS_schedule_Summer2025v3.jpg)
