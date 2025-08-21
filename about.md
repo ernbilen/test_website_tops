@@ -1,7 +1,6 @@
 ﻿## About
 
 The Tobacco Online Policy Seminar (TOPS) is a free multidisciplinary, international forum for research with tobacco policy implications using experimental or quasi-experimental study designs (i.e., with a well-defined counterfactual). TOPS strives to be a respectful, inclusive, and diverse forum, with participants and attendees united around the concept of presenting and learning from tobacco research using study designs capable of producing results with a causal interpretation, with the ultimate goal being the production and sharing of knowledge to develop an effective tobacco policy framework for improving population health. This forum is designed to bring together academics, students, government employees, policy researchers, healthcare professionals, advocates,  and funders, with the goal of breaking silos in tobacco policy research and providing a platform for high-quality research to be discussed and disseminated.
-[**TOPS Video Introduction**](https://youtu.be/EAtI1YA4ldU)
 
 ## Executive Board<sup>[*](#myfootnote1)</sup>
 Director: Mike Pesko, University of Missouri <img src="https://img.icons8.com/fluent/20/000000/twitter.png"/>[@mikepesko](https://twitter.com/mikepesko) <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" style="width:20px; height:auto; vertical-align:middle;"/>[
