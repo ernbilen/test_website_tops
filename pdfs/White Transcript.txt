@@ -1,0 +1,1206 @@
+WEBVTT
+
+1
+00:00:03.470 --> 00:00:14.409
+Chenlan Wang: Welcome to the Tobacco Online Policy Seminar Tops. Thank you all for joining us today. I'm Chen Nan Wang, a postdoctoral research fellow at the University of Michigan.
+
+2
+00:00:14.830 --> 00:00:23.389
+Chenlan Wang: TOPS is organized by Mike Pesco at the University of Missouri, Chu Xiang at the Ohio State University.
+
+3
+00:00:23.510 --> 00:00:27.149
+Chenlan Wang: Michael Darden at Johns Hopkins University.
+
+4
+00:00:27.420 --> 00:00:32.459
+Chenlan Wang: Jamie Hartman Bowens at the University of Massachusetts Amherst.
+
+5
+00:00:32.700 --> 00:00:35.619
+Chenlan Wang: and Justin White, and Boston University.
+
+6
+00:00:36.540 --> 00:00:41.289
+Chenlan Wang: The seminar will be one hour with questions from the moderator and discussants.
+
+7
+00:00:41.970 --> 00:00:46.830
+Chenlan Wang: The audience may post their questions and comments in the Q&A panel.
+
+8
+00:00:47.190 --> 00:00:53.340
+Chenlan Wang: And the moderator will draw from these questions and comments in conversation with the presenter.
+
+9
+00:00:54.220 --> 00:01:01.680
+Chenlan Wang: Please, review the guideline from tobaccopolicy.org for acceptable questions.
+
+10
+00:01:02.530 --> 00:01:07.629
+Chenlan Wang: Please keep the questions professional and related to the research being discussed.
+
+11
+00:01:08.220 --> 00:01:19.300
+Chenlan Wang: Questions that meet the criteria for the seminar series guidelines will be shared with the presenter afterwards, even if they are not read aloud.
+
+12
+00:01:20.240 --> 00:01:25.349
+Chenlan Wang: The questions, are real and, very much appreciated.
+
+13
+00:01:25.690 --> 00:01:34.570
+Chenlan Wang: The presentation is being radio recorded and will be made available along with the presentation slides on the Tobacco website.
+
+14
+00:01:34.920 --> 00:01:37.380
+Chenlan Wang: tobaccopolicy.org.
+
+15
+00:01:38.120 --> 00:01:44.110
+Chenlan Wang: Now, I will turn the presentation over to today's moderator, Jamie Harmon Voice.
+
+16
+00:01:44.270 --> 00:01:49.229
+Chenlan Wang: from the University of Massachusetts Amherst, to introduce our speaker.
+
+17
+00:01:49.910 --> 00:02:04.100
+Jamie Hartmann-Boyce: Thank you so much! So today, we continue our Summer 2025 season with a single paper presentation by Justin White, entitled, Effect of a Minimum Floor Price Law for Tobacco Products on Tobacco Sales in Oakland, California.
+
+18
+00:02:04.220 --> 00:02:09.899
+Jamie Hartmann-Boyce: This presentation was selected via a competitive review process by submission through the TOPS website.
+
+19
+00:02:10.220 --> 00:02:17.700
+Jamie Hartmann-Boyce: Justin White is an Associate Professor in the Department of Health Law, Policy, and Management at Boston University School of Public Health.
+
+20
+00:02:17.890 --> 00:02:26.040
+Jamie Hartmann-Boyce: He's a health economist who evaluates the effects of interventions and policies on behavioral risk factors for chronic disease, including tobacco use.
+
+21
+00:02:26.270 --> 00:02:43.950
+Jamie Hartmann-Boyce: He has conducted randomized trials of behavioral interventions for smoking cessation, such as monetary incentives and peer support, and studied a variety of tobacco policies, including excise taxes and sales restrictions. He's also a founding member of TOPS. Dr. White, thank you for presenting for us today.
+
+22
+00:02:45.290 --> 00:02:50.020
+Justin White: Well, thank you. It's, always a pleasure to,
+
+23
+00:02:50.180 --> 00:02:58.880
+Justin White: be part of the TOPS community, and I'm appreciative that I was invited to make this… give this talk. Hopefully you can see my slides.
+
+24
+00:02:58.890 --> 00:03:16.819
+Justin White: Today, I'm going to be presenting a paper that evaluates a local policy in Oakland, California, in which the city set a minimum floor price on cigarettes and cigars, and this paper is joint work with Serge Atherwood and Dory Apollonio, both at UCSF.
+
+25
+00:03:17.630 --> 00:03:37.479
+Justin White: So, this study was funded by a grant from the California Tobacco Related Disease Research Program, which is supported by California's Tobacco excise tax. Neither I nor my co-authors have competing interests to disclose, and we have never received funding from the tobacco or nicotine industries.
+
+26
+00:03:37.580 --> 00:03:49.249
+Justin White: And, this study uses, sales data from Nielsen. Nielsen is not responsible for and was not involved in preparing the results that we're gonna report.
+
+27
+00:03:49.340 --> 00:04:03.750
+Justin White: So, this presentation is based on a paper that we recently published in Tobacco Control. You can access the paper by following this DOI bit.ly link or QR code. I'm sure it's also been put in the chat.
+
+28
+00:04:05.140 --> 00:04:16.570
+Justin White: And, let's dive in. So, while excise taxes have been the primary approach to regulating prices of tobacco products.
+
+29
+00:04:16.570 --> 00:04:27.569
+Justin White: Local jurisdictions are preempted from passing tobacco taxes in many states, including in California. And so what this means is that localities can't go beyond
+
+30
+00:04:27.570 --> 00:04:41.909
+Justin White: whatever tax rates are set by their state and the federal government. So, minimum floor price laws, or I'll refer to them as MFPLs, they set a minimum price below which a product cannot be sold.
+
+31
+00:04:41.910 --> 00:04:53.530
+Justin White: And so some local policymakers and advocates see MFPLs as a complementary approach to excise taxes, and that's especially the case when a state preemption law might be in place.
+
+32
+00:04:53.790 --> 00:05:08.630
+Justin White: So, New York City was the first in the nation to pass an MFPL on tobacco products, and it set a floor price at $10 per cigarette pack back in 2013, subsequently raised to $13 per pack.
+
+33
+00:05:08.630 --> 00:05:14.760
+Justin White: And it also, incidentally sets 4 prices for e-cigarettes and other tobacco products as well.
+
+34
+00:05:14.760 --> 00:05:27.169
+Justin White: So now, there's at least 35 local jurisdictions in California that have an MFPL for one or multiple types of tobacco products, and several other jurisdictions are considering one.
+
+35
+00:05:27.390 --> 00:05:45.430
+Justin White: And I think this is in large part because the Public Health Law Center and American Lung Association have recommended an MFPL as one component of their model ordinance for tobacco retailer licensing, which many counties and localities have adopted, at least in California.
+
+36
+00:05:45.670 --> 00:06:02.949
+Justin White: So, most of these jurisdictions with an MFPL in California are quite small, places that you've probably never heard of, like Union City and Calistoga. Oakland became the most populous city to adopt an MFPL in California, when it implemented it in 2020.
+
+37
+00:06:03.750 --> 00:06:10.730
+Justin White: So, I want to quickly review just some theoretical aspects of an MFPL.
+
+38
+00:06:10.790 --> 00:06:23.479
+Justin White: Economists often use welfare analysis as a way of comparing the overall benefits and costs of a policy to society. They look at how it affects people's well-being, not just sort of prices and profits.
+
+39
+00:06:23.480 --> 00:06:39.989
+Justin White: And welfare effects are not really the focus of this talk, they're actually not even really discussed in the paper, but, and I'm gonna spare you, I guess, a bunch of supply and demand graphs, but I did want to briefly talk about, sort of, like, what the anticipated welfare effects of MFPLs might be.
+
+40
+00:06:39.990 --> 00:06:57.140
+Justin White: So, MFPLs are a form of price control, and these are generally considered to be inefficient under a basic economic model, and that's because under a basic economic model, consumers are assumed to be rational, and when MFPLs force prices above
+
+41
+00:06:57.140 --> 00:07:02.610
+Justin White: the natural market level, these rational consumers would have lower welfare.
+
+42
+00:07:02.610 --> 00:07:04.840
+Justin White: Because they're consuming less than they'd prefer.
+
+43
+00:07:04.890 --> 00:07:10.830
+Justin White: And so this efficiency cost is referred to by economists as deadweight loss.
+
+44
+00:07:11.290 --> 00:07:22.659
+Justin White: So, however, a full accounting of the costs and benefits would need to consider that tobacco use leads to negative externalities, such as secondhand smoke.
+
+45
+00:07:22.660 --> 00:07:33.960
+Justin White: And negative internalities, because consumers might make biased decisions due to addiction and other factors. And the increased cost of smoking due to externalities and
+
+46
+00:07:33.960 --> 00:07:39.330
+Justin White: Reduced benefits of smoking due to internalities, they can be quite substantial for tobacco products.
+
+47
+00:07:39.330 --> 00:07:48.859
+Justin White: So once we factor those externalities and internalities into the equation, an unregulated market would lead to substantial deadweight loss.
+
+48
+00:07:48.860 --> 00:08:04.020
+Justin White: Whereas an MFPL is going to actually reduce this inefficiency compared to sort of the unregulated market. And that's even if the floor price is not set optimally, such that it would sort of perfectly offset the, these externalities and internalities.
+
+49
+00:08:04.250 --> 00:08:19.959
+Justin White: So, in optimally set floor price, again, sort of, like, perfectly offsetting those externalities and internalities, that would eliminate any inefficiency and be sort of just as optimal as a tobacco excise tax that was optimally set would be… would do.
+
+50
+00:08:20.570 --> 00:08:38.379
+Justin White: However, there's a key difference between taxes and MFPLs that a tax is going to raise revenue that can be used to cover things like healthcare costs or, you know, fund prevention programs, whereas a floor price can reduce consumption to the right level.
+
+51
+00:08:38.380 --> 00:08:49.969
+Justin White: But the extra money is going to the tobacco companies through the higher prices that they charge, rather than back to society. So what this means is that a well-designed tax is still going to be sort of the first best
+
+52
+00:08:49.970 --> 00:09:02.969
+Justin White: policy approach. However, again, going back to what I said in the last slide, is that many localities are preempted from establishing their own taxes, and so they can look towards these MFPLs as an alternate.
+
+53
+00:09:03.500 --> 00:09:19.379
+Justin White: And because the extra revenue from MFPLs goes to the industry, one might expect, all else equal, for them to get less political opposition, or at least less industry opposition to being passed, rather than sort of a similar-sized tax might.
+
+54
+00:09:19.990 --> 00:09:34.469
+Justin White: Okay, so let's talk a little bit about the literature on MFPLs and what we know about them, and we're fortunate that my discussant today, as you'll hear in a moment, he's a co-author on many of these papers.
+
+55
+00:09:34.470 --> 00:09:42.520
+Justin White: So the recent wave of MFPLs, it follows an earlier generation of state minimum markup laws.
+
+56
+00:09:42.520 --> 00:10:02.249
+Justin White: that set a minimum percentage markup on the wholesale or retail prices for cigarettes. And those state laws have been found to be largely ineffective, and that's because they typically had a small impact on the price of cheap products, again, because they're having, like, setting a percentage markup.
+
+57
+00:10:02.420 --> 00:10:13.720
+Justin White: And they often still allowed cigarette price promotions. In contrast, many of the local MFPLs have been coupled with a ban on coupons and price discounts.
+
+58
+00:10:13.760 --> 00:10:32.479
+Justin White: So there's been a bunch of simulation-based studies that have looked at these newer MFPLs, and they tend to find that MFPLs can decrease smoking rates, and also might decrease smoking disparities, and that's because disadvantaged groups might be disproportionately likely to smoke
+
+59
+00:10:32.480 --> 00:10:35.559
+Justin White: low-priced brands that would be affected by an MFPL.
+
+60
+00:10:36.210 --> 00:10:54.890
+Justin White: And I'll call attention to my simulation study, because it focused on Oakland, California, same as the paper I'll be talking about today. It focused on Oakland before it passed its MFPL. So, from that study, we projected that the MFPL in Oakland would lead to a reduced smoking prevalence.
+
+61
+00:10:54.890 --> 00:11:02.409
+Justin White: By about 0.3 percentage points, and decreased smoking intensity among those who continue to smoke by about 2%.
+
+62
+00:11:02.770 --> 00:11:19.779
+Justin White: So, there's only been 3 studies, to my knowledge, that have empirically tested the impact of tobacco MFPLs. Two of those have focused on MFPLs for cigars only, and they find that those MFPLs were associated with increased prices.
+
+63
+00:11:19.780 --> 00:11:37.060
+Justin White: of tobacco products and decreased sales. And then there's one recent study that found no effect of New York City's MFPL on various outcomes, including cigarette prices, cigarette consumption, or smoking status. So that's sort of the literature, the landscape.
+
+64
+00:11:37.230 --> 00:11:46.650
+Justin White: So we're trying to fill this relative evidence gap, and in this study, we're evaluating the effect of a tobacco MFPL on several outcomes.
+
+65
+00:11:46.650 --> 00:11:59.959
+Justin White: So, first, retailer compliance, which we're going to measure by whether prices rose above the floor price. We're going to look at overall sales for products subject to the MFPL.
+
+66
+00:11:59.960 --> 00:12:12.149
+Justin White: As well as sales by price segment, which we're going to define as those products that were priced above versus below the MFPL, based on the pre-MFPL prices.
+
+67
+00:12:12.870 --> 00:12:20.420
+Justin White: We're also going to look at cross-border shopping and substitution to nicotine products that were not subject to the MFPL.
+
+68
+00:12:20.680 --> 00:12:32.310
+Justin White: And I'll tell you more about those in a second. So, getting to the specifics, Oakland's MFPL was implemented in May 2020. The ordinance set a minimum price of $8 per pack
+
+69
+00:12:32.310 --> 00:12:46.630
+Justin White: for cigarettes, and $8 for a package of cigars, including little cigars and cigarios. And the ordinance, importantly, also banned price promotions that could be used to circumvent the policy.
+
+70
+00:12:46.630 --> 00:13:06.239
+Justin White: And it set a package size requirement of 20 little cigars and cigarios. So, the floor price was supposed to be adjusted annually for inflation. It's my understanding that this hasn't happened, at least the last I checked, maybe a year ago.
+
+71
+00:13:06.840 --> 00:13:23.379
+Justin White: And while the MFPL went into effect in May 2020, enforcement was delayed until August of that year, reportedly because of competing priorities for the public health department, because this was, as you might recall, during the COVID pandemic.
+
+72
+00:13:23.600 --> 00:13:30.740
+Justin White: So, Oakland also made two other policy changes at the same time as its MFPL.
+
+73
+00:13:30.840 --> 00:13:47.579
+Justin White: First, it expanded an existing flavored tobacco sales restriction, and this expansion newly covered tobacco specialty shops. So, prior to that, there was an exemption for those tobacco specialty shops.
+
+74
+00:13:47.790 --> 00:14:01.840
+Justin White: The second policy that went into effect at the same time as the MFPL is that it banned tobacco sales at retail pharmacies. And I'm going to come back to the potential effects of these co-occurring policies later in my talk.
+
+75
+00:14:02.520 --> 00:14:18.949
+Justin White: Okay, so, getting to the data that we use, we're using Nielsen retail scanner data, which were provided by the Kilt Center at the University of Chicago. Nielsen follows a panel of large retail chains nationwide, and the data track
+
+76
+00:14:19.270 --> 00:14:36.940
+Justin White: sales by individual product or UPC, and that's for each store that would… that's in their data set. Our sample is going to be restricted to stores in, the state of California, which is going to include, three types of stores.
+
+77
+00:14:36.940 --> 00:14:40.410
+Justin White: Pharmacies, convenience stores, and food stores.
+
+78
+00:14:40.820 --> 00:14:50.759
+Justin White: And our study period is July 2018 through December 2021. So, in other words, we are looking basically at the first 20 months
+
+79
+00:14:50.760 --> 00:15:05.669
+Justin White: after the policy, the MFPL policy, went into effect in Oakland. And we chose July 2018 as the start date because that's when Oakland's flavored tobacco sales restriction first went into effect.
+
+80
+00:15:05.770 --> 00:15:13.140
+Justin White: So, the data are geocoded to the 3-digit zip code, or ZIP3 level.
+
+81
+00:15:13.660 --> 00:15:26.950
+Justin White: And so, for analysis, we're going to aggregate the 30 million observations to the ZIP3 by month level, and that's going to give us an analytic sample size of about 26,000 observations.
+
+82
+00:15:27.760 --> 00:15:41.429
+Justin White: So, if we look at some sample characteristics, you know, just very briefly, our, analytic sample had about 3,500 stores. This included 27 stores located in Oakland.
+
+83
+00:15:41.430 --> 00:16:00.279
+Justin White: And, 89 in the, Oakland adjacent border zip 3, which is that Zip 3 that started with 945. So, Oakland Zip 3, which basically circumscribes the entire city, is 946. The adjacent zip code that we're going to look at for cross-border shopping is 945.
+
+84
+00:16:00.280 --> 00:16:19.200
+Justin White: All the others, ZIP3s, which is the vast majority, they're going to be located, in the rest of California, and they are the donor pool of potential control units, and we're going to construct a matched control group for Oakland, as well as a matched control group for that Oakland-adjacent area
+
+85
+00:16:19.200 --> 00:16:24.370
+Justin White: From, the donor pool of potential control stores.
+
+86
+00:16:24.370 --> 00:16:39.189
+Justin White: So, the outcomes that we're focused on are tobacco prices and unit sales of cigarettes and cigars. Again, we're going to look overall as well as by price segment, where, just to remind you, this is defined whether the
+
+87
+00:16:39.190 --> 00:16:48.950
+Justin White: pre-MFPL median price for that product, or UPC, was above or below the $8 cutoff for the floor price.
+
+88
+00:16:49.460 --> 00:17:00.109
+Justin White: We are not going to look at the, above $8 segment for cigars, just because those sales data were quite sparse, in Oakland.
+
+89
+00:17:00.200 --> 00:17:07.979
+Justin White: We're also going to look at product substitutes in the form of, e-cigarettes and vaping products, which I'll refer to here as ENS products.
+
+90
+00:17:07.980 --> 00:17:26.419
+Justin White: As well as nicotine replacement therapy, or NRT products, such as the nicotine patch or lozenges. And, we're focused on NRT here, because they serve as sort of an imperfect proxy for whether the MFPL might have led people to make, more quit attempts as a result of the MFPL.
+
+91
+00:17:27.030 --> 00:17:40.040
+Justin White: So, getting to our, analytic approach, that's gonna involve comparing tobacco prices and sales in Oakland versus the, the set of, versus a matched group of Zip3s in non-bordering areas.
+
+92
+00:17:40.040 --> 00:17:54.200
+Justin White: And we are using synthetic difference in differences for estimation. What this does is it's gonna algorithmically find the average of the ZIP3s that basically best match the pre-MFPL outcome trend.
+
+93
+00:17:54.350 --> 00:18:15.469
+Justin White: And this has basically, like, a weighted two-way fixed effects structure, if you're familiar with a two-way fixed effects model. And I'm quite fond of SDID. It tends to perform quite well, and I think is a really strong approach, especially when you have a single treated group like we have here.
+
+94
+00:18:15.930 --> 00:18:31.210
+Justin White: So SDID has a few strengths that are worth, commenting on, when you compare it to regular difference-in-differences or, regular synthetic control analysis. So, the first thing is that, SDID only is going to require
+
+95
+00:18:31.210 --> 00:18:37.680
+Justin White: parallel trends for identification. What that means is that we only need the pretreatment outcomes in Oakland
+
+96
+00:18:37.680 --> 00:18:55.210
+Justin White: versus its sort of like matched comparator group to have the same trend, but not necessarily the same level. Like synthetic control, SDID is going to include a set of weights for each ZIP3 to construct this matched, control group.
+
+97
+00:18:55.210 --> 00:19:01.739
+Justin White: And this is gonna make it, easier to satisfy the parallel trends assumption that we're gonna have to meet here.
+
+98
+00:19:01.740 --> 00:19:13.809
+Justin White: And it's, there's been some simulation evidence that shows that SDID tends to be less biased and more precise than, difference-in-differences and synthetic control models.
+
+99
+00:19:14.110 --> 00:19:33.680
+Justin White: Okay, so if, show here, whoops, I apologize. So here, you can see the STID equation, which estimates the average treatment effect on the treated, which is this tau parameter, or it… this is the ATT. And so our model has
+
+100
+00:19:33.680 --> 00:19:37.860
+Justin White: fixed effects for, each ZIP3, which is going to account for
+
+101
+00:19:37.860 --> 00:19:52.220
+Justin White: area-specific factors that don't vary during the study period. We're gonna have fixed effects for month, beta T, that's gonna account for period-specific factors that are gonna be common across all ZIP3s.
+
+102
+00:19:52.270 --> 00:20:11.820
+Justin White: The SDID procedure is also going to include these two sets of weights. I already sort of referred, to one of them. The first one is these unit-specific weights, omega. They take the weighted average of those potential control units to find the best fit for the pre-policy treatment group.
+
+103
+00:20:12.250 --> 00:20:28.299
+Justin White: That's gonna be very similar to the weights that we find in a regular synthetic control analysis. In our case, we're going to be constructing, again, a synthetic Oakland that's going to basically match the pre-period, pre-policy sales, in Oakland itself.
+
+104
+00:20:28.950 --> 00:20:45.029
+Justin White: The second set of weights are the time-specific weights lambda, which are designed to balance the post- and pre-treatment outcomes for control units, and that can improve the counterfactual trend that we're basically estimating the effect off of.
+
+105
+00:20:45.480 --> 00:21:01.660
+Justin White: And so then, we're going to, determine statistical significance using a permutation-based procedure, which is similar to what is used within synthetic control. We're also going to estimate event studies.
+
+106
+00:21:01.700 --> 00:21:19.320
+Justin White: And as a sensitivity check, we're going to implement regular synthetic control analysis, adjusting for a range of sociodemographic factors listed here. I'm not actually going to show you those results. They are in our supplement. I can describe them in the Q&A if you'd like, but basically they're very similar to our main results.
+
+107
+00:21:19.590 --> 00:21:28.010
+Justin White: Okay. So, let me pause here, for, questions, from our discussant in the audience. Thanks.
+
+108
+00:21:28.010 --> 00:21:46.490
+Jamie Hartmann-Boyce: Thank you so much, Dr. White. Audience members, please do keep those questions coming in. But first, we'll hand over to our discussant for today. That's Dr. Kurt Ribisol, professor and Chair of the Department of Health Behavior at the UNC Gillings School of Public Health. He studies the sales and marketing of tobacco products.
+
+109
+00:21:46.490 --> 00:21:50.810
+Jamie Hartmann-Boyce: And is the PI of the UNCT course. Over to you, Dr. Robesil.
+
+110
+00:21:51.070 --> 00:21:59.350
+Kurt Ribisl: Great, thank you so much. I'm very excited about this particular policy solution and this really nice study that Dr. White and others have done.
+
+111
+00:21:59.420 --> 00:22:04.810
+Kurt Ribisl: So, just a couple things about a background on these minimum floor price laws.
+
+112
+00:22:04.830 --> 00:22:18.179
+Kurt Ribisl: Part of what motivated me to be interested in studying this is that low-income people smoke at much higher rates than higher-income people, or less educated people than higher educated, and you see sometimes a gradient
+
+113
+00:22:18.180 --> 00:22:25.740
+Kurt Ribisl: From the, lower SES individual smoky in the 5, 6, 7%, up to 20, 25, even…
+
+114
+00:22:25.740 --> 00:22:46.320
+Kurt Ribisl: You know, up to 20-25% for higher… I'm sorry, for the lower-income individuals, and 5… 5-7% for higher-income individuals. And people with PhDs have, I believe, a 2-3% smoking rate, whereas some trade professions have 35% smoking rates. So there's this big disparity. We have not narrowed this disparity much over time.
+
+115
+00:22:46.320 --> 00:22:54.630
+Kurt Ribisl: But I think the floor price has one of the greatest potentials for narrowing this gap between low-income and high-income smokers.
+
+116
+00:22:54.700 --> 00:23:14.130
+Kurt Ribisl: Now, these laws originally came about because of, sort of anti-competitive, trade practices. They were not designed for health. They were designed to protect a mom-and-pop shop from a larger retailer that would come in, lower prices, ruin competition, and so forth.
+
+117
+00:23:14.130 --> 00:23:23.539
+Kurt Ribisl: When we first started studying them, we weren't really… we were kind of striking out. We found most states… or over half the states have something on the books, and it's been there for a long time.
+
+118
+00:23:23.540 --> 00:23:35.039
+Kurt Ribisl: But the prices weren't much different, between the states with these floor prices and without. But they also weren't designed, for, to reduce tobacco use or the public health effects.
+
+119
+00:23:35.040 --> 00:23:44.850
+Kurt Ribisl: So, that was a little bit frustrated, was a little bit frustrating early on, because we thought they had such promise. And part of the reason for the promise is, in a way.
+
+120
+00:23:45.120 --> 00:24:05.070
+Kurt Ribisl: lower-income people, smoke products that are cheaper. Some, you know, on average, I'm not saying every single person, but in general, they're smoking, generic and cheaper brands. So if you can increase those prices, it will be more like a targeted approach.
+
+121
+00:24:05.120 --> 00:24:23.150
+Kurt Ribisl: to increasing price among low-income people who suffer the most from cancer-related, tobacco-related deaths, and have the greatest health effects. So, in some ways, this is potential. Now, you want to earmark money to help low-income people quit, as well, and not just try and increase prices on them.
+
+122
+00:24:23.580 --> 00:24:25.390
+Kurt Ribisl: I would, …
+
+123
+00:24:25.450 --> 00:24:41.359
+Kurt Ribisl: just, you know, mentioned, so they also were a useful tool in places that, like Justin mentioned, you can't raise taxes for certain reasons. And also, politically, you can't raise taxes, so sometimes there's a policy, but politically, this is a policy that may have a little bit less objection.
+
+124
+00:24:41.360 --> 00:24:54.009
+Kurt Ribisl: And you can do it. Some people are against them, and Justin acknowledged this, because the pr… you know, if you have a tax increase, the money can go toward the state tobacco control program, or the local program, or the general fund.
+
+125
+00:24:54.010 --> 00:25:12.529
+Kurt Ribisl: But this, the retailer and the company can sort of keep the extra, can keep some of the extra money. And when people ask me, why would you do it, if that's the case? And I think we have to think, what is our goal? And I've been… several people really think these are bad policies, and because
+
+126
+00:25:12.620 --> 00:25:28.050
+Kurt Ribisl: you know, they believe that you should, you know, they believe that you don't want to do anything that helps the industry. But my point is not… my goal is to reduce the death and disability from tobacco use, and to, reduce tobacco use, and especially reduce disparities.
+
+127
+00:25:28.050 --> 00:25:43.539
+Kurt Ribisl: And so, that's why they're a second-best approach. They're not the best. Excise taxes are better, that's the first line, and Justin made that very clear. But I think if you pair them with a higher excise tax that brings in the revenue, coupled with a floor price that thwarts the industry
+
+128
+00:25:43.540 --> 00:25:49.409
+Kurt Ribisl: from shifting, sometimes they over and under shift, and Justin, you might want to talk a little bit about that if you've done work in that space.
+
+129
+00:25:49.410 --> 00:25:57.490
+Kurt Ribisl: But you don't want the industry to constantly, if there's a dollar price hike, let the cheap products, price go up maybe 5 or 10 cents.
+
+130
+00:25:57.490 --> 00:26:12.860
+Kurt Ribisl: the more expensive products, where the higher-income smokers, they may go up $1.20. So, there's some shifting that they can address. So, there's some reasons why I think combining them is smart. I'd love to hear your thoughts, Justin, on that kind of policy. Oakland had both.
+
+131
+00:26:14.120 --> 00:26:24.219
+Justin White: Yeah, I appreciate all of that background, and, you know, highlighting some of the points that I did not have time to make around, sort of, like, the history of, …
+
+132
+00:26:24.370 --> 00:26:47.179
+Justin White: these minimum pricing policies. So, yeah, Oakland, you know, they are not able to set their own tax, although there is an existing excise tax at the state level in California, which is, you know, fairly large relative to other states, and I do think that, you know, so I've done a little bit of work on the effect of the tax increase,
+
+133
+00:26:47.230 --> 00:26:50.010
+Justin White: That happened most recently there, a $2 bump.
+
+134
+00:26:50.010 --> 00:27:12.620
+Justin White: Which, did substantially reduce smoking. And so I think that, you know, like you're saying, that the combination of an MFPL with excise taxes can be quite effective, I think, and it is a great strategy. And, you know, depending on, sort of, if you're a local policymaker who
+
+135
+00:27:12.620 --> 00:27:17.950
+Justin White: can affect prices through taxes, I think MFPLs, again, are a great approach.
+
+136
+00:27:20.190 --> 00:27:21.290
+Kurt Ribisl: Right.
+
+137
+00:27:21.470 --> 00:27:25.159
+Kurt Ribisl: Dr. Hartman-Boyce, maybe you want to go to some of the questions in the webinar chat.
+
+138
+00:27:25.160 --> 00:27:39.350
+Jamie Hartmann-Boyce: Thanks so much, will do. So there's clearly a lot of interest in, kind of, the background and context in understanding these policies. So I'm gonna… we have time for a few questions now. Were there any legal challenges to the MFPLs that you knew of?
+
+139
+00:27:39.850 --> 00:27:53.539
+Justin White: So there was not one in Oakland. To my knowledge, there have not been major challenges in other places as well. Kurt probably knows this better than I am… I do, but I have not heard of any.
+
+140
+00:27:54.010 --> 00:27:56.260
+Kurt Ribisl: I know the California Tobacco Program and others
+
+141
+00:27:56.260 --> 00:28:17.290
+Kurt Ribisl: vet these, and they have this red light, green light, blue light, I mean, red light, green light thing. And if it's a really risky strategy, they don't encourage states to… and localities to do it. I know that, I believe it's withstand… stood some challenges. I see from the list, we have several people from AG's offices and several attorneys. I would love them to enter into the chat, but my understanding
+
+142
+00:28:17.290 --> 00:28:23.289
+Kurt Ribisl: is that, they have survived challenges. There's almost always challenges, but it's whether you prevail, and I think they have.
+
+143
+00:28:24.480 --> 00:28:26.179
+Jamie Hartmann-Boyce: Great, thank you.
+
+144
+00:28:26.320 --> 00:28:34.449
+Jamie Hartmann-Boyce: Next one. Has anybody found a way to monitor and correlate a possible shift to the black market when these policies come into play?
+
+145
+00:28:34.550 --> 00:28:36.590
+Justin White: So this is, …
+
+146
+00:28:36.590 --> 00:29:01.510
+Justin White: you know, often a challenge, I think, in studying. In our sales data, we have… we're not able to do that. I know that in a bunch of the simulation studies, including the Oakland one that I referred to earlier, others that I know Kurt has been a part of, there, we have built in sort of an assumption about the degree of evasion that might occur, and so that's one way that
+
+147
+00:29:01.510 --> 00:29:17.969
+Justin White: that sort of has been factored into some of the simulation evidence, but it's not something that I can speak to directly in my data, and it's really, I think, not possible with using the retail sales data that we're using. You'd need other approaches, yeah.
+
+148
+00:29:17.970 --> 00:29:26.440
+Jamie Hartmann-Boyce: Thanks, that makes sense. Do you know if increases in tobacco product pricing, has that had any effect on the price of NRTs?
+
+149
+00:29:26.670 --> 00:29:32.009
+Justin White: Yeah, so I'm gonna show that evidence actually later, so maybe I can table that. Okay, let's see.
+
+150
+00:29:32.010 --> 00:29:32.550
+Jamie Hartmann-Boyce: that one.
+
+151
+00:29:32.550 --> 00:29:39.100
+Justin White: Yeah, but generally there's not… I think we don't find an effect of that, but we did want to look at it.
+
+152
+00:29:39.100 --> 00:29:57.620
+Jamie Hartmann-Boyce: Great, and last question for now. Is there a possibility to offset the resulting increase in the revenues of tobacco companies by imposing a special income tax on revenues derived from the business of tobacco, or non-allowance of certain expenditures involved in the tobacco business as an income tax deduction?
+
+153
+00:29:57.800 --> 00:30:09.760
+Justin White: So in principle, I believe that that is possible. I don't think that's possible for, local jurisdictions to do in California, getting back to the, issue with,
+
+154
+00:30:10.170 --> 00:30:12.739
+Justin White: You know, that, …
+
+155
+00:30:12.920 --> 00:30:25.810
+Justin White: yeah, that they're not allowed to. But yeah, yes, I believe, you know, those sorts of taxes, I think, could be… could be done. I'm not sure if an income tax… so this is, you know.
+
+156
+00:30:25.810 --> 00:30:34.289
+Justin White: an income tax as opposed to an excise tax, I think is still… might not be allowed, if it's specific to an industry, but I'm not 100% sure about that.
+
+157
+00:30:34.290 --> 00:30:35.239
+Jamie Hartmann-Boyce: Okay, thank you.
+
+158
+00:30:35.240 --> 00:30:35.560
+Kurt Ribisl: one's.
+
+159
+00:30:35.560 --> 00:30:36.920
+Jamie Hartmann-Boyce: Oh, go ahead, girl.
+
+160
+00:30:36.920 --> 00:30:45.180
+Kurt Ribisl: Can I just mention one quick thing? Sorry to interject. So, one thing, you have licensing fees in most jurisdictions for tobacco product retailers.
+
+161
+00:30:45.180 --> 00:31:02.500
+Kurt Ribisl: And so, in some places, there's almost no fee, or it's a nominal $50 fee. But this, to me, is a great opportunity to increase the cost for tobacco retailers, and there's good evidence from other countries, when they increase the fees up much higher than they are, they could be in the thousands.
+
+162
+00:31:02.500 --> 00:31:16.399
+Kurt Ribisl: That discourages the number of retailers from carrying the product line, and so you can cut the density of tobacco retailers through this approach, through increasing licensing fees. So, I think that's a good, viable option. Thanks.
+
+163
+00:31:16.970 --> 00:31:20.060
+Jamie Hartmann-Boyce: Fantastic. Thank you. Over to you, Justin.
+
+164
+00:31:20.240 --> 00:31:32.420
+Justin White: Okay, great. So, I'm gonna move on to my results. So here are our overlapping histograms looking at the median cigarette price per pack.
+
+165
+00:31:32.970 --> 00:31:45.400
+Justin White: from the year before the MFPL went into effect, and the year after. And so you can see that there's this distinct sort of rightward shift in the distribution.
+
+166
+00:31:45.400 --> 00:31:57.869
+Justin White: You know, prior to the MFPL, there is a, you know, decent percentage of products that were being sold, below… for a price below the MFPL.
+
+167
+00:31:57.870 --> 00:32:19.180
+Justin White: after, you can see that there are very few, that are being sold below the $8, and so this… from this, we derive sort of a percentage of, products that were complying, which, we estimate to be about 98% of, retail… of, UPCs were priced above that $8 minimum.
+
+168
+00:32:19.180 --> 00:32:38.229
+Justin White: So, there was fairly good compliance on the retailer side. You know, why is this not 100%? It's something that we were not able to address. We would expect, though, that, you know, there should be, you know, full 100% of the products sort of to the right of that $8 line.
+
+169
+00:32:38.910 --> 00:32:42.299
+Justin White: And so, …
+
+170
+00:32:42.470 --> 00:32:52.960
+Justin White: So it is actually, though, about 20% of all cigarette sales were for under $8 products, when the MFPL went… at the time that the MFPL went into effect.
+
+171
+00:32:53.460 --> 00:32:56.430
+Justin White: Okay. So, …
+
+172
+00:32:56.600 --> 00:33:19.540
+Justin White: Then, if we move to, jumping to, our SDID estimates, and this is sticking with the median cigarette price per pack, which is sort of our first outcome of interest, and I'm going to start with the under $8 segment. So again, this is the low-priced cigarettes that were, you know, priced below the MFPL, below the floor price.
+
+173
+00:33:19.540 --> 00:33:22.170
+Justin White: Prior to the ordinance going into effect.
+
+174
+00:33:22.170 --> 00:33:25.920
+Justin White: So, we can see, from the outcome trends on the left.
+
+175
+00:33:25.920 --> 00:33:39.539
+Justin White: that there was an increase of about 69 cents in price, of cigarettes, after, enforcement of the policy occurred in August 2020.
+
+176
+00:33:40.000 --> 00:33:59.510
+Justin White: And that's relative to sort of this secular increase that was occurring in our… the synthetic control group. So there was this sort of increase in price that was occurring over time in the control areas, but there was still this sort of jump that occurred, once the MFPL started to be enforced.
+
+177
+00:33:59.720 --> 00:34:13.600
+Justin White: And then on the right, what we see is sort of how the… that effect changed over time with, these are the… this is the event study plot. And it's showing that there were similar trends, before the policy.
+
+178
+00:34:13.600 --> 00:34:29.339
+Justin White: Indicating that the parallel trends assumption might be satisfied here. And there's a small jump during that sort of pre-enforcement transition period. That's sort of the little bump that happens between the two vertical, dotted lines.
+
+179
+00:34:29.389 --> 00:34:37.130
+Justin White: And then there's a 9% increase in cigarette prices over, once the enforcement period started.
+
+180
+00:34:37.190 --> 00:34:55.839
+Justin White: Although that price effect does erode somewhat, during that post-policy period. So, it's going from about 11% right after enforcement, and then starts to sort of, like, decrease slowly down to maybe 6 or 7%, after, the 20 month.
+
+181
+00:34:56.000 --> 00:34:57.080
+Justin White: Period.
+
+182
+00:34:57.840 --> 00:35:15.769
+Justin White: So that's median cigarette price, and then if we look at the mean cigarette packs sold, again, among the under $8 price segment, what we see is that there was about a 25% decrease in cigarette sales
+
+183
+00:35:15.770 --> 00:35:19.270
+Justin White: After the policy, started to become enforced.
+
+184
+00:35:19.400 --> 00:35:38.329
+Justin White: Although here, too, we see on the… if you look at the event study on the right, that this effect also appeared to fade a little bit over time, and that's consistent with the price trend. So, you know, if the price trend is what's, you know, if it is really the MFPL that's driving this.
+
+185
+00:35:38.330 --> 00:35:50.459
+Justin White: due to sort of increasing prices, then it makes sense that we would see sort of this fading of the effect as the price, effect starts to wane a little bit as well.
+
+186
+00:35:51.190 --> 00:36:01.919
+Justin White: Okay, so then, you know, so far we've looked only at the under $8 segment of cigarette prices, so now let's sort of, let's expand to look at cigarette prices.
+
+187
+00:36:01.920 --> 00:36:11.590
+Justin White: or cigarettes, overall, not just the under $8 segment, and we can look at the over $8 segment, too. So, we're gonna observe,
+
+188
+00:36:11.590 --> 00:36:25.769
+Justin White: Overall for cigarettes, an overall increase in cigarette price of about 1% during the post-enforcement period. That's in the rightmost column within the red rectangle.
+
+189
+00:36:27.950 --> 00:36:41.370
+Justin White: But then, it's a 9% increase for the below MFPL segment, that's what I showed you a moment ago, and there's actually a 2.4% increase for the above MFPL segment.
+
+190
+00:36:41.370 --> 00:36:54.839
+Justin White: So that's sort of interesting that in the… that these are products that were… should not have been directly impacted by the MFPL, yet we're still seeing this, slight… a smaller uptick in prices.
+
+191
+00:36:55.400 --> 00:37:11.409
+Justin White: And if we look at overall cigarette sales, we see that those declined about 15.5%, although, this is quite imprecisely estimated, just due to, sort of, the SDID procedure we're using.
+
+192
+00:37:11.450 --> 00:37:19.149
+Justin White: The below MFPL segment, this is what I showed you a moment ago, they had, cigarette sales decreased of about 25%.
+
+193
+00:37:19.680 --> 00:37:32.940
+Justin White: But we're not seeing any substitution to the above MFPL segment. So, you'll notice that those… these, coefficients are negative as well, which means that there's actually a decrease in sales
+
+194
+00:37:32.940 --> 00:37:45.429
+Justin White: for this above $8 segment as well, and so there's not really much substitution that's happening, or at least that we're able to detect between this, the sort of MFPL-affected, products.
+
+195
+00:37:45.430 --> 00:37:52.240
+Justin White: To the unaffected, higher-priced products, which is also an interesting pattern here.
+
+196
+00:37:52.610 --> 00:38:05.210
+Justin White: Okay, so now I'm going to turn to, cross-border shopping. So what happens within the ZIP3 that's located, just around, the 945 ZIP3?
+
+197
+00:38:05.310 --> 00:38:15.119
+Justin White: And you'll see that we don't find much of any change in cross-border shopping for low-priced cigarettes in the border area.
+
+198
+00:38:15.120 --> 00:38:24.110
+Justin White: So, on the left, you'll see that there's sort of this very parallel change in outcome trends between the Oakland adjacent area and its synthetic control.
+
+199
+00:38:24.110 --> 00:38:35.319
+Justin White: And then when you look at the event study, there's just sort of no difference, no effect or change over time between Oakland… the Oakland adjacent area and its synthetic control.
+
+200
+00:38:35.490 --> 00:38:43.690
+Justin White: So, neither are showing evidence of increased, cross-border shopping that's happening, which to us was a little bit surprising.
+
+201
+00:38:44.070 --> 00:38:51.059
+Justin White: Okay, so, so far I've only showed you cigarettes. The story is actually somewhat different when we look at cigars.
+
+202
+00:38:51.170 --> 00:39:07.150
+Justin White: Quite a bit different, in fact. So here, we're showing again the histograms, for, cigarette prices per pack, in Oakland during the year before, in the year after the MFPL went into effect.
+
+203
+00:39:07.150 --> 00:39:18.119
+Justin White: And what we see is that retailer compliance is abysmal. It's really… it's only 7.4% of cigars were priced above the floor price.
+
+204
+00:39:18.120 --> 00:39:35.609
+Justin White: After the policy went into effect. There's really not much evidence of a rightward shift. In other words, most cigars basically continued to be sold for less than, was stipulated under the MFPL ordinance, after it went into effect and after it was supposedly being enforced.
+
+205
+00:39:35.610 --> 00:39:49.710
+Justin White: So, we did ask county public health officials, where Oakland is located, what's going on here, you know, why is there so much noncompliance? And what they thought was happening is that was due to a few different factors.
+
+206
+00:39:49.810 --> 00:39:56.069
+Justin White: So, one is that there were a lot of competing demands, during the pandemic.
+
+207
+00:39:56.070 --> 00:40:20.059
+Justin White: And, that, you know, there wasn't much attention placed on enforcement. There was pretty limited capacity for, enforcement of tobacco policies in general during this time, and, supposedly there was, more prioritization of enforcement of the expanded flavored tobacco sales restriction that I talked about earlier. So, basically, cigars was getting a pass.
+
+208
+00:40:20.060 --> 00:40:22.090
+Justin White: Effectively.
+
+209
+00:40:22.140 --> 00:40:31.539
+Justin White: We also heard that, retailers had complained to the city, basically about being able to… being unable to stock
+
+210
+00:40:31.540 --> 00:40:43.900
+Justin White: little cigars and cigarios that were compliant with the minimum package size requirement. You might recall that there was this minimum package size requirement that was also part of this ordinance.
+
+211
+00:40:43.900 --> 00:41:07.779
+Justin White: Where you had to have at least 20, little cigars or, cigarios, and that, for a lot of UPCs, that wasn't possible, with, and so that, enforcement might have been lax for that reason as well. So, in other words, very, poor, compliance with the, among cigar, UPCs, in Oakland.
+
+212
+00:41:08.580 --> 00:41:23.249
+Justin White: And so, the SDID estimates basically confirm, what we just saw, sort of descriptively, that there was no increase in the price of, cigars during the post-enforcement period.
+
+213
+00:41:23.580 --> 00:41:35.189
+Justin White: And despite, however, and we'll come back to this later, despite, the lack of any price increase, cigar sales actually were cut in half.
+
+214
+00:41:35.400 --> 00:41:46.619
+Justin White: During the post-MFPL period, decreasing by about 50% overall, and 59% for the below MFPL segment.
+
+215
+00:41:46.890 --> 00:41:53.940
+Justin White: So, and again, I'll try to explain what we think is going on there a little bit later in the talk.
+
+216
+00:41:54.670 --> 00:42:02.199
+Justin White: For cigars, we do find a smaller degree, or some degree, of cross-border shopping.
+
+217
+00:42:02.410 --> 00:42:14.019
+Justin White: With about an 11% increase in cross-border shopping for cigar products, sort of partly offsetting the decreased sales that we see in Oakland proper.
+
+218
+00:42:14.330 --> 00:42:22.709
+Justin White: Okay, so there is some crossbar shopping for cigars, that's happening, in the Oakland adjacent area.
+
+219
+00:42:23.310 --> 00:42:37.200
+Justin White: Okay, so when we, look at what's going on with product substitution, we can see that we don't detect, substitution to, ends or NRT products in Oakland.
+
+220
+00:42:37.440 --> 00:42:42.320
+Justin White: Although the confidence intervals here are so imprecise.
+
+221
+00:42:42.320 --> 00:43:03.490
+Justin White: that they're basically not informative. So we're not really able to say much. And apologies, I thought that we do have… that I do have, … this is just looking at sales of these substitute products. We do, in the paper, also look at changes in prices of these products, and we don't find much changes in prices either, going to the question in the chat that somebody had.
+
+222
+00:43:03.840 --> 00:43:12.260
+Justin White: So there's also not any change in cross-border shopping for ENS or NRT products in that Oakland-adjacent area.
+
+223
+00:43:12.590 --> 00:43:26.930
+Justin White: Okay, so not much cross-border shopping for product substitutes happening. Okay, so we also did some back-of-the-envelope calculations of the aggregate change in sales of cigarettes and cigars.
+
+224
+00:43:26.930 --> 00:43:43.179
+Justin White: following MFPL implementation, so this was basically applying our, SDID effect estimates, or those effect sizes, combining that with sort of the number of products that were being sold by product category during the month.
+
+225
+00:43:43.180 --> 00:43:51.100
+Justin White: prior to the MFPL. So, sort of like, how big the change, was, in the post-period.
+
+226
+00:43:51.100 --> 00:44:09.360
+Justin White: And then also factoring in any offsets that happened due to cross-border shopping. And overall, what we found was that, we're estimating that the Oakland's MFPL led to some… an aggregate sales decline of, lower-priced cigarettes and cigars, about
+
+227
+00:44:09.360 --> 00:44:11.220
+Justin White: 33%.
+
+228
+00:44:11.220 --> 00:44:31.840
+Justin White: in Oakland, and an aggregate sales decline of all cigarettes and cigars of 16% to 18% after the MFPL went into effect, depending on, sort of, like, we did this a couple ways. One, we did it sort of just by product category. The other, we did it by product category and price segment.
+
+229
+00:44:31.840 --> 00:44:38.380
+Justin White: So, these are sort of, you know, fairly sizable, changes, if we take them at face value.
+
+230
+00:44:38.650 --> 00:44:51.269
+Justin White: But I do want to come back to the co-occurring tobacco policies that went into effect, because these do represent limitations and important limitations
+
+231
+00:44:51.270 --> 00:44:59.129
+Justin White: of our analyses. And so let's talk through a little bit, sort of, like, what, expected impact these other policies might have had.
+
+232
+00:44:59.240 --> 00:45:04.680
+Justin White: Because some, some of them, we, I think, might be more important than others.
+
+233
+00:45:04.840 --> 00:45:19.470
+Justin White: Okay, so first, again, Oakland expanded its sales restriction of flavored tobacco products to cover adult-only stores. Most notably, this included, tobacco specialty shops, smoke shops, and vape shop… vaping shops.
+
+234
+00:45:19.680 --> 00:45:27.339
+Justin White: And so, while this should, in general, reduce sales of cigarettes and cigars.
+
+235
+00:45:27.500 --> 00:45:39.639
+Justin White: The flavor ban was already covered, flavored cigarettes and flavored cigars in our data, because again, our data did not include those adult-only stores.
+
+236
+00:45:39.870 --> 00:45:49.580
+Justin White: So if anything, this policy would have actually pushed substitution away from these, adult-only stores.
+
+237
+00:45:49.580 --> 00:46:07.270
+Justin White: back to things like convenience stores and other types of stores that are in our data. So, a little bit counterintuitively, this, flavor ban would have actually, you know, it would have actually, acted to increase
+
+238
+00:46:07.270 --> 00:46:17.939
+Justin White: sales of cigars and cigarettes in Oakland stores, and to the extent that that would have happened, it would have actually led us to understate the effect of the MFPL.
+
+239
+00:46:18.650 --> 00:46:31.300
+Justin White: So that's one thing. The expanded flavor ban might also have dampened product substitution to ends, and so I noted earlier that we don't detect much
+
+240
+00:46:31.300 --> 00:46:49.709
+Justin White: ends product substitution, but, you know, one reason why that might be the case is because of the flavor bans that were existing in Oakland, both because of the existing flavor ban in pharmacies and other stores in our dataset, as well as this expansion that happened in the adult-only stores.
+
+241
+00:46:50.570 --> 00:46:55.879
+Justin White: Finally, the, the, this, expanded flavor ban,
+
+242
+00:46:55.880 --> 00:47:19.359
+Justin White: might have exacerbated cross-border shopping because, you know, now people are not purchasing, say, their flavored cigars. In Oakland, they might purchase them in border areas. And so that should increase cross-border shopping. So it's kind of notable that we are not observing a huge amount of cross-border shopping, even incorporating this
+
+243
+00:47:19.360 --> 00:47:23.420
+Justin White: this expanded flavor tobacco sales restriction.
+
+244
+00:47:23.420 --> 00:47:38.389
+Justin White: Okay, so that's the… this first policy that occurred at the same time. There's also a second policy, which is the pharmacy sales ban, which banned tobacco sales at retail pharmacies in Oakland.
+
+245
+00:47:39.000 --> 00:47:54.999
+Justin White: So, pharmacy sales were not a large share of cigarette and cigar sales prior to the MFPL going into effect, and so, for that reason, we think that the impact of this pharmacy sales ban would be somewhat limited.
+
+246
+00:47:55.000 --> 00:48:04.190
+Justin White: Although it could have exacerbated, cross-border shopping. So, that's the pharmacy sales band, probably, less important.
+
+247
+00:48:04.190 --> 00:48:21.400
+Justin White: The MFPL, as I mentioned earlier, also included a minimum pack size requirement for little cigars and cigarios, and we did observe, convenience stores reducing the number of cigar products that they offered.
+
+248
+00:48:21.590 --> 00:48:32.609
+Justin White: After this ordinance went into effect. And so we do actually think that this reduction in the offerings, the product offerings for cigars.
+
+249
+00:48:32.610 --> 00:48:47.370
+Justin White: might have been a big factor in why we observed such a large decrease in cigar sales. So that would be about… that decline in sales would be less about DMFPL and more about this minimum pack size requirement.
+
+250
+00:48:47.370 --> 00:48:55.150
+Justin White: So, we do think that this would… this is actually possibly the most important, of these three co-occurring policies that went into effect.
+
+251
+00:48:55.150 --> 00:48:58.230
+Justin White: In Oakland. Okay, so, …
+
+252
+00:48:58.860 --> 00:49:10.749
+Justin White: Just summing up our findings, what we find is that there were large decreases in sales of cigarettes and cigars, especially those that were priced below the floor price.
+
+253
+00:49:10.780 --> 00:49:26.220
+Justin White: Based on those back-of-the-envelope calculations, there were these aggregate sales declines of, you know, maybe in the neighborhood of 15% to 18%, depending on our approach. Though, again, that is also somewhat imprecisely estimated.
+
+254
+00:49:26.220 --> 00:49:45.720
+Justin White: We did… we found really poor compliance with the cigar, portion of the MFPL in particular, and that suggests that this, sales decline that we observed was unlikely to be, attributable wholly, at least, due to the MFPL, and I already talked about, sort of, the lack
+
+255
+00:49:45.720 --> 00:49:48.700
+Justin White: Lax enforcement that occurred.
+
+256
+00:49:48.700 --> 00:50:01.479
+Justin White: We didn't find much evidence of cross-border shopping, especially for cigarettes, even though there were these sort of co-occurring policies that might have actually pushed consumers toward shopping elsewhere.
+
+257
+00:50:01.480 --> 00:50:17.089
+Justin White: And we also, did not find much substitution to ENS or NRT products, although especially the ENS portion is quite limited based on, sort of, the context of Oakland having this, flavored sales restriction.
+
+258
+00:50:17.700 --> 00:50:35.319
+Justin White: So overall, I think we believe that tobacco MFPLs do merit more attention as a pricing regulation, and I think there is probably an opportunity for more research for their impacts. So, thanks so much. I'll now turn it back over to Kurt and Jamie.
+
+259
+00:50:35.790 --> 00:50:45.050
+Jamie Hartmann-Boyce: Thank you so much, Justin. Over to you, Kurt, and please do keep those questions coming as well to our audience members. If we don't get to all of them, they will be sent to Justin afterwards.
+
+260
+00:50:45.940 --> 00:50:49.090
+Kurt Ribisl: Great, thank you so much, that was just excellent. So.
+
+261
+00:50:49.180 --> 00:50:55.739
+Kurt Ribisl: First, this is probably the best evidence we have of the potential impact of a well-implemented
+
+262
+00:50:55.740 --> 00:51:16.020
+Kurt Ribisl: minimum price law, floor price law, and you had a… you had a really strong design with this difference-in-difference approach, the synthetic controls, you had high compliance, at least on the cigarette side. So this, I think, really is the best test of their… of their merit, and I think they passed the test. And even if you have some cross-border evasion, which is not ideal.
+
+263
+00:51:16.110 --> 00:51:31.130
+Kurt Ribisl: still, in our simulation studies and your real-world one, it shows that there still can be an effect. So, almost every policy has some types of unintended consequences, and you have to make a go-no-go decision, but even with some limitations, it seems like a solid policy.
+
+264
+00:51:31.150 --> 00:51:40.169
+Kurt Ribisl: Secondly, the enforcement, the compliance was challenging on the cigars, and that was a bit… that was a little bit, surprising.
+
+265
+00:51:40.170 --> 00:51:59.499
+Kurt Ribisl: We know that, little cigars and cigarettes often, have a higher use rate among, black individuals, and sometimes Latino populations, and from a disparity standpoint, we've really got to make sure that that is addressed in sort of the next phase, and we really need to better under
+
+266
+00:51:59.500 --> 00:52:07.900
+Kurt Ribisl: understand that. You could say it's really complicated to enforce these, but what's interesting, the… this is a, I think.
+
+267
+00:52:07.900 --> 00:52:26.999
+Kurt Ribisl: of the two types of floor price laws out there, one is just a set price. It's $8 or higher. Other places have different numbers, but that's easy to enforce. The one that's hard to enforce are, like, the minimum markup laws that say it has to be 8% above the wholesale price. If you have 100 stock keeping units, you may have 100 minimum prices.
+
+268
+00:52:27.000 --> 00:52:44.690
+Kurt Ribisl: And so, in New York, they have these books, sometimes of, like, 40, 50 pages of price sheets, and so it's almost impossible, but when you have a single price, it makes it much more enforceable, and that's the next, I think, frontier. And the final point, I would say, is that waning impact that you saw in several cases.
+
+269
+00:52:44.690 --> 00:52:47.620
+Kurt Ribisl: You know, that… it's… my understanding from the…
+
+270
+00:52:47.670 --> 00:52:51.459
+Kurt Ribisl: Economic… economists is that you get the biggest price shock
+
+271
+00:52:51.460 --> 00:53:15.960
+Kurt Ribisl: In the beginning. So if you have an increase, you see the price shock, and then the kind of effect weighs off. Over time, it sort of wanes. So that's kind of typical. And for instance, when New York City implemented their minimum price law, they started with a $10 floor price on cigarettes. Then they went to $13. So it may make sense, you talked about periodically refreshing it. As an economist, is it better to say, let's wait 3 years and increase it by a buck or two?
+
+272
+00:53:16.080 --> 00:53:32.239
+Kurt Ribisl: Or do you do the inflation adjustment? Which just kind of ties into a question when someone said, what would you advise the people to do? Because I would be trying to figure out the enforcement of the cigars, but would you do, cost of living, or would you try and do a bump a few years later? What's best?
+
+273
+00:53:32.580 --> 00:53:45.000
+Justin White: Yeah, it's a good question. I think that, the larger increase is going to be more salient for consumers, and so, you know, all things equal, I think that would have a bigger impact.
+
+274
+00:53:45.000 --> 00:53:53.569
+Justin White: However, if that's not built into the ordinance, that that would require additional action from the local government, and, you know, …
+
+275
+00:53:53.830 --> 00:54:17.299
+Justin White: oftentimes that might not happen. And so for that reason, I think if you're relying on, sort of, continued regulatory action, that, you know, it's possible that those sorts of regular bumps might not occur. So I think building in the inflation adjustment for, you know, adjusting for the fact that, the, you know, the
+
+276
+00:54:17.340 --> 00:54:28.519
+Justin White: the floor is going to basically be eaten up by inflation over time, I think it is, probably something that I'd recommend, just because it doesn't… it's sort of like an automatic increase.
+
+277
+00:54:30.030 --> 00:54:37.049
+Jamie Hartmann-Boyce: Thanks so much, and thank you so much to our discussant. I'm going to move over to some audience questions now in our last 5 minutes.
+
+278
+00:54:37.050 --> 00:54:51.490
+Jamie Hartmann-Boyce: So, first one, would it be worthwhile to look at the effects on sales of other spillover products? For example, decreases in beer purchases may have spillover public health benefits, decreases in baby formula purchases may have spillover public health costs.
+
+279
+00:54:51.810 --> 00:54:56.379
+Justin White: Yeah, definitely. It's not something that we looked at here, I think,
+
+280
+00:54:56.380 --> 00:55:19.469
+Justin White: one could imagine that there are spillovers. If people are shopping elsewhere for their tobacco products, they could be shopping for other products elsewhere as well, and so I think that that would be important to look at. Alternatively, if people are spending less money on tobacco, then they could be spending more money on other goods. So, in general, I think that that's great. It's just not something that we looked at here.
+
+281
+00:55:19.610 --> 00:55:28.119
+Jamie Hartmann-Boyce: Great. And just to clarify for us, Justin, with those co-occurring policies, did they occur at the exact same time, or slightly later?
+
+282
+00:55:28.120 --> 00:55:31.050
+Justin White: I believe they went into effect at the exact same time.
+
+283
+00:55:31.050 --> 00:55:43.750
+Jamie Hartmann-Boyce: exact same time. Thanks so much. Next question. I'm gonna rapid fire for you here. Would the prohibition on coupons and discounting accomplish the same outcome as the minimum price on cigarette packs?
+
+284
+00:55:44.380 --> 00:55:57.820
+Justin White: It's hard to say. I think that, you know, one of the lessons from the state minimum markup laws that, both Kurt and I talked about earlier is that, you know, banning these, price discounts can be important.
+
+285
+00:55:57.820 --> 00:56:13.389
+Justin White: I think that, if nothing else, that it would sort of, lead to a smaller change, but I don't know if it would sort of accomplish the exact same thing if you, just had sort of a price, you know, a ban on coupons, but not
+
+286
+00:56:13.610 --> 00:56:16.979
+Justin White: also having a 4.
+
+287
+00:56:16.980 --> 00:56:27.740
+Kurt Ribisl: I'm a fan on all of the above of what Mike mentioned, but you still are going to have this, you know, the high-priced brands all the way down to the lower, and you're trying to just affect that lower bit.
+
+288
+00:56:27.740 --> 00:56:42.809
+Kurt Ribisl: And then even if you don't do the coupons, which coupons can be on Marlboro, the higher, the more premium brands, so it is a little something different, but if I could have any policy, it would be banning all price discounting. That's the one that… there's so many
+
+289
+00:56:42.810 --> 00:56:48.690
+Kurt Ribisl: products on buy-down. It's a big strategy by the industry, and that's how they keep retailers always,
+
+290
+00:56:48.880 --> 00:56:54.719
+Kurt Ribisl: Advertising product, because as a requirement of getting that discount, you have to put a lot of ads up in prime placement.
+
+291
+00:56:55.330 --> 00:57:04.959
+Jamie Hartmann-Boyce: That leads me nicely onto another audience question. So, Justin, if you could ask the Oakland Mayor and Town Council about the next steps here, what are two new ideas you might recommend?
+
+292
+00:57:05.140 --> 00:57:18.220
+Justin White: Gosh, I don't know exactly what I would recommend. I mean, I think that, doing the adjustment for inflation and sort of continue, you know, would be something that would be worth
+
+293
+00:57:18.230 --> 00:57:33.660
+Justin White: doing to accomplish, sort of, the continued reduction in sales, assuming that that's sort of, you know, being eaten up by inflation. And I'd have to think about, I think, what, you know, another idea that I'd ask the mayor would be.
+
+294
+00:57:33.660 --> 00:57:34.690
+Jamie Hartmann-Boyce: Okay.
+
+295
+00:57:35.000 --> 00:57:49.039
+Jamie Hartmann-Boyce: And did you see that little… that cigar… little cigar brands and sub-brands fell, or only the UPC offerings? The asker wonders if part of the decline is the consolidation of smaller unit packages, the larger 20-unit packs.
+
+296
+00:57:49.190 --> 00:57:58.220
+Justin White: Yeah, great question. So, we definitely saw a decrease, a big decrease in the number of UPCs.
+
+297
+00:57:58.220 --> 00:58:13.540
+Justin White: We also did see… so there… you know, I didn't show it here, but I think we also looked at dollar sales, and there was a decrease in dollar sales as well. And so I think it's not just about the sort of number of UPCs, and its consolidation.
+
+298
+00:58:13.730 --> 00:58:20.529
+Jamie Hartmann-Boyce: Great, thanks. And did the number of vape shops in Oakland go down as a result of the flavor ban? Do you have?
+
+299
+00:58:20.530 --> 00:58:31.670
+Justin White: Yeah, I wish I remembered. I don't remember… this is during COVID as well, so it might not be just about the, the flavor ban that was happening. I'd have to go back and refresh my memory. It's a good question, though, Mike.
+
+300
+00:58:32.130 --> 00:58:36.630
+Jamie Hartmann-Boyce: Okay, great. Thank you so much. I'm going to hand over to our MC to close this out.
+
+301
+00:58:39.680 --> 00:58:54.760
+Chenlan Wang: We're out of time. Thank you for our presenters, our moderator, and our discussants, and thank you all for our 135 audience, for your participation, and have a wonderful and top-notch weekend.
+
