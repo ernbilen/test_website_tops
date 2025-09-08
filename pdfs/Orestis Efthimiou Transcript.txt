@@ -1,0 +1,1586 @@
+WEBVTT
+
+1
+00:00:05.280 --> 00:00:15.899
+Sang Yun Lee: Welcome to the Tobacco Online Policy Seminar. Thank you for joining us today. I am Sang Yoon Lee, a PhD candidate in economics at University of North Carolina, Chapel Hill.
+
+2
+00:00:15.930 --> 00:00:33.649
+Sang Yun Lee: So, TOPS is organized by Mike Pascoe at the University of Missouri, Chu Xiang at The Ohio State University, Michael Durden at Johns Hopkins University, Jamie Hartman-Boyce at University of Massachusetts Amherst, and Justin White at Boston University.
+
+3
+00:00:33.650 --> 00:00:38.459
+Sang Yun Lee: The seminar will be one hour, with questions from the moderator and discussant.
+
+4
+00:00:38.460 --> 00:00:48.580
+Sang Yun Lee: The audience may pose questions and comments in the Q&A panel, and the moderator will draw from these questions and comments in conversation with the presenter.
+
+5
+00:00:48.850 --> 00:01:06.130
+Sang Yun Lee: Please review the guidelines on tobaccoPolicy.org for acceptable questions. Please keep the questions professional and related to the research being discussed. Questions that meet the seminar series guidelines will be shared with the presenter afterwards, even if they are not read aloud.
+
+6
+00:01:06.160 --> 00:01:24.989
+Sang Yun Lee: Your questions are very much appreciated. This presentation is being video recorded and will be made available, along with presentation slides on the TOPS website, tobaccoPolicy.org. I will turn the presentation over to today's moderator, Justin White, from Boston University, to introduce our speaker.
+
+7
+00:01:26.510 --> 00:01:41.170
+Justin White: Today, we continue our Summer 2025 season with a single paper presentation by Orestes Ithamio, entitled Personalized Counseling on the Use of E-Cigarettes to Achieve Tobacco Abstinence, Secondary Analysis of Data from an RCT.
+
+8
+00:01:41.170 --> 00:01:52.410
+Justin White: We are also commemorating TOP's 5-year anniversary and 112th seminar, so thank you to all who have contributed to making this seminar series a success over the past 5 years.
+
+9
+00:01:52.680 --> 00:01:57.990
+Justin White: Dr. Orestes Iftemio is a biostatistician working at the University of Berns, Switzerland.
+
+10
+00:01:58.010 --> 00:02:07.540
+Justin White: His work is focused on the development of new statistical methodologies, covering a wide range of areas, including evidence synthesis, prognostic modeling, and personalized medicine.
+
+11
+00:02:07.540 --> 00:02:19.080
+Justin White: Apart from methodological developments, he has also led or collaborated in several practical applications in a wide range of fields, including mental health, oncology, cardiology, surgery, and others.
+
+12
+00:02:19.580 --> 00:02:30.930
+Justin White: Dr. Retto Auer, an associate professor at the University of Bern, is a co-author of the study and will answer select questions in the Q&A. Dr. Iftamio, thank you for presenting for us today.
+
+13
+00:02:31.830 --> 00:02:39.410
+Orestis Efthimiou: Thank you for introducing me, and good evening from Bern, Switzerland. So let me start by sharing my screen.
+
+14
+00:02:46.460 --> 00:02:47.220
+Orestis Efthimiou: Great.
+
+15
+00:02:52.600 --> 00:03:05.469
+Orestis Efthimiou: Okay, so, the title of this talk is Specialized Counselling on the Use of e-Cigarettes to Achieve Tobacco Abstinence, Secondary Analysis of Data from NRCT, and this has been done in collaboration
+
+16
+00:03:05.580 --> 00:03:21.380
+Orestis Efthimiou: With, colleagues from the University of Bern in Switzerland. I will not name… go through all the names, I just want to mention again, Dred Toauer, who is, on the, the call, and, he had… he is the, principal investigator of the Aztec stance.
+
+17
+00:03:21.860 --> 00:03:23.419
+Orestis Efthimiou: randomized trial.
+
+18
+00:03:23.660 --> 00:03:42.170
+Orestis Efthimiou: whose 6-month follow-up data was presented by him last year in the TOPS seminar. This presentation by me today is using, again, the 6-month follow-up data. The study is ongoing, and data later follow-ups are still being collected.
+
+19
+00:03:43.560 --> 00:03:48.649
+Orestis Efthimiou: So, I'll start by saying that we have no conflicts of interest to disclose.
+
+20
+00:03:50.180 --> 00:04:00.510
+Orestis Efthimiou: Now in the background, e-cigarettes, also called electronic nicotine delivery systems, hence, are used by some people that smoke tobacco to help them quit smoking.
+
+21
+00:04:01.400 --> 00:04:10.720
+Orestis Efthimiou: And it has been shown that e-cigarettes generally tend to increase tobacco abstinence, but do not necessarily increase nicotine abstinence.
+
+22
+00:04:11.110 --> 00:04:30.669
+Orestis Efthimiou: So presenting therapy options for helping people, stop smoking should incorporate patients' preferences and values regarding both tobacco abstinence and nicotine abstinence to enable shared decision making. And I will be using these abbreviations TA and NEA throughout this presentation to denote tobacco abstinence
+
+23
+00:04:30.730 --> 00:04:32.410
+Orestis Efthimiou: And nicotine abstinence.
+
+24
+00:04:33.410 --> 00:04:46.110
+Orestis Efthimiou: So you may have individuals who are motivated for tobacco abstinence, but not necessarily about nicotine abstinence, in which case e-cigarettes might be a viable option. Or you might have people who are motivated
+
+25
+00:04:46.220 --> 00:04:59.410
+Orestis Efthimiou: for both tobacco and nicotine abstinence. In this case, we might say that e-cigarettes, should not be… is not the best option. Maybe, Citizen or Valenclin might be better suited.
+
+26
+00:04:59.800 --> 00:05:01.869
+Orestis Efthimiou: So, when cancelling patients.
+
+27
+00:05:02.070 --> 00:05:16.390
+Orestis Efthimiou: We could inform them about characteristics in our trials for whom the intervention, so giving them e-vapes, had a high or a low effect on tobacco or abstinence, while also considering the effects of the intervention on nicotine abstinence.
+
+28
+00:05:16.990 --> 00:05:23.199
+Orestis Efthimiou: To make it more explicit, the aim of this… the aims of this project was
+
+29
+00:05:23.580 --> 00:05:27.440
+Orestis Efthimiou: First one to predict the effects of e-cigarettes.
+
+30
+00:05:27.720 --> 00:05:32.089
+Orestis Efthimiou: For both tobacco abstinence and nicotine abstinence at the individual level.
+
+31
+00:05:32.620 --> 00:05:43.069
+Orestis Efthimiou: Then, to validate the predictions. And third, if these predictions are validated, then develop an online tool that can be used to implement these models in everyday
+
+32
+00:05:43.240 --> 00:05:51.520
+Orestis Efthimiou: practice. So… to what we actually wanted to know is, for a new individual with X characteristics.
+
+33
+00:05:51.950 --> 00:05:59.859
+Orestis Efthimiou: What outcomes on tobacco abstinence and nicotine abstinence do we expect based on our trial data?
+
+34
+00:06:00.200 --> 00:06:12.069
+Orestis Efthimiou: Or how to identify people who will have higher treatment effects, so high benefit from vaping devices, meaning an increase in the probability of tobacco or abstinence.
+
+35
+00:06:12.120 --> 00:06:22.029
+Orestis Efthimiou: without a great decrease in the probability of nicotine abstinence, and also people for whom we expect lower treatment effects, so low benefit. People…
+
+36
+00:06:22.120 --> 00:06:30.709
+Orestis Efthimiou: For those, those, that, the vaping devices might decrease both the chances of tobacco and nicotine abstinence.
+
+37
+00:06:32.990 --> 00:06:38.680
+Orestis Efthimiou: So, to answer these questions, we used data from the YEST Extends,
+
+38
+00:06:39.470 --> 00:06:44.710
+Orestis Efthimiou: Trials, stands for Efficacy, Safety, and Toxicology Events.
+
+39
+00:06:45.230 --> 00:06:54.850
+Orestis Efthimiou: This was a randomized trial on adults, so age above 18 years old, people smoking at least 5 cigarettes a day and willing to set a pre-take.
+
+40
+00:06:55.740 --> 00:07:04.180
+Orestis Efthimiou: The control group was standard of care, smoking cessation… smoking cancelling. I will denote that as SOC, standard of care.
+
+41
+00:07:04.820 --> 00:07:11.030
+Orestis Efthimiou: There were 30 minutes of cancelling at the baseline visit, and then 2 months of phone cancelling.
+
+42
+00:07:11.310 --> 00:07:22.119
+Orestis Efthimiou: The intervention group was standard of care, plus free e-cigarettes and choice of e-liquids for 6 months, with no specific advice, only liquid use or duration.
+
+43
+00:07:22.840 --> 00:07:29.810
+Orestis Efthimiou: The study included 1,246 participants, randomized at a 1 to 1 ratio.
+
+44
+00:07:29.900 --> 00:07:44.300
+Orestis Efthimiou: between 2018 and 2021. In 5 sites in Switzerland, people were initially followed up at 6 months, but now they start to continue. So this, study was, published in the New England Journal of Medicine.
+
+45
+00:07:44.300 --> 00:07:50.030
+Orestis Efthimiou: I have the link here, and also the, the reference.
+
+46
+00:07:51.510 --> 00:07:58.099
+Orestis Efthimiou: So, for this project, the outcomes that we focused on was, continuous tobacco abstinence.
+
+47
+00:07:58.320 --> 00:08:12.319
+Orestis Efthimiou: defined as self-depreported tobacco abstinence for 6 months. This was the first… the first outcome. The second outcome was 7 days tobacco abstinence. This is… this was biomedically… biochemically validated.
+
+48
+00:08:12.880 --> 00:08:17.830
+Orestis Efthimiou: Abstinence for the last 7 days before the 6-month visit.
+
+49
+00:08:18.220 --> 00:08:29.179
+Orestis Efthimiou: And the third outcome was 7 days nicotine abstinence, again, biochemically validated for the last 7 days before the 6-month visit.
+
+50
+00:08:30.100 --> 00:08:44.230
+Orestis Efthimiou: So these were the outcomes. The predictors that we used in order to make predictions about the effects of the intervention were… was sex, age, PHQ-9 score, which measures depression.
+
+51
+00:08:45.650 --> 00:08:59.419
+Orestis Efthimiou: Depression symptoms, time to fast cigarette of the day, a categorical variable, which was defined, which had four categories, above 60 minutes, 31 to 60 minutes, 6 to 30, and less than 5 minutes.
+
+52
+00:08:59.590 --> 00:09:01.549
+Orestis Efthimiou: Until the first cigarette day.
+
+53
+00:09:01.890 --> 00:09:05.649
+Orestis Efthimiou: Then we had number of previous smoking cessation attempts.
+
+54
+00:09:05.770 --> 00:09:17.059
+Orestis Efthimiou: Cigarettes per day, years of smoking, whether someone had tried to quit via a cigarette before, so yes or no, and also use of psychiatric medication, yes or no.
+
+55
+00:09:17.730 --> 00:09:26.099
+Orestis Efthimiou: Now, this list was predefined, so it was based on clinical experience, but without checking
+
+56
+00:09:26.610 --> 00:09:39.360
+Orestis Efthimiou: whether these variables were actually predictive of the outcome, and this is something which is related to overfitting, which is something we could be… I will, be discussing again later in this presentation.
+
+57
+00:09:41.400 --> 00:09:57.519
+Orestis Efthimiou: So here is an overview of the baseline data. Around 52-53% were males. The mean age was around 41 years old. People smoked for a mean duration of 22 years.
+
+58
+00:09:58.550 --> 00:10:08.680
+Orestis Efthimiou: So here I have the data in terms of the time to first cigarette of the day, so most people, did their first cigarette within the first 30 minutes.
+
+59
+00:10:10.020 --> 00:10:17.679
+Orestis Efthimiou: People, they had already tried, to quit smoking.
+
+60
+00:10:18.070 --> 00:10:20.769
+Orestis Efthimiou: On a… with a median of 2 times.
+
+61
+00:10:21.260 --> 00:10:38.009
+Orestis Efthimiou: The median e-cigarettes per day was 15. 17% of the individuals participating in this trial had tried e-cigarettes before, around 17… around 16-17% had tried, e-cigarettes before.
+
+62
+00:10:38.690 --> 00:10:40.150
+Orestis Efthimiou: While trying to quit.
+
+63
+00:10:41.020 --> 00:10:52.349
+Orestis Efthimiou: The mean PHP9 score was around 4.4 to 4.5, and around 18-20% of the, of the participants
+
+64
+00:10:52.650 --> 00:10:56.200
+Orestis Efthimiou: Reported the use of psychiatric medication.
+
+65
+00:10:58.380 --> 00:11:05.759
+Orestis Efthimiou: Okay, and before I go into the next part of the presentation, which is about the methods we used.
+
+66
+00:11:05.940 --> 00:11:08.140
+Orestis Efthimiou: I will stop here, and
+
+67
+00:11:08.270 --> 00:11:22.789
+Orestis Efthimiou: see if there are questions regarding the data. Perfect. And again, just to know that I'm a biostolistician, and I will have Fretto here helping me out with questions related to the data or to the study itself.
+
+68
+00:11:23.650 --> 00:11:41.439
+Justin White: Great, thanks so much. So, unfortunately, we had a last-minute issue with our discussant today, so I will be filling in in that role. I would encourage our audience to submit any of their questions in the Q&A, and we will direct those to, the…
+
+69
+00:11:41.540 --> 00:11:49.899
+Justin White: presenter. Maybe, Arrestis as a little bit of background, I think it's safe to say that most people in our audience are not, in Switzerland.
+
+70
+00:11:49.900 --> 00:11:58.739
+Justin White: And so, I'm wondering if, you could say anything about, sort of, you know, smoking and vaping prevalence in Switzerland?
+
+71
+00:11:58.740 --> 00:12:13.369
+Justin White: Or anything sort of about… maybe about the, e-cigarette regulatory environment there, sort of relevant background about, for sort of interpreting especially how your, study context might differ from, other settings.
+
+72
+00:12:14.270 --> 00:12:17.139
+Orestis Efthimiou: Yeah, for that, I will need Reto's help.
+
+73
+00:12:17.530 --> 00:12:18.330
+Orestis Efthimiou: So…
+
+74
+00:12:18.810 --> 00:12:21.480
+Reto Auer: Yeah, hello, thank you so much for Gs.
+
+75
+00:12:21.620 --> 00:12:24.640
+Reto Auer: Excellent question. Do you hear me well?
+
+76
+00:12:24.640 --> 00:12:25.390
+Justin White: Yes.
+
+77
+00:12:25.650 --> 00:12:26.300
+Reto Auer: Good.
+
+78
+00:12:26.530 --> 00:12:30.529
+Reto Auer: So… This trial starts in 2-18.
+
+79
+00:12:31.410 --> 00:12:33.830
+Reto Auer: In Switzerland, e-cigarettes.
+
+80
+00:12:34.160 --> 00:12:41.260
+Reto Auer: were a load, but without nicotine, and nicotine was a load only in 217.
+
+81
+00:12:41.410 --> 00:12:42.300
+Reto Auer: So…
+
+82
+00:12:42.560 --> 00:12:55.989
+Reto Auer: And, recruitment went from 217 to 221. So there… there is a gap, 218 to 221, and so there's a gap in maybe the experience of participants, how much they have been exposed to e-cigarettes.
+
+83
+00:12:56.020 --> 00:13:10.920
+Reto Auer: Switzerland, when they are low nicotine, aligned with the TPD in Europe, so nicotine is typically a maximum of 20 milligrams per milliliters. You don't have these limits in the U.S.
+
+84
+00:13:10.920 --> 00:13:20.269
+Reto Auer: The smoking prevalence is high, about 25% of the population report smoking in the last,
+
+85
+00:13:20.370 --> 00:13:23.680
+Reto Auer: In the last month, with,
+
+86
+00:13:23.730 --> 00:13:41.370
+Reto Auer: And that hasn't budged so much in the last years. And currently, there is a wide range of availability of nicotine products, ranging from tobacco heating system, one of the testing fields for the industry for these products.
+
+87
+00:13:41.430 --> 00:13:48.459
+Reto Auer: And since 221, the nicotine pouches and snus is also becoming prevalent.
+
+88
+00:13:48.580 --> 00:13:55.120
+Reto Auer: On the exact, proportion of part… of the population using e-cigarettes,
+
+89
+00:13:55.280 --> 00:14:11.580
+Reto Auer: Regularly, there's, there's not that much good estimates about this. It might be about daily users, about in the 2-3%, or maybe 10-20%, and that's really different between young.
+
+90
+00:14:11.750 --> 00:14:17.279
+Reto Auer: And, and, and adults. I hope that answers a little.
+
+91
+00:14:17.280 --> 00:14:41.409
+Justin White: Yeah, that's very helpful. I think also, maybe while you're here, or maybe Orestes wants to say this, I didn't see anything in the rest of the slide deck about sort of the main findings from the RCT. For those people who were not able to attend your talk, I think it might be helpful context for interpreting the secondary analyses. I wonder if you could just say a little bit, sort of a quick summary of sort of, like, what the main findings were from the RCT.
+
+92
+00:14:42.570 --> 00:14:43.230
+Reto Auer: Sure.
+
+93
+00:14:43.790 --> 00:14:48.180
+Reto Auer: So… There's some… exposure…
+
+94
+00:14:48.580 --> 00:14:58.320
+Reto Auer: I mean, it's in the appendix of the adherence to the intervention, the appendix of the publication, one can find this.
+
+95
+00:14:58.440 --> 00:15:16.400
+Reto Auer: So, the standard of care, about 80% had, in the control group, the intention to use nicotine replacement therapy, about 60% reported using them at one week, and also 5% e-cigarettes that they used on their own.
+
+96
+00:15:16.440 --> 00:15:33.720
+Reto Auer: And about 5-7% using also further smoke-session drugs, and that then got down over time. The adherence to the intervention at the beginning was about 89% reporting using e-cigarettes, at the first week.
+
+97
+00:15:33.720 --> 00:15:40.439
+Reto Auer: And then going down to about 40% at 6-month follow-up. So, the control group didn't get
+
+98
+00:15:40.750 --> 00:15:55.789
+Reto Auer: did get an intervention, right? So it was standard of care, there was smoke session counseling, and people could use nickel and brain therapy who were not provided for free, but were given a voucher, kind of, to…
+
+99
+00:15:56.850 --> 00:15:59.060
+Reto Auer: make a,
+
+100
+00:16:00.280 --> 00:16:19.100
+Reto Auer: to accelerate a little bit the groups about the monetary amount of the e-cigarettes the others received. And, so the main results, were a significant, difference, and, main continued smoking abstinence outcome, and also 7-day point prevalence.
+
+101
+00:16:19.590 --> 00:16:27.550
+Reto Auer: I need to pull out the numbers now to not say, anything, wrong.
+
+102
+00:16:27.730 --> 00:16:40.789
+Reto Auer: But it was a relative risk of 1.77, and the smoking… the continuous abstinence went from 16% in the control group to 29% in the venture group.
+
+103
+00:16:40.980 --> 00:16:46.779
+Reto Auer: But we also looked into, well, who was continuing to use the nicotine?
+
+104
+00:16:47.060 --> 00:16:55.050
+Reto Auer: And… and as you know, people continued using e-cigarettes, and so you had more people
+
+105
+00:16:55.240 --> 00:16:57.820
+Reto Auer: Continue using nicotine.
+
+106
+00:16:58.780 --> 00:17:03.379
+Reto Auer: Who are… no, you have more… more people who are abstinent.
+
+107
+00:17:05.619 --> 00:17:06.480
+Reto Auer: I'm sorry.
+
+108
+00:17:09.490 --> 00:17:19.180
+Reto Auer: So those whips. So then, when you look at the last 7 days, you had… 60%.
+
+109
+00:17:19.420 --> 00:17:22.380
+Reto Auer: Who are abstinent from smoking.
+
+110
+00:17:22.710 --> 00:17:27.449
+Reto Auer: And the last 7 intervention group, and 38% control group.
+
+111
+00:17:28.300 --> 00:17:33.420
+Reto Auer: And those who are abstain… who abstain for any nicotine.
+
+112
+00:17:33.630 --> 00:17:42.920
+Reto Auer: It was 20% intervention and 33% control room, suggesting that while we had more people who abstained from tobacco.
+
+113
+00:17:43.310 --> 00:17:46.170
+Reto Auer: You had less people who abstained from nicotine.
+
+114
+00:17:46.450 --> 00:17:50.639
+Reto Auer: And that's the question now.
+
+115
+00:17:51.480 --> 00:18:02.390
+Reto Auer: Boris tries to answer is, who is… And can we identify, though, Stop smoking. Don't… Continue using megoton.
+
+116
+00:18:02.630 --> 00:18:07.339
+Reto Auer: Or those who can stop smoking and continue using nicotine, and these different causes.
+
+117
+00:18:07.960 --> 00:18:22.350
+Justin White: Great, thank you so much. Okay, so I think in the interest of time, I'll pass it back to Orestes, and there's one question in the chat, but if that doesn't get answered by Retto in the… before the next pause, we'll ask that later. So, go for it, Orestes.
+
+118
+00:18:22.850 --> 00:18:23.390
+Orestis Efthimiou: Yep.
+
+119
+00:18:23.850 --> 00:18:42.209
+Orestis Efthimiou: Okay, so the methods, so the first thing we did is, again, try to estimate the average treatment effect of each outcome. So we estimated risk difference, meaning the probability of an event in e-cigarettes minus the probability of an event in the standard of care group.
+
+120
+00:18:42.410 --> 00:18:48.000
+Orestis Efthimiou: So, here, because the, the outcome is defined as abstinence.
+
+121
+00:18:48.140 --> 00:19:02.840
+Orestis Efthimiou: And risk difference above zero means that e-cigarettes are better, so they increase abstinence. So in all results that I will show, whenever I show a risk difference above zero means e-cigarettes are better, whenever I show a risk difference below zero means standard of care is better.
+
+122
+00:19:03.730 --> 00:19:05.999
+Orestis Efthimiou: So this was the first… the first thing was…
+
+123
+00:19:06.220 --> 00:19:11.089
+Orestis Efthimiou: The effects on average, and the second was try to actually go into the
+
+124
+00:19:11.230 --> 00:19:19.310
+Orestis Efthimiou: participant level. And for that, we fit a series of statistical and machine learning models for each outcome separately.
+
+125
+00:19:20.080 --> 00:19:23.820
+Orestis Efthimiou: So, we use a series of models, including logistic regression.
+
+126
+00:19:24.380 --> 00:19:32.580
+Orestis Efthimiou: also logistic regression with all treatment covariate interactions, finalized regression models, that is, last shown reads.
+
+127
+00:19:32.780 --> 00:19:37.019
+Orestis Efthimiou: And some machine learning models, including graduate-boosting machines and
+
+128
+00:19:37.220 --> 00:19:51.629
+Orestis Efthimiou: causal forests. So, I will not go into the detail of what exactly all these models are doing, but the main idea is that the input of these models are the baseline, the patient predictors that we discussed, so age, sex.
+
+129
+00:19:51.740 --> 00:19:53.480
+Orestis Efthimiou: And so on and so forth.
+
+130
+00:19:53.690 --> 00:20:12.939
+Orestis Efthimiou: And the output of these models is a probability of an event for all three outcomes, and for both interventions. So, we have 3 outcomes, continuous tobacco abstinence, 7-day tobacco abstinence, and 7-day nicotine abstinence, and we have 2 interventions, e-cigarettes and standard of care.
+
+131
+00:20:13.980 --> 00:20:22.549
+Orestis Efthimiou: And from that, from these probabilities for its outcome, we can estimate the effect of intervention as a risk difference. So, for each patient.
+
+132
+00:20:22.870 --> 00:20:34.670
+Orestis Efthimiou: And for its outcome, we get the probability, the predicted probability of abstinence, let's say, under e-cigarettes, and the predicted probability of abstinence under standard of care. The difference between the two is the risk difference.
+
+133
+00:20:34.990 --> 00:20:44.830
+Orestis Efthimiou: Which… Encapsulates the treatment effect, the effect of, e-vapes for this particular, individual.
+
+134
+00:20:47.100 --> 00:20:56.610
+Orestis Efthimiou: So, after fitting the models, we needed to assess which model was best, and whether the models could actually do anything, could actually predict
+
+135
+00:20:56.870 --> 00:21:00.320
+Orestis Efthimiou: So for that, to assess the model performance, we followed
+
+136
+00:21:00.410 --> 00:21:04.680
+Orestis Efthimiou: An internal and an internal-external cross-validation approach.
+
+137
+00:21:04.680 --> 00:21:25.699
+Orestis Efthimiou: So, maybe for some of you in the audience that know about prediction models, this is a standard procedure when assessing model performance. So, I will very, very quickly outline what this is. So, for internal validation, we use the tenfold cross-validation, repeated 20 times.
+
+138
+00:21:25.700 --> 00:21:28.939
+Orestis Efthimiou: So here is the, a simple graph of how this works.
+
+139
+00:21:29.250 --> 00:21:38.419
+Orestis Efthimiou: So the idea is that we do not want to test the model in the same data that it was used to develop it. And the reason behind that is that
+
+140
+00:21:38.700 --> 00:21:46.490
+Orestis Efthimiou: We can easily create a very complicated model that performs perfectly in the data that it was developed.
+
+141
+00:21:46.540 --> 00:22:05.039
+Orestis Efthimiou: But still, this model may be worthless when we apply it to new individuals. So this is something called overfitting. So the, in order to assess a model performance while avoiding this situation where the model performs seemingly perfectly, but actually is worthless.
+
+142
+00:22:05.300 --> 00:22:13.030
+Orestis Efthimiou: We follow this… Tenfold cross-validation approach, where the idea is that we split the data in 10 random folds.
+
+143
+00:22:13.400 --> 00:22:30.800
+Orestis Efthimiou: Then we take one fold out and retrain the model again at the remaining nine folds, and then test the model performance in the left-out fold. And then we cycle through all folds. So then, at the end, we have 10 measures of performance.
+
+144
+00:22:31.280 --> 00:22:43.480
+Orestis Efthimiou: And then we summarize these 10 measures of performance, and this is an assessment… this gives us an assessment of the overall model performance, and crucially, this allows us
+
+145
+00:22:43.600 --> 00:22:48.539
+Orestis Efthimiou: To get this assessment without using the same data that was used to develop the model.
+
+146
+00:22:49.570 --> 00:23:04.459
+Orestis Efthimiou: So this is an internal cross-validation, using a tenfold cross-validation approach. Then we did something called internal-external validation, which is the idea is similar to the internal validation, but now the faults are not random.
+
+147
+00:23:04.580 --> 00:23:22.420
+Orestis Efthimiou: In this case, we used the five sites where the trial was conducted. So again, we took one site out, used the remaining four sites to train the model, develop… sorry, test the model in the left-out side, and then cycle through all sites.
+
+148
+00:23:24.780 --> 00:23:38.370
+Orestis Efthimiou: we did not do an external validation approach following visit guidelines, and I realized that the citation I am giving has my name, so it seems a bit secular, but it's not only me that's,
+
+149
+00:23:38.900 --> 00:23:45.799
+Orestis Efthimiou: Recommending against external validation. I'll just give here the, the paper where we have this discussion.
+
+150
+00:23:48.230 --> 00:23:52.130
+Orestis Efthimiou: Okay, so, how to assess model performance?
+
+151
+00:23:52.710 --> 00:24:00.709
+Orestis Efthimiou: When we have models predicting a risk of an event, the usual approach is to measure something called calibration and discrimination.
+
+152
+00:24:01.450 --> 00:24:19.499
+Orestis Efthimiou: And this tells us how good the model is in identifying people who will have the event, rather than those who won't have the event, and also tells us whether the model is well calibrated. So when a model gives 30% probability of an event, it is indeed 30, and it is not 10.
+
+153
+00:24:19.610 --> 00:24:22.889
+Orestis Efthimiou: And the usual way to do that is via something called
+
+154
+00:24:23.000 --> 00:24:30.510
+Orestis Efthimiou: area under the curve, so AUC, and the calibration slope. However, and this is not something that
+
+155
+00:24:30.780 --> 00:24:37.150
+Orestis Efthimiou: It's not… it's not something that people have been doing, so much in the literature, but it's quite crucial.
+
+156
+00:24:37.640 --> 00:24:48.530
+Orestis Efthimiou: It is that when we are interested in treatment effects rather than predictions, we need to assess the performance of the model for predicting the effects, and not absolute risks.
+
+157
+00:24:49.610 --> 00:24:57.049
+Orestis Efthimiou: And this is because you can have a model that minimizes the error of outcome predictions, so absolute risks.
+
+158
+00:24:57.220 --> 00:25:15.359
+Orestis Efthimiou: But at the same time, it not minimize the error of treatment effect predictions. So you may have a model that predicts absolute risks very well, but at the same time, does not predict risk differences. So in our case, we… the target is risk differences, because we want to know the effect of the intervention.
+
+159
+00:25:15.890 --> 00:25:30.860
+Orestis Efthimiou: So, in order to do that, we assessed… to assess performance on that, we used some recently developed methods, that allowed the, assessment of performance in terms of discrimination for benefit and calibration for benefit. So, these are
+
+160
+00:25:31.040 --> 00:25:36.939
+Orestis Efthimiou: Measures that directly target effects, treatment effects, predicted treatment effects.
+
+161
+00:25:39.700 --> 00:25:50.559
+Orestis Efthimiou: And after doing that, so after doing an internal cross-validation and measuring these performance measures that I discussed.
+
+162
+00:25:50.730 --> 00:25:54.350
+Orestis Efthimiou: We selected the model, so we select the best model.
+
+163
+00:25:54.620 --> 00:26:00.909
+Orestis Efthimiou: And then we used this model to predict the treatment effect for each participant.
+
+164
+00:26:01.000 --> 00:26:15.049
+Orestis Efthimiou: And then we used these predictions to define two groups, and for that, we used the percentiles of predicted effects. So we call these two groups the high benefit group and the low benefit group. So in the high benefit group, we had
+
+165
+00:26:15.090 --> 00:26:33.549
+Orestis Efthimiou: The participants in this group were predicted to have a high benefit from e-cigarettes with respect to tobacco abstinence, without a substantial deterioration in the probability of nicotine abstinence. So, in this group, people were predicted to, via e-cigarettes, to increase the chances of tobacco abstinence.
+
+166
+00:26:33.730 --> 00:26:41.950
+Orestis Efthimiou: without decreasing too much the probability of nicotine absence. On the other side, we had the low benefit group.
+
+167
+00:26:42.520 --> 00:26:50.640
+Orestis Efthimiou: So, people in this group were predicted to benefit less from e-cigarettes with respect to tobacco abstinence, while at the same time they might increase
+
+168
+00:26:51.180 --> 00:26:52.640
+Orestis Efthimiou: The probability of
+
+169
+00:26:52.750 --> 00:26:59.899
+Orestis Efthimiou: nicotine abstinence, even if they achieved tobacco abstinence. So, in this case, in this group, there were people
+
+170
+00:27:00.090 --> 00:27:03.990
+Orestis Efthimiou: For whom the model said, that EC got it?
+
+171
+00:27:04.270 --> 00:27:05.910
+Orestis Efthimiou: Will not help them.
+
+172
+00:27:06.610 --> 00:27:09.900
+Orestis Efthimiou: So much in quitting tobacco.
+
+173
+00:27:10.030 --> 00:27:22.790
+Orestis Efthimiou: And even if they do manage to quit tobacco, then they, decrease their probability of also quitting nicotine. So they decrease the probability of both tobacco abstinence and nicotine abstinence.
+
+174
+00:27:22.860 --> 00:27:31.040
+Orestis Efthimiou: And after identifying these two groups, we summarized their characteristics and compared these characteristics to see
+
+175
+00:27:31.230 --> 00:27:35.950
+Orestis Efthimiou: How they compare, and whether we can, take something out of this information.
+
+176
+00:27:38.030 --> 00:27:50.579
+Orestis Efthimiou: One thing that always complicates things when it comes to analysis, of course, missing data. Luckily, we had very, very few missing data on covariates.
+
+177
+00:27:51.140 --> 00:28:00.319
+Orestis Efthimiou: However, we did have missing data on outcomes. This was more frequent. Around 10% of the people, we did… we did not have information on the…
+
+178
+00:28:00.500 --> 00:28:07.629
+Orestis Efthimiou: On the outcomes, the usual way that people address the missing data is via imputations.
+
+179
+00:28:07.940 --> 00:28:16.930
+Orestis Efthimiou: So… Usually multiple imputations, but in this case, we could not really do imputation, because we did not have
+
+180
+00:28:17.060 --> 00:28:20.800
+Orestis Efthimiou: Additional information that could be used to reliably impute the missing outcomes.
+
+181
+00:28:21.150 --> 00:28:38.510
+Orestis Efthimiou: So in this case, we performed a complete case analysis, so we removed participants with missing outcomes or covariates from the data. And in sensitivity analysis, we pitted the analysis after assuming that all missing outcomes were negative, so no tobacco or nicotine obstinence.
+
+182
+00:28:38.530 --> 00:28:41.250
+Orestis Efthimiou: And then we compared results with the primary analysis.
+
+183
+00:28:42.660 --> 00:28:46.809
+Orestis Efthimiou: So, before showing results, I will make another stop to…
+
+184
+00:28:46.920 --> 00:28:51.760
+Orestis Efthimiou: see whether there are any questions on what I presented, on the methods.
+
+185
+00:28:51.760 --> 00:29:08.870
+Justin White: Yeah, great. I think you did a nice job of describing them. Maybe just one or two questions. One is when you were defining the high benefit group and the low benefit group, you mentioned you used the 33rd percentile and 66th percentile, and I'm curious about, sort of.
+
+186
+00:29:09.010 --> 00:29:22.480
+Justin White: Maybe why you chose those, or if you tested sensitivity to other cutoff choices, and if… or even maybe, using something like quartiles or something, less, worse.
+
+187
+00:29:22.820 --> 00:29:39.739
+Orestis Efthimiou: So, this part of the analysis was more exploratory, so the models did not change. The predictions, the patient-level predictions were fixed, so the model was fixed. So we wanted to somehow get an idea of what is important for the models.
+
+188
+00:29:39.950 --> 00:29:57.780
+Orestis Efthimiou: And yes, indeed, we tried also other quartiles. I think in the manuscript, we will have also presenting, like, splits according to medians or quartiles. Of course, the more you split, the less people you will have in each group, so if, as I will show later on the results.
+
+189
+00:29:57.930 --> 00:30:10.669
+Orestis Efthimiou: these two groups that were created in this way had around 150 people in each group. If we kept, higher and lower percentiles, so people that really had very high predicted
+
+190
+00:30:10.790 --> 00:30:14.729
+Orestis Efthimiou: Benefit, or very low predict benefit, then there would be too few of them.
+
+191
+00:30:14.900 --> 00:30:30.320
+Orestis Efthimiou: So, yes, we also checked this insensitivity analysis, that's the short question. This is an arbitrary choice. We did other analysis by using other percentiles as well, and it doesn't really affect the results that you will see.
+
+192
+00:30:30.820 --> 00:30:31.800
+Justin White: Okay, great.
+
+193
+00:30:31.800 --> 00:30:33.650
+Orestis Efthimiou: That's a very good question, thank you.
+
+194
+00:30:34.160 --> 00:30:53.810
+Justin White: So, you, you mentioned that you, you know, you tried, multiple different machine learning models and statistical models, and then you chose based… sort of picked one based… the best performing one. If I understood correctly, it was based on discrimination and calibration, those sort of two metrics.
+
+195
+00:30:53.810 --> 00:31:05.790
+Justin White: Is there, like, a way that you combine those two, or how did you sort of, decide globally what was the best, performing, when you have those multiple criteria?
+
+196
+00:31:06.210 --> 00:31:09.409
+Orestis Efthimiou: That's also a good question.
+
+197
+00:31:10.150 --> 00:31:17.760
+Orestis Efthimiou: So the, the idea is that there are indeed measures that can combine discrimination calibration.
+
+198
+00:31:17.880 --> 00:31:28.859
+Orestis Efthimiou: like R squared, for example, this is a combination of the two. But in this case, the, for some models, it was very clear that they did not work, so…
+
+199
+00:31:28.900 --> 00:31:44.619
+Orestis Efthimiou: I will show calibration plots later in this talk, in the results section. For some models, it was completely obvious it did not work. So, the discrimination, I think that for the models that had
+
+200
+00:31:44.630 --> 00:32:01.309
+Orestis Efthimiou: good calibration, the discrimination was more or less the same, so there weren't very big differences in the discrimination, so we based our choice only on calibration at the end, because there was no real difference in the discrimination for those models that actually seemed to work.
+
+201
+00:32:02.400 --> 00:32:13.319
+Justin White: Great, okay. I'm not seeing any other questions from the audience. I'd like to encourage everybody to, if you have questions, please put them in the Q&A, and otherwise, why don't we jump to the results?
+
+202
+00:32:14.680 --> 00:32:15.340
+Orestis Efthimiou: Okay.
+
+203
+00:32:17.360 --> 00:32:35.850
+Orestis Efthimiou: Okay, so I will present results first by outcome, starting from the continuous tobacco abstinence. So, the average treatment effect in the data set we had was around 13%, so plus 13%, and again, I remind you that a positive risk difference means increased
+
+204
+00:32:36.150 --> 00:32:42.919
+Orestis Efthimiou: abstinence in e-cigarettes. So, here we have plus 13%, meaning that e-cigarettes
+
+205
+00:32:43.040 --> 00:32:47.490
+Orestis Efthimiou: Increased the chances of tobacco abstinence by around 13%.
+
+206
+00:32:48.200 --> 00:33:00.239
+Orestis Efthimiou: So this is the results on average. When we went to the, patient level, or participant level prediction, we found that the best model was RAIDS.
+
+207
+00:33:00.750 --> 00:33:10.789
+Orestis Efthimiou: In terms of performance, it had modest discrimination, an AUC around 061, and modest calibration, with a calibration slope
+
+208
+00:33:10.940 --> 00:33:13.410
+Orestis Efthimiou: of around, 085.
+
+209
+00:33:13.980 --> 00:33:21.319
+Orestis Efthimiou: the predicted treatment effects range from a risk difference of minus 4% to plus 26%. So the models
+
+210
+00:33:21.680 --> 00:33:41.410
+Orestis Efthimiou: The models… the model, predicted that there were… for some patients, predicted a benefit of plus 26%, meaning that there were participants in the data for whom the model predicted an increase of 26% in the probability of tobacco abstinence.
+
+211
+00:33:41.850 --> 00:33:49.730
+Orestis Efthimiou: If they go for e-cigarettes rather than standard of care. And the minimum was minus 4%, meaning that there were some participants
+
+212
+00:33:49.900 --> 00:33:54.840
+Orestis Efthimiou: For whom, the model, thought that the, standard of care is better.
+
+213
+00:33:56.370 --> 00:34:07.179
+Orestis Efthimiou: The, discrimination for benefit, which is measured by something called C for benefit, was rather low, 0.56, but, this is something that
+
+214
+00:34:07.480 --> 00:34:13.469
+Orestis Efthimiou: For those of us who have been doing work on personalized medicine, this is not a surprise, this is…
+
+215
+00:34:13.580 --> 00:34:26.960
+Orestis Efthimiou: the usual case, so this is something where… which is… seems low, but in practical applications, we haven't seen anything more than that. Maybe up to 060, so it seems low, but it's actually, rather…
+
+216
+00:34:27.110 --> 00:34:29.829
+Orestis Efthimiou: moderate, I would say.
+
+217
+00:34:30.670 --> 00:34:45.380
+Orestis Efthimiou: However, we found good calibration for benefit, with a slope of 099. So, again, these numbers now seem a bit, might seem a bit arbitrary, or it's hard to understand, but I will show later, a couple of slides, I will show in a graph
+
+218
+00:34:45.489 --> 00:34:47.520
+Orestis Efthimiou: What this means, exactly.
+
+219
+00:34:49.040 --> 00:35:02.489
+Orestis Efthimiou: Then we go when to the second outcome, 7 days tobacco abstinence, and again, this is 7 days before the 6-month follow-up, and this is biochemically validated tobacco abstinence.
+
+220
+00:35:02.490 --> 00:35:09.950
+Orestis Efthimiou: The average treatment effect was a risk difference of around 21%, favoring e-cigarettes, so this is on average.
+
+221
+00:35:10.820 --> 00:35:20.060
+Orestis Efthimiou: So again, the use of e-cigarettes increases the chances of tobacco abstinence. They have a beneficial effect for that outcome.
+
+222
+00:35:21.150 --> 00:35:25.619
+Orestis Efthimiou: When we went to try to predict the effects of the
+
+223
+00:35:25.890 --> 00:35:45.019
+Orestis Efthimiou: patient at the participant level, we could not, unfortunately, develop a model, good model. So all models, showed very bad performance when we did the cross-validation. So we concluded that we are unable to develop a model to reliably predict effects at the individual level for this particular outcome.
+
+224
+00:35:46.620 --> 00:36:03.959
+Orestis Efthimiou: And finally, we went to the third outcome, the 7 days nicotine abstinence. The average treatment effect for this outcome was negative risk difference, so minus 14%, which means that standard of care was favored.
+
+225
+00:36:04.130 --> 00:36:12.870
+Orestis Efthimiou: So, in other words, people that got AC gut Head up, on average, 14%.
+
+226
+00:36:13.000 --> 00:36:18.990
+Orestis Efthimiou: Smaller chances of nicotine abstinence at 6 months, as compared to standard of care.
+
+227
+00:36:20.230 --> 00:36:29.279
+Orestis Efthimiou: When we went to predict the effects at the individual level, we found that, again, rigid regulation performed best.
+
+228
+00:36:29.730 --> 00:36:35.799
+Orestis Efthimiou: Again, modest discrimination, you see around 6064, but good calibration.
+
+229
+00:36:36.390 --> 00:36:47.169
+Orestis Efthimiou: The predicted treatment effects range from minus 28% to minus 2%, so the model thought that everyone in the data set
+
+230
+00:36:47.480 --> 00:37:00.209
+Orestis Efthimiou: would benefit from standard of care rather than e-cigarettes. So there were no participants for whom the model predicted a positive effect if they switched
+
+231
+00:37:00.480 --> 00:37:02.539
+Orestis Efthimiou: to, e-cigarettes.
+
+232
+00:37:03.520 --> 00:37:10.579
+Orestis Efthimiou: The discrimination for benefit was, again, around 0.55, but the calibration for benefit was quite good.
+
+233
+00:37:11.690 --> 00:37:25.460
+Orestis Efthimiou: So, in this graph, I try to show what a good calibration for benefit means. So, these are the two outcomes for which we were actually able to develop a prediction model for the patient… for the participant level.
+
+234
+00:37:25.580 --> 00:37:27.690
+Orestis Efthimiou: Treatment effects.
+
+235
+00:37:28.130 --> 00:37:34.219
+Orestis Efthimiou: So, on the x-axis here, on the left, I have continuous tobacco abstinence. On the right, nicotine-use abstinence.
+
+236
+00:37:34.320 --> 00:37:42.209
+Orestis Efthimiou: On the x-axis, we have the predicted treatment effect, meaning risk difference, e-cigarettes versus standard of care.
+
+237
+00:37:42.510 --> 00:37:47.819
+Orestis Efthimiou: And on the y-axis, we have the observed risk difference.
+
+238
+00:37:47.990 --> 00:37:50.789
+Orestis Efthimiou: So, if you look at the left plot.
+
+239
+00:37:51.440 --> 00:37:58.320
+Orestis Efthimiou: on data, I'm not sure if you can see my pointer, but anyway, so here we have four… four…
+
+240
+00:37:58.590 --> 00:38:10.550
+Orestis Efthimiou: points in the graph. Each of these points corresponds to a group of people, so the groups here were created according to their predicted treatment effect. So, the bullet on the top right
+
+241
+00:38:10.790 --> 00:38:18.360
+Orestis Efthimiou: were… people for whom the, the model predicted a high benefit. So, the benefit here was around
+
+242
+00:38:18.560 --> 00:38:22.470
+Orestis Efthimiou: 17%, and indeed, this…
+
+243
+00:38:22.570 --> 00:38:28.110
+Orestis Efthimiou: group of people, when we actually went and looked at what is the observed treatment effect.
+
+244
+00:38:28.240 --> 00:38:38.579
+Orestis Efthimiou: Because in this group of people, half of them were randomized with cigarettes, and around half of them were randomized to standard of care, that true, the observed treatment effect was around
+
+245
+00:38:38.820 --> 00:38:39.650
+Orestis Efthimiou: 10%.
+
+246
+00:38:40.230 --> 00:38:48.260
+Orestis Efthimiou: On the other hand, we had the model identified a group With low predicted…
+
+247
+00:38:48.770 --> 00:38:53.620
+Orestis Efthimiou: effect, so that the treatment effect that the model predicted was around 6-7%.
+
+248
+00:38:53.800 --> 00:38:57.750
+Orestis Efthimiou: And the observed treatment effect was around 10 to 11.
+
+249
+00:38:58.110 --> 00:39:05.950
+Orestis Efthimiou: So, it was a bit miscalibrated, but again, the model was able to identify people with lower
+
+250
+00:39:09.050 --> 00:39:10.680
+Orestis Efthimiou: In terms of the barbar.
+
+251
+00:39:10.950 --> 00:39:17.880
+Orestis Efthimiou: If we look at the right graph for nicotine-use substance, here the calibration is almost perfect.
+
+252
+00:39:18.230 --> 00:39:20.330
+Orestis Efthimiou: So, you see here on the right.
+
+253
+00:39:20.840 --> 00:39:31.429
+Orestis Efthimiou: top, there is a group of people for whom the model predicted a low benefit, a low… sorry, in this case it's harm, so it's… the rate difference is negative, meaning that
+
+254
+00:39:32.120 --> 00:39:34.040
+Orestis Efthimiou: e-cigarettes…
+
+255
+00:39:34.450 --> 00:39:47.250
+Orestis Efthimiou: reduced the chances of nicotine absence. But this group here, for this group here, the predicted and also the observed effects, so the observed risk differences were relatively small, around 5%.
+
+256
+00:39:48.340 --> 00:39:50.609
+Orestis Efthimiou: While at the other… at the other side, there was…
+
+257
+00:39:51.120 --> 00:39:56.039
+Orestis Efthimiou: This group here on the top, on the bottom left of the graph, for whom…
+
+258
+00:39:56.150 --> 00:39:58.160
+Orestis Efthimiou: The, the model predicted
+
+259
+00:39:58.930 --> 00:40:10.430
+Orestis Efthimiou: a reduction in the probability of nicotine absence by around 20%, and indeed, the observed treatment effects were around minus 20%. So, in this case, you can see that
+
+260
+00:40:10.950 --> 00:40:14.860
+Orestis Efthimiou: The model was quite well calibrated, so it was…
+
+261
+00:40:15.070 --> 00:40:18.769
+Orestis Efthimiou: Able to identify groups of people for whom
+
+262
+00:40:19.430 --> 00:40:24.949
+Orestis Efthimiou: The use of e-cigarettes might lead to a great
+
+263
+00:40:25.050 --> 00:40:28.289
+Orestis Efthimiou: Reduction in the probability of,
+
+264
+00:40:28.400 --> 00:40:35.240
+Orestis Efthimiou: Nicotine-induced abstinence, or groups of people for whom they need cigarett would lead to a less reduction of this probability.
+
+265
+00:40:37.010 --> 00:40:54.990
+Orestis Efthimiou: So now, after having our two models, so we create, again, two models, one for continuous smoking abstinence and one for nicotine-use abstinence, and as I said, we could not create a model for the 7-day smoking abstinence. So after having our two models, and predicting
+
+266
+00:40:55.160 --> 00:41:03.670
+Orestis Efthimiou: the, the treatment effects at the patient and the participant level. We created these two groups, the high benefit and the low benefit group.
+
+267
+00:41:04.680 --> 00:41:14.190
+Orestis Efthimiou: Again here, what I will show is out-of-sample results. All the results I'm showing in this position is out-of-semble, so it's not affected by overfitting.
+
+268
+00:41:14.710 --> 00:41:19.669
+Orestis Efthimiou: So here we have… The, the high benefit group.
+
+269
+00:41:20.600 --> 00:41:36.309
+Orestis Efthimiou: There were 117 people in this group, and now I show the observed treatment effects for this group. So you see here that in the high benefit group, the average treatment effect for continued smoking abstinence was plus 13%.
+
+270
+00:41:36.320 --> 00:41:41.059
+Orestis Efthimiou: Well, in the low benefit group, it was only 2%, and with lots of uncertainty.
+
+271
+00:41:41.380 --> 00:41:47.820
+Orestis Efthimiou: Which means that The low benefit group, the people that the model identified.
+
+272
+00:41:49.130 --> 00:41:51.669
+Orestis Efthimiou: People that did not, sorry, the people for whom
+
+273
+00:41:51.950 --> 00:41:57.059
+Orestis Efthimiou: The model predicted no benefit from e-cigarettes. Indeed, there was no benefit.
+
+274
+00:41:58.090 --> 00:41:59.260
+Orestis Efthimiou: They do shops themselves.
+
+275
+00:41:59.960 --> 00:42:11.940
+Orestis Efthimiou: For the 7-day smoking abstinence, although we could not create a model for that, we could still look at what was the outcomes for these individuals here. So these are the observed outcomes.
+
+276
+00:42:12.250 --> 00:42:26.070
+Orestis Efthimiou: So, for the high benefit group, we saw a positive effect, plus 30% in the risk of, in the probability of, tobacco abstinence for the high-benefit group, while only 22% for
+
+277
+00:42:26.820 --> 00:42:29.540
+Orestis Efthimiou: And for the nicotine blue substance.
+
+278
+00:42:29.730 --> 00:42:31.680
+Orestis Efthimiou: You see that the high benefit group
+
+279
+00:42:31.890 --> 00:42:41.069
+Orestis Efthimiou: The effect of smoking was, again, negative, but only 9% as compared to minus 23% for the low benefit group.
+
+280
+00:42:41.250 --> 00:42:55.679
+Orestis Efthimiou: So overall, the people in the high-benefit group had a higher probability to continue smoking abstinence, 7-day smoking absence, and relatively smaller negative effects in terms of nicotine-use abstinence.
+
+281
+00:42:56.380 --> 00:42:59.449
+Orestis Efthimiou: While people in the low benefit group.
+
+282
+00:42:59.910 --> 00:43:06.610
+Orestis Efthimiou: Did not get any benefit at all from e-cigarettes with respect to continuous smoking abstinence.
+
+283
+00:43:07.010 --> 00:43:14.880
+Orestis Efthimiou: Had a lower benefit in terms of 7-day smoking abstinence and a higher negative effect with respect to nicotine results.
+
+284
+00:43:16.650 --> 00:43:25.810
+Orestis Efthimiou: And let's see now the characteristics of these two groups. So, the high-benefit group tended to be women, so 88% of them were women.
+
+285
+00:43:25.960 --> 00:43:41.849
+Orestis Efthimiou: With… while in the low benefit group, it was only 20%. The high benefit group tended to have older people, 51 years old, smoking for a minimum duration of 33 years, while in the low benefit group, it was
+
+286
+00:43:44.990 --> 00:43:47.670
+Orestis Efthimiou: 32.6 years old, known about it.
+
+287
+00:43:47.900 --> 00:43:49.710
+Orestis Efthimiou: With a small continuation of 14 years.
+
+288
+00:43:50.900 --> 00:44:03.260
+Orestis Efthimiou: It's also interesting that in the high benefit group, none of the people had tried e-cigarettes to eat before, 0%, while in the low benefit group, 65% had tried.
+
+289
+00:44:04.250 --> 00:44:14.899
+Orestis Efthimiou: And also, there's a… there was a big difference in terms of the psychiatric medication, 36% in the high benefit group versus 6, only 6% in the low benefit.
+
+290
+00:44:15.890 --> 00:44:21.030
+Orestis Efthimiou: And just to make these results… to, to,
+
+291
+00:44:21.240 --> 00:44:34.150
+Orestis Efthimiou: show these results a bit outside the models that we created. So all these models are quite complicated, but this is a much simpler picture here, although it's quite busy, it's quite simple, so what it shows…
+
+292
+00:44:34.620 --> 00:44:41.050
+Orestis Efthimiou: is the people, grouped by the, the, their baseline variables? So here we have
+
+293
+00:44:41.240 --> 00:44:49.139
+Orestis Efthimiou: males versus females, smoking duration above or below 20 years, and so on. And here we have the average treatment effect.
+
+294
+00:44:49.350 --> 00:45:01.060
+Orestis Efthimiou: for the three outcomes, for the two groups. So you can see here, if you look at the first row, you see here that for the continuous tobacco abstinence, the effect was
+
+295
+00:45:02.220 --> 00:45:13.530
+Orestis Efthimiou: better in females rather than males, also for the 7-day absence and for this nicotine-use abstinence. And again, a risk difference, a positive risk difference, so a risk difference that goes to… on the right on this graph.
+
+296
+00:45:13.740 --> 00:45:16.180
+Orestis Efthimiou: Means… In cigarette armpit.
+
+297
+00:45:17.580 --> 00:45:29.259
+Orestis Efthimiou: the same, the same picture was for smoking duration, again. Also, if you look at the subgroup of people that had tried
+
+298
+00:45:29.370 --> 00:45:40.640
+Orestis Efthimiou: e-cigarettes to quit before. You see that if they hadn't tried, the effect was around 15%, but if they had tried, it was only 0.7%.
+
+299
+00:45:40.800 --> 00:45:43.590
+Orestis Efthimiou: For continued, tobacco abstinence.
+
+300
+00:45:43.720 --> 00:45:47.400
+Orestis Efthimiou: And likewise, for 7 days, tobacco abstinence.
+
+301
+00:45:47.910 --> 00:46:04.870
+Orestis Efthimiou: and nicotine-use substance, it was… the results were quite different. So this is just to show that the, that the effect… that the… the groups, that the models, the personalized models identified were actually, supported by this simple analysis.
+
+302
+00:46:07.230 --> 00:46:25.629
+Orestis Efthimiou: So, now that we had created… that we had developed two models for predicting individual effects, for the two outcomes, so continuous smoking abstinence and 7-day nicotine abstinence, we created an online tool. You can access it in this, in this link here. There's also the QR code.
+
+303
+00:46:25.700 --> 00:46:27.769
+Orestis Efthimiou: So, in this tool.
+
+304
+00:46:27.980 --> 00:46:42.580
+Orestis Efthimiou: you can input participant-level characteristics on the left, and then you get real-time predictions of the effect of intervention. So, in this example I have, there's a male of 36 years old that smoked for 16 years.
+
+305
+00:46:42.940 --> 00:46:48.920
+Orestis Efthimiou: For PHQ-9 score of 5. This person's smoking 12 cigarettes per day.
+
+306
+00:46:49.210 --> 00:46:57.559
+Orestis Efthimiou: He has tried 10 times already to quit smoking. The time of the… until the first ticket of the day is around… is half…
+
+307
+00:46:57.930 --> 00:46:59.460
+Orestis Efthimiou: Out 1 hour.
+
+308
+00:46:59.840 --> 00:47:08.710
+Orestis Efthimiou: He's not taking any psychiatric medication, and he has tried e-cigarettes before to help him quit smoking. So, for this.
+
+309
+00:47:09.230 --> 00:47:10.400
+Orestis Efthimiou: person?
+
+310
+00:47:10.610 --> 00:47:18.789
+Orestis Efthimiou: Our model suggests That the effect of intervention, the effect of giving e-cigarettes, it's only 5%.
+
+311
+00:47:19.390 --> 00:47:26.500
+Orestis Efthimiou: So, the, the predicted probability of tobacco abstinence with interventions is 37%.
+
+312
+00:47:26.830 --> 00:47:38.169
+Orestis Efthimiou: And the probability of continuous abstinence, tobacco abstinence from standard of care is 32%, so there is an added 5%, so a small effect.
+
+313
+00:47:38.270 --> 00:47:48.340
+Orestis Efthimiou: of cigarettes, while if you look at 7-day nicotine abstinence, there is a huge effect in favor of standard of care. So, there is a 30%
+
+314
+00:47:48.540 --> 00:47:50.000
+Orestis Efthimiou: the reduction?
+
+315
+00:47:50.340 --> 00:47:53.759
+Orestis Efthimiou: The probability of 7-day nicotine absence if you…
+
+316
+00:47:54.370 --> 00:47:57.099
+Orestis Efthimiou: If this person, he's… he cigarettes.
+
+317
+00:47:57.620 --> 00:48:02.010
+Orestis Efthimiou: So that's the… Just an example of how this model can be used.
+
+318
+00:48:04.090 --> 00:48:10.399
+Orestis Efthimiou: So, sensitive analysis on missing data, when we assumed all missing outcomes to be failures.
+
+319
+00:48:10.570 --> 00:48:16.200
+Orestis Efthimiou: we got similar results, so I don't have much to say about this.
+
+320
+00:48:17.030 --> 00:48:20.010
+Orestis Efthimiou: So, to summarize, first, some limitations.
+
+321
+00:48:20.370 --> 00:48:35.089
+Orestis Efthimiou: We only used the 6-month follow-up, and maybe the effects we see are attenuated at later follow-up periods. This is something that hopefully we'll be doing in the future at some point, when we have new data from the trial.
+
+322
+00:48:35.890 --> 00:48:45.970
+Orestis Efthimiou: An important limitation is that this is just one RCT conducted only in Switzerland, and results might not apply to other populations.
+
+323
+00:48:46.630 --> 00:48:51.389
+Orestis Efthimiou: The sample size was limited, and
+
+324
+00:48:51.610 --> 00:49:02.760
+Orestis Efthimiou: That's because this RCT was not powered for this exercise, this RCT was powered to detect average effects, and this limited sample size
+
+325
+00:49:03.450 --> 00:49:08.810
+Orestis Efthimiou: Probably was the biggest, reason why we saw low predictive performance.
+
+326
+00:49:08.980 --> 00:49:15.509
+Orestis Efthimiou: For 7 days tobacco abstinence, modest performance for continuous tobacco abstinence, and 7 days.
+
+327
+00:49:15.650 --> 00:49:17.080
+Orestis Efthimiou: nicotine abstinence.
+
+328
+00:49:17.450 --> 00:49:28.790
+Orestis Efthimiou: Also, we did not examine any side effects here, so I used the term high benefit, low benefit, but this only applies to tobacco and nicotine abstinence. It doesn't…
+
+329
+00:49:29.170 --> 00:49:32.230
+Orestis Efthimiou: Apply to any other sort of outcomes.
+
+330
+00:49:33.290 --> 00:49:41.710
+Orestis Efthimiou: understands this is, at least to my knowledge, the largest star city in the field. I may be wrong here. Apologies if that's the case.
+
+331
+00:49:42.100 --> 00:49:49.609
+Orestis Efthimiou: We used cutting-edge statistical methodologies for model development to avoid overfitting, and also for assessing model performance.
+
+332
+00:49:50.080 --> 00:49:53.670
+Orestis Efthimiou: As 10 for us, the very few missing data on the predictors.
+
+333
+00:49:54.000 --> 00:50:11.609
+Orestis Efthimiou: We did have some missing data on the outcomes, around 10%, but sensitivity analysis suggested it might not be a big issue. And one strength was the good calibration we got for benefits, so the curves I showed you.
+
+334
+00:50:13.110 --> 00:50:31.650
+Orestis Efthimiou: So in the future, we would like to externally validate the model before implementing the models in clinical practice. Perhaps it will need to be recalibrated or updated if it's going to be used in other populations. So again, this is something quite…
+
+335
+00:50:31.800 --> 00:50:36.300
+Orestis Efthimiou: That is quite often done in the world of prediction modeling, so you have a model that
+
+336
+00:50:36.620 --> 00:50:38.730
+Orestis Efthimiou: It's able to discriminate
+
+337
+00:50:38.880 --> 00:50:46.139
+Orestis Efthimiou: Among people that will have the event, or not, or won't have the event, but it's not well calibrated when you take it to different…
+
+338
+00:50:46.390 --> 00:50:54.680
+Orestis Efthimiou: settings or different populations. So maybe this is also the case here. Maybe we need to recalibrate it to use it in other populations and settings.
+
+339
+00:50:55.400 --> 00:50:59.410
+Orestis Efthimiou: Or even better, redevelop the model using more data.
+
+340
+00:50:59.800 --> 00:51:14.920
+Orestis Efthimiou: in individual patient data meta-analysis, so this might increase the predictive performance of the models, because as I said, we only used data from one trial, and the trials are just not powered for this type of analysis.
+
+341
+00:51:15.760 --> 00:51:30.600
+Orestis Efthimiou: So, to conclude, we identified high and low benefit groups, and particularly older women, and especially those who had already tried cigarettes before in order to quit, and those who are on psychiatric medications.
+
+342
+00:51:30.740 --> 00:51:50.669
+Orestis Efthimiou: This type of… these people might increase their chances of tobacco abstinence from adding e-cigarettes to standard of care, compared to standard of care alone, and there was only weak evidence of a possible small negative effect of nicotine abstinence. So maybe these are the people who… for whom we should focus… we should target with this intervention. On the other hand.
+
+343
+00:51:51.010 --> 00:52:02.639
+Orestis Efthimiou: younger men who had already tried e-cigarettes before in order to quit. We saw that for these people, giving them e-cigarettes, we might not increase the chances of tobacco abstinence.
+
+344
+00:52:02.640 --> 00:52:22.629
+Orestis Efthimiou: And if and if they do, at the end, manage to quit smoking by giving them e-cigarettes, we might decrease their chances of nicotine absence. So maybe this is not, the target, should not be a target for this type of intervention. So future research, future research is required to validate our tool and corroborate its usefulness.
+
+345
+00:52:22.750 --> 00:52:26.699
+Orestis Efthimiou: Hopefully in different settings, for different countries, different populations, and so on.
+
+346
+00:52:27.510 --> 00:52:36.040
+Orestis Efthimiou: And if this model is validated with further data, then the online tool could be used to make personalized recommendations.
+
+347
+00:52:36.160 --> 00:52:40.269
+Orestis Efthimiou: And to empower and facilitate, said decision making.
+
+348
+00:52:41.250 --> 00:52:57.499
+Orestis Efthimiou: So, thank you for your attention, and I will close with showing these two pictures. On the right is Joanna from Greece, so this is my hometown, where I grew up, and on the left is my, the city I'm living now, Andretto also. This is the capital of Switzerland, Ben. So, thank you.
+
+349
+00:52:58.780 --> 00:53:02.639
+Justin White: Thanks so much. Those are some beautiful cities.
+
+350
+00:53:03.240 --> 00:53:10.270
+Justin White: So maybe if I could start with questions around, I thought some of the findings around
+
+351
+00:53:10.270 --> 00:53:24.660
+Justin White: who is in the high benefit group and the low benefit group was really fascinating, and it makes sense to me that, you know, people who have tried using e-cigarettes in the past and failed, are less likely to be in the high benefit group.
+
+352
+00:53:24.660 --> 00:53:34.909
+Justin White: There are really startling differences by sex, as well as the use of psychiatric medication. Do you have thoughts about why there…
+
+353
+00:53:34.910 --> 00:53:42.320
+Justin White: Those factors are, are, so, so have such, sort of, predictive value to them?
+
+354
+00:53:43.210 --> 00:53:58.870
+Orestis Efthimiou: Well, this has two… there are two sides to your question. One is the statistical one, which I might try to answer, and the other one is the clinical one, which I might ask Retu to answer. So,
+
+355
+00:53:59.900 --> 00:54:05.030
+Orestis Efthimiou: Yeah, we can also show this picture, but it also breaks it down by sex.
+
+356
+00:54:05.980 --> 00:54:16.029
+Orestis Efthimiou: So, what I can say is that there were differences according to sex, and there were differences according to whether you had tried
+
+357
+00:54:16.570 --> 00:54:20.040
+Orestis Efthimiou: Via cigarette… to… to quit via cigarettes before.
+
+358
+00:54:20.190 --> 00:54:31.440
+Orestis Efthimiou: But I cannot say whether this is the… one of the two is, like, a causal factor or not, because there might be also correlations between them, so it might be the case, I don't know by heart, but it might be the case that
+
+359
+00:54:31.880 --> 00:54:35.909
+Orestis Efthimiou: Males had tried, to quit.
+
+360
+00:54:36.610 --> 00:54:47.550
+Orestis Efthimiou: higher, percentages as compared to females, so it might… this might be the driver rather than sex alone. Or it might be some other correlation, so it might be that the,
+
+361
+00:54:48.250 --> 00:54:54.450
+Orestis Efthimiou: The females in the dataset also had less…
+
+362
+00:54:54.600 --> 00:55:02.340
+Orestis Efthimiou: more, sorry, more psychiatric medications rather than males, because at least that's something I know, that the depression is not…
+
+363
+00:55:02.720 --> 00:55:07.200
+Orestis Efthimiou: Evenly distributed across the sections. So it's not easy for me
+
+364
+00:55:07.320 --> 00:55:10.140
+Orestis Efthimiou: From a statistical point of view, to give you
+
+365
+00:55:10.580 --> 00:55:23.900
+Orestis Efthimiou: what you're actually asking is for causal factors. What is the thing that is driving the results? But I cannot answer this because we did not do this kind of analysis. What I am showing here are correlations, actually, rather than
+
+366
+00:55:24.340 --> 00:55:30.909
+Orestis Efthimiou: Causal factors. So that's… from a statistical point of view, the answer is I don't know, in short.
+
+367
+00:55:31.320 --> 00:55:38.570
+Orestis Efthimiou: I don't know, in terms of the medical or the clinical background, whether Reto has some insight
+
+368
+00:55:38.760 --> 00:55:40.069
+Orestis Efthimiou: some better insight.
+
+369
+00:55:42.240 --> 00:55:47.730
+Reto Auer: I'm glad to answer the question. The time is running, so I'll be quick.
+
+370
+00:55:48.010 --> 00:55:53.349
+Reto Auer: Well, I was really surprised by the results, I guess the audience, too.
+
+371
+00:55:53.610 --> 00:56:00.259
+Reto Auer: And I think, given the discussions around the cigarette, That's my clinical…
+
+372
+00:56:00.510 --> 00:56:04.959
+Reto Auer: daily… I'm a primary care doc, and that's my lived reality.
+
+373
+00:56:05.650 --> 00:56:12.450
+Reto Auer: That, these are… I thought these are also a person we want to help.
+
+374
+00:56:12.870 --> 00:56:18.820
+Reto Auer: With quitting, and I think, if this is true, might also…
+
+375
+00:56:19.290 --> 00:56:21.420
+Reto Auer: Change your perception, at least,
+
+376
+00:56:21.540 --> 00:56:26.550
+Reto Auer: It changed mine, to say, well, maybe we should try these out.
+
+377
+00:56:26.980 --> 00:56:29.419
+Reto Auer: With these, women.
+
+378
+00:56:29.530 --> 00:56:41.529
+Reto Auer: And and at the same time, I don't know who participated in the trial and no benefit. Maybe there were young people who said, hey, I can get free e-cigarettes, I don't know. And that's the reason why they didn't really quit.
+
+379
+00:56:41.830 --> 00:56:43.929
+Reto Auer: Because they already tried before.
+
+380
+00:56:44.190 --> 00:56:59.279
+Reto Auer: I think… I think we need to go back to the data, publish the results, see the peer review process and all this to… to see if it's true before we do the causal, and I really want to point out disease in Switzerland extends and might be really different in other settings.
+
+381
+00:57:00.870 --> 00:57:01.630
+Justin White: Great.
+
+382
+00:57:01.640 --> 00:57:16.690
+Justin White: I know we have just one or two more minutes, I just want to remind people that there will be Top of the Tops after this, and the link is in the chat for anybody who wants to continue the conversation. Maybe one other question would be… this online tool that you created is really great.
+
+383
+00:57:16.690 --> 00:57:36.350
+Justin White: You know, if this ends up being externally validated, it seems like this could help with personalized smoking cessation, support, and I'm curious about how you would envision this sort of being integrated into clinical practice, or workflows, or, do you have sort of a plan for how this could be used, in…
+
+384
+00:57:36.350 --> 00:57:37.430
+Justin White: Clinical care?
+
+385
+00:57:38.500 --> 00:57:48.110
+Reto Auer: Well, there's a new… there's a new… I think in the era of e-cigarettes, we have to ask two questions. One is, do you want to quit smoking? The second is, do you want to continue nicotine?
+
+386
+00:57:48.840 --> 00:57:58.889
+Reto Auer: And… and we don't include that in guidelines. And I do that in clinics, and say, well, how do you feel? Are you… do you have a problem with these… with nicotine?
+
+387
+00:57:59.020 --> 00:58:04.579
+Reto Auer: Yes, it's not ideal, but it's addiction, but if you don't have a problem with it, so…
+
+388
+00:58:04.700 --> 00:58:12.130
+Reto Auer: That's… that's… that's something we discuss. And so that might be helpful in this kind of discussion, saying, look.
+
+389
+00:58:12.270 --> 00:58:23.620
+Reto Auer: based on these different trials have been conducted in different settings, this is what you could expect, and at the end of the day, people then can decide. I think we also
+
+390
+00:58:23.980 --> 00:58:43.100
+Reto Auer: embrace strategy making and many tools to quit smoking. They're in the path in clinics one… a couple of minutes with us, and then continue when they're out, and so there are many options available to them, to quit, and informing them about this could be integrated in this kind of setting.
+
+391
+00:58:44.410 --> 00:58:51.230
+Justin White: Great. Well, I think we are out of time, so I'm going to turn it over to our MC. Thanks so much for your presentation.
+
+392
+00:58:52.300 --> 00:58:54.499
+Reto Auer: Hang sources, including…
+
+393
+00:58:54.500 --> 00:58:56.079
+Orestis Efthimiou: Thank you for having me.
+
+394
+00:58:56.950 --> 00:59:15.650
+Sang Yun Lee: We're out of time. However, if you still have burning questions or thoughts for RST's Aftermule, you can join us for Tops of the Tops on Interactive Group Discussion. To join, please copy the Zoom meeting room URL posted in the chat, and switch rooms with us once this event concludes.
+
+395
+00:59:15.650 --> 00:59:27.040
+Sang Yun Lee: We will leave this webinar room open for an extra minute after the end to give everyone a chance to copy the URL, which is beat.ly slash topsmeeting, all lowercase.
+
+396
+00:59:27.150 --> 00:59:37.340
+Sang Yun Lee: Thank you to our presenter, moderator, and discussant. Finally, thank you to the audience of 117 people for your participation. Have a Tough Notch weekend!
+
