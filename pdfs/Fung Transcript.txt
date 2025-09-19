@@ -1,0 +1,1178 @@
+WEBVTT
+
+1
+00:00:08.310 --> 00:00:29.889
+Kyla Scott: Welcome to the Tobacco Online Policy Seminar. Thank you for joining us today. I'm Kyla Scott, the Tobacco Cessation Educator for Tobacco Free Nebraska. TOPS is organized by Mike Pesco at the University of Missouri, C. Shang at the Ohio State University, Michael Darden at Johns Hopkins University, Jamin Hartman-Boyce at the University of Massachusetts Amherst, and Justin White at Boston University.
+
+2
+00:00:29.890 --> 00:00:54.770
+Kyla Scott: The seminar will be one hour with questions from the moderator and discussant. The audience may pose questions and comments in the Q&A panel, and the moderator will draw from these questions and comments in conversation with the presenter. Please review the guidelines on tobaccopolicy.org for acceptable questions. Please keep the questions professional and related to the research being discussed. Questions that meet the seminar series guidelines will be shared with the presenter afterwards, even if they are not read out loud. Your questions are very
+
+3
+00:00:54.770 --> 00:00:55.930
+Kyla Scott: Much appreciated.
+
+4
+00:00:56.730 --> 00:01:11.450
+Kyla Scott: This presentation is being video recorded and will be made available, along with presentation slides on the TOPS website, tobaccoPolicy.org. I will turn the presentation over to today's moderator, Michael Darden, from John Hopkins University, to introduce our speaker.
+
+5
+00:01:12.990 --> 00:01:30.109
+Michael Darden: Thanks, Kyla. Today, we conclude our Summer 2025 season with a single paper presentation by Rachel Fung entitled, Historical Cigarette Prohibition, Cigarette Use and Mortality. This presentation was selected via a competitive review process by submission through the TOPS website.
+
+6
+00:01:30.110 --> 00:01:45.179
+Michael Darden: Rachel Fung is a postdoctoral fellow at the University of Missouri's Social Impact Lab. Her research focuses on health and labor economics, examining how regulation influences health outcomes, and how economic and social factors affects fertility.
+
+7
+00:01:45.250 --> 00:01:53.379
+Michael Darden: She earned her PhD in economics from Princeton University in 2024. Dr. Fung, thank you for presenting for us today.
+
+8
+00:01:59.640 --> 00:02:04.550
+Rachel Fung: Great, thank you for the introduction. Let me share my slides first.
+
+9
+00:02:08.789 --> 00:02:24.330
+Rachel Fung: Great, thank you for the introduction. It's a pleasure to be here and to share my work with you all today. I'll be telling you about historical cigarette prohibition laws and how they affected cigarette use and later life mortality. This is joint work with Mike here at Mizzou and Lauren at GSU.
+
+10
+00:02:26.930 --> 00:02:39.899
+Rachel Fung: The research reported in this presentation was supported by the National Institute on Drug Abuse of the National Institute of Health. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.
+
+11
+00:02:40.010 --> 00:02:41.830
+Rachel Fung: Okay, now we can get started.
+
+12
+00:02:42.230 --> 00:02:48.090
+Rachel Fung: So… Sorry,
+
+13
+00:02:50.440 --> 00:03:02.639
+Rachel Fung: Great. So, today, we… it's common knowledge that cigarettes are harmful, largely due to scientific evidence that emerged in the 1960s that linked smoking with lung cancer and with heart disease.
+
+14
+00:03:03.390 --> 00:03:22.619
+Rachel Fung: However, in the early 20th century, when cigarettes were a newer product, much less was known about their health effects. And for those of you who've seen Mad Men, you will know that, well, cigarette companies were making some dubious claims for a very long time, and even stressing the health benefits of smoking. For example, in the ad shown here.
+
+15
+00:03:22.620 --> 00:03:29.330
+Rachel Fung: It's… they claim that, cigarettes, offer throat protection against irritation and against cough.
+
+16
+00:03:32.160 --> 00:03:44.189
+Rachel Fung: So the early 20th century was a very different health environment. At the time, life expectancy was much lower, at around 47 years, and infectious diseases were the leading causes of death.
+
+17
+00:03:44.390 --> 00:04:00.699
+Rachel Fung: And so in this environment, people would have evaluated health risks differently from how they do today. And even if someone knew that smoking might be harmful, the long-term consequences might not have felt as relevant when there's short-term threats that's more pressing.
+
+18
+00:04:02.040 --> 00:04:13.829
+Rachel Fung: Smoking behavior was also different at the time. For instance, smoking wasn't as closely tied to education as it is today, and so the demographic profile of smokers was much more evenly spread across social groups.
+
+19
+00:04:16.390 --> 00:04:29.599
+Rachel Fung: As cigarettes began to gain popularity, there was also opposition that grew, so there was an anti-cigarette movement that gained momentum, mostly in the 1890s to 1920s, and they pushed for legislation against cigarettes.
+
+20
+00:04:29.700 --> 00:04:41.609
+Rachel Fung: This ultimately led to outright bans being implemented in 14 states between 1892 and 1921. But these are not that long-lived, and all of them were repealed by 1927.
+
+21
+00:04:43.210 --> 00:04:58.729
+Rachel Fung: So in this paper, we study the effects of these early bans on cigarette use and on later life mortality. So what we do is we leverage two sources of variation. So first, we make use of the staggered repeal of these cigarette bans at the state level.
+
+22
+00:04:59.010 --> 00:05:12.689
+Rachel Fung: And second is what we call pseudo-repeals. This is when men gained access to cigarettes through military service in World War I, despite living in states with active bans. So it's as if they experienced a repeal of the ban.
+
+23
+00:05:14.960 --> 00:05:22.639
+Rachel Fung: And before moving on to the empirical results, I'll first tell you more about the historical background, and what is going on.
+
+24
+00:05:24.430 --> 00:05:30.880
+Rachel Fung: So in the late 1800s to early 1900s, cigarette production and consumption really took off.
+
+25
+00:05:31.190 --> 00:05:37.290
+Rachel Fung: This was driven by a combination of technological change and a shift in consumer behavior.
+
+26
+00:05:37.290 --> 00:05:53.520
+Rachel Fung: So one of the big breakthroughs was mechanization, in particular the invention of the cigarette rolling machine. So before this, cigarettes were all hand-rolled, and when the cigarette rolling machine was first used in production, it really drastically reduced cost and increased production capacity.
+
+27
+00:05:54.520 --> 00:05:59.420
+Rachel Fung: And at the same time, urbanization led to changing norms around hygiene and decorum.
+
+28
+00:05:59.550 --> 00:06:06.810
+Rachel Fung: Chewing tobacco was the most common type of tobacco used before cigarettes became popular, and spitting is an integral part of its use.
+
+29
+00:06:06.980 --> 00:06:12.570
+Rachel Fung: That became increasingly stigmatized in cities, where people wanted cleaner forms of tobacco.
+
+30
+00:06:13.010 --> 00:06:22.820
+Rachel Fung: And so cigarettes were… became cheaply available, and it was easy to just buy a stick of it. And so they started to gain popularity, especially among young men who lived in cities.
+
+31
+00:06:24.710 --> 00:06:31.010
+Rachel Fung: So at this… at this point, smokeless tobacco, mainly chewing tobacco, was still the dominant form of tobacco used.
+
+32
+00:06:31.210 --> 00:06:44.029
+Rachel Fung: In 1900, cigarettes made up only 2.2% of total tobacco use. This is, when we compare the amount of tobacco leave used in the production of different tobacco products.
+
+33
+00:06:44.230 --> 00:07:01.540
+Rachel Fung: And by 1916, that number had grown to 12.6%. So despite this really rapid and massive growth, we're still very early in the industry's rise, and cigarette production and consumption would increase another 100-fold to reach its peak around the 1960s.
+
+34
+00:07:02.970 --> 00:07:17.270
+Rachel Fung: Despite this being early in the cigarette industry's growth, it doesn't mean that cigarette use was rare at all. By the first decade of the 20th century, smoking had become common and socially accepted, especially among young men in urban areas.
+
+35
+00:07:17.470 --> 00:07:29.959
+Rachel Fung: And consistent with this, we find in our dataset that by 1917, right before the US joined World War I, about 30% of young men had started smoking by age 19, so this is pretty common.
+
+36
+00:07:32.280 --> 00:07:41.120
+Rachel Fung: So on the cigarette prohibition laws, we hand-collected the policy data for these bans by searching through historical state statutes and accession laws.
+
+37
+00:07:41.250 --> 00:07:54.910
+Rachel Fung: So there's actually some discrepancies between our data set and what we can find in older compilations, but what we do is we verify the exact legal text for the enactment and the review of these bans, and so we're confident in the accuracy of our data.
+
+38
+00:07:55.640 --> 00:08:06.939
+Rachel Fung: So, for example, we find cigarette bans in Florida and in Utah that were not documented in the summary table that was published in 1940 that has been cited by studies later.
+
+39
+00:08:07.450 --> 00:08:24.569
+Rachel Fung: In total, we find that 16 states enacted bans on the sale of cigarettes between 1893 and 1921, and 14 of these were implemented. So, as you can see from the map here, these were primarily Midwestern and Western states that enacted these bans.
+
+40
+00:08:25.130 --> 00:08:38.660
+Rachel Fung: And the discrepancy between states enacting and implementing these bans is from Illinois, who enacted a ban in 1907, but that was declared unconstitutional and never came into effect.
+
+41
+00:08:38.659 --> 00:08:50.160
+Rachel Fung: And also, Idaho, who enacted a ban in 1921, it was in place for 10 days before it was repealed, and so we don't consider Idaho as having had a ban implemented.
+
+42
+00:08:50.630 --> 00:08:57.369
+Rachel Fung: On the other hand, there's cases like Washington, where a ban was enacted and repealed over two separate periods.
+
+43
+00:08:58.790 --> 00:09:08.429
+Rachel Fung: All of these laws also explicitly banned cigarette paper, and so they were targeting roll your own cigarettes, as well as manufactured cigarettes.
+
+44
+00:09:10.710 --> 00:09:27.360
+Rachel Fung: Now, about the, anti-cigarette movement. Henry Ford was a very vocal figure in this movement. He refused to hire smokers at all, and he had said, if you will study the history of almost any criminal, you will find that he is an inveterate cigarette smoker. The cigarette drags them down.
+
+45
+00:09:28.220 --> 00:09:40.819
+Rachel Fung: So this quote actually captures the tone of the anti-cigarette movement at the time. It was part of the broader Progressive Era reforms, and the opposition to cigarettes was driven more by moral concerns than concerns about health.
+
+46
+00:09:41.030 --> 00:09:41.910
+Rachel Fung: And…
+
+47
+00:09:42.610 --> 00:09:59.060
+Rachel Fung: Early cigarette use was concentrated among immigrants, working-class men, and people who were generally considered morally suspect, which gave cigarettes a really bad image. And cigarettes' particular appeal to young men was one of the reasons that reformers viewed it as particularly troubling.
+
+48
+00:09:59.180 --> 00:10:04.049
+Rachel Fung: And the appeal of cigarettes to young people was the central argument for a regulation against it.
+
+49
+00:10:05.080 --> 00:10:18.729
+Rachel Fung: And a lot of states actually passed minimum legal access laws for cigarettes that banned cigarette sales to young people, but enforcement was really difficult, which led the movement to push for outright bans in states instead.
+
+50
+00:10:19.050 --> 00:10:25.820
+Rachel Fung: So, not surprisingly, there's this paper that finds that progressive states were more likely to have brought cigarette prohibition bills to the floor.
+
+51
+00:10:27.500 --> 00:10:39.629
+Rachel Fung: On the other hand, the growing cigarette industry pushed back. So the American Tobacco Company challenged statutes, lobbied, and were said to have bribed legislators to vote against these, legislation.
+
+52
+00:10:41.900 --> 00:10:53.679
+Rachel Fung: Now, on to World War I. World War I was a turning point for the cigarette industry. So, General John Pershing famously said, you ask me what we need to win this war. I answer tobacco as much as bullets.
+
+53
+00:10:54.940 --> 00:11:11.899
+Rachel Fung: Cigarettes were mostly tolerated as a necessary evil during the war, while the military tried to ban more disruptive vices like alcohol and prostitution. So cigarettes were made widely available to soldiers, both through rations and at heavily subsidized prices.
+
+54
+00:11:12.350 --> 00:11:18.120
+Rachel Fung: It's estimated that the government sent around 5.5 billion cigarettes overseas during World War I.
+
+55
+00:11:18.820 --> 00:11:26.780
+Rachel Fung: And there was also broad public support for this, with a lot of civilians donating to smoke funds to supply cigarettes to troops overseas.
+
+56
+00:11:27.960 --> 00:11:45.650
+Rachel Fung: So, through the war, cigarettes became symbolically associated with war effort and with patriotism, and opposition towards cigarettes become viewed as unpatriotic. So this is when public opinion really changed, and so after the war, attempts to provide the anti-cigarette movement were largely unsuccessful.
+
+57
+00:11:46.130 --> 00:11:54.890
+Rachel Fung: So part of this was the works of the tobacco industry, who really used images of veterans and of wartime service in advertising campaigns throughout the interwar period.
+
+58
+00:11:58.280 --> 00:12:08.610
+Rachel Fung: In historical accounts of these cigarette bans, they're often dismissed because of weak enforcement and the perception that cigarettes were not yet widely used.
+
+59
+00:12:08.670 --> 00:12:20.229
+Rachel Fung: So in terms of enforcement in Washington state, from data on… in newspapers, there was about 60 arrests, in the first month of their ban in 1909.
+
+60
+00:12:20.360 --> 00:12:25.209
+Rachel Fung: Over the next 3 months, there were 6 more arrests, and then there was, no more.
+
+61
+00:12:25.300 --> 00:12:41.210
+Rachel Fung: And so, there doesn't seem to have been strong enforcement of these bans at all, but this doesn't mean that the bans were useless, so they might still have influenced behavior indirectly by limiting legal sales, and by signaling official disapproval of cigarettes.
+
+62
+00:12:42.200 --> 00:12:55.379
+Rachel Fung: So before we try to study the effects of these repeals on cigarette use and on health outcomes, we want to first look at whether the repeals seem to have affected public visibility and commercial presence of cigarettes.
+
+63
+00:12:55.700 --> 00:13:07.209
+Rachel Fung: So if the repeals really relax constraints on access, which could lead to the effects on cigarette use and health outcomes, we should observe increases in newspaper coverage and in brand advertising.
+
+64
+00:13:08.980 --> 00:13:21.529
+Rachel Fung: So to test this, we collect historical newspaper data from the Chronicling America collection, and we run keyword searches for three types of keywords. So one is all mentions of cigarette
+
+65
+00:13:21.540 --> 00:13:40.050
+Rachel Fung: cigarette or cigarettes. And then second is mentions of cigarettes, but we exclude instances where there's also mentions of legal terms, such as bans, repeals, legislation, etc. And so this is to make sure that we're not capturing any direct references to the bans or the repeals themselves.
+
+66
+00:13:40.840 --> 00:13:53.399
+Rachel Fung: And then lastly, we also search for direct brand name mentions, for phrases such as Lucky Strike cigarettes, Camel Cigarettes, etc, and this is going to help us capture, advertising of these, cigarettes.
+
+67
+00:13:55.620 --> 00:14:14.430
+Rachel Fung: So we estimate the effects of these repeals on newspaper coverage with difference and differences using the Callaway-Santana estimate, which is robust use staggered adoption. So this is… basically, we're just, comparing the instances of mentions before and after repeals in states that did and did not have repeals.
+
+68
+00:14:14.430 --> 00:14:22.299
+Rachel Fung: And we find that mentions of cigarettes increased by over 30% after appeals. This is in the estimates in columns 1 and 2.
+
+69
+00:14:22.300 --> 00:14:29.009
+Rachel Fung: And in columns 3, we can see that mentions of specific cigarette brand names increased almost threefold.
+
+70
+00:14:29.370 --> 00:14:46.169
+Rachel Fung: So this suggests that there was a substantial increase in market presence and in commercial activity. So, something happened after the repeals, and this rise in visibility suggests the pathway through which legal access to cigarettes could influence behavior and health outcomes.
+
+71
+00:14:49.440 --> 00:15:07.770
+Rachel Fung: So there's a large literature that studies the effects of tobacco control policies in the modern setting. We extend this to a much earlier period. We study one of the first tobacco control policies in the US, and a much more extreme type of regulation. That's the outright bans of cigarettes.
+
+72
+00:15:08.800 --> 00:15:19.070
+Rachel Fung: And there's some work in history and economic history that has looked at these early bans, but these papers mostly focus on understanding the causes of the bans and not the consequences.
+
+73
+00:15:19.430 --> 00:15:28.300
+Rachel Fung: So more related to our work is the more recent research that studies the effects of alcohol prohibition during the Progressive Era on mortality.
+
+74
+00:15:28.530 --> 00:15:48.529
+Rachel Fung: And while cigarette prohibition was less politically successful, there was never a national cigarette prohibition. We have… our paper is really interesting is because we have individual-level survey data on tobacco use from this early period, and it allows us to directly measure behavioral responses to the bans.
+
+75
+00:15:49.810 --> 00:16:00.170
+Rachel Fung: And then our second estimation strategy leverages World War I enlistment, and it relates to the literature that looks at how military service affects substance use.
+
+76
+00:16:00.450 --> 00:16:14.669
+Rachel Fung: And finally, our paper relates to modern tobacco policy debates as well. So, for example, the UK and New Zealand have, considered tobacco-free generation proposals, which are laws that would,
+
+77
+00:16:14.950 --> 00:16:20.670
+Rachel Fung: Ban cigarette sales for people born after a certain year, which would eventually lead to outright bans.
+
+78
+00:16:21.090 --> 00:16:30.369
+Rachel Fung: And also, certain counties in the US and California have implemented cigarette bans as well, and so this isn't just some policy back in the day that can never be replicated.
+
+79
+00:16:32.820 --> 00:16:43.640
+Rachel Fung: So, next I'll tell you about our data. So, our main data set on cigarette use, is from the U.S. Veterans Mortality Study, which is also called the DOORN study.
+
+80
+00:16:43.710 --> 00:16:54.229
+Rachel Fung: This, was a study conducted in 1954 by Harold Doran, and it was one of the first studies to link smoking to mortality.
+
+81
+00:16:54.650 --> 00:17:06.740
+Rachel Fung: So the study includes men who served in the armed forces between 1917 and 1940, and it provides data on their state of residence, on their year of birth, and on tobacco use histories.
+
+82
+00:17:07.250 --> 00:17:25.640
+Rachel Fung: So respondents were asked if they used cigarettes, cigars, pipes, or chewing tobacco, and at what age range they started using each of these. And so from respondents' responses, we construct indicators for whether each respondent started smoking by ages 19,
+
+83
+00:17:25.640 --> 00:17:33.739
+Rachel Fung: by 24, or ever. So this essentially gives us a repeated cross-section of smoking behavior across birth cohorts.
+
+84
+00:17:35.900 --> 00:17:45.720
+Rachel Fung: To study later life mortality, we used population counts from the census data to infer survival rates at the state cohort sex level.
+
+85
+00:17:45.730 --> 00:17:58.580
+Rachel Fung: So this is defined as the population at a given age for each cohort, divided by that cohort's population at age 19. So this is just, what is the probability of you surviving to
+
+86
+00:17:58.810 --> 00:18:03.070
+Rachel Fung: A certain age, if conditional on being alive at age 19.
+
+87
+00:18:03.400 --> 00:18:14.989
+Rachel Fung: So we do this imputation because the NBSS only started reporting death statistics in, like, 1900, and we want a consistent measure of mortality that goes further back in time.
+
+88
+00:18:15.530 --> 00:18:19.449
+Rachel Fung: In order to study our long-term mortality patterns.
+
+89
+00:18:20.420 --> 00:18:34.149
+Rachel Fung: And for any, descriptive work we show on tobacco production, we use data that comes from tax records, and we also use state-level alcohol prohibition, status as controls in our regressions.
+
+90
+00:18:35.030 --> 00:18:38.560
+Rachel Fung: Great, I'll pause here for questions before we move on.
+
+91
+00:18:39.760 --> 00:18:46.389
+Michael Darden: Thank you, Dr. Fung. We're going to go to our discussant, Eric Nessen, who's an Associate Professor of economics at Wake Forest University.
+
+92
+00:18:47.880 --> 00:18:57.580
+Erik Nesson: All right, thank you, Michael, and thank you, Rachel, for the opportunity to read this really interesting paper. I'll just share some brief thoughts about the
+
+93
+00:18:57.950 --> 00:19:04.209
+Erik Nesson: My overall view of where this fits in the literature, and then maybe just a few
+
+94
+00:19:04.700 --> 00:19:08.930
+Erik Nesson: questions or thoughts about the data sources, and then I have
+
+95
+00:19:09.020 --> 00:19:18.569
+Erik Nesson: maybe a few more thoughts when you share the results with everyone. So, my… my first thought when I was reading this paper was really, why hasn't anyone done this before?
+
+96
+00:19:18.620 --> 00:19:31.560
+Erik Nesson: And, you know, it's not often that you see these, you know, big research questions in tobacco that no one has… that are feasible, but no one has done before and are, you know.
+
+97
+00:19:31.760 --> 00:19:42.459
+Erik Nesson: truly novel, so I congratulate you and Mike and Lauren for thinking of this idea and putting this together. This seems like something that would fill a big gap in
+
+98
+00:19:42.750 --> 00:20:02.519
+Erik Nesson: in our knowledge, so we know a lot about what has happened with tobacco policy since, like, the 1980s, and maybe even a little bit, stretching back to 1965 and 64 with the Surgeon General's report, but we really know very little about what was going on in the early 1900s, and your… your paper adds
+
+99
+00:20:02.520 --> 00:20:06.590
+Erik Nesson: That's a lot here, so… I… really liked…
+
+100
+00:20:07.130 --> 00:20:09.239
+Erik Nesson: learning a lot about this, and I…
+
+101
+00:20:09.550 --> 00:20:12.119
+Erik Nesson: Again, I think it's really interesting.
+
+102
+00:20:12.290 --> 00:20:29.179
+Erik Nesson: When I was reading it, just about the general direction, I also thought about some of my other favorite papers that some of the authors on this paper and others have written about tobacco control recently, and that's really more about the externalities that we think of from smoking.
+
+103
+00:20:29.330 --> 00:20:34.880
+Erik Nesson: And, you know, we know that smoking is bad for you, but…
+
+104
+00:20:35.210 --> 00:20:42.099
+Erik Nesson: I still think we could learn a lot more about how bad it is for other people around us, so…
+
+105
+00:20:42.780 --> 00:20:50.609
+Erik Nesson: Mike and others have some really interesting work on the effects of in utero exposure to tobacco use.
+
+106
+00:20:50.620 --> 00:21:07.830
+Erik Nesson: and, you know, the long-run impacts of tobacco exposure when you're a kid, and I wonder if you have the data available to do something here as well. The big question that I thought of, and I
+
+107
+00:21:08.180 --> 00:21:21.560
+Erik Nesson: and know you look at this indirectly, is what happens to the spouses of these soldiers who are now more or less likely to take up smoking? Can we look at
+
+108
+00:21:21.610 --> 00:21:33.640
+Erik Nesson: their mortality. So, can we connect women who are married to World War I veterans who are from these banned versus non-banned states, and can we see differential mortality
+
+109
+00:21:33.920 --> 00:21:52.690
+Erik Nesson: with them. Is there some way that we can connect their kids and see what the kids' long-run health outcomes are? Because we think we know that exposure to tobacco smoke when you're a kid is bad for your long-run health, but you have a nice
+
+110
+00:21:53.110 --> 00:21:59.700
+Erik Nesson: exogenous variation situation here that I think you could exploit, quite nicely.
+
+111
+00:21:59.920 --> 00:22:19.219
+Erik Nesson: So, those are kind of my broad thoughts on the direction of the paper. One specific thing that I wanted to bring up about the data is in a separate literature on the long-run effects of education on mortality. This was really started by Adriana Yersmini.
+
+112
+00:22:19.250 --> 00:22:24.319
+Erik Nesson: I think she initially used a similar,
+
+113
+00:22:24.790 --> 00:22:30.020
+Erik Nesson: estimation strategy that you did, constructing these
+
+114
+00:22:31.230 --> 00:22:43.550
+Erik Nesson: mortality or survival rates from census, repeated censuses. There's a paper in the Journal of Health Economics in 2015 by Dan Black and some other co-authors that
+
+115
+00:22:43.570 --> 00:22:59.160
+Erik Nesson: raises some questions and suggests a slightly different strategy to reduce measurement error, so that might be a suggestion for you guys to look into. And then, I was also just thinking about
+
+116
+00:22:59.260 --> 00:23:07.900
+Erik Nesson: Expanding your data sources to look at the linked… Full count census to…
+
+117
+00:23:08.200 --> 00:23:16.670
+Erik Nesson: social security death records. So, those don't start until… the deaths don't start until the 1970s, but…
+
+118
+00:23:16.930 --> 00:23:34.269
+Erik Nesson: You could maybe look at that as another data source, and then you could also maybe look at the cause of death data from the CDC. That also doesn't really start until the late 1970s, but it'd be really interesting if you saw
+
+119
+00:23:34.810 --> 00:23:51.359
+Erik Nesson: increased mortality from diseases and causes of death that we associate with smoking, and that might be interesting for you to look at as well. So, again, just a few quick thoughts about the data and the overall direction of the paper.
+
+120
+00:23:51.590 --> 00:23:59.000
+Erik Nesson: if you want to respond, that's great. If you want to wait till the end, we can have a longer conversation then, so… but really interesting stuff.
+
+121
+00:24:00.190 --> 00:24:23.750
+Rachel Fung: Thank you. Yeah, let me respond to a few points. So, yeah, it's a really interesting point you raised about the externalities and how the smoking would affect the wives of the veterans. That's not something that I've thought of, but, well, to preview for everyone, we do look at effects on women, and we don't find effects. And so.
+
+122
+00:24:25.330 --> 00:24:38.020
+Rachel Fung: this… I guess this would suggest that there's not much externalities. One, idea for why this is the case could be that, even though smoking was pretty common quite early, I think
+
+123
+00:24:38.020 --> 00:25:02.509
+Rachel Fung: a lot of the increase in smoking in the next decades was in how much people smoked, the intensity of smoking, and so maybe people were just not smoking that much, for the second-hand smoking to matter. Maybe there's… maybe that's something that we should look into more, but yeah, that's a very, interesting point. Yeah, and then thanks for the suggestion on
+
+124
+00:25:02.510 --> 00:25:17.970
+Rachel Fung: the survival rate calculations, we will definitely look into that. We did look at these, social security deaths, we tried to look at the, like, early, kind of NVSS mortality data, but we couldn't find
+
+125
+00:25:17.970 --> 00:25:37.459
+Rachel Fung: we… yeah, it just didn't… the years that's available and the data just didn't match what we needed to be able to look at pre-periods for the repeals, which all happened pretty early. So, yeah, unfortunately, we decided not to use any of those, yeah.
+
+126
+00:25:37.490 --> 00:25:38.880
+Rachel Fung: Great. Thank you.
+
+127
+00:25:39.720 --> 00:25:45.299
+Rachel Fung: Great, so, now let's move on to, the empirical methods and results.
+
+128
+00:25:46.490 --> 00:25:49.440
+Rachel Fung: So, our…
+
+129
+00:25:49.740 --> 00:26:08.959
+Rachel Fung: Great. Our first, empirical strategy is a difference in differences, implemented by the… with the Callaway-Santana estimator. So the idea here is to estimate whether individuals who are more likely to have started smoking by age 19 or 24, if they're…
+
+130
+00:26:09.000 --> 00:26:19.739
+Rachel Fung: if the cigarette ban in this state was repealed before they reached that age. That was a mouthful. Just to be clear, so when we're looking at whether people started smoking by age 19,
+
+131
+00:26:19.740 --> 00:26:32.719
+Rachel Fung: The treated group are the people who saw a ban repealed in their state before they were 19, such that if they started smoking when the repeal happened, we'd see increases in the likelihood of them smoking by age 19.
+
+132
+00:26:32.720 --> 00:26:33.270
+Rachel Fung: Okay.
+
+133
+00:26:34.180 --> 00:26:48.999
+Rachel Fung: So we focus in this paper on repeals rather than on enactments, because obviously enactments had to happen before repeals, and we don't have enough observations in the pre-period for a reliable estimation of the enactments.
+
+134
+00:26:49.710 --> 00:27:06.110
+Rachel Fung: And we make some important sample restrictions, mostly to exclude respondents who served in World War I before the smoking outcome is determined. So, for example, when we're looking at when the outcome variable is whether people started smoking by age 19,
+
+135
+00:27:06.110 --> 00:27:23.700
+Rachel Fung: We exclude men who enlisted in World War I, before they were… before they turned 19. So this is because enlistment could have affected smoking, and we… here we just want to estimate the effects of the actual repeals of the bans themselves, and we don't want it to be confounded by any effects from enlistment.
+
+136
+00:27:25.360 --> 00:27:36.779
+Rachel Fung: Okay, so let me show you our first set of results. So we find that cigarette use increased after repeals. So if a person turned 19 after a cigarette ban was repealed.
+
+137
+00:27:36.780 --> 00:27:53.990
+Rachel Fung: that increased the likelihood of them having started smoking by 19 by 14.5%. And we find a similar effect when we look at repeals by age 24 as well. People were more likely to have started smoking by age 24, by around 13.5%.
+
+138
+00:27:55.330 --> 00:28:05.999
+Rachel Fung: So next, we look at whether these effects were lasting. So the, the coefficients on the most left-hand side is just the average human effect from the previous slide.
+
+139
+00:28:06.000 --> 00:28:19.330
+Rachel Fung: So, focusing on the figure on the left, we see that a repeal by age 19 increases the likelihood of smoking by age 19, and also the likelihood of smoking by age 24.
+
+140
+00:28:19.330 --> 00:28:31.159
+Rachel Fung: But then we see that the effect starts to fade, and we don't find any statistically significant increase in ever smoking. And we have a similar pattern on the right-hand side when we look at repeals by age 24.
+
+141
+00:28:31.220 --> 00:28:39.269
+Rachel Fung: So this is suggesting that, the repuse mainly shifted initiation to be earlier, without increasing lifetime smoking overall.
+
+142
+00:28:41.120 --> 00:28:48.459
+Rachel Fung: So, that's the results, on the repeal, so next let's move on to think about the pseudo-repeals.
+
+143
+00:28:50.480 --> 00:29:00.340
+Rachel Fung: So, veterans from World War I gained access to cigarettes through military service. So this effectively repealed existing bans for any enlisted men.
+
+144
+00:29:00.710 --> 00:29:08.669
+Rachel Fung: And, our empirical strategy here exploits this variation along with differences in band statuses across states in 1917.
+
+145
+00:29:08.850 --> 00:29:22.029
+Rachel Fung: And the idea is that while enlistment likely increased cigarette use broadly for everyone, the effect should be particularly pronounced for men from states with bans at the time of enlistment, so they couldn't have started smoking, before they enlisted.
+
+146
+00:29:24.270 --> 00:29:40.719
+Rachel Fung: So here, what we're doing is we're using information on respondents' age at the time of enlistment in 1917, and the reported age range when they started smoking. And we're testing whether men from states with bans at the time of enlistment were more likely to start smoking then.
+
+147
+00:29:40.750 --> 00:29:47.599
+Rachel Fung: Again, I'll try to break down these really long equations, and let's focus first on the first estimation equation.
+
+148
+00:29:48.240 --> 00:29:55.270
+Rachel Fung: So here, our outcome variable is whether people reported having started smoking between ages 15 to 19.
+
+149
+00:29:55.710 --> 00:30:08.159
+Rachel Fung: So, let's think. For men who were above 19 when they enlisted, even if they started smoking… picked up smoking when they enlisted, this wouldn't affect the outcome variable, which is predetermined when they enlisted.
+
+150
+00:30:08.700 --> 00:30:22.740
+Rachel Fung: But for those who were 17 to 19 when they enlisted, 17 being the lowest age men could have enlisted, if they started smoking when they enlisted, then we'll see the outcome variable take value 1.
+
+151
+00:30:22.930 --> 00:30:36.889
+Rachel Fung: Right, so this is our first difference. So we're comparing cohorts whose outcome of starting smoking between 15 to 19, can be affected by their enlistment, or if it's predetermined at the time of enlistment.
+
+152
+00:30:37.200 --> 00:30:43.689
+Rachel Fung: And the second difference, is whether respondents came from states that had bans in place at the time of enlistment.
+
+153
+00:30:43.850 --> 00:31:08.729
+Rachel Fung: So we control, in our regressions for cohort fixed effects. So the cohort fixed effects take into account that even men from states without bans could have picked up smoking upon enlistment. But since men from states with bans should have had restricted or basically no access, if there's perfect enforcement, they have no, access before enlistment, the effect of enlisting on cigarette use should be larger for these men.
+
+154
+00:31:09.590 --> 00:31:23.190
+Rachel Fung: And similarly, using the same logic, we also test for whether men who were ages 20 to 24 and ages 25 to 29 at the time of enlistment who came from banned states were more likely to have started smoking exactly at those ages.
+
+155
+00:31:24.690 --> 00:31:31.429
+Rachel Fung: Great, now let's move on to the results. So let's first focus on the, cells in the diagonal that's highlighted.
+
+156
+00:31:31.670 --> 00:31:44.710
+Rachel Fung: So the positive coefficients here show that veterans from states with cigarette bans in place in 1917 were more likely to have started smoking upon enlistment compared to men from states without bans in place.
+
+157
+00:31:44.970 --> 00:31:56.040
+Rachel Fung: And specifically, those who were ages 17 to 19 in 1917 were 16.9% more likely to have started smoking between ages 15 to 19.
+
+158
+00:31:56.040 --> 00:32:09.119
+Rachel Fung: And then those who were ages 20 to 24 were 19.3% more likely, and those ages 25 to 29 were 40.2% more likely to have started smoking exactly at those ages when they enlisted.
+
+159
+00:32:10.530 --> 00:32:25.840
+Rachel Fung: So now let's look at the coefficients on the upper right-hand corner of the table. So the estimate… these estimate whether, if we focus on the first row, whether men who were 17 to 19 at the time of enlistment, who came from band states.
+
+160
+00:32:25.840 --> 00:32:30.670
+Rachel Fung: We're more likely to have started smoking not just at the time of enlistment, but later in life.
+
+161
+00:32:31.150 --> 00:32:45.740
+Rachel Fung: So if we see large positive coefficients, it would mean that these men from these states were more likely to pick up smoking even after the war. So this would be a bit strange, and it would suggest that something, you know, maybe something else, some other trends are going on in these states.
+
+162
+00:32:45.910 --> 00:33:02.410
+Rachel Fung: And if we see negative coefficients, it would suggest that while enlistment increased cigarette use at the time of enlistment, men were less likely to start smoking later in life, suggesting that enlistment just shifted the timing of initiation. What we do see is basically no effects.
+
+163
+00:33:02.410 --> 00:33:08.490
+Rachel Fung: So this suggests that the increased initiation was… wasn't offset by reductions at older ages.
+
+164
+00:33:08.640 --> 00:33:20.569
+Rachel Fung: However, I do have to caveat that when we directly estimate the effects on ever smoking and on smoking intensity as well, the difference in whether people ever smoked was not statistically significant.
+
+165
+00:33:22.910 --> 00:33:31.229
+Rachel Fung: So the two empirical strategies, the repeals and the pseudo-repeals, give us pretty comparable estimates, which we find reassuring.
+
+166
+00:33:31.440 --> 00:33:45.879
+Rachel Fung: The effects from the pseudo-repeals are a bit larger, and we think that this could be because state repeals often occurred when cigarette use and distribution were still developing, and so it takes a while after the repeals for cigarette use to pick up.
+
+167
+00:33:46.410 --> 00:34:03.440
+Rachel Fung: In contrast, when we think about the pseudo-repeals, it's a more abrupt shift in the environment, when cigarettes became immediately accessible at a cheap price, and they were even encouraged during the war. The stress of the wartime environment could also have amplified initiation effects.
+
+168
+00:34:05.370 --> 00:34:20.119
+Rachel Fung: So next, we look at the effects on later life mortality. So we compare cohorts of… so we do a slightly different comparison here. We compare cohorts of men who were just old enough to enlist in 1917,
+
+169
+00:34:20.210 --> 00:34:27.609
+Rachel Fung: And so these men enlisted and got access to cigarettes through the war, to men who were just too young to enlist.
+
+170
+00:34:27.750 --> 00:34:37.279
+Rachel Fung: and in states with and without fans in 1917. So again, the cohort fixed effects should absorb any effects on enlistment itself that is common across the states.
+
+171
+00:34:37.510 --> 00:34:48.450
+Rachel Fung: And what we're measuring is whether men who were eligible to enlist had particularly high mortality compared to men who couldn't enlist specifically in the states that had bans in 1917.
+
+172
+00:34:49.090 --> 00:35:09.890
+Rachel Fung: And so, again, we look at survival rates between 25 to 64, and a note here on interpretation is that since we're using survival rates, our outcome measures is a cumulative measure of mortality from age 19 onwards, which is different from annual mortality rates that's more commonly used.
+
+173
+00:35:11.220 --> 00:35:26.129
+Rachel Fung: Okay, so here are the results. We find… so in column 1, we show that, survival rates are 3.14 percentage points lower on average for men who are just old enough to enlist from states with bans in 1917.
+
+174
+00:35:26.250 --> 00:35:30.899
+Rachel Fung: So this is consistent with the increase in cigarette use leading to a higher mortality.
+
+175
+00:35:31.090 --> 00:35:50.359
+Rachel Fung: We then break down, these survival rates by 10-year bins. We see that the effects emerge quite early in adulthood, and the effects fade over time. So by age, 55 to 64, while we do find… still find a negative, coefficient, it's not statistically significant. So this actually,
+
+176
+00:35:50.430 --> 00:35:58.619
+Rachel Fung: Aligns with our earlier results showing that, repeals increased initiation at younger ages, but had limited effect on lifetime use.
+
+177
+00:36:00.320 --> 00:36:15.169
+Rachel Fung: So to ensure that this isn't simply picking up differential trends in mortality across states, driven by other changes that's happening during this time, we repeat the analysis on women who weren't affected… who weren't directly affected by enlistment.
+
+178
+00:36:15.580 --> 00:36:29.209
+Rachel Fung: We find that across all age groups, there is no effect on survival at all for these placebo regressions, which supports the idea that the mortality results that we find for men are driven by cigarette access during the war.
+
+179
+00:36:29.970 --> 00:36:48.219
+Rachel Fung: Another concern that you might have is that these results are reflecting the direct effects of wartime deaths. So, for example, if men from states with bands just so happen to have been sent to battles with higher fatalities. So I don't actually have this in the slide, but we,
+
+180
+00:36:48.220 --> 00:37:01.800
+Rachel Fung: We got data on wartime deaths by, by, state, and we test for differences, and we don't find any difference in death rates across states with and without bans, so that doesn't seem to be, driving our results.
+
+181
+00:37:04.510 --> 00:37:14.450
+Rachel Fung: So to translate our survival results to an annual mortality effect, we find an implied 4.72% increase in mortality.
+
+182
+00:37:14.450 --> 00:37:31.739
+Rachel Fung: So then we compare this to other quasi-experimental evidence, and it's quite in line with these other estimates. So, for example, a $1 increase in cigarette taxes at age 14 to 17 is found to have reduced adult mortality by 4%.
+
+183
+00:37:31.760 --> 00:37:37.569
+Rachel Fung: And being born in a wet state during prohibition increased lifetime mortality by around 3.3%.
+
+184
+00:37:37.710 --> 00:37:43.580
+Rachel Fung: And so our estimates, suggest a meaningful long-run cost to early cigarette access.
+
+185
+00:37:45.710 --> 00:38:04.730
+Rachel Fung: So next, we have a series of robustness checks. Let me spend a little bit of time to talk about the first point on measurement error and selective migration. So, our dataset for cigarette use, we observe respondents' state of residence at the time of the survey in the 1950s.
+
+186
+00:38:04.820 --> 00:38:10.970
+Rachel Fung: But ideally, what we want to measure is the state of residence during the respondent's adolescence.
+
+187
+00:38:11.300 --> 00:38:17.689
+Rachel Fung: So this means that a treatment assignment based on state would be mismeasured if people migrated.
+
+188
+00:38:18.690 --> 00:38:35.699
+Rachel Fung: And under classical measurement error, our estimates would be biased towards zero, and will underestimate our effects. And what's really problematic is if we have non-classical measurement error. In particular, for example, we know that men from states with bans, on average, started smoking… I'm sorry.
+
+189
+00:38:35.700 --> 00:38:39.799
+Rachel Fung: Men from states without bans, on average, started smoking earlier.
+
+190
+00:38:39.810 --> 00:38:55.649
+Rachel Fung: And so, if younger men disproportionately moved from states without bans to states with bans, it may appear… it may appear as if the younger cohorts who are treated by the repeals in banned states had higher smoking rates, when in fact this is all just selective migration.
+
+191
+00:38:56.330 --> 00:39:02.249
+Rachel Fung: And so we test for this by using census data, which records both state of birth and state of residence.
+
+192
+00:39:02.760 --> 00:39:06.979
+Rachel Fung: At baseline, we find that 65% of men live in their state of birth.
+
+193
+00:39:07.310 --> 00:39:20.880
+Rachel Fung: And then we construct, indicators for, whether people migrated. So if, it's a measure of in-migration if people, report residing in a state that they were not born in.
+
+194
+00:39:22.260 --> 00:39:28.369
+Rachel Fung: And so we, construct the sample in the same way we do when we analyze tobacco use.
+
+195
+00:39:28.370 --> 00:39:46.850
+Rachel Fung: And we use the same empirical method, we test whether… to test whether treatment is correlated with migration. So here are the results. In column 1, we're just testing whether in-migration rates are correlated with treatment, and we find that it is not. So this is saying that there's no difference in in-migration rates,
+
+196
+00:39:46.880 --> 00:39:51.719
+Rachel Fung: by treatment status. But there could still be difference in where people move to.
+
+197
+00:39:51.900 --> 00:40:09.590
+Rachel Fung: So, in the second column, we show results where we test for whether, people who were… the treated cohorts were more likely to have migrated from non-batten states, so whether there is, selective migration in terms of direction as well. And again, we find, no differential, rates of migration.
+
+198
+00:40:09.590 --> 00:40:20.950
+Rachel Fung: And so we don't find evidence that our results are driven by selective migration, although the mismeasurement in the state variable could still be causing attenuation bias that underestimates the true effects.
+
+199
+00:40:24.350 --> 00:40:30.600
+Rachel Fung: Great, to wrap up, we find that the repeal of early cigarette bans had real behavioral and health outcomes.
+
+200
+00:40:30.750 --> 00:40:41.979
+Rachel Fung: Repeals and pseudo-repeals are increased cigarette use by over 14%, and we find that the pseudo-repeals led to a 4.72% increase in later life mortality.
+
+201
+00:40:42.330 --> 00:40:50.829
+Rachel Fung: And so even though these bans were short-lived and imperfectly enforced, they still changed behavior and had effects on health outcomes in measurable ways.
+
+202
+00:40:51.090 --> 00:40:58.960
+Rachel Fung: This shows that legal restrictions on harmful products can be effective even when individuals underappreciate the long-term risks.
+
+203
+00:40:59.480 --> 00:41:10.270
+Rachel Fung: And as contemporary policies like tobacco-free generation laws and local cigarette bans are being proposed or debated, this historical evidence suggests that these restrictions have potential for lasting impacts.
+
+204
+00:41:11.100 --> 00:41:12.050
+Rachel Fung: Thank you.
+
+205
+00:41:14.990 --> 00:41:22.419
+Michael Darden: Thanks so much, Dr. Fung. So, Dr. Nessen, do you have, other comments in your last few minutes before you have to leave?
+
+206
+00:41:22.900 --> 00:41:26.060
+Erik Nesson: Yeah, sure, so…
+
+207
+00:41:26.460 --> 00:41:45.420
+Erik Nesson: Again, super, super interesting results. I just have a few other thoughts about maybe things to add to the results that might make this paper even better. So, I know you highlighted that at this time in the early 1900s, you know, initially, cigarettes were not the most
+
+208
+00:41:45.420 --> 00:42:00.630
+Erik Nesson: likely most common form of tobacco, and I was wondering if the Dorn… I think the Dorn study does have whether individuals used other types of tobacco, and I am curious if you could use this to…
+
+209
+00:42:00.840 --> 00:42:08.740
+Erik Nesson: Look at some sort of substitution effect between these other types of tobacco and cigarettes, and also
+
+210
+00:42:09.140 --> 00:42:25.380
+Erik Nesson: I'm sorry if this was in the paper, but I missed it, but what I would also care about is just how much this changed the overall likelihood that men used any type of, you know, smoking tobacco.
+
+211
+00:42:25.800 --> 00:42:40.430
+Erik Nesson: or any type of tobacco, period. So, do we see that these led to an increase in overall tobacco use, not just as substitution between different types of tobacco? I also really liked the news
+
+212
+00:42:40.610 --> 00:42:49.519
+Erik Nesson: article analysis that you did, and I was wondering if you could push that forward in a few dimensions as well. So.
+
+213
+00:42:49.520 --> 00:43:01.720
+Erik Nesson: I don't know if you have the article text, but can you do some sort of sentiment analysis as well to look at how these bans changed how cigarettes were being covered in the news?
+
+214
+00:43:01.720 --> 00:43:12.460
+Erik Nesson: And related to that, can you look at whether there are decreases in mentions of other tobacco products, or changes in how the news media are covering these as well?
+
+215
+00:43:12.520 --> 00:43:17.050
+Erik Nesson: I'm also just loored by the…
+
+216
+00:43:17.510 --> 00:43:27.450
+Erik Nesson: decade of life in which you see the largest health effects. Like, these men are dying from this super early, and…
+
+217
+00:43:28.290 --> 00:43:47.239
+Erik Nesson: just a more discussion on what we think these men are dying from. I know that there's, like, short-run effects of tobacco use on heart disease, and this is a period well before we knew how to treat heart attacks, so is it this? Is it lung cancer? Other cancers?
+
+218
+00:43:47.240 --> 00:43:49.890
+Erik Nesson: Now, what is killing these men so early?
+
+219
+00:43:49.890 --> 00:44:00.819
+Erik Nesson: And then also, I don't know if you can do it, or if the results just aren't interesting, but I was wondering why you stopped your age bands at, I think, like, 64?
+
+220
+00:44:01.300 --> 00:44:17.949
+Erik Nesson: do we see deaths pick back up after that, or is there some weird interaction between this and the introduction of Medicare and other public programs in the 1960s that might make these results difficult to interpret?
+
+221
+00:44:18.190 --> 00:44:26.399
+Erik Nesson: And… Yeah, I think those are my… those are my big comments.
+
+222
+00:44:26.580 --> 00:44:35.960
+Erik Nesson: The event studies with the initiation by age 19, like, the standard errors later in the tales just really blew up.
+
+223
+00:44:36.080 --> 00:44:53.119
+Erik Nesson: And I was wondering if you guys might be able to investigate a bit more on why those are increasing so much relative to the standard errors for starting at… by age 24. But again, like, super novel, super interesting paper.
+
+224
+00:44:53.150 --> 00:44:59.820
+Erik Nesson: really excited to see new versions of it, and where you guys might go from here, so I will…
+
+225
+00:44:59.990 --> 00:45:02.850
+Erik Nesson: Stop talking and turn it back over to you.
+
+226
+00:45:03.240 --> 00:45:11.620
+Rachel Fung: Great, thank you for great comments. Let me just, yeah, quickly respond to some of them. So, for the large standard errors, I…
+
+227
+00:45:12.040 --> 00:45:28.610
+Rachel Fung: Don't know exactly whether this is the case with that… this specific graph, but, we have pretty small samples for certain, stage cohort, cells, so that might be why, especially when we… so when we look at,
+
+228
+00:45:28.820 --> 00:45:46.540
+Rachel Fung: effects by age 19 and by age 24, the samples would be slightly different, and then, the sample sizes could change a lot. So that might be that. So I have to, yeah, look at that, to make sure. And then, yeah, you talked a lot about substitution to other tobacco products.
+
+229
+00:45:46.540 --> 00:46:04.120
+Rachel Fung: This is something that we looked at early in the project, so it's not in the current version of the paper, but, all of the analysis that we did, so on, cigar, cigar, chewing tobacco,
+
+230
+00:46:04.350 --> 00:46:20.800
+Rachel Fung: and pipes, were the categories, and then we did a category for any tobacco, and I believe we didn't find any effects. We thought we might find substitution that people substitute away from chewing tobacco, but I don't think we found that,
+
+231
+00:46:20.800 --> 00:46:29.379
+Rachel Fung: Yeah, but we can definitely do that again with all of… update all of those results. I think that would be interesting. And then…
+
+232
+00:46:30.490 --> 00:46:50.889
+Rachel Fung: Yeah, we can definitely extend the death to later as well, and do more investigating on, you know, why it's in these specific ages where we find the differences, and then try to supplement with maybe some data on cause of death to try to really understand what's going on. That's really great comments.
+
+233
+00:46:50.890 --> 00:46:59.000
+Rachel Fung: Yeah, and on the newspaper as well, we do have the OCR text, so that's probably something that we can, look into as well. Thank you.
+
+234
+00:47:00.700 --> 00:47:11.550
+Michael Darden: Great, so I just want to remind everyone that we have the Q&A open. We'll get to those questions in a minute. I had a question for you, thinking about
+
+235
+00:47:11.710 --> 00:47:26.910
+Michael Darden: not other tobacco products. It's in the similar vein to Eric's question, but more about alcohol. So, we think of… there's… I mean, there's pretty good evidence in the economics literature that alcohol and cigarettes are compliments for young people.
+
+236
+00:47:27.200 --> 00:47:36.800
+Michael Darden: I have no idea if that would be true in the time frame that you're studying. But to the extent that you're seeing a reduction in initiation.
+
+237
+00:47:36.920 --> 00:47:51.279
+Michael Darden: You might also be seeing a reduction in alcohol consumption. And so, that's a behavior I don't know if you can measure, but I think it would be interesting to try to decompose the health effects that are due to cigarettes and alcohol, and I wonder if you can comment on that.
+
+238
+00:47:51.950 --> 00:47:57.069
+Rachel Fung: Yes, this is a very interesting question, and that's something I've thought about a lot as well, so, you know, the…
+
+239
+00:47:57.070 --> 00:48:18.439
+Rachel Fung: complements the substitutability of alcohol and cigarettes. So, one difficulty is that there's basically no data on alcohol consumption from this period, and there's also just very little data on tobacco use as well, so this is the data that we found, we think, is the only data that covers this early period.
+
+240
+00:48:18.440 --> 00:48:29.739
+Rachel Fung: And so that makes it difficult to… to think about… to test any hypothesis, basically. But I… I do think this is very interesting, and if we look at the trends in,
+
+241
+00:48:30.060 --> 00:48:47.780
+Rachel Fung: I think I have the figure here somewhere. So this is the trends in, in blue is the, these pounds of leaf tobacco used in cigarette. This is production with production slash consumption nationally. And so we do see, kind of, rapid increases around alcohol prohibition.
+
+242
+00:48:47.800 --> 00:49:01.329
+Rachel Fung: So I do think that there could be some, substitution, but I… yeah, I think it's very difficult to… to show empirically, because there's just a lot of restrictions in terms of what data we have. Yeah.
+
+243
+00:49:01.330 --> 00:49:18.260
+Michael Darden: Yeah, and walk us… so you mentioned that you control for all of the changes that are going on during this period in alcohol prohibition, and walk us through what you think is going on here with the relative prices of alcohol and cigarettes. So if they're complements
+
+244
+00:49:18.350 --> 00:49:32.350
+Michael Darden: So if you're controlling… if you're controlling for the alcohol bans that are occurring nationally, I suppose, in 1920, but then also maybe earlier state ones, I'm not sure if there are ones, we're saying that the
+
+245
+00:49:32.480 --> 00:49:36.240
+Michael Darden: The price of alcohol… the price of cigarettes is going…
+
+246
+00:49:36.510 --> 00:49:49.799
+Michael Darden: up relative to alcohol, because we're just looking at the cigarette margin. So tell us what you're doing with the alcohol variation, the policy variation in alcohol during this period.
+
+247
+00:49:49.800 --> 00:49:57.570
+Rachel Fung: Now, a policy… it's a… we control for… it's a dummy variable per, state-level dry status.
+
+248
+00:49:58.170 --> 00:50:03.460
+Rachel Fung: So it's at the state level whether the, the county… oh, sorry, the, the state,
+
+249
+00:50:03.830 --> 00:50:07.620
+Rachel Fung: Yeah, banned. Had an alcohol prohibition in place.
+
+250
+00:50:08.320 --> 00:50:09.120
+Rachel Fung: Yeah.
+
+251
+00:50:09.350 --> 00:50:09.870
+Rachel Fung: I agree.
+
+252
+00:50:10.870 --> 00:50:16.539
+Michael Darden: Okay, and… but there… but there's also prohibition that comes in in 1920, right? How does that affect your…
+
+253
+00:50:16.540 --> 00:50:22.379
+Rachel Fung: When… when that happens, it would just… the dummy would just be one for all of the states.
+
+254
+00:50:22.380 --> 00:50:39.570
+Michael Darden: Okay, and then, you know, just thinking about that period, I mean, we hear a lot about the kind of lawlessness that happened as a result of alcohol prohibition, but I… do you think that there's a lot of black market activity that's going on as a result of the cigarette prohibitions?
+
+255
+00:50:39.830 --> 00:50:46.890
+Rachel Fung: I think so that definitely was… was a part of, kind of, the historical literature saying that, you know, that cigarette
+
+256
+00:50:46.970 --> 00:50:51.670
+Rachel Fung: bans were not well enforced, they would… people could definitely still buy cigarettes.
+
+257
+00:50:51.670 --> 00:51:07.529
+Rachel Fung: And I think we just… we don't really know how well enforced they are, right? So the historical literature says they're not really that well enforced, but then we do find effects. So, we think even if they're not enforced, they're… so even if, you know, they don't really
+
+258
+00:51:09.060 --> 00:51:22.120
+Rachel Fung: you know, make a lot of robust. If there is a law, it could still deter some people from selling outright, which could still, you know, have an effect. So I think that's how we interpret the results here.
+
+259
+00:51:22.380 --> 00:51:40.990
+Michael Darden: Let me go to the Q&A. So, we have one question. So, given the news analysis, do you examine cigarette tobacco advertising prevalence in those early decades? I'm curious about how much variation there could be in cigarette, or tobacco generally, advertising prevalence.
+
+260
+00:51:43.500 --> 00:52:02.939
+Rachel Fung: That's a great question. That's something we wanted… we were working on adding to the paper, like, descriptive statistics on the newspaper data. I don't have a good answer for that at the moment, yeah, in terms of how prevalent these are. Actually, I think we have… we should have the means for the…
+
+261
+00:52:05.950 --> 00:52:09.170
+Rachel Fung: So, the observations, the…
+
+262
+00:52:09.620 --> 00:52:22.720
+Rachel Fung: Oh, yeah, so the… it's just the mean in the band states, the period before the bans occurred. And these are number of mentions per… I think, per thousand issue.
+
+263
+00:52:23.350 --> 00:52:24.460
+Rachel Fung: I believe.
+
+264
+00:52:24.650 --> 00:52:30.680
+Rachel Fung: So this… the ads are not that common, I think, in this app. This was before the,
+
+265
+00:52:30.980 --> 00:52:33.950
+Rachel Fung: the exposure of, like, ads.
+
+266
+00:52:33.950 --> 00:52:34.490
+Michael Darden: Okay.
+
+267
+00:52:34.670 --> 00:52:35.230
+Rachel Fung: Yeah.
+
+268
+00:52:36.020 --> 00:52:51.539
+Michael Darden: Okay, and then a couple suggestions. There's some… there's… someone mentioned in the chat that there's a 1981 Japanese study that looked at how, husband smoking affected their spouses, and so maybe you could get some of the… so,
+
+269
+00:52:51.540 --> 00:53:02.650
+Michael Darden: Yeah, that's in there. Also, somebody had a question about just generally what's going on with e-cigarette use in the military now.
+
+270
+00:53:02.650 --> 00:53:09.920
+Michael Darden: Are you aware of any studies or ongoing research that compare e-cigarette use, specifically within the military population.
+
+271
+00:53:10.010 --> 00:53:14.100
+Michael Darden: Or track its usage, in trends across service members.
+
+272
+00:53:14.380 --> 00:53:17.199
+Rachel Fung: That's a really interesting comment. I…
+
+273
+00:53:17.690 --> 00:53:29.339
+Rachel Fung: I don't know the answer, but that's really interesting, and yeah, maybe my co-authors would know, but I don't… I don't think they're here right now. Oh, Mike is… yeah, I don't know.
+
+274
+00:53:29.550 --> 00:53:30.300
+Rachel Fung: Yeah.
+
+275
+00:53:31.200 --> 00:53:46.689
+Michael Darden: did the data show any noticeable drop in tobacco use following key events? So, I kind of had this question, too, I would second it. So, like, you know, if you're slightly more addicted because you have a slightly longer or more cumulative exposure to tobacco and nicotine.
+
+276
+00:53:46.690 --> 00:53:52.969
+Michael Darden: Does the Surgeon General report, for example, or the FCC ban on advertising affect things differently?
+
+277
+00:53:56.470 --> 00:54:03.899
+Michael Darden: That's much later than this graph, but, you know, cessation at any point in life can be beneficial for health, so…
+
+278
+00:54:04.050 --> 00:54:05.020
+Rachel Fung: Yeah.
+
+279
+00:54:05.880 --> 00:54:08.130
+Rachel Fung: Yeah, again, that's a great question, I think.
+
+280
+00:54:08.420 --> 00:54:14.169
+Rachel Fung: It's quite difficult to answer with the kinds of data that's available.
+
+281
+00:54:14.500 --> 00:54:15.050
+Michael Darden: Right.
+
+282
+00:54:15.050 --> 00:54:17.070
+Rachel Fung: Right now, right? .
+
+283
+00:54:17.270 --> 00:54:21.480
+Michael Darden: So those people would be in their 60s at least, right?
+
+284
+00:54:23.410 --> 00:54:26.760
+Michael Darden: For the… for the, for the Surgeon General report, and…
+
+285
+00:54:28.270 --> 00:54:39.529
+Rachel Fung: Yes, and then we'd have to know when people stop smoking, and… Right. Yeah, it's an interesting question, but I don't think there's the data to answer that.
+
+286
+00:54:39.900 --> 00:54:41.430
+Michael Darden: Okay, great.
+
+287
+00:54:41.990 --> 00:54:45.919
+Michael Darden: Any other questions from the audience? We have a little bit of time left.
+
+288
+00:54:47.170 --> 00:54:52.939
+Michael Darden: Is the manuscript in working paper mode? Where can I find it?
+
+289
+00:54:55.300 --> 00:55:08.449
+Rachel Fung: I don't know if it's going to be posted after the talk. We're working on a revision, so, maybe we, in, like, a week or two, we'll have an updated version.
+
+290
+00:55:08.450 --> 00:55:17.659
+Michael Darden: So check the author's website, TV… maybe… we'll say a month, how about that? And, let's see what… the manuscript may be coming.
+
+291
+00:55:18.970 --> 00:55:38.359
+Michael Darden: Okay, well, if there are no other questions, thank you so much for presenting this fascinating work. I second Eric's comments that this is, you know, surprising that no one's done it, but great that you're doing it, and it looks like you're doing a great job. So, let me kick it back to our MC, who will take us out.
+
+292
+00:55:41.470 --> 00:55:57.199
+Kyla Scott: We are out of time, however, if you still have burning questions or thoughts for Dr. Rachel Fung, you can join us for Top the Tops, an interactive group discussion. To join, please copy the Zoom meeting room URL posted in the chat and switch rooms with us once this event concludes.
+
+293
+00:55:57.200 --> 00:56:06.340
+Kyla Scott: We'll leave this webinar room open for an extra minute at the end to give everyone a chance to copy the URL, which is bit.ly slash topsmeeting, it's all lowercase.
+
+294
+00:56:06.510 --> 00:56:15.229
+Kyla Scott: Thank you to our presenter, moderator, and discussant, and finally, thank you to the audience of 141 people for your participation, and have a top-notch weekend!
+
