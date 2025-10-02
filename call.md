@@ -1,6 +1,6 @@
 ## Call for Papers / Nominations
 
-We currently only accept submissions from presenters with a primary (and active) affiliation at a college/university, research center, or government agency.
+To maintain TOPS as a neutral, research-focused forum, we restrict presenters to those with a primary affiliation in academia, government, or at an independent research institute. All funding for the work being presented, and in the presenter’s recent history, must be disclosed. When disclosures reveal potential conflicts of interest, the Executive Board may require enhanced standards of research transparency — including, where applicable, data availability and reproducibility — as a condition of participation.
  
 
 <center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfZbPQ3fzYBDddCQ7a9Bj3mHfeZOXuhW-rIMcfz5_B4t7N6ag/viewform"><img src="submission_form.jpg"></a><a href="https://forms.gle/RxnyWKCXAnnqm7818"><img src="nomination_form1.jpg"></a></center>
