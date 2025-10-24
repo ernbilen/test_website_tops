@@ -234,9 +234,9 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Draft }}"> Paper</a>|<a href="{{ speaker.Transcript }}" download="{{ speaker.Transcript }}">Transcript</a>|<a href="{{ speaker.PublishedPaper }}" download="{{ speaker.PublishedPaper }}">Published Paper (March 2025)</a></td>
 </tr>
-{% elsif (speaker.Presenter == 'Natalie Walker') %}
+{% elsif (speaker.Presenter == 'Natalie Walker') or (speaker.Presenter == 'Jamie Hartmann-Boyce  ')%}
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration">Links (Video and some slides embargoed until a later date): <a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.Draft }}"> Paper</a>|<a href="{{ speaker.Transcript }}" download="{{ speaker.Transcript }}">Transcript</a></td>
+  <td colspan="2" height="40" valign="top" class="registration">Links (Video and some slides embargoed until a later date): <a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.Draft }}"> Paper</a></td>
 </tr>
 {% elsif (speaker.Presenter == 'Makayla Lavender, James Flynn') %}
 <tr>
