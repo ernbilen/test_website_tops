@@ -16,7 +16,7 @@ Join our e-mail list for updates: [https://www.tobaccopolicy.org/email.html](htt
 
 Or register for Zoom seminars directly: [https://bit.ly/TOPS-Winter2026](https://bit.ly/TOPS-Winter2026).
 
-![Index](TOPS_schedule_Winter2026.jpg)
+![Index](TOPS_schedule_Winter2026_v2.jpg)
 
 <!--
 - The [AEA list of online seminars](https://www.aeaweb.org/resources/online-seminars)
