@@ -1,0 +1,1042 @@
+WEBVTT
+
+1
+00:00:05.640 --> 00:00:18.790
+Elizabeth Ogunleye: Welcome to the Tobacco Online Policy Seminar Tops. Thank you for joining us today. I'm Elizabeth Ogunle. I'm a PhD student at the Virginia Commonwealth University Department of Psychology.
+
+2
+00:00:18.790 --> 00:00:35.449
+Elizabeth Ogunleye: TOPS is organized by Mike Pesco at the University of Missouri, Tushang at The Ohio State University, Michael Darden at Johns Hopkins University, Jamie Hartman Boyce at University of Massachusetts at Hamhurst, and Justin White at, Boston University.
+
+3
+00:00:36.030 --> 00:00:42.960
+Elizabeth Ogunleye: The seminar will be one hour with questions from the moderator and the discussant. The audience may pose questions
+
+4
+00:00:43.560 --> 00:01:01.700
+Elizabeth Ogunleye: And comment in the Q&A panel, and the moderator will draw from these questions and comment in conversations with the presenter. Please review the guidelines on tobaccopolicy.org for acceptable questions. Please keep the questions professional and related to the research being discussed.
+
+5
+00:01:01.860 --> 00:01:12.480
+Elizabeth Ogunleye: Questions that meet the seminar series guidelines will be shared with the presenter afterwards, even if they are not read out aloud. Your questions are very much appreciated.
+
+6
+00:01:12.580 --> 00:01:21.870
+Elizabeth Ogunleye: This presentation is being video recorded and will be made available along with presentation slides on the TOPS website, TobaccoPolicy.org.
+
+7
+00:01:22.360 --> 00:01:30.289
+Elizabeth Ogunleye: I will now turn the presentation over to today's moderator, Justin White, from Boston University, to introduce our speaker.
+
+8
+00:01:31.240 --> 00:01:45.619
+Justin White: Thank you. Today, we begin our winter season with a single paper presentation by Jamie Hartman-Boyce, entitled, Oral Nicotine Pouches and Electronic Cigarettes for Smoking Cessation, The Latest Cochrane Evidence.
+
+9
+00:01:45.820 --> 00:01:51.960
+Justin White: This presentation was selected by a competitive review process by submission through the TOPS website.
+
+10
+00:01:52.210 --> 00:01:58.949
+Justin White: Jamie Hartman-Boyce is an assistant professor in health promotion and policy at the University of Massachusetts Amherst.
+
+11
+00:01:59.300 --> 00:02:12.390
+Justin White: Her research mainly consists of applied evidence synthesis in areas including tobacco control, diet, physical activity, and long-term conditions. She's a Cochrane editor and a member of the Cochrane Tobacco Addiction Group.
+
+12
+00:02:12.710 --> 00:02:15.859
+Justin White: Dr. Hartman-Boyce, thank you for presenting for us today.
+
+13
+00:02:18.420 --> 00:02:23.349
+Jamie Hartmann-Boyce: Thank you so much for having me. I'm just gonna go ahead and share my screen.
+
+14
+00:02:25.290 --> 00:02:39.479
+Jamie Hartmann-Boyce: I'm gonna assume it all looks okay, unless someone tells me otherwise. So today, I actually want to cover two Cochrane reviews. The first of those is on oral nicotine pouches, and the second is looking at e-cigarettes for smoking cessation.
+
+15
+00:02:41.280 --> 00:02:51.629
+Jamie Hartmann-Boyce: The work on oral nicotine pouches was supported by the National Cancer Institute of the National Institutes of Health, and the FDA Center for Tobacco Products through a tobacco center of regulatory science.
+
+16
+00:02:51.630 --> 00:03:04.290
+Jamie Hartmann-Boyce: The e-cigarette systematic review is funded primarily by Cancer Research UK, as well as through the above funding mechanism. The views I'm presenting are not necessarily those of the funders, and I don't have any conflicts of interest.
+
+17
+00:03:04.290 --> 00:03:05.650
+Jamie Hartmann-Boyce: to declare.
+
+18
+00:03:05.650 --> 00:03:21.000
+Jamie Hartmann-Boyce: There is, however, one critical acknowledgement, which is that for anyone who has written or read a Cochrane review, one knows that one cannot possibly do these on one's own. So it takes a village to write these, and I am so grateful to have a wonderful village of authors on both of these reviews.
+
+19
+00:03:21.000 --> 00:03:37.390
+Jamie Hartmann-Boyce: So here are the other members of the Oral Nicotine Pouch Author Team, to whom I am so grateful, and an even bigger review with an even bigger team. Here are the members of our e-cigarette author team, and we're really grateful to all their work, without which this work would definitely not be possible.
+
+20
+00:03:38.310 --> 00:03:51.550
+Jamie Hartmann-Boyce: So in terms of what I will cover today, I'll start with a kind of brief introduction to Cochrane for anyone who's unfamiliar with us, and talk through some of the key Cochrane tobacco Addiction Group methods that apply to both of the reviews I'll be presenting today.
+
+21
+00:03:51.590 --> 00:04:10.030
+Jamie Hartmann-Boyce: I'm then gonna focus on results from our oral nicotine pouches review, followed by the latest update from our e-cigarettes for smoking cessation review, and end with some thoughts about next steps. I love taking questions on this work, so we'll have a pause for questions after the oral nicotine pouch review.
+
+22
+00:04:10.080 --> 00:04:28.639
+Jamie Hartmann-Boyce: And at the end as well. But if you do have a question and don't get a chance to ask it, I really encourage people to email me with questions about our reviews. I like to think that unless my firewall blocks it, I always respond. And also, as far as I know, I'm the only Jamie Hartman voice, so if you Google me, you will definitely find my email address.
+
+23
+00:04:29.140 --> 00:04:51.480
+Jamie Hartmann-Boyce: So, a little bit about Cochrane. For anyone unfamiliar with us, Cochrane is a global nonprofit which really exists to produce systematic reviews in order to inform health decision making. These reviews are then published on the Cochrane Library, and in order to be a Cochrane review, you have to follow a really strict set of guidance, which is set out in a regularly updated manual called the Cochrane Handbook.
+
+24
+00:04:51.620 --> 00:05:10.580
+Jamie Hartmann-Boyce: Cochrane reviews strive to be transparent, rigorous, and unbiased. As a result, they are typically very long and very detail-oriented, but they do have, I think, I like to think, a well-earned reputation as being very trustworthy, because we have to follow this strict set of methods.
+
+25
+00:05:10.770 --> 00:05:24.500
+Jamie Hartmann-Boyce: Our role as Cochrane reviewers is never to say what any decision should be. It's never to say, oh, this decision maker should do this, or this decision maker should do that. It is to make sure decision makers, when they are coming to make their decisions.
+
+26
+00:05:24.500 --> 00:05:30.909
+Jamie Hartmann-Boyce: Have a thorough, robust, unbiased version of the evidence to hand that they can refer to.
+
+27
+00:05:31.820 --> 00:05:45.899
+Jamie Hartmann-Boyce: Across our Cochrane Tobacco Addiction Group reviews, there are certain methods that apply across the board, and those apply to both of these reviews. This also applies, in many cases, to any Cochrane review you are looking at.
+
+28
+00:05:46.220 --> 00:06:09.520
+Jamie Hartmann-Boyce: So, in terms of searches, screening, and data extraction, everything that we do in Cochrane that involves a human has to be done in duplicate to try to avoid any possible errors. We publish our protocols in advance, pre-specifying all of our methods on the Cochrane Library. We identify studies with the help of an information specialist by searching study registers, databases.
+
+29
+00:06:09.520 --> 00:06:23.260
+Jamie Hartmann-Boyce: We also always screen SR&T abstract books and contact researchers in the field as well. Screening and data extraction are conducted in duplicate with any disagreements resolved by discussion or referral to a third reviewer.
+
+30
+00:06:24.600 --> 00:06:42.979
+Jamie Hartmann-Boyce: We, in Cochrane, are not just concerned about what do the studies show, but really critically, how much can we trust what they show? And as part of that, for every included study, we conduct a risk of bias assessment. We have standard Cochrane tobacco Addiction Group methods for this, which are published in this paper that we have a screenshot of here.
+
+31
+00:06:42.980 --> 00:06:52.259
+Jamie Hartmann-Boyce: And in these reviews, we assess each study on a number of domains, judging them to be at high, low, or unclear risk of bias for each of those domains.
+
+32
+00:06:52.260 --> 00:07:16.319
+Jamie Hartmann-Boyce: Which include random sequence generation, allocation concealment, performance bias, detection bias, attrition bias, and any other risk of bias. We then make an overall judgment about whether or not the study is at high risk of bias, and our ruling is that if it's at high risk in any domain, even if it's just one, we consider that study at high risk of bias overall. It's at low risk if all domains are low for that study.
+
+33
+00:07:16.320 --> 00:07:19.270
+Jamie Hartmann-Boyce: And all others are at unclear risk.
+
+34
+00:07:20.200 --> 00:07:35.570
+Jamie Hartmann-Boyce: When it comes to statistical synthesis and other ways, fitting all these different pieces of a puzzle together, we pull dichotomous outcome data using a Mantle-Hansel random effects model. We report results as risk ratios and 95% confidence intervals.
+
+35
+00:07:35.570 --> 00:07:43.409
+Jamie Hartmann-Boyce: We pool continuous data using generic inverse variance models, with results reported as mean differences with 95% confidence intervals.
+
+36
+00:07:43.410 --> 00:07:56.969
+Jamie Hartmann-Boyce: The important things to note about that is for our dichotomous outcomes, a risk ratio of 1 would indicate no difference between the things we were comparing. For our mean differences, that would be a mean difference of 0 that indicated no difference.
+
+37
+00:07:57.390 --> 00:08:21.520
+Jamie Hartmann-Boyce: When it comes to abstinence, we always use the strictest definition at longest follow-up. So, if we have both self-report and biochemically validated data, we would always use the biochemically validated data, and we consider those loss to follow-up as non-abstinent, using an intention-to-treat approach. For all other outcomes, which tend to be, for us the safety-related outcomes, we use complete case data.
+
+38
+00:08:21.530 --> 00:08:28.480
+Jamie Hartmann-Boyce: And if studies follow up beyond the end of the intervention, we tend to focus on the…
+
+39
+00:08:28.550 --> 00:08:35.140
+Jamie Hartmann-Boyce: Follow-up point that is closest to the point after which participants stopped using that intervention.
+
+40
+00:08:35.140 --> 00:08:52.090
+Jamie Hartmann-Boyce: In all of our reviews, we conduct sensitivity analyses. So what that means is at the start for our meta-analyses, we throw all the relevant studies in there, and then we'll do sensitivity analyses to see if our conclusions change, if they're sensitive, to the removal of certain types of studies.
+
+41
+00:08:52.090 --> 00:09:05.440
+Jamie Hartmann-Boyce: This includes studies with industry funding, we always do sensitivity analyses removing those. According to Cochrane standards, we include studies regardless of who they are funded by, but then we check that our conclusions are not being shaped by that.
+
+42
+00:09:05.740 --> 00:09:28.030
+Jamie Hartmann-Boyce: We'll also remove studies at high risk of bias and see if that changes our outcomes. And if either of those do, if our sensitivity analyses lead to a different interpretation of the results, then we would consider that in something called our grading of the evidence. So grade is a framework that is used in Cochrane, but also in many other journals and guideline developers.
+
+43
+00:09:28.030 --> 00:09:42.649
+Jamie Hartmann-Boyce: for assessing certainty in an overall body of evidence. Grade can range from high certainty, meaning we're very confident that our true effect lies close to our estimate, to very low certainty, meaning we have very little confidence in the effect estimate.
+
+44
+00:09:42.750 --> 00:10:00.600
+Jamie Hartmann-Boyce: Another way to think about this is if we're saying an outcome is high certainty, then we do not expect that more studies are going to come along and meaningfully change the interpretation of the data. If we're saying very low certainty, we mean another study could get published and completely change, for example, the direction of the effect.
+
+45
+00:10:01.220 --> 00:10:20.349
+Jamie Hartmann-Boyce: For randomized controlled trials, grade is based on five domains that we consider. Risk of bias, so if a lot of the studies are at high risk of bias, or if we remove them and it changes the effect estimate. Imprecision, which might be small studies with small number of events, and or wide confidence intervals.
+
+46
+00:10:20.350 --> 00:10:25.030
+Jamie Hartmann-Boyce: Indirectness, where the thing the study's testing isn't exactly what we want it to be.
+
+47
+00:10:25.210 --> 00:10:49.609
+Jamie Hartmann-Boyce: Inconsistency, which is statistical differences or heterogeneity between studies beyond that, which we'd expect to see due to chance alone, and publication bias. So, in that domain, we're thinking about, okay, is it possible that there's a certain body of evidence that has been kind of systematically not published because of what it found? We know that is a big threat to the credibility of findings from systematic reviews.
+
+48
+00:10:50.730 --> 00:11:14.390
+Jamie Hartmann-Boyce: So, moving on from the methods, I want to talk to you about our new review of oral nicotine pouches for cessation or reduction of use of other tobacco or nicotine products. The studies covered in this review are up to January of 2025, and it's really good timing to be presenting to this today because the full review has published today. So, excellent timing.
+
+49
+00:11:14.390 --> 00:11:18.719
+Jamie Hartmann-Boyce: Really excited to be here, and that the stars aligned in such a way.
+
+50
+00:11:19.790 --> 00:11:31.100
+Jamie Hartmann-Boyce: The objectives of this review were to evaluate the benefits and harms of oral nicotine pouches when used to help people stop tobacco smoking, and the impact of pouches on prevalence of tobacco smoking.
+
+51
+00:11:31.100 --> 00:11:42.849
+Jamie Hartmann-Boyce: Our secondary objectives mirror those, except they're looking at other non-combustible tobacco and commercial nicotine product use, excluding, I should note, pharmaceutical nicotine.
+
+52
+00:11:43.000 --> 00:12:01.030
+Jamie Hartmann-Boyce: Now, going into this, we don't go into our Cochrane reviews blind, we do some scoping searches, we see what's out there. We knew that it was very likely that we would not find studies on many of these objectives, and that was indeed the case. So indeed, the studies we have only touch on that first point.
+
+53
+00:12:01.030 --> 00:12:24.070
+Jamie Hartmann-Boyce: The reason we do this is we don't really think of Cochrane reviews as something that you publish once and then you walk away from. When we write our methods at the start in our protocol, we are writing them in an attempt to future-proof. So we'd love to update this review in due course, and when we do, we might find this data moving forwards. I should note that when it comes to those prevalence outcomes.
+
+54
+00:12:24.090 --> 00:12:42.899
+Jamie Hartmann-Boyce: We would really probably not see those quite yet. If prevalence of pouch use goes up substantially in any population or area, then we might see those coming out in the future. But it is definitely not too early to start thinking about the impacts of oral nicotine pouches in, for example, people who vape.
+
+55
+00:12:44.430 --> 00:13:08.569
+Jamie Hartmann-Boyce: So, for our objectives related to the benefits and harms of oral nicotine pouches, you can see the prevalence inclusion criteria in our protocol or full review, we were interested in randomized controlled trials in people who used tobacco or other non-pharmaceutical nicotine products at baseline. The intervention had to be provision of pouches to reduce or quit tobacco or other non-pharmaceutical nicotine product use.
+
+56
+00:13:08.640 --> 00:13:12.560
+Jamie Hartmann-Boyce: And we're interested in a really broad range of comparators.
+
+57
+00:13:12.750 --> 00:13:24.169
+Jamie Hartmann-Boyce: This included another commercial tobacco or nicotine product, another pouch intervention, so, for example, varying on strength or flavor, or instructions about taking it.
+
+58
+00:13:24.350 --> 00:13:35.469
+Jamie Hartmann-Boyce: Smoking cessation pharmacotherapies, non-nicotine pouches, which we might consider a way to test, this against placebo, or no or minimal intervention.
+
+59
+00:13:35.840 --> 00:13:51.309
+Jamie Hartmann-Boyce: Typically, with our Cochrane reviews, if we're looking at abstinence, we really want to look at it at 6 months or longer. We know that relapse is a major issue, and we know that relative abstinence rates tend to stabilize in trials after around 6 months.
+
+60
+00:13:51.310 --> 00:14:16.009
+Jamie Hartmann-Boyce: So there's a major caveat here that for our inclusion criteria, we went for tobacco nicotine abstinence at 4 weeks or longer. That is simply because of that scoping work we did. We were aware that we were highly unlikely to find anything at this point that followed up for 6 months or longer. We do know those are coming, which is great. And we thought some information was better than no information at all. So over time, that might change to be a secondary outcome.
+
+61
+00:14:16.010 --> 00:14:19.399
+Jamie Hartmann-Boyce: And a primary outcome might be at 6 months or longer.
+
+62
+00:14:19.570 --> 00:14:27.739
+Jamie Hartmann-Boyce: We're also interested in studies that reported on any sort of biomarker or adverse event outcome at a week or longer.
+
+63
+00:14:28.030 --> 00:14:47.589
+Jamie Hartmann-Boyce: So in terms of included studies, we only found 4 that met our criteria, and these 4 were fairly small, so our total N across all these studies was 282. In all, participants smoked cigarettes at baseline, so we didn't have any which tested pouches and people using other forms of tobacco or nicotine product.
+
+64
+00:14:47.730 --> 00:14:56.129
+Jamie Hartmann-Boyce: Study size ranged from 30 to 146. One study, Wrench 2023, was tobacco industry funded.
+
+65
+00:14:56.210 --> 00:15:04.240
+Jamie Hartmann-Boyce: And 3 of the 4 studies specifically included people not motivated to quit smoking. That is noteworthy,
+
+66
+00:15:04.280 --> 00:15:19.660
+Jamie Hartmann-Boyce: If we think about reviews of other smoking cessation interventions, the vast majority of those trials tend to restrict inclusion only to people who want to quit smoking, at which point you will often see higher absolute quit rates, whereas here we're in a space
+
+67
+00:15:19.660 --> 00:15:27.230
+Jamie Hartmann-Boyce: kind of similar to e-cigarettes, which I'll come on to, where a much larger proportion of the studies are focused on people who have no interest in quitting.
+
+68
+00:15:27.770 --> 00:15:46.349
+Jamie Hartmann-Boyce: In terms of comparators, one study compared oral nicotine products to e-cigarettes, one to snooze, one to nicotine replacement therapy, two to a minimal control condition, one to tobacco abstinence, and two which looked at head-to-head comparisons of pouches based on nicotine dose.
+
+69
+00:15:46.890 --> 00:16:02.209
+Jamie Hartmann-Boyce: When we look at risk of bias, three of our 4 studies were judged to be at high risk of bias, and one was judged to be at unclear risk of bias. I should point out that our rules here within Cochrane are pretty strict around,
+
+70
+00:16:02.460 --> 00:16:07.010
+Jamie Hartmann-Boyce: Our assessment of performance and detection bias, such that if
+
+71
+00:16:07.010 --> 00:16:28.590
+Jamie Hartmann-Boyce: It is a study where one arm is receiving a more intense intervention, or indeed one arm is receiving an intervention and another isn't, and it's not blinded. According to Cochrane frameworks, we consider that as possibly introducing bias. So this is not necessarily a reflection in any way on, kind of, the conduct of these studies, but it's the way that we think about it in terms of risk of bias frameworks within Cochrane.
+
+72
+00:16:29.400 --> 00:16:50.999
+Jamie Hartmann-Boyce: Now, despite the fact that this review only included 4 small studies, it would still take me hours to present everything that is in the full report. And that is because it is a Cochrane review. So, what we do when we publish our protocols for Cochrane reviews is we pre-specify the main comparisons and outcomes of interest for us.
+
+73
+00:16:51.000 --> 00:16:57.079
+Jamie Hartmann-Boyce: Those are the ones that end up getting graded. Those are the ones where we evaluate the certainty of the evidence.
+
+74
+00:16:57.080 --> 00:17:07.040
+Jamie Hartmann-Boyce: And for oral nicotine pouches, we pre-specified that we were particularly interested in comparisons with minimal control, with nicotine replacement therapy, and with nicotine e-cigarettes.
+
+75
+00:17:07.040 --> 00:17:12.839
+Jamie Hartmann-Boyce: And the outcomes we were particularly interested in were smoking, abstinence, adverse events, serious adverse events.
+
+76
+00:17:12.839 --> 00:17:27.889
+Jamie Hartmann-Boyce: NNAL, and carboxyhemoglobin. So the results I'm going to present to you today are focused on those. There are other results, for example, around those comparisons between nicotine pouch strength, which I'd encourage you to look at the full review to take a look at.
+
+77
+00:17:28.980 --> 00:17:42.340
+Jamie Hartmann-Boyce: So starting off with those two studies which compared nicotine pouches to a minimal control condition, which in effect was often just continuing to smoke as usual, because as you'll remember, these were people who were not interested in quitting at the start.
+
+78
+00:17:42.340 --> 00:17:55.650
+Jamie Hartmann-Boyce: We had one study that looked at cessation. It found no clear evidence of a difference. Really, small numbers here. One person quitting in the oral nicotine pouch group, none in the control condition.
+
+79
+00:17:55.650 --> 00:18:16.419
+Jamie Hartmann-Boyce: And according to the Cochrane framework, this is very low certainty evidence. First of all, one group is receiving a more intensive intervention than the other, which puts it at risk of bias, according to our framework. And secondly, there's clearly a big problem with imprecision here. We have small numbers, wide confidence intervals, and we look forward to more studies being added to this comparison as we move forward.
+
+80
+00:18:17.400 --> 00:18:41.979
+Jamie Hartmann-Boyce: When it came to NNAL, we had, again, very low certainty evidence of, here, clearly statistically significantly lower NNAL in those randomized to the oral nicotine pouch condition, as opposed to essentially no intervention slash continued smoking. Here again, though, this is a small study. It's imprecise. We don't have that many participants contributing data.
+
+81
+00:18:42.030 --> 00:18:58.140
+Jamie Hartmann-Boyce: And this, I will also caution, is the study that was industry-funded, so there's no way for us to do a sensitivity analysis removing this, because it's only one study. We hope to get more independent studies that contribute data to this outcome and this comparison in the future, at which point we can test that.
+
+82
+00:18:58.500 --> 00:19:04.029
+Jamie Hartmann-Boyce: That same industry-funded study also provided statistically significant evidence
+
+83
+00:19:04.030 --> 00:19:18.540
+Jamie Hartmann-Boyce: of lower carboxyhemoglobin levels in those randomized to oral nicotine pouches compared to those who effectively were randomized to continue to smoke. Again, very low certainty evidence, small study, small number of participants.
+
+84
+00:19:18.540 --> 00:19:23.340
+Jamie Hartmann-Boyce: A lot of imprecision in that estimate, and again, this was industry-funded.
+
+85
+00:19:25.290 --> 00:19:38.979
+Jamie Hartmann-Boyce: One study looked at oral nicotine pouches compared to NRT, and this study didn't present data in a way that we could meta-analyze. Of our key outcomes, the only one this study looked at was non-serious adverse events.
+
+86
+00:19:38.980 --> 00:19:55.739
+Jamie Hartmann-Boyce: But they didn't report that overall as a whole, in which case we would have put it in a forest plot. Instead, they talked about specific adverse events, and the only thing they noted here was that oral nicotine pouch use was associated with fewer reports of bad taste or gastrointestinal side effects than NRT.
+
+87
+00:19:55.860 --> 00:20:14.069
+Jamie Hartmann-Boyce: In terms of GI side effects, one participant reported discontinuing pouch use due to GI symptoms, compared to two who discontinued nicotine gum for the same reason. Small study, small numbers, this could absolutely be due to chance, and we'll be curious to see how that develops over time.
+
+88
+00:20:15.710 --> 00:20:39.399
+Jamie Hartmann-Boyce: One study also looked at oral nicotine pouches versus nicotine e-cigarettes. For those of you who are paying good attention, that is the study from our discussant today, which we're super excited about. It is also the same study that compared oral nicotine pouches to a control condition. So, here we have low certainty evidence of higher quit rates in those randomized to nicotine e-cigarettes, but with a lot of imprecision.
+
+89
+00:20:39.400 --> 00:20:51.850
+Jamie Hartmann-Boyce: This is not statistically significant. We don't actually consider this comparison to be at high risk of bias, because both groups are receiving an active intervention, but we do downgrade twice due to that imprecision.
+
+90
+00:20:51.850 --> 00:21:02.319
+Jamie Hartmann-Boyce: Other studies could come and completely change these results, or could confirm them. We don't know yet. Please, if you're planning on conducting these studies, do so, and share your results with us.
+
+91
+00:21:03.450 --> 00:21:07.939
+Jamie Hartmann-Boyce: No other key outcomes were reported for this comparison.
+
+92
+00:21:09.380 --> 00:21:24.899
+Jamie Hartmann-Boyce: In terms of serious adverse events, 3 of the 4 included studies measured and reported on serious adverse events, and in all 3 of those, none occurred. So that equates to very low certainty evidence for us, that is very, very uncertain.
+
+93
+00:21:24.960 --> 00:21:34.820
+Jamie Hartmann-Boyce: It is, in many ways, great news to have zero serious adverse events. It's great for the study participants, it is great for the people running the studies on a human level, it is wonderful.
+
+94
+00:21:34.820 --> 00:21:50.530
+Jamie Hartmann-Boyce: On a statistical level, it means we are unable to say with any certainty if we expect there would be any difference here. And this is a problem, I'll talk about it a little bit with the e-cigarette review, too, that fortunately, serious adverse events are relatively rare, particularly in shorter trials, and particularly in small trials.
+
+95
+00:21:50.740 --> 00:21:57.029
+Jamie Hartmann-Boyce: But it does mean that a lot of what we're looking at for serious adverse events is really underpowered currently.
+
+96
+00:21:57.560 --> 00:22:19.710
+Jamie Hartmann-Boyce: Now, as I mentioned, with Cochrane Reviews, our hope is always that we're providing, essentially, a template or toolkit for us to update this review moving forward. And one thing that we do is we search for ongoing studies. We look through study registers, we also look for any published protocols and journals, anything that might be showing up in SRNT abstracts, etc.
+
+97
+00:22:19.710 --> 00:22:40.739
+Jamie Hartmann-Boyce: And in our hunt, we found 10 ongoing studies that are registered, that are eligible, and meet the inclusion criteria of our review. Some of those have recently been completed, some of those we think, are in the process of being completed fairly soon. There's always a lag between a study being completed and the results actually being available.
+
+98
+00:22:40.740 --> 00:22:52.779
+Jamie Hartmann-Boyce: But this gives us a lot of hope that the point at which it might be useful to update this review might be sooner rather than later. As you can see there, in terms of expected comparators, we have
+
+99
+00:22:52.860 --> 00:23:06.369
+Jamie Hartmann-Boyce: A few looking at e-cigarettes as an active comparator, a few looking at nicotine replacement therapy, which we're really happy to see, and two of them are looking at smoking abstinence at a year or longer, which is really, I think.
+
+100
+00:23:06.700 --> 00:23:11.670
+Jamie Hartmann-Boyce: A critically important thing for this evidence base moving forward.
+
+101
+00:23:11.710 --> 00:23:35.740
+Jamie Hartmann-Boyce: Most of them appear to be focused on how to help people quit smoking tobacco. It's not always completely clear from the study register, but we didn't see any that were obviously, for example, just looking at people who vaped, and we hope to see more of those moving forward. A little optimistic caveat on that is that I'd say, on average, we're aware of about 50-70% of ongoing studies before they get published.
+
+102
+00:23:35.760 --> 00:23:50.659
+Jamie Hartmann-Boyce: That's partly because not all ongoing studies are registered in clinical trial registries. It's also because the technology for searching clinical trial registries is nowhere near as good as it is for searching databases like Medline.
+
+103
+00:23:50.700 --> 00:24:03.180
+Jamie Hartmann-Boyce: Or MBASE. So this is not an exhaustive list. If people are aware of other studies in this space that are going on, we'd love to hear about them. Please drop me an email, and we'll definitely be on the lookout for them as well.
+
+104
+00:24:04.400 --> 00:24:20.030
+Jamie Hartmann-Boyce: So, as I mentioned, when it comes to Cochrane reviews, our job is not to say, this is what should happen, or this isn't what should happen. It's just to summarize the evidence we have available. We do this in implications for research and practice. I'm summarizing both here.
+
+105
+00:24:20.030 --> 00:24:31.879
+Jamie Hartmann-Boyce: So we concluded that there was limited evidence on using oral nicotine pouches for smoking cessation or reduction, and no evidence whatsoever on using them for cessation or reduction of other tobacco or nicotine products.
+
+106
+00:24:31.900 --> 00:24:39.860
+Jamie Hartmann-Boyce: There was no data on whether pouch use affected prevalence of use of tobacco or other nicotine products. Again, we weren't expecting there to be at this point.
+
+107
+00:24:40.070 --> 00:24:53.979
+Jamie Hartmann-Boyce: Low certainty evidence suggested that people randomized to pouches may be slightly less likely to quit smoking than those randomized to nicotine e-cigarettes, but the data is from one small study. It's very imprecise. That could totally change as more studies came out.
+
+108
+00:24:54.880 --> 00:25:08.619
+Jamie Hartmann-Boyce: Evidence from all of our other comparisons or outcomes was either entirely absent or very low certainty, and once evidence is very low certainty in Cochrane, we just say we can't even draw conclusions from this. Like, we really would not recommend anyone make any decisions
+
+109
+00:25:08.620 --> 00:25:33.550
+Jamie Hartmann-Boyce: on the basis of very low certainty evidence, because we think it is so likely to change with new studies. The three studies that reported on serious adverse events found that none occurred, which, as I mentioned, is encouraging, but also these studies are underpowered to look at this. They often didn't follow participants for very long at all. And I will also note, and I will bring this up again when we talk about e-cigarettes, that we do have to be aware that these studies all
+
+110
+00:25:33.550 --> 00:25:53.810
+Jamie Hartmann-Boyce: got ethics approval, right? So the products that they were providing to participants went through some sort of approval and check process, and we know if we learn any lessons from e-cigarettes, the safety profiles are not uniform across them. It depends what they contain, it depends where people are buying them, it depends if people are tampering with them. So I would, remind people of that.
+
+111
+00:25:53.810 --> 00:26:03.680
+Jamie Hartmann-Boyce: We absolutely recommend that future trials prioritize comparing oral nicotine pouches to other active interventions. For example, nicotine replacement therapy, e-cigarettes.
+
+112
+00:26:04.090 --> 00:26:23.019
+Jamie Hartmann-Boyce: other ways of intervening here. We have decades of research, hundreds of randomized trials that show giving people nicotine in the form of nicotine replacement therapy helps them quit smoking, right? That's considered so essential and so established that nicotine replacement therapy is on the WHO's essential medicine list.
+
+113
+00:26:23.150 --> 00:26:40.629
+Jamie Hartmann-Boyce: There's not really, as far as I can tell, a compelling reason to think that giving people who smoke nicotine in some other form isn't going to necessarily help them quit smoking. So what we're really interested in is how does this compare to other interventions, both in terms of benefits, does it help people transition away from smoking, and in terms of harms?
+
+114
+00:26:41.760 --> 00:26:58.129
+Jamie Hartmann-Boyce: Along those lines, we recommend that future trials aim to measure abstinence and serious adverse events for as long as possible. Your friendly Cochrane reviewers would love to see studies with 6-month or longer follow-up. And I will pause there for any questions about this review.
+
+115
+00:27:00.380 --> 00:27:12.460
+Justin White: Great, thanks so much. I see that we have a bunch of questions coming into the Q&A panel. People in the audience can feel free to keep adding their questions there. But first, we will turn to our discussant.
+
+116
+00:27:12.460 --> 00:27:23.830
+Justin White: Our discussant today is Dr. Jacqueline Avila, an assistant professor from the University of Massachusetts Boston. You're welcome to ask some questions.
+
+117
+00:27:24.000 --> 00:27:31.229
+Jaqueline Avila: Thanks, Justin. And thank you, Jamie, for presenting on really what's going to be the framework for this living systematic review.
+
+118
+00:27:31.230 --> 00:27:44.510
+Jaqueline Avila: I know you said we cannot draw any conclusions yet, because this is just really the start of starting the process of reviewing and meta-analyzing the data for the oral nicotine pouch studies, but I'm very interested
+
+119
+00:27:44.650 --> 00:27:58.079
+Jaqueline Avila: on, if possible, if you can comment at all. I mentioned… I saw you mention it is on the written PDF, which I'm excited that it was published today, but I'm very interested in understanding how the or nicotine pouch strength and flavors
+
+120
+00:27:58.090 --> 00:28:10.109
+Jaqueline Avila: play into this aspect, because if you only look at ZEN, that was authorized for sale, there are so many flavors and so many strains of nicotine available, and how does that impact
+
+121
+00:28:10.470 --> 00:28:14.790
+Jaqueline Avila: The ability to switch, but also comparing the ability to switch
+
+122
+00:28:15.000 --> 00:28:27.789
+Jaqueline Avila: with adverse events, with, like, coughing or mouth irritation, did any of the studies that you reviewed, or that are available right now, show any evidence of how the strength and the flavors impact switching?
+
+123
+00:28:27.950 --> 00:28:38.819
+Jamie Hartmann-Boyce: Really good question. So, there, as I mentioned, were two studies, both of which were fairly small, which looked at direct comparisons in terms of pouch strength.
+
+124
+00:28:39.260 --> 00:28:51.209
+Jamie Hartmann-Boyce: Again, these were small studies, so there's a real issue with imprecision, so totally impossible to say anything with certainty here, but there was some indication that higher doses looked like they were…
+
+125
+00:28:51.380 --> 00:29:07.919
+Jamie Hartmann-Boyce: either increasing quit rates or increasing reductions in cigarettes per day, but I think we need a lot more evidence on that. We don't really have any data on direct comparisons in terms of pouch flavors, and we would love to see more of that, too. So…
+
+126
+00:29:08.420 --> 00:29:26.430
+Jamie Hartmann-Boyce: You know, it's interesting, I always think about the nicotine replacement therapy reviews that we do, and with those, if you looked at nicotine gum in terms of dosage, overall, if you didn't investigate participants' baseline addiction levels, it looked like higher doses were better.
+
+127
+00:29:26.530 --> 00:29:46.670
+Jamie Hartmann-Boyce: But actually, if you subgrouped based on number of cigarettes per day, was the most common thing to look at, it looked like people who didn't smoke quite as much, had lower levels of nicotine consumption, actually fared better on lower-dose nicotine gum, and that was simply because they discontinued using it because of side effects, if it was higher dose.
+
+128
+00:29:46.670 --> 00:29:53.140
+Jamie Hartmann-Boyce: So my guess is, based on that, with nicotine gum, there may not be a one-size-fits-all approach here, either.
+
+129
+00:29:54.330 --> 00:30:11.079
+Jaqueline Avila: It may be that choice of the individual as well, depending on CPD, that's very interesting. And along those lines, is there any evidence of product acceptability overall? Or mis… because sometimes, of course, these are very small studies, and ours as well, that you cited there.
+
+130
+00:30:11.090 --> 00:30:27.410
+Jaqueline Avila: you know, people didn't know what these products were, and when we said, oral nicotine pouches, they thought patches, you know, when we were screening over the phone, so people didn't really know what these products were, and acceptability. I feel like the actual product use was impacted by just the knowledge of what the product was.
+
+131
+00:30:27.580 --> 00:30:51.859
+Jamie Hartmann-Boyce: Yeah, that's a really good question. I actually think about you telling me about that sometimes when I was doing this review. We don't look at acceptability as an outcome, but we do have… I'll make a plug for Nargis Travis, who's also part of our T-Cores, publishes a scoping review on oral nicotine pouches, which looks at data, including things like acceptability and a lot of stuff that's kind of not in this Cochrane review, but still very relevant.
+
+132
+00:30:51.860 --> 00:31:00.290
+Jamie Hartmann-Boyce: That was published last year in Nicotine and Tobacco Research, and it's currently being updated. So I think it'll be really interesting to watch how that continues.
+
+133
+00:31:00.290 --> 00:31:15.420
+Jamie Hartmann-Boyce: One of the things that we like to look at, and if we have more studies and have the data to look at this, we'd want to, is continued product use, right? So that can be one indication of this, okay? At 6 months, how many people are actually still using the product they are randomized to?
+
+134
+00:31:15.420 --> 00:31:32.910
+Jamie Hartmann-Boyce: If you look at e-cigarettes versus NRT, there's some variation study by study, but in general, more people are still using the e-cigarette at 6 months than the nicotine replacement therapy. Whether or not that's a bad or good thing is up for debate, but I think that touches on the acceptability issue, and I'll be interested to see if we get data on that moving forward.
+
+135
+00:31:34.180 --> 00:31:42.360
+Jaqueline Avila: Yeah, it'll be very interesting to see them moving forward. Okay, Justin, I think I'll stop here for now, if you want to ask some of the audience questions as well. Thanks, Jamie.
+
+136
+00:31:42.860 --> 00:32:01.759
+Justin White: Yeah, thank you, Jackie. So, our first question is asking about the funding for Cochrane. How is the Cochrane Tobacco Addiction Group funded? And I guess I will ask a follow-on about, is it… does the funding relate to each specific review, or is it something sort of overall for the group?
+
+137
+00:32:02.010 --> 00:32:18.800
+Jamie Hartmann-Boyce: That is a wonderful question, and my answer now is different than it would be 3 years ago. So, it used to be that Cochrane had all of these subject-specific review groups that were spread all over the world, but the majority of them were in the UK, which is where Cochrane was originally founded.
+
+138
+00:32:18.800 --> 00:32:33.160
+Jamie Hartmann-Boyce: And in 2023, the NIHR, which is kind of like, the US version of the NIH, withdrew funding from all Cochrane review groups based in the UK, which was a major blow to Cochrane, and…
+
+139
+00:32:33.720 --> 00:32:50.679
+Jamie Hartmann-Boyce: Cochrane spent some time thinking about how to model things moving forward. For us in the Cochrane Tobacco Addiction Group, what that meant is that we were able to keep our group open, which we're really pleased about, so the core members are me, Nicola Linson, and Jonathan Livingston Banks.
+
+140
+00:32:50.680 --> 00:32:53.809
+Jamie Hartmann-Boyce: But we are not able to support
+
+141
+00:32:53.810 --> 00:33:12.259
+Jamie Hartmann-Boyce: other reviews and editorial capacities, so kind of our editorial capacity is gone, and we are funded to do individual reviews, like the e-cigarette for Smoking Cessation review and its companion review, which I won't cover today, which is on interventions for quitting smoking. Those are both funded, specifically those reviews.
+
+142
+00:33:12.260 --> 00:33:15.220
+Jamie Hartmann-Boyce: By Cancer Research UK.
+
+143
+00:33:15.340 --> 00:33:26.230
+Jamie Hartmann-Boyce: For this oral nicotine pouch review, and in fact for some other projects we potentially have in the pipeline, which might turn out as Cochrane reviews as well, those are funded through our T-Cores.
+
+144
+00:33:26.230 --> 00:33:42.920
+Jamie Hartmann-Boyce: And those topics are decided, and even whether or not they should be Cochrane reviews, are decided in collaboration with all of our partners there. So we are, in that sense, not necessarily funded to conduct specific reviews, but to conduct reviews that are going to be most helpful to the whole group.
+
+145
+00:33:43.900 --> 00:33:59.330
+Justin White: Great. So our next question is, when it comes to the effect, in smoking cessation for nicotine pouches, do you somehow take into account the effect that snus has had in smoking cessation, and if not, are you sort of maybe overlooking, some sort of evidence,
+
+146
+00:34:00.380 --> 00:34:07.100
+Jamie Hartmann-Boyce: Yeah, great question. So we do not treat the two as interchangeable,
+
+147
+00:34:07.790 --> 00:34:12.919
+Jamie Hartmann-Boyce: There's many reasons to think they have many, many similarities, but also some really important differences.
+
+148
+00:34:13.139 --> 00:34:29.320
+Jamie Hartmann-Boyce: Which might, for example, affect safety outcomes and other things. So we know that there is data on snooze. There's not a ton on snus, for quitting smoking. We cover that in a separate review that hasn't been updated for a while, which
+
+149
+00:34:29.320 --> 00:34:39.940
+Jamie Hartmann-Boyce: I'd quite like to update. But certainly with population-level stuff, we are interested in that, right? We have that outcome in there because there is some compelling data on population-level smoking outcomes and health outcomes.
+
+150
+00:34:39.940 --> 00:34:49.880
+Jamie Hartmann-Boyce: looking at countries where snus has been introduced. And we are certainly interested in snus as a comparator arm for the cities in our oral nicotine patch review.
+
+151
+00:34:50.409 --> 00:35:03.499
+Justin White: Thanks. So the next question is asking about low certainty as sort of a term that you use, and how that differs from being not statistically significant, if you could clarify that again.
+
+152
+00:35:03.500 --> 00:35:09.270
+Jamie Hartmann-Boyce: Yeah, it's totally confusing. So, Cochrane…
+
+153
+00:35:09.980 --> 00:35:15.510
+Jamie Hartmann-Boyce: the methodologists and statisticians at Cochrane, and indeed in many other areas.
+
+154
+00:35:15.640 --> 00:35:36.129
+Jamie Hartmann-Boyce: encourage us not to rely too much on statistical significance, right? It is effectively an arbitrary threshold, they argue, and that some poor decisions have been made over time on the basis of something being statistically significant or not. We also know that it contributes to publication bias and selective reporting. So there are very good reasons why we've moved away from it.
+
+155
+00:35:36.440 --> 00:36:00.959
+Jamie Hartmann-Boyce: What that means is when we are evaluating certainty, statistical significance is technically not something we are looking at, but it is also definitely something we are. So, we think about it when we think about imprecision, and what we think about when we think about imprecision is not just, okay, is there a small number of studies and participants, in which case it's already going to be considered imprecise. But sometimes you can have a lot of studies and still have imprecise confidence intervals.
+
+156
+00:36:01.420 --> 00:36:08.350
+Jamie Hartmann-Boyce: And what we'll look at there is think about whether or not the confidence intervals incorporate the possibility
+
+157
+00:36:08.400 --> 00:36:26.639
+Jamie Hartmann-Boyce: of no clinically significant difference, which for smoking cessation, we tend to put it about the, like, for a risk ratio, anything below 1.05, which is arbitrary, but we would consider that possibly not being clinically significant. And if they can… if they contain…
+
+158
+00:36:26.640 --> 00:36:47.960
+Jamie Hartmann-Boyce: the possibility of a clinically significant effect in the opposite direction. So if it contains the possibility of no clinically significant difference, which is very similar to statistical significance, we will downgrade our certainty by one level. If it contains both the possibility of a clinically significant benefit and clinically significant arm, we will downgrade by two levels for imprecision.
+
+159
+00:36:47.960 --> 00:36:51.659
+Jamie Hartmann-Boyce: That's a pretty jargony way to answer that question, but that's what we do.
+
+160
+00:36:52.270 --> 00:36:59.069
+Justin White: Okay, I think just to give you time to get through your slides, maybe we should keep moving. We'll come back to the rest at the end of the talk, if there's time.
+
+161
+00:36:59.320 --> 00:37:01.070
+Jamie Hartmann-Boyce: That sounds good. Thanks!
+
+162
+00:37:01.590 --> 00:37:23.019
+Jamie Hartmann-Boyce: Okay, so my second half of my slideshow is still going through the editorial process, so this is the latest update to our Cochrane review of electronic cigarettes for smoking cessation. It has been accepted, so it's impressed, but I'm not quite sure when it's going to publish, and until it does, I would ask that the contents of this second half of the presentation are not shared more widely.
+
+163
+00:37:23.630 --> 00:37:33.929
+Jamie Hartmann-Boyce: So this review update that I'm going to be presenting today contains data up to March 2025. As noted, an update should be out soon.
+
+164
+00:37:33.930 --> 00:37:48.309
+Jamie Hartmann-Boyce: And our objective here is to examine the safety, tolerability, and effectiveness of e-cigarettes for helping people who smoke tobacco achieve long-term smoking abstinence in comparison to non-nicotine e-cigarettes, other smoking cessation treatments, and no treatment.
+
+165
+00:37:48.320 --> 00:38:09.660
+Jamie Hartmann-Boyce: This review was first published back in January of 2014, and we've been lucky enough to have the resource and funding to update it a number of times since then. And as of about 3 years ago, it became what we formally call a living systematic review. That's with funding from Cancer Research UK, and what that means is that
+
+166
+00:38:09.660 --> 00:38:34.050
+Jamie Hartmann-Boyce: If, for example, for our oral nicotine pouch review, we decide it's time to update it in 6 months, let's say, we will, at that point, run a new search and go ahead and update. With a living systematic review, we are updating our searches every single month. So at the beginning of every month, we search for new evidence, we publish the links to any new evidence that we find, and we update the full review whenever new data emerges that might change, strengthen, or weaken
+
+167
+00:38:34.050 --> 00:38:38.790
+Jamie Hartmann-Boyce: in existing conclusions or relates to new comparisons or outcomes.
+
+168
+00:38:38.850 --> 00:38:48.799
+Jamie Hartmann-Boyce: As you might imagine, this is an incredibly time-intensive approach to take for a review, and most living systematic reviews that get registered.
+
+169
+00:38:48.830 --> 00:39:07.469
+Jamie Hartmann-Boyce: cease to be updated pretty quickly, because it's simply unfeasible. So we're really grateful for the resource to be able to do this, and we will continue doing this as long as we have resource, and as long as the following criteria apply, which is that new evidence is coming out, right? There's no point updating monthly if we don't have new evidence.
+
+170
+00:39:07.470 --> 00:39:19.149
+Jamie Hartmann-Boyce: And policy decisions are being made on the basis of the evidence that could change. So even if new evidence was coming out, if everything was high certainty, we probably wouldn't think it was worth following this process.
+
+171
+00:39:19.150 --> 00:39:33.110
+Jamie Hartmann-Boyce: I sometimes get questions when I talk about living systematic reviews as to if that means all other systematic reviews are dead. No, it doesn't, I just like to think it means they're, like, temporarily paused, whereas this one is constantly ongoing with background activity.
+
+172
+00:39:34.050 --> 00:39:52.380
+Jamie Hartmann-Boyce: People sometimes say, is there any point in this being living? Surely no one is still publishing studies on e-cigarettes for smoking cessation. Well, they definitely are, and we appreciate that very much, because there are still some important areas of uncertainty here. So this chart shows results of our monthly searches from August 2022.
+
+173
+00:39:52.380 --> 00:39:56.050
+Jamie Hartmann-Boyce: The blue line is the new studies that come out.
+
+174
+00:39:56.050 --> 00:40:20.980
+Jamie Hartmann-Boyce: The red line are the linked studies, so these are papers that are linked to studies we've already included, but might contain new data, and the kind of orangey-yellowish line are our new ongoing studies. Those spikes there represent SR&T abstracts, so please keep presenting at SR&T, because we love getting that data. As you'll note, the number of new studies that we find every single month is gradually
+
+175
+00:40:20.980 --> 00:40:27.280
+Jamie Hartmann-Boyce: increasing, right, as are the linked papers. So this is still definitely an active area of research.
+
+176
+00:40:27.860 --> 00:40:52.469
+Jamie Hartmann-Boyce: In terms of the inclusion criteria for this review, I've presented them in a way so that we can compare them with what we have going on with the oral nicotine pouch review, just because I want to be really clear about the differences. So, in our review of e-cigarettes for smoking cessation, we include both randomized controlled trials and historically have also included uncontrolled intervention studies, although we are moving away from that in our next update.
+
+177
+00:40:52.470 --> 00:40:56.409
+Jamie Hartmann-Boyce: We had originally done that because there was so little data on adverse events.
+
+178
+00:40:56.410 --> 00:41:02.210
+Jamie Hartmann-Boyce: And we felt that these could be one source of information, but we now have enough studies that we can stop looking to those.
+
+179
+00:41:02.850 --> 00:41:13.290
+Jamie Hartmann-Boyce: We're only interested in people who smoke at baseline in this review. We're, of course, interested in electronic cigarettes, or information about electronic cigarettes to help people reduce or quit smoking.
+
+180
+00:41:13.360 --> 00:41:20.669
+Jamie Hartmann-Boyce: Very similar comparators to our oral nicotine pouch review, except replace oral nicotine pouch with nicotine e-cigarettes.
+
+181
+00:41:20.670 --> 00:41:39.890
+Jamie Hartmann-Boyce: And our outcomes here is we do have enough studies where we can really focus on that 6-month or longer cessation data. So that is absolutely what we are interested in, is tobacco and or nicotine abstinence at 6 months or longer, and also at biomarkers and adverse events at 1 week or longer, and that's the same as in our pouch review.
+
+182
+00:41:40.680 --> 00:42:01.480
+Jamie Hartmann-Boyce: Here are pre-specified comparisons and outcomes of interest are nicotine e-cigarettes versus nicotine replacement therapy, nicotine e-cigarettes versus non-nicotine e-cigarettes, which could also be conceptualized as placebo, and nicotine e-cigarettes versus behavioral support only or no support, and our main outcomes of interest are smoking, abstinence, and serious adverse events.
+
+183
+00:42:01.880 --> 00:42:26.769
+Jamie Hartmann-Boyce: So, in this review, we now have 104 trials, 61 of those are RCTs, 14 are new to this current update, totaling over 30,000 participants. This is an amazing thing to see, because when I was first involved in this review in its first iteration, we had 2 trials that met our criteria. All the participants smoked cigarettes at baseline, the majority of these studies were conducted in the U.S,
+
+184
+00:42:27.010 --> 00:42:28.840
+Jamie Hartmann-Boyce: and in the UK.
+
+185
+00:42:29.120 --> 00:42:54.039
+Jamie Hartmann-Boyce: 30 exclusively recruited people not motivated to quit smoking. So that is a minority of these studies, but it is still way more than we might see in studies of pharmacotherapy. So a lot of these studies are in people who are not interested in quitting at baseline, and as I mentioned, that will have important impacts on the absolute quit rates when we compare studies from this review to, for example, studies from the review of nicotine replacement therapy.
+
+186
+00:42:55.350 --> 00:43:05.999
+Jamie Hartmann-Boyce: 16 of these studies reported funding from tobacco and vaping industries. No analyses were sensitive to their exclusion, so these tended to be small studies.
+
+187
+00:43:06.020 --> 00:43:30.790
+Jamie Hartmann-Boyce: Often, for whatever reason, they were judged to be at high risk of bias, meaning we're going to exclude them in sensitivity analyses anyways, but if we exclude them, it does not change our findings. One of them contributes to a cessation finding, and removing it actually increases the evidence of benefit for e-cigarettes. So, we are very confident that if we did not include studies funded by the tobacco and vaping industries, this review
+
+188
+00:43:30.790 --> 00:43:32.819
+Jamie Hartmann-Boyce: We'd come to the same conclusions.
+
+189
+00:43:32.840 --> 00:43:44.059
+Jamie Hartmann-Boyce: Across the board, 11 studies were judged to be at low risk of bias, 70 at high risk, and just a note, that includes all of the non-randomized studies, and the remainder at unclear risk.
+
+190
+00:43:45.140 --> 00:43:59.550
+Jamie Hartmann-Boyce: So, moving on to our main comparisons and outcomes, when we compare nicotine e-cigarettes to nicotine replacement therapy, we have high certainty evidence of more people quitting smoking at 6 months or longer when randomized to e-cigarettes compared to NRT.
+
+191
+00:43:59.550 --> 00:44:08.840
+Jamie Hartmann-Boyce: One of the common questions I get about this is, what is happening in those NRT arms? Are people getting single form? Are they getting combined? The answer is…
+
+192
+00:44:08.840 --> 00:44:33.770
+Jamie Hartmann-Boyce: Yes, they are getting both, depending on the study. We are interested in doing some subgroup analyses on this moving forward, but some of the studies don't report exactly what type of nicotine replacement therapy is given, which is simply a hazard of the systematic reviewing trade, and there are studies which have some of the highest point estimates on this chart, which are comparing with combined nicotine replacement therapy.
+
+193
+00:44:33.770 --> 00:44:58.719
+Jamie Hartmann-Boyce: So we know that a lot of these studies are comparing with combined, which is more effective than single NRT. What we also know from these studies, and it is worth noting, is that it looks like, people are more likely to continue using their nicotine e-cigarettes, or even to start doing that, than using, for example, combined NRT. So if people are looking at per-protocol analyses, it might be different, but when we look at intention to treat, we still see pretty clear evidence here that nicotine e-cigarettes
+
+194
+00:44:58.720 --> 00:45:04.840
+Jamie Hartmann-Boyce: are, causing more people to quit smoking than NRT, whether or not it's in a combined form.
+
+195
+00:45:05.550 --> 00:45:23.939
+Jamie Hartmann-Boyce: When we look at nicotine e-cigarettes versus NRT at serious adverse events, we see no clear evidence of a difference, but we do see a slight increase in the number of serious adverse events happening in the e-cigarette arm. That means the certainty of evidence for us is low.
+
+196
+00:45:25.510 --> 00:45:50.420
+Jamie Hartmann-Boyce: When we look at the placebo comparison, so with non-nicotine e-cigarettes, we have moderate certainty evidence of benefit of nicotine e-cigarettes compared to non-nicotine e-cigarettes. This is absolutely what we'd expect, given that we know giving people nicotine helps them quit smoking, and low certainty evidence of absolutely no difference in serious adverse events. That risk ratio is very close to 1, but again, we have very wide confidence intervals here, so
+
+197
+00:45:50.420 --> 00:45:55.529
+Jamie Hartmann-Boyce: So, they incorporate the possibility of both clinically significant benefit and harm.
+
+198
+00:45:55.530 --> 00:45:58.149
+Jamie Hartmann-Boyce: Hence that low grade of evidence.
+
+199
+00:45:58.470 --> 00:46:11.440
+Jamie Hartmann-Boyce: When we compare nicotine e-cigarettes to behavioral support only, or no support and look at smoking cessation at 6 months, again, we have very clear evidence of higher quit rates in those given nicotine e-cigarettes.
+
+200
+00:46:11.440 --> 00:46:34.670
+Jamie Hartmann-Boyce: Two things to note about this comparison. One is that it will always be graded at low or below, because these studies, by the nature of one arm receiving a more intensive intervention than the other, and not being blinded, Cochrane will always consider these to be at high risk of bias. So that's the reason for the downgrading there. The other thing to note is that these are not trials in which one arm is given a nicotine e-cigarette and nothing else.
+
+201
+00:46:34.670 --> 00:46:44.919
+Jamie Hartmann-Boyce: and one arm is given intensive counseling. These are studies where everyone is either given no behavioral support or some behavioral support, and one group is also given a nicotine e-cigarette.
+
+202
+00:46:45.800 --> 00:47:06.910
+Jamie Hartmann-Boyce: We have very low certainty evidence looking at serious adverse events here. That's due to the risk of bias as well as the imprecision. And I should point out, across all of our serious adverse event outcomes, we also have this happy issue of a lot of studies having no serious adverse events occur in them. So where we see not estimable on these forest plots.
+
+203
+00:47:06.910 --> 00:47:31.559
+Jamie Hartmann-Boyce: What that means is that data can't even contribute a risk ratio, because no events are occurring in any arms. Even in the studies where events are occurring, the event rates tend to be relatively low, which is wonderful for the participants, and means that we will probably be in a place of quite low certainty around serious adverse events in these trials for quite a while, if we don't get some larger trials that are
+
+204
+00:47:31.560 --> 00:47:35.890
+Jamie Hartmann-Boyce: To look at differences in serious adverse events.
+
+205
+00:47:36.380 --> 00:47:46.920
+Jamie Hartmann-Boyce: So, conclusions from this most recent update, there remains high certainty evidence that nicotine e-cigarettes increase quit rates compared to NRT, and moderate certainty evidence that they increase quit rates
+
+206
+00:47:46.940 --> 00:48:06.679
+Jamie Hartmann-Boyce: Compared to e-cigarettes without nicotine. The evidence comparing nicotine e-cigarettes with behavioral support or no support also suggests benefit, but it is less certain due to lack of blinding, and because of the inherent way that Cochrane tools are designed around risk of bias assessments and certainty of the evidence, that will remain the case.
+
+207
+00:48:07.410 --> 00:48:15.500
+Jamie Hartmann-Boyce: The overall incidence of serious adverse events was low across all study arms. We didn't detect any evidence of serious harm from e-cigarettes.
+
+208
+00:48:15.500 --> 00:48:39.910
+Jamie Hartmann-Boyce: But we note that longer, larger trials are needed to fully evaluate safety, and also critically here, again, all these studies made it through ethics approval, so they were testing regulated nicotine-containing e-cigarettes. We know that other products may have different harm profiles, right? These are not studies that are giving people devices with THC or devices with vitamin E acetate. These are studies that are testing regulated nicotine-containing devices.
+
+209
+00:48:40.630 --> 00:48:50.709
+Jamie Hartmann-Boyce: Despite the fact that we now have high certainty for one of our outcomes, we definitely have a lot of areas where we need more evidence to shape our conclusions.
+
+210
+00:48:50.710 --> 00:49:01.369
+Jamie Hartmann-Boyce: We would really like to see more trials that aim to assess safety for as long as possible, and ideally, although we know this is easier said than done, be powered to detect differences in serious adverse events.
+
+211
+00:49:01.690 --> 00:49:12.730
+Jamie Hartmann-Boyce: Again, we know giving people nicotine tends to help them quit smoking, and what we're really interested in is how these compare to other possible interventions, particularly those other than NRT. We'd love to see more studies
+
+212
+00:49:12.730 --> 00:49:25.980
+Jamie Hartmann-Boyce: Looking at nicotine receptor partial agonists like varenicline or cytosine as a comparison, or directly comparing, e-cigarette interventions based on e-cigarette characteristics, flavor being an obvious one there.
+
+213
+00:49:26.450 --> 00:49:49.719
+Jamie Hartmann-Boyce: We're also interested in more studies that test e-cigarettes as an adjunct to other treatments, and or that test newer e-cigarette devices. One of the hazards of working in this field is that the technology moves so quickly that often by the time a study is funded, conducted, written up, and then actually published, the device it tested is no longer available on the market, and that is simply a challenge that people have to contend.
+
+214
+00:49:49.720 --> 00:49:50.450
+Jamie Hartmann-Boyce: width.
+
+215
+00:49:51.310 --> 00:50:16.159
+Jamie Hartmann-Boyce: So, I wanted to end with a final slide thinking about, okay, we have these two evidence bases, how do they compare? Well, they're very, very different, right? We have 4 RCTs looking at oral nicotine pouches, and 61 looking at e-cigarettes that meet our criteria. Would like to say, first e-cigarette review, there are only two RCTs, so there's lots of reason for hope that this evidence base is growing, and I'm sure many of you
+
+216
+00:50:16.160 --> 00:50:21.160
+Jamie Hartmann-Boyce: On this call are contributing to that, and that's just so exciting and wonderful to see.
+
+217
+00:50:21.250 --> 00:50:39.989
+Jamie Hartmann-Boyce: We have 282 participants in our pouches review versus over 30,000 in our e-cigarettes review. We have high certainty evidence of effectiveness with some comparisons for e-cigarettes, low certainty at best for oral nicotine pouches. But across both, we still have low or very low certainty evidence.
+
+218
+00:50:39.990 --> 00:51:04.719
+Jamie Hartmann-Boyce: when it comes to serious adverse events. And my final comparison, one of the nice things about working on lots of Cochrane reviews is that I can think about them all together, is looking at nicotine replacement therapies by comparison. So, if we look at that evidence base, the e-cigarette evidence base is still a ways off, right? We have 133 trials that simply compare NRT to placebo or control, and follow up at 6 months or longer.
+
+219
+00:51:04.720 --> 00:51:06.950
+Jamie Hartmann-Boyce: Over 60,000 participants.
+
+220
+00:51:06.950 --> 00:51:22.350
+Jamie Hartmann-Boyce: high certainty evidence of effectiveness. This review, was conducted before we graded our certainty of evidence on serious adverse events, but there's no evidence of a difference. We have people who have been using NRTs safely for decades.
+
+221
+00:51:22.520 --> 00:51:36.360
+Jamie Hartmann-Boyce: And as I mentioned before, they are considered a WHO essential medicine on the basis of their evidence. So that is it for me. I'm happy to take more questions. There's so much more detail in the full reviews, which I encourage you to look at.
+
+222
+00:51:36.360 --> 00:51:56.680
+Jamie Hartmann-Boyce: That link there is for the website for our Living Systematic Review projects, which includes our Interventions for Quitting Vaping review, as well as the one I just covered. It has briefing documents, we do a podcast every month where we talk to researchers about e-cigarette research. So, thank you so much, really happy to take questions now and over email, and I'll stop sharing now.
+
+223
+00:51:57.400 --> 00:52:03.650
+Justin White: Thanks so much. I'll first turn it over to our discussant to see if she has any questions or comments.
+
+224
+00:52:04.840 --> 00:52:14.249
+Jaqueline Avila: Thanks, Justin. Jamie, I wanted to ask about the types of different devices and the evolution of the generations of the e-cigarettes.
+
+225
+00:52:14.350 --> 00:52:33.270
+Jaqueline Avila: How do these impact the findings, and how to take that into consideration when you are doing the review? Can we extrapolate what you are seeing, you know, in the beginning of the review with the different generation of device versus the more current electronic cigarette devices, and how does that play into the review?
+
+226
+00:52:33.410 --> 00:52:47.479
+Jamie Hartmann-Boyce: It's a really good question. So we… you know how we, like, originally write our protocols trying to future-proof everything? We're like, we're gonna do subgroup analyses based on device type. That was one of the things we planned to do. We definitely also plan to, if they ever get published.
+
+227
+00:52:47.520 --> 00:53:01.310
+Jamie Hartmann-Boyce: look at direct comparisons between device types, but we think that's less likely. We still do not have enough variation within the comparisons and outcomes in terms of device types to do any kind of meaningful subgroup analyses.
+
+228
+00:53:01.500 --> 00:53:20.579
+Jamie Hartmann-Boyce: What we do know is that over time, particularly compared to when we first started this review, nicotine e-cigarettes have gotten a lot better at delivering nicotine, right? So, the first studies, those devices were pretty quickly withdrawn from the market simply because they did a quite terrible job at delivering nicotine to the end user.
+
+229
+00:53:20.580 --> 00:53:37.540
+Jamie Hartmann-Boyce: And so I don't think… you know, we don't know for sure, but I don't think we have any reason to hypothesize that new devices would be worse at helping people quit smoking, given we know they're probably better at delivering nicotine, unless they're increasing, kind of, adverse events or tolerability issues.
+
+230
+00:53:37.650 --> 00:53:43.439
+Jamie Hartmann-Boyce: But we don't know for sure, and it's something we would love to look at more, but we simply don't have the data to do that right now.
+
+231
+00:53:44.930 --> 00:53:50.610
+Jaqueline Avila: Okay, thank you. And you may have mentioned it, and I may have missed it in the PDFs as well.
+
+232
+00:53:50.900 --> 00:53:54.730
+Jaqueline Avila: How can the Cochrane review help us understand better
+
+233
+00:53:55.360 --> 00:54:11.730
+Jaqueline Avila: the impact of dual use, and these new studies that are coming up now, I see ongoing studies that are starting with individuals who dual use cigarettes and e-cigarettes, and how does… is that going to play a role into the new Cochrane review, or an updated Cochrane review, thinking about dual use?
+
+234
+00:54:11.730 --> 00:54:14.730
+Jamie Hartmann-Boyce: It's a great question. So, at the moment.
+
+235
+00:54:15.280 --> 00:54:38.570
+Jamie Hartmann-Boyce: some of those dual-use studies make it into either this review or interventions for quitting vaping review, depending on what they are guiding participants to do, right? Some of them are saying, actually, just continue vaping and quit smoking first, in which case they might show up here. Others are saying quit vaping and smoking, in which case they might show up in our interventions for quitting vaping review. But in terms of
+
+236
+00:54:38.570 --> 00:54:40.729
+Jamie Hartmann-Boyce: The other thing is dual use is an outcome.
+
+237
+00:54:40.730 --> 00:55:05.700
+Jamie Hartmann-Boyce: Right? And so one of the things that we are doing in this review moving forward, which we are able to do because of our funding from our TCORs, which we're super excited about, it won't be in this coming update, but we're working on it now, and it'll be in the next update, is more granularly look at outcomes in terms of number of people who are smoking and vaping at the end of the study, number of people who are just vaping at the end of the study, potentially in the future looking at other nicotine product use and
+
+238
+00:55:05.700 --> 00:55:08.419
+Jamie Hartmann-Boyce: that way, too. For example, in our pouches review.
+
+239
+00:55:11.210 --> 00:55:28.029
+Jamie Hartmann-Boyce: that is probably… I mean, it's definitely not going to tell us any clear answers about the potential risks of dual use to look at it in that way, I don't think. Certainly not yet. We don't have many studies reporting data in that way. So it's something we're mindful of, and we are curious and interested in
+
+240
+00:55:28.250 --> 00:55:43.970
+Jamie Hartmann-Boyce: the impacts of these studies, particularly in people who continue to smoke, right? What is happening when they start to vape as well? And that's… not necessarily lives within this Cochrane review, but lives within some other grant applications that I'm working on at the moment to see what might.
+
+241
+00:55:43.970 --> 00:55:58.929
+Jaqueline Avila: Right, I thought maybe it's not part of this review, but I thought it may be worth to ask, because you're the one who has reviewed all these studies, and I'm sure that has come up as well. So, I think I'll stop here as well, just until other people ask questions, but if there's time, I have to ask more questions. Thanks, Jane.
+
+242
+00:55:58.930 --> 00:55:59.890
+Jamie Hartmann-Boyce: Thank you.
+
+243
+00:56:00.240 --> 00:56:19.149
+Justin White: Thank you. So, we only have a few minutes left and a bunch of questions, so maybe we can do a quick rapid fire. So one question is that a few studies of e-cigarettes versus NRT compared longer-term e-cigarette use to short-term NRT, so the comparator wasn't always a true competitor. How does that get addressed?
+
+244
+00:56:19.230 --> 00:56:24.170
+Jamie Hartmann-Boyce: Okay, that's an interesting point.
+
+245
+00:56:24.600 --> 00:56:40.340
+Jamie Hartmann-Boyce: My understanding of those studies, and please correct me if I'm wrong, is that those are studies where people could continue to buy their product if they wanted to. One of the big problems in these studies that we often see is that people, even in the NRT arm, select to instead go and buy e-cigarettes.
+
+246
+00:56:40.340 --> 00:56:52.949
+Jamie Hartmann-Boyce: at the end of the intervention is something that's hard to control for, but I think it's one of the things that comes up, you know, with NRT, we kind of have an established dosage and regimen, and we don't necessarily have the same for e-cigarettes, so there will be variations that we see.
+
+247
+00:56:53.970 --> 00:57:08.260
+Justin White: So this one comes from the chat from Mike Pesco, he wasn't able to put it in the Q&A. So you mentioned early on, this is actually the first half of your talk, that IRB-approved products might be safer than the marketplace products. Is there any reason to think that they might be differently effective?
+
+248
+00:57:08.590 --> 00:57:17.539
+Jamie Hartmann-Boyce: Okay, so I don't necessarily mean different than Marketplace, although they may well be. I also mean different from things that are, like, not what we call Marketplace, but might be, like.
+
+249
+00:57:17.840 --> 00:57:20.510
+Jamie Hartmann-Boyce: Made in someone's garage.
+
+250
+00:57:21.070 --> 00:57:42.509
+Jamie Hartmann-Boyce: I don't think there's any clear evidence or reason to think they might be different in terms of benefits, though I'm sure there are potential things that could differ there. But in terms of harms, I think there could be, and I think harms can impact benefits, right? If something is unpleasant to use and it's making you throw up, you're gonna stop using it and probably not get the benefits from it. But this is all conjecture.
+
+251
+00:57:43.350 --> 00:58:00.320
+Justin White: And so, building on the discussion that you had earlier about dual use, is there, any way to sort of look at the overall, net population benefit, given whether or not there is dual use? Is that something that your… the Cochrane data could address?
+
+252
+00:58:00.610 --> 00:58:15.080
+Jamie Hartmann-Boyce: So I would not say that in these studies, in these reviews of randomized controlled trials, we are looking at net population benefit, right? We are looking specifically at people who smoke who are randomized into these trials and given an e-cigarette intervention. So.
+
+253
+00:58:16.220 --> 00:58:24.050
+Jamie Hartmann-Boyce: I would say we are not looking at net population benefit in these reviews of trials, and would not want to, extrapolate from that.
+
+254
+00:58:25.620 --> 00:58:31.130
+Justin White: Okay, great. So… I think then…
+
+255
+00:58:31.390 --> 00:58:41.930
+Justin White: That's probably what we have time for, so maybe we should… well, actually, why don't I do a couple quick ones. So, somebody's asking if you have differentiated between Juul and other e-cigarettes?
+
+256
+00:58:42.200 --> 00:58:54.659
+Jamie Hartmann-Boyce: We would love to, but currently we don't really have… like, we label the details of every device that's given, and all the details we can have on that, but we don't differentiate them in our analyses, simply because we don't have enough data to do that.
+
+257
+00:58:55.550 --> 00:58:58.679
+Justin White: Okay, so I think you've…
+
+258
+00:58:58.800 --> 00:59:04.960
+Justin White: Why don't we end it there, and maybe I'll kick it back to the MC, Lizzie, to take us out. Thank you so much, Jamie.
+
+259
+00:59:09.030 --> 00:59:23.320
+Elizabeth Ogunleye: Thank you, Justin. We are out of time. Thank you to our presenter, Jamie, the moderator and the discussant. Finally, thank you to the audience of 223 people for your participation. Have a top-notch weekend.
+
+260
+00:59:23.430 --> 00:59:24.560
+Elizabeth Ogunleye: Bye, guys!
+
