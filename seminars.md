@@ -223,8 +223,12 @@ You can find a list of past seminars with a link to the paper presented and a vi
    {% elsif (speaker.Presenter == 'Hojin Park ') or (speaker.Presenter == 'Brad Davis') or (speaker.Presenter == 'Orestis Efthimiou') or (speaker.Presenter == 'Rachel Fung') %}
 <tr>
  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Transcript }}" download="{{ speaker.Transcript }}">Transcript</a></td>
-</tr>
 
+</tr>
+   {% elsif (speaker.Presenter == 'Bingjin Xue') %}
+<tr>
+ <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Transcript }}" download="{{ speaker.Transcript }}">Transcript</a></td>
+</tr>
 
    {% elsif (speaker.Presenter == 'Doug Levy') %}
 <tr>
