@@ -1,0 +1,1394 @@
+WEBVTT
+
+1
+00:00:04.690 --> 00:00:14.380
+Luis Zavala Arciniega: Welcome to the Tobacco Online Policy Seminary, TOPS. Thank you for joining us today. I am Luis Abadar-Sinega, a research associate at the University of Yale.
+
+2
+00:00:14.900 --> 00:00:32.760
+Luis Zavala Arciniega: TOPS is organized by Michael Pesco at the University of Missouri, CSAN at the Ohio State University, Michael Darnett at Johns Hopkins University, Jamie Harmon Boyce at University of Massachusetts Amherst, and Justin White at Boston University.
+
+3
+00:00:33.380 --> 00:00:50.949
+Luis Zavala Arciniega: The seminar will be one hour with questions from the moderator and discussant. The audience may post questions and comments in the Q&A panel, and the moderator will draw from these questions and comments in conversation with the presenter.
+
+4
+00:00:51.190 --> 00:01:02.119
+Luis Zavala Arciniega: Please review the guidelines on tobaccopolicy.org for acceptable questions. Please keep the questions professional and related to the research being discussed.
+
+5
+00:01:03.880 --> 00:01:15.499
+Luis Zavala Arciniega: Questions that meet the seminar series guidelines will be shared with the presenter afterwards, even if they are not read aloud. Your questions are very much appreciated.
+
+6
+00:01:15.940 --> 00:01:27.490
+Luis Zavala Arciniega: This presentation is being video recorded, and will be made available along with presentation slides on the TOPS website, tobaccopolicy.org.
+
+7
+00:01:28.230 --> 00:01:38.599
+Luis Zavala Arciniega: I will turn the presentation over to today's moderator, Jamie Hartman-Boies from the University of Massachusetts Amherst, to introduce our speaker.
+
+8
+00:01:39.360 --> 00:01:55.049
+Jamie Hartmann-Boyce: Thanks so much! So, today we continue our winter season with a single paper presentation by Ben Shui entitled, The Impact of E-Cigarette Regulations on Birth Outcomes. This presentation was selected via a competitive review process by submission through the TOPS website.
+
+9
+00:01:55.340 --> 00:02:04.920
+Jamie Hartmann-Boyce: Ben Chui is an assistant professor of economics at the University of New Hampshire. His current research focuses on the intersection of policy evaluation and health inequality.
+
+10
+00:02:04.990 --> 00:02:17.329
+Jamie Hartmann-Boyce: Dr. Andy Wang, a visiting professor of economics at St. Lawrence University, is a co-author of the study and will answer select questions in the Q&A. Dr. Shue, thank you so much for presenting for us today.
+
+11
+00:02:18.510 --> 00:02:19.649
+Bingjin Xue: Thank you, Jamie.
+
+12
+00:02:20.230 --> 00:02:25.359
+Bingjin Xue: So, thanks for having me. So I'm going to share my screen.
+
+13
+00:02:25.670 --> 00:02:27.360
+Bingjin Xue: Give me one sec…
+
+14
+00:02:36.230 --> 00:02:38.950
+Bingjin Xue: Alright, so, Jimmy, can you see my screen?
+
+15
+00:02:38.950 --> 00:02:40.470
+Jamie Hartmann-Boyce: I can, it looks great.
+
+16
+00:02:40.780 --> 00:02:43.859
+Bingjin Xue: Alright, perfect. Thank you, everyone, for coming.
+
+17
+00:02:43.860 --> 00:03:08.740
+Bingjin Xue: So, today we are going to present our study on the impact of e-cigarette policies and regulations on birth outcomes. I'm Ben Xu from the University of New Hampshire, and my co-author, Andy Wong, is also here. He's going to help answering some Q&A questions. So, before we start the introduction of our research, I want to start with motivations and anecdotal
+
+18
+00:03:08.740 --> 00:03:16.150
+Bingjin Xue: So, my friend Andy, so he's here, so, he used to be a user of both
+
+19
+00:03:16.150 --> 00:03:28.070
+Bingjin Xue: combustible cigarettes and e-cigarettes. But he stopped doing so, once his wife gets pregnant. And then part of the reason is, so his wife demanded him to.
+
+20
+00:03:28.290 --> 00:03:48.899
+Bingjin Xue: So his wife is a strong supporter of all the e-cigarette regulations. Well, she claims that, those e-cigarette policies, so they're helping improving the birth outcomes. And this is because e-cigarettes, they're also harmful. They contain nicotine, and then also they emit aerosols.
+
+21
+00:03:49.450 --> 00:03:52.869
+Bingjin Xue: And then, as economists, Andy and I immediately felt
+
+22
+00:03:52.980 --> 00:04:05.649
+Bingjin Xue: wait a minute, there could be a substitution effect, right? And the idea is, if you ban e-cigarettes, then people may switch to using combustible cigarettes, which can be more harmful.
+
+23
+00:04:06.030 --> 00:04:13.640
+Bingjin Xue: So, we decided to look at the effect of different e-cigarette policies on birth outcomes, and that's our motivation.
+
+24
+00:04:14.350 --> 00:04:26.440
+Bingjin Xue: So we start our, disclosure slides. So the authors, me and Dee, we have not received any funding for this paper or any other tobacco-related funding in the past 10 years.
+
+25
+00:04:27.920 --> 00:04:32.310
+Bingjin Xue: So, we start our study by looking into the statistics.
+
+26
+00:04:32.780 --> 00:04:51.780
+Bingjin Xue: So there is a rising prevalence of e-cigarette use in the United States in 2023, according to CDC. 6.5% of adults reported current e-cigarette use. That's 7.6% among men, and 5.5% among women. So we use these statistics
+
+27
+00:04:51.780 --> 00:04:58.570
+Bingjin Xue: We try to show that maybe e-cigarette policies, they can affect a sizable population.
+
+28
+00:04:59.410 --> 00:05:05.679
+Bingjin Xue: So the distribution of e-cigarette usage varies by age groups.
+
+29
+00:05:05.680 --> 00:05:20.769
+Bingjin Xue: Usage among ages 21 to 24 is the highest, that reached 15.5% in 2023, while other adults groups, ages from 18 to 49, they also show high prevalence rate.
+
+30
+00:05:21.140 --> 00:05:28.749
+Bingjin Xue: So if you are familiar with the fertility literature, you may realize that this age group coincides the reproductive age.
+
+31
+00:05:28.940 --> 00:05:37.489
+Bingjin Xue: So, we are trying to say that e-cigarette policies, they may have an effect on pregnant population.
+
+32
+00:05:40.670 --> 00:05:45.769
+Bingjin Xue: Alright, so next, we zoom into e-cigarette usage during pregnancy.
+
+33
+00:05:46.140 --> 00:05:51.610
+Bingjin Xue: Pregnant, there is a high prevalence during pregnancy, so…
+
+34
+00:05:51.860 --> 00:05:57.460
+Bingjin Xue: People who use e-cigarettes during pregnancy is roughly 7% globally.
+
+35
+00:05:57.460 --> 00:06:17.429
+Bingjin Xue: And this rate is high, when including pre-pregnancy use. So a lot of people, when they, during pregnancy, they are going to cease smoking, they are going to switch to either the NRT, which is nicotine replacement therapy, or they are going to switch e-cigarettes, as a way to cease, smoking.
+
+36
+00:06:18.020 --> 00:06:27.849
+Bingjin Xue: So a survey conducted by multiple authors, they conclude that, many pregnant women, they perceive weeping as safer than smoking.
+
+37
+00:06:28.400 --> 00:06:35.250
+Bingjin Xue: There are a lot of potential risks and potential benefits associated with e-cigarette use during pregnancy.
+
+38
+00:06:35.640 --> 00:06:37.939
+Bingjin Xue: So first, we talk about direct effect.
+
+39
+00:06:38.370 --> 00:06:51.900
+Bingjin Xue: So e-cigarettes, although they are perceived safer, they do contain nicotine. And also, they give people exposure to aerosols, so it can be harmful to the baby and the moms.
+
+40
+00:06:52.450 --> 00:06:54.740
+Bingjin Xue: However, there is no consensus.
+
+41
+00:06:54.990 --> 00:06:59.990
+Bingjin Xue: On whether vaping is safer or smoking is safer during pregnancy.
+
+42
+00:07:00.810 --> 00:07:07.799
+Bingjin Xue: Another channel through which birth outcomes may be affected by e-cigarette policies is through secondhand smokes.
+
+43
+00:07:08.230 --> 00:07:17.370
+Bingjin Xue: So, Schilling and co-authors defined that there is a high frequency of household exposure to nicotine from partners.
+
+44
+00:07:18.210 --> 00:07:25.919
+Bingjin Xue: However, on the other hand, E-squared utilization may have some potential benefits, and this is through the substitution effect.
+
+45
+00:07:26.360 --> 00:07:37.319
+Bingjin Xue: So for some, vaping supports cessation, reduction of cigarette use, and it also supports them quitting, and quitting smoking improves outcomes.
+
+46
+00:07:37.700 --> 00:07:45.260
+Bingjin Xue: So there can be both channels of the effects, when we analyze the effect of e-cigarette policies.
+
+47
+00:07:47.760 --> 00:07:55.719
+Bingjin Xue: So, our study focuses on four state-level e-cigaret regulations. They are indoor vaping restrictions.
+
+48
+00:07:55.970 --> 00:08:08.899
+Bingjin Xue: Minimum legal sales age, we consider 18 and plus threshold, especially. And then, we also consider e-cigarette tax, we consider e-cigarette retail licensure laws.
+
+49
+00:08:09.030 --> 00:08:10.740
+Bingjin Xue: So we go through them one by one.
+
+50
+00:08:11.100 --> 00:08:15.960
+Bingjin Xue: So, indoor whipping restrictions prohibit e-cigarette use in indoor public spaces.
+
+51
+00:08:16.350 --> 00:08:22.369
+Bingjin Xue: And usually those public places considers workplaces, restaurants, and bars.
+
+52
+00:08:22.820 --> 00:08:31.250
+Bingjin Xue: In our study, we consider an either-or relationship. So we consider an e-cigarette policy that's banned
+
+53
+00:08:31.370 --> 00:08:36.710
+Bingjin Xue: E-cigarette use in either workplaces, or restaurants, or bars.
+
+54
+00:08:37.480 --> 00:08:44.980
+Bingjin Xue: And these indoor vaping restrictions are often integrated into clean indoor air laws, or we call it smoke-free air loss.
+
+55
+00:08:46.040 --> 00:08:49.570
+Bingjin Xue: The second policy we consider is minimum legal sales age.
+
+56
+00:08:49.840 --> 00:08:55.760
+Bingjin Xue: The age threshold varies by states, but most of them are 18, 19, and 21.
+
+57
+00:08:56.560 --> 00:09:08.619
+Bingjin Xue: Many states adopted prior to… adopted the 21 threshold prior to the federal Tobacco 21 law, which is effective in December 2019.
+
+58
+00:09:09.360 --> 00:09:17.920
+Bingjin Xue: In our study, we focus on 19 plus threshold, we don't focus on 19, and we're going to give you the reasons in the next slides.
+
+59
+00:09:19.080 --> 00:09:28.300
+Bingjin Xue: So, e-cigarette policies. So, in our study, we consider both volume-based e-cigarette e-cigarette taxes and price-based e-cigarette taxes.
+
+60
+00:09:29.040 --> 00:09:33.569
+Bingjin Xue: The last policy we consider in this study is e-cigarette retail licensure loss.
+
+61
+00:09:33.860 --> 00:09:43.420
+Bingjin Xue: So, these license laws usually require licenses if you want to sell, or if you want to sell e-cigarettes over the counter or through a vending machine.
+
+62
+00:09:45.950 --> 00:09:48.810
+Bingjin Xue: So, there were some other e-cigarette policies.
+
+63
+00:09:49.080 --> 00:09:52.920
+Bingjin Xue: That is not considered or analyzed in our study.
+
+64
+00:09:53.110 --> 00:09:55.460
+Bingjin Xue: This includes… Flavorites.
+
+65
+00:09:56.110 --> 00:10:04.500
+Bingjin Xue: So, the earliest flavor ban, so we're talking about the state-level state, flavor bans, the earliest of them is in fall 2019.
+
+66
+00:10:04.660 --> 00:10:09.860
+Bingjin Xue: Which is roughly the run… the end of our study window.
+
+67
+00:10:10.090 --> 00:10:13.609
+Bingjin Xue: So that's one reason why we don't consider them.
+
+68
+00:10:14.060 --> 00:10:18.510
+Bingjin Xue: And another reason, is because of our study design.
+
+69
+00:10:18.660 --> 00:10:27.039
+Bingjin Xue: So, if we analyze flavor band, then it will make our empirical strategy more challenging. So we're going to talk about that later.
+
+70
+00:10:28.400 --> 00:10:39.360
+Bingjin Xue: So, the second policy we didn't consider is the federal minimum legal sales age, which cites the age threshold at 18 in August 2016.
+
+71
+00:10:39.910 --> 00:10:51.049
+Bingjin Xue: We don't consider this, again, the first reason is this is a national-wide implementation, which limits cross-state variation and challenges over identification.
+
+72
+00:10:51.670 --> 00:10:56.830
+Bingjin Xue: Another reason is we are analyzing the effects on reproductive age population.
+
+73
+00:10:57.220 --> 00:11:04.570
+Bingjin Xue: And there's a smaller… it's a very small exposure share for bursaries, for those who are under 18.
+
+74
+00:11:04.730 --> 00:11:14.379
+Bingjin Xue: In our data, we only have 2.3% of librosies, which are Moms under age 18.
+
+75
+00:11:14.570 --> 00:11:20.670
+Bingjin Xue: So, we ignored minimal legal age, which sets the threshold, age threshold at 18.
+
+76
+00:11:21.430 --> 00:11:29.490
+Bingjin Xue: We also ignored federal, Tobacco 21 law, because, again, those laws are at the end of our study window.
+
+77
+00:11:32.060 --> 00:11:48.940
+Bingjin Xue: Alright, so on this slide, I show you a regulation rollout over time. On the x-axis, we have the year quarters. On the y-axis, we show the cumulative number of states with a certain type of e-cigarette regulation in effect.
+
+78
+00:11:49.100 --> 00:11:52.619
+Bingjin Xue: So all the dates in this chart are effective dates.
+
+79
+00:11:53.120 --> 00:12:08.380
+Bingjin Xue: And we use different colors to show different policies we consider in this study that includes the blue for the minimum legal sales age, the red for licensure, and then we have the light blue for indoor restrictions, and then the yellow curve is for taxes.
+
+80
+00:12:08.700 --> 00:12:11.849
+Bingjin Xue: So from this figure, we have two takeaways.
+
+81
+00:12:12.170 --> 00:12:18.860
+Bingjin Xue: The first takeaway is, so roughly all states, they start their first policy in 2010.
+
+82
+00:12:19.400 --> 00:12:26.829
+Bingjin Xue: The second observation is there are increasing number of states adopt different policies, and then
+
+83
+00:12:27.070 --> 00:12:31.070
+Bingjin Xue: There is no strong preference of one policy over the other.
+
+84
+00:12:31.520 --> 00:12:36.740
+Bingjin Xue: And then you can see there's a SPAC in 2020, and that is the federal, Tobacco Fund 1.
+
+85
+00:12:37.870 --> 00:12:38.570
+Bingjin Xue: Buh.
+
+86
+00:12:40.170 --> 00:12:49.099
+Bingjin Xue: All right, so, and then we talk about the literature, and then we think about the potential theoretical framework, how eCivider policy can affect birth outcomes.
+
+87
+00:12:49.210 --> 00:13:05.190
+Bingjin Xue: So, in the economic literature, so, from the theory perspective, there can be two possible effects. The first effect is what we call the substitution effect, which means if you restrict e-cigarette, it will definitely curb vaping.
+
+88
+00:13:05.320 --> 00:13:09.040
+Bingjin Xue: But it can also increase smoking or initiation.
+
+89
+00:13:09.630 --> 00:13:17.709
+Bingjin Xue: So, this substitution effect, so is actually evidenced… evidenced in multiple studies, in multiple studies.
+
+90
+00:13:18.330 --> 00:13:22.579
+Bingjin Xue: The second potential theoretical channel is the gateway effect.
+
+91
+00:13:22.870 --> 00:13:28.129
+Bingjin Xue: Which means, a lot of people, so they started using e-cigarettes.
+
+92
+00:13:28.310 --> 00:13:34.450
+Bingjin Xue: But then, this utilization can introduce them to more harmful substances.
+
+93
+00:13:34.580 --> 00:13:38.649
+Bingjin Xue: Including smoking, and also substance use.
+
+94
+00:13:39.590 --> 00:13:46.609
+Bingjin Xue: Well, another theory is… E-cigarette policies can change people's norms and perceptions.
+
+95
+00:13:47.060 --> 00:13:54.950
+Bingjin Xue: So home and public restrictions can strengthen anti-nicotine norms, and taxes can also increase perceived risk of nicotine.
+
+96
+00:13:55.920 --> 00:13:59.010
+Bingjin Xue: So what is the research gap that we are trying to fill?
+
+97
+00:13:59.190 --> 00:14:02.799
+Bingjin Xue: There are a few studies examining pregnant population.
+
+98
+00:14:03.310 --> 00:14:09.019
+Bingjin Xue: or examine the downstream birth outcomes. An even fewer studies handle staggered
+
+99
+00:14:09.230 --> 00:14:17.890
+Bingjin Xue: state policy adoption timing and policy bundling. And those are the research gaps we are trying to fill in this study.
+
+100
+00:14:19.230 --> 00:14:27.230
+Bingjin Xue: Alright, so the main research question. How do different easegrity regulations affect birth outcomes? So, we are analyzing four different policies.
+
+101
+00:14:27.390 --> 00:14:31.740
+Bingjin Xue: Indoor whipping restrictions, minimum legal sales age, 19+.
+
+102
+00:14:32.030 --> 00:14:35.619
+Bingjin Xue: And taxes, and e-cigarette retail licensure laws.
+
+103
+00:14:36.120 --> 00:14:38.569
+Bingjin Xue: We look at 4 birth outcomes.
+
+104
+00:14:38.760 --> 00:14:43.009
+Bingjin Xue: So, all those birth outcomes are birth outcome rate.
+
+105
+00:14:43.340 --> 00:14:45.140
+Bingjin Xue: We examine preterm birth.
+
+106
+00:14:45.600 --> 00:14:54.419
+Bingjin Xue: low birth weight, and also very low birth weight, and infant mortality. Those are the four main outcomes we examine in this study.
+
+107
+00:14:56.040 --> 00:14:59.680
+Bingjin Xue: Next, we move on to the empirical method we used.
+
+108
+00:14:59.910 --> 00:15:07.950
+Bingjin Xue: So, overall, we are going to use this difference-in-difference design, which means we compare treated states with the never-treated states.
+
+109
+00:15:08.140 --> 00:15:17.129
+Bingjin Xue: And then, if we see after the e-cigarette policy, there is a change in trend, then we are saying there can be some effects due to the e-cigarette policy.
+
+110
+00:15:17.750 --> 00:15:22.019
+Bingjin Xue: However, recent literature on DID identified some key challenges.
+
+111
+00:15:22.550 --> 00:15:25.629
+Bingjin Xue: The first challenge is staggered adoption.
+
+112
+00:15:26.230 --> 00:15:36.619
+Bingjin Xue: So, that means if different states, they adopt the policy in different years, or different points in time, and if those effects, they vary over time.
+
+113
+00:15:36.990 --> 00:15:42.049
+Bingjin Xue: Then, a canonical two-way fixed fact estimator can give you biased results.
+
+114
+00:15:42.740 --> 00:15:46.519
+Bingjin Xue: Or, in other words, There can be some forbidden comparison.
+
+115
+00:15:46.980 --> 00:15:52.999
+Bingjin Xue: The forbidden comparison comes from comparing a late adopter to an early adopter.
+
+116
+00:15:53.540 --> 00:15:55.070
+Bingjin Xue: So what is the solution?
+
+117
+00:15:55.650 --> 00:16:01.099
+Bingjin Xue: So, in our study, we used, Callaway and Santana's DID estimator.
+
+118
+00:16:01.350 --> 00:16:03.610
+Bingjin Xue: What they do is very intuitive.
+
+119
+00:16:03.890 --> 00:16:09.310
+Bingjin Xue: So, they are going to eliminate the impact of the forbidden comparison.
+
+120
+00:16:09.630 --> 00:16:18.369
+Bingjin Xue: They consider cohort-specific every treatment effect on the treated, and then we're only aggregating the allowed comparisons.
+
+121
+00:16:18.500 --> 00:16:21.239
+Bingjin Xue: So that is the key idea of identification.
+
+122
+00:16:22.590 --> 00:16:29.400
+Bingjin Xue: And we have a slide, which is from the Goodman-Bacon paper, about DID, but given the time, I'm going to skip this slide.
+
+123
+00:16:30.560 --> 00:16:35.930
+Bingjin Xue: So next, we talk about the second challenge of identification, which is policy bundling.
+
+124
+00:16:36.130 --> 00:16:37.400
+Bingjin Xue: The idea is this.
+
+125
+00:16:37.870 --> 00:16:39.539
+Bingjin Xue: The e-cigarette policies.
+
+126
+00:16:39.730 --> 00:16:42.079
+Bingjin Xue: They rarely arrive alone.
+
+127
+00:16:42.400 --> 00:16:46.630
+Bingjin Xue: States often adopt multiple e-cigarette policies in close succession.
+
+128
+00:16:46.910 --> 00:16:55.120
+Bingjin Xue: So, in our scenario, we have 4 policies, and we observe that multiple states, they adopt multiple policies at the same time.
+
+129
+00:16:55.290 --> 00:16:59.210
+Bingjin Xue: Or, they adopt the same policy about the same time.
+
+130
+00:16:59.960 --> 00:17:06.430
+Bingjin Xue: So here, I'm going to present two figures to give you some evidence of policy bundling.
+
+131
+00:17:07.470 --> 00:17:12.870
+Bingjin Xue: The first figure is a correlation coefficient matrix.
+
+132
+00:17:13.329 --> 00:17:24.979
+Bingjin Xue: So, the X and the Y axis, I show you four different policies. Those are indicator variables, indicating whether a state has a specific policy, in effect, in that time.
+
+133
+00:17:25.690 --> 00:17:28.190
+Bingjin Xue: So, here, we have two observations.
+
+134
+00:17:28.400 --> 00:17:29.360
+Bingjin Xue: Number one.
+
+135
+00:17:29.590 --> 00:17:38.390
+Bingjin Xue: If you look at the correlation coefficients, all of them are positive, which means if a state adopts one policy, they're more likely to adopt another policy.
+
+136
+00:17:39.100 --> 00:17:44.109
+Bingjin Xue: Another observation is… This correlation can be extremely high.
+
+137
+00:17:44.680 --> 00:17:52.560
+Bingjin Xue: For minimum legal sales age and indoor vaping restrictions, we have this coefficient as high as 0.55.
+
+138
+00:17:52.720 --> 00:17:57.850
+Bingjin Xue: Which means they nearly adopt the same… the policy at the same time.
+
+139
+00:17:58.990 --> 00:18:02.969
+Bingjin Xue: The second observation is from this stacked bar chart.
+
+140
+00:18:03.510 --> 00:18:07.500
+Bingjin Xue: So, in this stacked bar chart, on the x-axis, I still give you the timeline.
+
+141
+00:18:07.780 --> 00:18:10.360
+Bingjin Xue: On the y-axis, I give you the number of states.
+
+142
+00:18:10.990 --> 00:18:15.500
+Bingjin Xue: So, this stacked bar chart tells you How many states?
+
+143
+00:18:15.700 --> 00:18:18.149
+Bingjin Xue: Have multiple policies.
+
+144
+00:18:18.370 --> 00:18:19.779
+Bingjin Xue: Ides, the same time.
+
+145
+00:18:19.890 --> 00:18:23.179
+Bingjin Xue: So, for example, if you look at this yellow band.
+
+146
+00:18:23.510 --> 00:18:30.169
+Bingjin Xue: It tells you the number of states with exactly one policy in effect at that time.
+
+147
+00:18:30.750 --> 00:18:33.450
+Bingjin Xue: And then, if you look at this blue.
+
+148
+00:18:34.060 --> 00:18:41.390
+Bingjin Xue: Bar chart, then it tells you the number of states with all four policies in effect during that time.
+
+149
+00:18:41.640 --> 00:18:44.589
+Bingjin Xue: So we have, again, two tegabytes.
+
+150
+00:18:44.930 --> 00:18:51.019
+Bingjin Xue: The first takeaway is you can see that the state with only one policy
+
+151
+00:18:51.530 --> 00:18:55.060
+Bingjin Xue: The number of states really goes down since 2017.
+
+152
+00:18:55.560 --> 00:19:00.740
+Bingjin Xue: So, if you examine this period of time, you really need to worry about policy bundling.
+
+153
+00:19:01.600 --> 00:19:11.160
+Bingjin Xue: The second observation is, since 2015, we observed the start of this right stacked bar, and then you observe this blue
+
+154
+00:19:11.410 --> 00:19:12.530
+Bingjin Xue: Stack the bar chart.
+
+155
+00:19:12.770 --> 00:19:20.249
+Bingjin Xue: So they tell you that there are… so starting in 2015, there are more states with at least 3 policies, in effect.
+
+156
+00:19:20.800 --> 00:19:24.050
+Bingjin Xue: So that gives us challenge in identification.
+
+157
+00:19:24.880 --> 00:19:28.699
+Bingjin Xue: So how do we isolate the effect of a single policy?
+
+158
+00:19:29.360 --> 00:19:30.910
+Bingjin Xue: The idea is this.
+
+159
+00:19:31.160 --> 00:19:32.920
+Bingjin Xue: We're going to identify
+
+160
+00:19:33.310 --> 00:19:44.820
+Bingjin Xue: the first e-cigarette policy enacted by a single state. So, for example, if a state enacted tax first, then we're going to label this state as a tax state.
+
+161
+00:19:45.160 --> 00:19:52.700
+Bingjin Xue: And then we are going to truncate that state's series at the date our second policy became active.
+
+162
+00:19:52.840 --> 00:20:02.980
+Bingjin Xue: So basically, we are going to limit the window to where the state only have one policy in effect. And that's how we isolate the effect of different policies.
+
+163
+00:20:03.640 --> 00:20:10.820
+Bingjin Xue: And we're using this CSDID estimator, which allows us to compare cleanly with the never-treated states.
+
+164
+00:20:11.020 --> 00:20:28.209
+Bingjin Xue: So when we compare our treatment states, we are not comparing with the other treatment states. We're only comparing with the never-treated states, the states that have never enacted any e-cigarette policy during our study period, which is 20… which is 2005 to 2019.
+
+165
+00:20:30.340 --> 00:20:39.720
+Bingjin Xue: All right, so the next slide gives you what I call the identification window. So in this figure, you can see different color bar. They give you
+
+166
+00:20:41.330 --> 00:20:57.239
+Bingjin Xue: the first policy of each state. So, for example, if you see a red bar, then that tells you the first policy of that state is minimum legal sales age. And if you see this green bar, it tells you the first policy of that state is e-cigarette licensure law.
+
+167
+00:20:57.440 --> 00:21:04.709
+Bingjin Xue: And then we'll see the gray bar that tells you that the states already have a second policy in effect.
+
+168
+00:21:05.430 --> 00:21:11.110
+Bingjin Xue: So, for some states, They enact their first policy,
+
+169
+00:21:11.740 --> 00:21:19.110
+Bingjin Xue: at the same time as their second policy. So that's when you see a gray bar at the very beginning.
+
+170
+00:21:20.250 --> 00:21:26.960
+Bingjin Xue: All right, so that's our key identification idea. I'm going to pause here to answer audience questions.
+
+171
+00:21:32.650 --> 00:21:40.539
+Jamie Hartmann-Boyce: Sorry, my Zoom paused for a second, but thank you so much for that. Before we get to audience questions, please do keep
+
+172
+00:21:40.540 --> 00:21:55.850
+Jamie Hartmann-Boyce: bringing them in, I am going to hand over to our discussant. So our discussant today is Dr. Michael Cooper, a postdoctoral scholar from the University of California, San Diego. He's published research on the effect of indoor e-cigarette bans on birth outcomes.
+
+173
+00:21:55.850 --> 00:21:57.629
+Jamie Hartmann-Boyce: Over to you, Dr. Cooper.
+
+174
+00:21:58.000 --> 00:22:11.170
+Michael Cooper: Thank you. So my first, clarifying question is that you just mentioned that only never-treated states are used as the comparison control group, and that leaves me wondering about…
+
+175
+00:22:11.410 --> 00:22:19.150
+Michael Cooper: Pre-treatment states, if they're used as a comparison, and specifically, so looking at this graph you have.
+
+176
+00:22:19.340 --> 00:22:33.399
+Michael Cooper: If you look at California, they go from zero policies to immediately multiple policies, and then get truncated out of the sample. So is California serving as a control group, or helping with identification somehow?
+
+177
+00:22:33.780 --> 00:22:44.770
+Bingjin Xue: Thanks for the question. This is actually very important to our identification strategy. So, we are using the never-treated state as control only. So, for example, California, that is not part of the control.
+
+178
+00:22:45.510 --> 00:22:54.310
+Bingjin Xue: And then, so we have 14 control states without any policy until 20, until Tobacco timeline.
+
+179
+00:22:55.010 --> 00:22:56.119
+Michael Cooper: Okay, got it.
+
+180
+00:22:56.320 --> 00:23:01.470
+Michael Cooper: And then a couple clarifying questions. So these two questions are both
+
+181
+00:23:01.980 --> 00:23:20.209
+Michael Cooper: basically, are your policies just gonna be analyzed as indicators? Like, they're either on or off. Because I was thinking about, e-cigarette taxes, you know, they have different types. They have based on liquid or based on the price, and different levels, you know, how strong is the tax?
+
+182
+00:23:20.850 --> 00:23:33.590
+Bingjin Xue: Yep, so that's, again, another very good question, and that's actually our next step. So, for now, we are considering an indicator variable, so it's 0, 1, and then once they switch on, they always stay on.
+
+183
+00:23:33.740 --> 00:23:45.210
+Bingjin Xue: So, as far as I know, so when I examine… so our data comes from the CDC state dataset, and then I examine that data set in detail, we don't identify any states that switch back to control.
+
+184
+00:23:45.620 --> 00:23:49.150
+Bingjin Xue: So, this really gives us the,
+
+185
+00:23:49.470 --> 00:24:01.069
+Bingjin Xue: very reassuring policy identification idea. And then in the future, we're going to try the continuous DID to identify the intensive margin of maybe the effect of tax.
+
+186
+00:24:01.270 --> 00:24:08.499
+Bingjin Xue: But maybe for a minimum legal sales age, we don't see the benefit of using a continuous DID measure.
+
+187
+00:24:09.840 --> 00:24:15.390
+Michael Cooper: Yeah. And speaking of the minimum, you know, the age restrictions…
+
+188
+00:24:16.550 --> 00:24:20.350
+Michael Cooper: I was just thinking that…
+
+189
+00:24:20.670 --> 00:24:38.129
+Michael Cooper: You know, they only apply to a very small number of mothers. They apply to mothers that are, you know, 18 to 20 or so, but if you just have this very basic indicator that turns on for all the mothers, you might be kind of washing out the effects on this very small subpopulation.
+
+190
+00:24:38.570 --> 00:24:55.259
+Bingjin Xue: Yeah, that makes sense. So, we're going to do some sub-sample analysis, but we're not going to present those results today, but definitely we're going to look at different age groups, different moms' age groups, and then hopefully we're going to see, some effect.
+
+191
+00:24:55.400 --> 00:24:57.940
+Bingjin Xue: Or, moms who are young.
+
+192
+00:24:58.280 --> 00:25:01.999
+Bingjin Xue: But then we'll see. We haven't done that part yet.
+
+193
+00:25:02.280 --> 00:25:11.119
+Michael Cooper: Okay, got it. And I just have one more, comment, before turning it back to you, which is that it's kind of a bigger…
+
+194
+00:25:11.480 --> 00:25:15.299
+Michael Cooper: Vague comment, which is that,
+
+195
+00:25:15.410 --> 00:25:31.520
+Michael Cooper: you're kind of… I just wonder if you're throwing out a lot of useful identifying variation in your data by truncating these states out. You know, these are a lot of useful states that are implementing multiple policies.
+
+196
+00:25:31.630 --> 00:25:37.259
+Bingjin Xue: And you end up comparing totally unregulated states like Florida and Texas.
+
+197
+00:25:37.270 --> 00:25:41.339
+Michael Cooper: Two states that are very lightly regulated with only one policy.
+
+198
+00:25:41.590 --> 00:25:53.110
+Michael Cooper: And then you're kind of throwing out the data from the heavy regulation states, like California, like we talked about. So I just wonder if you considered any other estimators that could account for your…
+
+199
+00:25:53.170 --> 00:26:04.569
+Michael Cooper: your two problems that you've been bringing up without throwing out, so much data, with the caveat that this is very clean, what you're doing. This is a great way to isolate one policy at a time.
+
+200
+00:26:05.210 --> 00:26:08.569
+Bingjin Xue: So, that's actually, another…
+
+201
+00:26:08.670 --> 00:26:22.950
+Bingjin Xue: next step we are considering. So for now, we are only trying to identify a very clean first policy effect. And then, the next step is we are going to, based on the first policy, we want to analyze what's the effect of additional policies.
+
+202
+00:26:23.310 --> 00:26:32.529
+Bingjin Xue: And then we're going to try to build one model to estimate, so, like you said, we're going to take advantage of,
+
+203
+00:26:32.550 --> 00:26:39.000
+Bingjin Xue: all the variations. We build one model to analyze the effects of all policies, but then, in that case.
+
+204
+00:26:39.010 --> 00:26:57.310
+Bingjin Xue: we are going to contaminate this estimator. So this… there is a trade-off. So we can definitely use, maybe one CSD ID will… where we're going to include some dummy variables for the other policies, and then we can include all states. So that will be one of our… our robustness check.
+
+205
+00:26:58.700 --> 00:27:01.680
+Michael Cooper: Great, that makes sense. That's all I have for this part.
+
+206
+00:27:02.110 --> 00:27:02.740
+Bingjin Xue: Thank you.
+
+207
+00:27:03.080 --> 00:27:14.630
+Jamie Hartmann-Boyce: Wonderful, thank you. I think Andy is doing an amazing job answering audience questions, so I think go ahead and continue with the presentation. Audience, please do keep those questions coming in.
+
+208
+00:27:15.120 --> 00:27:16.699
+Bingjin Xue: Alright, thank you so much, Jamie.
+
+209
+00:27:17.070 --> 00:27:19.000
+Bingjin Xue: So, I will continue.
+
+210
+00:27:19.000 --> 00:27:37.349
+Bingjin Xue: So, we move on to the data section, and then we're going to talk about our revisit our identification strategy, and then show our preliminary findings. So, the data we use are from the CDC Vital Statistics Restricted Use Birth Certificate Data. The sample we consider are 2005,
+
+211
+00:27:37.350 --> 00:27:42.700
+Bingjin Xue: From the first quarter to the last quarter of 2019.
+
+212
+00:27:42.810 --> 00:27:45.729
+Bingjin Xue: And we have county by culture panel.
+
+213
+00:27:46.200 --> 00:27:52.919
+Bingjin Xue: So we can analyze our data at county by year level as well, and then our result for now is quite consistent.
+
+214
+00:27:53.630 --> 00:28:03.230
+Bingjin Xue: So the outcome we considered are preterm birth rates, and then we also have low birth weight, very low birth weight, and infant mortality rate.
+
+215
+00:28:03.820 --> 00:28:16.200
+Bingjin Xue: We also consider some smoking behaviors, so those include whether the mom, they ever smoke during pregnancy, or how many cigarettes they use every day.
+
+216
+00:28:16.780 --> 00:28:21.750
+Bingjin Xue: The control variables we considered are 5-year age bins.
+
+217
+00:28:21.900 --> 00:28:29.750
+Bingjin Xue: interacted with race and ethnicity, which include non-Hispanic whites, non-Hispanic Black, and Hispanic.
+
+218
+00:28:30.530 --> 00:28:43.880
+Bingjin Xue: So, we express all those age compositions as share of county females, ages between 14 and 55 year old, which is the reproductive age.
+
+219
+00:28:44.300 --> 00:28:55.969
+Bingjin Xue: We also include indicators for ACA Medicaid expansion and recreational marijuana legalizations, because studies have shown they can affect birth outcomes.
+
+220
+00:28:57.200 --> 00:29:16.289
+Bingjin Xue: So this is the empirical framework we are using. We are using this difference-in-difference framework, and we are using the Calloway and Satana DID estimator. So again, this estimator are going to estimate cohort-specific treatment effect first. So basically, the treatment effect for each single state, and then you aggregate them.
+
+221
+00:29:16.290 --> 00:29:19.319
+Bingjin Xue: And by eliminating all the forbidden compressors.
+
+222
+00:29:21.040 --> 00:29:25.870
+Bingjin Xue: So, we start presenting some results. We start from descriptive findings.
+
+223
+00:29:26.450 --> 00:29:32.250
+Bingjin Xue: So, here, we have trend plots, For preterm birth rate.
+
+224
+00:29:32.620 --> 00:29:34.609
+Bingjin Xue: Per 100 lab verses.
+
+225
+00:29:35.170 --> 00:29:45.689
+Bingjin Xue: So, we're trying to see if there are any pre-trends. And also, we want to see if there are any divergence in trends after the enactment of the policy.
+
+226
+00:29:46.380 --> 00:29:52.739
+Bingjin Xue: Here, the black line, or the black curve, gives you the control states. The 14 never-treated states.
+
+227
+00:29:53.130 --> 00:29:59.119
+Bingjin Xue: And then the other colored lines, they give you states with any policy during the study periods.
+
+228
+00:29:59.900 --> 00:30:06.730
+Bingjin Xue: So, from the figure, we don't see any clear trends. And also, they seem quite parallel.
+
+229
+00:30:07.270 --> 00:30:16.090
+Bingjin Xue: Another observation from the figure is you can see states that have ever adopted any e-cigarette policy, they tend to have lower
+
+230
+00:30:16.390 --> 00:30:21.400
+Bingjin Xue: Preterm birth rates, which means they usually have better birth outcomes.
+
+231
+00:30:22.980 --> 00:30:28.220
+Bingjin Xue: Alright, so the second figure I show you here is for the low birth weight rate.
+
+232
+00:30:28.550 --> 00:30:44.709
+Bingjin Xue: So again, we have a similar observation. We see a strong seasonal trend, but fortunately, this seasonal pattern is very consistent between the control state and the treatment state. And in a DID design, this kind of
+
+233
+00:30:44.910 --> 00:30:50.360
+Bingjin Xue: Synergy will be canceled off when we control for culturally fixed effects.
+
+234
+00:30:51.790 --> 00:30:56.530
+Bingjin Xue: And then we move on to very low birth weight and infant mortality.
+
+235
+00:30:56.940 --> 00:31:07.740
+Bingjin Xue: The pattern is very similar. Again, we observe parallel trends. At the same time, we don't have any evidence of divergence in birth outcomes.
+
+236
+00:31:07.860 --> 00:31:10.140
+Bingjin Xue: So all of those are average.
+
+237
+00:31:10.280 --> 00:31:14.319
+Bingjin Xue: Birth outcomes at the county and culture level.
+
+238
+00:31:15.240 --> 00:31:25.790
+Bingjin Xue: And the last figure is for infant mortality rates, so we see there is a decline in infant mortality rates since 2005, and then again, we don't see any divergence in TRET.
+
+239
+00:31:27.820 --> 00:31:33.829
+Bingjin Xue: All right, and then we present our formal, ATT, every treatment effect estimates.
+
+240
+00:31:34.240 --> 00:31:42.299
+Bingjin Xue: So… Overall, we don't find any significant effect associated with any loss.
+
+241
+00:31:42.770 --> 00:31:45.350
+Bingjin Xue: On any, birth outcomes.
+
+242
+00:31:45.540 --> 00:31:59.719
+Bingjin Xue: So, for example, here, we have panel A, we're analyzing the effects of e-cigarette tax, and then in panel B, we analyze the effects of e-cigarette retail licensure laws, and then in columns 1 through 4, we have different birth outcomes.
+
+243
+00:32:00.340 --> 00:32:07.380
+Bingjin Xue: The first outcome, the outcome labeled ATT, they give you the treatment effect of that policy on a specific outcome.
+
+244
+00:32:07.780 --> 00:32:17.119
+Bingjin Xue: So, if I add one significant star, it means it is significant at 10% significance level, however, we don't observe any significant star here.
+
+245
+00:32:17.500 --> 00:32:24.090
+Bingjin Xue: And also, the magnitude of any estimates, of any coefficients, they are very close to zero.
+
+246
+00:32:24.540 --> 00:32:30.450
+Bingjin Xue: So overall, our conclusion, or preliminary conclusion, is we don't observe any effect.
+
+247
+00:32:30.640 --> 00:32:35.520
+Bingjin Xue: On birth outcomes associated with e-cigarette taxes or retail licensure laws.
+
+248
+00:32:36.280 --> 00:32:55.029
+Bingjin Xue: And then we move on to minimum age restrictions and indoor waving restrictions. Again, we don't observe any significant finding of any law on any birth outcomes. And also the coefficients, they are not statistically significant, they are also very close to zero.
+
+249
+00:32:56.720 --> 00:33:06.150
+Bingjin Xue: And then, so we present some event study plots here. So, from the CISDID event study plots, you can see two colors.
+
+250
+00:33:06.600 --> 00:33:17.209
+Bingjin Xue: The blue color to give you the pre-treatment period, so you want to see those are now effects, which shows you evidence of, no pre-existing threats.
+
+251
+00:33:17.660 --> 00:33:26.279
+Bingjin Xue: And then, the red colored bars, they give you the treatment effect, or dynamic treatment effect, after the enactment of the policy.
+
+252
+00:33:26.770 --> 00:33:34.659
+Bingjin Xue: So again, the overall observation is we don't see a very clear pattern of any effect.
+
+253
+00:33:34.920 --> 00:33:38.359
+Bingjin Xue: Associated with ways, birth outcomes.
+
+254
+00:33:39.160 --> 00:33:47.110
+Bingjin Xue: And here, different slides gives you, we organize them by birth outcomes. So, for example, the first slide is for preterm birth.
+
+255
+00:33:47.510 --> 00:33:52.520
+Bingjin Xue: And then we move on to the next page. This is the effect on low birth weight rate.
+
+256
+00:33:52.900 --> 00:33:56.179
+Bingjin Xue: And then the next slide is on very low birth weight rates.
+
+257
+00:33:56.290 --> 00:33:59.160
+Bingjin Xue: And then, the last one is for infant mortality.
+
+258
+00:33:59.460 --> 00:34:07.730
+Bingjin Xue: Although, for certain outcomes, we do observe maybe some effects in one period of time, but maybe those are from
+
+259
+00:34:07.730 --> 00:34:21.009
+Bingjin Xue: some outliers, which we are still working on. We are still trying to identify what causes those, maybe, outliers. But maybe after removing them, the overall pattern, you can see there is no significant findings.
+
+260
+00:34:22.170 --> 00:34:23.749
+Bingjin Xue: So, we draw the conclusion.
+
+261
+00:34:24.429 --> 00:34:33.340
+Bingjin Xue: So In summary, so overpaper, we use first policy timing with truncated window.
+
+262
+00:34:33.870 --> 00:34:45.290
+Bingjin Xue: To analyze the effect of different state policies on preterm birth rates, on preterm, low birth weight, very low birth weight, and infant mortality rate.
+
+263
+00:34:45.480 --> 00:34:52.450
+Bingjin Xue: And we find small and statistically indistinguishable from zero effects associated with any policies.
+
+264
+00:34:53.110 --> 00:35:05.220
+Bingjin Xue: So, the interpretation of the finding is, despite policy impacts on nicotine behavior seen elsewhere and seen in previous studies, we do not detect any short-term improvement
+
+265
+00:35:05.360 --> 00:35:08.160
+Bingjin Xue: Or worsen effect on birth outcomes.
+
+266
+00:35:08.460 --> 00:35:26.129
+Bingjin Xue: However, we want to, say that all the effects so far are still preliminary, so after we, addressed some key issues, maybe with the outliers, and then we're going to also try subgroup analysis, maybe we're going to find some other findings.
+
+267
+00:35:26.780 --> 00:35:30.379
+Bingjin Xue: And… That's all for my presentation.
+
+268
+00:35:30.630 --> 00:35:33.429
+Bingjin Xue: Thank you so much. I'm going to open the floor to discussion.
+
+269
+00:35:33.690 --> 00:35:38.230
+Jamie Hartmann-Boyce: Wonderful, thank you so much. So again, we'll turn to our discussant first.
+
+270
+00:35:40.990 --> 00:35:55.240
+Michael Cooper: Great, thanks for that, presentation. So I have a series of comments, mostly, you know, making sense of the null result here, the null effect result.
+
+271
+00:35:55.680 --> 00:36:04.780
+Michael Cooper: Yeah, so all of these policies that you're analyzing, in one way or another, we think they increase the cost of using e-cigarettes.
+
+272
+00:36:05.180 --> 00:36:11.369
+Michael Cooper: Right? Maybe not the direct monetary cost, but they might affect norms or things like that.
+
+273
+00:36:11.430 --> 00:36:30.939
+Michael Cooper: And my main thought is just that substituting one form of nicotine for another might cancel out to no net effect on birth outcomes. So, you know, if we think nicotine is the primary harmful component for the development of the baby.
+
+274
+00:36:30.940 --> 00:36:37.199
+Michael Cooper: Then maybe there is substitution going on, but it's roughly the same amount of nicotine, and that cancels out.
+
+275
+00:36:37.290 --> 00:36:49.760
+Michael Cooper: to no effect on birth outcomes, which makes me wonder if you might want to look at cigarette smoking as an outcome, because I know that is in the birth records data. So did you consider that?
+
+276
+00:36:50.200 --> 00:36:58.619
+Bingjin Xue: Yes, that's a very good point. Actually, we already have the result, so it's not in the slide. So, for now, we do observe a substitution effect.
+
+277
+00:36:58.620 --> 00:37:02.370
+Bingjin Xue: But for most of the policies, that substitution is insignificant.
+
+278
+00:37:02.370 --> 00:37:19.969
+Bingjin Xue: I remember, we only observed one significant finding for… I can't remember what policy is that, so I'm not going to, give an uncertain, answer. So we do have one significant substitution associated with one policy, but for the other policies, the effects are positive, but insignificant.
+
+279
+00:37:20.290 --> 00:37:21.130
+Michael Cooper: I see.
+
+280
+00:37:21.130 --> 00:37:40.890
+Bingjin Xue: So, I know in the previous literature, usually, people only consider a subset of states, because some states, they're… the revision of the birth outcome, they… they changed, at around 2010, so we are still considering, maybe, limit the states
+
+281
+00:37:40.960 --> 00:37:47.129
+Bingjin Xue: Into that subgroup, that can give us, maybe a better First, it's the G-Fact.
+
+282
+00:37:47.580 --> 00:37:48.309
+Michael Cooper: I see.
+
+283
+00:37:49.030 --> 00:38:07.200
+Michael Cooper: And my next comment is that I think one of the channels is completely shut off. One of the channels where we think these policies affect behavior is anti-nicotine or anti-tobacco norms, because pregnant women are this unique population where there's already
+
+284
+00:38:07.430 --> 00:38:19.860
+Michael Cooper: strong norms against using nicotine at all. So, now if you tell them that you can't use an e-cigarette inside, that might have no effect. They're already not going to use it inside when other people are there.
+
+285
+00:38:20.270 --> 00:38:24.469
+Bingjin Xue: Yeah, so just the thought about one of the channels might not even be functioning here.
+
+286
+00:38:24.470 --> 00:38:26.430
+Michael Cooper: Although there are other channels that work.
+
+287
+00:38:26.930 --> 00:38:39.079
+Bingjin Xue: Yeah, that's true. So, maybe, the effect on norms and perception, if there are already tobacco policies in effect, then maybe this, added value is very small and negligible.
+
+288
+00:38:39.080 --> 00:38:40.260
+Michael Cooper: Yeah. So…
+
+289
+00:38:40.420 --> 00:38:54.529
+Bingjin Xue: I feel… so when we read up the paper, we're going to include a very detailed discussion of this channel, so whether we should consider it or not. But for now, we are analyzing maybe an overall effect, so this is…
+
+290
+00:38:54.530 --> 00:38:54.980
+Michael Cooper: Okay.
+
+291
+00:38:54.980 --> 00:38:58.229
+Bingjin Xue: A reduced from overall effect of all the e-cigarette policies.
+
+292
+00:38:58.570 --> 00:38:59.180
+Michael Cooper: Yeah.
+
+293
+00:38:59.290 --> 00:39:02.959
+Michael Cooper: And my next thought was about infant mortality.
+
+294
+00:39:02.960 --> 00:39:05.090
+Bingjin Xue: Because I…
+
+295
+00:39:05.090 --> 00:39:24.629
+Michael Cooper: In our similar research, we did find an effect on infant mortality of indoor vaping bans, but the effect was strongest later in the infant's life, so we found a stronger effect in the 100-day to 1-year range, which might make sense if there's
+
+296
+00:39:24.630 --> 00:39:34.009
+Michael Cooper: More exposure to secondhand smoke as opposed to secondhand vapor, which would probably be weaker. And then that could cause respiratory problems,
+
+297
+00:39:34.200 --> 00:39:38.060
+Michael Cooper: In a marginal case where the baby's health is already poor.
+
+298
+00:39:38.170 --> 00:39:44.919
+Michael Cooper: So, the idea there is maybe look at infant mortality, but later in the first year.
+
+299
+00:39:45.390 --> 00:39:51.450
+Bingjin Xue: Yep, that's actually another very good point. So, for now, we are considering 12, Colders.
+
+300
+00:39:51.680 --> 00:40:07.299
+Bingjin Xue: after the policy. So that's 3 years post-policy. But we can definitely extend that post-period window and see if there are, any long-term effects. And actually, from the figure, like, the effect of e-cigarette tax and,
+
+301
+00:40:07.300 --> 00:40:12.079
+Bingjin Xue: retail licensure law, we can already see there can be some effect in the long run.
+
+302
+00:40:12.120 --> 00:40:23.180
+Bingjin Xue: But so far, we don't see any effect for indoor whipping restrictions, but again, for the last period, so if you look at panel D, the last period is turning negative, so…
+
+303
+00:40:23.410 --> 00:40:28.610
+Bingjin Xue: maybe after we extend the post period, we can have something.
+
+304
+00:40:28.610 --> 00:40:35.399
+Michael Cooper: That's a good point. You can kind of already, see no effect in these event studies.
+
+305
+00:40:35.550 --> 00:40:40.140
+Bingjin Xue: Yeah, so… Well, the outcome here is just, death in the first year, right?
+
+306
+00:40:40.300 --> 00:40:41.669
+Bingjin Xue: Yes, that's right.
+
+307
+00:40:41.940 --> 00:40:57.410
+Bingjin Xue: Yeah, and actually, I do review that paper, and then actually, the main difference is the sample. So maybe, like I said, maybe when we subside to a cleaner subsample, we can get some effect. For now, we are considering all 50 states and DC.
+
+308
+00:40:57.610 --> 00:40:58.270
+Michael Cooper: Yeah.
+
+309
+00:40:58.640 --> 00:41:13.879
+Michael Cooper: And I just have two more comments. The next one is about local-level laws. You know, you only look at state-level laws. And in our research, we bought data on county and city-level laws.
+
+310
+00:41:13.890 --> 00:41:21.450
+Michael Cooper: Because there are a lot of big counties and cities that implement these e-cigarette restrictions before it goes statewide.
+
+311
+00:41:21.680 --> 00:41:36.819
+Michael Cooper: And I'm pretty sure that could lead to attenuation bias, and bias your estimates towards zero, because a big part of the population is getting treated before, it's coded as treated in your data.
+
+312
+00:41:36.980 --> 00:41:39.349
+Michael Cooper: So that could be one thing that's happening.
+
+313
+00:41:39.710 --> 00:42:04.639
+Bingjin Xue: Yeah, this is another very good point. So, actually, we already started analyzing county-level policies, but unfortunately, we don't have that, that, that data set you use. So for indoor whipping restrictions, we realized there are many counties that have their own policies, but for tax, we looked into, so the call is dataset. So, there are two big counties maybe we want to consider, that's the next
+
+314
+00:42:04.640 --> 00:42:16.179
+Bingjin Xue: And then also for retail licensure laws and minimum legal sales age, there are a couple of counties, but not only a handful of counties, so we can easily just include them in our sample.
+
+315
+00:42:16.180 --> 00:42:22.749
+Bingjin Xue: But for indoor working restriction, there are so many counties. So, maybe I'm going to… I will reach out to you.
+
+316
+00:42:22.750 --> 00:42:23.210
+Michael Cooper: Sure.
+
+317
+00:42:23.210 --> 00:42:25.199
+Bingjin Xue: I've identified effect at the county level.
+
+318
+00:42:25.440 --> 00:42:26.050
+Michael Cooper: Yeah.
+
+319
+00:42:26.300 --> 00:42:29.399
+Michael Cooper: Okay, and my last comment is…
+
+320
+00:42:29.630 --> 00:42:36.280
+Michael Cooper: I just have this sense that maybe these policies only bite when they're put together.
+
+321
+00:42:36.370 --> 00:42:50.010
+Michael Cooper: And maybe you can construct some outcome measure that's, like, the policy intensity or the policy count. Because we talked about it earlier when we paused for questions that…
+
+322
+00:42:50.340 --> 00:43:06.809
+Michael Cooper: You know, once… once these states are getting to the strong… strongest regulatory environment, they get truncated out of the sample. So maybe there's kind of a building effect of having all four policies, that you're not seeing with your current identification strategy.
+
+323
+00:43:07.060 --> 00:43:29.889
+Bingjin Xue: Yep, exactly. So, when we analyze multiple policies, maybe we're also going to extend our study window. We're going to extend the data to 2024, where all states, they already have this, Tobacco 21 law in effect. And then we can construct some intensity measure to analyze, what is the effect of two policies, three policies, and four policies. We can only… we can…
+
+324
+00:43:29.890 --> 00:43:36.789
+Bingjin Xue: either just look at the numbers, or we can look at maybe the policy combinations. That can be a follow-up step.
+
+325
+00:43:37.360 --> 00:43:39.310
+Michael Cooper: Yeah, that's great, that'll be really interesting.
+
+326
+00:43:39.940 --> 00:43:44.950
+Michael Cooper: Those are all the comments I had prepared. Thanks a lot for a really interesting presentation.
+
+327
+00:43:44.950 --> 00:43:46.150
+Bingjin Xue: Thank you so much, Michael.
+
+328
+00:43:46.820 --> 00:43:59.260
+Jamie Hartmann-Boyce: Thank you so much, so please do keep your questions coming through. We have a question from Mike Pesco. Would cigarette taxes be a useful control, for example, indoor air laws affecting smoking?
+
+329
+00:43:59.780 --> 00:44:18.510
+Bingjin Xue: Yes, so actually in our previous version of the paper, we already controlled for tobacco taxes. But then, for this result, we haven't controlled for that tobacco tax. But from our experience, controlling for tobacco tax or not, doesn't really change the overall findings.
+
+330
+00:44:20.550 --> 00:44:27.850
+Jamie Hartmann-Boyce: Thank you, and I'm just looking at some of the questions that have already been answered in our Q&A, in case they're interested
+
+331
+00:44:28.410 --> 00:44:43.840
+Jamie Hartmann-Boyce: to… for us to hear, and for you to consider as well. In particular, the last one that came through from Mia Pang asked… said, the regulations had no effects on birth outcomes. Do you think this is because the prevalence of e-cigarette use in pregnant people is too low to observe an effect? And…
+
+332
+00:44:43.960 --> 00:44:56.960
+Jamie Hartmann-Boyce: Andy shared that low prevalence is likely part of the explanation, given that very few pregnant people use e-cigarettes. I wonder if you have anything you might want to add to that in thinking through the reasons here.
+
+333
+00:44:56.960 --> 00:45:12.740
+Bingjin Xue: So again, our next step is to do some subsample analysis, because we have birth certificates, so we can see, what's the impact on, maybe, the youth or young adults. So we're going to release that result later.
+
+334
+00:45:13.640 --> 00:45:29.639
+Jamie Hartmann-Boyce: We look forward to seeing that. And Mike's shared, just some information that county-level indoor vaping restriction data is now available through a policy data repository, so that is in the chat for anyone who might be interested in looking at that. Thank you for sharing that, Mike.
+
+335
+00:45:29.660 --> 00:45:38.289
+Jamie Hartmann-Boyce: We also have a question from Sherry Warshaw. It might be interesting to also track incidents of cleft palate with e-cigarettes versus conventional cigarettes, she said.
+
+336
+00:45:40.040 --> 00:46:00.280
+Bingjin Xue: So, yeah, that's, very likely. So actually, I have already started to consider that, so we're going to consider the… how e-cigarette policies interact with tobacco policies, but then it will make our identification even more challenging. We are already truncating the windows, and then if we consider
+
+337
+00:46:00.280 --> 00:46:13.269
+Bingjin Xue: tobacco policy, then, I wonder if we have enough power to identify any effects. So there is a trade-off in terms of identification versus, do we consider all the policies? But maybe on
+
+338
+00:46:13.320 --> 00:46:20.379
+Bingjin Xue: A very easy way to implement that idea is to control for any tobacco policies. We're going to just use dummy variables.
+
+339
+00:46:21.310 --> 00:46:23.289
+Bingjin Xue: But that's a very good suggestion.
+
+340
+00:46:23.780 --> 00:46:25.929
+Jamie Hartmann-Boyce: Great, thank you so much.
+
+341
+00:46:25.930 --> 00:46:48.939
+Jamie Hartmann-Boyce: Okay, unless any more questions are coming in, I am going to suggest that we close out, because we're very lucky that Ben is available for Top of the Tops. So, if you have more questions, keep them coming through Q&A, but if you'd like to discuss with a speaker directly with mics enabled, you're more than welcome to attend Top of the Tops immediately following this webinar.
+
+342
+00:46:49.040 --> 00:47:00.060
+Jamie Hartmann-Boyce: If you're interested, there's going to be a meeting room URL posted in the chat, and if you copy that, you will be ready to join the live discussions once this webinar concludes.
+
+343
+00:47:00.490 --> 00:47:12.010
+Jamie Hartmann-Boyce: I have something in the Q&A, let me just pull it up. Oh, I have a thank you very much in the Q&A, so thank you very much, and I will hand over now back to RMC, but thanks so much.
+
+344
+00:47:12.670 --> 00:47:13.220
+Bingjin Xue: Thanks.
+
+345
+00:47:17.450 --> 00:47:29.879
+Luis Zavala Arciniega: We are out of time, however, if you still have burning questions or talks for Dr. Ben, please join us at the top of the talks. That will be an interactive group discussion.
+
+346
+00:47:30.020 --> 00:47:38.589
+Luis Zavala Arciniega: To join us, please stop the Zoom meeting URL post in the chat, and switch rooms with us
+
+347
+00:47:38.700 --> 00:47:50.040
+Luis Zavala Arciniega: once the event concludes, and we will leave the webinar room open for an extra minute after the end, and give everyone time to copy the URL.
+
+348
+00:47:51.020 --> 00:48:02.719
+Luis Zavala Arciniega: Thank you to our presenter, moderator, and discussant. And finally, thank you to you all for the audience of 126 people for your participation. Have a great weekend.
+
