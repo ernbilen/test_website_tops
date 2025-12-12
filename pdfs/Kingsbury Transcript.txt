@@ -1,0 +1,1334 @@
+WEBVTT
+
+1
+00:00:04.059 --> 00:00:15.960
+Daniel Cho: Welcome to the Tobacco Online Policy Seminar. Thank you for joining us today. I'm Daniel Cho, a PhD candidate at the University of North Carolina at Chapel Hill, studying health and tobacco use.
+
+2
+00:00:16.470 --> 00:00:32.840
+Daniel Cho: TOPS is organized by Mike Pasco and University of Missouri, Seishong at Ohio State University, Michael Darden at Johns Hopkins University, Jamie Hartman Boyce at University of Massachusetts Amherst, and Justin White at Boston University.
+
+3
+00:00:33.100 --> 00:00:47.740
+Daniel Cho: The seminar will be one hour with questions from the moderator and discussant. The audience may post questions and comments in the Q&A panel, and the moderator will draw from these questions and comments in conversation with the presenter.
+
+4
+00:00:47.930 --> 00:00:53.279
+Daniel Cho: Please review the guidelines on tobaccoPolicy.org for acceptable cautions.
+
+5
+00:00:53.620 --> 00:01:05.640
+Daniel Cho: Please keep the questions professional and related to the research being discussed. Questions that meet the seminar series guidelines will be shared with the presenter afterwards, even if they are not read aloud.
+
+6
+00:01:05.770 --> 00:01:08.580
+Daniel Cho: Your questions are very much appreciated.
+
+7
+00:01:09.230 --> 00:01:18.869
+Daniel Cho: This presentation is being video recorded and will be made available, along with presentation slides on the TOPS website, tobaccoPolicy.org.
+
+8
+00:01:19.340 --> 00:01:27.269
+Daniel Cho: I will turn the presentation over to today's moderator, Michael Darden from Johns Hopkins University, to introduce our speaker.
+
+9
+00:01:29.200 --> 00:01:43.410
+Michael Darden: Thanks, Daniel. Today, we'll continue our Winter 2025 season with a single paper presentation by John Kingsbury entitled, The Effects of State-Level Flavored Electronic Cigarette Restrictions on Adult Tobacco Use Using Multi-Level Modeling.
+
+10
+00:01:43.410 --> 00:01:50.260
+Michael Darden: Findings from PATH Study Waves 5 and 7, 2018 to 2023.
+
+11
+00:01:50.270 --> 00:01:56.030
+Michael Darden: The presentation was selected via competitive review process by submission through the TOPS website.
+
+12
+00:01:56.090 --> 00:02:08.990
+Michael Darden: John Kingsbury is an epidemiology program manager who works with the National Institute on Drug Abuse. John helps administer the Population Assessment on Tobacco and Health PATH study, and helps disseminate study findings.
+
+13
+00:02:09.039 --> 00:02:22.669
+Michael Darden: Prior to working with NIDA, John worked at the Minnesota Department of Health as a research scientist for 10 years, where he designed and evaluated public health interventions, particularly on statewide tobacco prevention and control.
+
+14
+00:02:22.670 --> 00:02:31.869
+Michael Darden: John completed a postdoctoral fellowship in cancer prevention at the Harvard School of Public Health, and received his PhD in Social and Health Psychology from Dartmouth College.
+
+15
+00:02:32.010 --> 00:02:45.059
+Michael Darden: Dr. Heather Kimmel, a program official at NIDA and the director of the PATH study at NIH, is a co-author of the study and will answer questions in the Q&A. Dr. Kingsbury, thank you for presenting for us today.
+
+16
+00:02:47.090 --> 00:02:48.300
+John Kingsbury: Thanks so much, Michael.
+
+17
+00:02:48.830 --> 00:02:50.300
+John Kingsbury: Let's see here…
+
+18
+00:03:02.300 --> 00:03:05.800
+John Kingsbury: Okay, is that showing as expected?
+
+19
+00:03:07.750 --> 00:03:09.110
+Michael Darden: That looks great. Thanks.
+
+20
+00:03:09.340 --> 00:03:10.200
+John Kingsbury: Perfect.
+
+21
+00:03:10.270 --> 00:03:18.459
+John Kingsbury: All right. Well, thank you, everyone. Yeah, thank you, Michael, for the introduction, and thank you, everyone, for joining. Today, I am going to be talking about
+
+22
+00:03:18.460 --> 00:03:33.449
+John Kingsbury: state-level flavored e-cigarette policies and the effect that they have on adult tobacco use. But before I dive too deeply into that, first, I want to share my disclosures for both myself and collaborators.
+
+23
+00:03:37.590 --> 00:03:55.720
+John Kingsbury: So, the sale of e-cigarettes increased 47% in U.S. retail outlets from 2019 to 2023, with flavor categories like fruit, candy, mint, menthol, and desserts accounting for more than 80% of those sales.
+
+24
+00:03:56.430 --> 00:04:03.509
+John Kingsbury: Flavored tobacco products have historically been marketed to youth and young adults, leading to high flavored tobacco use in these age groups.
+
+25
+00:04:06.810 --> 00:04:14.839
+John Kingsbury: A recent study of young people found that 92% of 40-20 year olds with past 30-day e-cigarette use reported flavored use.
+
+26
+00:04:15.530 --> 00:04:23.319
+John Kingsbury: While flavors are commonly associated with youth and young adult tobacco use, the use of flavors is highly prevalent, even among older adults.
+
+27
+00:04:24.260 --> 00:04:33.240
+John Kingsbury: A nationally representative survey of U.S. adults, so those age 18 plus, found that among those with current e-cigarette use.
+
+28
+00:04:33.420 --> 00:04:46.139
+John Kingsbury: 77.3% used flavors. So that's what we see on the right-hand side there. You can see that even among those who are on the right-hand side, the older age groups, they're still using flavored e-cigarettes quite a bit.
+
+29
+00:04:49.970 --> 00:04:55.369
+John Kingsbury: Flamers play an important role in the use of e-cigarettes among both young people and adults.
+
+30
+00:04:55.510 --> 00:05:01.430
+John Kingsbury: But patterns of e-cigarette use, flavor preferences, and reasons for use do differ by age.
+
+31
+00:05:02.220 --> 00:05:15.519
+John Kingsbury: For example, adolescents and young adults report a stronger preference for fruit and candy flavors, whereas older adults, so those aged 25 plus, have stronger preferences for tobacco and mint or menthol flavors.
+
+32
+00:05:16.290 --> 00:05:24.109
+John Kingsbury: Relatedly, many older adults use tobacco or menthol-flavored e-cigarettes in an attempt to quit combustible cigarettes.
+
+33
+00:05:25.010 --> 00:05:34.500
+John Kingsbury: Young adults are more likely to try e-cigarettes out of curiosity, and to perceive sweet and candy-flavored e-cigarettes as less harmful than tobacco-flavored e-cigarettes.
+
+34
+00:05:35.860 --> 00:05:47.140
+John Kingsbury: Given these different use patterns, preferences, and reasons for using flavored e-cigarettes, restrictions on the sale of flavored e-cigarettes may yield different behavioral responses from different age groups.
+
+35
+00:05:48.160 --> 00:06:01.799
+John Kingsbury: Furthermore, previous research suggests that flavored policies might impact youth and young adults more due to more experimental use patterns, and because their age makes them more susceptible to alter their trajectory of e-cigarette use.
+
+36
+00:06:02.280 --> 00:06:06.419
+John Kingsbury: John, I'm sorry to interrupt really quickly. Can you turn your camera on?
+
+37
+00:06:07.000 --> 00:06:09.549
+John Kingsbury: Yes, here, let me… here we go.
+
+38
+00:06:09.550 --> 00:06:10.399
+Michael Darden: All set, thanks.
+
+39
+00:06:10.400 --> 00:06:11.449
+John Kingsbury: Alright, perfect.
+
+40
+00:06:11.570 --> 00:06:21.279
+John Kingsbury: Okay, so, yeah, so the younger age group makes them a little bit more susceptible to, alter their trajectory of e-cigarette use.
+
+41
+00:06:22.070 --> 00:06:36.140
+John Kingsbury: So, maybe transitioning from experimental use to established use, or experimental use to no use. And conversely, adults may be less impacted because they are likely to continue to use in order to quit other tobacco products.
+
+42
+00:06:38.990 --> 00:06:44.569
+John Kingsbury: Okay, taking a quick pause here, I want to do a poll question.
+
+43
+00:06:44.790 --> 00:06:53.829
+John Kingsbury: So, which of the following is not an e-cigarette or e-juice flavor? So, bacon, Bubba's Pig Sap.
+
+44
+00:06:53.930 --> 00:06:55.270
+John Kingsbury: roast chicken.
+
+45
+00:06:55.440 --> 00:07:02.109
+John Kingsbury: Thanksgiving stuffing, Beetlejuice, tuna, or unicorn vomit. So which one is not an e-juice flavor?
+
+46
+00:07:16.800 --> 00:07:21.810
+John Kingsbury: Alright, I'm not seeing results come in, I'm not sure if I should or not, but…
+
+47
+00:07:23.800 --> 00:07:27.100
+Michael Darden: I, I, I'm seeing it, I can, I can tell you that,
+
+48
+00:07:27.230 --> 00:07:38.619
+Michael Darden: Tuna is well in the lead here. You've got 57% with tuna, the next highest category would be roast chicken at 12%. Okay.
+
+49
+00:07:39.240 --> 00:07:40.210
+Michael Darden: So…
+
+50
+00:07:40.210 --> 00:07:41.029
+John Kingsbury: There we go.
+
+51
+00:07:41.030 --> 00:07:42.189
+Michael Darden: Oh, you see it now? Great.
+
+52
+00:07:42.190 --> 00:07:43.829
+John Kingsbury: Yes, I see it now. Perfect.
+
+53
+00:07:45.400 --> 00:07:48.300
+John Kingsbury: Okay, I'll maybe give just a couple more seconds…
+
+54
+00:07:49.660 --> 00:08:02.019
+John Kingsbury: 3, 2, 1… Alright, so yeah, tuna, the runaway winner. So you are incorrect. The correct answer here is Thanksgiving stuffing. So…
+
+55
+00:08:02.020 --> 00:08:20.640
+John Kingsbury: That was… yeah, it was kind of an even distribution. All of those sound disgusting to me, but… but, yeah, only Thanksgiving stuffing is the one that's… it's not an actual flavor. So… and kind of a funnier, actually maybe a sad story, I think, when I was trying to come up with this question.
+
+56
+00:08:20.880 --> 00:08:29.439
+John Kingsbury: tried to conjure up a fake flavor, and did this, you know, a couple weeks ago, so it was coming off of the Thanksgiving holiday, so maybe stuffing was on the mind.
+
+57
+00:08:29.500 --> 00:08:35.980
+John Kingsbury: And when I did a quick Google search to see if it was, in fact, a flavor.
+
+58
+00:08:36.010 --> 00:08:55.110
+John Kingsbury: The AI response was something to the effect of, no, this isn't an e-cigarette flavor, but here are all of… if you want to make a do-it-your-own flavor of Thanksgiving stuffing, e-juice, here's how to do it. Here are the spices you need, here's step-by-step how to create this, this, you know.
+
+59
+00:08:55.120 --> 00:09:05.000
+John Kingsbury: do-it-yourself Thanksgiving stuffing e-juice flavor at home. So, found that a little disconcerting, but, I guess that's, you know, one of the many things that the internet
+
+60
+00:09:05.210 --> 00:09:07.789
+John Kingsbury: might be used for. So, anyways…
+
+61
+00:09:08.430 --> 00:09:15.889
+John Kingsbury: There are… so clearly, there are a lot of available e-cigarette e-juice flavors out there.
+
+62
+00:09:17.120 --> 00:09:29.520
+John Kingsbury: And to help counteract some of these, many local and state policies restricting the sale of flavored e-cigarettes have been adopted in recent years to help address gaps in federal regulation.
+
+63
+00:09:30.020 --> 00:09:41.729
+John Kingsbury: As of December 31st, 2024, 412 U.S. jurisdictions had implemented some type of restriction on flavored tobacco sales in an effort to reduce their appeal.
+
+64
+00:09:41.790 --> 00:09:50.460
+John Kingsbury: And to reduce the health risk of e-cigarettes, so nicotine addiction, and potential subsequent use of conventional cigarettes.
+
+65
+00:09:51.650 --> 00:10:03.340
+John Kingsbury: These restrictions typically target either all flavored tobacco products, or focus solely on e-cigarettes, and either comprehensively restrict all flavors, or accept menthol.
+
+66
+00:10:04.190 --> 00:10:13.919
+John Kingsbury: A review of studies through May of 2020 found moderate to high evidence of an association between implementation of a flavored tobacco policy, predominantly at the local level.
+
+67
+00:10:14.310 --> 00:10:23.320
+John Kingsbury: And reduced availability, marketing, sales, and decreased use of flavored tobacco products.
+
+68
+00:10:24.320 --> 00:10:39.049
+John Kingsbury: More recent studies of state-level policies have found that youth and young adults exposed to flavor restrictions have lower odds of any tobacco use and flavored tobacco use, and that state-level flavored e-cigarette restrictions are associated with reduced e-cigarette sales.
+
+69
+00:10:43.860 --> 00:11:01.089
+John Kingsbury: One of the questions that kind of remains in the literature is, are there unintended consequences of flavored e-cigarette policies? So while research to date generally indicates that policies restricting the sale of flavored tobacco products are associated with reduced sales and use of flavored products.
+
+70
+00:11:01.320 --> 00:11:05.320
+John Kingsbury: Some evaluations of these policies have detected unintended consequences.
+
+71
+00:11:05.490 --> 00:11:21.079
+John Kingsbury: For example, evidence from previous studies suggests that in response to flavored tobacco policies, those living in areas affected by the policy may alter their method of purchasing, so they may purchase online or from cities or states that are unaffected by the policy.
+
+72
+00:11:21.720 --> 00:11:27.489
+John Kingsbury: Or they may switch to a combustible product if the flavored e-cigarettes are removed from the market.
+
+73
+00:11:28.490 --> 00:11:40.119
+John Kingsbury: Conversely, a study of adults who reported using e-cigarettes to quit smoking found no association between duration of smoking abstinence and preference for non-tobacco-flavored e-cigarettes.
+
+74
+00:11:40.870 --> 00:11:54.759
+John Kingsbury: Additional research is needed to determine how tobacco use patterns change in response to flavored e-cigarette policies, and if there are potential secondary effects of these policies, such as switching to tobacco products that are unaffected by those policies.
+
+75
+00:11:56.470 --> 00:12:04.209
+John Kingsbury: So, taken together, current evaluations of flavored e-cigarette policies suggest that these policies may reduce e-cigarette use among young people.
+
+76
+00:12:04.360 --> 00:12:08.060
+John Kingsbury: And that e-cigarette sales decrease post-implementation.
+
+77
+00:12:08.730 --> 00:12:26.680
+John Kingsbury: However, past research on flavored tobacco policies have largely utilized cross-sectional designs, and have focused almost exclusively on youth, which limits our understanding of how flavored e-cig policies change tobacco use behavior of adults over time, and from pre- to post-policy implementation.
+
+78
+00:12:27.230 --> 00:12:33.860
+John Kingsbury: And also, How different demographic factors, such as age, might influence responses to these policies.
+
+79
+00:12:34.310 --> 00:12:41.100
+John Kingsbury: The current study aimed to address these limitations using a pre-test, post-test, non-equivalent groups design.
+
+80
+00:12:41.240 --> 00:12:46.890
+John Kingsbury: To assess the impact of flavored e-cigarette policies over time among adults aged 21 plus.
+
+81
+00:12:50.690 --> 00:13:00.139
+John Kingsbury: So, the specific research questions for this study were, what effect do state-level flavored e-cigarette policies have on e-cigarette use among adults?
+
+82
+00:13:00.820 --> 00:13:05.309
+John Kingsbury: Do flavored e-cigarette policies have differential effects for different age groups?
+
+83
+00:13:05.810 --> 00:13:12.189
+John Kingsbury: And, are flavored e-cigarette policies associated with increased use of non-ecigarette products?
+
+84
+00:13:16.250 --> 00:13:26.839
+John Kingsbury: We examined these research questions using data from the PATH study, which is an ongoing, nationally representative longitudinal cohort study of tobacco use and health in the United States.
+
+85
+00:13:27.310 --> 00:13:34.980
+John Kingsbury: It was launched in 2011 to inform FDA's regulatory acts under the Family Smoking and Prevention and Tobacco Control Act.
+
+86
+00:13:35.460 --> 00:13:41.249
+John Kingsbury: There were over 40,000 respondents in the last wave of data collection that has been released, which is Wave 7.
+
+87
+00:13:41.690 --> 00:13:44.749
+John Kingsbury: And we're currently collecting Wave 8.5 data.
+
+88
+00:13:44.950 --> 00:13:52.540
+John Kingsbury: For more information, you can scan the QR code that appears there, and I'll post this QR code at the end of the presentation as well.
+
+89
+00:13:56.510 --> 00:14:01.159
+John Kingsbury: The current study focused on adults who were age 21 plus at wave 5.
+
+90
+00:14:01.500 --> 00:14:11.680
+John Kingsbury: Data collection dates were December 2018 to November 2019 for Wave 5, and January of 2022 to April 2023 for Wave 7.
+
+91
+00:14:11.960 --> 00:14:26.150
+John Kingsbury: Wave 6 data were not included in the current study because we were interested in policy effects on established behaviors versus behaviors that may be a short-term response to the new policy environment, such as consuming stockpiled products that are no longer available.
+
+92
+00:14:28.230 --> 00:14:43.809
+John Kingsbury: Those younger than age 21 at Wave 5 were excluded because the Federal Tobacco 21 policy, which prohibited retailers from selling tobacco to those age 20 and younger, was implemented in December of 2019, after Wave 5 data collection had completed.
+
+93
+00:14:47.110 --> 00:14:57.590
+John Kingsbury: So all analyses were weighted, but the unweighted N was 17,121, after eliminating those who did not participate in Wave 5 and Wave 7.
+
+94
+00:14:57.730 --> 00:15:00.289
+John Kingsbury: We're less than age 21 at wave 5.
+
+95
+00:15:00.420 --> 00:15:04.390
+John Kingsbury: And who did not have complete data for all study variables.
+
+96
+00:15:07.580 --> 00:15:26.900
+John Kingsbury: The primary outcome was Wave 7 e-cigarette use, and we measured it in two ways. A past 30-day use, which was defined as having used at least once in the past 30 days, and established use, which was defined as ever using e-cigarettes fairly regularly, and currently using some days or every day.
+
+97
+00:15:28.350 --> 00:15:35.590
+John Kingsbury: Flavored e-cigarette use was not examined as a separate outcome because all respondents who used e-cigarettes used flavored e-cigarettes.
+
+98
+00:15:36.520 --> 00:15:51.699
+John Kingsbury: Current use of any tobacco product other than e-cigarettes was defined as having reported past 30-day use of at least one of the following products. Cigarettes, little cigars or cigarios, traditional cigars, filtered cigars, smokeless tobacco.
+
+99
+00:15:51.820 --> 00:15:54.070
+John Kingsbury: Pipe, snus, and hookah.
+
+100
+00:15:54.810 --> 00:16:09.620
+John Kingsbury: The primary predictor was living in a state that had implemented a flavored e-cigarette policy between Wave 5, which was the last PATH study data collection, prior to implementation of state-flavored e-cigarette policies, and Wave 7 data collection.
+
+101
+00:16:10.620 --> 00:16:24.349
+John Kingsbury: States were included if they had implemented policies that prohibited the sale of flavored tobacco entirely, or restricted the sale of flavored e-cigarettes to tobacco specialty shops between November of 2019 and June 2020.
+
+102
+00:16:24.860 --> 00:16:28.600
+John Kingsbury: Policies that exempted menthol were included in the current study.
+
+103
+00:16:28.980 --> 00:16:37.599
+John Kingsbury: There were 6 states that met these criteria, and they were Maryland, Massachusetts, New Jersey, New York, Rhode Island, and Utah.
+
+104
+00:16:38.710 --> 00:16:51.549
+John Kingsbury: Covariates were age, sex, race, ethnicity, education, and living in a state with an e-cigarette tax, and living in a state with comprehensive clean indoor air laws prior to Wave 7 data collection.
+
+105
+00:16:51.920 --> 00:16:57.130
+John Kingsbury: And these state policy variables were included as covariates, given their association with tobacco use.
+
+106
+00:17:01.190 --> 00:17:15.210
+John Kingsbury: So we used two-level hierarchical logistic regression models to assess change in odds of e-cigarette use and use of tobacco products other than e-cigarettes in relation to between-person exposure to flavored e-cigarette policies.
+
+107
+00:17:15.640 --> 00:17:32.059
+John Kingsbury: Our primary focus was on how within-person change in use over time, so from pre-policy to post-policy implementation, differed across individuals who experienced flavored e-cigarette policies relative to individuals who did not experience these policies, which is similar to a difference-in-difference approach.
+
+108
+00:17:33.320 --> 00:17:41.309
+John Kingsbury: First, we examined the cross-level interaction for time and policy for those aged 21+, adjusting for the aforementioned covariates.
+
+109
+00:17:41.520 --> 00:17:56.340
+John Kingsbury: And next, because use of flavored e-cigarettes varies by age, these same models were stratified by age group based on developmental stages. So we did it from 21 to 24, 25 to 29, 30 to 39, and those age 40 plus was the last stage group.
+
+110
+00:17:57.350 --> 00:18:14.230
+John Kingsbury: In addition to tests for evidence of switching from e-cigarette use to use of tobacco products not affected by the policy, we examined whether the association between the time by policy interaction and e-cigarette use depended on changes in tobacco use other than e-cigarette status.
+
+111
+00:18:14.650 --> 00:18:19.919
+John Kingsbury: From Wave 5 to Wave 7, and wave 5 tobacco use, other than e-cigarettes.
+
+112
+00:18:20.980 --> 00:18:23.700
+John Kingsbury: All analyses were conducted using Stata.
+
+113
+00:18:23.860 --> 00:18:31.769
+John Kingsbury: And all analyses used BRR replication methods, and the weights accounted for attrition and ensured representativeness.
+
+114
+00:18:33.300 --> 00:18:40.440
+John Kingsbury: So, I'll get into some of the results next, but wanted to take a quick pause to see if there are any questions.
+
+115
+00:18:42.490 --> 00:18:52.259
+Michael Darden: Thanks. Thanks, John. We're going to turn it over to our discussant, who is Dr. Daniel Dench, an assistant professor from the School of Economics at Georgia Tech.
+
+116
+00:18:52.550 --> 00:19:03.080
+Michael Darden: He's worked in tobacco research since his time at RTI, in 2011, just following his undergraduate degree at Temple University. So, Dr. Dench.
+
+117
+00:19:04.920 --> 00:19:20.780
+Daniel Dench: Folks, great to be here, thanks for the invite to TOPS. And, I just want to say, I want to preface that I'm coming from an economist perspective, so maybe my questions about methodology will,
+
+118
+00:19:20.960 --> 00:19:38.029
+Daniel Dench: I think I'm just trying to make the translation from the public health standpoint that you're coming from to, like, the language that we use in economics. And I thought that it was helpful to compare it to a difference-in-difference model. But before I, like, get into more of the methodology details.
+
+119
+00:19:38.110 --> 00:19:41.019
+Daniel Dench: I do want to ask the question,
+
+120
+00:19:41.230 --> 00:19:56.770
+Daniel Dench: like, I guess, for people who aren't aware of the flavored policy space, they might, have heard that there was a national flavored policy, but we know people who have worked in the flavor space
+
+121
+00:19:56.980 --> 00:20:13.580
+Daniel Dench: understand the distinction. I was just wondering, from your perspective, if you could give more, insight into what the difference is between these state policies, state-flavored tobacco policies are, and the national-level policies. I think it would be helpful for the audience.
+
+122
+00:20:14.790 --> 00:20:33.389
+John Kingsbury: So, if I'm kind of tracking your question, at the national level, as of now, the restrictions are on flavored cigarettes, so you're not able to purchase, you know, a grape-flavored cigarette, for example, a conventional cigarette.
+
+123
+00:20:33.390 --> 00:20:37.160
+John Kingsbury: But there… but…
+
+124
+00:20:37.250 --> 00:20:49.559
+John Kingsbury: So that's kind of at the national level. Some states have the ability to take things a step further and apply, you know, those flavor restrictions to other tobacco products.
+
+125
+00:20:49.560 --> 00:21:02.509
+John Kingsbury: With e-cigarettes kind of being the most, most common, and obviously what we're talking about here. So, you know, it was those, 6 states that implemented, flavor restrictions, so basically.
+
+126
+00:21:02.530 --> 00:21:14.559
+John Kingsbury: You know, folks who live in those states are not able to purchase, e-cigarettes that are flavored anything other than tobacco-flavored, which is…
+
+127
+00:21:14.690 --> 00:21:30.700
+John Kingsbury: technically not counted as a flavor, per se. So, yeah, the fruit flavors, the dessert flavors, if you're in one of those six states, you're not able to go to the convenience store or a tobacco specialty shop and purchase those sorts of products.
+
+128
+00:21:30.700 --> 00:21:39.140
+John Kingsbury: And, as I'm catching myself, so there are actually some… I forget which ones, I think one or two of those states do actually
+
+129
+00:21:39.140 --> 00:21:49.529
+John Kingsbury: prohibit the sale of those products in the convenience store, a gas station, places like that, but you can actually purchase them if you go to the tobacco specialty shop. So.
+
+130
+00:21:49.530 --> 00:21:59.210
+John Kingsbury: You know, you need to be, I believe, 21 plus to enter those, establishments. anyways, so it's kind of a…
+
+131
+00:22:00.200 --> 00:22:07.090
+John Kingsbury: basically trying to keep them out of kids' hands, you know, is kind of the ultimate goal. So, yeah, does that help?
+
+132
+00:22:07.490 --> 00:22:21.159
+Daniel Dench: No, definitely, and I think, my confusion, I guess, was coming in because, I think, like, during the last Trump administration, like, towards the end in 2020, they did try to at least ban
+
+133
+00:22:21.160 --> 00:22:32.349
+Daniel Dench: flavored, e-cigarettes, except for menthol. And maybe… I think the distinction is that, like, there's no enforcement mechanism coming from the FDA's policy.
+
+134
+00:22:32.820 --> 00:22:50.500
+Daniel Dench: on bans, whereas in the States, my understanding, at least from, when I looked at this, was that it's much more… they have much more stringent requirements for their sales and actual enforcement mechanisms. Is that your understanding as well, John, or…
+
+135
+00:22:51.350 --> 00:23:09.080
+John Kingsbury: Yeah, yeah, I think it's… in terms of… in practice, yeah, it's… it's not really different unless the states, states take that extra step, you know, to, to implement their own policy. So, right, yeah, regardless of there being a federal.
+
+136
+00:23:09.080 --> 00:23:20.259
+Daniel Dench: Laura Bach is saying that the Trump policy only applied to cartridge-based, e-liquids and not to all bands, so I think that's the distinction I'm… yeah.
+
+137
+00:23:20.260 --> 00:23:20.620
+John Kingsbury: Gotcha.
+
+138
+00:23:20.620 --> 00:23:21.380
+Daniel Dench: Okay.
+
+139
+00:23:23.990 --> 00:23:42.249
+Daniel Dench: And so, moving on to the, the, more specifics about the model, so use a hierarchical model. It's not that common in the applied economics literature to use a hierarchical model, but you did compare it to a difference-in-difference model.
+
+140
+00:23:42.250 --> 00:23:44.880
+Daniel Dench: So I did want to, like, ask you, sort of, like.
+
+141
+00:23:45.200 --> 00:24:02.520
+Daniel Dench: In the economics literature, we understand the standard assumption behind the diff and diff model to be that the treatment group would have continued trending like the control group, if not for the treatment group, and that's, like, out what we can say, like, what our estimates
+
+142
+00:24:02.640 --> 00:24:13.769
+Daniel Dench: we take them to be as causal. Is there a similar underlying assumption in your model, or is it… is there a different assumption, I guess is my question.
+
+143
+00:24:14.410 --> 00:24:29.030
+John Kingsbury: No, I think that's… it's the, kind of, the same sort of assumption. It's, you know, I kind of talk about it in… in… in the sense of, like a natural experiment, you know, where there's all these people who are kind of…
+
+144
+00:24:29.140 --> 00:24:33.609
+John Kingsbury: Similarly not exposed, and then a…
+
+145
+00:24:33.810 --> 00:24:44.529
+John Kingsbury: Subset of that, you know, total population is exposed to this intervention with, you know, in this case being the flavored e-cigarette policies at some states, in some states.
+
+146
+00:24:44.530 --> 00:24:55.620
+John Kingsbury: Whereas all the others are not exposed, so kind of that's our intervention point, where they're kind of going down one path or the other in terms of their exposure, and then measure the outcomes after.
+
+147
+00:24:55.800 --> 00:24:58.529
+John Kingsbury: You know, after that intervention.
+
+148
+00:24:59.290 --> 00:25:19.170
+Daniel Dench: And, just because, like, I, you know, I'm sort of interested in understanding more about these models, what is the key, like, advantage over using something like, like OS or, you know, simple time-in-person fixed effects that we would use in a difference-in-difference model in the same context?
+
+149
+00:25:20.210 --> 00:25:39.819
+John Kingsbury: Yeah, so I, full disclosure, my, statistician is not here, so I didn't run these models myself, so, might be a slightly more rudimentary understanding of it. But basically, it's, you know, kind of able to measure at two different levels, so…
+
+150
+00:25:39.820 --> 00:25:44.610
+John Kingsbury: You have folks who, you know, are experiencing these things.
+
+151
+00:25:44.610 --> 00:25:54.660
+John Kingsbury: the intervention at a different… they're either exposed to that intervention or not, but then those individuals are kind of nested within states, so there may be things at the state level
+
+152
+00:25:54.720 --> 00:26:03.289
+John Kingsbury: That differ, you know, across those groups, and you want to be able to account for those differences.
+
+153
+00:26:03.860 --> 00:26:08.340
+John Kingsbury: Across state, so it's kind of both tapping into things
+
+154
+00:26:08.660 --> 00:26:19.729
+John Kingsbury: both within the state level, and then also kind of the between-state level. So kind of the mixed, you know, that's one of the… more of the advantages of the mixed model, I guess.
+
+155
+00:26:20.820 --> 00:26:30.330
+Daniel Dench: Okay. Well, I'm eager to… to see the results. I'm sure everyone else is, so those are my… my questions, for… for now.
+
+156
+00:26:32.200 --> 00:26:49.049
+Michael Darden: Just before you get started, again, I just want to make a reminder to everyone to please put questions in the Q&A box and not the chat. We do have a couple good questions, though, in the Q&A, and so let me just ask you.
+
+157
+00:26:49.490 --> 00:27:04.580
+Michael Darden: when you think about the weighting that you use, you know, so the PATH study is nationally representative, but not state representative. So how do you… how do you address the fact that the sample within a state is not representative of the state?
+
+158
+00:27:06.170 --> 00:27:14.669
+John Kingsbury: So, yeah, so with the… it's a good question. So with the PATH data, right, it is nationally representative.
+
+159
+00:27:14.770 --> 00:27:26.880
+John Kingsbury: we are not able to look at… what we couldn't do here is, you know, if there… for example, like, Massachusetts is one state that prohibited sale of all flavored products.
+
+160
+00:27:26.880 --> 00:27:37.130
+John Kingsbury: all flavor tobacco products entirely, so e-cigarettes, hookah, everything, so not only e-cigarettes. We could not isolate Massachusetts and
+
+161
+00:27:37.310 --> 00:27:53.290
+John Kingsbury: compare Massachusetts to all of the other states because we don't have representative data for Massachusetts. But if we're grouping states that have something in common together, then that's…
+
+162
+00:27:53.450 --> 00:28:03.889
+John Kingsbury: you know, allows us to make those comparisons, where it's, like, some characteristics of these group of states together compared to everyone else. So,
+
+163
+00:28:04.020 --> 00:28:14.449
+John Kingsbury: So, right, so because it is representative at the national level, if we take kind of a sample of states that have something in common and make those comparisons, that's…
+
+164
+00:28:14.560 --> 00:28:15.730
+John Kingsbury: more acceptable.
+
+165
+00:28:16.500 --> 00:28:22.790
+Michael Darden: Do you adjust for the Wave 5 differences in the treated states versus the untreated states?
+
+166
+00:28:23.730 --> 00:28:26.309
+John Kingsbury: Yeah, the…
+
+167
+00:28:26.760 --> 00:28:44.110
+John Kingsbury: Yeah, there are… the covariates, would… would help account for those things. So, like, there's those couple extra… not extra, there's those couple state-level policies, the comprehensive clean indoor air, and then e-cigarette taxes. So those are all, controlled for.
+
+168
+00:28:45.530 --> 00:29:00.289
+Michael Darden: Can you, can you just… so one last question before we move on. Can you just help us a little bit with the literature? So, can you maybe place your… your findings in the larger literature on, on flavor bans, which… which there, there have been a lot of?
+
+169
+00:29:01.590 --> 00:29:02.409
+Michael Darden: A lot of papers.
+
+170
+00:29:03.390 --> 00:29:11.369
+John Kingsbury: Yeah, yeah, I think a lot of the existing literature has utilized cross-sectional studies.
+
+171
+00:29:11.810 --> 00:29:23.290
+John Kingsbury: I think in general, they're, in… in alignment, or in… in… I guess I haven't gotten to my results yet, but, the suggestive of, that…
+
+172
+00:29:23.440 --> 00:29:38.520
+John Kingsbury: that these policies do have kind of the predicted effect, that they're leading to less use, certainly among youth and young adults. And, so I think there's… there's general support for these policies. I think…
+
+173
+00:29:38.600 --> 00:29:48.250
+John Kingsbury: where, this… this study kind of takes things a step further. It focuses a little bit more heavily on, adults, so,
+
+174
+00:29:48.660 --> 00:29:59.549
+John Kingsbury: I think, you know, a lot of the impetus for implementing these policies is to help reduce youth use, or youth access to these products.
+
+175
+00:29:59.660 --> 00:30:06.310
+John Kingsbury: there's less of a focus on what's going on with adults, so that's kind of the gap, I guess, that we're hoping to fill.
+
+176
+00:30:07.350 --> 00:30:09.990
+Michael Darden: Great, so let's get to the results then. Thanks a lot.
+
+177
+00:30:10.360 --> 00:30:10.910
+John Kingsbury: Yep.
+
+178
+00:30:11.600 --> 00:30:23.100
+John Kingsbury: Alright, so… First, we'll start with some selected sample characteristics. So, at wave 5, the mean age was 48.4.
+
+179
+00:30:23.540 --> 00:30:31.530
+John Kingsbury: In terms of those exposed to a comprehensive clean indoor air policy in their state, 57.6%.
+
+180
+00:30:31.630 --> 00:30:38.600
+John Kingsbury: Just under half, lived in a state with an e-cigarette tax of 49.5%.
+
+181
+00:30:39.140 --> 00:30:43.680
+John Kingsbury: In terms of flavored e-cigarette policy exposure at the state level, 11.6%.
+
+182
+00:30:44.430 --> 00:30:51.180
+John Kingsbury: Past 30-day e-cigarette use at wave 5 was 8% and 7.1% at wave 7.
+
+183
+00:30:51.310 --> 00:30:57.380
+John Kingsbury: Established e-cigarette use was 4.3% at Wave 5 and 4.7% at Wave 7.
+
+184
+00:30:57.780 --> 00:31:06.880
+John Kingsbury: In the past 30 days, tobacco use other than e-cigarettes was 24.6% at wave 5, and down to 20.7% at wave 7.
+
+185
+00:31:11.790 --> 00:31:15.280
+John Kingsbury: So first, for past 30-day e-cigarettes.
+
+186
+00:31:15.960 --> 00:31:30.389
+John Kingsbury: E-cigarette use models stratified by age group revealed a significant time by flavored e-cigarette policy interaction, predicting past 30-day e-cigarette use for those aged 21 to 24, with an adjusted odds ratio of .59.
+
+187
+00:31:30.700 --> 00:31:39.540
+John Kingsbury: Indicating a significant decrease among those aged 21 to 24 in past 30 e-cigarette use from Wave 5 to Wave 7. So basically, that
+
+188
+00:31:39.740 --> 00:31:49.139
+John Kingsbury: You know, kind of, we see the interaction in that age group, but then the interactions for all the other age groups were non-significant.
+
+189
+00:31:52.430 --> 00:32:08.899
+John Kingsbury: The figure here demonstrates this, kind of visually, the interaction that we saw. So, we see the significant decrease from wave 5 to wave 7 in past 30-day e-cigarette use, so demonstrated by that blue bar, and that's for those who were exposed to the flavored e-cigarette policy.
+
+190
+00:32:08.940 --> 00:32:19.439
+John Kingsbury: Whereas the orange bar, you know, showing a little bit of a flatter relationship from wave 5 to wave 7 past 30-day e-cigarette use among those aged 21 to 24.
+
+191
+00:32:24.310 --> 00:32:26.850
+John Kingsbury: Next, for established e-cigarette use.
+
+192
+00:32:27.010 --> 00:32:38.480
+John Kingsbury: The models stratified by age reveal the time by policy interaction predicting established use for those aged 25 to 29, with an adjusted odds ratio of 0.32.
+
+193
+00:32:38.700 --> 00:32:49.799
+John Kingsbury: Indicating a significant decrease in odds of established e-cigarette use from Wave 5 to Wave 7 for those who were 25 to 29 and lived in a state that implemented an e-cigarette policy.
+
+194
+00:32:50.630 --> 00:32:55.830
+John Kingsbury: And again, interactions for the other age groups were non-significant here.
+
+195
+00:32:58.900 --> 00:33:06.359
+John Kingsbury: And the visual depiction of this interaction, so the blue bar here, those of who were exposed to flavored e-cigarette policy.
+
+196
+00:33:06.480 --> 00:33:18.630
+John Kingsbury: We see a reduction from wave 5 to wave 7 in established e-cigarette use, whereas for those who were not exposed to the policy actually appear to increase from wave 5 to Wave 7.
+
+197
+00:33:23.680 --> 00:33:38.239
+John Kingsbury: Our analysis examining the effects of flavored e-cigarette policies on tobacco use other than e-cigarettes over time revealed significant effects of time. So a main effect there, indicating less non-ecigarette use in Wave 7 compared to Wave 5.
+
+198
+00:33:39.020 --> 00:33:51.850
+John Kingsbury: However, there was no significant time-by-policy interaction overall or for any age subgroup, indicating that implementation of flavored e-cigarette policies is not associated with an increase in tobacco use other than e-cigarettes.
+
+199
+00:33:53.520 --> 00:33:59.959
+John Kingsbury: So I can do a quick pause and see if there are any additional questions.
+
+200
+00:34:03.350 --> 00:34:07.239
+Michael Darden: Dr. Dench, would you like to make any comments about these results?
+
+201
+00:34:07.240 --> 00:34:09.930
+Daniel Dench: Yeah, so, first,
+
+202
+00:34:10.219 --> 00:34:23.030
+Daniel Dench: I, you know, these are really interesting results. The first question I have about them is, if we take these at face value, and I want to make sure I understand the results correctly.
+
+203
+00:34:23.030 --> 00:34:33.680
+Daniel Dench: Does it imply that, that sort of e-cigarettes are not a gateway to cigarettes? In other words, if you have a lot of people who are quitting e-cigarettes.
+
+204
+00:34:34.000 --> 00:34:44.250
+Daniel Dench: Does it imply that then… and you don't have a lot of people, taking up cigarettes, does that imply that e-cigarette users who quit
+
+205
+00:34:44.320 --> 00:34:59.999
+Daniel Dench: Would not then transfer over to tobacco use, or are you thinking about it more along the lines of, these e-cigarette policies don't cause people to become addicted to back… to, cigarettes to begin with?
+
+206
+00:35:00.070 --> 00:35:10.370
+Daniel Dench: And I just wanted to see if you, you, have looked into that… the distinction between those two possibilities and what's generating the results that you find.
+
+207
+00:35:11.280 --> 00:35:21.540
+John Kingsbury: Yeah, I think it's important to remember the context of the age group that we're measuring, so a lot of,
+
+208
+00:35:22.320 --> 00:35:36.739
+John Kingsbury: A lot of individuals who are using e-cigarettes, or who are addicted to e-cigarettes, will have started before, you know, prior… they're younger than our age sample here, or the population that we're looking at.
+
+209
+00:35:36.740 --> 00:35:45.720
+John Kingsbury: So I think there is, there is some evidence that e-cigarette use, kind of.
+
+210
+00:35:46.000 --> 00:35:58.819
+John Kingsbury: predicts, subsequent conventional tobacco or conventional cigarette use, but it's typically among younger populations. So here, it's… we were interested in, you know, kind of…
+
+211
+00:35:58.920 --> 00:36:10.940
+John Kingsbury: Acknowledging that that history is in place, now we're kind of looking, okay, at this older age group, you know, 21 plus, you know, is there… are these policies associated with
+
+212
+00:36:11.080 --> 00:36:14.949
+John Kingsbury: You know, less use, so we can't really…
+
+213
+00:36:15.330 --> 00:36:19.630
+John Kingsbury: You know, it's… it wasn't exactly initiation, but kind of, like, is there less…
+
+214
+00:36:19.720 --> 00:36:38.789
+John Kingsbury: less use… less recent use of it. And then, yeah, the established use measure, we're able to kind of say, okay, is it, you know, for folks who are… have used at least some point fairly regularly in their lifetime, is there any change in… in use of these products? So, I think…
+
+215
+00:36:39.420 --> 00:36:41.350
+John Kingsbury: yeah, I guess just kind of…
+
+216
+00:36:41.470 --> 00:36:45.809
+John Kingsbury: Keeping in contexts that a lot of…
+
+217
+00:36:46.150 --> 00:37:02.910
+John Kingsbury: use or initiation of these products probably already happened, so we're not really picking up on that as much. It's kind of, okay, once that, you know, once we get to this older age group, what effect are these policies having on kind of early use and then established use of the products?
+
+218
+00:37:03.680 --> 00:37:22.220
+Daniel Dench: Yeah, I was just wondering maybe if, like, given that PATH is a longitudinal survey, the richest information you get is actually, like, the changes in the patterns of use across waves. And so, I was wondering if you thought about taking, for example.
+
+219
+00:37:22.370 --> 00:37:37.869
+Daniel Dench: people who are e-cigarette users in wave 5 and limiting the analysis to e-cig users in wave 5. Or conversely, if you thought about limiting the sample to non-ecig users in Wave 5 and looking at the results.
+
+220
+00:37:37.920 --> 00:37:50.480
+Daniel Dench: for those people across ways. I do agree with you that the people who are in this age group, 21 to 24, probably have likely already initiated before 18, which makes the results
+
+221
+00:37:50.620 --> 00:38:02.920
+Daniel Dench: Even more interesting to me, because it implies that, for example, there, if they… if most of the results are coming from people who are already initiated into e-cig use.
+
+222
+00:38:03.150 --> 00:38:16.200
+Daniel Dench: and they don't then start using cigarettes, it sort of implies that the narrative around e-cig use as a gateway to cigarettes that we've heard a number of times in the public health literature doesn't
+
+223
+00:38:16.350 --> 00:38:20.040
+Daniel Dench: hold as much, and I think you can get closer to the… that…
+
+224
+00:38:20.430 --> 00:38:32.849
+Daniel Dench: question by limiting the Wave 5 use. Yeah, I guess that's more of a comment than a question, but I'd be interested to hear your thoughts about maybe pursuing that direction here.
+
+225
+00:38:33.810 --> 00:38:40.369
+John Kingsbury: Yeah, yeah, no, I think it is an interesting point, and I think a lot of the work that,
+
+226
+00:38:40.560 --> 00:38:53.469
+John Kingsbury: that did show that, there was sort of a, you know, that showed… or supported e-cigarettes as sort of a gateway to conventional, cigarette use, was…
+
+227
+00:38:53.820 --> 00:39:07.390
+John Kingsbury: done many years ago, kind of in the early days of e-cigarettes, when they weren't really delivering as much of a, you know, a nicotine hit, I guess. So they weren't as efficient or as effective, so, you know.
+
+228
+00:39:07.740 --> 00:39:15.370
+John Kingsbury: People weren't going to be going from conventional cigarettes to e-cigarettes and being satisfied from a nicotine standpoint.
+
+229
+00:39:15.400 --> 00:39:30.530
+John Kingsbury: But as the devices evolved, you know, the e-cigarettes got to be better at that specific aspect, so I think, there's a little bit less of, the relationship, I think, is less strong there.
+
+230
+00:39:30.530 --> 00:39:44.009
+John Kingsbury: So, so I think, yeah, I think it's an interesting point. I would have to go back and double-check our analyses, to your point about, you know, focusing on just those who are reporting use versus not.
+
+231
+00:39:44.580 --> 00:39:53.429
+John Kingsbury: I would have to go back and double-check and talk with my statistician, but I think we did run those, those analyses, and I think we…
+
+232
+00:39:53.600 --> 00:39:59.769
+John Kingsbury: you know, basically the… opted to go with kind of this more full picture, including everyone.
+
+233
+00:40:00.000 --> 00:40:04.460
+John Kingsbury: But anyways, I agree, I think it's a good point, something to consider.
+
+234
+00:40:05.420 --> 00:40:11.240
+Daniel Dench: The other major question I have after seeing the results is, you know, like.
+
+235
+00:40:11.320 --> 00:40:19.439
+Daniel Dench: I think the path does provide, some information, actually, about, like, the flavors that e-cig users are using.
+
+236
+00:40:19.500 --> 00:40:31.949
+Daniel Dench: And so, I thought it might be interesting to, like, sort of bring out some of the mechanisms that are happening here. Like, in particular, Wave 5 users that are using these flavors
+
+237
+00:40:32.070 --> 00:40:47.849
+Daniel Dench: like, how many of them are dropping out versus finding an alternative path to using these flavors, right? And so, you can sort of think about, like, three states where, you know, they switched to e-cigarette flavors that aren't
+
+238
+00:40:47.950 --> 00:41:04.759
+Daniel Dench: are not banned. They could continue using the banned flavors, or they could stop using e-cigarettes altogether. I was wondering if you guys thought about, using that information on flavors that's in the path at all, and why you maybe ruled it out for this analysis.
+
+239
+00:41:05.860 --> 00:41:08.600
+John Kingsbury: Yeah, I think a part of it is a…
+
+240
+00:41:09.090 --> 00:41:26.180
+John Kingsbury: Getting down to, you know, sample sizes, especially given, you know, if we're only talking about 6 states, it's… and then, you know, a behavior that's only being done by, you know, some small percentage, a relatively small percentage of the population, and then…
+
+241
+00:41:26.180 --> 00:41:29.890
+John Kingsbury: Dividing further, you know, getting at, which flavors
+
+242
+00:41:29.890 --> 00:41:41.089
+John Kingsbury: you know, kind of… so I think… I think that's part of it, you know, we love PATH, just because, generally speaking, you are starting with a pretty… pretty big N, but it does get a lot…
+
+243
+00:41:41.180 --> 00:41:53.569
+John Kingsbury: get small pretty quick, I guess. We're talking about, you know, kind of only 11% of the population was exposed, and then, you know, kind of cutting it up a couple more steps from there. So,
+
+244
+00:41:53.880 --> 00:41:57.869
+John Kingsbury: And I think even there, you know, related to that,
+
+245
+00:41:58.220 --> 00:42:11.439
+John Kingsbury: looking at other demographic characteristics, too, was something of interest, but, again, we kind of just ran into roadblocks of small sample sizes, so, prohibited some of those interesting questions that we, you know, I think would
+
+246
+00:42:11.930 --> 00:42:15.680
+John Kingsbury: I thought were valuable, but we're unable to answer with this.
+
+247
+00:42:15.680 --> 00:42:17.949
+Daniel Dench: I'm always sympathetic to power concerns.
+
+248
+00:42:18.420 --> 00:42:19.590
+John Kingsbury: Sure, sure.
+
+249
+00:42:21.170 --> 00:42:22.569
+Daniel Dench: That's my last question.
+
+250
+00:42:23.620 --> 00:42:37.550
+Michael Darden: Thanks, thanks, Dan. Yeah, so your co-author, Heather, is doing some heroic work in the chat. I just wanted to summarize a couple high-level comments that have come through, or questions, comments that have come through.
+
+251
+00:42:37.550 --> 00:42:46.099
+Michael Darden: There seems to be really strong demand to break, other tobacco use into combustible versus non-combustible.
+
+252
+00:42:46.230 --> 00:43:05.210
+Michael Darden: And try to understand those substitutions patterns a little bit more. You know, Dan talked about it in his comments about, you know, this kind of gateway effect, and there being a lot of concern about that. It seems like your results are pushing another direction, so there's an opportunity here.
+
+253
+00:43:05.380 --> 00:43:21.930
+Michael Darden: And the second common question that really emerged from the discussion in the chat was just that, you know, the big advantage of PATH is the longitudinal nature of it, and so the ability to see e-cigarette users in Wave 5, or even previously to Wave 5,
+
+254
+00:43:21.960 --> 00:43:32.300
+Michael Darden: is really powerful. One comment actually suggested that you look at dual users of combustible and e-cigarettes in 5.
+
+255
+00:43:32.310 --> 00:43:45.659
+Michael Darden: And look at substitution patterns and the effects for that subpopulation, because dual use is a particular policy concern. I guess those are both comments, but that's kind of what the discussion has been in the chat.
+
+256
+00:43:46.130 --> 00:43:51.219
+Michael Darden: And so, yeah, I'll let you comment on that, or go back to your presentation.
+
+257
+00:43:52.250 --> 00:44:07.290
+John Kingsbury: Yeah, I think the idea of looking at those who report dual use is an interesting one, because, yeah, certainly it's a, you know, a fairly common phenomenon, and then, you know, there's these policies that come into play that
+
+258
+00:44:07.670 --> 00:44:23.890
+John Kingsbury: that affect only one of those, you know, substances that they're using, but not directly the other ones, so, right, like, where do they go from there? Yeah, I know we did not look at that, but I do think that that would be an interesting and potential, you know, kind of next step that…
+
+259
+00:44:24.110 --> 00:44:25.830
+John Kingsbury: That this is where it could take.
+
+260
+00:44:27.950 --> 00:44:31.859
+John Kingsbury: Okay, so, let me…
+
+261
+00:44:32.560 --> 00:44:36.270
+John Kingsbury: Move on to, kind of, the discussion and key takeaways.
+
+262
+00:44:36.390 --> 00:44:49.659
+John Kingsbury: So the results here indicate that flavored e-cigarette policies were associated with less past 30-day e-cigarette use among those aged 21 to 24, and less established use among those aged 25 to 29.
+
+263
+00:44:49.920 --> 00:45:01.369
+John Kingsbury: And this work suggests that flavored e-cigarette policies may play an important role in stopping young people from initiating e-cigarette use, and in stopping older young adults from progressing to more established use.
+
+264
+00:45:01.610 --> 00:45:07.569
+John Kingsbury: And flavored e-cigarette policies did not appear to impact the e-cigarette use of older adults, so those aged 30 and up.
+
+265
+00:45:08.670 --> 00:45:16.159
+John Kingsbury: This may be because older adults are more apt to use tobacco-flavored e-cigarettes, products that are unaffected by flavored e-cigarette policies.
+
+266
+00:45:16.280 --> 00:45:20.609
+John Kingsbury: As they may be using these products in an attempt to quit combustible cigarettes.
+
+267
+00:45:20.860 --> 00:45:31.970
+John Kingsbury: Conversely, young adults have stronger preferences for candy and fruit-flavored e-cigarettes, so it is possible that the policies prohibiting these flavors were sufficient to discourage e-cigarette initiation.
+
+268
+00:45:33.040 --> 00:45:40.979
+John Kingsbury: There was no evidence of a corresponding increase in use of other tobacco products for those exposed to flavored e-cig policies for any age group.
+
+269
+00:45:41.270 --> 00:45:50.070
+John Kingsbury: Suggesting that these policies did not encourage people to initiate use of tobacco products that were unaffected by the policy, or to switch to other products.
+
+270
+00:45:53.670 --> 00:45:58.699
+John Kingsbury: The study findings have implications for public policy and tobacco regulation.
+
+271
+00:45:58.920 --> 00:46:03.729
+John Kingsbury: But flavored e-cigarette policies have different effects for adults, depending on age subgroup.
+
+272
+00:46:03.850 --> 00:46:12.819
+John Kingsbury: They highlight the need for additional strategies to support older adults who use e-cigarettes to reduce use or to quit tobacco completely.
+
+273
+00:46:13.240 --> 00:46:22.160
+John Kingsbury: Local flavored e-cigarette policies have been associated with some secondary effects, such as increased sales for tobacco products in neighboring jurisdictions.
+
+274
+00:46:22.510 --> 00:46:32.919
+John Kingsbury: or tobacco industry pivot to similar but legal product names. So things with a concept name, such as Island Breeze or Yummy Bear.
+
+275
+00:46:33.280 --> 00:46:46.530
+John Kingsbury: We found no evidence of a corresponding increase in use of other tobacco products for those exposed to flavored e-cigarette policies for any age group, and while it's possible that individuals initially responded to the policy by trying other products.
+
+276
+00:46:46.800 --> 00:46:59.309
+John Kingsbury: Outcomes from this study were measured one and a half to three and a half years post-policy implementation, suggesting that any short-term switching of tobacco products had stopped by the time the study outcomes were measured.
+
+277
+00:47:00.350 --> 00:47:06.549
+John Kingsbury: The current study highlights age as an important demographic to consider when implementing flavored e-cigarette policies.
+
+278
+00:47:06.680 --> 00:47:15.050
+John Kingsbury: But additional research is needed to evaluate the equity implications for other demographic characteristics, such as race, ethnicity, and income.
+
+279
+00:47:16.250 --> 00:47:27.210
+John Kingsbury: E-cigarette use in general is more common among adults with lower income, so it's possible that these policies would help reduce that disparity, but additional research is needed to test this hypothesis.
+
+280
+00:47:31.000 --> 00:47:43.969
+John Kingsbury: So, I would like to thank my co-authors, which are on the left-hand side here, also Westat, who helps support administration of the PAST study, and my other NIDA colleagues.
+
+281
+00:47:46.110 --> 00:47:47.930
+John Kingsbury: And here's that QR code again.
+
+282
+00:47:49.680 --> 00:47:54.629
+Michael Darden: Thanks so much, John. one quick question from the chat.
+
+283
+00:47:54.750 --> 00:47:59.050
+Michael Darden: just thinking about this DIY use, which I had not considered before.
+
+284
+00:47:59.050 --> 00:48:14.909
+Michael Darden: But it seems like it, you know, at least with AI, that's something that is possible. Is there any evidence that… do you have any evidence on DIY use to begin with? And thinking about how DIY use might be one of these,
+
+285
+00:48:14.910 --> 00:48:22.699
+Michael Darden: kind of unintended consequences of these restrictions, and does… is there any evidence on DIY use by age?
+
+286
+00:48:24.460 --> 00:48:44.109
+John Kingsbury: Yeah, that's a good question. He's right, it's, you know, I think there's probably a lot of different, ways in which people could respond to these policies, and yeah, creating your own, especially if the internet is gonna tell you exactly how to make it. You know, I think that's, that's something that, that very well people might be doing.
+
+287
+00:48:44.110 --> 00:48:50.370
+John Kingsbury: We do collect data on how did you… how do you get the products that you're using.
+
+288
+00:48:50.400 --> 00:49:04.020
+John Kingsbury: For e-cigarettes, I would have to go back and look. I mean, I know there's kind of the… the response options that you'd expect, you know, social sources, from a store, from, you know, from a friend, I… you know.
+
+289
+00:49:04.020 --> 00:49:11.229
+John Kingsbury: yeah, bought it, or, you know, took it, like, I think we captured… did they take it from somewhere?
+
+290
+00:49:11.250 --> 00:49:19.419
+John Kingsbury: I'd have to double-check if there is kind of a create-your-own, a do-it-yourself sort of option there.
+
+291
+00:49:19.740 --> 00:49:32.069
+John Kingsbury: you know, for conventional tobacco products, we do capture, you know, roll your own use, but, I don't know to what depth we capture, you know, kind of that for e-cigarette use.
+
+292
+00:49:32.070 --> 00:49:41.029
+John Kingsbury: What that does make me think of a little bit is, the Ivali outbreak. You know, a few years ago is where, you know, it's kind of a…
+
+293
+00:49:41.520 --> 00:50:00.759
+John Kingsbury: in, in someone's basement, you know, selling all of these, you know, kind of these, these cartridges, and, and, and, you know, with, was it vitamin E acetate, I think, was kind of the, the substance that was causing all these issues, for folks. So I think…
+
+294
+00:50:00.940 --> 00:50:17.419
+John Kingsbury: Yeah, I mean, I think it is something that people are doing, and I wouldn't be surprised if that is one way in which they responded to… some people responded to the policy. I'm not sure if we'd be picking up on it so much in Wave 7, you know, they would have to…
+
+295
+00:50:17.650 --> 00:50:18.930
+John Kingsbury: Given that it's…
+
+296
+00:50:19.870 --> 00:50:30.040
+John Kingsbury: as we mentioned in kind of that… one of those last couple slides, we collected the outcomes at one and a half to three and a half years after the policy went into effect, so…
+
+297
+00:50:30.380 --> 00:50:35.620
+John Kingsbury: They would have had to, kind of, establish their, kind of, do-it-yourself… You know, kind of…
+
+298
+00:50:36.420 --> 00:50:47.120
+John Kingsbury: method of grading it, you know, and been doing it for multiple years, basically, for us to pick up on that, so… But yeah, I think that is, you know, probably something that some people did.
+
+299
+00:50:48.200 --> 00:50:59.190
+Michael Darden: One question that popped up, generally thinking about the opposite of what you're studying, which is substitution from combustible to e-cigarettes.
+
+300
+00:50:59.390 --> 00:51:07.410
+Michael Darden: And so, you know, that's something I guess you could look at with the PATH study to see if those who were smoking cigarettes in Wave 5
+
+301
+00:51:07.510 --> 00:51:11.660
+Michael Darden: were less likely to substitute towards e-cigarettes in Wave 7.
+
+302
+00:51:11.810 --> 00:51:27.459
+Michael Darden: To the extent that they prefer flavored, e-cigarettes in that process. Someone suggests that former combustible smokers actually prefer to substitute towards flavored e-cigarettes. Just get your thought on that.
+
+303
+00:51:28.580 --> 00:51:41.359
+John Kingsbury: Yeah, that is, an interesting thought. So the, the idea would be that there would be less cigarette cessation in states that… yeah.
+
+304
+00:51:42.480 --> 00:51:59.419
+John Kingsbury: I don't think we looked at that specifically, but yeah, it's certainly worth… worth testing and would be, yeah, an important research question, because, you know, certainly in terms of thinking of things from the, you know, protection of public health standard, you know, we would want to…
+
+305
+00:51:59.690 --> 00:52:10.060
+John Kingsbury: we're wanting to push people along that continuum of risk for the lower-risk products, right? And if we find these policies are, you know, inhibiting that in any way, that's not a good option, but
+
+306
+00:52:10.220 --> 00:52:16.109
+John Kingsbury: I would just… my hypothesis is that not… that would not be the case.
+
+307
+00:52:16.260 --> 00:52:28.649
+John Kingsbury: But, you know, there are other options available. The tobacco-flavored e-cigarettes are still out there, and, so, yeah, but I think it's worth, worth taking a closer look at that.
+
+308
+00:52:29.780 --> 00:52:39.629
+Michael Darden: One other question that's come up, have you… are you considering controlling for any kind of state-level cannabis policy, during this period?
+
+309
+00:52:41.120 --> 00:52:56.150
+John Kingsbury: Yeah, I think that's a… that's a good question. It's actually some of the work that we're looking into now, is kind of looking more closely at cannabis policies and how, those may affect
+
+310
+00:52:56.180 --> 00:53:11.349
+John Kingsbury: tobacco use. So, you know, we didn't examine it here in this study, but, but I think that is something that, yeah, there are some studies out there in the literature that are suggestive of, you know, some
+
+311
+00:53:11.870 --> 00:53:21.860
+John Kingsbury: you know, those behaviors kind of tend to cluster together, right? So, cannabis use and tobacco, and you can throw alcohol in there as well.
+
+312
+00:53:21.980 --> 00:53:27.349
+John Kingsbury: Not all the studies… the studies aren't consistent in terms of finding effects of… of clustering of
+
+313
+00:53:27.510 --> 00:53:32.599
+John Kingsbury: Those behaviors, at least in terms of how people respond to policies that…
+
+314
+00:53:32.850 --> 00:53:45.210
+John Kingsbury: have been implemented at state level, so recreational cannabis legalization. But, but there are some that do, that do suggest, that there are, you know, effects on…
+
+315
+00:53:45.550 --> 00:53:56.639
+John Kingsbury: tobacco use in… for states that have implemented recreational cannabis. So, so yeah, we didn't… can't control for it here, but I think that's something that's worth
+
+316
+00:53:56.640 --> 00:54:10.050
+John Kingsbury: you know, that we could have, that we could have looked into. but yeah, as I mentioned, we are kind of… that's one of the next steps for some of this work, is taking a look at the recreational cannabis policies and what effects do they have on some of these other substances.
+
+317
+00:54:11.390 --> 00:54:15.049
+Michael Darden: And can you just give us, like, a quick, kind of…
+
+318
+00:54:15.500 --> 00:54:25.440
+Michael Darden: forecast, maybe, or some implication for states that are kind of considering these bans now that have not yet implemented them. Do your results say anything for them?
+
+319
+00:54:27.480 --> 00:54:34.700
+John Kingsbury: Yeah, I think it's… I think… They…
+
+320
+00:54:34.960 --> 00:54:49.910
+John Kingsbury: With anything, you're, you know, with any policy, you're probably not going to hit all populations, or all subgroups of the population. So what we found here is that, you know, there were some… some effects in…
+
+321
+00:54:50.280 --> 00:54:55.740
+John Kingsbury: the, you know, I guess, desired direction, you know, the more the public health
+
+322
+00:54:55.820 --> 00:55:02.760
+John Kingsbury: Positive direction, for those younger age groups, the young adults and the slightly older young adults.
+
+323
+00:55:02.820 --> 00:55:22.419
+John Kingsbury: But for the… those 30 plus, there wasn't really any, you know, any… any significant effects. So, yeah, I came from… my job before this was in state, State Department of Health, so with any implementation of a policy, you always want to kind of…
+
+324
+00:55:22.470 --> 00:55:30.049
+John Kingsbury: One, try to have a tailored approach, and two, offer additional resources for those who might not, you know.
+
+325
+00:55:30.380 --> 00:55:37.309
+John Kingsbury: might not, respond to the policy. So in this case, you know, for those aged 30 plus,
+
+326
+00:55:37.800 --> 00:55:51.690
+John Kingsbury: what… what can we do to help, you know, kind of push them further along that continuum of risk toward no tobacco at all, you know? So, and I think there's, you know.
+
+327
+00:55:52.770 --> 00:56:08.940
+John Kingsbury: there's other work being done in that space, you know, to how do we help people quit entirely. There's more, certainly a lot more being done, how to help people quit combustible tobacco. There's less being done on how do you
+
+328
+00:56:09.050 --> 00:56:11.720
+John Kingsbury: Have adults who use e-cigarettes.
+
+329
+00:56:11.890 --> 00:56:14.659
+John Kingsbury: quit tobacco completely, so kind of…
+
+330
+00:56:14.940 --> 00:56:21.399
+John Kingsbury: There's a little bit… in my… you know, from my knowledge, it's… it's… there's a bit of a gap there.
+
+331
+00:56:22.070 --> 00:56:40.179
+John Kingsbury: to get people kind of all the way to the end of that, that continuum. So, so I think that's one important piece and one, area that we could look, into a little bit deeper, and… and just providing resources to folks that, maybe these policies aren't going to have as great of an impact on. So…
+
+332
+00:56:41.760 --> 00:56:49.589
+Michael Darden: Great. Well, thanks so much for the presentation, and your paper, and your work. I'm gonna kick it back to Daniel Cho to take us out. So, thank you.
+
+333
+00:56:56.120 --> 00:57:11.099
+Daniel Cho: We are out of time. Thank you for… thank you to our presenter, moderator, and discussant. Finally, thank you to the audience of 174 people for your participation. Have a top-notch weekend.
+
