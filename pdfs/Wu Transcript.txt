@@ -1,0 +1,1214 @@
+WEBVTT
+
+1
+00:00:04.110 --> 00:00:13.230
+Mike Pesko: Welcome to the Tobacco Online Policy Seminar, TOPS. Thank you for joining us today. I'm Michael Pesco, a professor of economics at the University of Missouri.
+
+2
+00:00:13.510 --> 00:00:20.919
+Mike Pesko: TOPS is organized by myself, C. Shang at The Ohio State University, Michael Darden at Johns Hopkins University.
+
+3
+00:00:21.060 --> 00:00:26.939
+Mike Pesko: Jamie Hartman-Boyce at University of Massachusetts Amherst, and Justin Waite at Boston University.
+
+4
+00:00:27.240 --> 00:00:43.710
+Mike Pesko: The seminar will be one hour with questions from the moderator and discussant. The audience may pose questions and comments in the Q&A panel, and the moderator will drop from these questions and comments in conversation with the presenter. Please review the guidelines on tobaccoPolicy.org for acceptable questions.
+
+5
+00:00:43.840 --> 00:00:48.099
+Mike Pesko: Please keep the questions professional and related to the research being discussed.
+
+6
+00:00:48.190 --> 00:01:04.900
+Mike Pesko: Questions that meet the seminar series guidelines will be shared with the presenter afterwards, even if they are not read aloud. Your questions are very much appreciated. This presentation is being video recorded and will be made available along with presentation slides on the TOPS website, tobaccopolicy.org.
+
+7
+00:01:05.510 --> 00:01:12.730
+Mike Pesko: I will turn the presentation over to today's moderator, Xi Sheng from the Ohio State University, to introduce our speaker.
+
+8
+00:01:13.310 --> 00:01:14.290
+Ce Shang: Thank you.
+
+9
+00:01:14.370 --> 00:01:29.779
+Ce Shang: Today, we continue our Winter 2026 season with a Grand Rounds presentation by Angela Wu, entitled, The Role of Clinicians in Supporting Smoking Cessation for Individuals with Cardiovascular Disease and Mental Illness.
+
+10
+00:01:29.780 --> 00:01:36.660
+Ce Shang: This presentation was selected with a competitive review process by submission through the TOPS website.
+
+11
+00:01:36.840 --> 00:01:53.389
+Ce Shang: Dr. Angela Defong Wu is a senior researcher and lecturer at the University of Oxford's Norfield Department of Primary Care Health Sciences, where she works with the Oxford Tobacco Addiction Group and the Center for Evidence-Based Medicine.
+
+12
+00:01:53.390 --> 00:02:02.760
+Ce Shang: Her research focuses on smoking cessation in underserved populations, particularly in relation to mental health and cardiovascular disease.
+
+13
+00:02:02.790 --> 00:02:20.909
+Ce Shang: She applies psychological and anthropological perspectives to examine how health behaviors are shaped by social, structural, and environmental contexts. Her Doctor of Philosophy research investigated the impact of smoking cessation on cardiovascular and mental health outcomes.
+
+14
+00:02:20.910 --> 00:02:31.459
+Ce Shang: as well as the prevalence and delivery of smoking cessation support in primary care. Her current work evaluates the integration of brief smoking cessation advice
+
+15
+00:02:31.460 --> 00:02:47.419
+Ce Shang: into financial support services and the development of interventions for people living in social housing. Dr. Jamie Hartman-Boyce is a co-author of these studies and will help answer questions in the Q&A. Dr. Wu, thank you for presenting for us today.
+
+16
+00:02:49.480 --> 00:02:54.139
+Angela Wu: Thank you so much for having me. So let me just share my screen.
+
+17
+00:02:54.610 --> 00:02:56.559
+Angela Wu: And then we can get started.
+
+18
+00:03:00.460 --> 00:03:03.480
+Angela Wu: So hopefully everyone can see that.
+
+19
+00:03:05.350 --> 00:03:08.409
+Ce Shang: We can see the next slide.
+
+20
+00:03:08.410 --> 00:03:09.370
+Angela Wu: Next silly.
+
+21
+00:03:09.370 --> 00:03:12.389
+Ce Shang: You can, if you can change the presenting mode.
+
+22
+00:03:12.620 --> 00:03:13.170
+Ce Shang: That'd be beautiful.
+
+23
+00:03:13.170 --> 00:03:15.280
+Angela Wu: You can only see presenter mode, is that correct?
+
+24
+00:03:15.280 --> 00:03:16.690
+Ce Shang: Yeah, I'm seeing presenter mode.
+
+25
+00:03:16.690 --> 00:03:22.450
+Angela Wu: Okay, that's no worries. Let me come out of high presenter view, and we can just go from this viewpoint.
+
+26
+00:03:23.450 --> 00:03:37.789
+Angela Wu: That's fine. Okay, well, thank you so much for having me today. Before we get started, I just want to state that the funding source for this piece of work was from the British Heart Foundation, and I have no conflicts to declare and no tobacco-related funding sources.
+
+27
+00:03:38.040 --> 00:03:50.979
+Angela Wu: Now, to put a little bit of context into who I am and how I found my way into debacle research, during my undergraduate, I worked at a hospital in the hepatitis C clinic, and one of the questions in
+
+28
+00:03:51.090 --> 00:03:54.970
+Angela Wu: avenues that I had to do was work with patients to ask them about their smoking.
+
+29
+00:03:55.090 --> 00:03:59.399
+Angela Wu: And one patient told me that they had started smoking at the age of 4,
+
+30
+00:03:59.790 --> 00:04:12.999
+Angela Wu: And that their parent had given them their first cigarette. Now, this, to a naive undergraduate student, was quite a shocking moment, and it really made me think about how do we look at health, and health behaviors, and what do we think is choice.
+
+31
+00:04:13.220 --> 00:04:23.859
+Angela Wu: And really, the big question is, what does choice mean when it comes to health? And I hold onto that, and we'll talk a little bit about the concept of choice throughout this presentation today.
+
+32
+00:04:24.590 --> 00:04:40.309
+Angela Wu: Now, cardiovascular disease causes about 30% of deaths worldwide, and tobacco is a key risk factor, and we know that quitting can prevent both first time, and there's more and more evidence to suggest that it can also prevent future cardiac events.
+
+33
+00:04:40.670 --> 00:04:58.160
+Angela Wu: Now, in a 2016 paper looking at people in Europe, they found that 8,000 people who had experienced a cardiovascular disease event, about 26% of them were smoking. Now, following these patients 6 months later, 61% of them were still smoking.
+
+34
+00:04:58.250 --> 00:05:13.139
+Angela Wu: Now, of these participants and of these patients, the majority of them have been prescribed ACE inhibitory statins and beta blockers, which are common medicinal avenues to help people prevent secondary cardiovascular disease.
+
+35
+00:05:13.320 --> 00:05:26.479
+Angela Wu: But only 19% of them had been advised to attend a Stop Smoking clinic, and of those 19%, only 20% of those who attended were offered any medication to help support them to stop smoking.
+
+36
+00:05:27.890 --> 00:05:43.500
+Angela Wu: Now, flipping onto the other side of the coin of my research is looking at people living with mental illness. Now, 1 in 8 people live with mental illness in the world, and what we know is that people with serious mental illness typically die 15 to 20 years sooner
+
+37
+00:05:43.930 --> 00:05:52.180
+Angela Wu: And the reason for this earlier death is because of smoking, or smoking is one of the leading contributors for these preventable physical illnesses.
+
+38
+00:05:52.180 --> 00:06:06.610
+Angela Wu: And then that raises that question of inequalities, of, are we furthering health inequalities by allowing people who are still with serious mental illness to continue smoking if it is decreasing their life expectancy by 15 to 20 years?
+
+39
+00:06:07.720 --> 00:06:22.140
+Angela Wu: Now, in the UK, we have seen a fantastic result in terms of decrease of overall smoking rates, so we're seeing the smoking rate go down from about 46% in the 1970s to 12.9% in 2022.
+
+40
+00:06:22.230 --> 00:06:39.610
+Angela Wu: But if you take a deeper look into who is still remaining within that 12.9%, we see a slightly different picture. Within the UK, these numbers have not decreased for people living with mental illness, and currently, about 85% of people living with schizophrenia are smoking.
+
+41
+00:06:40.920 --> 00:06:59.950
+Angela Wu: Now, why might that be? There are some potential reasons for this, in that many people, both in the general population and people living with psychiatric disorders, they state that they use smoking to cope with their stress, and about 40% of people believe that smoking helps them to relieve stress.
+
+42
+00:07:00.710 --> 00:07:09.530
+Angela Wu: And this fear of mental health decline often deters people from quitting, as well as it can deter clinicians from offering smoking cessation support.
+
+43
+00:07:09.530 --> 00:07:22.490
+Angela Wu: to both the general population and people living with psychiatric disorders for this fear of mental health decline. But there seems to be evidence to show that quitting is actually associated with an improved mental health.
+
+44
+00:07:23.580 --> 00:07:44.760
+Angela Wu: Now, looking at these two, categories of individuals, it's not… they're not separate, it's deliberate. These are two groups that seem to have a lot to gain from smoking cessation, and yet are also the populations that seem to not be being offered smoking cessation as an intervention, and this is where my PhD and the work I'm presenting today kind of sits.
+
+45
+00:07:45.700 --> 00:08:03.399
+Angela Wu: So the aims of my PhD was to look at the extent and rate of harm reduction when someone stops smoking, to also look at smoking cessation treatments that are being offered, and the effectiveness of them, and finally to take a look at how can we motivate the gatekeepers, or the providers, the physicians.
+
+46
+00:08:03.400 --> 00:08:06.530
+Angela Wu: To intervene and offer smoke utilization support.
+
+47
+00:08:06.530 --> 00:08:26.140
+Angela Wu: Now, that split itself into four different projects that will do a whirlwind tour today of the four projects. So, first off was looking at smoking cessation for secondary prevention of cardiovascular disease, and this was done in the form of a systematic review, which was an update of a 2003 Cochrane review.
+
+48
+00:08:26.140 --> 00:08:27.980
+Angela Wu: And what we had found was
+
+49
+00:08:28.240 --> 00:08:39.730
+Angela Wu: About people with heart disease who smoke, they had about a 30% reduction of risk of having a second cardiovascular disease if they stopped smoking, compared to if they continued smoking.
+
+50
+00:08:39.730 --> 00:09:02.059
+Angela Wu: And while we did find heterogeneity within our meta-analyses, this was not to do with the direction of effect, but rather the magnitude of that effect, which gives us relative certainty over the evidence that stopping smoking can help people who are living with cardiovascular disease help them reduce their risk of having a second event.
+
+51
+00:09:02.480 --> 00:09:15.629
+Angela Wu: And additionally, on top of the outcomes of looking at absolute outcomes like mortality, looking at deaths through to cardiovascular disease events, as well as MACE, so major adverse cardiovascular events.
+
+52
+00:09:15.630 --> 00:09:30.539
+Angela Wu: We also added in a new outcome, which was looking at quality of life, and what we found was that smoking cessation was unlikely to worsen your quality of life, and may improve your quality of life. So that was the first project, which is published with Cochrane.
+
+53
+00:09:30.540 --> 00:09:32.520
+Angela Wu: And then, in the second study.
+
+54
+00:09:32.520 --> 00:09:53.770
+Angela Wu: what I looked at, to also look at the, the harm reduction, was looking at smoking cessation for mental health, a secondary data analysis of randomized control trial. And this was working with data from the EGLES trial, which is one of the largest trials looking at smoking cessation and the effects with people living both with and without psychiatric disorders.
+
+55
+00:09:53.770 --> 00:10:03.560
+Angela Wu: And now, our goal initially was to try and solidify a little bit more about the causality of, smoking cessation on the effects of mental health.
+
+56
+00:10:03.590 --> 00:10:13.950
+Angela Wu: And we had 3 different strategies, and we included typical regression models, as well as propensity score matching and instrumental variable analysis.
+
+57
+00:10:14.000 --> 00:10:27.120
+Angela Wu: However, our instrumental variable analysis was severely underpowered and was unlikely to detect any results. But what we did find was that, generally, people who stopped smoking
+
+58
+00:10:27.460 --> 00:10:38.520
+Angela Wu: had a decrease in their score, which meant that their mental health, in terms of their anxiety and depression scales improved. So they had an overall better feeling.
+
+59
+00:10:39.010 --> 00:10:47.609
+Angela Wu: after stopping smoking. And what we did find was that when we focused particularly on people living with psychiatric disorders.
+
+60
+00:10:47.770 --> 00:10:58.189
+Angela Wu: They saw a greater reduction, so they saw a greater benefit to stopping smoking when it came to their absolute numbers of their anxiety and depression scores.
+
+61
+00:10:58.410 --> 00:11:05.139
+Angela Wu: But again, although the original goal was to run an instrumental variable analysis, which could hopefully
+
+62
+00:11:05.290 --> 00:11:18.359
+Angela Wu: help us solidify the causality of this, given that we can't randomize people into smoking or not smoking. Because it was severely underpowered, we're unable to detect whether or not there was a meaningful difference, but
+
+63
+00:11:18.360 --> 00:11:27.119
+Angela Wu: The other two analyses did point towards the direction that, stopping smoking helped people in terms of their mental health outcomes.
+
+64
+00:11:27.910 --> 00:11:44.720
+Angela Wu: So, this leads me to this idea of why am I focusing on smoking cessation and cardiovascular disease and mental illness. The first two papers, they highlighted how smoking cessation could act as a key intervention to help improve outcomes for people with both cardiovascular disease and mental illness.
+
+65
+00:11:44.720 --> 00:12:02.719
+Angela Wu: And this then led me on to my two further projects that will take a slightly deeper look into, looking at what was being offered to people in the UK by GPs for stopping smoking, and thinking a little bit about how we can incentivize more effective interventions in practice. But I'm happy to take some questions now.
+
+66
+00:12:02.720 --> 00:12:04.579
+Angela Wu: As we take a short break.
+
+67
+00:12:13.800 --> 00:12:24.489
+Joanne Patterson: Thank you, Dr. Wu. It looks like we've got one question coming into the chat, that asks, where did you count vaping and smokeless tobacco products?
+
+68
+00:12:24.600 --> 00:12:26.020
+Joanne Patterson: In these studies.
+
+69
+00:12:26.320 --> 00:12:37.590
+Angela Wu: That's a great question. So, they were not included. I was only looking at combustible cigarettes, so smoking of cigarettes. So they were not included in this analysis.
+
+70
+00:12:38.110 --> 00:12:39.090
+Joanne Patterson: Fantastic.
+
+71
+00:12:40.620 --> 00:12:40.940
+Ce Shang: Thank you.
+
+72
+00:12:41.480 --> 00:12:53.660
+Ce Shang: This is the first of all. Joanne, I would like to introduce you first. So our discussion today is Dr. Joanne Patterson, assistant professor from the Ohio State University College of Public Health.
+
+73
+00:12:53.930 --> 00:13:08.740
+Ce Shang: Dr. Patterson is a behavioral scientist who evaluates culturally relevant interventions that promote tobacco cessation and harm reduction among stigmatized populations. So thank you, Joanne. You can take it over now. Thank you.
+
+74
+00:13:09.300 --> 00:13:11.790
+Joanne Patterson: My apologies, I was so excited to jump in and see
+
+75
+00:13:13.420 --> 00:13:31.990
+Joanne Patterson: And before we, pop to another question in the chat, I just want to comment. You know, as I was reading this second paper, focusing on cessation and folks with mental illness, I was really fascinated in how the findings might land differently
+
+76
+00:13:31.990 --> 00:13:39.990
+Joanne Patterson: For different groups of people, especially thinking about mental health clinicians versus policy makers or tobacco regulatory bodies, and…
+
+77
+00:13:39.990 --> 00:13:57.959
+Joanne Patterson: You know, for me, the key takeaway for mental health clinicians is this idea that quitting smoking doesn't worsen and could actually improve anxiety and depression, even among people with psychiatric histories, which really undermines a key rationale for deferring treatment to this group.
+
+78
+00:13:59.000 --> 00:14:07.599
+Joanne Patterson: for regulators and policymakers, and this is something that we're seeing some work in California happening on this side of the pond in the US, you know, there have been,
+
+79
+00:14:07.690 --> 00:14:19.159
+Joanne Patterson: I would say the takeaway is that concerns about mental health harms from cessation itself are not really supported by the best available evidence, right, according…
+
+80
+00:14:19.160 --> 00:14:25.209
+Joanne Patterson: to some of this work. And maybe they shouldn't… we shouldn't be constraining tobacco control policy, and so…
+
+81
+00:14:25.210 --> 00:14:42.829
+Joanne Patterson: Should we be thinking more about how this type of work strengthens evidence for policies that actually directly affect and maybe even nudge smoking cessation among people with serious mental illness, thinking about things like smoke-free policies, right, in mental health settings.
+
+82
+00:14:43.110 --> 00:14:46.030
+Joanne Patterson: But from… from your perspective, I'm…
+
+83
+00:14:46.030 --> 00:14:50.149
+Angela Wu: interested, right? This is still observational work.
+
+84
+00:14:50.150 --> 00:15:04.879
+Joanne Patterson: So, if we have multiple observational methods that are converging on this benefit for folks with mental health issues or serious mental illness, and we're not seeing any credible signal of harm.
+
+85
+00:15:04.880 --> 00:15:16.639
+Joanne Patterson: What additional evidence do you think we need to persuade regulators, policy makers, and even clinicians to support cessation among folks that are dealing with serious mental illness?
+
+86
+00:15:17.290 --> 00:15:33.029
+Angela Wu: I think that's a really good question, and I think in some ways, I'm going to pivot a little bit and say whether or not what we need is evidence, or if it's about reframing the discussion, and reframing how we look at people, and if we can look at people holistically.
+
+87
+00:15:33.030 --> 00:15:38.410
+Angela Wu: So, if we know, and we do know, how uniquely dangerous smoking is.
+
+88
+00:15:38.410 --> 00:15:40.729
+Angela Wu: How can we package the best
+
+89
+00:15:40.730 --> 00:15:53.670
+Angela Wu: outcomes for people and ensure that we're not neglecting the harms of smoking when we are looking at them as a holistic individual. So, absolutely, I acknowledge people who are working in the clinics, there's a lot to
+
+90
+00:15:53.670 --> 00:16:01.730
+Angela Wu: talk to the patient about. It's very hard to prioritize, smoking when they are coming with a lot of other concerns.
+
+91
+00:16:01.730 --> 00:16:17.179
+Angela Wu: But I think of it as part of my job and our jobs as tobacco researchers and regulators, is how can we get it back into that picture that it's not an afterthought, but can we put it back in and say, hey, let's give people equal opportunities and allow them
+
+92
+00:16:17.180 --> 00:16:29.500
+Angela Wu: And facilitate them to make that choice, whether or not they want to stop smoking, and ensuring that, especially if we cannot continue to use it as an excuse to not provide treatment.
+
+93
+00:16:29.540 --> 00:16:38.709
+Angela Wu: And I don't think any more evidence will help with that, but rather it's about that conversation, and we need to be reframing and reshifting the focus on that holistic view of people.
+
+94
+00:16:39.360 --> 00:16:49.769
+Joanne Patterson: So perhaps not leaning into policies that are nudging, but coming back and really thinking about that ask, advise, refer model in the mental health setting.
+
+95
+00:16:49.770 --> 00:16:59.939
+Angela Wu: Absolutely, and I think really just acknowledging the system itself, and how can we think, and we'll think a little bit about this in the next two papers as well, how can we prioritize
+
+96
+00:17:00.090 --> 00:17:15.340
+Angela Wu: behavior change, and how can we change it in terms of the caregivers? Not just thinking about behavior change of the people who are smoking, but also thinking about behavior change of the systems to facilitate that and scaffold that behavior change of stopping smoking.
+
+97
+00:17:16.500 --> 00:17:22.520
+Joanne Patterson: And I see some, questions coming into the chat. I don't know if, Dr. Shang, do we want to take some of those right now?
+
+98
+00:17:22.680 --> 00:17:33.709
+Ce Shang: Sounds good. So one question from Nobel Schmidt about, do smokers who completely switch to harm reduction products count as having quit?
+
+99
+00:17:34.750 --> 00:17:38.670
+Angela Wu: Yeah, so… In terms of the systematic review.
+
+100
+00:17:38.670 --> 00:17:56.949
+Angela Wu: I did not separate by what intervention they were offered. So if I didn't… when I included randomized control trials, they were assessed by whether or not they were still smoking combustible cigarettes, yes or no. So if an individual was using, for example, nicotine replacement therapy, but they were not smoking.
+
+101
+00:17:56.950 --> 00:18:08.929
+Angela Wu: they would be counting as not smoking. So I wasn't focused on, for example, nicotine content, but rather I was focusing on the binary of smoking combustible cigarettes or not smoking combustible cigarettes.
+
+102
+00:18:08.930 --> 00:18:10.470
+Ce Shang: Thank you.
+
+103
+00:18:10.470 --> 00:18:21.699
+Joanne Patterson: See, let me just jump in here. I do think it's also important for this study to just note that many of the included studies were actually taking place before this kind of modern sense of tobacco.
+
+104
+00:18:21.700 --> 00:18:22.060
+Angela Wu: Google.
+
+105
+00:18:22.100 --> 00:18:26.190
+Joanne Patterson: production and these non-combusted… modern non-combusted nicotine products, correct?
+
+106
+00:18:26.190 --> 00:18:27.800
+Angela Wu: Absolutely, that's good.
+
+107
+00:18:28.760 --> 00:18:29.670
+Joanne Patterson: Thank you.
+
+108
+00:18:29.990 --> 00:18:41.799
+Ce Shang: That's good to know, thank you. Question from, Amos, Hausner about, did you check association with the use of other addictive drugs?
+
+109
+00:18:42.660 --> 00:18:47.720
+Angela Wu: No, that wasn't a part of the question. It was predominantly only looking at smoking.
+
+110
+00:18:49.160 --> 00:18:55.329
+Ce Shang: The other question is, do you see any differences with women versus men in this study?
+
+111
+00:18:56.160 --> 00:19:00.870
+Angela Wu: That's a good question, and I can't quite remember in terms of the…
+
+112
+00:19:00.970 --> 00:19:13.900
+Angela Wu: data for the, second paper, but I do remember for the first paper, the systematic review, we did try to do a subgroup analysis by, sex, and we actually didn't have enough information
+
+113
+00:19:13.900 --> 00:19:33.450
+Angela Wu: On women, who are living with cardiovascular disease, so one of the outcomes, or one of the implications that I did suggest is we do need to do more work focused on women, women-only populations as well, because there were studies looking at men-only populations of living with cardiovascular disease and the impacts on smoking.
+
+114
+00:19:35.240 --> 00:19:35.570
+Joanne Patterson: Thank you.
+
+115
+00:19:35.570 --> 00:19:38.209
+Ce Shang: So I think all the questions are answered.
+
+116
+00:19:38.720 --> 00:19:39.330
+Angela Wu: Great.
+
+117
+00:19:39.460 --> 00:19:40.040
+Ce Shang: Yeah.
+
+118
+00:19:41.230 --> 00:19:46.189
+Joanne Patterson: And I will say, I'll seed, because I know we want to dig into these two studies of yours.
+
+119
+00:19:46.450 --> 00:19:48.339
+Angela Wu: Amazing. So, from that.
+
+120
+00:19:48.390 --> 00:20:11.370
+Angela Wu: as… in terms of my PhD, then, I was able to kind of solidify this idea that, yes, there seems to be a benefit, which I think is quite a cautious phrasing, but there seems to be a benefit of… for people to stop smoking. Now, for my third study, I was looking at the impact of financial incentives, specifically in general practitioners, so our family doctors.
+
+121
+00:20:11.510 --> 00:20:25.169
+Angela Wu: Whereas in the UK, GPs are currently incentivized to record smoking status for people living with cardiovascular disease, or, for example, living with diabetes, and so on. And they…
+
+122
+00:20:25.190 --> 00:20:43.180
+Angela Wu: are offered, the percentage of their wages are based on the number of times that they record for these people, whether or not these… they have offered or provided advice slash support. Now, the most important thing I want people to take away from this is that currently the system is rewarding
+
+123
+00:20:43.180 --> 00:20:49.709
+Angela Wu: advising someone to quit the same as providing treatment. So, essentially, they're rewarding if someone is
+
+124
+00:20:49.800 --> 00:21:09.000
+Angela Wu: sent a text message to say that you should stop smoking because of X, Y, and Z as the same within the system as, hey, here is an offer to a stop smoking clinic where you can get behavioral support, or they're offering it as the same level of, you have been prescribed a medication that can help you stop smoking.
+
+125
+00:21:09.000 --> 00:21:16.209
+Angela Wu: So, despite there's differences in this effectiveness, currently the system rewards the two as the exact same thing.
+
+126
+00:21:17.050 --> 00:21:33.149
+Angela Wu: And what we're seeing within the general population was that there is an overuse of advice codes and an underuse of effective interventions within the general populations, and we haven't seen a change in smoking abstinence rates. So what I was interested in was looking at this
+
+127
+00:21:33.150 --> 00:21:40.330
+Angela Wu: Same question, but particularly in people living with cardiovascular disease, with or without living with a psychiatric condition.
+
+128
+00:21:41.020 --> 00:21:52.919
+Angela Wu: So I wanted to measure the frequency and types of cessation support in heart disease patients, and I wanted to then compare this support and success rate in patients with versus without mental illness.
+
+129
+00:21:53.370 --> 00:22:00.190
+Angela Wu: And where I got this data was from the Electronic Health Records, which is a GP database of… within the UK.
+
+130
+00:22:00.190 --> 00:22:17.120
+Angela Wu: And I was finding adults with incident heart disease between the years of 1996 to 2019. And then from there, in that database, I categorized the interventions into being offered, smoking services referral, being offered as a brief intervention.
+
+131
+00:22:17.390 --> 00:22:23.279
+Angela Wu: Education or advice, medication, or counseling. And now, most importantly.
+
+132
+00:22:23.470 --> 00:22:43.150
+Angela Wu: what I categorized was not what was accepted by the patient, but rather what the GP offered. So, if a GP recorded that they offered smoking cessation a referral, and that patient declined it, I would still code that down as an offer given.
+
+133
+00:22:43.160 --> 00:22:52.909
+Angela Wu: Because what I'm most interested in, and what I was most interested in, was looking at the behavior of the GP themselves, rather than what people were accepting
+
+134
+00:22:53.060 --> 00:22:54.850
+Angela Wu: of interventions.
+
+135
+00:22:56.100 --> 00:23:10.450
+Angela Wu: In total, I had 158,000 participants, or patients, with about 33% were being women, with the most common age group, as we might expect, of people living with cardiovascular disease between the ages of 51 and 60.
+
+136
+00:23:10.890 --> 00:23:26.960
+Angela Wu: Common mental illnesses, such as living with mood disorders like depression and anxiety, were about 15% of this population. And then serious mental illnesses, so someone living potentially with bipolar or schizophrenia, that was about 1.7% of that population.
+
+137
+00:23:27.070 --> 00:23:38.659
+Angela Wu: And the majority of people were diagnosed after this introduction of this quality of outcome frameworks, which was the financial incentives, and that, was 63.9%.
+
+138
+00:23:40.710 --> 00:23:45.819
+Angela Wu: So, what I found was, in terms of the first intervention received.
+
+139
+00:23:45.930 --> 00:24:05.419
+Angela Wu: the majority of our population received their intervention, or their records of this intervention in year one. So 56.6% of people in this category received a code of being offered some form of smoking cessation advice or support. And then what we're seeing is up till year 5,
+
+140
+00:24:06.220 --> 00:24:12.330
+Angela Wu: We still have about 26.7% of this population not having any record
+
+141
+00:24:12.480 --> 00:24:18.649
+Angela Wu: Within 5 years after their cardiovascular disease event of being offered a smoking cessation.
+
+142
+00:24:18.650 --> 00:24:35.359
+Angela Wu: advice. Now, in terms of abstinence, as you might expect, the majority of people who do have cardiovascular disease, they stopped within the first year, but we do see people to continue, to join into this effort of stopping smoking within the
+
+143
+00:24:35.360 --> 00:24:40.200
+Angela Wu: follow-up of 5 years. But even after 5 years, we're only seeing
+
+144
+00:24:40.560 --> 00:24:46.540
+Angela Wu: We're seeing less than half, just about half, of people stopping smoking.
+
+145
+00:24:47.750 --> 00:24:53.290
+Angela Wu: If we take a look into the percentage of codes and interventions being offered.
+
+146
+00:24:53.290 --> 00:25:12.310
+Angela Wu: Before the incentive, we're seeing the majority of patients were not offered any intervention, so we're sitting at about 79%, and then 20% got this code of, counseling, or education. Education being brief advice, or the statement of smoking is bad for you, that would fit into that 20%.
+
+147
+00:25:12.330 --> 00:25:18.110
+Angela Wu: Now, after the incentive, we're seeing a big growth in this education,
+
+148
+00:25:18.620 --> 00:25:31.290
+Angela Wu: chart. We're seeing about 71% of the codes recorded, were in education, and then the next largest group is the 19%, which is no intervention, and then pharmacological, referral.
+
+149
+00:25:32.590 --> 00:25:36.469
+Angela Wu: In terms of what that meant on the likelihood of abstinence.
+
+150
+00:25:36.470 --> 00:25:53.360
+Angela Wu: What we found is if you separated out the interventions on their own, people who were offered the education, so that advice, were more likely to stop smoking, whereas prescription referral briefing counseling actually decreased your likelihood in these estimates.
+
+151
+00:25:53.360 --> 00:26:08.350
+Angela Wu: of, stopping smoking. But when you merge them all together, we're seeing a number of 1.41, of an increased likelihood if you were offered an intervention. This meant that you were a lot more likely to stop smoking.
+
+152
+00:26:08.700 --> 00:26:20.269
+Angela Wu: And if we take a deeper look into the subsections of the likelihood of smoking cessation, first of all, if we look at who's more likely to be offered a smoking intervention, we are
+
+153
+00:26:20.430 --> 00:26:37.270
+Angela Wu: potentially seeing, so with common mental illness, you are more likely to receive, a smoking cessation intervention, for common mental illness, but again, these are… I'll talk about the caveats a little bit later. And then in the likelihood of abstinence with intervention record.
+
+154
+00:26:37.500 --> 00:26:56.230
+Angela Wu: again, if you… these are people who have been offered an intervention, they were substantially less likely to stop smoking compared to people who were not living with, common mental illness or a serious mental illness. And finally, the last number I want to share with you today on this paper is the idea of
+
+155
+00:26:56.230 --> 00:26:59.929
+Angela Wu: The number of people, who were offered,
+
+156
+00:27:00.170 --> 00:27:10.420
+Angela Wu: intervention before or after the introduction of financial incentives, they were substantially more likely to stop smoking if they had been offered an intervention before.
+
+157
+00:27:10.530 --> 00:27:15.009
+Angela Wu: the introduction of this incentive versus afterwards. Now.
+
+158
+00:27:15.040 --> 00:27:28.150
+Angela Wu: We're painting a picture where people who receive interventions are more likely to quit. However, the data seems to be showing us that the most widely used intervention, which is this education code.
+
+159
+00:27:28.150 --> 00:27:37.240
+Angela Wu: Is what we know, in terms of from other research, like randomized controlled trials to look at the effectiveness of helping people stop smoking, is actually the least effective
+
+160
+00:27:37.240 --> 00:27:50.219
+Angela Wu: for smoking cessation. Now, one of the cons of using a large database is that you get very large numbers, and they can often give you very confident estimates, but what could be happening is that people who are offered
+
+161
+00:27:50.220 --> 00:27:52.809
+Angela Wu: Pharmacological support.
+
+162
+00:27:52.830 --> 00:28:10.840
+Angela Wu: are people who are already more likely to find it harder to stop smoking, and that could be driving this number down. So people potentially were offered advice who could have stopped smoking on their own after their cardiovascular event, and those who are more likely to use intense interventions
+
+163
+00:28:10.840 --> 00:28:28.889
+Angela Wu: might already be more predisposed to find it harder to stop smoking, because from our randomized control trials and knowing about our Cochrane reviews and looking at the different interventions when it comes to stopping smoking, the most effective is still within that pharmacological and behavioral support to help people stop smoking.
+
+164
+00:28:29.380 --> 00:28:34.800
+Angela Wu: But it also gives us this question of system-level incentives, such as this QOF,
+
+165
+00:28:34.910 --> 00:28:39.210
+Angela Wu: Potentially need to reform and consider, are we rewarding,
+
+166
+00:28:39.660 --> 00:28:54.089
+Angela Wu: quality, or are we rewarding the presence of what we deem as support? When I know within… there are certain GP clinics within the UK who will be able to right now, under the current system, send a wide text message
+
+167
+00:28:54.280 --> 00:28:59.799
+Angela Wu: in February, because when the end of year is March, and they want to tick this box off.
+
+168
+00:28:59.810 --> 00:29:10.369
+Angela Wu: But they can send a text message to all of their patients to say that, did you know the best you should stop smoking because of X, Y, and Z? Here is a link if you're interested.
+
+169
+00:29:10.370 --> 00:29:24.140
+Angela Wu: that would be counting as that intervention. And that leaves a question for us to decide, is that enough, and is that what we want to be rewarding in this system if we are providing a reward-based system for helping people stop smoking?
+
+170
+00:29:24.540 --> 00:29:30.880
+Angela Wu: Now, I wanted to take a deeper look into this idea of, if we know interventions can work.
+
+171
+00:29:31.250 --> 00:29:39.340
+Angela Wu: How can we get the potential gatekeepers or the potential providers to get them to offer this intervention?
+
+172
+00:29:40.200 --> 00:29:48.499
+Angela Wu: Now, within the UK, currently the guidance has framed smoking as a dependency which needs treatment, but doctors often hold
+
+173
+00:29:48.500 --> 00:30:04.550
+Angela Wu: this idea about a patient responsibility, and it will actually impact their likelihood to offer support. So doctors are less likely to intervene if they feel that the patient is choosing to smoke, versus if they feel like the patient doesn't have a choice when it comes to smoking.
+
+174
+00:30:05.630 --> 00:30:13.499
+Angela Wu: And as what our health… one of our health secretaries a few years ago did say, is that people must take more responsibility for their own health.
+
+175
+00:30:13.610 --> 00:30:17.720
+Angela Wu: But that leaves the question of what does responsibility mean?
+
+176
+00:30:18.420 --> 00:30:33.529
+Angela Wu: Now, if we take a quick pivot towards the realm of moral philosophy, and in moral philosophy, it's often deemed that responsibility requires two pillars, one being agency, so the ability to make a change.
+
+177
+00:30:33.530 --> 00:30:42.450
+Angela Wu: And the other being awareness, which is the ability to know what are the consequences of a certain behavior or of something.
+
+178
+00:30:42.600 --> 00:30:56.399
+Angela Wu: And when it comes to smoking as a behavior, you can start to question whether or not people have agency, if you want to go into the nuance of addiction, of what does that mean when it comes to being capable of being able to take changes.
+
+179
+00:30:56.400 --> 00:31:12.940
+Angela Wu: But you can also take a look at the concepts of awareness, of, do people really understand when they are smoking what the harms mean to their bodies, and is that harm being fully processed, and is it possible to process that when it comes to a behavior that you are doing on yourself?
+
+180
+00:31:13.040 --> 00:31:17.669
+Angela Wu: And if you look at this idea of responsibility under this lens.
+
+181
+00:31:17.820 --> 00:31:30.119
+Angela Wu: We can potentially pivot and consider what can we do when it comes to responsibilities of caregivers and responsibilities of people providing services when it comes to helping them to scaffold this behavior change.
+
+182
+00:31:30.120 --> 00:31:40.360
+Angela Wu: Can doctors make a change? Do they have the agency? And can doctors have the awareness to know of the consequences of what happens when people continue smoking?
+
+183
+00:31:40.890 --> 00:31:43.469
+Angela Wu: So what I wanted to ask was.
+
+184
+00:31:43.520 --> 00:32:01.779
+Angela Wu: Can we frame responsibility, and is it possible to influence a GP or a family doctor on their likelihood of offering evidence-based cessation support? And secondly, I was also interested in knowing, what attitudes do doctors in the UK currently have regarding smoking and health?
+
+185
+00:32:02.570 --> 00:32:18.960
+Angela Wu: So what did I do? I conducted a between-subjects online study where I recruited GPs, doctors, as well as general doctors, and students, medical students, within the UK, and I exposed them to three different scenarios, and I asked them to measure their intention.
+
+186
+00:32:18.960 --> 00:32:23.009
+Angela Wu: Duty and desire to offer smoking cessation support.
+
+187
+00:32:24.770 --> 00:32:48.089
+Angela Wu: So, the first condition is, when they were recruited into the study, they were told that they were going to see a tweet about policy, and they would be asking questions afterwards. And what we're seeing on the screen right now is my condition of my control condition. So, the first sentence stated that newest research reaffirms that the most effective way to help people stop smoking is through behavioral support and or medication.
+
+188
+00:32:48.260 --> 00:32:51.999
+Angela Wu: GPs should give all patients smoking cessation support.
+
+189
+00:32:52.850 --> 00:32:55.249
+Angela Wu: My first experimental condition.
+
+190
+00:32:55.340 --> 00:33:07.039
+Angela Wu: I had the exact same first sentence, and the second sentence is where there was a change. This is where GPs should remind patients they need not quit on their own, and offer patients smoking cessation support.
+
+191
+00:33:07.040 --> 00:33:15.490
+Angela Wu: So the idea of what we were trying to target with this is that responsibility and who that is being shared is between both the patient
+
+192
+00:33:15.620 --> 00:33:17.249
+Angela Wu: and the clinician.
+
+193
+00:33:17.340 --> 00:33:27.779
+Angela Wu: And finally, this idea of professional obligation, where it is a GP's failure to provide a patient with smoking cessation support is a failure to meet professional obligations.
+
+194
+00:33:27.780 --> 00:33:45.739
+Angela Wu: And this is all hinting on the concept of what is responsibility in terms of agency. So we're sharing the idea of shared responsibility as shared agency, potentially, as well as this professional obligation is meaning that it's a failure to meet your obligations of your responsibilities, because you meet the conditions.
+
+195
+00:33:45.740 --> 00:33:48.690
+Angela Wu: Of having awareness and having agency.
+
+196
+00:33:49.120 --> 00:33:56.459
+Angela Wu: So, our participants were recruited, and they saw one of the three, frames, one of the three fake tweets.
+
+197
+00:33:57.260 --> 00:34:14.679
+Angela Wu: They were then given three scenarios where they were seeing patients, and this was where they saw an idea of a patient, and they were asked, what would they do with this patient? And we had the context of illness, which was in cardiovascular disease, serious mental illness, and a non-smoking illness, such as sprained ankle.
+
+198
+00:34:14.679 --> 00:34:25.360
+Angela Wu: As well as a context of consultation, so a computer record prompts you, there's time constraints, so you're running behind, and you know that the patient previously has mentioned no motivation to quit.
+
+199
+00:34:25.830 --> 00:34:27.640
+Angela Wu: So this is what they saw.
+
+200
+00:34:27.710 --> 00:34:38.739
+Angela Wu: One example being your patient, Sandy, has come in to see you about a sprained ankle. You're confident that they will recover swiftly. Their records indicate that when they last visited the clinic, they smoked cigarettes.
+
+201
+00:34:38.739 --> 00:34:54.370
+Angela Wu: And then, the participants were asked to rate on a scale from strongly disagree to strongly agree, whether they felt the need that they ought to offer, whether they wanted to, and whether or not they intended to offer, this patient smoking cessation support.
+
+202
+00:34:55.360 --> 00:35:04.369
+Angela Wu: So, as we can see here, the flow chart is participants were recruited in, they saw one of the three frames, and then they saw three scenarios.
+
+203
+00:35:04.410 --> 00:35:19.969
+Angela Wu: And this was randomized, and they had all… we… I blocked them so that each permutation of the different scenarios was shown, but each participant only saw 3 scenarios that they had to answer. And they followed up with a questionnaire at the end.
+
+204
+00:35:20.050 --> 00:35:21.449
+Angela Wu: So what did I find?
+
+205
+00:35:21.910 --> 00:35:31.589
+Angela Wu: The majority, were aged between 18 and 44, predominantly female, and the majority of my participants had never smoked.
+
+206
+00:35:31.710 --> 00:35:39.709
+Angela Wu: Nor had they… do they live with someone who is smoking, and that they were mostly general practitioners or family doctors.
+
+207
+00:35:40.720 --> 00:35:52.949
+Angela Wu: So what I found was that through running a linear regression, that framing had no effect on desire to offer support, or this idea of duty to offer support, but professional obligation was
+
+208
+00:35:53.030 --> 00:36:05.300
+Angela Wu: the frame was associated with an increased intention to offer support. However, when we look at bringing into the mixed effects, so the effects of the context of scenario and the context of illness.
+
+209
+00:36:05.540 --> 00:36:25.049
+Angela Wu: We are seeing predominantly that the variation was potentially coming from heart disease, so the context of scenario, so people were a lot more likely to have a higher score of desire, duty, and intention when the scenario they saw was of someone living with heart disease, the same with someone living with bipolar.
+
+210
+00:36:25.050 --> 00:36:31.359
+Angela Wu: And we did continue to see an effect from professional obligation on an increase in intention.
+
+211
+00:36:32.250 --> 00:36:37.340
+Angela Wu: And in terms of what my population was saying, in terms of what they believed.
+
+212
+00:36:38.310 --> 00:36:49.220
+Angela Wu: Here, there's a lot happening on the screen, but what I want you to focus on predominantly are these two, is that the majority of my population agreed
+
+213
+00:36:49.240 --> 00:36:59.120
+Angela Wu: And said, somewhat agree, or strongly agreed, that smoking is a lifestyle choice, while at the same time agreed that addiction is a disease that requires treatment.
+
+214
+00:37:00.210 --> 00:37:09.390
+Angela Wu: I… It gives you a question, potentially, of what does that mean, when, within a few clicks away.
+
+215
+00:37:09.390 --> 00:37:21.399
+Angela Wu: they're both saying that smoking is a choice, but also addiction is a disease. And what does that mean when it comes to policy, and how can we shift the way that we can think about smoking when it comes to helping people stop smoking?
+
+216
+00:37:22.250 --> 00:37:41.200
+Angela Wu: But that leaves me to the implications, and thinking a little bit wider about what is next and what does this mean. It means, potentially, that people want to help people living with cardiovascular disease. This is great. They think that people living with cardiovascular disease and people living with serious mental illness should be getting smoking cessation support.
+
+217
+00:37:41.200 --> 00:37:47.929
+Angela Wu: But the reality is, within the UK, they still aren't getting at the targeted rates that we want them to.
+
+218
+00:37:47.930 --> 00:38:03.489
+Angela Wu: Nor are they getting the interventions that we want them… that we know, as researchers and as policymakers know, are to be more effective. So what can we do when it comes to shifting that argument and shifting that conversation to ensure that what is being offered
+
+219
+00:38:03.880 --> 00:38:05.650
+Angela Wu: Is actually effective.
+
+220
+00:38:05.650 --> 00:38:25.320
+Angela Wu: for people. It doesn't matter if a medication is useful if participants or if patients can't get their hands on them. So how can we generate that conversation and think about it from a systems level of how can we change the system to ensure that we're facilitating behavior change, both from a systems level, but also from an individual level?
+
+221
+00:38:25.320 --> 00:38:41.269
+Angela Wu: And I'd like to just thank, very quickly, my two supervisors, Jamie, who is here with us today, as well as Nicola Linston, and the wider Oxford Tobacco Addiction Group for all their support during this work, during my PhD, and I'm very happy to take any questions right now.
+
+222
+00:38:42.460 --> 00:38:48.970
+Ce Shang: Thank you. Thank you, Angela. Let's turn to our discussant, first, Dr. Patterson.
+
+223
+00:38:49.330 --> 00:38:51.159
+Ce Shang: Please take it away. Thank you.
+
+224
+00:38:51.830 --> 00:39:00.889
+Joanne Patterson: Sure, thank you. So, Dr. Wu, I really appreciated, your first paper, thinking about interventions.
+
+225
+00:39:00.890 --> 00:39:15.629
+Joanne Patterson: in the clinical setting. And, you know, this paper is really fundamentally a question, or a paper that asks the question about how effective are the systems that we currently have in place for encouraging cessation, right?
+
+226
+00:39:15.760 --> 00:39:16.670
+Joanne Patterson: And…
+
+227
+00:39:16.670 --> 00:39:38.270
+Joanne Patterson: your findings really demonstrating that the recording of cessation advice in the electronic health record isn't necessarily translating into delivering these most effective evidence-based cessation support interventions, or equitable quit outcomes if we think about the outcomes for folks with mental illness. So you raised this question about quality.
+
+228
+00:39:38.270 --> 00:39:39.670
+Joanne Patterson: And…
+
+229
+00:39:39.670 --> 00:39:58.359
+Joanne Patterson: in your implications section, and I'm wondering, so, in your opinion, if policy incentives are successfully changing coding practices, but not quitting, how do we redefine this metric that we might have in the EHR to capture quality? What does quality look like?
+
+230
+00:39:59.250 --> 00:40:03.940
+Angela Wu: Yeah, that's a really good question, and I think it's a kind of question that
+
+231
+00:40:04.090 --> 00:40:16.119
+Angela Wu: it's very easy for me to say… I could say, oh, we should be assessing it as the most effective interventions, and only if they offer these interventions, but we also, as…
+
+232
+00:40:16.430 --> 00:40:28.049
+Angela Wu: A system don't want to be prioritizing the idea of prescribing, or the idea of, unnecessarily, for example, if the tick box is that only if they are offered
+
+233
+00:40:28.050 --> 00:40:44.529
+Angela Wu: a pharmacological intervention, and who gets to make that decision as to which of the interventions are the ones that fit into it? So I completely see the difficulty, and how can they do this system of reward-based, but then it gets to the further question of should we be doing a reward-based
+
+234
+00:40:44.650 --> 00:40:54.649
+Angela Wu: idea of trying to get them to do anything when it comes to recording? Is there a better metric? I think that's a hard question, and I don't know the answer. I don't think it's something that…
+
+235
+00:40:55.200 --> 00:41:10.509
+Angela Wu: is something that, from my research, that I'm able to turn around and say, this is the answer. But I think it's the discussion of how can we ensure that the patients are part of that conversation. That's what I really want to bring back in, is the idea of
+
+236
+00:41:10.720 --> 00:41:12.740
+Angela Wu: GPs don't have to wait.
+
+237
+00:41:12.840 --> 00:41:27.449
+Angela Wu: for people to come into the doors and say, I want to stop smoking, to only then offer. I want that to be reframed, where we are actually getting doctors and the system to think about, it's okay to ask people whether or not they would like to stop smoking.
+
+238
+00:41:27.540 --> 00:41:45.320
+Angela Wu: and having a comfortable conversation where if they say, no, I don't want to, you're very comfortable to say, okay, that's fine, but also have that conversation of, hey, maybe someone today is interested, because people's day-to-day motivation can change when it comes to smoking cessation. So how can we reward the system to ensure that
+
+239
+00:41:45.320 --> 00:41:48.270
+Angela Wu: Doctors are starting that conversation.
+
+240
+00:41:48.270 --> 00:41:54.730
+Angela Wu: is more important than what they offer, is what I believe. But it's about that quality of that conversation.
+
+241
+00:41:55.220 --> 00:42:03.009
+Joanne Patterson: And given what you, you know, are acknowledging about people's context changing in the moment, over time, repeat engagement.
+
+242
+00:42:03.010 --> 00:42:03.570
+Angela Wu: Absolutely.
+
+243
+00:42:03.570 --> 00:42:04.610
+Joanne Patterson: I'm surprised.
+
+244
+00:42:04.610 --> 00:42:23.120
+Angela Wu: Yes, exactly. Someone today might say no, but then next week they come back, or in two weeks they come back, and they're actually like, yeah, you know what, I am… I am interested in hearing what you have to say, and maybe another month down they're ready to start something, but it's just about that idea, and I like to pull it back to that moral philosophy of thinking about responsibility.
+
+245
+00:42:23.120 --> 00:42:29.869
+Angela Wu: We live in a world today where we're often told that we have responsibility over ourselves to take care of ourselves.
+
+246
+00:42:29.870 --> 00:42:53.460
+Angela Wu: But we also live in a society where we're completely reliant on one another, that we can't completely negate the impact of society and the impact of how we owe one another and what we do with one another. So how can we kind of bring that back in when we're still trying to, of course, let people make their own decisions, but can we ensure that we're allowing to scaffold that decision-making and people know what options are there?
+
+247
+00:42:53.940 --> 00:43:10.470
+Joanne Patterson: Well, and we know when we think about people's readiness to quit, right, that, you know, multiple touches in multiple ways in order to be able to understand information, make decisions, and, change attitudes. So, you know, I love that you brought up this text
+
+248
+00:43:10.470 --> 00:43:22.530
+Joanne Patterson: based option that providers have, even though that might be negative if what we're just giving is education. And we have a comment in the chat that I just… or the Q&A that came up that I just wanted to make sure I highlight.
+
+249
+00:43:22.530 --> 00:43:33.219
+Joanne Patterson: Lisa Sloan said, wild idea. What if providers got a text message when one… when one of the patients have quit? Providers rarely see cessation results. What do you think about that?
+
+250
+00:43:33.610 --> 00:43:44.070
+Angela Wu: Yeah, I really have to, you know… clinicians have a hard job, where they see so many, what we might call failures, and it's not fair to call it failure, but
+
+251
+00:43:44.090 --> 00:43:56.570
+Angela Wu: smoking is often seen so binary, and we know that people take multiple attempts if someone wants to stop smoking. I think on average, it takes 30 attempts for someone to stop smoking, to successfully stop smoking.
+
+252
+00:43:56.570 --> 00:44:11.379
+Angela Wu: it's demoralizing for GPs and doctors as well, of how can… why should I continue to do something if I'm not seeing effects, if I'm not seeing that? And then, yeah, maybe that would be a great way of bringing back in this context, especially bringing back in the
+
+253
+00:44:11.400 --> 00:44:21.600
+Angela Wu: We are a society. I care about you, you care about me. What I'm doing has an impact on our patients. It's just about seeing how can we make it work in… in today's landscape.
+
+254
+00:44:22.260 --> 00:44:27.739
+Joanne Patterson: I know one of the things we're seeing here in the state's, referral to the state quit line is…
+
+255
+00:44:27.740 --> 00:44:28.310
+Angela Wu: Hmm.
+
+256
+00:44:28.310 --> 00:44:35.630
+Joanne Patterson: One of the practices that we are encouraging is evidence-based practice in the clinic setting, and we have some
+
+257
+00:44:35.630 --> 00:44:52.319
+Joanne Patterson: hospital systems that have been trying an integration in the electronic health record with the state Quitline, so they can do an EHR referral to the Quitline and then get data back about whether someone engages with that Quitline. It would be interesting to see a study come out,
+
+258
+00:44:52.650 --> 00:45:04.830
+Joanne Patterson: looking at those outcomes and how that's influencing even coming into your second study, does that influence physicians' attitudes, right, towards patients and how they're reviewing cessation and smoking?
+
+259
+00:45:05.760 --> 00:45:21.379
+Angela Wu: For sure. I think within this landscape to remember, though, because how uniquely dangerous smoking is, I… and maybe that's a very naive researcher perspective to take, if one person stops smoking, that is a win.
+
+260
+00:45:21.690 --> 00:45:36.479
+Angela Wu: And, you know, there's, of course, there's great health economist modelers, and they will run the analyses, but because of how uniquely dangerous smoking is, if we're able to do anything that is able to shift and get more people to stop smoking.
+
+261
+00:45:37.030 --> 00:45:52.699
+Angela Wu: provided that they still have choice and agency to do what they want to do. I by no means believe in a world where we should be forcing individuals to do anything, but I do think we need to also facilitate a society where we're able to talk about these conversations in a positive manner.
+
+262
+00:45:52.840 --> 00:45:55.400
+Angela Wu: And allow people to have that choice to make.
+
+263
+00:45:55.680 --> 00:45:56.310
+Joanne Patterson: Yeah.
+
+264
+00:45:56.460 --> 00:46:13.950
+Joanne Patterson: Well, and I don't think that's naive. I mean, I… as a… granted, I have a bias as a tobacco home reductionist also, so, and I'm wondering, actually, given your… and then, actually, before we go there, C, I think maybe there's a question in the chat we should probably answer.
+
+265
+00:46:14.360 --> 00:46:32.360
+Ce Shang: Oh, sure, yes. So there's a question from Lei, who wonders how much of the recorded smoking cessation, reflects, what actually happens in reality, as opposed to what gets documented, because of the incentive structures.
+
+266
+00:46:32.940 --> 00:46:46.450
+Angela Wu: Yeah, so that's a really good point. I would say that there isn't any incentive that I know of that is to actually do with performance-based, so it's not to do with whether or not people stop smoking, so there's no incentive
+
+267
+00:46:46.590 --> 00:47:05.339
+Angela Wu: beyond an individual who might, in that moment, say to their GP, I have stopped smoking. That individual reaction, but there isn't on a system level where GPs are incentivized to record people as stop smoking, versus continuing smoking because there's any points to that.
+
+268
+00:47:06.070 --> 00:47:28.030
+Ce Shang: Thank you. And also, audience, please keep your questions coming through the Q&A panel. If we don't have a chance to get to our questions, or if you'd like to discuss with the speaker directly with mics enabled, you're welcome to attend Top of the Tops immediately following this webinar. If interested, please copy the meeting room URL posted in the chat now.
+
+269
+00:47:28.150 --> 00:47:34.300
+Ce Shang: So that you will be ready to join the live discussion once this webinar concludes.
+
+270
+00:47:34.570 --> 00:47:40.249
+Ce Shang: Thank you all. So, and Joanne, if you have any additional questions.
+
+271
+00:47:40.250 --> 00:47:54.379
+Joanne Patterson: I just have one last question that comes back to this kind of naivete question and, you know, kind of speaks to my bias as a tobacco harm reductionist, but I'm really fascinated with this clinician moral ambiguity, right? You know.
+
+272
+00:47:54.380 --> 00:48:06.800
+Joanne Patterson: that many of us hold, right? Seeing smoking cessation… smoking itself as both a disease and also a lifestyle choice. And I'm just wondering, now in this modern context of tobacco harm reduction.
+
+273
+00:48:06.800 --> 00:48:13.130
+Joanne Patterson: How this moral ambiguity might shape, clinician openness to switching
+
+274
+00:48:13.710 --> 00:48:20.139
+Joanne Patterson: you know, non-combusted nicotine products, rather than insisting on abstinence, and I'm just wondering your thoughts on that.
+
+275
+00:48:21.420 --> 00:48:36.559
+Angela Wu: Yeah, you know, the idea of first do no harm, and how, especially, you know, within the UK, the UK has taken quite a strong approach compared to the rest of the world when it comes to using e-cigarettes as a smoking cessation.
+
+276
+00:48:36.560 --> 00:48:42.220
+Angela Wu: tool, within the UK, you know, the NHS, our health provider, will offer you
+
+277
+00:48:42.220 --> 00:49:01.480
+Angela Wu: an e-cigarette to help you stop smoking cigarettes. Now, that is very different compared to the rest of the world, and when I talk to local city councils and providers, when we're trying to think a little bit about their own locality, I do get into this discussion of, well, aren't we told to first do no harm? How can we know if this is doing no harm?
+
+278
+00:49:01.580 --> 00:49:10.450
+Angela Wu: And I tend to kind of shift that conversation to talk about, well, what we do know is uniquely how dangerous smoking is.
+
+279
+00:49:10.530 --> 00:49:30.000
+Angela Wu: And what we do know in the UK right now, there's a big discrepancy in who is stopping smoking and who is continuing smoking. And we also know, within the UK, of the people who are living, for example, with a lower socioeconomic status or living with financial hardship, they are significantly more likely to view
+
+280
+00:49:30.000 --> 00:49:33.230
+Angela Wu: That e-cigarettes are more dangerous than cigarettes.
+
+281
+00:49:33.240 --> 00:49:37.369
+Angela Wu: And that, in my mind, is quite a dangerous
+
+282
+00:49:37.460 --> 00:49:53.489
+Angela Wu: position to be in from a policy perspective, of if the people who are most likely to be smoking within your country are also the people who believe one of the avenues that the country has decided as your harm reduction tool is more dangerous, what has happened in our messaging
+
+283
+00:49:53.560 --> 00:50:17.000
+Angela Wu: when it comes to offering that, and how can we, when it comes to talking to our providers, is it something that we providers are saying that are causing people to feel a certain way, or is it what is happening within the infrastructure of just communication of harms? What does that mean? So I don't know if I'm really answering that question of how can you shift, but I think it's always going back to the big picture of remembering how uniquely dangerous
+
+284
+00:50:17.000 --> 00:50:21.240
+Angela Wu: Smoking is, and the goal is always to help people have a healthier
+
+285
+00:50:21.240 --> 00:50:36.179
+Angela Wu: lifestyle, and I do believe when researchers… and they're not funded by the tobacco industry, they're not going in with the agenda, most of us come here to… with the aims and goals of helping people to live healthier, happier lives. How can we all reach that goal together?
+
+286
+00:50:36.180 --> 00:50:48.589
+Angela Wu: And ensure that we are still looking at the long-term harms of e-cigarettes. And we're looking at the long-term effects, but that doesn't stop us from helping people in this moment who might be able to shift from a cigarette.
+
+287
+00:50:48.590 --> 00:50:57.339
+Angela Wu: To an e-cigarette, and then potentially go down to another reduction tool, or… versus the idea that you must take something that we know is
+
+288
+00:50:57.340 --> 00:51:12.540
+Angela Wu: potentially effective, for example, potentially NRT, or veraniclin, or bupropium, cytosine, and so on. But if that doesn't feel like a realistic choice for them, who are we to say you're not allowed to choose something else that is likely to be less harmful?
+
+289
+00:51:13.790 --> 00:51:18.439
+Joanne Patterson: And both ends still having that conversation about complete quitting of.
+
+290
+00:51:18.440 --> 00:51:19.310
+Angela Wu: Absolutely.
+
+291
+00:51:19.310 --> 00:51:39.610
+Joanne Patterson: You know, when the patient's ready. And I would just say, and this idea that is especially important for those groups that you're interested in, not being able to necessarily to speak to the demography in the UK, but at least here in the US, that intersection of low-income and serious mental illness and CBD events, I'm assuming, is the same in your part of the world.
+
+292
+00:51:39.610 --> 00:52:03.759
+Angela Wu: Yes, exactly, exactly. And it creates a, you know, this level of urgency. I feel this urgency of how can we start thinking about this framing of, we don't get lost in our worlds of conversation, and we focus on the outcomes of people, and helping people, and putting the people who are living through this at the center of what we are doing, rather than the wider discussions, the political discussions about
+
+293
+00:52:04.050 --> 00:52:21.629
+Angela Wu: what the evidence and where the evidence is coming from, and really just making sure that we're applying this with a sensical mind, and ensuring that we're answering the right questions, and remembering we want to help people stop smoking and reduce their risks of dying. We want them to live healthier and happier lives, and how can we get them there?
+
+294
+00:52:21.740 --> 00:52:25.710
+Angela Wu: In a way that they want to do that, because at the end of the day.
+
+295
+00:52:25.710 --> 00:52:42.659
+Angela Wu: We cannot dictate what people are doing, but we can help to have those opportunities and truly have those opportunities there, not a fake opportunity where you say, well, we've offered you a text message that is sufficient, but rather actually offer a true meaning when it comes to that opportunity.
+
+296
+00:52:43.520 --> 00:52:47.450
+Joanne Patterson: Thank you so much for this conversation and for inviting me into it.
+
+297
+00:52:48.350 --> 00:52:49.600
+Angela Wu: Thank you so much.
+
+298
+00:52:49.950 --> 00:53:00.699
+Ce Shang: Thank you all for the great discussion. I think we're about time, and we have top of the tops following this. So I'll let Mike take us out. Thank you.
+
+299
+00:53:01.260 --> 00:53:02.340
+Angela Wu: Thank you.
+
+300
+00:53:03.330 --> 00:53:12.679
+Mike Pesko: We are out of time, however, if you still have burning questions or thoughts for Angela Wu, you can join us for Top of the Tops, an interactive group discussion.
+
+301
+00:53:12.740 --> 00:53:19.479
+Angela Wu: To join, please copy the Zoom meeting URL posted in the chat and switch rooms with us once this event concludes.
+
+302
+00:53:19.520 --> 00:53:33.669
+Mike Pesko: We'll leave this webinar room open for an extra minute after the end to give everyone a chance to copy the URL, which is bit.ly slash topsmeeting, all lowercase.
+
+303
+00:53:34.040 --> 00:53:43.040
+Mike Pesko: Thank you to our presenter, moderator, and discussant. Finally, thank you to our audience of 150 people for your participation. Have a top-notch weekend.
+
