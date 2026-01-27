@@ -1,0 +1,1338 @@
+WEBVTT
+
+1
+00:00:05.420 --> 00:00:10.030
+Aarushi Rohila: Hello, and welcome to the Tobacco Online Policy Seminar.
+
+2
+00:00:10.080 --> 00:00:28.299
+Aarushi Rohila: Thank you for joining us today. I am Arushi Rohila, I'm a PhD student of Health Policy at the University of Michigan. TOPS is organized by Mike Pesco at the University of Missouri, C. Shang at the Ohio State University, Michael Darden at Johns Hopkins University, Jamie Hartman-Boyce at the University of Massachusetts Amherst.
+
+3
+00:00:28.300 --> 00:00:30.710
+Aarushi Rohila: and Justin White at Boston University.
+
+4
+00:00:30.710 --> 00:00:50.500
+Aarushi Rohila: So this seminar will be an hour with, questions from the moderator and discussant. The audience may post questions and comments in the Q&A panel, and the moderator will draw from these questions and comments in conversation with the presenter. Please review the guidelines on tobaccopolicy.org for acceptable questions. Please keep questions professional and related to the research being discussed.
+
+5
+00:00:50.500 --> 00:00:58.390
+Aarushi Rohila: Questions that meet seminar series guidelines will be shared with the presenter afterwards, even if they're not read out loud. Your questions are very much appreciated.
+
+6
+00:00:58.390 --> 00:01:12.909
+Aarushi Rohila: This presentation is being video recorded and will be made available along with presentation slides on the TOPS website, tobaccoPolicy.org. I'll turn the presentation over to today's moderator, Jamie Hartman-Boyce from the University of Massachusetts Amherst, to introduce her speaker.
+
+7
+00:01:13.280 --> 00:01:21.530
+Jamie Hartmann-Boyce: Thank you so much. So, before we continue with today's seminar, we'd like to take a moment to recognize the winner of the Best Tops Presentation of 2025.
+
+8
+00:01:21.820 --> 00:01:36.110
+Jamie Hartmann-Boyce: This year's award goes to Dana Malls-Carroll for her outstanding presentation, Very Low Nicotine Content Cigarettes in the Context of Non-Combusted Nicotine Products, Findings and implications for Public Health Policy. Congratulations, Dr. Carroll.
+
+9
+00:01:37.700 --> 00:01:45.810
+Dana Mowls Carroll: Thank you so much, and it's just such an honor to receive this. I just wanted to share that while I presented the work.
+
+10
+00:01:45.810 --> 00:02:03.610
+Dana Mowls Carroll: from a recent publication that this is truly a team effort. The trial was led by a colleague and mentor of mine, Dr. Dorothy Hatsukami, and we have a huge team that contributed to it. So, this is just really a cherry on top, so thank you so much, and, really appreciate it.
+
+11
+00:02:03.870 --> 00:02:05.690
+Jamie Hartmann-Boyce: Awesome, thank you, Dana.
+
+12
+00:02:06.030 --> 00:02:21.970
+Jamie Hartmann-Boyce: Today, we continue our Winter 2026 season with a workshop presentation by Guthrie Skoblick entitled, Standardizing the Measurement of Cigar Tax Rates in the United States. This presentation was selected via competitive review process by submission through the TOPS websites.
+
+13
+00:02:22.460 --> 00:02:31.509
+Jamie Hartmann-Boyce: At the University of Missouri, Guthrie Skoblick is a fourth-year PhD student, a graduate research assistant, and a research affiliate with the Social Impact Lab.
+
+14
+00:02:31.630 --> 00:02:40.380
+Jamie Hartmann-Boyce: His research focuses on the economics of crime and health, using natural experiments and secondary data to identify plausibly causal effects of policy changes.
+
+15
+00:02:40.560 --> 00:03:05.540
+Jamie Hartmann-Boyce: Particular applications of his work include tobacco use, hearing aid utilization, and criminal justice policies, with an emphasis on policing mechanisms that shape public safety and reoffending. Guthrie has presented his research at the Western Economic Association International and Southern Economic Association annual meetings. Dr. Mike Pesco, a professor at the University of Missouri, is a co-author of the study and will answer select questions in the Q&A.
+
+16
+00:03:05.540 --> 00:03:06.220
+Jamie Hartmann-Boyce: Q&A.
+
+17
+00:03:06.220 --> 00:03:08.799
+Jamie Hartmann-Boyce: Guthrie, thank you so much for presenting today.
+
+18
+00:03:15.070 --> 00:03:23.900
+Guthrie Scoblic: Hi everybody, thank you for attending today, and Tops for having me present. Let me provide my screen to share.
+
+19
+00:03:25.410 --> 00:03:26.110
+Guthrie Scoblic: Okay.
+
+20
+00:03:27.020 --> 00:03:29.550
+Guthrie Scoblic: Then I go into presentation mode.
+
+21
+00:03:32.410 --> 00:03:44.130
+Guthrie Scoblic: All right, cool. So, again, my name is Guthrie Skoplik. I'm a PhD student at the University of Missouri. Just a quick check, is my audio working? Because I don't see any green noise on.
+
+22
+00:03:44.130 --> 00:03:46.229
+Jamie Hartmann-Boyce: It is working for me.
+
+23
+00:03:46.230 --> 00:03:47.530
+Guthrie Scoblic: Awesome. Okay.
+
+24
+00:03:47.950 --> 00:04:00.760
+Guthrie Scoblic: So yes, my name's Guthrie Skoblick, I'm a PhD student at the University of Missouri. This is joint work with Rachel Fung and Michael Pesco, also at the University of Missouri, and then Abigail Friedman at the Yale School of Public Health.
+
+25
+00:04:00.940 --> 00:04:10.919
+Guthrie Scoblic: This is a working paper called Standardizing the Measurement of Cigar Tax Rates in the United States from 2010 to 2024, and any feedback is certainly welcomed.
+
+26
+00:04:11.740 --> 00:04:12.580
+Guthrie Scoblic: Okay.
+
+27
+00:04:12.710 --> 00:04:26.149
+Guthrie Scoblic: So, some quick disclosures. This work is funded by grants from the National Institutes of Health and the Food and Drug Administration. What we present today doesn't necessarily represent the views of the NIH and the FDA.
+
+28
+00:04:26.170 --> 00:04:36.579
+Guthrie Scoblic: We also use data from Nielsen IQ datasets at the University of Chicago Booth School of Business. Again, what I'm going to present today doesn't reflect the views of Nielsen IQ.
+
+29
+00:04:36.630 --> 00:04:42.720
+Guthrie Scoblic: I personally have not received any tobacco-related research funding over the past 10 years.
+
+30
+00:04:43.520 --> 00:04:44.340
+Guthrie Scoblic: Okay.
+
+31
+00:04:44.690 --> 00:04:55.889
+Guthrie Scoblic: So, before we talk about cigar taxes, I think it's worth mentioning, you know, what is the use of cigars to begin with? So, cigars are the second most used combustible tobacco product in the United States.
+
+32
+00:04:55.890 --> 00:05:07.380
+Guthrie Scoblic: Some quick stats, 1.5% of high school students report use, 5.4% among those aged 18 to 25, and 3.8% among those aged 26 and older.
+
+33
+00:05:07.470 --> 00:05:19.800
+Guthrie Scoblic: We can compare this to cigarettes, where we see 1.7% of high school students and 11.6% of adults, and then 7.8% of high school students and 6% of adults.
+
+34
+00:05:20.190 --> 00:05:21.350
+Guthrie Scoblic: And so…
+
+35
+00:05:21.390 --> 00:05:30.820
+Guthrie Scoblic: When we look at, you know, the research that's been done on cigars compared to cigarettes, there's been a lot of empirical research on the effect of
+
+36
+00:05:30.820 --> 00:05:42.729
+Guthrie Scoblic: Cigarette taxes, e-cigarette taxes, etc. But there hasn't been much work done on cigar-specific policies, despite the fact that the health risks of cigars are pretty comparable to cigarettes.
+
+37
+00:05:42.840 --> 00:05:58.500
+Guthrie Scoblic: And one argument that we make in our paper that could explain why we see this is that there's a lot of tax complexity when it comes to how states tax cigars. And so we see a mix of per unit taxes or a dollar amount per cigar.
+
+38
+00:05:58.540 --> 00:06:11.850
+Guthrie Scoblic: Add Valorum, which is a percentage of the price, caps, or tiered rates. We'll get into these definitions in a little bit, but it's just kind of more tax complexity, you might say. And then it also varies across products as well.
+
+39
+00:06:12.120 --> 00:06:15.910
+Guthrie Scoblic: And so, you know, there's a lot of different,
+
+40
+00:06:16.230 --> 00:06:21.840
+Guthrie Scoblic: Kind of barriers in the way, you might say, to try to Explain these taxes.
+
+41
+00:06:23.030 --> 00:06:35.939
+Guthrie Scoblic: Furthermore, we see that cigar types are kind of taxed differently depending on the nature of the cigar. And in our paper, we identified basically three types, or three buckets that cigars might be taxed under from state law.
+
+42
+00:06:36.050 --> 00:06:37.010
+Guthrie Scoblic: And so…
+
+43
+00:06:37.200 --> 00:06:56.470
+Guthrie Scoblic: kind of ranking, or going from the least amount of tobacco content to the most. We're gonna start with little cigars. These are, in similar size to cigarettes. There's about 1 gram of tobacco in a little cigar. You can see on the right from the pack, you know, they're usually sold in a pack of 20, like cigarettes. They also kind of look like cigarettes.
+
+44
+00:06:56.470 --> 00:07:02.209
+Guthrie Scoblic: And from federal law, these are going to be defined as weighing less than 1.36 grams per stick.
+
+45
+00:07:03.080 --> 00:07:18.960
+Guthrie Scoblic: The next bucket or tier that we identify are large cigars. And this is going to be where you see most of the sales of cigars in the United States come from. These usually have about 3 grams of tobacco per stick. They're sold in packs of 3 or 5.
+
+46
+00:07:18.960 --> 00:07:28.300
+Guthrie Scoblic: We have an example here of Dutch Masters, black and mild, you know, the most commonly sold cigar product in the United States would fall under this classification.
+
+47
+00:07:29.330 --> 00:07:44.269
+Guthrie Scoblic: The last tier that we identify are premium cigars, and this might be what you kind of picture in your head if you were to think of a cigar. You know, it's much more distinguished than that of, like, a cigarette, because it's thicker, holds a bit more weight than these other products.
+
+48
+00:07:44.280 --> 00:07:55.630
+Guthrie Scoblic: These are usually handmade, they have about 5 to 20 grams of tobacco in them, but under federal law, these are going to be taxed at the same rate as those large cigars, such as the Black and Mild.
+
+49
+00:07:58.650 --> 00:08:12.579
+Guthrie Scoblic: So, when we see how these states tax cigars, it's not quite the same as cigarettes. And so, for cigarettes, just about every state's gonna use a specific tax per pack. So it's gonna be something like $1.50 per pack of 20.
+
+50
+00:08:12.580 --> 00:08:29.059
+Guthrie Scoblic: But the states, how states tax cigars, the structure varies quite a bit. And so we have these specific per-unit taxes, so it's going to be a dollar amount per stick, so that's pretty similar to the cigarettes, where it's $1.50 per pack of 20. This might be something like 10 cents per cigar.
+
+51
+00:08:29.360 --> 00:08:35.059
+Guthrie Scoblic: There are add valoram taxes, and that's a percentage of the manufacturer or wholesale price.
+
+52
+00:08:35.380 --> 00:08:46.229
+Guthrie Scoblic: We next have what we call, kind of, our own definition here, but what we call tiered rates, and so the tax that is levied depends on the price or the weight of the cigar.
+
+53
+00:08:46.290 --> 00:08:57.580
+Guthrie Scoblic: And then going back to those add valoram taxes, sometimes they're going to have a cap in place, or a maximum tax, so that the percentage of the price doesn't kind of blow up. And I'll show an example here on the next slide.
+
+54
+00:08:58.530 --> 00:09:12.399
+Guthrie Scoblic: The point being with all of this is that when we look within a state, we oftentimes see structures that differ across cigar types, and so it can be kind of difficult to say what is the cigar tax in a state, because it depends on the product.
+
+55
+00:09:12.400 --> 00:09:18.789
+Guthrie Scoblic: And that makes it not as comparable for something like a cigarette tax, where it's that $1.50 per pack of 20.
+
+56
+00:09:21.360 --> 00:09:31.759
+Guthrie Scoblic: So, to illustrate these points a little bit more, I know that's kind of, you know, it's a lot of definitions. What do these definitions look like? We can look at Minnesota and Oklahoma.
+
+57
+00:09:31.830 --> 00:09:44.360
+Guthrie Scoblic: So, in Minnesota, little cigars are taxed at 15.2 cents per unit, or 15.2 cents per stick, and this is actually indexed to the state cigarette tax.
+
+58
+00:09:44.520 --> 00:09:52.780
+Guthrie Scoblic: For large cigars, these are taxed at 95% of the manufacturer's price, so this is an example of our Add Valorant tax.
+
+59
+00:09:52.950 --> 00:10:01.679
+Guthrie Scoblic: But for premium cigars, they actually define what a premium cigar is, depending on, kind of, the nature of the product and how much,
+
+60
+00:10:01.900 --> 00:10:11.189
+Guthrie Scoblic: I won't get into the characteristics right now, but they make a clause that if it is a premium cigar, that there's a 50 cent maximum tax per cigar.
+
+61
+00:10:11.560 --> 00:10:25.240
+Guthrie Scoblic: And so, if a premium cigar was, let's say, had a manufacturer's price of a dollar, instead of being 95% times 1, which would be 95 cents, the tax on that premium cigar is capped at 50 cents.
+
+62
+00:10:26.400 --> 00:10:44.469
+Guthrie Scoblic: Looking at Oklahoma, they have a similar story in terms of little cigars in that they're also taxed as a per-unit tax of 10.1 cents and indexed to the state cigarette tax. And now here is an example of our tiered rate that we mentioned. And so, for large and premium cigars.
+
+63
+00:10:44.470 --> 00:10:56.320
+Guthrie Scoblic: If the manufacturer's price is less than or equal to 4 cents, the tax levied is 11 cents per cigar, and then if the price is greater than 4 cents, it's one more penny, it's 12 cents per cigar.
+
+64
+00:10:56.640 --> 00:11:10.669
+Guthrie Scoblic: And so we can illustrate here, we have our per unit taxes for little cigars, we have that Add Valorum tax for large cigars, the capped amount for the premium cigars all in Minnesota, and this is an example of our tiered rate structure.
+
+65
+00:11:12.900 --> 00:11:13.720
+Guthrie Scoblic: Okay.
+
+66
+00:11:14.480 --> 00:11:21.540
+Guthrie Scoblic: And so, what I'm going to be talking about today is the bulk of what we do in our paper. So.
+
+67
+00:11:21.540 --> 00:11:37.309
+Guthrie Scoblic: What we want to do is create cigar taxes across these three different types that can be comparable to state cigarette tax, that dollar amount per pack of 20, and that we can use similar analysis that's been done examining the effect of state cigarette taxes.
+
+68
+00:11:37.860 --> 00:11:45.349
+Guthrie Scoblic: How we're gonna do this is that we're gonna construct standardized per-stick cigar tax measures for
+
+69
+00:11:45.700 --> 00:11:49.210
+Guthrie Scoblic: Excuse me, little, large, and premium cigars.
+
+70
+00:11:49.260 --> 00:12:05.759
+Guthrie Scoblic: And we're going to do this for all states in the United States, plus Washington, D.C, and then we also bring in locality-specific taxes from 88 localities in the United States, and we build a quarterly data set from 2010 to 2024.
+
+71
+00:12:06.650 --> 00:12:25.490
+Guthrie Scoblic: What we're going to do is that we're going to take all these different structures that we've identified, those specific taxes, add valorum, there's a cab if it's a tiered rate, and we're just going to put it into a dollar per stick rate, so that we can say the tax for a little cigar in Missouri in quarter three of 2023 is, let's say, 7 cents.
+
+72
+00:12:26.000 --> 00:12:38.940
+Guthrie Scoblic: That is everything that we do in our working paper in the first three bullet points. This last one is kind of more showing how we can use our data set, and it's not in the working paper, so I thought I would just specify that.
+
+73
+00:12:38.940 --> 00:12:51.070
+Guthrie Scoblic: But we're going to take our tax database, or our standardized tax database, and we're going to use two-way fixed effects to estimate the pass-through rate, or how much of that tax is passed on to consumers in retail prices.
+
+74
+00:12:51.070 --> 00:12:56.450
+Guthrie Scoblic: Using a time-varying retail price dataset from Nielsen IQ.
+
+75
+00:12:59.660 --> 00:13:15.549
+Guthrie Scoblic: Next, just to show, you know, why do we want to care about all these different structures, how much, you know, is that really that important? We can look at this for little, large, and premium cigars. So, for little cigars, we identify 26 states that levy and add valoram tax.
+
+76
+00:13:15.620 --> 00:13:21.299
+Guthrie Scoblic: 22 states use a per-unit tax, as well as Washington, D.C.
+
+77
+00:13:21.530 --> 00:13:28.529
+Guthrie Scoblic: And it's worth noting that 19 of these, tax little cigars actually at the same rate as cigarettes.
+
+78
+00:13:28.810 --> 00:13:34.880
+Guthrie Scoblic: And then one state for loyal cigars uses that tiered rate structure that we identified.
+
+79
+00:13:35.470 --> 00:13:47.080
+Guthrie Scoblic: Then, for large cigars, 43 states plus Washington, D.C. levy and add valorim tax, so most states are going to be using that type of tax scheme. We don't see any per unit
+
+80
+00:13:47.080 --> 00:14:01.720
+Guthrie Scoblic: taxes for large cigars, though we do have 5 states that use that tiered rate structure, and most of them, it's going to be a dollar amount. It's normally not a percentage of the price. So it's kind of a per unit tax, but it depends on the price or the weight of the cigar.
+
+81
+00:14:02.910 --> 00:14:11.239
+Guthrie Scoblic: Also worth noting that 10 states for large cigars have a capped amount on the tax per stick if they levy that ad valorem tax.
+
+82
+00:14:11.570 --> 00:14:24.279
+Guthrie Scoblic: Okay, and then for premium cigars, it looks pretty close to large cigars, but 42 states levy an ad valorim tax. 5 states use that tiered rate structure again, and then 12 states have a cap on the tax per stick.
+
+83
+00:14:24.410 --> 00:14:31.839
+Guthrie Scoblic: And two states specifically note if it is a premium cigar, then it's allowed to have that cap on the tax per stick.
+
+84
+00:14:33.040 --> 00:14:45.019
+Guthrie Scoblic: Last thing we're going to mention, you can see it in the last row of the notes of this table, Florida doesn't tax any cigar products, so across little, large, and premium cigars. Florida does not levy a tax.
+
+85
+00:14:45.090 --> 00:14:55.209
+Guthrie Scoblic: Pennsylvania doesn't tax large or premium cigars, and then Washington, D.C, and New Hampshire do not levy taxes on premium cigars.
+
+86
+00:14:58.790 --> 00:15:14.939
+Guthrie Scoblic: Okay, so this is kind of our recipe, you might say, of everything that we're gonna do to create these standardized taxes. We're gonna follow a similar approach for standardizing e-cigarette taxes that's been done in Cottey et al. 2023-2024.
+
+87
+00:15:14.940 --> 00:15:27.639
+Guthrie Scoblic: Specifically because, e-cigarette taxes oftentimes have those ad valorem tax structures. And so, what we want to do to kind of note any changes in the tax,
+
+88
+00:15:27.800 --> 00:15:40.949
+Guthrie Scoblic: These are going to come from legislative tax changes for the variation in our standardized taxes. And so we want to basically avoid any price endogeneity from other market forces, and we don't want our taxes to be
+
+89
+00:15:40.950 --> 00:15:51.490
+Guthrie Scoblic: changing across our panel from these changes in, let's say, demand. And I'm going to illustrate a point on how this would affect our measure in the next section.
+
+90
+00:15:52.020 --> 00:16:09.759
+Guthrie Scoblic: And so, we're gonna start in 2010 to build our panel, because this is the first full year after the Tobacco Control Act, and this was also the last time that we saw a change in federal taxes, and so we don't have any underlying federal tax changes in our data set that we build.
+
+91
+00:16:10.420 --> 00:16:24.970
+Guthrie Scoblic: So the key steps to do this, we are first going to obtain baseline retail prices from Florida in 2010, as this is the only state that doesn't tax, the three products that we identify, little, large, and premium cigars.
+
+92
+00:16:25.270 --> 00:16:38.839
+Guthrie Scoblic: And you might be concerned, you know, does Florida hold up for the rest of the country? We're gonna find, in an exercise we show later, that the Florida prices are generalizable to prices elsewhere in the United States, or we provide evidence that they do.
+
+93
+00:16:39.450 --> 00:16:58.630
+Guthrie Scoblic: We then are going to remove assumed markups to infer what the wholesale and manufacturer prices are, because we observe retail prices, most of these taxes go into effect on those manufacturer or wholesale prices, and so we need to kind of make some assumptions on how much is marked up between the processes, or
+
+94
+00:16:58.630 --> 00:17:00.409
+Guthrie Scoblic: Along the distribution chain.
+
+95
+00:17:00.740 --> 00:17:06.559
+Guthrie Scoblic: And then after we do all that, we're gonna apply our state and local tax statutes.
+
+96
+00:17:07.190 --> 00:17:11.280
+Guthrie Scoblic: And this is, I believe, my first break, for my discussant.
+
+97
+00:17:13.250 --> 00:17:22.769
+Jamie Hartmann-Boyce: Thank you so much. So, our discussant today is Dr. Ollie Ganz, an assistant professor from the Rutgers Institute for Nicotine and Tobacco Studies, and the Rutgers School of Public Health.
+
+98
+00:17:23.000 --> 00:17:32.120
+Jamie Hartmann-Boyce: Dr. Ganz has expertise in population surveillance of tobacco use, tobacco marketing, and the tobacco marketplace, with a specific focus on cigars.
+
+99
+00:17:33.010 --> 00:17:40.249
+Ollie Ganz: Hi, thank you so much. I actually, I don't have any questions at this point, so feel free to keep on rolling.
+
+100
+00:17:40.670 --> 00:17:49.149
+Jamie Hartmann-Boyce: Awesome, thank you so much, and a reminder to the audience, if you have questions as we're going through, please do pop those in the Q&A. Back over to you, Guthrie.
+
+101
+00:17:49.670 --> 00:17:55.189
+Guthrie Scoblic: Awesome. Sounds good. I will keep, keep the train rolling here, I guess. Okay.
+
+102
+00:17:56.000 --> 00:18:02.630
+Guthrie Scoblic: I need to click my screen. There we go. Right. So, the data that we're gonna use, we're gonna use,
+
+103
+00:18:03.110 --> 00:18:11.349
+Guthrie Scoblic: Nielsen IQ Retail Scanner Data, we're going to use an acronym throughout the presentation of NRSD, and this is going to capture,
+
+104
+00:18:11.460 --> 00:18:15.850
+Guthrie Scoblic: retail prices and sales for UPCs. Specifically, this is,
+
+105
+00:18:16.160 --> 00:18:35.769
+Guthrie Scoblic: From Nielsen, we see the scans of these UPC products at a lot of different stores across the United States. And so, one advantage of this is that we get pretty good coverage of sales from food stores, drugstores, mass merchandisers, so this would be at the start of our data set, we'd capture about 53% of food stores.
+
+106
+00:18:35.980 --> 00:18:49.570
+Guthrie Scoblic: But maybe, you know, a downside of this is that we don't always see where people might more often buy their tobacco products, such as convenience stores or liquor stores, and we don't have coverage of stores such as cigar lounges, for example.
+
+107
+00:18:49.590 --> 00:18:59.210
+Guthrie Scoblic: But, you know, a real benefit of the Nielsen data is that it is coming from the scans, and so it's not, you know, self-reported data from stores or anything.
+
+108
+00:19:00.760 --> 00:19:15.179
+Guthrie Scoblic: We are going to classify products on UPC characteristics into little, large, and premiums, because, you know, just from the data, we only see if it's a cigar, but of course, we're interested in, you know, what bucket or classification it belongs to.
+
+109
+00:19:15.180 --> 00:19:22.560
+Guthrie Scoblic: We can pretty easily do this for little cigars based on, certain characteristics, and for premium, we match a different data set.
+
+110
+00:19:23.460 --> 00:19:37.510
+Guthrie Scoblic: And then for any changes that we have in our tax code over time, we rely on state taxes collected from the tax burden on tobacco reports from 2011 to 2025.
+
+111
+00:19:37.510 --> 00:19:50.780
+Guthrie Scoblic: And then we matched this with CDC state system data as well. And if we see any discrepancy between these two sources, we went and looked at the legal text itself and kind of made a final ruling.
+
+112
+00:19:51.670 --> 00:20:00.630
+Guthrie Scoblic: We also have local taxes that we source from the American Nonsmokers' Rights Foundation through their U.S. Tobacco Control Laws database.
+
+113
+00:20:03.250 --> 00:20:04.120
+Guthrie Scoblic: Okay.
+
+114
+00:20:05.040 --> 00:20:19.329
+Guthrie Scoblic: So, our baseline prices are going to come from Florida in 2010, and so Florida's the only state with no tax on any cigar type in 2010, and that's why we want to use it to get these baseline retail prices.
+
+115
+00:20:19.330 --> 00:20:27.580
+Guthrie Scoblic: That way, we don't have to try to make assumptions about how much of the tax is passed on to the consumer when we're backing out just the pre-tax prices.
+
+116
+00:20:27.970 --> 00:20:40.330
+Guthrie Scoblic: From the NRSD, we have a lot of different UPCs sold across a lot of different stores in Florida, and so we see across 87 UPCs, 6.1 million little cigar sticks sold in the year in the state.
+
+117
+00:20:40.550 --> 00:20:53.480
+Guthrie Scoblic: Across 788 UPCs, 29.5 million large cigars sold. Once again, kind of illustrating that these are the dominant form of cigars sold, across the three different types.
+
+118
+00:20:53.680 --> 00:20:59.369
+Guthrie Scoblic: And then for 324 premium cigar UPCs, we see 3 million of those sold.
+
+119
+00:21:00.110 --> 00:21:09.789
+Guthrie Scoblic: Because we have a lot of cigars being sold across different states in Florida, we're gonna do some Windsorizing of the UPC-specific prices at the 5th and 95th percentile.
+
+120
+00:21:09.790 --> 00:21:20.969
+Guthrie Scoblic: What that means is that we… if it's the 99th percentile of prices, it's replaced with the 95th percentile price. So basically, we're just weeding out some outliers at the top and at the bottom.
+
+121
+00:21:21.870 --> 00:21:29.160
+Guthrie Scoblic: What this gives us are baseline mean retail prices per stick of 15 cents for little cigars.
+
+122
+00:21:29.160 --> 00:21:42.369
+Guthrie Scoblic: 72 cents for large cigars, and $1.53 for premium cigars. And so I think it's just worth kind of reiterating here that these are prices from retail stores, and it's going to exclude places such as cigar lounges.
+
+123
+00:21:42.530 --> 00:21:58.579
+Guthrie Scoblic: And so, you know, if you see that premium price and you think to yourself, that seems a bit low, it could be driven from just kind of the coverage that we have, but it's probably one of the best sources that you can get for prices, at UPCs.
+
+124
+00:22:02.830 --> 00:22:03.620
+Guthrie Scoblic: Okay.
+
+125
+00:22:04.250 --> 00:22:13.800
+Guthrie Scoblic: So we're going to do some validity checks here, you know, we're using 2010 prices, we're using Florida, etc. We first might want to know, you know, are these Florida prices representative?
+
+126
+00:22:13.800 --> 00:22:24.479
+Guthrie Scoblic: And so, the first exercise we're going to carry out is comparing these Florida 2010 cigar prices to states that either have a per-unit amount or a near-zero cigar tax.
+
+127
+00:22:24.550 --> 00:22:30.589
+Guthrie Scoblic: And we're gonna use Arizona, Texas, Pennsylvania, Oklahoma, and Washington, D.C.
+
+128
+00:22:30.890 --> 00:22:35.989
+Guthrie Scoblic: And so for each state, and then the product types, if it's little, large, or premium.
+
+129
+00:22:35.990 --> 00:22:53.489
+Guthrie Scoblic: We're gonna find the UPCs that are sold in that state, and the same UPCs that are sold in Florida, and we're gonna try to find what is the average price in the comparison state and in Florida, and then we're gonna weight it by how many are sold, so that if it's something like a black and mild, that's all, you know, most commonly sold.
+
+130
+00:22:53.490 --> 00:22:57.059
+Guthrie Scoblic: It's gonna have a little more weight given to it for that number.
+
+131
+00:22:57.950 --> 00:23:10.690
+Guthrie Scoblic: For now, we're just going to assume a temporary one-to-one pass-through rate, and so this kind of follows the literature that we've seen for other tobacco products, such as e-cigarettes and cigarettes that have pass-throughs close to 1.
+
+132
+00:23:10.720 --> 00:23:20.659
+Guthrie Scoblic: And we're gonna take that tax amount that we've identified per unit and subtract it from the retail price to find out what we believe the pre-tax price would be.
+
+133
+00:23:21.690 --> 00:23:40.030
+Guthrie Scoblic: When we do this exercise, what we find are Florida prices are about 0.8% lower than the tax-adjusted prices in these comparison states, and that this difference is 1.5 when we weight by the Florida sales, so putting more weight on that black and mild product.
+
+134
+00:23:40.500 --> 00:23:54.240
+Guthrie Scoblic: What this suggests to us is that we can use our Florida prices from 2010, as they're pretty comparable to, you know, different, states in the United States, but also from different regions, if you think Arizona, Pennsylvania.
+
+135
+00:23:56.810 --> 00:24:13.390
+Guthrie Scoblic: Just to maybe illustrate a little bit more what we're doing here, we can look at prices in states that either have no tax, or it's pretty low. So, DC and Pennsylvania don't have any taxes on these products, and then for Texas, it's really small. It's about a penny or less.
+
+136
+00:24:13.780 --> 00:24:32.499
+Guthrie Scoblic: And so, we can see the state price, the Florida price, and then the dollar difference and the percent difference. And what we find is that, you know, sure, there's… there is a difference in the prices, but they seem to be pretty small. For premium cigars, the Florida prices do tend to be somewhat lower than comparison states.
+
+137
+00:24:32.620 --> 00:24:38.499
+Guthrie Scoblic: But for the most part, we think these are pretty good ballpark, or these are all kind of in the same ballpark.
+
+138
+00:24:40.670 --> 00:24:41.460
+Guthrie Scoblic: Alright.
+
+139
+00:24:42.360 --> 00:24:53.239
+Guthrie Scoblic: The next validity check that we want to do are using… is, you know, is using 2010 prices reasonable for our exercise of creating these standardized taxes?
+
+140
+00:24:53.680 --> 00:25:06.039
+Guthrie Scoblic: And so, you might have to kind of think from the perspective of a policymaker, but you can imagine as a policy goal, you want to estimate, how changes in cigar taxes affect cigar consumption.
+
+141
+00:25:06.360 --> 00:25:21.140
+Guthrie Scoblic: Now, if the taxes that we build are constructed from observed prices that fluctuate over time, especially these Ad Valoram taxes, then we might imagine that the tax that we create and price are going to both move with demand.
+
+142
+00:25:21.970 --> 00:25:27.009
+Guthrie Scoblic: And so, if the demand were to fall for little cigars or large cigars.
+
+143
+00:25:27.310 --> 00:25:31.320
+Guthrie Scoblic: The firm is going to subsequently… subsequently lower its price.
+
+144
+00:25:31.340 --> 00:25:47.760
+Guthrie Scoblic: And so if it's an ad valorem tax, or it's a percentage of the price, then of course that tax amount that's collected is going to decrease if the price decreases. And then we could kind of have this spurious regression that we saw a decrease in the tax, we saw a decrease in cigar consumption.
+
+145
+00:25:47.760 --> 00:25:56.659
+Guthrie Scoblic: And we know that doesn't hold true, it's actually averse causation story here, that there was a decrease in cigar consumption that decreased the tax amount that was collected.
+
+146
+00:25:57.590 --> 00:26:16.380
+Guthrie Scoblic: And so, to avoid this problem, we want to use our 2010 prices as kind of this fixed anchor, so that we don't have any changes in our standardized tax over time coming from these general market trends. That the only changes coming in them are coming from statutory or legislative changes instead.
+
+147
+00:26:17.810 --> 00:26:33.250
+Guthrie Scoblic: That way, if we see a change in the tax variable in a given state, we can interpret this as more of an exogenous policy measure, and not just something reflecting changes in demand instead. Or changes in supply, of course. Gotta recognize supply and demand.
+
+148
+00:26:33.400 --> 00:26:34.270
+Guthrie Scoblic: Okay.
+
+149
+00:26:36.310 --> 00:26:42.700
+Guthrie Scoblic: The next thing we want to address are these markup rates that we're using for our cigar taxes.
+
+150
+00:26:42.820 --> 00:26:50.789
+Guthrie Scoblic: And so, states tax cigars at different points in the distribution chain, either as the manufacturer price or the wholesale price.
+
+151
+00:26:50.990 --> 00:26:52.110
+Guthrie Scoblic: And so…
+
+152
+00:26:52.530 --> 00:27:09.269
+Guthrie Scoblic: Just to kind of walk through an example here of why these different markups might matter, let's say we have a cigar that has a manufacturer price of $1, a wholesale price of $1.18, and a retail price of $1.68.
+
+153
+00:27:09.600 --> 00:27:15.269
+Guthrie Scoblic: If we were to levy a 50% tax on the manufacturer, it'd be 50 cents.
+
+154
+00:27:16.220 --> 00:27:35.039
+Guthrie Scoblic: Now, on the wholesaler, it'd be 59 cents, and then on the retailer, it'd be 84 cents. And so, if we want to compare states across taxes, we need to, you know, make sure that we're correctly identifying what these markups are, and since we have… we only observe retail prices, we have to work backwards to what we think that
+
+155
+00:27:35.060 --> 00:27:44.680
+Guthrie Scoblic: Taxed price is, and then hopefully we're getting, an accurate measurement of what that pre-tax price is, making the right assumptions here of what the markups are.
+
+156
+00:27:47.760 --> 00:28:01.379
+Guthrie Scoblic: To make our markup assumptions, we're going to rely on some industry documents that we uncovered from… or that we found on the Truth Tobacco Industry Documents website that's provided through the Master Settlement Agreement.
+
+157
+00:28:01.460 --> 00:28:17.509
+Guthrie Scoblic: And specifically, we use, first, a list of Middleton wholesale prices that John Middleton Company had for some of their dominant cigar products, including Black and Mild. And then we're going to compare this to the retail prices that we observe in Florida.
+
+158
+00:28:18.170 --> 00:28:26.480
+Guthrie Scoblic: And then, we're also gonna rely on some correspondence from an RJ Reynolds executive on what the suggested markup rates should be.
+
+159
+00:28:27.650 --> 00:28:30.209
+Guthrie Scoblic: From these two exercises.
+
+160
+00:28:31.440 --> 00:28:41.689
+Guthrie Scoblic: We're gonna assume that the markup from the wholesaler to the retailer is 18%, and from the retailer to the consumer, it's 42.5%.
+
+161
+00:28:42.190 --> 00:28:53.589
+Guthrie Scoblic: This is, these are higher markups than that we've seen for cigarettes and e-cigarettes, and so if we had just relied on, you know, what's been out there previously, we might have,
+
+162
+00:28:54.280 --> 00:28:57.630
+Guthrie Scoblic: Misrepresented what the standardized tax amounts are.
+
+163
+00:28:59.430 --> 00:29:12.350
+Guthrie Scoblic: This is just a nice example of one of the industry documents that we use, and so this is the exec… or the… yes, the executive at RJ Reynolds emailing this person who was starting up their own cigar business.
+
+164
+00:29:12.500 --> 00:29:31.789
+Guthrie Scoblic: And you can see in point 2 here, they say the markup from wholesale to retail at 8% appears to be low, should be increased to 14% to 22%, and that the markup from retail to consumer at 40% is consistent with information I've received. It can go high as 60%. And so…
+
+165
+00:29:32.080 --> 00:29:33.590
+Guthrie Scoblic: Just nice,
+
+166
+00:29:33.740 --> 00:29:40.170
+Guthrie Scoblic: Something you can go and find on the tobacco industry documents provided from the Master Settlement Agreement.
+
+167
+00:29:42.300 --> 00:29:56.969
+Guthrie Scoblic: Okay, this is, this is a lot to digest, but I think this is basically, what are we putting into the oven to create our standardized tax amounts. And so I'm going to start with the first two bullet points, if there's an add valor of tax in place.
+
+168
+00:29:57.010 --> 00:30:08.149
+Guthrie Scoblic: And so, as a reminder, this add valorim tax is a percentage of the price, and so we first want to identify, does this rate apply to the manufacturer or the wholesale price?
+
+169
+00:30:08.460 --> 00:30:17.079
+Guthrie Scoblic: And then we're gonna take the add valorum rate by the corresponding average pre-tax price, or baseline retail price with the markups removed.
+
+170
+00:30:17.610 --> 00:30:28.730
+Guthrie Scoblic: So, if there's a cap on the tax per stick, that Minnesota example, if you remember, where it was, you know, 95% of the manufacturer price, but a 50-cent cap.
+
+171
+00:30:29.180 --> 00:30:48.939
+Guthrie Scoblic: If the price is below the cap binding price, or if the price is below the cap binding price, the tax collected is the rate times the price. If that cap starts to take effect, then the tax is just the cap, and we're going to take a sales-weighted average, depending on if the prices fall below or above the price where the cap, is implemented.
+
+172
+00:30:49.720 --> 00:30:54.279
+Guthrie Scoblic: And so those first two bullet points are just for Add Valoram tax rates.
+
+173
+00:30:54.660 --> 00:31:05.989
+Guthrie Scoblic: And then, for per unit or specific taxes, this one's about as straightforward as it gets, we're just gonna use the statutory amount per cigar directly, so it might be something like 20 cents per stick.
+
+174
+00:31:06.290 --> 00:31:23.900
+Guthrie Scoblic: And then if there's that tiered rate structure, like the Oklahoma example, we want to convert this into just a single per stick rate. And what we typically end up doing is just using the highest or the most binding tier, and this might give a slight conservative overestimate of the tax amount.
+
+175
+00:31:24.230 --> 00:31:32.560
+Guthrie Scoblic: I'll, you know, an example from Texas, it's either 1.5 cents or 1.1, so I would say it's… can be pretty minimal.
+
+176
+00:31:35.020 --> 00:31:35.870
+Guthrie Scoblic: Alright.
+
+177
+00:31:36.060 --> 00:31:47.279
+Guthrie Scoblic: And then last, looking at these local cigar taxes, we have 88 localities that impose additional cigar taxes above… on top of these state taxes.
+
+178
+00:31:47.380 --> 00:31:59.699
+Guthrie Scoblic: And we have a pretty wide range on who does this. It could be New York City, that's home to, you know, 7 million or 8 million people, and then it could also be Bibb County, Alabama, home to 20,000 people.
+
+179
+00:32:00.740 --> 00:32:10.600
+Guthrie Scoblic: The types that we identify for local cigar taxes, we see a… we see some localities use a per unit tax or a dollar amount per stick.
+
+180
+00:32:10.840 --> 00:32:14.060
+Guthrie Scoblic: Some do an ad valorem tax on the wholesale price.
+
+181
+00:32:14.290 --> 00:32:26.880
+Guthrie Scoblic: We see a few retail-level, add valorim taxes, and so this one's also pretty straightforward to calculate. It's just the retail rate times the retail price. We don't have to make any assumptions about markups there.
+
+182
+00:32:27.250 --> 00:32:32.840
+Guthrie Scoblic: And then we don't observe any local taxes on manufacturer prices.
+
+183
+00:32:33.360 --> 00:32:38.999
+Guthrie Scoblic: One last assumption we're gonna make for these local cigar taxes is that,
+
+184
+00:32:39.680 --> 00:32:52.179
+Guthrie Scoblic: If it's a large cigar tax, it's also going to apply to premium cigars. We don't see any law that really distinguishes these two, or any language that distinguishes these two, and so we just kind of make that simple assumption there.
+
+185
+00:32:52.470 --> 00:32:55.879
+Guthrie Scoblic: And I believe this is my next break for my discussant.
+
+186
+00:32:58.590 --> 00:33:02.030
+Jamie Hartmann-Boyce: Excellent. Thank you so much. Over to you, Dr. Ganz.
+
+187
+00:33:02.030 --> 00:33:07.450
+Ollie Ganz: I don't have any questions, until we get to the end, so, I'm good. Okay.
+
+188
+00:33:07.450 --> 00:33:14.790
+Jamie Hartmann-Boyce: Fabulous. And keep those questions coming via the chat. Thank you to Mike Pesco for answering the ones that have come in so far.
+
+189
+00:33:18.050 --> 00:33:19.750
+Guthrie Scoblic: Alright, cool.
+
+190
+00:33:20.290 --> 00:33:22.779
+Guthrie Scoblic: I will keep going along, then. All right.
+
+191
+00:33:23.420 --> 00:33:42.459
+Guthrie Scoblic: So, we've, described, I guess, what our recipe is. We put it in the oven, now what are we taking out? So, this is a snapshot of our standardized taxes for large cigars by state and quarter, and we're looking at, you know, a few states in 2017 for quarters 1 through quarters 4.
+
+192
+00:33:42.600 --> 00:34:01.259
+Guthrie Scoblic: And, you know, a few things to highlight here. We see quite a bit of variation, you know. The tax in Alaska here at 32 cents is 8 times that of Alabama. And we won't know this because Alaska is a add-valorum tax, Alabama is more of a per-unit tax.
+
+193
+00:34:01.570 --> 00:34:05.729
+Guthrie Scoblic: The next thing I want to note is this red box for California.
+
+194
+00:34:05.990 --> 00:34:20.859
+Guthrie Scoblic: And so in California, at quarter three, their tax rate on the manufacturer price increased from 27% to about 65%. And so that large increase, you know, is definitely reflected in the standardized tax amount.
+
+195
+00:34:21.139 --> 00:34:30.510
+Guthrie Scoblic: Also in Delaware, they increased their tax from 15% to 30%, and so, again, this is, like, a two-fold tax increase, but we see
+
+196
+00:34:30.770 --> 00:34:34.899
+Guthrie Scoblic: It's a, you know, a 6-cent increase instead of…
+
+197
+00:34:35.080 --> 00:34:47.289
+Guthrie Scoblic: You know, a 15-cent increase, kind of highlighting that, you know, the tax did increase twice in magnitude, in terms of the percent that is levied, but it's a different
+
+198
+00:34:47.659 --> 00:34:50.330
+Guthrie Scoblic: Tax amount that's collected.
+
+199
+00:34:52.150 --> 00:34:52.940
+Guthrie Scoblic: Alright.
+
+200
+00:34:53.260 --> 00:35:10.090
+Guthrie Scoblic: Next, I'm gonna just show a snapshot of what our standardized tax database looks like if we evolve it over time. And so we have the premium cigars in green with triangles, large cigars in blue with squares, and then little cigars in the red diamonds.
+
+201
+00:35:10.090 --> 00:35:25.460
+Guthrie Scoblic: And so, you know, that large tax change in California is reflected here, because this is population-weighted. California's gonna get more weight than my home state of South Dakota, and so it's obviously, you know, reflected in this large jump in 2017.
+
+202
+00:35:25.470 --> 00:35:36.080
+Guthrie Scoblic: But for the most part, we see maybe a slight uptick. It could be flat for premium and large cigars, and we do see a bit of an upward trend for little cigars as well.
+
+203
+00:35:40.310 --> 00:35:54.530
+Guthrie Scoblic: The next thing I'm going to present, or I would kind of just call it the fun facts of our standardized tax findings. And so, from 2010 to 2024, the largest increases that we see are,
+
+204
+00:35:54.610 --> 00:36:05.939
+Guthrie Scoblic: Little cigars in New York, a 544% increase. Large cigars in Maryland, a 366% increase. And premium cigars in Utah, a 145% increase.
+
+205
+00:36:06.240 --> 00:36:20.250
+Guthrie Scoblic: For, the largest taxes in the quarter four of 2024, we see that for little cigars, it happens, or they take place in New York, 27 cents, DC, 23 cents, and Connecticut, 22.
+
+206
+00:36:20.520 --> 00:36:38.320
+Guthrie Scoblic: For large cigars and premium cigars, it's the same order of states, goes Vermont, Minnesota, Utah, but for large cigars, that amount is 65, 41, and 37 cents, respectively. And then for premium cigars, 99 cents, 86 cents, and 78 cents, respectively.
+
+207
+00:36:38.830 --> 00:36:40.380
+Guthrie Scoblic: So,
+
+208
+00:36:40.420 --> 00:36:59.260
+Guthrie Scoblic: The coefficient of variation is the… or, excuse me, we're gonna use the coefficient of variation to try to capture, the differences in the state cigar tax, or how much variance is happening in these state cigar taxes compared to cigarettes.
+
+209
+00:36:59.310 --> 00:37:05.560
+Guthrie Scoblic: And what we find is that there is more variance in the cigar taxes compared to cigarettes. And so.
+
+210
+00:37:05.670 --> 00:37:15.420
+Guthrie Scoblic: For cigar taxes, the coefficient of variation for little cigars is 1.02, bar cigars, 0.71, and premium cigars, 0.83.
+
+211
+00:37:15.520 --> 00:37:29.070
+Guthrie Scoblic: For cigarette taxes, this is only 63, 0.63. And so, basically, this is just reflecting that there's more movement happening in these state cigar taxes compared to cigarette taxes.
+
+212
+00:37:31.900 --> 00:37:34.199
+Guthrie Scoblic: Alright, so,
+
+213
+00:37:34.700 --> 00:37:47.600
+Guthrie Scoblic: One of the last things we want to do in our paper is show, basically, what is the bite of these taxes compared to cigarettes? And so, if we were to take maybe a naive approach, and we were to look at the average state tax per stick.
+
+214
+00:37:47.600 --> 00:38:04.500
+Guthrie Scoblic: Going from little to large to premium, we'd say, hey, it's increasing in size. We go from 6.2 cents to 13.6 to 25.2. We can compare this to cigarettes, and we'd say large and premium cigars are taxed more than cigarettes per stick.
+
+215
+00:38:04.590 --> 00:38:15.739
+Guthrie Scoblic: That's good. But, you know, if we think about, you know, the nature of these products, that there's more grams of tobacco per stick for large and premium cigars.
+
+216
+00:38:15.910 --> 00:38:19.870
+Guthrie Scoblic: And so we need to account for this tobacco content by a cigar type.
+
+217
+00:38:21.130 --> 00:38:38.330
+Guthrie Scoblic: And so, if we were to look at large cigars, for example, the average state tax per stick is 13.6 cents, there's 3 grams per stick, and so the tax per gram for a large cigar is 4.3 cents. If we compare this to cigarettes, which is 8 cents per gram.
+
+218
+00:38:38.420 --> 00:38:44.920
+Guthrie Scoblic: We see that cigarettes are taxed about twice as much as, large cigars.
+
+219
+00:38:45.030 --> 00:38:59.190
+Guthrie Scoblic: And so across all three types of cigars, we see that the tax per gram is lower than that of cigarettes, and so if we wanted to match the risk parity, it would… to cigarettes, these cigar taxes would have to be increased.
+
+220
+00:39:01.760 --> 00:39:10.210
+Guthrie Scoblic: Okay, so everything I've showed up to this point is what we show in our working paper. The last stuff I'm going to show is just,
+
+221
+00:39:10.500 --> 00:39:14.570
+Guthrie Scoblic: A, an exercise using our standardized tax data set.
+
+222
+00:39:14.750 --> 00:39:15.960
+Guthrie Scoblic: And so.
+
+223
+00:39:16.080 --> 00:39:27.250
+Guthrie Scoblic: What we want to be interested in, or what we probably would be interested in policymakers, is, you know, how much of a cigar tax is passed through to retail prices if there's a change in the cigar tax?
+
+224
+00:39:27.370 --> 00:39:43.750
+Guthrie Scoblic: And so, we're gonna take our state-by-quarter by cigar type data set, and we're gonna link it to an average price panel from the NRSD, and do our regression, or do our analysis combining these two data sets.
+
+225
+00:39:44.060 --> 00:39:49.100
+Guthrie Scoblic: The formal regression we're gonna run is, we're gonna have the price
+
+226
+00:39:49.390 --> 00:40:03.129
+Guthrie Scoblic: for cigar type C in state S at time T on our left-hand side, and on the right-hand side, we have our standardized tax amount, for cigar type C in state S at time T.
+
+227
+00:40:03.270 --> 00:40:17.370
+Guthrie Scoblic: We're gonna add state and time fixed effects, and then we're gonna estimate this beta here. And what the beta is going to tell us is that if the tax were to increase by 1, let's say, and the price were to increase by 1,
+
+228
+00:40:17.490 --> 00:40:22.859
+Guthrie Scoblic: Then our beta is going to be a 1, assuming our fixed effects are doing their job.
+
+229
+00:40:24.210 --> 00:40:32.580
+Guthrie Scoblic: Normally, the pass-through rate falls between 0 and 1. It depends on the supply and the demand and just the general nature of the market.
+
+230
+00:40:33.490 --> 00:40:50.519
+Guthrie Scoblic: And so, we typically see this on the higher end for tobacco products. So, for example, the pass-through rate of e-cigarettes is 90%. For non-competitive markets like tobacco, it could exceed one. There is, documentation of this. And so.
+
+231
+00:40:51.010 --> 00:41:00.139
+Guthrie Scoblic: A beta of 1 is going to imply a full pass-through. What that means is that if there's a tax increase, all of that is being passed on to the consumer.
+
+232
+00:41:00.880 --> 00:41:01.660
+Guthrie Scoblic: Okay.
+
+233
+00:41:04.150 --> 00:41:19.760
+Guthrie Scoblic: So, this is what our analysis looks like for the three different types of cigars. We're going to first look at little cigars. A thing worth mentioning before we do any analysis is that we're using a difference-in-difference model, and so one of the underlying assumptions is that the
+
+234
+00:41:19.760 --> 00:41:27.629
+Guthrie Scoblic: Here is that the prices in the adopting states would have trended similarly to the non-adopting states absent the tax change.
+
+235
+00:41:27.630 --> 00:41:37.460
+Guthrie Scoblic: And so, these coefficients here, being close to zero and pretty flat, provides pretty good evidence that this parallel trends assumption is,
+
+236
+00:41:37.770 --> 00:41:38.860
+Guthrie Scoblic: being met.
+
+237
+00:41:39.700 --> 00:41:42.730
+Guthrie Scoblic: And then our coefficients here reflect the…
+
+238
+00:41:42.930 --> 00:41:49.260
+Guthrie Scoblic: adopting states than non-adopting states by quarter. And so we see kind of a light,
+
+239
+00:41:49.340 --> 00:42:05.660
+Guthrie Scoblic: Or, excuse me, it takes a little bit for the pass-through to get to 1, but it seems to be kind of gen… genuinely, or generally increasing over, time since the tax change, and the official beta that we report is 1.31.
+
+240
+00:42:06.260 --> 00:42:13.040
+Guthrie Scoblic: So I would assume that, the tax is… the price is actually increasing more than the tax amount.
+
+241
+00:42:14.770 --> 00:42:29.080
+Guthrie Scoblic: The next one we're going to look at are large cigars. Again, these pre-trends look pretty good. We see that it takes a little bit for that… that pass-through rate to go above 1 here. It's a little lower than 1 in the first
+
+242
+00:42:29.090 --> 00:42:35.009
+Guthrie Scoblic: few quarters since the tax change, and the beta that we report is 1.11.
+
+243
+00:42:37.290 --> 00:42:50.459
+Guthrie Scoblic: And then last, we look at premium cigars. The pre-trend here isn't as great as we saw in those previous slides. It's also pretty noisy, some large, confidence intervals you can see on those estimates.
+
+244
+00:42:50.460 --> 00:42:58.080
+Guthrie Scoblic: And we see that the pass-through rate is 2.56, which is pretty large to suggest that either our premium cigar tax
+
+245
+00:42:58.190 --> 00:43:00.300
+Guthrie Scoblic: Measurement is…
+
+246
+00:43:00.390 --> 00:43:16.140
+Guthrie Scoblic: under-reported, or we have an understatement of our premium cigar tax. It could also be that the coverage of premium cigars might not be the best in the price data set that we have. So, we're going to go back to the drawing board on this one, but we are kind of
+
+247
+00:43:16.140 --> 00:43:27.420
+Guthrie Scoblic: You know, confident in the results that we saw for little and large cigars, but it's also still kind of more so exploratory analysis using our data set here of our standardized taxes.
+
+248
+00:43:29.230 --> 00:43:30.190
+Guthrie Scoblic: Alright.
+
+249
+00:43:30.480 --> 00:43:37.290
+Guthrie Scoblic: So, just to kind of summarize what we've done, and our takeaways, and the next steps that we're going to do, we…
+
+250
+00:43:37.460 --> 00:43:47.119
+Guthrie Scoblic: Recognize that cigar tax structures are pretty complex, and that they differ quite a bit across states, and that they can differ depending on the products as well.
+
+251
+00:43:47.470 --> 00:44:03.690
+Guthrie Scoblic: And so by building this standardized per-stick measure, it gives us a way to compare cigar taxes across these different products, whether it's little, large, or premium. We can compare across states and localities, and then time as well.
+
+252
+00:44:04.400 --> 00:44:12.199
+Guthrie Scoblic: From our findings, we see that on a program basis, cigars are taxed less than cigarettes, especially those premium cigars.
+
+253
+00:44:12.580 --> 00:44:24.390
+Guthrie Scoblic: Using our standardized tax rates and then changes in the taxes and a price dataset, we do find that the tax rate has a pass-through above 1 on prices.
+
+254
+00:44:24.650 --> 00:44:26.119
+Guthrie Scoblic: And, you know.
+
+255
+00:44:26.480 --> 00:44:44.149
+Guthrie Scoblic: One of the goals of our paper is that we're going to provide these standardized tax rates. That quarterly panel that I mentioned is going to be provided in our paper, and that this can be used to support future causal studies of cigar taxes on, you know, tobacco use, sales.
+
+256
+00:44:44.150 --> 00:44:49.410
+Guthrie Scoblic: a handful of outcomes that you could imagine. And, I believe
+
+257
+00:44:49.770 --> 00:44:57.830
+Guthrie Scoblic: That is my presentation, so thank you, everybody, for attending, and for those in cold weather, stay warm this weekend, but happy to answer questions.
+
+258
+00:44:58.050 --> 00:45:02.789
+Jamie Hartmann-Boyce: Wonderful. Thank you so much for a great presentation. Before we pass on to the discussant.
+
+259
+00:45:02.790 --> 00:45:20.339
+Jamie Hartmann-Boyce: I just want to say, please keep your questions coming through the Q&A, and note that if we don't have a chance to get to all questions, or if you'd like to discuss with the speaker directly with mics enabled, you're welcome to attend Top of the Tops immediately following this webinar. If interested, please copy the meeting room URL posted in the chat.
+
+260
+00:45:20.340 --> 00:45:26.410
+Jamie Hartmann-Boyce: So that you'll be ready to join the live discussions once this webinar concludes. But over to you, Dr. Ganz.
+
+261
+00:45:26.920 --> 00:45:29.320
+Ollie Ganz: Great, thank you so much.
+
+262
+00:45:29.480 --> 00:45:34.289
+Ollie Ganz: Guthrie, I just want to say that this is so impressive, just in terms of
+
+263
+00:45:34.560 --> 00:45:40.350
+Ollie Ganz: The amount of data that you are working with here, the complexity of it, and it's just clear that
+
+264
+00:45:40.490 --> 00:45:45.270
+Ollie Ganz: you've taken such a rigorous approach at every step. I've…
+
+265
+00:45:45.350 --> 00:46:00.919
+Ollie Ganz: personally worked with the Nielsen cigar data, not any of the other data sources you're talking about, but just with my experience with that, it's… it's messy, it's complicated, and so I… I really… I can really get a sense of how much work went into this, so thank you so much.
+
+266
+00:46:01.290 --> 00:46:02.439
+Guthrie Scoblic: Thank you, yeah.
+
+267
+00:46:03.170 --> 00:46:09.089
+Ollie Ganz: So, one thing… one challenge in doing cigar research is that
+
+268
+00:46:09.470 --> 00:46:22.640
+Ollie Ganz: we know that there are these different cigar types, which you talk about and address, and that they have very different physical characteristics. We've got, you know, different… some have tips, some don't, they're different sizes.
+
+269
+00:46:22.640 --> 00:46:33.589
+Ollie Ganz: And we also know that the user characteristics are different, so if you look at, you know, who's using the little filtered cigars versus who's using premium or cigarillos, they're different people, and they use the products differently.
+
+270
+00:46:33.800 --> 00:46:35.349
+Ollie Ganz: And I think…
+
+271
+00:46:35.600 --> 00:46:47.580
+Ollie Ganz: another challenge is that even within the tobacco control field, there are definitions that differ. Like, some people will say LCCs, little cigars and cigarillos, and put them together. Some people separate them.
+
+272
+00:46:47.780 --> 00:46:56.169
+Ollie Ganz: And something that I've noticed with premium cigars is that we're seeing different definitions even across policy contexts, so…
+
+273
+00:46:56.250 --> 00:47:07.790
+Ollie Ganz: for example, California recently released their unflavored tobacco list, and their definition of premium cigars is different than FDA's definition of premium cigars, and so…
+
+274
+00:47:07.790 --> 00:47:17.980
+Ollie Ganz: That's all to say there's a lot of challenges, in terms of cigars and us sort of, like, not having a legal, consistent definition.
+
+275
+00:47:17.980 --> 00:47:32.579
+Ollie Ganz: And I was wondering if you could just talk a little bit about any challenges that you may have faced in this project with, in regard to cigar taxes, in regard to this issue of, of not really having clear-cut, definitions or consistent definitions of cigar type.
+
+276
+00:47:33.670 --> 00:47:38.810
+Guthrie Scoblic: Yeah, no, that's a… that's a great summary. I think it's, like, maybe it can be intentionally…
+
+277
+00:47:39.040 --> 00:47:45.550
+Guthrie Scoblic: unsure what is classified into what. I would say that… I think, I think that
+
+278
+00:47:45.720 --> 00:47:47.929
+Guthrie Scoblic: I've noticed is that
+
+279
+00:47:48.080 --> 00:48:06.660
+Guthrie Scoblic: you know, a lot of states have tackled little cigars, but the classification of little cigars, we don't really see a lot of sales there. We see most of the sales coming from large cigars. That seems to be, you know, where more of the emphasis should be, and it's almost, you know, when we make these measurements, it's like, do we want to classify
+
+280
+00:48:06.760 --> 00:48:13.339
+Guthrie Scoblic: cigarillo's as little cigars, if that's what the intent of the tax is, but I don't believe, you know, following the actual
+
+281
+00:48:13.520 --> 00:48:20.560
+Guthrie Scoblic: tax law, they're not being taxed as little cigars, they're being taxed as large cigars.
+
+282
+00:48:22.330 --> 00:48:31.029
+Guthrie Scoblic: Yeah, I would probably say that's where my mind first goes to. And, you know, premium cigars as well. You know, when we look… we mentioned this in our paper, but, like.
+
+283
+00:48:31.340 --> 00:48:39.799
+Guthrie Scoblic: the states that do have a definition for a premium cigar, there's not one consistent definition. It differs across all states, so…
+
+284
+00:48:40.280 --> 00:48:46.099
+Ollie Ganz: Yeah, and related to premium cigars, one thing that I've seen that I just find really fascinating is
+
+285
+00:48:46.900 --> 00:49:03.000
+Ollie Ganz: you… I don't… you mentioned it in the draft of the paper that I read, but premium cigars are actually not under FDA's regulatory authority anymore as a result of successful lawsuits by cigar trade associations, and so…
+
+286
+00:49:03.100 --> 00:49:11.000
+Ollie Ganz: Right now, the judge who made that ruling is tasked with finalizing a definition of premium cigars.
+
+287
+00:49:11.000 --> 00:49:23.559
+Ollie Ganz: And there's actually disagreement among the different cigar trade associations as to what the premium cigar definition is. So, you know, it's not just… it's even… it's just so wild to me that it's not just…
+
+288
+00:49:23.600 --> 00:49:32.829
+Ollie Ganz: You know, in the academic space or in the policy space, but even among cigar manufacturers, there's differences in sort of how they're classifying and thinking about premium cigars.
+
+289
+00:49:33.440 --> 00:49:39.260
+Ollie Ganz: So, another question I had for you…
+
+290
+00:49:39.270 --> 00:49:44.839
+Ollie Ganz: You talk about, in your summary, the impact of cigarettes being taxed
+
+291
+00:49:44.840 --> 00:49:59.459
+Ollie Ganz: more than cigars on a program basis, and how, this may encourage replacing one harmful product with another by switching from cigarettes to cigars. And I think that's a really good point, like, you know, we have to think about
+
+292
+00:49:59.940 --> 00:50:07.149
+Ollie Ganz: each product within the context of a diverse tobacco marketplace, right? When we're, you know, implementing policies and stuff, but…
+
+293
+00:50:07.440 --> 00:50:11.329
+Ollie Ganz: I'm curious, you know, since…
+
+294
+00:50:12.090 --> 00:50:17.699
+Ollie Ganz: Cigars are also sold more cheaply, even, like, regardless of the tax.
+
+295
+00:50:17.810 --> 00:50:31.019
+Ollie Ganz: I'm wondering if you have thoughts on whether or not the differential tax rates on cigars may impact movement from one cigar type to another. So, if, you know, little cigars, or… I can't remember which one's taxed higher, but does that question make sense?
+
+296
+00:50:32.300 --> 00:50:43.989
+Guthrie Scoblic: Yeah, that makes sense, for sure, you know, the fact that, you know, I guess you would hope that with the pass-through of the tax, that's being passed on to the price, and that could explain why we see,
+
+297
+00:50:44.880 --> 00:50:52.219
+Guthrie Scoblic: Or, let me rephrase that, you know, if the tax is passed on to the price, that would reflect in a higher price, and that might make
+
+298
+00:50:52.420 --> 00:50:55.519
+Guthrie Scoblic: The… the taxes, at a per stick.
+
+299
+00:50:55.950 --> 00:51:10.349
+Guthrie Scoblic: level, or make the prices on a per-stick level more even. But I could see, you know, switching across the different types. Another thing to note for that little cigar tax measure is that,
+
+300
+00:51:11.190 --> 00:51:17.949
+Guthrie Scoblic: go back to that slide that you mentioned. You know, I provided in one of my first slides that
+
+301
+00:51:18.200 --> 00:51:32.480
+Guthrie Scoblic: You know, 22 states already tax little cigars at the same rate as cigarettes, and so that would kind of infer that the states that don't tax them at that rate are lower than that, that 6.2 cents that we see.
+
+302
+00:51:34.670 --> 00:51:38.349
+Ollie Ganz: Yes. And… yeah, and I just… it's just…
+
+303
+00:51:38.520 --> 00:51:44.159
+Ollie Ganz: It's… what's so different to me about cigarettes… one of the things that's so different about cigarettes and cigars is that
+
+304
+00:51:44.890 --> 00:52:00.929
+Ollie Ganz: just the price barrier in general, regardless of the tax, is so much lower for the cigars. Like, you can buy a 2-pack for 99 cents, and that's just not the case for cigarettes. So, it's just, you know, a different kind of challenge.
+
+305
+00:52:01.620 --> 00:52:05.599
+Ollie Ganz: So, sort of related to that question.
+
+306
+00:52:05.770 --> 00:52:22.099
+Ollie Ganz: we're seeing that some places are taxing non-combustible products like e-cigarettes, and I saw just earlier this week that New York State proposed a tax on nicotine pouches. And so I'm wondering if you could talk a little bit about
+
+307
+00:52:22.100 --> 00:52:38.179
+Ollie Ganz: How, you know, as a next step, perhaps, how you might want to look at other products, you know, like non-combustible products, and how they're taxed, and how that might be related to, you know, sales of combustibles. And yeah, just curious what your thoughts are on that.
+
+308
+00:52:39.000 --> 00:52:44.850
+Guthrie Scoblic: Yeah, it's, I think it's kind of a wild world, in terms of the, kind of, the…
+
+309
+00:52:44.990 --> 00:53:03.899
+Guthrie Scoblic: when we step away from cigarettes and e-cigarettes, there's a whole lot of other stuff, and there's a lot more complexity there as well. So we can even, you know, when we gathered this data, we… you know, from the tobacco, or the tax burden on tobacco reports, we see the rates for, like, snow, snuff, smokeless tobacco as well.
+
+310
+00:53:04.200 --> 00:53:11.759
+Guthrie Scoblic: And, Blanking on where I was going there, but…
+
+311
+00:53:12.280 --> 00:53:30.990
+Guthrie Scoblic: I think that it's really worthwhile to try to get more kind of measurement of these taxes, just because they all differ across these states as well. It's kind of a step-by-step process. We took what has been done in the e-cigarette literature, kind of applied it to cigars, and maybe we can apply more of what we learn here to those products.
+
+312
+00:53:32.060 --> 00:53:50.710
+Ollie Ganz: Yeah, absolutely, and I think I like what you've done here, where you have the comparison across the different cigar types and the cigars, and I think doing that across the, you know, the spectrum of non-combustible products is also, you know, would be really compelling as well. So,
+
+313
+00:53:51.710 --> 00:54:08.229
+Ollie Ganz: Those are… those are my questions. I… I do want to leave time, for some of the… the audience questions, but again, I cannot overstate, how, you know, how much… it's just, you know, this is so much work. This is really incredible, and… and thank you so much.
+
+314
+00:54:08.640 --> 00:54:16.709
+Guthrie Scoblic: But I appreciate it. I've got a… I've got a great support staff, so I have to shout them out as well. But it's not all me. I have great co-authors, but I appreciate it.
+
+315
+00:54:16.710 --> 00:54:17.370
+Ollie Ganz: Sure.
+
+316
+00:54:17.710 --> 00:54:28.380
+Jamie Hartmann-Boyce: Thanks so much, Dr. Ganz and Guthrie, for that great conversation. I have a couple questions from the audience. Please do keep them coming as well. So, we have one comment. I'd be curious
+
+317
+00:54:28.380 --> 00:54:38.270
+Jamie Hartmann-Boyce: how the pass-through rate for cigar taxes compares to cigarettes. I think we would expect pass-through for premium cigars to be higher, because demand is more price inelastic.
+
+318
+00:54:38.270 --> 00:54:51.710
+Jamie Hartmann-Boyce: Versus little cigars, there might be more substitutes for consumers to switch and lower pass-through. Curious how these results fit within the larger pass-through literature. Super interesting results. Do you have any response to that, Guthrie?
+
+319
+00:54:51.880 --> 00:55:02.169
+Guthrie Scoblic: Yeah, I was actually just discussing this with a co-author. I'm sorry that I don't have the citation, ready, but I do know there's a recent paper that… or…
+
+320
+00:55:02.310 --> 00:55:04.359
+Guthrie Scoblic: A paper that's been
+
+321
+00:55:04.630 --> 00:55:17.870
+Guthrie Scoblic: in the works, or it might be Polished, that basically sees that for, kind of, more premium brand cigarettes, that the pass-through rate is larger there compared to, kind of, more cheaper cigarettes, which reflects that
+
+322
+00:55:17.870 --> 00:55:26.890
+Guthrie Scoblic: Either manufacturers can shift more of the price increases to those types because they know the demand for those products is more inelastic
+
+323
+00:55:26.930 --> 00:55:33.629
+Guthrie Scoblic: And so, we could probably apply that same logic to what we see in our results here.
+
+324
+00:55:34.940 --> 00:55:50.719
+Jamie Hartmann-Boyce: Great, thanks. And a related question around pass-through rates. I can imagine a state that imposes taxes on all three products versus a state that imposes taxes on only one or two. When estimating the pass-through rate, do you account for potential correlations among these products?
+
+325
+00:55:51.060 --> 00:55:54.040
+Jamie Hartmann-Boyce: As well as with other related products, like cigarettes.
+
+326
+00:55:54.960 --> 00:56:06.279
+Guthrie Scoblic: Yeah, that's a… that's a good question. I would say this is about as… I shouldn't say naive, but this is about as baseline as it gets for a pass-through. That's definitely something worth exploring.
+
+327
+00:56:06.330 --> 00:56:17.699
+Guthrie Scoblic: kind of, if we're seeing an increase in little and large at the same time, trying to either, you know, account for that in our research, or maybe just not use that in the analysis. So, it's a good point.
+
+328
+00:56:19.540 --> 00:56:29.980
+Jamie Hartmann-Boyce: Great! Thank you so much. I am going to hand us over to our MC to close us out, but thank you for a brilliant discussion and presentation, Guthrie.
+
+329
+00:56:29.980 --> 00:56:32.329
+Guthrie Scoblic: Thank you. Should I stop sharing my screen?
+
+330
+00:56:32.330 --> 00:56:34.719
+Jamie Hartmann-Boyce: You are welcome to stop sharing your screen.
+
+331
+00:56:34.720 --> 00:56:35.320
+Guthrie Scoblic: Okay.
+
+332
+00:56:39.080 --> 00:56:57.449
+Aarushi Rohila: So, we are out of time. However, if you do have any burning questions or thoughts for Guthrie Skoblick, you can join us for Top of the Tops, which is an interactive group discussion. To join, please copy the Zoom meeting URL posted in the chat and switch rooms with us once the event concludes.
+
+333
+00:56:57.450 --> 00:57:14.669
+Aarushi Rohila: We'll leave this webinar room open for about an extra minute at the end to give everyone a chance to copy the URL, which is bit.ly slash topsmeeting, all lowercase. Thank you to our presenter, moderator, and discussant, and finally, thank you to our audience of 118 people.
+
+334
+00:57:14.670 --> 00:57:17.609
+Aarushi Rohila: to… for your participation. Have a top-notch weekend.
+
