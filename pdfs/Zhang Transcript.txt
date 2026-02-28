@@ -1,0 +1,1242 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.980
+Kyla Scott: educated for… Poor.
+
+2
+00:00:02.150 --> 00:00:22.040
+Kyla Scott: Tobacco Free Nebraska, at the Nebraska Department of Health and Human Services. TOPS is organized by Mike Pesco at the University of Missouri, C. Shea at The Ohio State University, Michael Darden at John Hopkins University, Jamin Hartman Boyce at the University of Massachusetts Amherst, and Justin White at Boston University.
+
+3
+00:00:22.040 --> 00:00:41.910
+Kyla Scott: This seminar will be one hour with questions from the moderator and discussant. The audience may post questions and comments in the Q&A panel, and the moderator will draw from these questions and comments in conversation with the presenter. Please review the guidelines on tobaccoPolicy.org for acceptable questions. Please keep the questions professional and related to the research being discussed.
+
+4
+00:00:41.910 --> 00:00:58.269
+Kyla Scott: Questions that meet the seminar series guidelines will be shared with the presenter after work, even if they are not read aloud. Your questions are very much appreciated. This presentation is being video recorded and will be made available along with the presentation slides on the TOPS website, tobaccoPolicy.org.
+
+5
+00:00:58.270 --> 00:01:06.319
+Kyla Scott: I'll turn the presentation over to today's moderator, Jamie Hartman-Boyce from the University of Massachusetts Amherst, to introduce our speaker.
+
+6
+00:01:06.810 --> 00:01:24.069
+Jamie Hartmann-Boyce: Thanks so much, Kyla. Today, we continue our Winter 2026 season with a single paper presentation by Xi-Chi Zhang entitled, Systematic Review of Stated Preference Experiments in Tobacco Research. This presentation was selected by a competitive review process by submission through the TOPS website.
+
+7
+00:01:24.600 --> 00:01:38.950
+Jamie Hartmann-Boyce: Shichi Zhang is a PhD candidate in Agriculture, Environmental, and Development Economics at The Ohio State University, or OSU. He also serves as a graduate research assistant at the Center for Tobacco Research, OSU James Comprehensive Cancer Center.
+
+8
+00:01:39.190 --> 00:01:56.470
+Jamie Hartmann-Boyce: His primary research interests lie in transportation, urban, and health economics. He's currently connecting research on substance use and regulation using choice experiments and other causal inference methods. Xi Chi's research has been published in the European Journal of Health Economics and Preventative Medicine Reports.
+
+9
+00:01:56.500 --> 00:02:08.029
+Jamie Hartmann-Boyce: Dr. C. Shang, an associate professor at the OSU College of Medicine, is a co-author of the study, and will answer select questions in the Q&A. Shichi, thank you so much for presenting for us today.
+
+10
+00:02:21.110 --> 00:02:25.850
+Shiqi Zhang: Yeah, thank you
+
+11
+00:02:27.960 --> 00:02:41.709
+Shiqi Zhang: Hello everyone, thanks for joining our presentation today. I'm Xu Xi Zhan, and today I'm glad to present our study, Assistant Medical Review of Stated Preference Experiments in Tobacco Research.
+
+12
+00:02:43.740 --> 00:02:47.929
+Shiqi Zhang: So let me start from our background and review questions.
+
+13
+00:02:48.930 --> 00:02:56.090
+Shiqi Zhang: So, stated preference experiments is an increasingly popular method used in tobacco research.
+
+14
+00:02:56.220 --> 00:03:03.910
+Shiqi Zhang: It is usually used to address the needs for evaluating policies, especially those regulating emerging products.
+
+15
+00:03:04.560 --> 00:03:21.890
+Shiqi Zhang: Here we do a comparison, compared with the reviewed preferences. State of preference methods usually use experiments rather than observational data. It studies… it studies the hypothetical behavior rather than the behavior in the real world.
+
+16
+00:03:22.030 --> 00:03:28.819
+Shiqi Zhang: And one of the advantages of stated preference is that it can explore noble products.
+
+17
+00:03:28.930 --> 00:03:32.610
+Shiqi Zhang: Or new policies that are not implemented.
+
+18
+00:03:32.950 --> 00:03:40.070
+Shiqi Zhang: Because stated preference analysis is carried with experiments, this method can get rid of
+
+19
+00:03:40.270 --> 00:03:46.160
+Shiqi Zhang: Real-world limitations, such as lack of variation or confounding factors.
+
+20
+00:03:46.420 --> 00:03:52.670
+Shiqi Zhang: It can also study products that are underreported or not well captured by the survey data.
+
+21
+00:03:56.750 --> 00:04:11.639
+Shiqi Zhang: So, there are various experiment… experimental methods, like discrete choice experiments, or DCE, and the best word scaling are the most com- are the most classic ones.
+
+22
+00:04:11.740 --> 00:04:25.509
+Shiqi Zhang: Some researchers can combine the two methods. Experimental Tobacco Marketplace, or ETM, is an emerging method started from mid-2010s.
+
+23
+00:04:25.740 --> 00:04:28.700
+Shiqi Zhang: There is one more,
+
+24
+00:04:28.820 --> 00:04:34.970
+Shiqi Zhang: Stated preference methods called hypothetical purchase task.
+
+25
+00:04:35.200 --> 00:04:51.510
+Shiqi Zhang: It uses consumption of one product in response to a wide range of price variations. Because it focuses on only one product, rather than comparing preferences between products, we do not include it in our sample.
+
+26
+00:04:53.150 --> 00:05:01.779
+Shiqi Zhang: Here, I would like to, give you several examples of those stated preference experiments,
+
+27
+00:05:01.890 --> 00:05:13.419
+Shiqi Zhang: stated preference methods. So DCEs are the most popular stated preference method used in tobacco research. So here is an example.
+
+28
+00:05:13.510 --> 00:05:28.110
+Shiqi Zhang: Researchers, in this case, researchers, will let respondents to choose among different products with different features, such as price, banning in public places, and health consequences.
+
+29
+00:05:28.550 --> 00:05:37.449
+Shiqi Zhang: Prices are recommended to include in the discrete choice experiment, but it's not necessary.
+
+30
+00:05:37.760 --> 00:05:39.990
+Shiqi Zhang: The outcome…
+
+31
+00:05:40.250 --> 00:05:49.370
+Shiqi Zhang: of DCEs is usually binary, but there are some extensions to… that ask about the quantities the respondents choose.
+
+32
+00:05:49.690 --> 00:05:54.789
+Shiqi Zhang: And we call it Volumetric Choice Experiment, or VCE.
+
+33
+00:05:57.070 --> 00:06:02.029
+Shiqi Zhang: Here, is an example of tobacco password scaling.
+
+34
+00:06:02.030 --> 00:06:23.160
+Shiqi Zhang: there are 3 cases of password scaling. Case 1 includes a list of items, for example, features or brands. Most studies in Case 1 focuses on tobacco cessation treatments or health outcomes, so we do not include Case 1 BWS in our sample.
+
+35
+00:06:23.480 --> 00:06:40.829
+Shiqi Zhang: And the example shown here is of case 2. In this case, researchers will ask respondents to answer which feature of products makes him most or least want to use the specific product.
+
+36
+00:06:41.040 --> 00:06:48.720
+Shiqi Zhang: And in case 3, respondents will face a series of product profiles and choose the best and worst options.
+
+37
+00:06:50.240 --> 00:07:00.739
+Shiqi Zhang: Since DCEs also led respondents to choose among products, so some researchers combine the two methods in this sense.
+
+38
+00:07:02.850 --> 00:07:15.099
+Shiqi Zhang: Here is an example of, experimental tobacco marketplace. So, price variation is necessary, in this case, to elicit consumptions
+
+39
+00:07:15.330 --> 00:07:24.499
+Shiqi Zhang: And the experiment will mimic the real purchase behavior, and participants can take home money according to their behaviors.
+
+40
+00:07:26.630 --> 00:07:39.239
+Shiqi Zhang: So, there are many review studies on those three methods for DCEs. The researchers conclude that the number of DCE studies grew rapidly in the last decades.
+
+41
+00:07:39.360 --> 00:07:46.759
+Shiqi Zhang: And it is an ideal tool to inform regulatory policies, but with some limitations.
+
+42
+00:07:47.380 --> 00:08:06.039
+Shiqi Zhang: And specifically to the tobacco research, Ragmi et al. 2018 did a great review, but the results need to be updated, since the studies of DCEs have been rapidly increasing during recent years.
+
+43
+00:08:07.460 --> 00:08:24.530
+Shiqi Zhang: There are also many review studies on BWS. The researchers conclude that it is becoming a mainstream method, but no BWS review focusing on tobacco marketplace only, so this is a gap we will fill in.
+
+44
+00:08:24.700 --> 00:08:44.440
+Shiqi Zhang: And since ETM is an emerging method, there are less review studies on it. Bico et al. 2018 conclude that it is usually used to explore the conditions where various tobacco products may interact with one another.
+
+45
+00:08:44.440 --> 00:08:54.220
+Shiqi Zhang: And it is specific… it is the method that's specific to tobacco, but also have some applications in cannabis and alcohol.
+
+46
+00:08:56.620 --> 00:09:11.740
+Shiqi Zhang: So, we think it's time to conduct a systematic review of various tobacco experiments, because, because of existing reviews are either not specific to tobacco studies or are outdated.
+
+47
+00:09:11.740 --> 00:09:22.200
+Shiqi Zhang: And, the increasing number of total experiments in the literature also requires me to, do an updated
+
+48
+00:09:22.620 --> 00:09:34.480
+Shiqi Zhang: review studies. So, our goal is to first summarize the terminologies and practice of various experiments.
+
+49
+00:09:34.850 --> 00:09:41.290
+Shiqi Zhang: And then identify similarities and differences between the experimental methods.
+
+50
+00:09:41.520 --> 00:09:56.210
+Shiqi Zhang: And we also want to assess the quality and risks for bias in these experiments, and their policy relevance and impacts. And finally, we would like to develop a guideline for tobacco experiments.
+
+51
+00:10:00.020 --> 00:10:07.580
+Shiqi Zhang: So, this is how we do our, review study. We first…
+
+52
+00:10:07.580 --> 00:10:18.750
+Shiqi Zhang: used PRISMA guidelines to develop our systematic review protocol, and we registered it with the Prospero, code as shown here.
+
+53
+00:10:18.750 --> 00:10:30.419
+Shiqi Zhang: We do a lot of searching work, our search database are, Web of Science, Scalpus, EconLit, and PubMed.
+
+54
+00:10:30.470 --> 00:10:51.890
+Shiqi Zhang: We come up with searching method, we come up with searching terms, according to our knowledge, to current stated preference studies, and then we modify these searching terms for each searching engine and use several iterations to improve the list terms by accounting for, some alternative spellings.
+
+55
+00:10:52.400 --> 00:10:58.310
+Shiqi Zhang: And the databases were last searched on August 31st, 2023.
+
+56
+00:10:59.850 --> 00:11:04.150
+Shiqi Zhang: We have some eligibility criteria to help
+
+57
+00:11:04.280 --> 00:11:07.649
+Shiqi Zhang: Screening our, to help screen the studies.
+
+58
+00:11:07.980 --> 00:11:16.810
+Shiqi Zhang: So, I will pause a little bit here so that you can race through the criteria, and I will also, talk.
+
+59
+00:11:17.090 --> 00:11:34.079
+Shiqi Zhang: So, first, the studies should be written in English, and we also include the studies with stated preference experiments related to tobacco purchasing behavior or to the regulation of tobacco marketplace.
+
+60
+00:11:34.360 --> 00:11:42.770
+Shiqi Zhang: And we don't consider studies that are reviewed preference, or using secondary data, or doing qualitative or case studies.
+
+61
+00:11:43.220 --> 00:11:45.209
+Shiqi Zhang: We're doing review studies.
+
+62
+00:11:46.300 --> 00:11:54.609
+Shiqi Zhang: We also exclude studies that do not include participants or trade tobacco products as an attribute.
+
+63
+00:11:55.430 --> 00:12:02.739
+Shiqi Zhang: We also exclude those with only one product and many features, and
+
+64
+00:12:02.880 --> 00:12:14.860
+Shiqi Zhang: Because studies focusing on tobacco cessation treatments are usually considering the behavior interventions on one product, and thus we do not include them in our sample as well.
+
+65
+00:12:17.230 --> 00:12:28.920
+Shiqi Zhang: So we use the covidence as a tool during our screening process, and we do a double coating process, which takes very stages.
+
+66
+00:12:29.810 --> 00:12:41.089
+Shiqi Zhang: Including title and abstract review, full text review, and finally, we do a quality check. On the right here, I produce the…
+
+67
+00:12:41.090 --> 00:12:56.479
+Shiqi Zhang: inter-rater reliability of stage 1 and 2. The reliability of stage 1 are about, .73, and for stage 2, it's around, .77.
+
+68
+00:12:56.480 --> 00:13:02.770
+Shiqi Zhang: These numbers indicate that returns are agreed fairly strongly during screening process.
+
+69
+00:13:05.370 --> 00:13:13.739
+Shiqi Zhang: Here is our, searching and screening results and final sample components.
+
+70
+00:13:13.790 --> 00:13:32.270
+Shiqi Zhang: So, we provide the flow chart of our work here. So after screening, the final sample includes 79 papers, and because some have multiple experiments, so there are, 94 experiments in total.
+
+71
+00:13:35.030 --> 00:13:49.579
+Shiqi Zhang: After the screening process, we extract information from studies in the final sample according to these five aspects. The experimental characteristics, recruitment, and administration.
+
+72
+00:13:49.600 --> 00:13:56.869
+Shiqi Zhang: Experimental methodology, analysis and modeling, and study quality and policy relevance.
+
+73
+00:13:57.140 --> 00:14:01.849
+Shiqi Zhang: And we score each experiment according to PrEP's checklist.
+
+74
+00:14:02.880 --> 00:14:15.349
+Shiqi Zhang: Which measures the quality of purpose, respondent sampling, explanations, and finding completeness and significance testing.
+
+75
+00:14:15.760 --> 00:14:23.410
+Shiqi Zhang: And besides, each reviewer had their own subjective quality score and policy relevance score.
+
+76
+00:14:25.330 --> 00:14:30.580
+Shiqi Zhang: So, before I enter in the result part, do you have any questions?
+
+77
+00:14:32.920 --> 00:14:50.030
+Jamie Hartmann-Boyce: Thanks so much. So, audience members, please do start putting your questions in the Q&A. I'm also really happy to say that today we have a wonderful discussant, Dr. Roberta Fredas-Lemos, an assistant professor at the Fralin Biomedical Research Institute of Virginia Tech, Carilion.
+
+78
+00:14:50.120 --> 00:15:01.219
+Jamie Hartmann-Boyce: She's interested in experimentally investigating the effects of tobacco policies on tobacco purchases and consumption. So, Roberta, I will hand over to you for any comments you might have at this point.
+
+79
+00:15:02.340 --> 00:15:16.040
+Roberta Freitas-Lemos: Yeah, thanks for inviting me to discuss this presentation, Jamie. I wanted to compliment the authors. This is a great initiative to bring together these methods under the same umbrella.
+
+80
+00:15:16.040 --> 00:15:25.440
+Roberta Freitas-Lemos: I think it is a time when there are increasing questions about and ex… skepticism about the experimental methods, that we use.
+
+81
+00:15:25.440 --> 00:15:34.020
+Roberta Freitas-Lemos: So I think this kind of integrative review is especially valuable, and it helps clarify how… what these approaches actually contribute.
+
+82
+00:15:34.160 --> 00:15:48.100
+Roberta Freitas-Lemos: I'm curious just, how you see, the roles of those methods differing, in terms of, under what condition or questions should we choose each of them? And you mentioned a guideline, and maybe you're gonna talk about.
+
+83
+00:15:48.100 --> 00:15:51.089
+Shiqi Zhang: Yes, in the end, I will measure the guidelines.
+
+84
+00:15:51.090 --> 00:15:51.850
+Roberta Freitas-Lemos: Okay.
+
+85
+00:15:52.110 --> 00:15:52.660
+Shiqi Zhang: Yeah.
+
+86
+00:15:52.840 --> 00:15:56.880
+Shiqi Zhang: I will provide some, suggestions,
+
+87
+00:15:57.730 --> 00:16:03.099
+Shiqi Zhang: How… how you choose the method based on your, study goals.
+
+88
+00:16:03.440 --> 00:16:11.410
+Roberta Freitas-Lemos: Okay, and then you also stated that one goal was to assess, policy relevance and impact. Can you help, us understand
+
+89
+00:16:11.610 --> 00:16:14.250
+Roberta Freitas-Lemos: How you defined and you measure that?
+
+90
+00:16:14.900 --> 00:16:17.800
+Shiqi Zhang: You mean a fourth one? Here?
+
+91
+00:16:18.260 --> 00:16:18.840
+Roberta Freitas-Lemos: Yeah.
+
+92
+00:16:20.010 --> 00:16:25.720
+Shiqi Zhang: Yes, actually, we, we have a score.
+
+93
+00:16:26.520 --> 00:16:43.450
+Shiqi Zhang: That is, like, like here. It's subjective, so, each reviewer will score the policy relevance, so, they, they will, they will score based on their understanding of the study and understanding of.
+
+94
+00:16:43.760 --> 00:16:48.469
+Shiqi Zhang: The conclusion and extrapolations, of…
+
+95
+00:16:48.840 --> 00:17:00.339
+Shiqi Zhang: Whether, this is relevant to policies, or maybe in the studies, the authors will write out, write explicitly that
+
+96
+00:17:00.650 --> 00:17:04.150
+Shiqi Zhang: Some relevant policies, and we will…
+
+97
+00:17:04.390 --> 00:17:09.809
+Shiqi Zhang: We will give relatively high scores on those studies, for example. Yeah.
+
+98
+00:17:10.359 --> 00:17:12.020
+Shiqi Zhang: Does that answer your question?
+
+99
+00:17:12.579 --> 00:17:13.489
+Roberta Freitas-Lemos: Thank you.
+
+100
+00:17:16.970 --> 00:17:25.419
+Jamie Hartmann-Boyce: I'm not seeing any more questions from the audience right now, so I think continue with your presentation, and please do start putting those in the Q&A, and thank you so much, Roberta.
+
+101
+00:17:25.760 --> 00:17:26.910
+Shiqi Zhang: Okay, thank you.
+
+102
+00:17:28.860 --> 00:17:47.060
+Shiqi Zhang: So, first I would like to provide, the published, publication trends. So here is the number of studies published across years. Before 2015, there were a few state preference studies on tobacco marketplace.
+
+103
+00:17:47.080 --> 00:17:50.460
+Shiqi Zhang: And after that, there was a huge increase.
+
+104
+00:17:50.860 --> 00:18:08.209
+Shiqi Zhang: And specifically to different study types, DCEs remained the most popular across years. PWS was emerging, but less popular, and we can see that ETM emerged after 2015 and became increasingly popular.
+
+105
+00:18:10.470 --> 00:18:15.489
+Shiqi Zhang: So, here I'll provide…
+
+106
+00:18:15.630 --> 00:18:33.670
+Shiqi Zhang: the summary of the number of studies by tobacco features and regulations. So, most studies include price and flavor, as their main, features, and because these two are frequently mentioned in their related… in the related regulations.
+
+107
+00:18:34.140 --> 00:18:40.640
+Shiqi Zhang: And besides, warnings, messaging, and packaging design is popular.
+
+108
+00:18:41.200 --> 00:18:55.549
+Shiqi Zhang: In stated preference studies as well, because it is easier to study individuals' respondents to these features under experiment… under experiments, rather than using observational data.
+
+109
+00:18:56.450 --> 00:19:04.650
+Shiqi Zhang: And there are many other features, like packaging… package size or beliefs. We put them in the other category.
+
+110
+00:19:07.370 --> 00:19:08.980
+Shiqi Zhang: So,
+
+111
+00:19:09.260 --> 00:19:24.670
+Shiqi Zhang: Here, I provide the percentage of sampling characteristics, so most experiments conducted in the US, and the participants are generally older adults, the orange part in the middle.
+
+112
+00:19:24.930 --> 00:19:30.810
+Shiqi Zhang: But there are also studies focusing on youth and young adults, which is the red part.
+
+113
+00:19:31.370 --> 00:19:40.930
+Shiqi Zhang: And most studies focus on tobacco users or general population. Only 1% focus on non-tobacco users.
+
+114
+00:19:41.190 --> 00:19:46.869
+Shiqi Zhang: The average sample size is about 725,
+
+115
+00:19:47.770 --> 00:19:53.619
+Shiqi Zhang: With the minimum at, 20, and maximum at over, 5,000.
+
+116
+00:19:58.160 --> 00:20:15.140
+Shiqi Zhang: So most studies did not justify their sample size, and among those who justify, most use sample size calculation method, and some use historical or empirical information to justify.
+
+117
+00:20:16.370 --> 00:20:27.529
+Shiqi Zhang: So, sample size calculation is, generally, there are two ways to do the sample size calculation. One is power-based,
+
+118
+00:20:27.530 --> 00:20:36.589
+Shiqi Zhang: Where the researchers will choose a sample size, so the study has a high chance of detecting a meaningful effect.
+
+119
+00:20:37.070 --> 00:20:43.559
+Shiqi Zhang: And about the second one is the precision-based justification, so…
+
+120
+00:20:43.920 --> 00:20:49.989
+Shiqi Zhang: In this case, the researchers will choose the sample size to make estimates precise enough.
+
+121
+00:20:51.560 --> 00:20:57.419
+Shiqi Zhang: And on the right, I provide the percentage of administration modality.
+
+122
+00:20:57.750 --> 00:21:13.439
+Shiqi Zhang: So, most experiments was conducted online, and respondents completed by themselves, and other administration modality include respondents complete experiments on computer or by paper.
+
+123
+00:21:13.440 --> 00:21:18.060
+Shiqi Zhang: For us, or they are asked questions by an interviewer.
+
+124
+00:21:21.480 --> 00:21:29.850
+Shiqi Zhang: Here are two histograms that shows the distribution of experiment complexity and participants' burden.
+
+125
+00:21:30.120 --> 00:21:38.570
+Shiqi Zhang: So, most experiments have less than 5 attributes, or have less than 12 tasks per person.
+
+126
+00:21:39.470 --> 00:21:47.060
+Shiqi Zhang: So, by participants per student, I mean how many, number of tasks
+
+127
+00:21:47.280 --> 00:22:01.200
+Shiqi Zhang: a person need to complete. Because some experiments may have multiple sections, so respondents can finish some tasks in one section, and then take a rest, and then continue to finish other tasks.
+
+128
+00:22:01.310 --> 00:22:12.010
+Shiqi Zhang: So here, we only, so here, the index we use is the total number of tasks per person.
+
+129
+00:22:15.330 --> 00:22:23.439
+Shiqi Zhang: Here, I provide the analytical… as for the analytical methods.
+
+130
+00:22:23.660 --> 00:22:33.650
+Shiqi Zhang: Among studies with explicit statements of analysis model, conditional multinomial logic is the most common one.
+
+131
+00:22:33.940 --> 00:22:43.700
+Shiqi Zhang: And some studies also use latent class or random effect or mixed logic to analyze their experiments.
+
+132
+00:22:44.130 --> 00:22:53.469
+Shiqi Zhang: And other analysis models include mixed linear regressions, sequential best-force choice modeling, etc.
+
+133
+00:22:55.010 --> 00:23:01.080
+Shiqi Zhang: On the other hand, the outcome measure aren't…
+
+134
+00:23:01.360 --> 00:23:13.260
+Shiqi Zhang: are not consistent, are not consistently reported among studies. The most reported common, the most commonly reported outcomes is the,
+
+135
+00:23:13.450 --> 00:23:22.610
+Shiqi Zhang: coefficients. But some studies also report relative importance, or else ratio, or market shares predictions.
+
+136
+00:23:23.320 --> 00:23:25.019
+Shiqi Zhang: And etc.
+
+137
+00:23:30.870 --> 00:23:50.340
+Shiqi Zhang: So, in our sample, 31 experiments use qualitative methods. Interviews is the most common one, and there are 3 rationales of using qualitative methods appear in the experiments with equal, importance.
+
+138
+00:23:52.560 --> 00:23:58.789
+Shiqi Zhang: So, they are level selection, attribute selection, and pre-testing questionnaire.
+
+139
+00:24:01.900 --> 00:24:14.840
+Shiqi Zhang: Most experiments report main effects only, only, about 20% also, report The two-way interaction.
+
+140
+00:24:15.460 --> 00:24:21.420
+Shiqi Zhang: And among those reports, reported with design software.
+
+141
+00:24:21.780 --> 00:24:26.399
+Shiqi Zhang: They use, the sawtooth is the most common one.
+
+142
+00:24:29.520 --> 00:24:45.309
+Shiqi Zhang: Most studies did not assess the heterogeneity. Among those who did, 31 experiments carried a stratified analysis to estimate the heterogeneity effects among different groups.
+
+143
+00:24:45.750 --> 00:24:55.300
+Shiqi Zhang: And, as for the external validity tests… testing, the experiment's validity is…
+
+144
+00:24:55.540 --> 00:25:02.339
+Shiqi Zhang: Most experiments use findings from existing literature to justify the validity
+
+145
+00:25:02.600 --> 00:25:09.970
+Shiqi Zhang: Other sources include, observed data, like Nielsen and National Survey.
+
+146
+00:25:11.030 --> 00:25:15.840
+Shiqi Zhang: Or use, qualitative data, or use calibration methods.
+
+147
+00:25:19.410 --> 00:25:26.619
+Shiqi Zhang: So here is the results of our scoring. We used the preps list.
+
+148
+00:25:27.550 --> 00:25:44.869
+Shiqi Zhang: So, prep scoring is a popular method used to evaluate the quality of studies. The studies are scored according to the checklist by each reviewers. The prep score is between 0 and 1.
+
+149
+00:25:45.650 --> 00:25:47.480
+Shiqi Zhang: So,
+
+150
+00:25:47.930 --> 00:25:59.229
+Shiqi Zhang: The prep score actually evaluates five aspects of the study, whether the purpose is clearly stated, whether respondents are similar to non-respondents.
+
+151
+00:25:59.320 --> 00:26:11.800
+Shiqi Zhang: And also the clarity of explanations of methodology, the completeness of findings, and whether significant tests were used.
+
+152
+00:26:12.350 --> 00:26:22.419
+Shiqi Zhang: And because it is scaled between 0 and 1, we can regard the means, the averages, as the percentage as well.
+
+153
+00:26:22.550 --> 00:26:30.189
+Shiqi Zhang: So, we find that in our sample, the purpose of all studies are considered to be clearly stated.
+
+154
+00:26:30.190 --> 00:26:42.779
+Shiqi Zhang: But few studies did the… but because the… because few studies did the test of experiment quality, so we can see that the second score is low here.
+
+155
+00:26:43.770 --> 00:26:48.509
+Shiqi Zhang: This may indicate biases in experiments.
+
+156
+00:26:48.850 --> 00:27:04.180
+Shiqi Zhang: And we also find, 97% of experiments have clear explanations on methods, and 93% have complete findings, and 96% use significant tests.
+
+157
+00:27:04.450 --> 00:27:11.479
+Shiqi Zhang: In summary, the average PrEP score is 3.89.
+
+158
+00:27:19.160 --> 00:27:34.860
+Shiqi Zhang: So, we also evaluate the policy relevance. We find that 80, 86 experiments had clearly stated policy statements, and 76 experiments had FDA research priority.
+
+159
+00:27:37.430 --> 00:27:43.289
+Shiqi Zhang: In the final part, we compared between, ETM and BWS.
+
+160
+00:27:46.510 --> 00:27:59.690
+Shiqi Zhang: We find that respondents' consumption are regarded as continuous in all ATM studies, while only 1.5% of BWS DCE experiments are continuous in consumption.
+
+161
+00:28:00.070 --> 00:28:10.100
+Shiqi Zhang: And the administration also shows difference. We find that most DCEBWS conducted online
+
+162
+00:28:10.670 --> 00:28:17.409
+Shiqi Zhang: Because most DCE and BWS conducted online, there are a relatively low percentage
+
+163
+00:28:18.020 --> 00:28:24.729
+Shiqi Zhang: of administration in person, while ETM are more likely to conduct it in person.
+
+164
+00:28:26.980 --> 00:28:33.589
+Shiqi Zhang: And we also compare the number of product alternatives, attributes, and sample size.
+
+165
+00:28:34.840 --> 00:28:47.370
+Shiqi Zhang: We find that ATM studies have relatively large number of alternative options, but with less number of attributes and smaller sample size.
+
+166
+00:28:50.500 --> 00:29:06.970
+Shiqi Zhang: On the other hand, the two methods also have something in common. Both BWS and DCE and ATM can be administrated online to obtain a large sample size.
+
+167
+00:29:07.100 --> 00:29:14.359
+Shiqi Zhang: And, both within and between subject variations can be built into BWSDCE and ATM.
+
+168
+00:29:14.540 --> 00:29:20.909
+Shiqi Zhang: And, both ways CAE and ATMs explicit consumption units or measures.
+
+169
+00:29:22.040 --> 00:29:28.329
+Shiqi Zhang: And both methods can contain a wide range of opt-out or status quo product options.
+
+170
+00:29:31.420 --> 00:29:34.840
+Shiqi Zhang: So, here is our conclusion.
+
+171
+00:29:35.540 --> 00:29:54.210
+Shiqi Zhang: So, first, DCEs and BWS, DCEs contains more product attributes and have larger sample size, while ETM is more likely to be, administrated in person and, can contain more tobacco products.
+
+172
+00:29:55.430 --> 00:29:59.209
+Shiqi Zhang: And we also find some,
+
+173
+00:29:59.620 --> 00:30:04.680
+Shiqi Zhang: Some areas that can call for improvements of the experiments.
+
+174
+00:30:04.700 --> 00:30:18.880
+Shiqi Zhang: For example, using qualitative data to design and interpret experimental data, or assessing heterogeneity, or testing external validity.
+
+175
+00:30:18.880 --> 00:30:28.640
+Shiqi Zhang: And we report comparable measures and outcomes, we think will significantly improve the quality of the experiments.
+
+176
+00:30:30.560 --> 00:30:34.660
+Shiqi Zhang: So here is, here are our suggestions.
+
+177
+00:30:35.660 --> 00:30:41.040
+Shiqi Zhang: So, if your study focuses on preference between, many products.
+
+178
+00:30:41.170 --> 00:30:48.570
+Shiqi Zhang: Or you would like to explore the heterogeneity between subjects, or explore, price effect.
+
+179
+00:30:48.840 --> 00:30:55.150
+Shiqi Zhang: and focus on continuous consumptions, maybe ETM is a better fit.
+
+180
+00:30:55.310 --> 00:31:09.249
+Shiqi Zhang: If you prefer larger sample size or more manipulations or interventions, or focusing on, within subject effects, or if you… your study does not include prizes.
+
+181
+00:31:10.150 --> 00:31:18.430
+Shiqi Zhang: or you would like to see binary choice outcomes, DCE or BWS might be a better fit.
+
+182
+00:31:19.790 --> 00:31:23.860
+Shiqi Zhang: So, that's my presentation today.
+
+183
+00:31:24.510 --> 00:31:25.770
+Shiqi Zhang: Thank you all.
+
+184
+00:31:28.180 --> 00:31:41.669
+Jamie Hartmann-Boyce: Thank you so much for a wonderful presentation, a very well-conducted systematic review. Thanks also to our audience members who've been adding questions. Please keep them coming, but first off, I would like to hand over to Roberta, our discussant for today.
+
+185
+00:31:48.630 --> 00:31:49.449
+Roberta Freitas-Lemos: Can you hear me?
+
+186
+00:31:50.460 --> 00:31:51.170
+Jamie Hartmann-Boyce: Yes.
+
+187
+00:31:51.550 --> 00:32:08.510
+Roberta Freitas-Lemos: Thank you. Yes, great presentation. Thank you so much for sharing all this. Again, I think this is a very important integration. And I want to go back to one of your slides about external validity, and that's related to my comment earlier.
+
+188
+00:32:08.800 --> 00:32:25.509
+Roberta Freitas-Lemos: Critics, sometimes say that these experiments don't perfectly reflect real-world conditions, and that's true, right? Online experiments remove real spending constraints, and lab-based ETM studies, they're highly controlled, but that's…
+
+189
+00:32:25.510 --> 00:32:38.809
+Roberta Freitas-Lemos: I think that's what also gives them value, right? There's no real-world setting where we can systematically manipulate multiple product attributes, prices, regulatory scenarios, and ethically observe those responses.
+
+190
+00:32:39.470 --> 00:32:43.429
+Roberta Freitas-Lemos: That said, I think there's still room for improvement,
+
+191
+00:32:43.670 --> 00:33:01.439
+Roberta Freitas-Lemos: And we can strengthen external validity by, you know, validating predictions against real-world behavior, using hybrid designs to capture heterogeneity, as you said, reporting the context-specific limitations. My question, based on what you
+
+192
+00:33:01.880 --> 00:33:06.790
+Roberta Freitas-Lemos: Totas, and all your research, and all, you know, reading all those papers.
+
+193
+00:33:07.110 --> 00:33:14.040
+Roberta Freitas-Lemos: How do you recommend researchers Access or improve the external validity of these three methods.
+
+194
+00:33:17.130 --> 00:33:19.609
+Roberta Freitas-Lemos: comments on that, I think it's super helpful.
+
+195
+00:33:20.050 --> 00:33:39.359
+Shiqi Zhang: Yes, so, so my, so in my understanding, I think, first, you need to, you need to refer to, related literatures, and see their conclusions, and, see how,
+
+196
+00:33:39.590 --> 00:33:47.860
+Shiqi Zhang: Say, how your, experiment is consistent or inconsistent with their, results.
+
+197
+00:33:48.000 --> 00:34:04.880
+Shiqi Zhang: And then, if you have more time, I would say, if you have more time, you can, look at the, revealed preference data, like, some observational data, like, Nielsen or,
+
+198
+00:34:05.930 --> 00:34:14.529
+Shiqi Zhang: National, surveys, and, see how the, total population behaves.
+
+199
+00:34:15.060 --> 00:34:21.930
+Shiqi Zhang: Rather than, your, experiment, compared to your experiment results.
+
+200
+00:34:22.889 --> 00:34:31.970
+Shiqi Zhang: So that can justify whether you're… whether there are, some selection bias or, other issues in your…
+
+201
+00:34:32.139 --> 00:34:33.739
+Shiqi Zhang: experiment design.
+
+202
+00:34:40.420 --> 00:34:45.819
+Jamie Hartmann-Boyce: Thank you so much. I think C, your co-author, might like to weigh in right now, so I will let her come on in.
+
+203
+00:34:45.980 --> 00:35:09.580
+Ce Shang: Thank you, Jamie. Thank you, Roberta, for the great question. So, after reviewing other studies, we feel there are generally two ways to increase the external validity. First, there are ways to incentivize participants to answer truthfully, and we know that, you know, by giving them real money, and they can take back their products, that would be a great way to start.
+
+204
+00:35:09.700 --> 00:35:18.250
+Ce Shang: And for the online studies, we noticed that there are, you know, there's rich literature in marketing and other areas that.
+
+205
+00:35:18.250 --> 00:35:41.139
+Ce Shang: the cheap talk scripts, ask people to please do also truthfully, does work. So there is, a huge literature in the, general discrete choice experiment, you know, reviews that provide, a lot of good recommendations that I think, you know, our tobacco studies should follow. So those are a way to, to address the,
+
+206
+00:35:41.140 --> 00:35:53.319
+Ce Shang: the concerns of external validity. And the second one is, as what Shishi said, there are ways to correct the answers, right? So, for example, the, there are calibrations that have been used in choice experiments.
+
+207
+00:35:53.320 --> 00:36:04.689
+Ce Shang: there have been, like, studies, that integrate, qualitative data, qualitative research into the design. So, for example, it can be used to elicit
+
+208
+00:36:04.690 --> 00:36:19.739
+Ce Shang: whether I understand better why people choose to answer, the way they are, or, you know, like, whether this… you answer truthfully in the experiments. So, integrating, different methodologies, I think, would also help with,
+
+209
+00:36:19.740 --> 00:36:24.389
+Ce Shang: increasing the external validity, I'll have a check on the validity. Thank you.
+
+210
+00:36:28.100 --> 00:36:32.719
+Roberta Freitas-Lemos: Yeah, thank you, thank you so much, both for the, the answers.
+
+211
+00:36:33.320 --> 00:36:43.549
+Roberta Freitas-Lemos: we definitely, from an ETM researcher, should definitely look more into other literature to improve our methods, yeah.
+
+212
+00:36:43.700 --> 00:36:44.880
+Roberta Freitas-Lemos: Great, thank you.
+
+213
+00:36:46.420 --> 00:36:48.389
+Jamie Hartmann-Boyce: Anything else from you, Roberta?
+
+214
+00:36:50.920 --> 00:36:52.660
+Roberta Freitas-Lemos: Not at this point.
+
+215
+00:36:52.660 --> 00:36:54.000
+Jamie Hartmann-Boyce: Okay, great.
+
+216
+00:36:54.050 --> 00:37:08.310
+Jamie Hartmann-Boyce: All right, well, I see questions are coming in. I also have a couple of questions asked, from some of the hosts who can't put questions into Q&A, so I'll start off with those. We have a question from Mike Pesco. For the way that effect coefficients are reported.
+
+217
+00:37:08.310 --> 00:37:18.310
+Jamie Hartmann-Boyce: How many studies provided all of the information that would be needed to convert these into a standardized unit? That would be really interesting to quantify and provide best practices on.
+
+218
+00:37:22.530 --> 00:37:26.999
+Shiqi Zhang: I'm sorry, I… I'm not quite following.
+
+219
+00:37:27.270 --> 00:37:31.430
+Jamie Hartmann-Boyce: Sure, sure, so I think the question is,
+
+220
+00:37:32.770 --> 00:37:43.719
+Jamie Hartmann-Boyce: And Mike, please do jump in if I'm misrepresenting my understanding of your question, but one of the things I think we find, at least I find when I'm doing systematic reviews, is that reporting is so variable.
+
+221
+00:37:43.720 --> 00:37:56.580
+Jamie Hartmann-Boyce: And it can really hamper any kind of particularly statistical synthesis. So it's really hard to meta-analyze things if effect sizes are reported in lots of different ways. So I think Mike's question is.
+
+222
+00:37:56.760 --> 00:38:02.040
+Jamie Hartmann-Boyce: Where effect coefficients or effect sizes were reported. How many of them
+
+223
+00:38:02.210 --> 00:38:07.719
+Jamie Hartmann-Boyce: Provided enough information that you might be able to combine their results with other studies.
+
+224
+00:38:10.300 --> 00:38:15.269
+Shiqi Zhang: So, we actually, START,
+
+225
+00:38:15.720 --> 00:38:26.120
+Shiqi Zhang: In the, in the searching, in the searching process, we find, we searched by the terminologies, and I've searched for, 2,000,
+
+226
+00:38:26.610 --> 00:38:32.049
+Shiqi Zhang: 2,000 studies, and by this…
+
+227
+00:38:32.160 --> 00:38:38.519
+Shiqi Zhang: eligibility criteria. We screen, with two stages.
+
+228
+00:38:39.710 --> 00:38:48.150
+Shiqi Zhang: You know, in the first stage, we look at the title and abstract, and we eliminate the… eliminate those
+
+229
+00:38:48.430 --> 00:38:50.010
+Shiqi Zhang: unrelevant.
+
+230
+00:38:51.750 --> 00:38:58.530
+Shiqi Zhang: And, then, we have four reviewers to review, to read the full text.
+
+231
+00:38:59.130 --> 00:39:08.779
+Shiqi Zhang: And, we discussed, weekly, and we used the majority rule to, to handle the conflicts.
+
+232
+00:39:09.800 --> 00:39:22.829
+Ce Shang: Do you mind me to weigh in again? Yeah, so basically, Mike is asking, and, Katie is asking about, you know, all this reporting coefficients, other type of measurements.
+
+233
+00:39:22.830 --> 00:39:47.709
+Ce Shang: And how do we synthesize them? So, it's definitely a challenge. Actually, that's the… one of the conclusions that, we want maybe the studies in the future to, report comprehensive… a comprehensive set of measures, so that we can harmonize them. Right now, it's really challenging. I'm sure Roberta knows that maybe ETMs, you know, by its own category, it's easy to harmonize, but if we want to compare the results
+
+234
+00:39:47.710 --> 00:40:11.709
+Ce Shang: from DCE with ETM is going to be very challenging. Naturally, within the DCEs, there are so many different measures that are reported, so sometimes it's the relative importance, which is sometimes the utility score, all coefficients, all willingness to pay. So, you know, one argument to include the prices in all the choice experiments is eventually we can convert everything to willingness to pay, so they're all comparable.
+
+235
+00:40:11.940 --> 00:40:16.560
+Ce Shang: But it's not always doable. And the other thing is about,
+
+236
+00:40:16.680 --> 00:40:40.120
+Ce Shang: this, arc… this debate in the choice experiment literature to do either effects coding or, dummy coding. So most of the tobacco DCEs so far, including my own DC studies, are using effects, using, dummy coding instead of effects coding. So the outcome then is that it's really hard to convert the coefficients into relative importance.
+
+237
+00:40:40.380 --> 00:41:00.580
+Ce Shang: So, that's definitely kind of, like, a big, huge challenge for us to, to, compare the results. So, so that's going to be one conclusion of our paper, of our review is, to help people, to inform future research,
+
+238
+00:41:00.580 --> 00:41:09.449
+Ce Shang: to report maybe everything. So, they're actually in the similar way. They are very similar. They are basic… basically, they're all based on the same regressions.
+
+239
+00:41:09.460 --> 00:41:15.420
+Ce Shang: But because of the reporting differences, we end up not being able to harmonize them.
+
+240
+00:41:15.760 --> 00:41:16.570
+Ce Shang: Yeah.
+
+241
+00:41:16.920 --> 00:41:17.460
+Jamie Hartmann-Boyce: Yeah.
+
+242
+00:41:17.770 --> 00:41:23.530
+Jamie Hartmann-Boyce: Really common problem, and a frustrating one when you know the data is there, but you just can't access it.
+
+243
+00:41:23.710 --> 00:41:30.490
+Jamie Hartmann-Boyce: So another question, this one's from Justin White, and it's around external validity and external validation.
+
+244
+00:41:30.490 --> 00:41:47.269
+Jamie Hartmann-Boyce: He says, among the seven studies which compared results to external data for validation, did you look at or, like, analyze how well the stated preference data compared to the real-world data? Were you able to say if there were any discrepancies, or if it seemed relatively consistent?
+
+245
+00:41:52.580 --> 00:41:55.430
+Shiqi Zhang: Oh… Yeah, here.
+
+246
+00:41:57.440 --> 00:41:58.550
+Jamie Hartmann-Boyce: Oh, great.
+
+247
+00:41:59.130 --> 00:42:05.750
+Jamie Hartmann-Boyce: So it looks like… If you wouldn't mind just discussing this a little bit, are these pulling in…
+
+248
+00:42:06.300 --> 00:42:09.870
+Jamie Hartmann-Boyce: Where it compares with observed data, that number 7.
+
+249
+00:42:11.010 --> 00:42:16.549
+Jamie Hartmann-Boyce: Was it… did it compare well? Or did it flag any differences?
+
+250
+00:42:25.180 --> 00:42:36.539
+Shiqi Zhang: Actually, we, we, actually, this is a binary variable in our, scoring sheet, and, if we see
+
+251
+00:42:36.710 --> 00:42:46.520
+Shiqi Zhang: There are some explicit expressions, like, they use the, they use the results from,
+
+252
+00:42:47.060 --> 00:42:53.040
+Shiqi Zhang: or, observations from, from Nielsen or surveys?
+
+253
+00:42:53.340 --> 00:43:02.390
+Shiqi Zhang: Some representative surveys, then we will, graded as 1.
+
+254
+00:43:02.880 --> 00:43:08.050
+Shiqi Zhang: And said it is, there are some comparisons with observed data.
+
+255
+00:43:10.000 --> 00:43:12.799
+Jamie Hartmann-Boyce: And, and did you look… So, yep.
+
+256
+00:43:12.800 --> 00:43:13.920
+Shiqi Zhang: I'm sorry.
+
+257
+00:43:14.090 --> 00:43:16.079
+Jamie Hartmann-Boyce: No, no, no, I'm sorry, keep going.
+
+258
+00:43:16.530 --> 00:43:27.900
+Shiqi Zhang: Yeah, so, so, so, yes, you are right, maybe we do not focus in on, estimating the… or assess the quality of their, those, those comparisons.
+
+259
+00:43:28.210 --> 00:43:29.140
+Shiqi Zhang: Yes.
+
+260
+00:43:29.140 --> 00:43:36.069
+Jamie Hartmann-Boyce: Okay, great, thank you, that would be interesting to look at in the future. Roberta, I believe you might have one more question to come in with.
+
+261
+00:43:37.090 --> 00:43:40.899
+Roberta Freitas-Lemos: Yes, I forgot to ask before, so you,
+
+262
+00:43:41.030 --> 00:43:55.820
+Roberta Freitas-Lemos: Provided a rationale for not including the hypothetical purchase tasks, because they're mostly single commodities, but did you take a look at the cross-commodity purchase tasks, and do you think that they would add value to
+
+263
+00:43:56.980 --> 00:43:58.369
+Roberta Freitas-Lemos: To this review?
+
+264
+00:44:11.230 --> 00:44:27.809
+Roberta Freitas-Lemos: The cross-commodity purchase tasks are the ones that… they are basically the single commodity, hypothetical purchase tasks, in which you have the price of one commodity increasing, but then you have the price of a second commodity, and the same task, constant.
+
+265
+00:44:28.670 --> 00:44:32.009
+Roberta Freitas-Lemos: So, because you said that, the reason why…
+
+266
+00:44:32.180 --> 00:44:45.670
+Roberta Freitas-Lemos: For not including those ones where the single commodity, the… perhaps the cross-commodity purchase tasks could, add value or add information if you… if this is something that would be interesting or relevant.
+
+267
+00:44:47.640 --> 00:44:55.710
+Ce Shang: Can I weigh in? So, basically, you know, considering, you know, I'm aware of those type of hypothetical purchase tasks.
+
+268
+00:44:55.710 --> 00:45:10.770
+Ce Shang: But usually, it is one single commodity in response to the prices of another commodity. So there are… they don't have the, profiles or product files set by side for choices, unlike the ETM or…
+
+269
+00:45:10.770 --> 00:45:19.959
+Ce Shang: discrete choice experiments. And also, the other reason that we are not including the hypothetical purchase tasks is
+
+270
+00:45:19.980 --> 00:45:43.740
+Ce Shang: unlike, you know, these other type of experiments, the price variation is huge in hypothetical purchase tasks. So my understanding is that they're not really trying to mimic real marketplace scenarios, but try to get a sense of, like, let's say if the price can be raised really high, at what point, you know, the consumption will become zero. That's a common…
+
+271
+00:45:43.740 --> 00:45:47.410
+Ce Shang: commonly reported outcome. So, when we synthesize
+
+272
+00:45:47.430 --> 00:46:07.069
+Ce Shang: findings, or, like, provide recommendations, that's going to be a challenge. So that's another consideration why we're not including hypothetical purchase tasks. I feel the design more, like, integrated into maybe citation research, and understanding, you know, behaviors that could be,
+
+273
+00:46:07.250 --> 00:46:14.109
+Ce Shang: Not so closely aligned with, real market price, for example, or real market conditions.
+
+274
+00:46:15.990 --> 00:46:33.780
+Ce Shang: I hope that answers the question. Yeah, it's just… it's my hypothesis. I feel like that's the way the experimental methodologies are designed. So, that just brings us the question that all these stated preference methodologies are great.
+
+275
+00:46:33.780 --> 00:46:56.099
+Ce Shang: But they may be more suitable for answering certain specific questions, you know, maybe answer, like, for example, citation, incentives better than others when we look at hypothetical purchase tasks, whereas the ETMs, you know, and choice experiments are probably better suited to answer real-world, you know, policy impact questions, for example.
+
+276
+00:46:56.350 --> 00:47:21.120
+Ce Shang: And, I also want to bring up that I think Shishi also mentioned that the BWS is… the best we're skating is commonly used in other areas, and increasingly used in our tobacco research, and there are so many different cases, but very often, it's case 3 that we see. So it's basically this great choice experiment. But then in those experiments, people are asked to choose the best
+
+277
+00:47:21.270 --> 00:47:32.069
+Ce Shang: option and the worst option. But there are also other types of BWIs that are, differently designed, and, they're less similar to DCE.
+
+278
+00:47:32.130 --> 00:47:46.930
+Ce Shang: So that's why there is some confusion. We mentioned BWS, you know, when we see discrete choice experiments, and we don't know which terminology to use. That's because the K3 BWS is actually DCE.
+
+279
+00:47:46.930 --> 00:47:59.319
+Ce Shang: with one more question on the best and worst products to choose. So, yeah, so it's really interesting. I feel that's another conclusion we have, is to sort of clarify those terminologies.
+
+280
+00:48:02.040 --> 00:48:02.790
+Ce Shang: Thank you.
+
+281
+00:48:05.120 --> 00:48:07.120
+Jamie Hartmann-Boyce: That answer your question, Roberta?
+
+282
+00:48:07.990 --> 00:48:08.840
+Jamie Hartmann-Boyce: Great.
+
+283
+00:48:09.070 --> 00:48:23.300
+Jamie Hartmann-Boyce: So I just… I noticed a few interesting things that have already been answered in the Q&A that I just kind of wanted to flag and also see, Shizzy, if you have any thoughts on. One of the questions was, if…
+
+284
+00:48:23.500 --> 00:48:39.750
+Jamie Hartmann-Boyce: people had pre-registered their hypotheses and analysis plans, so the people who are conducting the studies, had they registered these in advance, especially… it's definitely recommended in fields where there's controversy, such as tobacco research, right? We know this is best practice in most fields.
+
+285
+00:48:39.750 --> 00:48:51.479
+Jamie Hartmann-Boyce: And the question was whether researchers pre-registered their analysis plans as an additional quality measure, and if you looked at that, and C responded that only one study out of 74
+
+286
+00:48:51.480 --> 00:49:01.580
+Jamie Hartmann-Boyce: had pre-registered their studies, so it might be more popular in more recent studies, and I understand that you all might be looking at integrating those in the future, but I wondered…
+
+287
+00:49:02.230 --> 00:49:12.649
+Jamie Hartmann-Boyce: Why? Do you have any ideas why preregistration is so uncommon? And similarly, any ideas for what we can do to increase it as a norm in the field?
+
+288
+00:49:14.070 --> 00:49:24.189
+Ce Shang: So, I want to kind of also ask Robert how that suits the current practice, when people… researchers do these ETMs. You know, do you…
+
+289
+00:49:24.660 --> 00:49:33.940
+Ce Shang: register them, pre-register them, because I just, because I'm more familiar with DCE, and, unfortunately, there are not many DCEs that are
+
+290
+00:49:34.170 --> 00:49:49.060
+Ce Shang: that are pre-registered. I guess it's just a practice. If we advocate for this, it might happen, more often. I do acknowledge that there are challenges, and a lot of the studies are
+
+291
+00:49:49.190 --> 00:49:57.180
+Ce Shang: In my opinion, you know, unlike, like, randomized trials, you know, it's just the practitioner's choice.
+
+292
+00:49:57.440 --> 00:50:03.869
+Ce Shang: So if we have a culture to do this, I feel that we will do this more often in the future.
+
+293
+00:50:03.870 --> 00:50:11.160
+Jamie Hartmann-Boyce: Is it something that journal editors look out for at all? Because I think, especially in trials, that has been one of the things that has…
+
+294
+00:50:11.310 --> 00:50:20.710
+Jamie Hartmann-Boyce: move this along as both journals and funders, almost requiring it as a condition for publication and funding. I don't know if that exists in other spaces yet.
+
+295
+00:50:20.960 --> 00:50:36.639
+Ce Shang: I think that's a good point. I don't think, editors look into this often, I mean, pre-registration often for DCE type of studies. For ETM and DCEs currently based on the NIH definition, they're trials. So…
+
+296
+00:50:36.640 --> 00:50:42.250
+Ce Shang: You know, it's, at least it's the bash type of trials, the basic,
+
+297
+00:50:42.250 --> 00:50:48.189
+Ce Shang: science type of trials. So, you know, the field is booming, like.
+
+298
+00:50:48.470 --> 00:51:07.329
+Ce Shang: when I first started to do choice agreements, they are not considered as trials. There are not that many guidelines to say, like, what to do in the scenario, but the NHL already can, you know, make sure, better defined, best trials and disease fall into that category.
+
+299
+00:51:08.280 --> 00:51:22.189
+Ce Shang: So I think, you know, it's definitely gonna incentivize researchers to do… to follow the, the standards, basically. So Robata, do you have any thoughts about this, especially ETM studies?
+
+300
+00:51:22.190 --> 00:51:29.859
+Roberta Freitas-Lemos: Yeah, I mean, I agree, when you say it's evolving, I think, the practices. We do register,
+
+301
+00:51:30.360 --> 00:51:41.000
+Roberta Freitas-Lemos: on clinicaltrials.gov, every, in-lab experiment that we have, that we conduct, but analysis plan, I think we have just started, like.
+
+302
+00:51:41.300 --> 00:51:45.090
+Roberta Freitas-Lemos: Registering the analysis plan, like a more robust plan.
+
+303
+00:51:45.350 --> 00:51:49.229
+Roberta Freitas-Lemos: And I think we… we have done, like, twice at this point.
+
+304
+00:51:51.230 --> 00:51:53.969
+Jamie Hartmann-Boyce: Where do you register those analysis plans, Roberta?
+
+305
+00:51:54.300 --> 00:51:55.789
+Roberta Freitas-Lemos: I think it's a LSF.
+
+306
+00:51:55.790 --> 00:52:02.389
+Jamie Hartmann-Boyce: Yeah, okay, so that's Open Science Framework for anyone who's listening and wondering. Free, I find it quite easy to use.
+
+307
+00:52:03.090 --> 00:52:11.880
+Jamie Hartmann-Boyce: Great. An audience member just pointed out that there's at least one journal in economics where you can, it sounds like, register…
+
+308
+00:52:12.000 --> 00:52:30.970
+Jamie Hartmann-Boyce: your pre-analysis plan with them, and the journal will then commit to publishing it, regardless of what you find, as a way to counteract publication bias, right? Where studies with null results are less likely to be found, which can absolutely undermine our efforts as systematic reviewers. So it's… thank you for sharing that, that's really interesting.
+
+309
+00:52:31.670 --> 00:52:43.910
+Jamie Hartmann-Boyce: Okay, well, I think that is it from us. Thank you all so much, thanks for a really good presentation, great questions, great discussion, and I will hand over to our MC to close us out.
+
+310
+00:52:44.680 --> 00:52:55.949
+Kyla Scott: Thank you, so that's the end of our time. Thank you to the presenter, the moderator, and discussant. And finally, thank you to the audience of 115 people for your participation. Have a tops-notch weekend.
+
