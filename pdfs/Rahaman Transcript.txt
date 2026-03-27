@@ -1,0 +1,1386 @@
+WEBVTT
+
+1
+00:00:05.930 --> 00:00:07.400
+Caroline Wang: Hello, everyone!
+
+2
+00:00:08.960 --> 00:00:10.520
+Caroline Wang: Welcome to the Tova.
+
+3
+00:00:11.960 --> 00:00:13.470
+Caroline Wang: for online policy.
+
+4
+00:00:14.940 --> 00:00:16.660
+Caroline Wang: seminar. Hey.
+
+5
+00:00:18.040 --> 00:00:19.339
+Caroline Wang: Thank you for joining.
+
+6
+00:00:20.980 --> 00:00:22.510
+Caroline Wang: chaos today.
+
+7
+00:00:23.940 --> 00:00:25.800
+Caroline Wang: I'm Caroline Wong.
+
+8
+00:00:26.930 --> 00:00:31.620
+Caroline Wang: HD student, Ed… University of Minnesota.
+
+9
+00:00:32.910 --> 00:00:34.800
+Caroline Wang: a school of public health.
+
+10
+00:00:35.410 --> 00:00:44.030
+Caroline Wang: TOBS is by Mike Pascoe at University of… Seisha at your Ohio… University, my…
+
+11
+00:00:45.040 --> 00:00:53.440
+Caroline Wang: And, Josh, how can you… Jamie Hartman Boys, Massachusetts, Amherst.
+
+12
+00:00:53.990 --> 00:00:55.960
+Caroline Wang: at Boston University.
+
+13
+00:00:56.510 --> 00:01:08.540
+Caroline Wang: The seminar with questions from the moderator and discussants may post questions and comments in the panel, and the moderator will draw from the comments in conversation
+
+14
+00:01:08.990 --> 00:01:09.890
+Caroline Wang: Enter.
+
+15
+00:01:10.330 --> 00:01:20.310
+Caroline Wang: Please review the guidelines tobaccoPolicy.org bold questions. Please… professional and related…
+
+16
+00:01:20.970 --> 00:01:28.630
+Caroline Wang: being discussed. Questions in our series guidelines will be shared. Your questions are very much appreciated.
+
+17
+00:01:29.960 --> 00:01:32.380
+Caroline Wang: on the TOPS website.
+
+18
+00:01:44.310 --> 00:02:06.450
+Justin White: Unfortunately, I think Caroline's audio is a little bit spotty, so I apologize to everybody for that. I can take over. Today, we continue our winter 2026 season with a single paper presentation by Atara Rahaman entitled, The Impact of School Closure During COVID-19 on Substance Use.
+
+19
+00:02:06.460 --> 00:02:18.689
+Justin White: This presentation was selected by a competitive review process by submission through the TOPS website. Atara Rahaman is a third-year PhD student in economics and a graduate research assistant.
+
+20
+00:02:18.690 --> 00:02:27.870
+Justin White: at the University of Missouri. His research specializes in the economics of education, with a particular focus on the impact of school leadership.
+
+21
+00:02:27.870 --> 00:02:41.949
+Justin White: on teaching work… teacher working conditions, retention, and school disciplinary climates. Dr. Mike Pesco, a professor at the University of Missouri, is a co-author of the study and will answer select questions in the Q&A.
+
+22
+00:02:41.960 --> 00:02:46.400
+Justin White: Atar, thank you for presenting for us today. The floor is yours.
+
+23
+00:02:50.580 --> 00:02:52.739
+Justin White: You're muted, I think.
+
+24
+00:02:53.680 --> 00:02:56.780
+Ataur Rahaman: Thank you very much. Let me share my screen.
+
+25
+00:03:06.270 --> 00:03:08.800
+Ataur Rahaman: Are you seeing me in presenter mode?
+
+26
+00:03:08.800 --> 00:03:10.780
+Justin White: We see your notes at the moment, so…
+
+27
+00:03:10.800 --> 00:03:20.619
+Ataur Rahaman: Okay, okay. Thank you. Thank you very much. Hi, everyone. I am, thank you for attending. Thanks for, thanks, Top, for the opportunity to present.
+
+28
+00:03:20.850 --> 00:03:25.460
+Ataur Rahaman: My name is Atar Rahman, I am a PhD student at the University of Missouri.
+
+29
+00:03:25.590 --> 00:03:30.079
+Ataur Rahaman: And this is a joint org with Michael Pesco, also at the University of Missouri.
+
+30
+00:03:30.270 --> 00:03:42.770
+Ataur Rahaman: Today, I will present the delayed impact of school closure during COVID-19 on substance use. This is a work in progress. We welcome any feedback you have to improve the work.
+
+31
+00:03:44.570 --> 00:04:02.019
+Ataur Rahaman: So, FDF disclosure, this project is funded by the National Institute on Drug Abuse at the National Institute of Health. The views presented here do not necessarily reflect those of the NIH. We have not received any topic-related funding.
+
+32
+00:04:03.830 --> 00:04:06.689
+Ataur Rahaman: Here is the brief outline for today's talk.
+
+33
+00:04:09.160 --> 00:04:13.970
+Ataur Rahaman: So let me, say something very briefly about the COVID-19.
+
+34
+00:04:14.210 --> 00:04:31.149
+Ataur Rahaman: So, COVID-19 spread rapidly across the U.S. in early 2020. By May 40… by May, 48 states and DC had closed schools for the remainder of the academic year. Here is the brief highlight of the timeline.
+
+35
+00:04:31.930 --> 00:04:39.730
+Ataur Rahaman: The first use cases emerged in the… in late January. Temporary school closure began in mid-February.
+
+36
+00:04:40.710 --> 00:04:45.069
+Ataur Rahaman: By early March, many schools shifted to distance learning.
+
+37
+00:04:45.810 --> 00:04:53.009
+Ataur Rahaman: And one of the major things happened when the World Health Organization declared COVID-19 a pandemic.
+
+38
+00:04:53.600 --> 00:05:08.270
+Ataur Rahaman: And from this point, many states starts to close their school. Wajo is the first state to announce statewide closure, and by March 25th, almost all the public schools building were closed.
+
+39
+00:05:08.340 --> 00:05:15.110
+Ataur Rahaman: And by May 6th, nearly all states closed schools for the remaining of the academic year.
+
+40
+00:05:15.990 --> 00:05:23.859
+Ataur Rahaman: But beginning in the next academic year, that means in 2021 academic year, starting in September 2020,
+
+41
+00:05:24.360 --> 00:05:43.189
+Ataur Rahaman: they start… the states and the local authority, they start a various method or an approach for the virtual learning. Among that, for example, 384 states left decisions to schools or districts, which is, like, around 67% of the students nationwide. 13 states
+
+42
+00:05:43.300 --> 00:05:51.330
+Ataur Rahaman: have state-oriented, state-ordered in-person instructions, because somehow they have to be open for a few days, or some grades.
+
+43
+00:05:54.540 --> 00:06:02.799
+Ataur Rahaman: Here is a figure from the data we have used from the author, Paroline, and the co-authors that illustrate the evaluation of school closures.
+
+44
+00:06:03.370 --> 00:06:09.030
+Ataur Rahaman: We'll describe this, more in detail, details, in our data sections.
+
+45
+00:06:09.070 --> 00:06:27.549
+Ataur Rahaman: As you can see that most of the closures occurred between March and May, which is, like, almost in the whole… whole US, but from the beginning of August, we have a variation across the states that we can use to, as a possible exos and variation.
+
+46
+00:06:32.220 --> 00:06:45.430
+Ataur Rahaman: Here is a high-level summary of the paper. So, we want to study the delayed impact of school closures. That means that we have measured, as a change in in-person visits on youth substance use.
+
+47
+00:06:45.700 --> 00:06:52.260
+Ataur Rahaman: Our data are… is the… is the food traffic data from SafeGraph, SafeGraph, and ERBIS.
+
+48
+00:06:53.210 --> 00:06:58.890
+Ataur Rahaman: Our identifying variations are coming from state-level variation in school closure intensity.
+
+49
+00:06:59.320 --> 00:07:05.600
+Ataur Rahaman: And the estimation strategy is to a fixed effect model, and this is the primary result we have.
+
+50
+00:07:05.690 --> 00:07:22.570
+Ataur Rahaman: Compared to students in states with no school closures, those in states with average 2020 school closures intensity led to a 48.8% and 66 point decrease in frequent and daily alcohol use in 2021 and 2023.
+
+51
+00:07:22.760 --> 00:07:31.239
+Ataur Rahaman: A 19.3% and a 36.8% decrease in current and frequent marina use in 2021 and 2023.
+
+52
+00:07:33.750 --> 00:07:38.489
+Ataur Rahaman: Now, we begin with the literature on peer effect, in this case behavior.
+
+53
+00:07:38.750 --> 00:07:51.350
+Ataur Rahaman: We know that schools are important social environments where peer influences shape behaviors. Adolescents tend to take more risk in the presence of peers, and this effect is substantially stronger
+
+54
+00:07:52.340 --> 00:07:54.299
+Ataur Rahaman: For the teens than the adults.
+
+55
+00:07:55.650 --> 00:08:03.970
+Ataur Rahaman: The new reimagining evidence shows that… shows that PR amplify READ-related brain activity during… during risky decision making.
+
+56
+00:08:07.090 --> 00:08:11.659
+Ataur Rahaman: Now we want to share some of the PR effect and substance use literature.
+
+57
+00:08:12.650 --> 00:08:25.480
+Ataur Rahaman: First one is about… from a meta-analysis of 27 studies, they averaged over 90… 99, effect sizes, and they found that peer influences is associated with roles and substance use.
+
+58
+00:08:26.080 --> 00:08:35.029
+Ataur Rahaman: Similarly, Best friend's substance use is more predictive for the… for youth's own use than the family members.
+
+59
+00:08:35.559 --> 00:08:40.900
+Ataur Rahaman: However, it is important to highlight that these studies are mostly correlations.
+
+60
+00:08:41.419 --> 00:08:48.579
+Ataur Rahaman: However, we also have some causal studies that also find that PR effect can increase substance use.
+
+61
+00:08:49.280 --> 00:09:03.880
+Ataur Rahaman: and have a persistent effect. For example, especially notably, Robalino and Massey, they found that this… it has a long-lasting effect of 7 to, 7 to 14 years of the later life.
+
+62
+00:09:05.190 --> 00:09:13.090
+Ataur Rahaman: Moving on… We also have a separate literature that shows that the adult
+
+63
+00:09:13.400 --> 00:09:31.660
+Ataur Rahaman: students with adult and caring institutes can have, have a different effect. For example, supportive school connectedness helps youth with, lower substance use, and also family and school connectedness protections across major risk behavior.
+
+64
+00:09:32.930 --> 00:09:38.070
+Ataur Rahaman: In summary, peer effects matters and have long-term impact.
+
+65
+00:09:38.400 --> 00:09:47.260
+Ataur Rahaman: And on the other hand, supportive social connectedness improved the outcomes. That means lower risk of using substance.
+
+66
+00:09:47.820 --> 00:10:05.490
+Ataur Rahaman: During the COVID-19, we have a disruption of negative pH effects channel and increased family monitoring. So we have a unique opportunity to exploit the variation in closure intensity to find the evidence on the substance use.
+
+67
+00:10:06.240 --> 00:10:18.879
+Ataur Rahaman: So, in this study, we exploit variation in school closure intensity, measured as changing in-person visit, as a possible exclusion to estimate delayed effect on youth substance use.
+
+68
+00:10:20.440 --> 00:10:31.219
+Ataur Rahaman: Now, we move on to data. Our primary data source is from Paroline, and they estimated the foot traffic of school locations from SafeGraph.
+
+69
+00:10:32.000 --> 00:10:38.499
+Ataur Rahaman: SafeGraph uses global positioning systems data from around 10% of mobile devices.
+
+70
+00:10:38.770 --> 00:10:43.690
+Ataur Rahaman: Which is account for around 40 millions of people in the United States.
+
+71
+00:10:44.860 --> 00:10:56.019
+Ataur Rahaman: This data is used to study the mobility pattern and food traffic pattern to different businesses, such as schools and other public places.
+
+72
+00:10:57.370 --> 00:11:13.319
+Ataur Rahaman: This comes from the opt-in location services within every smartphone apps, for example, weather apps, or navigation apps, or fitness apps. Whenever a user tells an app to allow location access, the app generates an anonymous ping to provide its service.
+
+73
+00:11:13.600 --> 00:11:19.729
+Ataur Rahaman: then SafeGov aggregates these things, and then it strips away all the names.
+
+74
+00:11:19.930 --> 00:11:28.279
+Ataur Rahaman: Cell phone numbers, and any other personal identifiers, and bundled them into the dataset to use for us.
+
+75
+00:11:30.550 --> 00:11:34.170
+Ataur Rahaman: Although this is an opt-in in the app level.
+
+76
+00:11:34.680 --> 00:11:39.920
+Ataur Rahaman: But most people may be unaware of the location data, but that has been aggregated and been used.
+
+77
+00:11:41.150 --> 00:11:47.810
+Ataur Rahaman: This data is broadly representative of U.S. demographic and geographics.
+
+78
+00:11:48.210 --> 00:11:58.450
+Ataur Rahaman: Safe… safe graph sample of mobile devices closely correspond to the U.S. Census population counts by state, and also by county.
+
+79
+00:11:58.730 --> 00:12:08.859
+Ataur Rahaman: And also, a strong high correlation appears to exist between census counts and the estimated ethical… racial and ethical composition and educational group.
+
+80
+00:12:10.510 --> 00:12:16.190
+Ataur Rahaman: To construct the food traffic to school locations,
+
+81
+00:12:16.490 --> 00:12:36.490
+Ataur Rahaman: the author uses some filters to figure out the students. For example, we can filter out teachers, because there are some days when only teachers actually work, and no one go there, so we can filter out the teachers. Similarly, we can filter out the…
+
+82
+00:12:36.610 --> 00:12:42.649
+Ataur Rahaman: Guardians, Because guardians usually go to the school during drop-off and pickups.
+
+83
+00:12:44.170 --> 00:12:58.210
+Ataur Rahaman: Finally, the author manually checks for the validity, whether their data corresponds to the school closures, by checking some… some of… some… a few schools from each state's
+
+84
+00:12:58.530 --> 00:13:04.959
+Ataur Rahaman: From their school website, about the variety… variations in their school closures.
+
+85
+00:13:05.300 --> 00:13:15.010
+Ataur Rahaman: In addition, they also checked the data with Education Week's manually quoted school closure status for more than 907 school districts.
+
+86
+00:13:15.320 --> 00:13:29.019
+Ataur Rahaman: Just to let you know that there is… as we… as we said earlier, from the beginning of August, the school had a various, variation in, in-person visits. Some schools,
+
+87
+00:13:29.020 --> 00:13:39.610
+Ataur Rahaman: use a hybrid or partially scheme. Some schools use a fully remote schemes. So, education… education weeks actually manually coded for
+
+88
+00:13:40.030 --> 00:13:46.469
+Ataur Rahaman: Percentage of schools that are in hybrid, percentage of schools in… that are in fully, remote.
+
+89
+00:13:47.010 --> 00:13:50.899
+Ataur Rahaman: And the author manually checked those schools for validity.
+
+90
+00:13:52.170 --> 00:13:58.050
+Ataur Rahaman: Moving on… We use,
+
+91
+00:13:59.590 --> 00:14:13.919
+Ataur Rahaman: we… we get… we get school-level data from the author, and then we… we… we sum over within states, for 2020 and 2029, and then we… we calculate the closer intensity. For example.
+
+92
+00:14:14.010 --> 00:14:20.020
+Ataur Rahaman: If Missouri had 100 visits in 2019 and has 20 visits in 2020,
+
+93
+00:14:20.180 --> 00:14:27.090
+Ataur Rahaman: Then, we can say that implied closure intensity is 80%, or there is 80% decline in in-person visit.
+
+94
+00:14:29.780 --> 00:14:36.420
+Ataur Rahaman: Secondly, our measures is a continuous measures that account for severity, not just a binary open and close.
+
+95
+00:14:36.960 --> 00:14:38.070
+Ataur Rahaman: That means…
+
+96
+00:14:38.070 --> 00:14:57.049
+Ataur Rahaman: We know that school has a various, school… school closures vary widely, as we had described earlier. Some schools provide remote learning, some schools allow some grade level to attend on certain days, and many others have different approaches. So our measures, continuous measures on severity, actually captured that.
+
+97
+00:14:58.370 --> 00:15:04.140
+Ataur Rahaman: Finally, we rescale the intensity of closure by its mean, That means…
+
+98
+00:15:04.430 --> 00:15:13.970
+Ataur Rahaman: Our one-unit change, we can interpret a one-unit increase as a correspond to a moving from a zero closer to sample mean level of closures.
+
+99
+00:15:17.620 --> 00:15:22.240
+Ataur Rahaman: Here is a distribution of intensity of closer meters that we have calculated.
+
+100
+00:15:23.140 --> 00:15:36.149
+Ataur Rahaman: As you can see from the first row, this is an unskilled one, which has a mean level closure of 0.35, or 35%, and a minimum of 0.18, and maximum of 0.53.
+
+101
+00:15:36.250 --> 00:15:41.329
+Ataur Rahaman: And the bottom row, we showed the reSQL version, where the mean is reSQL to 1.
+
+102
+00:15:43.980 --> 00:15:45.869
+Ataur Rahaman: Here is a graph.
+
+103
+00:15:45.900 --> 00:15:48.189
+Ataur Rahaman: Of our intensity measures.
+
+104
+00:15:48.190 --> 00:16:09.849
+Ataur Rahaman: The lighter shade shows the… the less… less… less change… lower number, and the darker… darker shows the higher number. As you can see, there are the… there is a lot of variations across the states, and most of the states, that are darker, that means, has a high level of school closures, are in the coastal region.
+
+105
+00:16:11.360 --> 00:16:15.720
+Ataur Rahaman: Our second source of data, that is, our outcome data, is… comes from
+
+106
+00:16:16.090 --> 00:16:20.520
+Ataur Rahaman: Youth Risk Behavior Surveillance System data from CDC.
+
+107
+00:16:21.570 --> 00:16:27.809
+Ataur Rahaman: These data monitors use VVR, for example, tobacco, alcohol, marijuana, and others.
+
+108
+00:16:28.520 --> 00:16:40.130
+Ataur Rahaman: We use a state database, which is a biannual repeated course section for high school students from grade 9 to 12. Typically, this
+
+109
+00:16:40.660 --> 00:16:58.319
+Ataur Rahaman: This, survey web starts in spring, except for 2021, when it is, it happened in 2020, in fall, due to COVID. And we, we, as we will discuss later, this has a, implication in our study.
+
+110
+00:17:01.140 --> 00:17:07.200
+Ataur Rahaman: This, survey is conducted by state health or education department in collaboration with CDC.
+
+111
+00:17:07.520 --> 00:17:14.490
+Ataur Rahaman: And then… It has a representative of public high school students within each state.
+
+112
+00:17:16.030 --> 00:17:25.870
+Ataur Rahaman: And this survey is anonymous and self-administered survey, which takes around 60 minutes or 1 class period to finish. It has around 87 standard questions.
+
+113
+00:17:26.079 --> 00:17:31.949
+Ataur Rahaman: And… And response rate dropped below 60% from 2.
+
+114
+00:17:32.210 --> 00:17:37.290
+Ataur Rahaman: And we can see that overall response rate is around 35-70%.
+
+115
+00:17:37.850 --> 00:17:47.610
+Ataur Rahaman: And student response rate is 71% to 80%. The overall response rates actually dropped in… from 2025… from 2015 onward.
+
+116
+00:17:51.520 --> 00:17:57.419
+Ataur Rahaman: We use our… we use four outcome variables, cigarette, e-cigarette, alcohol, and marijuana.
+
+117
+00:17:57.900 --> 00:18:08.590
+Ataur Rahaman: And from all of… all of the four, except Mariona, we have three measures of intensity, based on how many days a student smoked or drank in the last 30 days prior to the survey.
+
+118
+00:18:08.790 --> 00:18:14.909
+Ataur Rahaman: We define current if a student says they use the substance at least one day.
+
+119
+00:18:15.110 --> 00:18:19.980
+Ataur Rahaman: Frequent if 20 days or more, and daily if they use all 30 days.
+
+120
+00:18:20.220 --> 00:18:23.030
+Ataur Rahaman: That dataset also has a student demographic.
+
+121
+00:18:23.160 --> 00:18:25.650
+Ataur Rahaman: The age, race, sex, and the grade.
+
+122
+00:18:28.210 --> 00:18:35.809
+Ataur Rahaman: Our panel covered 2011 to 2023, all odd years, across 39 states.
+
+123
+00:18:37.220 --> 00:18:51.899
+Ataur Rahaman: as it is… I want to mention that the data does not contain all 50 states, because some of the states have not participated for many years, because they administered their own surveys, or due to other reasons.
+
+124
+00:18:52.020 --> 00:18:59.940
+Ataur Rahaman: Among these 38 states, our data… our data panel is unbalanced, because some of the states are missing in some waves.
+
+125
+00:18:59.940 --> 00:19:13.090
+Ataur Rahaman: Because some states did not permit the CDC to include their data in the combined data set, or the survey was not administered in that year in that state, or survey was conducted, but response rate was too low.
+
+126
+00:19:13.570 --> 00:19:15.159
+Ataur Rahaman: To be included.
+
+127
+00:19:15.430 --> 00:19:19.830
+Ataur Rahaman: Our survey was conducted, but the response rate falls below 60%.
+
+128
+00:19:20.480 --> 00:19:25.519
+Ataur Rahaman: And on response bias analysis indicated that data are not representative of the population.
+
+129
+00:19:28.110 --> 00:19:43.350
+Ataur Rahaman: Here we have our descriptive statistics of the data. As you can see that it's, like, half of the… half of the… half of the students are female, and the grade level is distributed evenly, like, 25% around.
+
+130
+00:19:43.810 --> 00:19:46.240
+Ataur Rahaman: And most of the age groups are…
+
+131
+00:19:46.560 --> 00:19:51.080
+Ataur Rahaman: Most of the students are from 14 years to 15 years to 18 years old.
+
+132
+00:19:53.940 --> 00:19:56.059
+Ataur Rahaman: Then we have some control variables.
+
+133
+00:19:56.270 --> 00:20:06.869
+Ataur Rahaman: First contributors are the taxes. We have cigarette, cigarette, e-cigarette, and year tax rate by state and year, and this tax rate is adjusted to CPI.
+
+134
+00:20:07.690 --> 00:20:11.300
+Ataur Rahaman: Secondly, we have medical and vocational Mariana Ross.
+
+135
+00:20:12.360 --> 00:20:22.209
+Ataur Rahaman: by a state. Then we have estate e-cigarette restrictions, flavor bans, and we also have an indicative variable for each level of minimum sales
+
+136
+00:20:22.380 --> 00:20:26.340
+Ataur Rahaman: Legal… legal age of the e-cigarette by state.
+
+137
+00:20:28.280 --> 00:20:29.390
+Ataur Rahaman: Moving on?
+
+138
+00:20:29.980 --> 00:20:36.219
+Ataur Rahaman: We use a two-way fixed effect model, which includes both state and time fixed effect.
+
+139
+00:20:36.690 --> 00:20:42.689
+Ataur Rahaman: The idea is to compare how outcome change within a state over time, related to change in other states.
+
+140
+00:20:42.900 --> 00:20:50.180
+Ataur Rahaman: We have a state-fixed effect that controls for all timing variant differences across states, for example, cultures or baseline policies.
+
+141
+00:20:51.340 --> 00:20:57.759
+Ataur Rahaman: And we have time-fixed effect that captures shocks that affect all states in a given year, for example, federal policies.
+
+142
+00:21:00.740 --> 00:21:19.140
+Ataur Rahaman: The YIT… YIST is a binary substance use indicator that… for a student I in state S and surveyor T, that we have… and we have already discussed about our Y variable earlier. The closer intensity in 2020 is the intensity of closure defined earlier.
+
+143
+00:21:19.630 --> 00:21:28.129
+Ataur Rahaman: The X vector is a vector of student demographics. C is a vector of time-bearing and state-level policies that we have discussed, that is taxes.
+
+144
+00:21:28.270 --> 00:21:35.580
+Ataur Rahaman: Medical and recreational marijuana laws, any cigarette restriction bans and flavors, and minimum legal sales aids.
+
+145
+00:21:36.200 --> 00:21:42.829
+Ataur Rahaman: And we have estate and… estate and SARB fixed effect, and then a term that are clustered at the state level.
+
+146
+00:21:46.040 --> 00:21:57.399
+Ataur Rahaman: So, the beta is our parameter of interstate interest that has a causal interpretation provided that parallel assumption are met.
+
+147
+00:21:58.000 --> 00:22:00.940
+Ataur Rahaman: And we need parallel return assumptions.
+
+148
+00:22:02.010 --> 00:22:12.890
+Ataur Rahaman: to show… so the causal interpretation rely on the parallel return assumptions. That is, in the absence of the school closure, treated and less treated states
+
+149
+00:22:13.270 --> 00:22:25.350
+Ataur Rahaman: would have followed the similar trend. If that holds, then the difference we observed can be attributed to the treatment. And our… all the regressions… all the regressions we have are evaluated.
+
+150
+00:22:26.840 --> 00:22:40.140
+Ataur Rahaman: And this data is captured both short-term effect in 2021 and a long-run effect in 2023 from 2020 growth, school closures. I will stop here to see, if there are any questions we have.
+
+151
+00:22:41.170 --> 00:22:49.079
+Justin White: Great, thanks so much. I would encourage audience members to put any questions that you have in the Q&A.
+
+152
+00:22:49.480 --> 00:23:09.329
+Justin White: Our discussant today is Dr. Sumedra Gupta, an associate professor of economics from Indiana University, Indianapolis. She studies health economics and applied microeconometrics with a focus on prescription drug policy, the economics of aging, and barriers in healthcare access across the life course.
+
+153
+00:23:09.330 --> 00:23:12.659
+Justin White: So, Sumeda, any questions at this stage?
+
+154
+00:23:14.270 --> 00:23:22.290
+Sumedha Gupta: Yeah, first of all, thank you for having me here. This is such a great paper, so I'm excited to discuss it.
+
+155
+00:23:22.410 --> 00:23:26.189
+Sumedha Gupta: I want to start by saying that, you know, I'm…
+
+156
+00:23:26.190 --> 00:23:43.349
+Sumedha Gupta: personally interested in this topic. I have worked using SafeGraph data myself, you know, during the pandemic, and I have not looked at this very interesting outcome of understanding the long-term consequences of school closures on youth health behavior, so I was…
+
+157
+00:23:43.350 --> 00:23:52.709
+Sumedha Gupta: I was really fascinated by looking at these early-stage results, and I'm very keen and looking forward to looking at the manuscript as and when it becomes available.
+
+158
+00:23:52.880 --> 00:23:55.480
+Sumedha Gupta: I want to start by saying that
+
+159
+00:23:55.770 --> 00:24:07.930
+Sumedha Gupta: These data really are valuable to look at, you know, using Safecraft foot traffic data to capture closure intensity, because the kind of granularity that offers is not easy.
+
+160
+00:24:07.930 --> 00:24:22.560
+Sumedha Gupta: to capture if you're just looking at these binaries of schools are closed versus open, so it kind of gives this dose response, which is invaluable. And so I think that's something that we should all be
+
+161
+00:24:22.560 --> 00:24:26.899
+Sumedha Gupta: Playing up as we get to writing these papers, right?
+
+162
+00:24:27.130 --> 00:24:28.680
+Sumedha Gupta: I also…
+
+163
+00:24:28.680 --> 00:24:48.430
+Sumedha Gupta: Then want to talk about separating, and I'm keen how you're going to address that when the results are presented, but I want to see what your thoughts are, because this is something that's come up in our work too, that how do you separate out, given the timing of this period, the effects of the closures from the broader COVID effect?
+
+164
+00:24:48.490 --> 00:25:06.180
+Sumedha Gupta: And I think that's something that is… has troubled us a lot in our work, so I am very curious that how you're… you all are thinking about tackling that and really disentangling that effect. For instance, is it just school closures, or is it that
+
+165
+00:25:06.620 --> 00:25:08.839
+Sumedha Gupta: Alcohol stores are shut down.
+
+166
+00:25:08.900 --> 00:25:32.190
+Sumedha Gupta: Right? Or tobacco stores are shut down, and so you can't really go and you buy. And I think part of that you could do is to lean into sort of the work that, including ours, which has shown that there was an increase in consumption by adults of alcohol, right? So at least it doesn't seem that there was… So that's something that, I'm curious how you're thinking about disentangling that.
+
+167
+00:25:32.890 --> 00:25:40.760
+Sumedha Gupta: Also, the delayed framing and the 2021 wave, so you frame these as sort of delayed effects, which I think is…
+
+168
+00:25:40.970 --> 00:25:52.030
+Sumedha Gupta: Especially compelling for the 2023 data, but for the 2021 wave, I think the many states were still kind of, you know, with school closures.
+
+169
+00:25:52.030 --> 00:26:04.460
+Sumedha Gupta: And sometimes it was also voluntary, where parents were not sending their kids who were not vaccinated yet, because this age group, you know, pediatric vaccinations came somewhat later.
+
+170
+00:26:04.460 --> 00:26:18.140
+Sumedha Gupta: And individuals was, you know, voluntarily not going to school and engaging in virtual learning, which in SafeGraph would show up as a closure, right? Because there's less foot traffic. So that's also something that
+
+171
+00:26:18.200 --> 00:26:32.709
+Sumedha Gupta: it might be helpful if you could separate out the 2021 and the 2023 post-periods, and maybe you'll talk more about that, so I'm kind of curious that how you will distinguish those contemporaneous from truly delayed effects.
+
+172
+00:26:32.770 --> 00:26:41.250
+Sumedha Gupta: And then, of course, elementary versus high school, and your data is on high school. But yeah, I'll stop there, and I want to see what's to come.
+
+173
+00:26:41.580 --> 00:26:45.719
+Justin White: Yeah, any, any responses to those, multiple questions?
+
+174
+00:26:47.380 --> 00:26:57.179
+Ataur Rahaman: Thank you very much. It's actually, the… we have the same thought, but, some of them are… we have a data constraint, for example.
+
+175
+00:26:58.450 --> 00:27:13.730
+Ataur Rahaman: our year-based data is odd year, so it's like, we can include only 2019 or 2021. Then, if we add 2021 school closure… actually, they have a differentiated school closure in 2021 also, then…
+
+176
+00:27:13.730 --> 00:27:30.580
+Ataur Rahaman: you can, like, add them up and average out, then there is a possibility that, like, school closure will be averaged out. For example, in some states, they have a high level of school closure in 2020, but they have a very low level of school closure in 2021, then if we average out, it will be, like.
+
+177
+00:27:30.580 --> 00:27:36.699
+Ataur Rahaman: We anticipated that it will be, like, average out the high intensity during 2020.
+
+178
+00:27:36.780 --> 00:27:38.000
+Ataur Rahaman: And…
+
+179
+00:27:38.260 --> 00:27:45.359
+Ataur Rahaman: For the others, we are still working on, and let's see, if you have any more questions after the whole presentation.
+
+180
+00:27:47.160 --> 00:28:00.830
+Justin White: Okay, maybe, I'm not seeing any other audience questions, but maybe I would throw out one more, which, I'm not very familiar with the safe graph, so, maybe you can, help me with this, but…
+
+181
+00:28:00.910 --> 00:28:20.120
+Justin White: The state-level school closure seems quite coarse, when, you know, many… there is variation also at the local level, or county level, or school district level, and is it possible to disaggregate those data?
+
+182
+00:28:20.140 --> 00:28:29.549
+Justin White: below the state level, especially because I think some of the mechanisms would be more local than sort of state, in terms of, how they get
+
+183
+00:28:29.640 --> 00:28:30.960
+Justin White: manifested.
+
+184
+00:28:31.180 --> 00:28:44.209
+Ataur Rahaman: Yes, the data we have actually in its school level, so we aggregated them to the state, because the year-vis data, we do not have a… we only have the state identifier, so we don't have…
+
+185
+00:28:44.210 --> 00:29:03.779
+Ataur Rahaman: In our outcome… outcome variable, we don't have, state… sorry, school-level identifier. So yeah, we actually requested the data from ERVS. They said that they cannot give us, below state-level identifiers. So, that's, like, one of the restrictions we have, but otherwise, we have a school-level closure data from SafeGraph.
+
+186
+00:29:05.630 --> 00:29:13.669
+Justin White: Okay, great, thank you. Okay, so, I'm not seeing any other questions at this point, so maybe, feel free to proceed.
+
+187
+00:29:15.060 --> 00:29:16.590
+Ataur Rahaman: Yeah, thank you very much.
+
+188
+00:29:16.720 --> 00:29:39.749
+Ataur Rahaman: So, as we have said earlier, that our causal interpretation is… depends on the parallel return assumptions, so in the upcoming slide, I am going to show a graph that we have divided our substance use… divided our school closure measures from below and medium substance use, and to show this is for only an illustration purpose.
+
+189
+00:29:39.950 --> 00:29:58.080
+Ataur Rahaman: So, as you can see, for example, on the left side, we have a current marina use that we have, splitted our sample based on above and median school closure levels. Blue is above median level. As you can see that this, the trend is following, closely, but after the school closure.
+
+190
+00:29:58.080 --> 00:30:02.649
+Ataur Rahaman: 2020, 2020, there is a huge drop in…
+
+191
+00:30:02.870 --> 00:30:08.659
+Ataur Rahaman: Abort Median Group, and then the gap, actually, it seems to close after that.
+
+192
+00:30:08.780 --> 00:30:27.450
+Ataur Rahaman: Just to note that this is a very, a descriptive preview, this is not a causal one, and we actually have a formal test, to check whether the pretense assumption holds or not. So this is a test for using an even study, and
+
+193
+00:30:27.530 --> 00:30:35.129
+Ataur Rahaman: We can see that there is a substance, substantive evidence that the parallelatin exemption holds for the alcohol and marijuana.
+
+194
+00:30:36.850 --> 00:30:45.499
+Ataur Rahaman: And also to note that, the effect actually a delayed one, especially the effect is significance in 2023.
+
+195
+00:30:47.850 --> 00:30:50.270
+Ataur Rahaman: Now we show the result for the alcohol.
+
+196
+00:30:51.150 --> 00:31:04.920
+Ataur Rahaman: We have a separate graph now for the same event study we have shown… showed… we have seen earlier. As you can see, for the alcohol frequent and for the alcohol daily, the pretense seems to,
+
+197
+00:31:05.030 --> 00:31:13.819
+Ataur Rahaman: There is, like, evidence that parallel precedence holds, and we can see that the effect is a delayed one, especially in 2023.
+
+198
+00:31:14.970 --> 00:31:36.609
+Ataur Rahaman: We have a result now. So, because this is the first table, and our tables are the similar, let me go through over the tables. So, our first, two columns are, two different definitions of the intensity of equal use. First one is the frequent one, second two columns is the daily one, and within each of these two columns, the second… second columns are
+
+199
+00:31:36.610 --> 00:31:39.800
+Ataur Rahaman: Where we have, included the controls.
+
+200
+00:31:40.020 --> 00:31:50.840
+Ataur Rahaman: relate to the first one. Then, for the each row, the first row is our parameter of interest. That is the intensity of closures in 2020 multiplied by the post.
+
+201
+00:31:51.060 --> 00:32:00.759
+Ataur Rahaman: And then second… second row is where we show… we have shown the cluster standard errors. Then we have a pre-mean of the dependent variables.
+
+202
+00:32:00.760 --> 00:32:11.679
+Ataur Rahaman: And the percentages of the pre-mean, that means our coefficient divided by the pre-min, and we have number of observations. And if you want to look for the numbers, you can look only these four columns.
+
+203
+00:32:15.030 --> 00:32:29.410
+Ataur Rahaman: So, as we had mentioned earlier that, we rescale our, rescale our intensity of closure meters to mean. That means one unit increase, increase corresponds to a moving from zero closure to sample mean closures.
+
+204
+00:32:29.600 --> 00:32:40.750
+Ataur Rahaman: For example, our coefficient minus 0.0066 on a frequent alcohol use implies that a 0.6 percentage point decline in probability of use.
+
+205
+00:32:40.750 --> 00:32:49.659
+Ataur Rahaman: Given a 2019 mean of 0.012, this corresponds to a 50% deduction, this corresponds to a 40…
+
+206
+00:32:49.790 --> 00:32:55.590
+Ataur Rahaman: 42.8% reductions in related to pre-take main.
+
+207
+00:32:56.380 --> 00:33:13.569
+Ataur Rahaman: That means a student living in a state with the average 20-20 closure… school closure rate was 42.8% or 0.6% is probably less likely to use alcohol frequently compared to a state that lives… lived in a state without any alcohol closures… without any school closures.
+
+208
+00:33:13.870 --> 00:33:27.929
+Ataur Rahaman: And the result is a bit higher for the daily use, which is 66.6%, and these are the delayed effects, that means the effect of short-run effect in 2021, plus a long-run effect in 2023.
+
+209
+00:33:29.260 --> 00:33:33.250
+Ataur Rahaman: Similarly, we… this is the result for the mariona.
+
+210
+00:33:33.420 --> 00:33:36.959
+Ataur Rahaman: It's broadly the same, and…
+
+211
+00:33:37.020 --> 00:33:56.189
+Ataur Rahaman: For the case of Mariana, we can say that a student living in a state with the average student-to-day school closure rate, was 19.3%% and 36.8% less likely to use Mariana currently and frequently, respectively, compared to a state that lived in… students that lived in a state without any school closure.
+
+212
+00:33:58.780 --> 00:34:16.590
+Ataur Rahaman: Now we want to show a possible mechanism. So, the idea is that some students, particularly those in higher grades, may have already initiated substance use prior to school closures. For those students, we would expect a smaller effect, because their behavior is likely to be more established.
+
+213
+00:34:17.300 --> 00:34:28.529
+Ataur Rahaman: Motivated by this idea, we split the sample, that is our grade 9 to 12, into high and low exposure groups, based on likely exposures to initiation opportunities.
+
+214
+00:34:29.219 --> 00:34:38.929
+Ataur Rahaman: First group is high exposure groups, those who are new to schools after 2020 closures. That means they are in junior high school… junior high schoolers.
+
+215
+00:34:40.100 --> 00:34:59.630
+Ataur Rahaman: Grade 9 and 10 in, so this, this highest closure group includes grade 9 and 10 in 2021. That means in fall season. So, our school closures is actually the whole year in 2020, so this, fall groups is just, is in the next academic year.
+
+216
+00:35:00.470 --> 00:35:12.479
+Ataur Rahaman: And then same cohort, that means the grade 9 and 10 in 2021 fall, they will be in grade 10 and 11 in 2023, because, 2023 Webb is in spring.
+
+217
+00:35:12.480 --> 00:35:24.579
+Ataur Rahaman: So we, we anticipated that these two groups, they have, low exposure to, low exposure to, initiations, any kind of substance initiations.
+
+218
+00:35:24.580 --> 00:35:27.649
+Ataur Rahaman: Because of the school closures during 2020.
+
+219
+00:35:27.860 --> 00:35:37.569
+Ataur Rahaman: And then we have a, sorry, this group are high exposures. So, then we have a low exposure groups, they have, like, they are, like, older students, they already
+
+220
+00:35:37.780 --> 00:35:56.950
+Ataur Rahaman: possibly they already have initiated the substance use. These are in grade 11 and 12 in 2021, and the same cohort, that means grade 11, they're now in grade 12 in 2023. So, based on this, on this, we can now show the result of the initiation effect.
+
+221
+00:35:57.380 --> 00:36:01.449
+Ataur Rahaman: First one is, for the Mariona. As you can see.
+
+222
+00:36:01.860 --> 00:36:05.240
+Ataur Rahaman: The results are actually driven by high exposure
+
+223
+00:36:05.790 --> 00:36:09.499
+Ataur Rahaman: Group, that means high exposure to,
+
+224
+00:36:10.940 --> 00:36:14.500
+Ataur Rahaman: So, high exposure to school closures during COVID-19.
+
+225
+00:36:14.770 --> 00:36:24.389
+Ataur Rahaman: And we can see that the low-exposure groups, that means those who already initiated the cigarette substance use, their effect is not significant.
+
+226
+00:36:25.380 --> 00:36:42.999
+Ataur Rahaman: We can see, for the alcohol, for the alcohol, our estimate is very small, so even, in the graphically, even we can see that, for example, in the alcohol daily, even we see that the low-exposed group actually has the opposite result, but this size is actually very small.
+
+227
+00:36:44.550 --> 00:37:00.339
+Ataur Rahaman: Finally, we have a robustness check, where we leave out one state and reestimate our whole model, and you can see from… in the very left, the blue color, we have our baseline effect size, and then we drop each state
+
+228
+00:37:01.650 --> 00:37:15.690
+Ataur Rahaman: from each of the… each of these bars. You can see that, even if we drop the states, the results, effect sizes are… and the results are the similar. Same case hold for the marijuana use.
+
+229
+00:37:20.610 --> 00:37:29.439
+Ataur Rahaman: So now we're going to show you that we also have a result for cigarette and e-cigarette, and… but we dropped the result due to problematic pretend.
+
+230
+00:37:29.740 --> 00:37:40.859
+Ataur Rahaman: As you can see, for the cigarette, we have the, pretend is, like, you can see… you can see that it's not… it's a bit of problematic, but in the case of e-cigarette, the,
+
+231
+00:37:41.050 --> 00:37:51.690
+Ataur Rahaman: Pretense seems to hold, but we don't have much of the data, because the e-cigarette data starts in the year-based from 2015. So we dropped those two results from our analysis.
+
+232
+00:37:53.920 --> 00:38:09.109
+Ataur Rahaman: Let me conclude. So, use a variation in intensity of school closures, possibly as a possible reduction in in-person school visit to estimate the delayed effect on youth substance use. We found that
+
+233
+00:38:09.120 --> 00:38:19.599
+Ataur Rahaman: Students who live in a state with the average 2020 school closure are experienced compared to the students who have no school closures.
+
+234
+00:38:19.730 --> 00:38:30.259
+Ataur Rahaman: A decrease at 14.28% decrease, and a 16.6% decrease in frequent and daily cold use in 2021 and 2023.
+
+235
+00:38:30.440 --> 00:38:39.030
+Ataur Rahaman: A 19.3% and 36.8% decrease in current and frequent mariner use in 2021 and 2023. These are the combined effects.
+
+236
+00:38:39.960 --> 00:38:54.150
+Ataur Rahaman: This, especially the direction is consistent with the social interaction and peer exposure literature, as you have, mentioned earlier that, for example, Paul and others, they found that,
+
+237
+00:38:54.200 --> 00:39:00.200
+Ataur Rahaman: They found a FX size of 10 to 20% per dollar increase in tax, tax per pack.
+
+238
+00:39:01.590 --> 00:39:12.180
+Ataur Rahaman: Our estimates, 19 to 37% reduction in marijona is a bit high, and it's also a bit higher in, alcohol use.
+
+239
+00:39:12.180 --> 00:39:26.819
+Ataur Rahaman: But our, we, we… but our… they are not, so directly comparable, we can say, but we want to show that… say that this effect size is a bit high compared to, other literature.
+
+240
+00:39:30.810 --> 00:39:36.040
+Ataur Rahaman: First, we want to discuss some limitations. So, first is about the measurement error.
+
+241
+00:39:36.400 --> 00:39:50.450
+Ataur Rahaman: Because, like, foot traffic data from the safe graphs, they may… may not, like, representative of the school closures. For example, some students may not have their, phones, or, like.
+
+242
+00:39:50.850 --> 00:40:04.480
+Ataur Rahaman: similarly, anything like that. We argue that this is likely non-classical, measurement errors, because, like, mobile GPS foot traffic correlate with other school and community characteristics.
+
+243
+00:40:04.710 --> 00:40:09.699
+Ataur Rahaman: And, we don't know the direction of the bias.
+
+244
+00:40:11.340 --> 00:40:20.820
+Ataur Rahaman: Second limitation is state-level treatment. We do not have a school or district identifier in the year-based data, so we cannot use
+
+245
+00:40:20.840 --> 00:40:32.000
+Ataur Rahaman: the variations, much of the variation we have in the safe data to, tease out more about, about these, effect sizes.
+
+246
+00:40:34.150 --> 00:40:56.370
+Ataur Rahaman: These are the possible next steps. Maybe we can… because we have a problematic pretend, especially in the cigarette and e-cigarette, we may… we may think about, pretend adjustment. We may think about, like, heterogeneity, for example, by gender or by age groups, and we can further explore the potential mechanisms.
+
+247
+00:40:56.770 --> 00:41:08.609
+Ataur Rahaman: Thank you very much, for attending and having, here, and I also want to extend my thanks to, Social Olympic Labs and other colleagues and students who, give
+
+248
+00:41:08.750 --> 00:41:12.950
+Ataur Rahaman: Comments and suggestions during a first iteration of the presentations.
+
+249
+00:41:15.920 --> 00:41:25.859
+Justin White: Great, thanks so much. That was a great presentation. I would again encourage everyone to put your questions in the Q&A if you have any, and…
+
+250
+00:41:26.170 --> 00:41:33.530
+Justin White: I will first, turn it over… back over to our discussant to see if Sumeda has any further comments or thoughts.
+
+251
+00:41:35.090 --> 00:41:42.780
+Sumedha Gupta: Thank you so much, Tora and Justin. So this was a great presentation. Thank you. The results are…
+
+252
+00:41:42.810 --> 00:41:59.630
+Sumedha Gupta: really clean, especially for alcohol and marijuana, and the event studies for those look pretty solid. And the leave-one-out analysis is always reassuring for robustness, so thank you for already tackling that at an early stage of the project. Couple of things.
+
+253
+00:41:59.980 --> 00:42:04.400
+Sumedha Gupta: And I'm sure this will not come as a surprise to you. This…
+
+254
+00:42:04.420 --> 00:42:27.769
+Sumedha Gupta: strikingly large effect sizes, are pretty… are something that I think you will be asked again and again to explain, right? A 43% reduction in frequent alcohol use, or 67% reduction in daily alcohol use. Those are very large relative to what we have seen, from other peer effects or tax policy literature.
+
+255
+00:42:28.270 --> 00:42:42.310
+Sumedha Gupta: And I think it's particularly striking, maybe to me, because I have looked at the other… the adult side of the effects of school closures on alcohol use, and we found a 2% increase in alcohol. It was statistically significant, but…
+
+256
+00:42:42.310 --> 00:42:52.669
+Sumedha Gupta: compared to the effect sizes that were presented here, it's… it's helpful to kind of think about how do you reconcile this. And I think in some way, actually, it…
+
+257
+00:42:52.690 --> 00:42:58.559
+Sumedha Gupta: goes in your favor, and let me explain. I think if you found
+
+258
+00:42:58.820 --> 00:43:10.039
+Sumedha Gupta: If the mechanism was really the pandemic-induced stress, then you would have found also that even among, youth.
+
+259
+00:43:10.040 --> 00:43:25.549
+Sumedha Gupta: there would have been an increase in alcohol use. But what you're finding is that unlike the adult population, which may have experienced pandemic stress in a different way, in the adolescent or youth population, you're finding a reduction, and this opposite
+
+260
+00:43:25.550 --> 00:43:34.030
+Sumedha Gupta: Signed effect may imply the peer effect, in this population relative to the adult population.
+
+261
+00:43:34.330 --> 00:43:54.019
+Sumedha Gupta: So while the sign, I think, is something that you can, use as a strength of your argument of peer effects, I think you… it… the magnitudes are still so large that it is something that might be, you'll have to kind of think hard about what might be driving this effect a little bit.
+
+262
+00:43:54.020 --> 00:43:56.210
+Sumedha Gupta: As well. Another thing…
+
+263
+00:43:56.210 --> 00:44:00.040
+Justin White: Maybe, can we pause there, and I'll see if there's any response to that point.
+
+264
+00:44:01.590 --> 00:44:06.999
+Ataur Rahaman: Thank you very, very much. This is actually something to think about, but the,
+
+265
+00:44:07.240 --> 00:44:17.669
+Ataur Rahaman: In the… the alcohol, the size of the, like, if you see the mean, if you go back, the mean, actually, the mean of the alcohol is very small, so…
+
+266
+00:44:19.210 --> 00:44:39.109
+Ataur Rahaman: So, pre-treatment is actually very, very small. So, it's actually already, if you see the trend, the alcohol use among the youth already decreasing. So, it's 50% of that, already low mean, actually. I don't know, maybe it's, like, reasonable?
+
+267
+00:44:39.250 --> 00:44:57.079
+Ataur Rahaman: We can say. And secondly, the previous literature found that the peer effect has a multiplier effect. So, what we mean by that is that, like, for example, the teenagers who are in 9th grade and 10th grade, they didn't initiate this alcohol, for example.
+
+268
+00:44:57.140 --> 00:45:19.860
+Ataur Rahaman: And they already know how to, like, for example, with the adult care, or maybe staying with homes, and they already know how to be helped, maybe. So, and then, when those kids go to the later grade, for example, in grade 11 and 12, in 2023, the whole, the school has now less use, the student now, in the whole school use less,
+
+269
+00:45:20.010 --> 00:45:28.490
+Ataur Rahaman: substance compared to the, like, for example, previous years, right? So, and then this, this maybe, lead to, the newcomers.
+
+270
+00:45:28.980 --> 00:45:40.949
+Ataur Rahaman: use less, because, like, maybe the overall school, the student now, using less alcohol than before. Just an idea, I don't know.
+
+271
+00:45:41.770 --> 00:45:47.810
+Sumedha Gupta: So, I think that's helpful. I don't know if the… Justin, can I respond to…
+
+272
+00:45:47.810 --> 00:45:48.540
+Justin White: Please.
+
+273
+00:45:48.540 --> 00:46:13.330
+Sumedha Gupta: Okay, so, first let me talk about the mean. I think one concern, if your mean is so small, is that if you're identifying this effect of just a handful of people, right? I think that's a concern, because if there are just two people in the sample who are saying that, and it becomes three, then it shows, like, a huge increase, right? So you might want to think a little bit about that what these… how many people
+
+274
+00:46:13.330 --> 00:46:19.690
+Sumedha Gupta: People are act… what these numbers… how many people are actually being counted in these numbers, I think…
+
+275
+00:46:19.780 --> 00:46:33.729
+Sumedha Gupta: And whether you can really capture this effectively, and I think that's something that you should think about a little bit more. So that's one. The second thing that… about…
+
+276
+00:46:34.260 --> 00:46:47.250
+Sumedha Gupta: I think I agree with your idea that there could be a multiplier effect of a multiplier peer effect. I think that makes sense, but then my question would be that would you see that so quickly?
+
+277
+00:46:47.330 --> 00:47:00.409
+Sumedha Gupta: Right? Like, would you see that already in your 2021 and 2023 data? Or how long does that… and maybe there is literature out there that you can lean on a little bit and see that
+
+278
+00:47:00.690 --> 00:47:14.859
+Sumedha Gupta: what has prior literature shown on how long does it take? Because you're talking about shifting cultural norms, and we struggle with that, right? And now you're showing that this has this huge multiplier effect so quickly.
+
+279
+00:47:14.860 --> 00:47:22.150
+Sumedha Gupta: And it would be great if that's actually the case, but it… I think I would encourage you to really see that
+
+280
+00:47:22.150 --> 00:47:31.760
+Sumedha Gupta: What prior literature has found, and whether this stands, you know, strong and robust against some of those findings, or how you can reconcile the difference.
+
+281
+00:47:32.710 --> 00:47:33.730
+Ataur Rahaman: Thank you very much.
+
+282
+00:47:34.960 --> 00:47:37.410
+Justin White: Any further thoughts, Sumera?
+
+283
+00:47:37.410 --> 00:47:44.360
+Sumedha Gupta: Yeah, one other thought that I had was that
+
+284
+00:47:45.040 --> 00:48:00.549
+Sumedha Gupta: I was going to… by the way, one of my points was about the initiation, so I'm really glad that you did that in your updated slide deck, so I'm not going to go in that, that's great. But I will add by saying that I… I would like to see a little bit more
+
+285
+00:48:00.690 --> 00:48:06.240
+Sumedha Gupta: Sort of analyses to disentangle the persistence versus reversal.
+
+286
+00:48:06.440 --> 00:48:25.519
+Sumedha Gupta: Because, the thing that jumped out to me was that your effects appears to grow from 21 to 2023, especially for marijuana, and in our earlier work, we found that after the schools reopened, there was a sort of reversal back to pre-pandemic
+
+287
+00:48:25.520 --> 00:48:50.420
+Sumedha Gupta: levels, and I think part of it could just be, you know, the stickiness of norms kind of argument that you're talking about, but I think, especially if it is connected to, sort of, initiation, if the people didn't get initiated in it, then you would find more longer term, but I think that is something that it would be really helpful to strengthen your work if you can really
+
+288
+00:48:50.420 --> 00:48:59.740
+Sumedha Gupta: do deep analysis on that to establish that that's where it's coming from. So that was my second point that I wanted to mention, so…
+
+289
+00:49:00.270 --> 00:49:00.770
+Sumedha Gupta: Thank you.
+
+290
+00:49:00.770 --> 00:49:01.350
+Ataur Rahaman: Beautiful.
+
+291
+00:49:03.530 --> 00:49:05.690
+Justin White: Any response to that question?
+
+292
+00:49:06.340 --> 00:49:13.800
+Ataur Rahaman: No, thank you. So, we'll do that. So, it's a very early work, so thank you very much for your suggestions, and we'll try to look into that.
+
+293
+00:49:14.080 --> 00:49:18.289
+Justin White: Okay, we do have a few audience questions now,
+
+294
+00:49:18.370 --> 00:49:24.999
+Justin White: One is from Dan Romer. You introduced the study as motivated by peer effects on risk-taking.
+
+295
+00:49:25.030 --> 00:49:43.130
+Justin White: But closing schools does not remove those effects. Closing schools is coincident with closing all kinds of in-person activity, as well as access to stores, so not sure that is due to school closure any more than ability to meet in person outside of school. So, thoughts on the fact that it's about school closures?
+
+296
+00:49:44.250 --> 00:49:52.450
+Justin White: pandemic disruptions, which I think Sumeda also, pointed out. Any thoughts?
+
+297
+00:49:54.390 --> 00:49:56.120
+Ataur Rahaman: So,
+
+298
+00:49:56.670 --> 00:50:09.679
+Ataur Rahaman: The idea that, like, whether it is, like, from a supply side, one, because, like, people… students do not have the sources, they usually had when the school was open.
+
+299
+00:50:09.680 --> 00:50:34.030
+Ataur Rahaman: We argue that, like, we estimate… we would see the reversal effect, right? So, when the school had opened, like, and we will see it's reversed, but we didn't see, in our data, that means it's mostly about peer effect, and in addition to that, we also measure… we also measure it's a delayed one. For example, our closer data is in 2020, but
+
+300
+00:50:34.030 --> 00:50:37.539
+Ataur Rahaman: Our first wave of year-based data in 2021.
+
+301
+00:50:37.540 --> 00:50:42.630
+Ataur Rahaman: So that means it's not… it's not the case that, students do not get
+
+302
+00:50:42.990 --> 00:50:58.769
+Ataur Rahaman: the substances, because they could get infantry 1 also. So, we… we can say that it's more of a fear… fear effect and, like, monitoring, effect of the… by the adults, not… not the other way around.
+
+303
+00:50:59.720 --> 00:51:00.430
+Justin White: Okay.
+
+304
+00:51:00.850 --> 00:51:17.239
+Justin White: Amanda Holmes asks, did you control in any way for other environmental factors that might relate to which schools were likelier to close? For example, were more affluent schools likelier to close, and could this impact the results?
+
+305
+00:51:18.840 --> 00:51:40.949
+Ataur Rahaman: We do not directly control that, but our closer intensity is a weighted one. So, for example, if it is a larger larger schools, and also, like, especially the schools in the cities, they tend to be larger, and tend to be demographically different than the regular one, so our, our closure measure is a weighted one, so it's, like, potentially, we, we are actually, taking care of that.
+
+306
+00:51:41.770 --> 00:51:42.450
+Justin White: Okay.
+
+307
+00:51:42.740 --> 00:51:58.200
+Justin White: Ian Irvine says, or asks, have you… any measures of psychological stress? The Ontario data indicate substantial increases in stress measures while simultaneously showing declines in consumption and alcohol
+
+308
+00:51:58.200 --> 00:52:07.140
+Justin White: vapes, cannabis, etc, negative effects. These are unconditional summary data. Do you have any psychological stress measures?
+
+309
+00:52:07.760 --> 00:52:09.439
+Ataur Rahaman: Mmm, no, we do not have.
+
+310
+00:52:09.910 --> 00:52:12.619
+Justin White: Okay, there's nothing in the survey that captures that?
+
+311
+00:52:12.890 --> 00:52:16.790
+Ataur Rahaman: We have to look, but as far as I know, there is nothing.
+
+312
+00:52:17.240 --> 00:52:33.740
+Justin White: Okay, great. So I'm not seeing others, so maybe I'll ask a couple of my own. So one is that you mentioned, that there's an unbalanced panel, and I wonder if that could in any way account for…
+
+313
+00:52:33.800 --> 00:52:46.280
+Justin White: the differences in 2023 in particular, and I don't know if you've looked at if there are compositional differences that occur in the 2023 wave compared to other waves, for example.
+
+314
+00:52:46.400 --> 00:52:51.630
+Justin White: Whether that could be driving any, differential effects over time.
+
+315
+00:52:54.760 --> 00:53:01.730
+Ataur Rahaman: This is a very early stage, thank you very much for your comment. We definitely will look into it, but we didn't look into it yet.
+
+316
+00:53:01.810 --> 00:53:19.110
+Ataur Rahaman: But I can say that, like, we used, the leave-in one-out states, if you think that, like, 2023, there is, like, different states, or some of the states are, like, leave out in 2023, or that, like, 2023 has a low response rate.
+
+317
+00:53:19.210 --> 00:53:28.859
+Ataur Rahaman: I would say maybe we can… you could say, you would see a very fluctuated, effect size due to the live one hour.
+
+318
+00:53:28.930 --> 00:53:41.690
+Ataur Rahaman: But definitely, we… we could go and check the balances and see how the 2023 or any of the missing… or maybe, like, making the panel balanced, or whether it makes the result a different one.
+
+319
+00:53:41.990 --> 00:54:01.929
+Justin White: Yeah, it's a good point about the leave one out. I think, so you… the other thing is about pre-trends. So, for e-cigarettes, they… they didn't look that bad to me, but you sort of backed away from those results. Can you talk more about… I understand that there's sort of the cigarette,
+
+320
+00:54:01.930 --> 00:54:03.219
+Justin White: Pre-trends were not…
+
+321
+00:54:03.220 --> 00:54:10.380
+Justin White: Good, but the e-cigarette ones looked decent to me, so… thoughts on, sort of, like, why you decided to…
+
+322
+00:54:10.430 --> 00:54:13.479
+Justin White: De-emphasize those results.
+
+323
+00:54:14.290 --> 00:54:28.499
+Ataur Rahaman: So, our e-cigarette result also, shows a negative effect. So, effect size is indirectional was negative. Yeah. That's why I remember some of them even significant, but, I think we back out due to,
+
+324
+00:54:28.710 --> 00:54:30.439
+Ataur Rahaman: Due to, like, low…
+
+325
+00:54:31.200 --> 00:54:47.640
+Ataur Rahaman: pre, because, like, e-cigarette data starts from 2015. But we… we have, we are thinking about including those, in the, maybe, in the main paper. We are still working on it, but somehow we decided not to include it in the presentations.
+
+326
+00:54:47.990 --> 00:54:57.349
+Justin White: Okay. Sumeda just, put, a comment in the chat. Sumeda, do you want to comment back on camera and ask your question, or raise the point?
+
+327
+00:54:57.990 --> 00:55:21.379
+Sumedha Gupta: Yeah, sure, just smaller points. I was kind of wondering about any compositional changes in the survey, just given that it was the pandemic period, and you present this range of 35 to 70%, which is, like, really large, right? So did the pandemic differentially affect participation in high versus low closure states? Because that could create some sort of a compositional bias. I was just wondering if
+
+328
+00:55:21.470 --> 00:55:33.619
+Sumedha Gupta: you had done some sort of, you know, descriptive evaluation of that. Also, was just wondering about another measure of alcohol use, which is just current alcohol use.
+
+329
+00:55:33.620 --> 00:55:42.349
+Sumedha Gupta: So you obviously presented results for daily use and frequent use, but not current alcohol use, and I was just wondering.
+
+330
+00:55:42.350 --> 00:55:51.850
+Sumedha Gupta: If there was a reason for that, or did I miss that? But, if not, that could also be an interesting intensive margin story there, so…
+
+331
+00:55:52.050 --> 00:55:54.620
+Sumedha Gupta: Just a couple of more thoughts, smaller thoughts.
+
+332
+00:55:54.990 --> 00:56:02.450
+Ataur Rahaman: So, the composition… the composition, actually, there is a drop in 2023, that's true, but,
+
+333
+00:56:03.920 --> 00:56:11.190
+Ataur Rahaman: But there is a drop in overall response rate from 2015, actually. So, from 2015 to 20,
+
+334
+00:56:11.190 --> 00:56:34.129
+Ataur Rahaman: 17, and 19, and 2021, 2023, the response rate were below, I believe, 60 or 70 or 50%. So, there is, like, almost a steady decline of the response… overall response rate, but the student response… response rate is high. It's still high. Compared to other year, it's low, that's true, but it's, still low,
+
+335
+00:56:34.130 --> 00:56:34.900
+Ataur Rahaman: Wow.
+
+336
+00:56:35.070 --> 00:56:38.409
+Ataur Rahaman: It's from 2015, actually. It's not, but is it…
+
+337
+00:56:38.410 --> 00:56:41.250
+Sumedha Gupta: Is there relatively larger decline?
+
+338
+00:56:41.250 --> 00:56:44.800
+Ataur Rahaman: Yes, it's been relatively a larger decline in 2023.
+
+339
+00:56:44.910 --> 00:56:51.609
+Ataur Rahaman: But, the ERV, the data provider, they actually have a,
+
+340
+00:56:52.100 --> 00:57:09.820
+Ataur Rahaman: like, compositional, measures, like, if… if the response rate is not, like, how to say, representative of the state, they actually do not, include those states in the data. For example, in 2023, you'll see that some of the states are not reported because of the
+
+341
+00:57:09.820 --> 00:57:22.089
+Ataur Rahaman: because of the data is not weighted properly, that is, like, truly representative of the states. So you can see that, like, the ERVs people, they actually think about this compositional change due to the lowest response rate.
+
+342
+00:57:22.160 --> 00:57:27.790
+Ataur Rahaman: I will definitely go and check, specifically for 2023. Thank you for your suggestions.
+
+343
+00:57:27.790 --> 00:57:40.239
+Sumedha Gupta: And you might also consider, in addition to using survey weights, you could also consider using replicate weights to make sure that those results are consistent with what you're finding with the survey weights.
+
+344
+00:57:40.750 --> 00:57:41.830
+Ataur Rahaman: Thank you very much.
+
+345
+00:57:42.890 --> 00:57:52.510
+Justin White: Okay, I think we are out of time, so we will turn it over to our MC. Thank you both for participation. Thanks for a great presentation.
+
+346
+00:57:57.280 --> 00:58:10.540
+Caroline Wang: Alright, so we are out of time. Thank you to our presenter, moderator, and discussant. Finally, thank you to the audience of 94 people for your participation. Have a top-notch weekend.
+
