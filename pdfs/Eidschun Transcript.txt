@@ -1,0 +1,1158 @@
+WEBVTT
+
+1
+00:00:03.170 --> 00:00:12.889
+Zihan Ren: Welcome to the Tobacco Online Policy Seminar. Thank you for joining us today. I'm Zi Han Yun, a Consumer Science PhD candidate at The Ohio State University.
+
+2
+00:00:13.180 --> 00:00:28.849
+Zihan Ren: TOPS is organized by Mike Pesco at the University of Missouri, Cican at The Ohio State University, Michael Dodden at George Hopkins University, Jeremy Herman Boyd at the University of Massachusetts Amherst, and Justine White at Boston University.
+
+3
+00:00:29.140 --> 00:00:43.710
+Zihan Ren: The seminar will be 1 hour, with questions from the moderator and discussion. The audience may post questions and comments in the Q&A panel, and the moderator will draw from these questions and comments in conversation with the presenter.
+
+4
+00:00:43.880 --> 00:00:49.339
+Zihan Ren: Please review guidelines on tobaccoPolicy.org for acceptable questions.
+
+5
+00:00:49.470 --> 00:00:54.359
+Zihan Ren: Please keep the questions professional and related to the research being discussed.
+
+6
+00:00:54.640 --> 00:01:02.030
+Zihan Ren: Questions that meet the seminar series guidelines will be shared with the presenter afterwards, even if they are not read aloud.
+
+7
+00:01:02.140 --> 00:01:04.910
+Zihan Ren: Your questions are very much appreciated.
+
+8
+00:01:05.800 --> 00:01:14.719
+Zihan Ren: This presentation is being video recorded and will be made available, along with presentation slides on the TOPS website, tobaccoPolicy.talk.
+
+9
+00:01:15.190 --> 00:01:22.750
+Zihan Ren: I will turn the presentation over to today's moderator, Xin Shan, from the Ohio State University, to introduce our speaker.
+
+10
+00:01:23.570 --> 00:01:32.810
+Ce Shang: Thank you, Zuhan. Today, we conclude our Winter 2026 season with a single paper presentation by Aaron Adshin.
+
+11
+00:01:32.810 --> 00:01:38.869
+Ce Shang: Entitled, Burning Questions, Due Dynamics of U.S. Cigarette and E-Cigarette Demand.
+
+12
+00:01:38.870 --> 00:01:59.620
+Ce Shang: This presentation was selected via a competitive review process by submission through the TOPS website. Erin Edgen is a PhD candidate in economics at Boston University. Her research utilizes structural modeling to analyze demand and supply dynamics in the U.S. nicotine market.
+
+13
+00:01:59.650 --> 00:02:22.220
+Ce Shang: With a specific focus on the mechanisms of habit formation. In particular, she studies consumer switching behavior between cigarettes, e-cigarettes, and abstining from smoking. She received an MA in economics from the University of Chicago in 2020, and a BA in economics from the University of Chicago in 2019.
+
+14
+00:02:22.220 --> 00:02:24.830
+Ce Shang: Aaron, thank you for presenting for us today.
+
+15
+00:02:28.650 --> 00:02:30.009
+Erin Eidschun: Thank you for having me.
+
+16
+00:02:30.220 --> 00:02:33.410
+Erin Eidschun: I'm going to go ahead and share my slides.
+
+17
+00:02:36.620 --> 00:02:37.750
+Erin Eidschun: Okay.
+
+18
+00:02:38.420 --> 00:02:44.950
+Erin Eidschun: So I'll be presenting my research today here. It's called Burning Questions, Dual Dynamics of U.S. Cigarette and E-Cigarette Demand.
+
+19
+00:02:46.220 --> 00:02:52.360
+Erin Eidschun: I do have to go through some disclosures, so first off, I have received no funding for this paper, or any
+
+20
+00:02:52.560 --> 00:03:03.400
+Erin Eidschun: other tobacco-related funding in the past 10 years, and also I do use Nielsen data, but the research here and my conclusions are my own and not, they do not reflect the views of Nielsen at all.
+
+21
+00:03:06.300 --> 00:03:15.250
+Erin Eidschun: So, I'll start off with some motivation here. So, in the adult market in the U.S, the cigarette smoking rate is 11.6%, according to the CDC in 2022.
+
+22
+00:03:15.370 --> 00:03:19.470
+Erin Eidschun: This is down to 6% for the e-cigarette adult smoking rate instead.
+
+23
+00:03:19.930 --> 00:03:33.070
+Erin Eidschun: Now, how do these two rates, or smokers interact? So it turns out, according to the 2015 CPS Tobacco Use Supplement, that 35% of cigarette smokers who attempted to quit in the previous 12 months used e-cigarettes as a cessation aid.
+
+24
+00:03:33.210 --> 00:03:35.980
+Erin Eidschun: This number went down to 25% in 2019.
+
+25
+00:03:38.850 --> 00:03:46.320
+Erin Eidschun: So, what this brings to question is, what effects may exist, and which dominate? That e-cigarettes function as a cessation aid?
+
+26
+00:03:46.320 --> 00:04:00.539
+Erin Eidschun: for traditional cigarette use, or that they may actually function as a gateway effect to cigarette use. As, for example, maybe someone will develop a high preference for nicotine, or a high craving, or develop some sort of relaxed attitude about smoking in general.
+
+27
+00:04:01.940 --> 00:04:21.579
+Erin Eidschun: So, this is really important to consider, given that cigarette and e-cigarette policies are simultaneously in place, and sometimes not necessarily, coordinated. For example, if e-cigarettes do function as a cessation aid for cigarettes, then e-cigarettes should be regulated with that in mind, perhaps not actually being so stringent on the regulation.
+
+28
+00:04:22.410 --> 00:04:39.529
+Erin Eidschun: A lot of existing work has touched on this, but it focuses on cross-sectional substitution, for example, with using excise tax variation in cigarettes to see the impact on both cigarette and e-cigarette use. I instead want to look at choices at the individual level, and I want to do that via a structural model.
+
+29
+00:04:39.760 --> 00:04:47.670
+Erin Eidschun: The benefit of a structural model in this context is that I can incorporate counterfactual, approaches, that you cannot do in a reduced form setting.
+
+30
+00:04:51.140 --> 00:04:59.730
+Erin Eidschun: So this brings me to my research question, which is, how does smoking history drive, at the individual level, transitions between cigarettes, e-cigarettes, and abstinence?
+
+31
+00:04:59.960 --> 00:05:11.730
+Erin Eidschun: I will implement a counterfactual in which I ban e-cigarettes, and I show how this ban impacts choices of cigarette use, e-cigarette, or no e-cigarette use, and abstinence.
+
+32
+00:05:12.320 --> 00:05:29.230
+Erin Eidschun: The method that I use is an asset logit, in which I study consumer adoption and switching between cigarettes, e-cigarettes, and abstaining, and I emphasize past smoking behavior. I develop an original model of nicotine addiction as part of this model, and I also develop a new method of addressing price endogeneity in this literature.
+
+33
+00:05:29.400 --> 00:05:34.119
+Erin Eidschun: I put these two in red because these are the prior… the primary contributions of my research.
+
+34
+00:05:37.650 --> 00:05:54.969
+Erin Eidschun: I'll be brief about the literature review. So, there's a little bit of structural work in the area, these three papers here, but most of it is at the cross-section, or doing reduced form, showing, for example, negative relationships between smoking and the regulation, or showing that cigarettes and e-cigarettes may be substitute goods.
+
+35
+00:05:58.770 --> 00:06:05.459
+Erin Eidschun: Some relevant background I'll introduce here. So, I will be discussing some state and federal regulations of cigarettes and e-cigarettes.
+
+36
+00:06:05.640 --> 00:06:16.490
+Erin Eidschun: So these regulations, again, can be specific to cigarettes or e-cigarettes. So you might have a regulation on cigarettes, but not e-cigarettes and vice versa at the same time within a state.
+
+37
+00:06:17.060 --> 00:06:30.790
+Erin Eidschun: So the first one I want to go over is prohibiting the self-service display of cigarettes or e-cigarettes. This is what prevents you from simply walking into a store and grabbing a cigarette or e-cigarette off the shelf. You tend to maybe have to talk to someone behind a counter, or ask them to unlock a box for you.
+
+38
+00:06:31.440 --> 00:06:34.210
+Erin Eidschun: There's also minimum age of purchase loss.
+
+39
+00:06:34.310 --> 00:06:41.039
+Erin Eidschun: Smoke-free air laws, also known as SFA laws, which prohibit you from smoking in public spaces indoors.
+
+40
+00:06:41.450 --> 00:06:52.050
+Erin Eidschun: And then finally, requiring retail licenses to sell. So many states, for example, will require a vendor to pay an application fee and fill out an application in order to sell year to year.
+
+41
+00:06:53.070 --> 00:07:08.499
+Erin Eidschun: Finally, there are excise taxes. So, for e-cigarettes, there's been a lot of variation in this over the years, because there's… this is a newly regulated product. Coty et al. estimate a pass-through that's pretty high, between .9 and 1.01 of excise taxes on e-cigarettes.
+
+42
+00:07:08.840 --> 00:07:17.179
+Erin Eidschun: For cigarettes, there's a lot less variation, but there still is variation, in the last few decades, again, with a high pass-through rate of 1 to 1.10.
+
+43
+00:07:20.530 --> 00:07:31.669
+Erin Eidschun: Just to give you an idea, visually, of how the four laws that I described before have evolved for e-cigarettes, this is a graph showing the time period that I will be studying, 2013 to 2023.
+
+44
+00:07:31.790 --> 00:07:38.520
+Erin Eidschun: On the y-axis, I have the number of states in DC, so the maximum level in this figure is 51.
+
+45
+00:07:38.630 --> 00:07:45.810
+Erin Eidschun: And it shows the number of states or DC that have implemented these laws over the time period in question. So there's a lot of variation.
+
+46
+00:07:46.600 --> 00:07:52.329
+Erin Eidschun: The figure for cigarettes is, basically flat during this period, with just a little bit of variation.
+
+47
+00:07:56.010 --> 00:08:08.549
+Erin Eidschun: So I'm going to move to my model now. So, I study this, using a panel-mested logit, and the reason I have to use a panel model is because I'm interested in switching behavior at the individual level, and so I need repeated observations of them.
+
+48
+00:08:08.980 --> 00:08:23.280
+Erin Eidschun: So, each month M, some agent I, who lives in U.S. state S, chooses some alternative J in their choice set. Their choice set is three choices, a representative cigarette, a representative e-cigarette, or abstaining from smoking.
+
+49
+00:08:23.600 --> 00:08:32.730
+Erin Eidschun: They do this in consideration of several factors, one being e-cigarette smoking laws, cigarette smoking laws, and these refer to the four that I was just talking about.
+
+50
+00:08:33.059 --> 00:08:34.200
+Erin Eidschun: Price.
+
+51
+00:08:34.390 --> 00:08:48.929
+Erin Eidschun: their demographics, and their smoking history. And I put this in bold because this is, kind of what I want to focus on in my model. So, smoking history consists of switching costs, adoption costs, and this new term that I've coined, nicotine stock.
+
+52
+00:08:49.990 --> 00:09:05.840
+Erin Eidschun: And I choose a nested structure to relax the IIA assumption, and so you can think of it as a consumer, when choosing their choice for the period, they choose to smoke or not to smoke. If they choose not to smoke, they enter this degenerate nest, where there's just one alternative, not smoking.
+
+53
+00:09:06.080 --> 00:09:10.370
+Erin Eidschun: And if they choose to smoke, then they choose between cigarettes and e-cigarettes.
+
+54
+00:09:10.930 --> 00:09:18.950
+Erin Eidschun: I will point out that when I say smoking, by the way, in this presentation, I'm referring to smoking of cigarettes or e-cigarettes, just so there is no confusion.
+
+55
+00:09:22.540 --> 00:09:28.310
+Erin Eidschun: So to go over this past smoking behavior, I'm going to start with switching costs. So I defined four switching costs.
+
+56
+00:09:28.520 --> 00:09:35.830
+Erin Eidschun: One is from cigarettes to e-cigarettes, e-cigarettes to cigarettes, cigarettes to not smoking, and e-cigarettes to not smoking.
+
+57
+00:09:36.160 --> 00:09:55.450
+Erin Eidschun: So these should be treated as product characteristics. And what that means is, every single period, when a consumer sits down and they look at their three possible choices, they kind of assign a switching cost of 1 or 0 to each alternative. And then they choose based on that amongst… as well as demographics and other things that I will cover.
+
+58
+00:09:56.170 --> 00:10:05.979
+Erin Eidschun: So the switching costs, each of the switching costs is a binary variable. It's equal to 1 if the choice from the prior period is not equal to the alternative being considered this period.
+
+59
+00:10:05.980 --> 00:10:18.209
+Erin Eidschun: So if I smoked cigarettes last period, and I look at my choice set, if I see cigarettes this period, I will see I would incur a switching cost of 0. If I see e-cigarettes for this period, I would incur a switching cost of 1.
+
+60
+00:10:18.210 --> 00:10:23.939
+Erin Eidschun: And then finally, if I choose not to smoke, or if I consider not smoking, I also realize I would incur a cost of 1.
+
+61
+00:10:25.640 --> 00:10:33.759
+Erin Eidschun: You'll notice that I haven't done the, kind of, last two directions, which is going from not smoking to cigarettes, or not smoking to e-cigarettes.
+
+62
+00:10:33.850 --> 00:10:52.499
+Erin Eidschun: And that's because I prefer to actually code them as what I call adoption costs. And so there are two adoption costs. One is a cigarette adoption cost. It's also binary, equal to 1 if you have smoked cigarettes in any of the prior two periods, and zero otherwise. And the analogous is for the e-cigarette adoption cost.
+
+63
+00:10:56.130 --> 00:11:13.240
+Erin Eidschun: Finally, for the smoking history variables, I bring you nicotine stock. So this is not meant to, reflect how much nicotine is kind of, like, left in your body, because that does dissipate really quickly over time, I believe in 24 to 48 hours. It is more a measure of the level of your addiction.
+
+64
+00:11:13.630 --> 00:11:15.620
+Erin Eidschun: So, what is nicotine stock?
+
+65
+00:11:16.020 --> 00:11:30.399
+Erin Eidschun: The data that I will end up using allows for detection of exactly how much nicotine is contained in the cigarette or e-cigarettes purchased by these agents. And that's based on seeing the e-liquid capacity and strength, as well as cigarette type.
+
+66
+00:11:31.040 --> 00:11:40.629
+Erin Eidschun: So with this data, I can actually convert this to some sort of approximate nicotine yield in the product, and I can also, you know.
+
+67
+00:11:41.490 --> 00:11:47.000
+Erin Eidschun: Use what's called a transfer efficiency to estimate how much of the product's nicotine enters the body.
+
+68
+00:11:47.160 --> 00:12:01.059
+Erin Eidschun: This transfer efficiency is just based on some medical literature I have found, and I do realize that to properly measure how much nicotine is entering the body, you have to do scientific studies, but this is kind of the best we can do in the literature, given the number of individuals.
+
+69
+00:12:01.330 --> 00:12:16.549
+Erin Eidschun: So, an example of how nicotine stock is calculated, I will first talk about how to first calculate nicotine yield. So, suppose that there is a e-cigarette product that is 30 milligrams per milliliter in strength, it contains 2 milliliters of e-liquid.
+
+70
+00:12:16.700 --> 00:12:22.970
+Erin Eidschun: The person has, purchased 2 units of this, and there's a .68 transfer efficiency assigned to e-cigarettes.
+
+71
+00:12:23.160 --> 00:12:27.930
+Erin Eidschun: This will result in an 81.6 milligram nicotine yield for that purchase.
+
+72
+00:12:29.130 --> 00:12:48.700
+Erin Eidschun: And so, I'll draw your attention to the first equation here, that large N subscript IJM. This resembles a capital stock accumulation, equation in the macroeconomics literature, and the idea is that every single period, you can invest in your nicotine stock with this small n, which is that nicotine yield from your purchases.
+
+73
+00:12:48.700 --> 00:12:53.449
+Erin Eidschun: And at the same time, your prior nicotine stock will be degrading, at this rate, delta.
+
+74
+00:12:53.710 --> 00:13:06.040
+Erin Eidschun: And delta is specific to the alternative. So, for no smoking, there is never any nicotine in that alternative, so the nicotine stock for that will always be zero. For cigarettes and e-cigarettes, they can degrade at different rates.
+
+75
+00:13:06.800 --> 00:13:18.310
+Erin Eidschun: What goes into the, nested logit equation eventually is in blue here, that N subscript IM, which is a sum over the alternative cigarette and e-cigarette of their nicotine stocks.
+
+76
+00:13:18.750 --> 00:13:23.669
+Erin Eidschun: And finally, we assume that the nicotine stock in the first period starts at zero.
+
+77
+00:13:28.380 --> 00:13:31.360
+Erin Eidschun: With all this in mind, I can show you the full nested logit form.
+
+78
+00:13:31.690 --> 00:13:40.080
+Erin Eidschun: So again, each period in M, an agent I located in state S derives a utility U from purchasing alternative J in their choice set.
+
+79
+00:13:41.020 --> 00:13:57.320
+Erin Eidschun: Their utility consists of an observed and unobserved component. The observed component is what I have walked you through here so far. It includes prices, a vector of switching costs, laws that are specific to cigarettes, and laws that are specific to e-cigarettes, so there are four for each.
+
+80
+00:13:58.150 --> 00:14:10.709
+Erin Eidschun: The nicotine stock of the agent, a vector of household demographics, the two adoption costs, one for cigarette and one for e-cigarettes, and finally, fixed effects, which are at the alternative, state, and year level.
+
+81
+00:14:11.640 --> 00:14:23.959
+Erin Eidschun: So you'll notice that price is in red here, and that's because the equation, as it's written here, features an endogenous variable, price, and I do want to address this, so I'll go into that in the next few slides.
+
+82
+00:14:28.090 --> 00:14:33.789
+Erin Eidschun: So, I first want to cover what is the issue with addressing price endogeneity in a nonlinear framework?
+
+83
+00:14:34.340 --> 00:14:48.130
+Erin Eidschun: Standard methods such as 2SLS are actually only appropriate for linear settings, and the reason for that is because the second stage in 2SLS, if applied in a nonlinear framework, will mangle the errors, and you will get a biased result.
+
+84
+00:14:48.780 --> 00:14:51.119
+Erin Eidschun: So this is not an option here.
+
+85
+00:14:51.590 --> 00:14:57.750
+Erin Eidschun: I propose this instead, which is, first, I estimate that same nested logit model from the previous slide.
+
+86
+00:14:57.940 --> 00:15:14.480
+Erin Eidschun: But I add market time level fixed effects. These are meant to capture, like, the mean, utility at that market time level. And so what drops out due to the, variation, the level of variation of the fixed effect, is laws.
+
+87
+00:15:14.480 --> 00:15:18.570
+Erin Eidschun: Prices, product fixed effects, state fixed effects, and your fixed effects.
+
+88
+00:15:19.660 --> 00:15:35.630
+Erin Eidschun: Now, this is not very simple to implement, in fact, so my data is assigned such that I'm actually adding 18,000 fixed effects at once. And so, doing the log likelihood optimization is not very straightforward anymore using, for example, Stata's n logic command.
+
+89
+00:15:35.630 --> 00:15:43.960
+Erin Eidschun: And even coding this manually from scratch, the log likelihood function, you'll not be able to overcome computational issues because it's very hard to find the optimum.
+
+90
+00:15:44.270 --> 00:16:02.689
+Erin Eidschun: So instead, I use a minorization maximization technique from Chen et al, and I derive a version that is appropriate for the nested logit model. And how it works is basically, it creates a surrogate function that is much easier to optimize, but has the same optimum as the log likelihood function.
+
+91
+00:16:04.150 --> 00:16:20.740
+Erin Eidschun: So after this step, what I have are these estimated fixed effects, and I regress these on product characteristics and instrumented price, where price is instrumented in an equation that looks very much like a first stage of a 2SLS, which is appropriate, the first stage is fine to use.
+
+92
+00:16:20.870 --> 00:16:26.809
+Erin Eidschun: And I use excise taxes as the instrument. This has been used widely in the literature in the reduced form.
+
+93
+00:16:27.110 --> 00:16:32.070
+Erin Eidschun: And I see an F test of 33.4, so I'm not very worried about a weak instrument problem.
+
+94
+00:16:33.260 --> 00:16:38.859
+Erin Eidschun: Finally, I construct standard errors via a bootstrap method, with 500 simulations.
+
+95
+00:16:43.260 --> 00:16:48.489
+Erin Eidschun: Now, I will mention, that the other approach that may be appropriate here,
+
+96
+00:16:48.490 --> 00:17:05.980
+Erin Eidschun: at first glance would be the control function approach that has been used in the literature for nonlinear endogeneity, but the assumption that I would need to make in this setting is that unobserved price shocks and unobserved utility shocks are linearly related, otherwise known as bivariate normality.
+
+97
+00:17:06.490 --> 00:17:17.850
+Erin Eidschun: My approach instead has a, less strong assumption, which is that all unobserved market time-level heterogeneity, such as local trends or advertising, are captured by the market time level fixed effects.
+
+98
+00:17:22.720 --> 00:17:35.890
+Erin Eidschun: Now, to bring this to the data, so as I've mentioned, I'm using, Nielsen data, and the goal here is to build a monthly panel of purchases, for… at the agent level from 2013 to 2023.
+
+99
+00:17:36.270 --> 00:17:42.239
+Erin Eidschun: I start at 2013 due to, sufficiency in the data on e-cigarette purchases.
+
+100
+00:17:42.720 --> 00:17:52.769
+Erin Eidschun: My main data source is the Nielsen Consumer Panel data, and what this is, is it's a data source that surveys 40,000 to 60,000 households annually. It's not a balanced panel.
+
+101
+00:17:53.250 --> 00:18:08.940
+Erin Eidschun: And it surveys household purchases and demographics. And so what happens is households that participate are given a scanning device, and when they make purchases, they're expected to scan the barcode of their purchases into the panel, and that gets registered in the Nielsen data.
+
+102
+00:18:09.300 --> 00:18:16.389
+Erin Eidschun: They're supposed to report their price and the place of purchase as well, as well as, demographics.
+
+103
+00:18:16.760 --> 00:18:24.589
+Erin Eidschun: Nielsen does actually put in their own prices, where they can, so it's a little bit more, accurate reporting.
+
+104
+00:18:24.920 --> 00:18:36.229
+Erin Eidschun: And what I do is I only take households that smoke sufficiently frequently in the data. So those are households defined as having 4 or more purchase, transactions while they're observed in the data.
+
+105
+00:18:37.180 --> 00:18:46.559
+Erin Eidschun: Finally, I aggregate that to the monthly level, where the choice that they make, cigarette, e-cigarette, or nothing, is defined by the majority of their monthly expenditure for cigarettes and e-cigarettes.
+
+106
+00:18:46.840 --> 00:18:59.189
+Erin Eidschun: So, of course, no one is spending the majority of their money per month on cigarettes or e-cigarettes, but when I'm deciding between cigarettes and e-cigarettes, if I observe both purchases, I choose based on the majority.
+
+107
+00:18:59.510 --> 00:19:09.059
+Erin Eidschun: This is not really an issue about dual usage, because I find that less than 1% of households actually split their spending between just 15% and 85% for cigarettes and e-cigarettes.
+
+108
+00:19:10.190 --> 00:19:24.989
+Erin Eidschun: I supplement this with Nielsen retail scanner data in order to construct prices. It also provides nicotine strength, which is used to construct that nicotine stock variable, and these are all used to get my sales-weighted representative cigarettes and e-cigarettes, which I'll discuss next.
+
+109
+00:19:26.540 --> 00:19:45.400
+Erin Eidschun: I also have, some data on e-cigarette e-liquid capacity and nicotine strength from Cottey et al, and some manual collection. And then, from the CDC, I take state smoking laws and excise taxes on cigarettes. For excise taxes on e-cigarettes, CAUTI's paper has actually, standardized these for e-cigarettes at the milliliter level.
+
+110
+00:19:49.210 --> 00:19:57.889
+Erin Eidschun: So, the choice is at the state and month level, so how exactly am I going to calculate or construct some sort of representative e-cigarette or cigarette?
+
+111
+00:19:57.890 --> 00:20:12.680
+Erin Eidschun: This is especially interesting for e-cigarettes, because as we know, they come in all different shapes and sizes and strengths. And so, my method here is, in order to aggregate weekly Nielsen retail data to the month and state level, is I take, as Representative Price.
+
+112
+00:20:12.680 --> 00:20:24.410
+Erin Eidschun: the average price per milliliter at that month and state level, and I multiply that by the average e-liquid capacity in that month and state level, where averages are constructed using e-liquid sales weights.
+
+113
+00:20:24.410 --> 00:20:35.399
+Erin Eidschun: And so, the benefit here is I'm just, able to see how much e-liquid is sold every month in state, and so that is how I can get some sort of homogenous or representative e-cigarette.
+
+114
+00:20:36.040 --> 00:20:39.089
+Erin Eidschun: I applied this formula for the excise tax instrument as well.
+
+115
+00:20:39.950 --> 00:20:50.129
+Erin Eidschun: For representative cigarettes, it's a lot more straightforward, because they come in, like, standardized sizes, and they come in packs or cartons, so it's much more straightforward to do sales-weighted representative cigarettes.
+
+116
+00:20:52.140 --> 00:20:54.230
+Erin Eidschun: At this point, I'll pause for questions.
+
+117
+00:20:56.170 --> 00:21:06.909
+Ce Shang: Thank you, Erin. Our discussion today is Dr. David Levy, a professor of oncology in the School of Medicine at Georgetown University. So, David.
+
+118
+00:21:07.230 --> 00:21:10.329
+Ce Shang: Do you have any comments at this point? Thank you.
+
+119
+00:21:10.330 --> 00:21:12.449
+David Levy: Well, just,
+
+120
+00:21:12.700 --> 00:21:26.449
+David Levy: superb methodology, very well presented. And I was… it was a pleasure listening, and and, just a couple of very minor points.
+
+121
+00:21:26.990 --> 00:21:32.560
+David Levy: I notice you're doing a multi-equation approach, but
+
+122
+00:21:32.620 --> 00:21:50.390
+David Levy: you know, one of the papers that you didn't mention, the single equation approach, there's several papers by Abigail Friedman, and I think it'll be very interesting for you to compare your results to hers. And, you know, one of the things
+
+123
+00:21:50.390 --> 00:21:55.850
+David Levy: One of the aspects I think she does very well is she really,
+
+124
+00:21:56.230 --> 00:22:04.130
+David Levy: Looks, she's done a lot of study of the policies, and it seems like, and…
+
+125
+00:22:04.140 --> 00:22:17.039
+David Levy: I'm not sure, but it seems like there's some more policies that she includes for e-cigarettes. So, again, you might want to take a look at her paper.
+
+126
+00:22:17.140 --> 00:22:20.029
+David Levy: That's the only comments I have.
+
+127
+00:22:20.030 --> 00:22:23.539
+Erin Eidschun: Okay, well, I… I will do. Thank you so much for the… for the reference.
+
+128
+00:22:23.740 --> 00:22:33.740
+Ce Shang: Thank you. There is one audience question, from Samuel, Asair. Do you consider dual use of e-cigarettes and cigarettes in your modeling?
+
+129
+00:22:34.060 --> 00:22:40.320
+Erin Eidschun: Right, so, this is what I was, trying to get at with the, 1% statistic that I…
+
+130
+00:22:40.320 --> 00:23:04.020
+Erin Eidschun: Oopsies, quoted. So when I… when I look at aggregation of my data to the monthly level, I was, I was concerned first about dual usage, but I don't find in this data that people are really dual using based on their, expenditures split between cigarettes and e-cigarettes. Only, less than 1% of households end up splitting their expenditures between, like, a 15-85 split.
+
+131
+00:23:04.060 --> 00:23:06.850
+Erin Eidschun: Or 85-15 split, so I'm not very…
+
+132
+00:23:06.940 --> 00:23:11.250
+Erin Eidschun: worried about it, and I do not consider it. You're only able to buy one.
+
+133
+00:23:11.340 --> 00:23:20.310
+Erin Eidschun: product per period. If you mean dual usage by, you know, I buy cigarettes this period and e-cigarettes next period, then that is completely allowed.
+
+134
+00:23:21.240 --> 00:23:32.440
+Ce Shang: But this is sort of in conflict with some of the prevalence data, you know, nationally representative surveys showing that reuse is quite prevalent, especially among adult users.
+
+135
+00:23:32.610 --> 00:23:36.310
+Ce Shang: So, have you checked to know whether it is because of the…
+
+136
+00:23:36.730 --> 00:23:39.799
+Ce Shang: Difference in the nature of data, or…
+
+137
+00:23:39.800 --> 00:23:56.040
+Erin Eidschun: It could be due to the difference in the nature of data. Unfortunately, this, to my knowledge, is the only panel data set where I can observe the quantity of nicotine consumed as well, and so that might just be a caveat of using the Nielsen data, unfortunately.
+
+138
+00:23:57.280 --> 00:24:03.180
+Ce Shang: Thank you. I don't see any other questions coming up, so please continue. Thank you, Erin.
+
+139
+00:24:03.180 --> 00:24:03.730
+Erin Eidschun: Okay.
+
+140
+00:24:09.140 --> 00:24:21.700
+Erin Eidschun: Okay, so I'll move on to some summary statistics. So the types of households here are pretty heavy smokers. So if you look at the percentage columns, the rightmost three columns.
+
+141
+00:24:21.720 --> 00:24:29.850
+Erin Eidschun: For all three household types that I'm showing here, which are split by households that only ever smoke cigarettes their entire time in the data.
+
+142
+00:24:29.850 --> 00:24:42.539
+Erin Eidschun: only ever smoke e-cigarettes their entire time in the data, or have some sort of transition between one or the other, you'll see that the percentage of time they're smoking is really, really heavy. So, for cigarette only, that's almost 50%.
+
+143
+00:24:42.640 --> 00:24:50.100
+Erin Eidschun: For e-cigarette only, that's nearly 40%, and for those that smoke cigarettes and e-cigarettes, that's about 44%.
+
+144
+00:24:51.000 --> 00:25:10.959
+Erin Eidschun: Another thing I will draw you to in this table is that there is a huge representation of cigarette households, cigarette-only households in this data, excuse me, relative to e-cigarette-only households in the data, and finally, with these, both or dual, households in the data. So that is, some other drawback of the Nielsen that I am worried about not
+
+145
+00:25:11.130 --> 00:25:18.059
+Erin Eidschun: capturing e-cigarette use, to the extent that is representative of the U.S. popu- of the U.S. adult population.
+
+146
+00:25:20.930 --> 00:25:39.140
+Erin Eidschun: You can also see this in the transition matrix as well. So if you look at the top two rows in the rightmost column, you'll see that the transition to e-cigarettes is very low. And so what I'm hoping to actually say today is, you know, this is a drawback of the data, the underrepresentation of e-cigarette purchases, but
+
+147
+00:25:39.140 --> 00:25:51.469
+Erin Eidschun: despite that low level of e-cigarette use in the data, I'm going to show you that I can still see, some interesting results in my e-cigarette ban, counterfactual, and I'm still able to model the purchases that I am seeing in the data.
+
+148
+00:25:55.260 --> 00:26:01.240
+Erin Eidschun: So I'll get to my, estimates now from that, large nested logit equation that I presented earlier.
+
+149
+00:26:01.390 --> 00:26:12.409
+Erin Eidschun: So the price estimate here is that where I've addressed the endogeneity issue, and so I do find a negative price coefficient, and then, as I suspect, I find negative, switching cost coefficients.
+
+150
+00:26:12.890 --> 00:26:19.970
+Erin Eidschun: I've converted the estimates, by the way, into the change in odds percentages for easier interpretability.
+
+151
+00:26:20.170 --> 00:26:35.069
+Erin Eidschun: As for my nested logit parameter, .624, it's between 0 and 1, and so this lends some support that the nested logit model was an appropriate choice. And then for the depreciation rates on cigarettes and e-cigarettes, these are about the same, at .23 and .25, which are pretty low.
+
+152
+00:26:35.440 --> 00:26:49.380
+Erin Eidschun: And I suspected that these two would be, kind of similar to each other, because when nicotine… when you're addicted to nicotine, it doesn't really matter, where the source is from. Nicotine is nicotine, and so I was quite happy that these turned out to be about the same.
+
+153
+00:26:50.110 --> 00:26:56.529
+Erin Eidschun: I have about 2.5 million observations, so that's the households times the number of periods that they're in the data.
+
+154
+00:26:58.030 --> 00:27:09.220
+Erin Eidschun: And moving to the, estimates that are specific to cigarettes, or the estimates that are specific to e-cigarettes, I just highlighted in blue the ones I would like to, pay special attention to.
+
+155
+00:27:09.480 --> 00:27:17.779
+Erin Eidschun: So for this household nicotine stock, which I've scaled per 300 milligrams of nicotine, I find a large positive coefficient.
+
+156
+00:27:18.030 --> 00:27:33.269
+Erin Eidschun: And so this 30.5% that you can see in the change in odds percentage column for a cigarette means that as you… as a household consumes 300 milligrams more of nicotine, their probability of choosing cigarettes over nothing increases by 30.5%.
+
+157
+00:27:33.790 --> 00:27:41.560
+Erin Eidschun: For e-cigarettes, this is also quite similar, with that percentage being 29.9% increase in choosing e-cigarettes over not smoking.
+
+158
+00:27:42.920 --> 00:28:02.150
+Erin Eidschun: As I would expect, previous cigarette smoking is highly predictive of current cigarette smoking, so this variable, smoked cigarette in the last two months, that's the adoption cost in cigarettes, is very large. And likewise for e-cigarettes, the smoking e-cigarettes in the last 2 months is highly predictive of smoking e-cigarettes this period.
+
+159
+00:28:03.080 --> 00:28:12.619
+Erin Eidschun: Now, what I call the cross-adoption costs, so for example, smoking e-cigarettes in the last 2 months, that effect on cigarette choice, surprisingly, I don't find any, effect here.
+
+160
+00:28:12.740 --> 00:28:15.949
+Erin Eidschun: And so I'm not really finding that gateway.
+
+161
+00:28:15.950 --> 00:28:35.489
+Erin Eidschun: And for the opposite, smoking cigarettes in the last 2 months, I don't find a significant effect on the proclivity to choose e-cigarettes today, so I'm also not finding a cessation effect here. But there can be some sort of story, perhaps, that actually increasing your nicotine stock through e-cigarettes may lead to cigarette use, or vice versa.
+
+162
+00:28:35.490 --> 00:28:39.319
+Erin Eidschun: That is distinguished from these kind of adoption costs that I have laid out.
+
+163
+00:28:43.510 --> 00:28:47.759
+Erin Eidschun: So I'll move on to my simulations now. So there are two types of simulations I do.
+
+164
+00:28:47.760 --> 00:29:06.250
+Erin Eidschun: The first one is a model fit, and what I do is I take the data, I let all covariates evolve as they do in the data, except for this smoking history, because that gets to, evolve endogenously. So switching costs, adoption costs, and nicotine stock, they evolve based on the simulated choices for each household in my data.
+
+165
+00:29:07.320 --> 00:29:14.480
+Erin Eidschun: For the baseline and the counterfactuals, what I do instead is I fix all covariates at values from the household t equals 1 value.
+
+166
+00:29:14.730 --> 00:29:34.230
+Erin Eidschun: Except for smoking history variables. Actually, I assume that there is zero smoking history, and so I zero out switching costs, nicotine stock and adoption costs. And I'm interested to see, how people end up smoking or not smoking over time, just purely based on these variables and not, for example, price changes or law changes.
+
+167
+00:29:35.510 --> 00:29:47.149
+Erin Eidschun: Once that's done, for both the model fit and the baseline encounter factuals, I calculate choice probabilities, I simulate the next period draw, and I repeat this over and over again, and I average out estimates across simulations.
+
+168
+00:29:50.330 --> 00:30:03.789
+Erin Eidschun: So this is how my model fit looks. So this is for a particular cohort in the Nielsen data, and it's not meant to actually represent how, smoking actually evolved, from 2018, plus 36 periods from 2018.
+
+169
+00:30:04.130 --> 00:30:18.120
+Erin Eidschun: But as you can see, the final values which are plotted here, showing the actual versus simulated shares of cigarettes, e-cigarettes, and not smoking amongst the households in this, cohort are, pretty spot on, so I'm quite happy with that.
+
+170
+00:30:21.000 --> 00:30:28.859
+Erin Eidschun: For the counterfactuals, I've done a number of counterfactuals, where I've actually zeroed out adoption costs, separately zeroed out switching costs.
+
+171
+00:30:28.860 --> 00:30:44.150
+Erin Eidschun: And finally, assigned nicotine stock to zero, which is equivalent to having no nicotine on the market at all in the cigarettes and e-cigarettes. I'm just going to show you the figure for the no adoption cost counterfactual for the sake of time. So you can see here, as I said, that the
+
+172
+00:30:44.330 --> 00:30:51.039
+Erin Eidschun: No one starts with any smoking, and so those cigarette and e-cigarette shares in red and purple start at zero, and then no smoking share starts at 1.
+
+173
+00:30:51.350 --> 00:31:04.020
+Erin Eidschun: And you can see that over time, they converge to this, like, long-run, steady state, where the, in the baseline, you see 64.2% of non-smokers, and for cigarettes, you see 34.8%.
+
+174
+00:31:04.250 --> 00:31:07.670
+Erin Eidschun: And finally, for e-cigarettes, it's, the remainder.
+
+175
+00:31:08.180 --> 00:31:17.179
+Erin Eidschun: For the counterfactual, you can see that the trends change quite a bit when you zero out adoption costs. You see that the no-smoking share rises significantly.
+
+176
+00:31:18.200 --> 00:31:33.409
+Erin Eidschun: I will point out that this took about 10 years to converge, that's 120 periods, and I investigated this, and this is actually due to the low depreciation rate of the cigarette, which I found very interesting. That basically addiction is not
+
+177
+00:31:33.470 --> 00:31:41.339
+Erin Eidschun: The nicotine stock addiction is not dwindling fast enough, and so it takes a very, very long time for convergence to be achieved.
+
+178
+00:31:44.900 --> 00:32:03.519
+Erin Eidschun: So, for the other two counterfactuals that I mentioned, I've put all three of these into a table for you to see how the baseline shares change with those counterfactuals. So the baseline shares are 34.8%, 1.1%, and 64.2% for the cigarette, e-cigarette, and non-smoking share.
+
+179
+00:32:03.730 --> 00:32:16.900
+Erin Eidschun: And the change relative to that is what is shown in the, three rows at the bottom. So the adoption cost I already showed, for the nicotine being zeroed out, there's a lesser effect on the, non-smoking share than the adoption cost being zero.
+
+180
+00:32:17.140 --> 00:32:22.250
+Erin Eidschun: And finally, the switching cost being zero has the least effect on non-spoking share.
+
+181
+00:32:26.110 --> 00:32:31.170
+Erin Eidschun: The final counterfactual that I run, which I think is the most interesting, is an e-cigarette ban counterfactual.
+
+182
+00:32:31.500 --> 00:32:42.209
+Erin Eidschun: And so, what I find with the e-cigarette ban counterfactual is that 65.3% of e-cigarette choices that were made in the baseline become non-smoking choices in the counterfactual.
+
+183
+00:32:42.470 --> 00:32:47.769
+Erin Eidschun: The remaining 34.7% of e-cigarette choices in the baseline become cigarettes in the counterfactual.
+
+184
+00:32:48.840 --> 00:32:55.990
+Erin Eidschun: I wanted to see how this could be decomposed, because obviously, just with the nested logit structure, there's going to be some positive,
+
+185
+00:32:56.360 --> 00:32:58.850
+Erin Eidschun: Change from e-cigarettes to cigarettes.
+
+186
+00:33:00.240 --> 00:33:07.119
+Erin Eidschun: And so, I present a few findings here. The first is that banning e-cigarettes leads to a modest increase in cigarette smoking.
+
+187
+00:33:07.570 --> 00:33:26.359
+Erin Eidschun: So, in black, I have my baseline density for the number of periods smoking cigarettes. You can see the median is 28.2 and the mean is 36.6. When e-cigarettes are banned, this red hashed density, the amount of time smoking cigarettes increases a little bit.
+
+188
+00:33:26.610 --> 00:33:31.120
+Erin Eidschun: But I was interested in how this actually might be decomposed even further.
+
+189
+00:33:31.690 --> 00:33:42.710
+Erin Eidschun: So it turns out that this actually disproportionately harms smokers that had very little smoking duration, and those that had very high smoking durations.
+
+190
+00:33:43.130 --> 00:33:52.669
+Erin Eidschun: So if you look at this, figure here, on the x-axis, I have the baseline smoking of cigarettes duration in months for these households, and on the y-axis, I have the counterfactual.
+
+191
+00:33:53.090 --> 00:34:13.580
+Erin Eidschun: So, if the point is above the 45 degree line, that means that in the counterfactual, this household smoked for longer, cigarettes for longer. And you can see that in the blue and the red points, which are the bottom 10% and top 10% deciles by the baseline smoking amount, most of these dots are above the dotted line.
+
+192
+00:34:13.670 --> 00:34:21.959
+Erin Eidschun: But in this green portion in the middle, there's a lot more heterogeneity here. So some households actually smoke cigarettes less in the event of an e-cigarette ban.
+
+193
+00:34:25.580 --> 00:34:36.909
+Erin Eidschun: My next finding is that when e-cigarettes are banned, there are shorter abstinence durations. Now, abstinence here is defined as the length of a streak of no smoking within the simulation.
+
+194
+00:34:37.460 --> 00:34:50.290
+Erin Eidschun: So, the graph on the left shows abstinent periods from abstaining from both cigarettes and e-cigarettes. So you can see from moving from the baseline to the counterfactual, those mean and medians do increase.
+
+195
+00:34:52.080 --> 00:34:59.630
+Erin Eidschun: sorry, they do decrease, excuse me. And then on the right-hand side, just abstaining from cigarettes, you do see, a lesser change here.
+
+196
+00:35:00.200 --> 00:35:02.750
+Erin Eidschun: But that there are shorter abstinence durations.
+
+197
+00:35:06.740 --> 00:35:26.719
+Erin Eidschun: My next finding is that banning e-cigarettes also leads to smoking cigarettes earlier, which my understanding from the medical literature is smoking e-cigarettes earlier is worse for your health than smoking cigarettes later. And so you can see that there's a small change here of about 1 month, or 1.5 months, in going from the baseline to the counterfactual.
+
+198
+00:35:32.160 --> 00:35:43.160
+Erin Eidschun: And so, this brings me to the summary of my findings. So, first, I don't find evidence of switching being driven by adoption costs. However, nicotine stock and switching costs may be capturing this instead.
+
+199
+00:35:43.810 --> 00:35:53.190
+Erin Eidschun: Adoption costs play the largest role in the choice to smoke, followed by nicotine levels, so nicotine being zeroed out, and finally switching costs in those counterfactuals.
+
+200
+00:35:53.760 --> 00:36:05.900
+Erin Eidschun: And then finally, with my e-cigarette ban, I find that this leads to an overall modest increase in cigarette smoking. However, there's some heterogeneity here, and there's some larger jumps in the bottom decal and the top decile.
+
+201
+00:36:06.670 --> 00:36:15.760
+Erin Eidschun: Secondly, I find that the ban leads to shorter abstinence durations from cigarettes and e-cigarettes, or abstinence defined by just abstinence from cigarettes.
+
+202
+00:36:16.060 --> 00:36:19.940
+Erin Eidschun: And finally, the ban leads to earlier cigarette initiation by about 1 month.
+
+203
+00:36:20.990 --> 00:36:27.149
+Erin Eidschun: I think what this means is it's important to think about targeted policy here, because it's not quite clear,
+
+204
+00:36:27.370 --> 00:36:42.050
+Erin Eidschun: whether or not banning e-cigarettes actually might be very, very good for the health of all these adults in the market, if you are willing to assume that e-cigarettes are less harmful for your health than cigarettes, and so I hope that policymakers do consider this moving forward.
+
+205
+00:36:44.990 --> 00:36:59.040
+Erin Eidschun: As for next steps for me, I'm hoping to incorporate some sort of reduced form, into this, so perhaps some event study on excise taxes, or, something else, maybe there's some sort of nicotine, policy that can be exploited in the U.S.
+
+206
+00:36:59.380 --> 00:37:15.640
+Erin Eidschun: I'd also like to perform some sensitivity checks. So, one of them is that this Nielsen purchase data is at the household level. I do observe how many people are in the household, so I have thought about doing a sensitivity check in which I subset for single-person households only.
+
+207
+00:37:16.030 --> 00:37:22.700
+Erin Eidschun: And then also one where I might change the length of months that defines the adoption cost for cigarettes and e-cigarettes.
+
+208
+00:37:23.520 --> 00:37:35.089
+Erin Eidschun: Finally, I thought about, perhaps trying to capture the heterogeneity in the e-cigarette landscape, which has seen a lot of entry and exit over the time period, by incorporating a variable on the number of brands or products available.
+
+209
+00:37:38.030 --> 00:37:39.850
+Erin Eidschun: Thank you, that's my presentation.
+
+210
+00:37:40.850 --> 00:37:53.640
+Ce Shang: Thank you, Erin. Audience, please submit your questions through Q&A. We look forward to hearing from you. Let's go to our discussion first. Dr. Levy, do you have any questions or comments? Thank you.
+
+211
+00:37:54.680 --> 00:38:09.070
+David Levy: No questions. Great presentation. I do have a comment, though. I think we'd all agree that e-cigarettes are… are… have been… continue to be a major shock.
+
+212
+00:38:09.100 --> 00:38:18.699
+David Levy: to the whole nicotine use. And, as you alluded to, I think, in the last slide,
+
+213
+00:38:18.780 --> 00:38:26.460
+David Levy: The nature of e-cigarettes changed over time, you know, evolving to tanks and then to jewel-like disposables.
+
+214
+00:38:26.490 --> 00:38:43.300
+David Levy: What that suggests to me is potentially important, is that the coefficients may not be stable over time. So I think it's important, particularly to check the stability of price, but, you know.
+
+215
+00:38:43.380 --> 00:38:48.600
+David Levy: Maybe some of the other variables, also.
+
+216
+00:38:50.790 --> 00:38:51.679
+David Levy: That's it.
+
+217
+00:38:51.680 --> 00:38:56.150
+Erin Eidschun: Right, that makes a lot of sense. I could maybe interact my price coefficient.
+
+218
+00:38:56.270 --> 00:39:00.609
+Erin Eidschun: As well, with some sort of time coefficient. But, yeah, that'd be interesting, thank you.
+
+219
+00:39:01.200 --> 00:39:06.619
+Ce Shang: Thank you. I don't see any other audience questions, but I have a follow-up question.
+
+220
+00:39:06.620 --> 00:39:28.049
+Ce Shang: So, as, David just described, the, e-cigarettes have evolved significantly, especially around, like, 2016 and 2017, when they, like, two types of e-cigarettes have, have started to use, different nicotine formation, right? So, nicotine salt, that's the term.
+
+221
+00:39:28.050 --> 00:39:35.890
+Ce Shang: So I think, you know, just, like, a simple kind of sensitivity analysis looking at just, like, 2016 or 2017 as the cutoff.
+
+222
+00:39:36.200 --> 00:39:36.570
+Erin Eidschun: you guys.
+
+223
+00:39:36.570 --> 00:39:42.700
+Ce Shang: changes. That would be very interesting, Yeah.
+
+224
+00:39:45.020 --> 00:39:54.709
+Erin Eidschun: Yep, I agree. I think, I've thought a lot about that time period in particular, in my data, because there was such a huge change to the industry. So, thank you.
+
+225
+00:39:55.080 --> 00:39:55.720
+Ce Shang: Yeah.
+
+226
+00:39:56.100 --> 00:40:08.140
+Ce Shang: I'm also curious about the important parameters you have in your structural model. I'm just wondering, like, can you describe a little further about
+
+227
+00:40:08.240 --> 00:40:18.820
+Ce Shang: what policies those parameters might be able to inform. For example, the, the stocks and the switching costs, for example, like.
+
+228
+00:40:19.150 --> 00:40:21.789
+Ce Shang: Can you map them to, like, certain policies?
+
+229
+00:40:21.790 --> 00:40:22.590
+Erin Eidschun: Sure.
+
+230
+00:40:22.590 --> 00:40:24.139
+Ce Shang: Curiosity, thank you.
+
+231
+00:40:24.600 --> 00:40:38.130
+Erin Eidschun: Sure, so I would say my hypothesis right now that I need to dig into more is that the switching that we're seeing from e-cigarettes to cigarettes, if not driven by the adoption, the cross adoption costs, might be driven by that nicotine stock.
+
+232
+00:40:38.220 --> 00:40:57.790
+Erin Eidschun: It's not shown here, but the marginal effect of nicotine stock on cigarettes is massive compared to that for e-cigarettes. And so my theory is that as people consume nicotine through e-cigarettes, that might make them more inclined to consume cigarettes, because they have this addiction to nicotine now that they, for some reason, want to fulfill with cigarettes.
+
+233
+00:40:58.100 --> 00:41:03.469
+Erin Eidschun: And so, maybe the policy there would be to start regulating
+
+234
+00:41:03.590 --> 00:41:19.639
+Erin Eidschun: the amount of nicotine and e-cigarettes, in the US instead, so that that nicotine stock cannot be built up as much. I mean, I don't know that you can exactly regulate how often someone can purchase an e-cigarette. It sounds like that would be more of, like,
+
+235
+00:41:19.780 --> 00:41:28.259
+Erin Eidschun: prescription-type model, which I don't think would really fly, so maybe the most realistic policy would be a nicotine limit on those e-cigarettes.
+
+236
+00:41:28.770 --> 00:41:49.880
+Ce Shang: Yeah. Well, we have one obvious question from David Keeley. So, at this point in 2026, how do you go about factoring nicotine pouches in your research model, or does it not even fit as a confounder? So, I guess this is getting into products that are not included in your two-product dynamic model, so…
+
+237
+00:41:50.060 --> 00:41:51.040
+Erin Eidschun: Right.
+
+238
+00:41:51.200 --> 00:41:52.460
+Ce Shang: Comments?
+
+239
+00:41:52.460 --> 00:42:04.529
+Erin Eidschun: Yeah, so I did look into pouches and lozenges at some point, and I found that they were even less represented by… represented than e-cigarettes in the data, and so I've chosen to ignore them, but…
+
+240
+00:42:04.530 --> 00:42:19.790
+Erin Eidschun: if I were to carry this study forward to that, like, 2024 beyond, that is something I would re-evaluate, because I do understand that's a large segment of the market at this point. I don't think I would feel comfortable just allocating that to the non-smoking.
+
+241
+00:42:21.510 --> 00:42:30.260
+Erin Eidschun: Unless I just purely just wanted to make statements about smoking, products, vaporized products, for example, yeah.
+
+242
+00:42:31.050 --> 00:42:31.650
+Ce Shang: Yep.
+
+243
+00:42:31.840 --> 00:42:51.700
+Ce Shang: Thank you. There is one question from Pasha, Mogadhadam. Great presentation. Could you please say a bit about how e-cigarettes are captured in Nielsen data in your analysis? Which products, modules, UPC filters you used, and how you dealt with changes over time?
+
+244
+00:42:52.270 --> 00:43:08.200
+Erin Eidschun: Yes, so, Nielsen fortunately categorizes e-cigarettes themselves with a product module code, 7467, if I remember correctly, but I did do manual checks of their assignment, because I found that they were incorrectly, assigning
+
+245
+00:43:08.200 --> 00:43:23.780
+Erin Eidschun: cannabis products as e-cigarettes on occasion. And I also found some e-cigarette brands that were not being captured, either they were… they were labeled as Los Angeles or… or something else. But I did a lot of manual, work.
+
+246
+00:43:23.800 --> 00:43:29.310
+Erin Eidschun: on that as well, to make sure that I was capturing an accurate landscape of the e-cigarettes in the industry.
+
+247
+00:43:29.770 --> 00:43:31.720
+Ce Shang: Yeah, thank you.
+
+248
+00:43:32.180 --> 00:43:43.150
+Ce Shang: There is a question from Samuel again. I know this might be out of scope, but e-cigarettes are mostly used by youth who do not… who don't use home scam machines.
+
+249
+00:43:43.180 --> 00:43:54.500
+Ce Shang: Probably they hide to purchase them, or are not part of the household purchases. How do we generalize these results to heavy e-cigarette users, especially youth and young adults?
+
+250
+00:43:55.010 --> 00:44:19.639
+Erin Eidschun: Right, so the Nielsen Consumer Panel data is mostly geared toward the adult market, so I'm not trying to make any statements about the youth market. What I would not be able to capture is if, for example, a parent is buying e-cigarettes for their child, which I hope is not very frequent, that they would do that and then scan that in as well, and I would doubt that, you know, youth members of a household were
+
+251
+00:44:20.200 --> 00:44:29.270
+Erin Eidschun: wanting to kind of add to their parents' participation in this survey and scanning themselves. So I'm just simply making, statements about the adult market only.
+
+252
+00:44:30.570 --> 00:44:36.780
+Ce Shang: Thank you. Question from Novar Schmid. Have you considered that addiction or
+
+253
+00:44:36.900 --> 00:44:43.640
+Ce Shang: Dependence is multi… multifactorial, and not exclusively based on nicotine.
+
+254
+00:44:46.590 --> 00:44:56.880
+Erin Eidschun: I guess I would… was trying to capture that with the switching costs and the adoption costs. Like, I'm under the assumption that the consumer inertia is…
+
+255
+00:44:57.170 --> 00:44:59.519
+Erin Eidschun: Captured in the model fully by
+
+256
+00:44:59.960 --> 00:45:03.690
+Erin Eidschun: The three smoking history variables, but…
+
+257
+00:45:03.840 --> 00:45:10.690
+Erin Eidschun: You know, when we think about addiction, the primary driver is nicotine, so that was where I was going with that.
+
+258
+00:45:11.430 --> 00:45:12.320
+Ce Shang: Thank you.
+
+259
+00:45:14.200 --> 00:45:17.850
+Ce Shang: So, I don't see any other questions.
+
+260
+00:45:18.390 --> 00:45:24.119
+Ce Shang: Oh, there's questions from Mike, pi score, let's see…
+
+261
+00:45:24.540 --> 00:45:32.980
+Ce Shang: Cigarette retailer license requirement has a large positive effect on cigarette smoking. How should we think about this?
+
+262
+00:45:34.000 --> 00:45:50.389
+Erin Eidschun: Yes, so that's something else I've been trying to unpack. I am, wondering if this might be a simultaneity issue, actually, where states institute, these licensure laws when they're trying to… when they're… when demand is skyrocketing.
+
+263
+00:45:50.460 --> 00:46:02.380
+Erin Eidschun: rather than seeing this effect being negative in the vein of, oh, the law is put in place, and then people reduce smoking because there are less cigarettes on the market.
+
+264
+00:46:02.480 --> 00:46:11.339
+Erin Eidschun: perhaps this could be helped if I add some sort of measure of, like, retail, density.
+
+265
+00:46:11.490 --> 00:46:17.380
+Erin Eidschun: As well, so I'm not ready to make a conclusion yet about that, because I'm trying to unpack that coefficient.
+
+266
+00:46:18.090 --> 00:46:26.350
+Ce Shang: Thank you. I see David also wants to ask something, so David, do you want your camera on and make your questions or comments?
+
+267
+00:46:27.960 --> 00:46:44.189
+David Levy: Yeah, related to, I think, Mike's comment, you're using retailer data, and that's, I think that's about a third of the market, mass market retail. So, I think it's important
+
+268
+00:46:44.550 --> 00:46:58.199
+David Levy: You know, it's hard to get data for, you know, vape shops and for internet, but I think it's important to think about how those different sectors relate to each other.
+
+269
+00:47:01.250 --> 00:47:04.520
+Erin Eidschun: Yeah, I, I think I…
+
+270
+00:47:04.810 --> 00:47:15.790
+Erin Eidschun: really tried unpacking this early, in my research, and I looked into maybe, like, web scraping and things like this, but I don't know that…
+
+271
+00:47:17.050 --> 00:47:27.499
+Erin Eidschun: I don't know how much progress… I don't think I had made progress on that, but I do… I do understand that the retail, landscape of Nielsen is not fully representative, of the market.
+
+272
+00:47:30.330 --> 00:47:35.809
+Ce Shang: Yeah, I think one comment following on that is, a lot of the products
+
+273
+00:47:35.980 --> 00:47:40.169
+Ce Shang: At least at this point, may have been illegal.
+
+274
+00:47:40.170 --> 00:47:56.139
+Ce Shang: Because the, you know, they don't have the FDA authorization, and, they may be shipped from overseas, and it's just very hard to capture those type of products that, you know, you wouldn't be able to scale it and know what type of brands, right?
+
+275
+00:47:56.140 --> 00:48:10.760
+Erin Eidschun: So, surprisingly, so that yes, there are a lot of illegal products on the market post, 2018, but for some reason, Nielsen still reports, like, the stores are actually still scanning them in, so that has not seemed to be an issue, thankfully, but…
+
+276
+00:48:11.650 --> 00:48:23.269
+Erin Eidschun: My understanding with the Nielsen retail, data is that it's not that the store can actually decide… I talked to a Nielsen representative about this. The store cannot decide, not to record,
+
+277
+00:48:23.630 --> 00:48:38.870
+Erin Eidschun: the price or quantity sold at their store, unless they literally just want to do a cash transaction. So basically, if any barcode passes the scanner, that will be put into the Nielsen retail data. And so that's why we are seeing some… we're still seeing illegal products in the data, luckily.
+
+278
+00:48:39.460 --> 00:48:42.039
+Erin Eidschun: Luckily for the research, I mean.
+
+279
+00:48:42.260 --> 00:48:56.620
+Ce Shang: Thank you for that info, I didn't know that's the case. Another question from Mike. Have you looked at e-cigarette sales over time in home scan? And does that pattern you observe match patterns in adult use?
+
+280
+00:48:58.230 --> 00:49:03.539
+Erin Eidschun: Matching the… I'm assuming you mean matching the,
+
+281
+00:49:03.750 --> 00:49:10.509
+Erin Eidschun: like, wider population, more representative surveys of e-cigarette purchases.
+
+282
+00:49:12.120 --> 00:49:31.530
+Erin Eidschun: For e-cigarettes? I'm using the Kiltz version, which is a little bit less rich than the paid-for Nielsen version, so I suspect, no, that it's not a very good representation of, like, sales dollars over time. What I'm just kind of hoping is that while the e-cigarette transactions, like, frequency
+
+283
+00:49:31.530 --> 00:49:42.149
+Erin Eidschun: recorded by the households might be, suppressed overall, that it's still sufficient for me to capture, these, you know, counterfactuals that I have implemented and things like that.
+
+284
+00:49:44.220 --> 00:49:49.280
+Ce Shang: Thank you, Aaron. I don't see any additional questions.
+
+285
+00:49:49.550 --> 00:49:56.270
+Ce Shang: Thank you for the presentation, very good information, thanks. So I'll turn it to our MC to take us out.
+
+286
+00:49:56.740 --> 00:49:58.170
+Ce Shang: Sahan, thank you.
+
+287
+00:50:02.840 --> 00:50:19.260
+Zihan Ren: Yeah, so we're out of time. If you are interested in presenting for us next season, please consider submitting a brief presentation proposal on our website, tobaccoPolicy.org, by April 13th. Thank you to our presenter, moderator, and discussant.
+
+288
+00:50:19.260 --> 00:50:24.399
+Zihan Ren: Finally, thank you to the audience of 150 people for your participation.
+
+289
+00:50:24.470 --> 00:50:26.260
+Zihan Ren: Have a top-notch weekend.
+
