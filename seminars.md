@@ -250,7 +250,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links (Video and some slides embargoed until a later date): <a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.Draft }}"> Paper</a></td>
 </tr>
-{% elsif (speaker.Presenter == 'Norah Almulhem') %}
+{% elsif (speaker.Presenter == 'Norah Almulhem') or (speaker.Presenter == 'Melanie Dove') %}
 <tr>
   <td colspan="2" height="40" valign="top" class="registration">Links (Video and slides embargoed until a later date): <a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a></td>
 </tr>
