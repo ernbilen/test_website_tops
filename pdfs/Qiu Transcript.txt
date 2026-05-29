@@ -1,0 +1,1098 @@
+WEBVTT
+
+1
+00:00:02.830 --> 00:00:17.230
+Akshika Sharma: Hello, everyone. Welcome to the TOPS Tobacco Online Policy Seminar, also known as TOPS. Thank you for joining us today. I'm Akshika Sharma, a postdoctoral associate at Yale School of Medicine and a Yale T-Course Fellow.
+
+2
+00:00:17.580 --> 00:00:36.280
+Akshika Sharma: TOPS is organized by Dr. Mike Pesco at University of Missouri, Dr. C. Shang at The Ohio State University, Dr. Michael Darden at John Hopkins University, Dr. Jamie Hartman-Boyce at University of Massachusetts Amherst, and Justin White… Dr. Justin White at Boston University.
+
+3
+00:00:36.720 --> 00:00:41.450
+Akshika Sharma: The seminar will be 1 hour, with questions from the moderator and discussant.
+
+4
+00:00:41.640 --> 00:00:50.539
+Akshika Sharma: The audience may post questions and comments in the Q&A panel, and the moderator will draw from these questions and comments in the conversation with the presenter.
+
+5
+00:00:50.830 --> 00:01:00.090
+Akshika Sharma: Please review the guidelines on tobaccopolicy.org for acceptable questions, and please keep the questions professional and related to the research being discussed.
+
+6
+00:01:00.220 --> 00:01:10.890
+Akshika Sharma: Questions that meet the seminar series guidelines will be shared with the presenter afterwards, even if they are not read aloud. Your questions are very much appreciated, so please keep them coming.
+
+7
+00:01:11.440 --> 00:01:20.250
+Akshika Sharma: This presentation is being video recorded and will be made available along with the presentation slides on the TOPS website, that's tobaccoPolicy.org.
+
+8
+00:01:20.720 --> 00:01:28.200
+Akshika Sharma: I will now turn the presentation over to today's moderator, Dr. C. Shank from the Ohio State University, to introduce our speaker.
+
+9
+00:01:28.670 --> 00:01:44.139
+Ce Shang: Thank you, Akjika. Today, we continue our summer 2026 season with a single paper presentation by Dr. Chi Huaqiu entitled Beyond Tobacco Prevention, The Effect of Tobacco 21 Laws on Young Adults' Body Weight.
+
+10
+00:01:44.140 --> 00:01:51.210
+Ce Shang: This presentation was selected via a competitive review process by submission through the TOPS website.
+
+11
+00:01:51.240 --> 00:02:10.460
+Ce Shang: Dr. Chihuacu is an Associate Professor of economics in the James M. Howe College of Business at Augusta University. Her research focuses on health economics and applied econometrics, with an emphasis on evaluating the impact of public policies on health and behavioral outcomes.
+
+12
+00:02:10.460 --> 00:02:27.819
+Ce Shang: Dr. Cho earned her PhD in economics from Georgia State University. Before joining Augusta University, Dr. Cho was a Stephen M. Tuche Prevention Effectiveness Fellow at the Centers for Disease Control and Prevention. Dr. Chu, thank you for presenting for us today.
+
+13
+00:02:31.770 --> 00:02:35.920
+Qihua Qiu: Hi. Should I share my screen right now?
+
+14
+00:02:35.920 --> 00:02:37.149
+Ce Shang: Yes, please.
+
+15
+00:02:37.340 --> 00:02:38.100
+Qihua Qiu: Okay.
+
+16
+00:02:38.400 --> 00:02:40.760
+Qihua Qiu: And he does green.
+
+17
+00:02:42.850 --> 00:02:43.890
+Qihua Qiu: Share.
+
+18
+00:02:44.270 --> 00:02:45.130
+Qihua Qiu: Okay.
+
+19
+00:02:45.460 --> 00:02:46.530
+Qihua Qiu: I'm sorry.
+
+20
+00:02:46.720 --> 00:02:47.850
+Qihua Qiu: Oh my god.
+
+21
+00:02:48.940 --> 00:02:50.510
+Qihua Qiu: Okay,
+
+22
+00:02:50.510 --> 00:03:07.040
+Qihua Qiu: Thank you for having me. I'm Chiwa Cho from Augusta University. Today, I'm going to present our work, Beyond the Tobacco Prevention, The Effects of Tobacco 21 Loss on Young Adults' Body Weight, co-authored with Dr. Jason from Northern Arizona University.
+
+23
+00:03:07.040 --> 00:03:13.949
+Qihua Qiu: So before I start, there is a small piece of good news, that this paper just got accepted at Health Economics.
+
+24
+00:03:13.950 --> 00:03:20.030
+Qihua Qiu: two days ago. So, this will be a very enjoyable presentation for me. So…
+
+25
+00:03:21.580 --> 00:03:38.469
+Qihua Qiu: Okay, this is the required disclosure page. We didn't receive any funding for this presented work, and the only tobacco-related funding that I received in the past 10 years is an internal funding from, I guess, University, Georgia State University, for a different tobacco-related research project.
+
+26
+00:03:39.710 --> 00:04:02.469
+Qihua Qiu: So I want to begin with talking about the two major public health problems in the U.S. You know, obesity is a very severe problem in the U.S. The adult obesity rate rose from 13% in the 1960s to over 42% in the late 2010s, and this rate, for the adolescent obesity rate.
+
+27
+00:04:02.470 --> 00:04:08.389
+Qihua Qiu: Increased from less than 5% To over 21% during the same time period.
+
+28
+00:04:09.030 --> 00:04:20.550
+Qihua Qiu: And obesity is very expensive. The annual economic cost is estimated at over $400 billion, and lead to over 300,000 premature deaths every year.
+
+29
+00:04:20.550 --> 00:04:32.649
+Qihua Qiu: At the same time, tobacco is the top one leading cause of preventive deaths, although the adult smoking rate has fallen from 1965 from 42%,
+
+30
+00:04:32.650 --> 00:04:37.969
+Qihua Qiu: to below 12% in the recent years, it still is leading to
+
+31
+00:04:37.970 --> 00:04:47.169
+Qihua Qiu: Over 480,000 preventive deaths every year. And although the smoking rate has been decreasing, but up to now, still, there are
+
+32
+00:04:47.170 --> 00:04:58.749
+Qihua Qiu: Nearly 19% of adults are using certain kinds of tobacco products, and this rate is 10% for high school and middle school students, even though they are underaged.
+
+33
+00:05:00.490 --> 00:05:14.059
+Qihua Qiu: So, the tobacco regulations has been contributing to the decrease in smoking rates, but tobacco regulations may actually affect body weight, which could worsen the obesity problem.
+
+34
+00:05:15.720 --> 00:05:31.639
+Qihua Qiu: Regarding how tobacco regulations affect body weight, prior evidence is mixed. Some studies find that, say, higher cigarette taxes or prices reduce smoking, but at cost of increasing BMI and obesity.
+
+35
+00:05:31.640 --> 00:05:39.300
+Qihua Qiu: While some other studies find opposite evidence that higher cigarette taxes or prices actually reduce both smoking and BMI.
+
+36
+00:05:39.490 --> 00:05:52.079
+Qihua Qiu: There is also evidence that worksite smoking bans and randomized cessation programs can lead to weight gain, largely driven by the cessation caused by these regulations.
+
+37
+00:05:53.550 --> 00:06:00.890
+Qihua Qiu: The reason behind this mixed evidence is because of two competing pathways. On the one hand.
+
+38
+00:06:00.890 --> 00:06:14.349
+Qihua Qiu: Smoking cessation, you know, the nicotine withdrawal, can slow down the metabolism and increase food craving, and can also trigger some people due oral fixation, which means they substitute food for cigarettes in their mouths.
+
+39
+00:06:14.350 --> 00:06:21.980
+Qihua Qiu: And some people would also have compensatory health belief, which means, say, oh, I quit smoking, now I feel free to do some,
+
+40
+00:06:22.040 --> 00:06:33.290
+Qihua Qiu: less exercise, less exercise, I can eat worse, because I might be healthier after quitting smoking, so I feel free to do some other risky behaviors. But on the other hand.
+
+41
+00:06:33.290 --> 00:06:43.869
+Qihua Qiu: Quitting smoking may also motivate overall broader, healthy lifestyle. Say, oh, I quit smoking, I'm a better person now, I'm out gonna eat better, I'm gonna exercise more.
+
+42
+00:06:43.870 --> 00:06:50.469
+Qihua Qiu: And quit smoking can also improve lung capacity, which makes exercise more feasible, more enjoyable.
+
+43
+00:06:50.970 --> 00:07:10.600
+Qihua Qiu: And, you know, spending less money on cigarettes, on tobacco products, means spend… there's more money to be spent on healthy food and fitness resources. And actually, private literature shows there is… the evidence of quitting smoking have a complementary alcohol use effect.
+
+44
+00:07:12.000 --> 00:07:15.129
+Qihua Qiu: Complementary reduction in alcohol use. Sorry.
+
+45
+00:07:16.150 --> 00:07:24.220
+Qihua Qiu: So this creates a related concern, is could Tobacco 21 law also influence body weight?
+
+46
+00:07:24.240 --> 00:07:40.490
+Qihua Qiu: Particularly, could the Tobacco 21 law increase body weight? Why this concern matter? Because Tobacco 20 law, it, by literal meaning, it raised the minimum legal purchase age for tobacco products to 21 years old. So.
+
+47
+00:07:40.540 --> 00:07:59.469
+Qihua Qiu: Before Tobacco 21 law, in most states, this age, this minimum age is 18 years old, with only a couple of states at 19 years old. So Tobacco 21 law directly targets young adults and youth whose long-term health habits are still forming. So if T21 reduced smoking effectively.
+
+48
+00:07:59.470 --> 00:08:11.329
+Qihua Qiu: But trigger some bad behaviors that could jeopardize the body weight or even increase obesity, then its public health scans from tobacco prevention could be partially offset.
+
+49
+00:08:11.620 --> 00:08:23.360
+Qihua Qiu: On the other hand, if T21 improves broader health behaviors that not only reduce smoking, but also make everyone live a healthy life, even reduce obesity, then
+
+50
+00:08:23.490 --> 00:08:30.490
+Qihua Qiu: Its public health benefits may extend beyond tobacco prevention, and that's the motivation for our research.
+
+51
+00:08:32.130 --> 00:08:49.820
+Qihua Qiu: Here is a very brief policy background for the Tobacco 21 adoption at the state level. So, in the U.S, the modern T21, started actually locally in a small… I mean, in a city, not a small city, in a city in Massachusetts in 2005,
+
+52
+00:08:49.820 --> 00:08:57.030
+Qihua Qiu: And by 2015, over 100 localities across several states have adopted Local T21.
+
+53
+00:08:57.040 --> 00:09:13.869
+Qihua Qiu: At the state level, the first state adopted Tobacco 21 is Hawaii in January 2016, and California second in July 2016. And then in 2017, two more states joined, that's New Jersey and DC this season.
+
+54
+00:09:15.150 --> 00:09:23.620
+Qihua Qiu: In 2018, Oregon, Maine, and Massachusetts joined. Massachusetts actually adopted T21 on the last day of 2018.
+
+55
+00:09:23.660 --> 00:09:40.230
+Qihua Qiu: And then in 2019, 10 more states. These 17 states are the treated states in our study. We cut our study period ending at 2019. Federal T21 law took effect on December 20, 2019.
+
+56
+00:09:40.230 --> 00:09:44.120
+Qihua Qiu: But although there is federal T21 law already.
+
+57
+00:09:44.120 --> 00:09:56.229
+Qihua Qiu: For some reason, certain reasons, like inconsistent federal enforcement across the states, still there are more states adopting their statewide T21,
+
+58
+00:09:56.230 --> 00:10:10.050
+Qihua Qiu: legislation after 2019. So, as of now, only 7 states remained without statewide T21. But some of the states, let's say the South Carolina, claimed that they actually follow federal enforcement.
+
+59
+00:10:12.120 --> 00:10:27.400
+Qihua Qiu: The prior evidence has already established that T21 law is effective in reducing youth and young adult tobacco use. So, these studies find reductions in use and young adult cigarette smoking and e-cigarettes, and interestingly.
+
+60
+00:10:27.740 --> 00:10:44.409
+Qihua Qiu: That, although there's a decrease in cigarette smoking, but studies find no detectable change in cessation rates, and rather, the reduction in smoking may be largely driven by fewer non-users initiating smoking rather than more quitters.
+
+61
+00:10:46.620 --> 00:10:58.530
+Qihua Qiu: And there's also evidence on a reduction in tobacco products, especially cigarette sales, and the effect is stronger in countries with more residents under 21 years old.
+
+62
+00:10:58.700 --> 00:11:10.159
+Qihua Qiu: And a more recent study has extended the T21 research to outcomes like maternal smoking and birth outcomes, although the findings are a little mixed.
+
+63
+00:11:10.230 --> 00:11:22.189
+Qihua Qiu: I think these two studies are presented last year in the TOPS, that, like BERSAC Adult 2025, they found a modest reduction in maternal smoking before and during the pregnancy.
+
+64
+00:11:22.190 --> 00:11:33.410
+Qihua Qiu: driven by fewer young mothers entering the pregnancy as smokers, while the FLIN 2025 working paper found little effect on prenatal smoking or birth outcomes.
+
+65
+00:11:34.150 --> 00:11:51.619
+Qihua Qiu: The prior evidence also find the T21 might have spillover effects on other risky behaviors. For example, the Hanson et al. 2023 JHE paper found the T21 reduced marijuana use and binge drinking days among some youth groups.
+
+66
+00:11:52.740 --> 00:11:58.840
+Qihua Qiu: So when it comes to the link between T21 and body weight, which is our research question.
+
+67
+00:11:59.150 --> 00:12:07.279
+Qihua Qiu: T21 may actually differ from those tobacco regulations which are cessation-oriented, studied in the prior studies.
+
+68
+00:12:07.440 --> 00:12:13.520
+Qihua Qiu: So, in the prior studies, let's say secret tax or work… workplace.
+
+69
+00:12:13.520 --> 00:12:18.519
+Qihua Qiu: smoking bans. Lots of those regulations are primarily targeting
+
+70
+00:12:18.520 --> 00:12:34.770
+Qihua Qiu: relatively older adults who are already established smokers. So cessation is the primary pathway, while T21 actually works primarily through preventing initiation. It targets young adults who mostly have not even started smoking yet.
+
+71
+00:12:34.910 --> 00:12:51.560
+Qihua Qiu: So, the cessation-related nicotine withdrawal, metabolic change, you know, oral fixation, those things might not be necessarily relevant here. And a recent biomedical study actually finds initiating nicotine does not necessarily reduce body weight.
+
+72
+00:12:52.630 --> 00:13:01.120
+Qihua Qiu: So here's our hypothesis pathways for the link between T21 and body weight. The first is called prevention effects.
+
+73
+00:13:01.290 --> 00:13:19.250
+Qihua Qiu: For those young adults who would have started smoking without T21, then T21 will prevent them from smoking and subsequently adopting the cluster of downstream risky behaviors that often comes with smoking and make them less healthy.
+
+74
+00:13:20.250 --> 00:13:24.140
+Qihua Qiu: And then, the second, hypothesize…
+
+75
+00:13:24.240 --> 00:13:42.010
+Qihua Qiu: hypothesized pathway is the spillover effect, because not everyone would have started smoking when there is a smoking ban, right? There are two never-smokers, regardless whether they are T21 or not, they would not start smoking. How are they could be influenced?
+
+76
+00:13:42.240 --> 00:13:56.929
+Qihua Qiu: They can also benefit from healthy peers in terms of their diet and exercise habits, because prior studies actually found peer effects on this aspect, diet and exercise, are also very large in young adulthood.
+
+77
+00:13:59.300 --> 00:14:04.729
+Qihua Qiu: So before I go to the data and method section, here's a very… Excuse me.
+
+78
+00:14:04.950 --> 00:14:08.690
+Qihua Qiu: Here's a very, brief preview of our findings.
+
+79
+00:14:08.730 --> 00:14:25.660
+Qihua Qiu: Consistent with our hypothesis, we actually find no broad weight increase. We find no evidence of weight increase that, caused by the T21 loss. But we also find no broad weight reductions in, in this case. We find a decrease
+
+80
+00:14:25.660 --> 00:14:39.370
+Qihua Qiu: in the probability of being obese, but it's driven by a modest weight decrease near the upper tail of the BMI distribution, whereas the average BMI and overweight status show limited changes from our primary data.
+
+81
+00:14:40.120 --> 00:14:41.759
+Qihua Qiu: And we also find…
+
+82
+00:14:41.930 --> 00:14:59.930
+Qihua Qiu: evidence of some improvement in weight-related health behaviors, such as increased physical activities, improved diets, reduced drinking and marijuana, which is consistent with the Hanson Adult 2023's findings, since they are using the same data in the study period with us.
+
+83
+00:14:59.960 --> 00:15:06.250
+Qihua Qiu: And we also find improvement in mental health, which can contribute to a better,
+
+84
+00:15:06.300 --> 00:15:08.589
+Qihua Qiu: Lifestyle, healthier lifestyle.
+
+85
+00:15:10.410 --> 00:15:12.410
+Qihua Qiu: Okay, here's our data.
+
+86
+00:15:13.110 --> 00:15:27.619
+Qihua Qiu: For our primary analysis, we use the behavioral risk factor surveillance system data. The study period 2019 to 2019, we focus on young adults aged 18 to 20 years old.
+
+87
+00:15:28.420 --> 00:15:43.849
+Qihua Qiu: The outcome variables we check are body mass index, and a binary indicator of being overweight or obese, which means whether the BMI is at 25 or above, and a binary indicator of being obese, which is BMI at 30 or above.
+
+88
+00:15:43.850 --> 00:15:54.320
+Qihua Qiu: And we also examine these behavioral outcomes, including, smoking, drinking, physical activity, fruit and vegetable intake, and mental distress.
+
+89
+00:15:54.620 --> 00:16:02.990
+Qihua Qiu: And for supplemental analysis, we used 2019-2019 bi-annual, stated, use risk behavior.
+
+90
+00:16:03.290 --> 00:16:22.120
+Qihua Qiu: risky behavior survey data that's focusing on high schoolers aged 18 or above. In addition to the outcome variables that's available in the briefs, the YRBS data allows us to examine additional behavioral outcomes, such as marijuana use, TV watching, and soda consumption, right?
+
+91
+00:16:22.190 --> 00:16:37.090
+Qihua Qiu: And we additionally use American time use of ATUS data to examine these young adults' daily time spent doing exercise or sedentary relaxing, and the time spent eating at home versus eating out.
+
+92
+00:16:38.900 --> 00:16:58.109
+Qihua Qiu: In addition to the individual demographic controls that's available in these survey data, we additionally control for these state-level covariates, including the state population covered by local T21 laws prior to the statewide or federal adoption.
+
+93
+00:16:58.110 --> 00:17:02.369
+Qihua Qiu: Some other, tobacco policies, including cigarettes.
+
+94
+00:17:02.370 --> 00:17:13.820
+Qihua Qiu: Tax, e-cigarette tax, indoor smoking, indoor vaping restrictions, alcohol marijuana regulations, body weight-related regulations, and economic conditions.
+
+95
+00:17:16.960 --> 00:17:26.280
+Qihua Qiu: So this is our baseline model. It's a two-way fixed effect differences. This is specified in this equation, where Y is the
+
+96
+00:17:26.280 --> 00:17:40.100
+Qihua Qiu: outcome variable of interest. We use linear regressions for our meta-analysis, but our results remain robust in nonlinear specification, such as a logit for binary indicators.
+
+97
+00:17:40.280 --> 00:17:51.550
+Qihua Qiu: And the T21ST, that's the presence of statewide T21 laws. X denotes the, individual demographics from each
+
+98
+00:17:51.550 --> 00:18:09.080
+Qihua Qiu: survey, and the Z is the state-level controls that I described in the last slide. We also control for state fixed effects and time-fixed effect. In terms of profits, the time-fixed effect is the year-month fixed effect, and for YRBS data, that's the year fixed effect.
+
+99
+00:18:09.620 --> 00:18:26.330
+Qihua Qiu: And on the top of this baseline model, we do these extensions. We examine the event study to check dynamic effects and assess pre-trains, and we do a quantile regression to examine the distributional effects across different sections of the BMI.
+
+100
+00:18:26.430 --> 00:18:38.250
+Qihua Qiu: And we do a subsample analysis to examine any heterogeneous effects across groups. And then, importantly, we also use modern DID
+
+101
+00:18:38.250 --> 00:18:49.000
+Qihua Qiu: methods, including imputation DID methods and stacked DID methods to address the scheduled policy adoption from T21… of the T21 laws.
+
+102
+00:18:50.660 --> 00:19:01.470
+Qihua Qiu: A little bit more about the modern DID robustness check, in terms anyone is interested, is… as for the imputation DID, that is our primary robustness check.
+
+103
+00:19:01.470 --> 00:19:11.380
+Qihua Qiu: The idea behind it is it uses untreated observations of treated states to impute counterfactual outcomes for treated states.
+
+104
+00:19:11.540 --> 00:19:29.250
+Qihua Qiu: And this method has the advantage of keeping all the treated states in the sample, because we only have 17 treated states, right? And then our secondary robustness check for the modern DID is to trim the stacked DID
+
+105
+00:19:29.250 --> 00:19:38.470
+Qihua Qiu: developed by the Wing Edel 2024 working paper, and it is very straightforward. It builds clean 2x2 treated versus control.
+
+106
+00:19:38.470 --> 00:19:54.979
+Qihua Qiu: comparisons, between the states around each adoption time, adoption cohort, but it has a shortcoming of trimming, you know, the later adopters, leaving us with fewer treated states. So we take it as a secondary and just a complementary.
+
+107
+00:19:54.980 --> 00:19:57.230
+Qihua Qiu: Complemental, evidence.
+
+108
+00:19:57.620 --> 00:20:06.749
+Qihua Qiu: Before I go to the results presentation, we can have a short pause for anyone who has any questions.
+
+109
+00:20:07.660 --> 00:20:13.820
+Ce Shang: Thank you, Jihua. So, audience, please, submit your questions through the Q&A panel.
+
+110
+00:20:13.820 --> 00:20:28.919
+Ce Shang: Our discussion today is Dr. Xiaoy Ma, a research scientist at Ohio State University, and an incoming assistant professor in the Health Promotion Research Center in the Department of Family and Community Medicine at the University of Oklahoma.
+
+111
+00:20:28.920 --> 00:20:31.150
+Ce Shang: So, Xiaoying, let's turn to you first.
+
+112
+00:20:31.320 --> 00:20:32.800
+Ce Shang: Thank you.
+
+113
+00:20:34.090 --> 00:20:35.989
+Shaoying Ma: Thank you, can you hear me okay?
+
+114
+00:20:35.990 --> 00:20:36.750
+Ce Shang: Yes.
+
+115
+00:20:37.260 --> 00:20:49.179
+Shaoying Ma: Hi, Dr. Tu, thank you so much for the presentation, very interesting paper, and congratulations on the paper being accepted by Health Economics. So I have two main questions.
+
+116
+00:20:49.180 --> 00:21:05.439
+Shaoying Ma: My first question is about alternative nicotine and tobacco products, including e-cigarettes and RNA nicotine pouches. So, among youth who never initiated cigarette smoking, I wonder whether some of them may be using e-cigarettes or RNA nicotine pouches instead.
+
+117
+00:21:05.440 --> 00:21:17.010
+Shaoying Ma: And potentially, e-cigarettes or RNQ parties are easier to access than cigarettes under T21. I know that you mentioned, some evidence, about.
+
+118
+00:21:17.010 --> 00:21:31.629
+Shaoying Ma: the effect of, T21 on reduced e-cigarette vaping, and there has been limited evidence on how T21 impacts youth OMP youth. And also, there have been existing, there have been research, showing that
+
+119
+00:21:31.630 --> 00:21:39.619
+Shaoying Ma: youth using e-cigarettes as unhealthy weight control. And on social media, there have been, like, marketing claims, trends.
+
+120
+00:21:39.620 --> 00:22:01.810
+Shaoying Ma: promoting OMPs as a cheap, over-the-counter alternative to prescription weight loss drugs. So, I know that your study period was up until 2019, so some youth probably started using RNA coding pouches in the last few years, so I'm just wondering, like, what your thoughts are on these, alternative tobacco products and how they impact
+
+121
+00:22:01.810 --> 00:22:03.970
+Shaoying Ma: use the body weights under T to the 1.
+
+122
+00:22:06.820 --> 00:22:10.429
+Qihua Qiu: Thank you for the question, Sharin, so…
+
+123
+00:22:10.710 --> 00:22:22.429
+Qihua Qiu: That's a very good question, because actually, first, I want to claim that a week later, I'm gonna show a sub-sample regression results, showing that the result is largely driven by the never-smokers.
+
+124
+00:22:22.430 --> 00:22:35.809
+Qihua Qiu: But I want to say that, actually, we should take these subsample results with caution, because it's conditional on smoking status using a repeated cross-sectional data as a preface, so it is not a totally…
+
+125
+00:22:35.810 --> 00:22:42.390
+Qihua Qiu: in my race, selection bias, you know, self-selection issue, so I would take it more cautiously.
+
+126
+00:22:42.390 --> 00:22:59.860
+Qihua Qiu: But you raised a very good point that whether the person is a never-smoker should not only be determined on whether this person is smoking cigarettes or not, but also look at other tobacco products, like e-cigarettes, especially very popular among youth and young adults, right?
+
+127
+00:22:59.860 --> 00:23:10.839
+Qihua Qiu: So the data we use, like the, breakfast data, has relatively limited information on that, on e-cigarette use before the 2019 survey.
+
+128
+00:23:10.840 --> 00:23:24.549
+Qihua Qiu: And so, we would need to rely on some other data sets. Say, in long run, probably a path will be a better data set to study on that, because not only PATH is the panel data that can address the
+
+129
+00:23:24.550 --> 00:23:39.120
+Qihua Qiu: conditional on smoking status, the shortcoming of the repeated cross-section. But also, it has information of tobacco use, of different products, even body weight information, and so we're gonna make an effort to,
+
+130
+00:23:39.350 --> 00:23:42.689
+Qihua Qiu: Study further on that direction, to…
+
+131
+00:23:43.070 --> 00:23:52.490
+Qihua Qiu: you know, for now, I cannot directly answer that question, because I don't have the evidence, so we didn't study on that, right? But that's a very good point, yeah. We're gonna look at that.
+
+132
+00:23:52.490 --> 00:24:01.980
+Shaoying Ma: Thank you very much, that's very informative, and that makes a lot of sense. So my second question is about, self-reported body weight measures in VARDS.
+
+133
+00:24:01.980 --> 00:24:05.319
+Shaoying Ma: So in addition to reporting height and weight.
+
+134
+00:24:05.320 --> 00:24:22.499
+Shaoying Ma: Participants were also asked about how they perceive their body weight, very underweight, slightly underweight, about the right weight, slightly overweight, and very overweight. And whether they were trying to lose weight, gain weight, stay the same weight, or not trying to do anything about their body weight.
+
+135
+00:24:22.500 --> 00:24:47.460
+Shaoying Ma: So, given that some, like, related to my previous point, some youth may be using e-cigarettes or orange eating pouches as unhealthy weight control, I wonder if you explored the role of, body weight perception or weight control intention through those two questions, and, how their, body weight self-perception or weight control intention might moderate the relationship between
+
+136
+00:24:47.460 --> 00:24:50.160
+Shaoying Ma: T21 and youth body weight outcomes.
+
+137
+00:24:50.160 --> 00:25:04.490
+Shaoying Ma: So, for example, some young people with a normal BMI may perceive themselves as overweight or may try to lose weight, which makes them more likely to use e-cigarettes or ordered pouches for weight control. Which I'm not sure if you can,
+
+138
+00:25:04.490 --> 00:25:10.770
+Shaoying Ma: you know, study using RBS or BRFIS, but I felt that's a very interesting angle to look at.
+
+139
+00:25:11.880 --> 00:25:18.399
+Qihua Qiu: I agree with you. Actually, I know that two questions appear in the YRBS, and I'll be honest, is…
+
+140
+00:25:18.560 --> 00:25:28.579
+Qihua Qiu: I think I did look at that, but I forgot the results, because it's not in the final version of the paper, but later when I check on my, you know.
+
+141
+00:25:28.580 --> 00:25:43.639
+Qihua Qiu: my archive of those results. We didn't report that, but when I check the archive, I can get back to you, let you know what's our results from that outcome. Remember, I actually did that, but just not in the final paper.
+
+142
+00:25:43.930 --> 00:25:45.650
+Shaoying Ma: Okay, great. Thank you.
+
+143
+00:25:48.310 --> 00:26:01.290
+Ce Shang: Thank you both. I don't see any questions in the Q&A panel, so I think we can continue, but audience, if you have questions, please do submit. We'd like to see your questions. Thank you.
+
+144
+00:26:02.470 --> 00:26:06.359
+Qihua Qiu: Thank you, Dr. Shan? Oh, sorry.
+
+145
+00:26:09.750 --> 00:26:12.050
+Qihua Qiu: Can you see my screen now?
+
+146
+00:26:12.050 --> 00:26:14.140
+Ce Shang: Yes, perfect, thank you.
+
+147
+00:26:14.320 --> 00:26:15.130
+Qihua Qiu: Thank you.
+
+148
+00:26:15.240 --> 00:26:23.519
+Qihua Qiu: So I will go ahead with, presenting our results here. So this is our main results from the breakfast data with the two fixed effects DID.
+
+149
+00:26:23.520 --> 00:26:36.230
+Qihua Qiu: And this is just a built-up strategy that we add each of the control, you know, blocks one by one, and results… after we add in other tobacco policies, actually, especially the cigarette and e-cigarette tax.
+
+150
+00:26:36.230 --> 00:26:41.220
+Qihua Qiu: The results remain similar through the, column 7.
+
+151
+00:26:41.220 --> 00:26:48.669
+Qihua Qiu: Column 7 is our preferred specification, which includes the full set of control variables that I explained earlier.
+
+152
+00:26:48.670 --> 00:27:02.339
+Qihua Qiu: And we can see that there is no statistically significant change in average BMI and the probability of being overweight or obese, but there is a 2.1% decrease in the probability of being obese.
+
+153
+00:27:02.340 --> 00:27:20.549
+Qihua Qiu: And then in column A, as a kind of robustness check, we additionally control for state-specific year-month time trend, where the results keep qualitatively robust, but at the cost of increasing multicollinearity, right? It's a kind of over-control. So.
+
+154
+00:27:21.680 --> 00:27:25.499
+Qihua Qiu: With our preferred specification in column 7,
+
+155
+00:27:26.810 --> 00:27:44.169
+Qihua Qiu: When it comes to the event study showing the dynamic effects, we can also see there is limited evidence of a change in average BMI and overweight or obese after the T21 adoption, but we do observe
+
+156
+00:27:44.570 --> 00:27:51.909
+Qihua Qiu: Obesity declines in the first post-21 year, although it attenuates afterwards, so the…
+
+157
+00:27:52.060 --> 00:28:04.120
+Qihua Qiu: All the previ… all the pre-treatment, estimates are statistically insignificant, indicating there might be, you know, parallel trains that, warrant our…
+
+158
+00:28:04.230 --> 00:28:06.270
+Qihua Qiu: The causal… causal inference.
+
+159
+00:28:07.460 --> 00:28:10.849
+Qihua Qiu: We will confirm this later using the modern DID method.
+
+160
+00:28:13.080 --> 00:28:32.929
+Qihua Qiu: And then our quantile regression results further confirmed our observation of the distributional effects from our mandate, since we found no significant changes in average BMI and the overweight obese. And we can see that the BMI reductions are actually concentrated near the upper tail of the distribution.
+
+161
+00:28:32.930 --> 00:28:36.639
+Qihua Qiu: Near the, 0.8 to 0.9, the quantile.
+
+162
+00:28:36.640 --> 00:28:50.479
+Qihua Qiu: that where the BMI level at these centiles are 27.6 to 31, right near the cutoff of, obesity, it's 30, right?
+
+163
+00:28:50.830 --> 00:29:01.779
+Qihua Qiu: And itself, the reduction in BMI itself is relatively modest in terms of the magnitudes, just 2% to 3.6% decrease.
+
+164
+00:29:02.350 --> 00:29:05.980
+Qihua Qiu: Not look as large as the…
+
+165
+00:29:06.990 --> 00:29:10.200
+Qihua Qiu: 18% decrease in obesity that much.
+
+166
+00:29:13.040 --> 00:29:22.759
+Qihua Qiu: And when it comes to the subsample analysis results, we find that reduction in obesity probability is more pronounced among males.
+
+167
+00:29:22.940 --> 00:29:25.400
+Qihua Qiu: And non-white young adults.
+
+168
+00:29:25.650 --> 00:29:32.710
+Qihua Qiu: And we also found interesting heterogeneous effects across young adults with different educational attainment.
+
+169
+00:29:32.780 --> 00:29:47.210
+Qihua Qiu: For… so for obesity, the probability of obesity, decrease is more concentrated among young adults with high school diploma or above, which means they have already graduated from high school.
+
+170
+00:29:47.260 --> 00:29:55.750
+Qihua Qiu: And, we also observe a significant decrease in the probability of being overweight or obese.
+
+171
+00:29:55.880 --> 00:30:04.329
+Qihua Qiu: For young adults with less than high school diplomas, very likely they are still at school. They have not graduated high school yet.
+
+172
+00:30:04.670 --> 00:30:13.969
+Qihua Qiu: And later, I'm going to show you that this result is interestingly consistent with our YRBS results, which are high schoolers aged 18.
+
+173
+00:30:15.140 --> 00:30:32.099
+Qihua Qiu: And then the last heterogeneous effect is what we just discussed with Xiaoying, that there is a subsample difference between never-smokers and never-smokers. Of course, there's a limited information on other tobacco products.
+
+174
+00:30:32.100 --> 00:30:38.039
+Qihua Qiu: But just in terms of cigarettes itself, the effects are concentrated on
+
+175
+00:30:38.170 --> 00:30:43.259
+Qihua Qiu: Young adults who never smoked for more than 100 cigarettes in their life.
+
+176
+00:30:44.050 --> 00:30:56.170
+Qihua Qiu: So, this is kind of consistent with a prevention-based pathway, because T2 primarily targets young adults who has never started smoking, or not being addictive yet.
+
+177
+00:30:58.700 --> 00:31:06.580
+Qihua Qiu: And here is our modern DID robustness check results, and then we can see from the imputation DID, the,
+
+178
+00:31:07.080 --> 00:31:24.379
+Qihua Qiu: ATTs, average treatment effects on treated estimates, and event study estimates are kind of very similar, consistent with our main results. We still do not find a significant decrease in average BMI and overweight or obese, but we find
+
+179
+00:31:24.430 --> 00:31:29.390
+Qihua Qiu: Significant decrease in probability of being obese in the first post-20 year.
+
+180
+00:31:30.380 --> 00:31:45.989
+Qihua Qiu: And when it comes to trim the stacked DID, we can see it's a lot less precisely estimated, because we lose a lot of treated states. We did two versions of the trimming, one version
+
+181
+00:31:46.160 --> 00:31:47.810
+Qihua Qiu: Excuse me, sorry.
+
+182
+00:31:52.690 --> 00:31:57.600
+Qihua Qiu: That's hard. I just recovered from COVID and still coughing, sorry.
+
+183
+00:31:58.030 --> 00:32:01.490
+Ce Shang: Take your time. Thank you for presenting for us. Yeah.
+
+184
+00:32:04.200 --> 00:32:10.049
+Qihua Qiu: Oh my So, I would like to… very briefly, let me…
+
+185
+00:32:15.280 --> 00:32:21.109
+Ce Shang: So, meanwhile, audience, if you have any questions, please submit through the Q&A panel.
+
+186
+00:32:23.450 --> 00:32:25.839
+Qihua Qiu: I really apologize.
+
+187
+00:32:26.010 --> 00:32:29.560
+Ce Shang: No worries, thanks again.
+
+188
+00:32:30.440 --> 00:32:43.210
+Qihua Qiu: So, as we can see that these, results are a lot less, precisely estimated. We did two versions of training. One version, we keep only five treated states, where the post
+
+189
+00:32:43.290 --> 00:32:54.320
+Qihua Qiu: treatment window, we keep 18 months, and with the other version, we did… we kept 6 treated states, where the post-treatment window is only 1 year, and then…
+
+190
+00:32:54.550 --> 00:33:07.950
+Qihua Qiu: But still, qualitatively, you can see we still observe a decrease, post-T21 decrease, on the probability of being obese in event study. So kind of still consistent with our main finding.
+
+191
+00:33:09.920 --> 00:33:11.590
+Qihua Qiu: And this is,
+
+192
+00:33:12.780 --> 00:33:26.960
+Qihua Qiu: the supplemental data analysis using the YRBS, and as I mentioned a little bit earlier, that we find the effects of, like, the weight reduction for these YRBS high schoolers aged 18.
+
+193
+00:33:26.960 --> 00:33:39.750
+Qihua Qiu: Or above, their weight reductions are more pronounced near the overweight threshold rather than the obese threshold, although we still see somewhat evidence of decrease in the obesity probability.
+
+194
+00:33:39.880 --> 00:33:48.280
+Qihua Qiu: But effect is more pronounced, around the cutoff, the BMI range around the over… over… overweight range.
+
+195
+00:33:51.560 --> 00:34:04.610
+Qihua Qiu: And lastly, I'm going to present to you the behavioral outcomes related to body weight. For the behavioral outcomes, we present three specifications.
+
+196
+00:34:05.420 --> 00:34:07.239
+Qihua Qiu: Firstly,
+
+197
+00:34:07.720 --> 00:34:22.390
+Qihua Qiu: estimated two-fixed Effect logit model. This is to become… to make our results comparable to Henson Adult 2023, because they use exactly same data and study period with us.
+
+198
+00:34:22.389 --> 00:34:30.129
+Qihua Qiu: And then, we also present results from two-way fixed effect linear property model for these all binary outcomes.
+
+199
+00:34:30.620 --> 00:34:39.390
+Qihua Qiu: This is to be more naturally connected to an imputation DID method, because imputation DID is linear-based.
+
+200
+00:34:40.540 --> 00:34:58.840
+Qihua Qiu: And as we can see, we find, you know, consistent evidence with private literature that we find, decrease in smoking and current smoking and everyday smoking, which these are exactly same with the Hanson Adult 2023's, the findings.
+
+201
+00:34:58.880 --> 00:35:12.470
+Qihua Qiu: And interestingly, the imputation DID methods find clear evidence of decrease in drinking and binge drinking, and increase in exercise. Increase in exercise.
+
+202
+00:35:13.470 --> 00:35:29.130
+Qihua Qiu: Which is consistent with our hypothesis that there is an overall improvement of a healthier, you know, lifestyle. And we also find somewhat evidence on increase of fruit and vegetable intake.
+
+203
+00:35:29.130 --> 00:35:36.799
+Qihua Qiu: Indicating a better quality of the diet, especially these effects show in the first positive 21 years.
+
+204
+00:35:37.430 --> 00:35:53.239
+Qihua Qiu: And we also found a decrease in FMD for frequent mental distress, which is defined as having 14 or more days each month to have mental distress. It's a definition by CDC.
+
+205
+00:35:53.880 --> 00:35:59.729
+Qihua Qiu: To find a decrease in the mental distress, indicating a better, improved mental health.
+
+206
+00:36:01.410 --> 00:36:16.590
+Qihua Qiu: And as for the YRBS behavioral outcomes, of course, we have examined more than this, but for, you know, the presentation simplicity, I presented the results from three behavioral outcomes that's not available from the profits data.
+
+207
+00:36:16.590 --> 00:36:22.859
+Qihua Qiu: And we found a decrease in, TV watching, excess TV watching, watching more than 2 hours every day.
+
+208
+00:36:22.900 --> 00:36:34.610
+Qihua Qiu: A decrease in the heavy soda intake, which, like, have 3 cans of soda a day, and a decrease in the frequent marijuana use. Use marijuana more than 10 times a month.
+
+209
+00:36:35.540 --> 00:36:46.849
+Qihua Qiu: So, for, YRBS outcomes, that we… I want to note that we do not report imprutation DIDs. That's because not only YRBS, has,
+
+210
+00:36:47.280 --> 00:37:03.200
+Qihua Qiu: sparse state-year cells, but also behavioral outcomes are somewhat a rare outcome, that they more… they are more preferred to use, nonlinear, like, logic model, while the infotation DID estimates is actually linear-based.
+
+211
+00:37:03.960 --> 00:37:07.349
+Qihua Qiu: It makes the invitation to IDSMS less reliable in this case.
+
+212
+00:37:08.060 --> 00:37:13.830
+Qihua Qiu: And then lastly, to present the results from the ATUS behavioral outcome.
+
+213
+00:37:14.020 --> 00:37:15.430
+Qihua Qiu: And we can't see.
+
+214
+00:37:16.310 --> 00:37:17.900
+Qihua Qiu: Excuse me.
+
+215
+00:37:32.830 --> 00:37:34.609
+Qihua Qiu: So we can see an increase.
+
+216
+00:37:35.040 --> 00:37:36.429
+Qihua Qiu: In exercise.
+
+217
+00:37:37.720 --> 00:37:45.609
+Qihua Qiu: Time spent in exercise daily, and a decrease in time relaxing sedentarily every day.
+
+218
+00:37:45.750 --> 00:37:52.399
+Qihua Qiu: And, increasing time spent eating at home, but there's a decrease in the time spent in eating out.
+
+219
+00:37:53.220 --> 00:38:04.380
+Qihua Qiu: For ATUS data, we used a two-part model that accounts for both, extensive margin, whether they do this… whether they do these activities at all, anyway.
+
+220
+00:38:04.680 --> 00:38:18.559
+Qihua Qiu: an intensive margin, use an active binomial, whether they… if they do these, activities, whether time increase or decrease, and we report overall marginal effects. This event study estimates are from the marginal effects.
+
+221
+00:38:19.840 --> 00:38:21.430
+Qihua Qiu: So overall.
+
+222
+00:38:21.660 --> 00:38:39.410
+Qihua Qiu: our, this… our findings shows that there's no evidence that T22 worsens the body weight outcomes among young adults, which is good news, okay? We're gonna celebrate. And then… but we also found no broad weight reductions either.
+
+223
+00:38:40.280 --> 00:38:59.689
+Qihua Qiu: Obesity declines, but it's driven by a modest decrease in body weight near the upper tail of the BMI distribution, and we find improvements in weight-related behaviors, which is consistent with our hypothesis improvement in lifestyle behaviors.
+
+224
+00:38:59.690 --> 00:39:09.149
+Qihua Qiu: So, T21 appears to avoid cessation-related weight gain, and may support healthy lifestyle formation among at-risk young adults.
+
+225
+00:39:09.470 --> 00:39:28.669
+Qihua Qiu: And as for the policy implications, our study shows that use-focused tobacco control policies may generate broader public health benefits beyond tobacco prevention goals, because it circumvents the cessation-related offset.
+
+226
+00:39:29.080 --> 00:39:32.930
+Qihua Qiu: Like, let's say the health… the weight gains, those… the public health gains offset.
+
+227
+00:39:33.230 --> 00:39:44.720
+Qihua Qiu: And our heterogeneous effects results also suggest that these public health benefits could be larger for some groups, such as non-white young adults, than others.
+
+228
+00:39:47.950 --> 00:39:56.859
+Qihua Qiu: Okay, thank you so much for your attention, and thank you for bearing with me while I'm coughing. I'm happy to take more questions now.
+
+229
+00:39:58.160 --> 00:40:09.170
+Ce Shang: Thank you, Chiqua, for presenting for us, and when you are in recovery, I hope you feel better soon. Let's, have our discussion showing,
+
+230
+00:40:09.520 --> 00:40:13.759
+Ce Shang: To see, again, to see whether she has any additional questions. Thank you.
+
+231
+00:40:14.360 --> 00:40:27.039
+Shaoying Ma: Thank you, Dr. Shan. Doctor, too, very interesting findings. So, I guess, one of my questions, questions is that you find, significant effects among.
+
+232
+00:40:27.040 --> 00:40:46.359
+Shaoying Ma: teenage boys or, male young adults, but now teenage girls or, female young adults, right? Like, like, how would you interpret that result? Like, was it, like, maybe at baseline, smoking rate was higher among, male young adults, or maybe, like.
+
+233
+00:40:46.360 --> 00:40:57.080
+Shaoying Ma: the effect of reducing unhealthy behaviors and increasing healthy behaviors was more pronounced among male young adults? Like, what was driven the results?
+
+234
+00:40:58.480 --> 00:41:04.600
+Qihua Qiu: Am I muted? No, I'm not muted. Okay, so thank you for the question. So, hmm.
+
+235
+00:41:05.510 --> 00:41:24.869
+Qihua Qiu: We would like to think one reason, as you said, is because male young adults have a higher baseline smoking rate, so they are more kind of… or, you know, the higher baseline, smoking rate means there is more tendency for them to start smoking if
+
+236
+00:41:24.960 --> 00:41:31.279
+Qihua Qiu: in the absence of T21, so the T21 probably are impacting them more than,
+
+237
+00:41:31.380 --> 00:41:35.170
+Qihua Qiu: more than female, I mean, young, young girls.
+
+238
+00:41:36.990 --> 00:41:50.600
+Qihua Qiu: And young girls, another reason is because we think the young girls, probably, they have already have better, weight management, knowledge, or, or sense, you know, the…
+
+239
+00:41:51.220 --> 00:41:58.870
+Qihua Qiu: the awareness of weight management, compared to, young males. So,
+
+240
+00:41:59.530 --> 00:42:09.660
+Qihua Qiu: whether they are impacted by a tobacco regulation or not, they tend to, you know, manage their weight. So, that's why they are less impacted in this case.
+
+241
+00:42:10.610 --> 00:42:19.939
+Shaoying Ma: Okay, that makes sense. Thank you for your answer. I guess my… another question is, I'm wondering if, there was any, like.
+
+242
+00:42:19.940 --> 00:42:41.969
+Shaoying Ma: heterogeneity in terms of the policy strength of Tobacco 21 across states, like, you know, like, when they were implemented, like, the policy details, rules, or, like, how exactly were the policies enforced, or, like, was it more, like, a homogeneous, policy strength of T21 across states?
+
+243
+00:42:41.970 --> 00:42:42.730
+Shaoying Ma: Thanks.
+
+244
+00:42:43.240 --> 00:42:57.319
+Qihua Qiu: That's a very good question. Actually, we have… we are actually exploring on that now. So, we want to look at, how different, you know, enforcement, like T21 grade, the enforcement grade, the policy design could,
+
+245
+00:42:57.320 --> 00:43:09.770
+Qihua Qiu: have heterogene's effect on the answer of our research question, but we are still working on that. So, if I have more progress, I will let you know about it. We're actually working on that.
+
+246
+00:43:09.980 --> 00:43:12.850
+Shaoying Ma: Great, I look forward to your new studies findings.
+
+247
+00:43:12.850 --> 00:43:13.899
+Qihua Qiu: Yeah, thank you.
+
+248
+00:43:14.230 --> 00:43:15.709
+Shaoying Ma: That's all my questions.
+
+249
+00:43:17.810 --> 00:43:36.879
+Ce Shang: Thank you, I don't see any audience questions yet. But I have a question regarding to the results. I think it's very interesting. And basically, it suggests that, the, like, tobacco products, maybe mostly cigarettes, are likely to be complements to
+
+250
+00:43:36.980 --> 00:43:44.360
+Ce Shang: cannabis and alcohol, so I just want to ask you, like, whether this is in line with
+
+251
+00:43:44.740 --> 00:43:50.199
+Ce Shang: Recent literature assessing the relationship among the substances.
+
+252
+00:43:51.990 --> 00:43:53.430
+Qihua Qiu: Yes, so,
+
+253
+00:43:53.660 --> 00:44:00.159
+Qihua Qiu: So, based on… I'm not sure whether I understand your question correctly, but I'll try to answer. so…
+
+254
+00:44:00.380 --> 00:44:18.869
+Qihua Qiu: So, because, because, the Hansen Adult 2023 and us, we both find the reduction in marijuana use and alcohol drink, accompanied with, the reduced smoking, resulting from the T21 adoption, so showing they might be the complement to
+
+255
+00:44:18.870 --> 00:44:22.309
+Qihua Qiu: Compliments for at least young adults.
+
+256
+00:44:22.340 --> 00:44:23.320
+Qihua Qiu: So…
+
+257
+00:44:24.140 --> 00:44:35.899
+Ce Shang: Yeah, I guess I'm kind of curious about, like, whether this is in line with, a lot of the taxation studies we've seen in the top seminar and in the broader literature that look at across price elasticities.
+
+258
+00:44:35.900 --> 00:44:52.820
+Ce Shang: So I just wonder, like, whether you found, like, similar results as those, like, cross-elasticity type of papers. I know you're looking at different regulations, one is the TC21, when it's, like, pricing or taxation, but I'm just curious, you know, whether you have looked into the
+
+259
+00:44:52.820 --> 00:45:04.339
+Ce Shang: general conclusions of, cross-price elasticity, and whether your funding and, Hansen's findings are consistent with this type of, like, elasticity estimates.
+
+260
+00:45:05.130 --> 00:45:18.409
+Qihua Qiu: That's a very good point. So, I will look into that, but, based on so far what I have learned while I'm doing this research, and this is also another, you know, claim from our research is
+
+261
+00:45:18.410 --> 00:45:28.320
+Qihua Qiu: The private literature, when they study on the cross-price elasticity across these different substances, a lot of regulations they target are triggering the
+
+262
+00:45:28.320 --> 00:45:35.309
+Qihua Qiu: cessation of the tobacco use. So, as I mentioned in the motivation, you know, section.
+
+263
+00:45:35.310 --> 00:45:45.780
+Qihua Qiu: That when one quit one substance, maybe substituted with another substance, although the findings mix, they could substitute or they can reduce together.
+
+264
+00:45:45.780 --> 00:45:55.680
+Qihua Qiu: But when it comes to the T21, we feel like the results more indicative of, if you have never started one substance, it's less likely for you to start other substance.
+
+265
+00:45:55.830 --> 00:46:01.569
+Qihua Qiu: It's, like, not a symmetric relationship as the quitting, you know.
+
+266
+00:46:02.070 --> 00:46:03.220
+Ce Shang: Yeah, yeah.
+
+267
+00:46:03.500 --> 00:46:10.800
+Ce Shang: Yeah, that's very interesting, I think also very insightful. Yeah, so thanks for your answer.
+
+268
+00:46:10.950 --> 00:46:27.099
+Ce Shang: Well, I still don't see any questions from the audience. Thank you, Dr. Chu, and hope you feel better. I guess we have the top of tops later, so audience, if you have any questions you want to bring up and have a discussion with Dr. Chu, please join us later.
+
+269
+00:46:27.100 --> 00:46:34.499
+Ce Shang: So let's, turn this to our, MC, Akshaka, to take us out. Thank you very much.
+
+270
+00:46:36.150 --> 00:46:47.430
+Akshika Sharma: Thank you. We are almost at time. However, if you still have burning questions or thoughts for Dr. Chiva, you can join us for Tops of the Tops, an interactive group discussion.
+
+271
+00:46:47.480 --> 00:47:06.199
+Akshika Sharma: To join, please copy the Zoom meeting room URL posted in the chat, and switch rooms with us once this even concludes. We'll leave this webinar room open for an extra minute after the end to give everyone a chance to copy the URL, which is bit.ly slash topsmeeting.
+
+272
+00:47:06.200 --> 00:47:07.690
+Akshika Sharma: All in lowercase.
+
+273
+00:47:07.690 --> 00:47:18.130
+Akshika Sharma: Also thank you to our presenter, moderator, and discussant. Finally, thank you to the audience of 95 people for your participation, and have a tops-notch weekend!
+
+274
+00:47:18.180 --> 00:47:19.510
+Akshika Sharma: Thank you, everyone.
+
