@@ -1,0 +1,1266 @@
+WEBVTT
+
+1
+00:00:08.290 --> 00:00:13.640
+David Ogunjemilua: Welcome to the Tobacco Line Policy Seminar Tops. Thank you for joining us today.
+
+2
+00:00:13.770 --> 00:00:18.759
+David Ogunjemilua: I am David Hoganjemiloa, a PhD student at the University of Missouri.
+
+3
+00:00:19.020 --> 00:00:26.619
+David Ogunjemilua: TOPS is organized by Mike Pesco at the University of Missouri, Seisheng at the Ohio State University.
+
+4
+00:00:26.800 --> 00:00:29.709
+David Ogunjemilua: My kindergarten at John Oxon University.
+
+5
+00:00:29.990 --> 00:00:37.259
+David Ogunjemilua: James, I'm a voice at the University of Massachusetts Amnest, and Justin White at Boston University.
+
+6
+00:00:37.700 --> 00:00:42.619
+David Ogunjemilua: The seminar will be one hour with questions from the moderator and discussant.
+
+7
+00:00:43.070 --> 00:00:47.409
+David Ogunjemilua: The audience may post questions and comments in the Q&A panel.
+
+8
+00:00:47.640 --> 00:00:54.030
+David Ogunjemilua: And the monitor withdraw from these questions and comments in conversations with the presenter.
+
+9
+00:00:54.420 --> 00:01:00.290
+David Ogunjemilua: Please review the guidelines on Tobaccopolicy.org for several questions.
+
+10
+00:01:00.680 --> 00:01:05.330
+David Ogunjemilua: Please keep the questions professional and related to research being discussed.
+
+11
+00:01:05.670 --> 00:01:16.579
+David Ogunjemilua: Questions that meet the seminar series guidelines will be shared with the presenter afterwards, even if they are not read aloud. Your questions are much appreciated.
+
+12
+00:01:16.920 --> 00:01:26.980
+David Ogunjemilua: The presentation is being record… is being video recorded and will be made available along with the presentation slides on the top website, tobaccoPolicy.org.
+
+13
+00:01:27.210 --> 00:01:36.360
+David Ogunjemilua: I will turn the presentation over to today's moderator, Jeremy R. Boyd from the University of Massachusetts Arms to introduce our speaker.
+
+14
+00:01:37.020 --> 00:01:56.779
+Jamie Hartmann-Boyce: Thank you so much! So today, we continue our Summer 2026 season with a Grand Rounds presentation by Scott Sherman, entitled, Changing the Default, Comparing the Effectiveness of an Opt-Out Approach to an Opt-In Approach for Smoking Cessation Treatment. This presentation was selected via a competitive review process by submission through the TOPS website.
+
+15
+00:01:57.410 --> 00:02:10.779
+Jamie Hartmann-Boyce: Dr. Sherman is a professor of population health, medicine, and psychiatry at NYU Grossman School of Medicine, and a practicing physician in internal medicine and geriatrics at the Veterans Health Administration, or VA, Hospital in New York.
+
+16
+00:02:11.230 --> 00:02:17.480
+Jamie Hartmann-Boyce: Dr. Sherman's research studies have focused on how to redesign healthcare systems to better help people quit smoking.
+
+17
+00:02:17.770 --> 00:02:26.450
+Jamie Hartmann-Boyce: He's particularly focused on population health studies, examining the effectiveness of interventions in routine practice, as well as how to disseminate and implement them.
+
+18
+00:02:26.970 --> 00:02:31.549
+Jamie Hartmann-Boyce: His recent studies have focused on interventions for people with mental health conditions who smoke.
+
+19
+00:02:31.550 --> 00:02:47.899
+Jamie Hartmann-Boyce: on proactive outreach to people who smoke, and on using approaches from behavioral economics to help people quit smoking. He's currently PI on three research centers, and has published over 270 publications in peer-reviewed journals. Dr. Sherman, thank you so much for presenting for us today.
+
+20
+00:02:48.630 --> 00:02:49.320
+Scott Sherman: Thank you very much
+
+21
+00:03:11.950 --> 00:03:19.350
+Scott Sherman: So, I'm going to talk today about two different studies we've done comparing an opt-in to an opt-out approach for smoking cessation.
+
+22
+00:03:20.670 --> 00:03:29.709
+Scott Sherman: First, disclosures, have funding from the places listed up above, all research grants.
+
+23
+00:03:29.710 --> 00:03:46.659
+Scott Sherman: that the projects I will talk about today, the first was funded by NIDA, and the second was funded by VA Health Systems Research, which used to be called Health Services Research and Development, and I've not received any funding from the groups listed below.
+
+24
+00:03:49.800 --> 00:03:57.859
+Scott Sherman: So, I've been seeing patients and doing tobacco control research within the VA for over 3 decades.
+
+25
+00:03:57.860 --> 00:04:11.140
+Scott Sherman: And during that time, the prevalence of smoking in the VA has decreased from 33%, which was about 10% more than the general population, to 11%, which is pretty much exactly the same as the general population.
+
+26
+00:04:11.390 --> 00:04:17.299
+Scott Sherman: Smoking is the leading preventable cause of death in the U.S. and in the VA, and…
+
+27
+00:04:17.500 --> 00:04:34.449
+Scott Sherman: as a system, the VA has gotten to the point that rates of asking and advising are high. They've been over 95% for every patient for the last 25 years at this point, enough so that we changed the performance measures about 20 years ago.
+
+28
+00:04:34.450 --> 00:04:45.169
+Scott Sherman: And as a system, every patient who smokes, the rate of them being offered medications, counseling, and referral have been over 93% for the last 14 years.
+
+29
+00:04:45.170 --> 00:04:53.980
+Scott Sherman: So this is a system with a lot of action in it, a lot of, dealing with tobacco, and we wanted new approaches to help people quit.
+
+30
+00:04:55.410 --> 00:05:06.639
+Scott Sherman: So, Kim Richter and Ed Ellerbeck wrote this article years ago, it's now probably 15 years ago, about needing to change the default for tobacco treatment. And what do I mean by that?
+
+31
+00:05:06.640 --> 00:05:17.489
+Scott Sherman: For most diseases and conditions, we use an opt-out approach. High blood pressure, diabetes, but smoking cessation in pretty much all behaviors, we use an opt-in approach.
+
+32
+00:05:17.910 --> 00:05:31.420
+Scott Sherman: Wearing my behavioral economics hat, this… basically, the literature would say that the framing, the way you frame things, matters quite a lot. This is… these studies test the default bias within behavioral economics.
+
+33
+00:05:32.950 --> 00:05:45.319
+Scott Sherman: And there's a big difference between offering versus providing. Offering sends the implicit message that it's optional, not that important. These slides I borrowed from Kim Richter with her permission,
+
+34
+00:05:45.500 --> 00:05:55.310
+Scott Sherman: And, you know, we often start off by saying, are you willing to try to quit right now? And that says, you know, it's optional, it's really not the most important thing right now.
+
+35
+00:05:55.310 --> 00:06:10.160
+Scott Sherman: I mean, if you were going to a… if you were having dinner at a dinner party, and if you say, oh, can I help you with those dishes? It really sends a message. Like, please say no. If you really want to get it done, you would just get up and start helping yourself without asking.
+
+36
+00:06:10.220 --> 00:06:12.520
+Scott Sherman: For hypertension, you know.
+
+37
+00:06:12.520 --> 00:06:33.079
+Scott Sherman: as a physician, I say, you know, I tell the person they have blood pressure, high blood pressure, and that we need to do something about it. I don't ask if they want to do something about their blood pressure. We may not agree on what to do right now. Actually, it doesn't matter if we agree, it's their choice. But it's a very different discussion than with smoking, historically.
+
+38
+00:06:33.080 --> 00:06:33.840
+Scott Sherman: Oops.
+
+39
+00:06:34.750 --> 00:06:52.099
+Scott Sherman: So, does an opt-out approach work? The two studies that are really out there, Kim did a study, with inpatients in Kansas, you know, randomizing them to an opt-in versus an opt-out approach when they were in the hospital.
+
+40
+00:06:52.100 --> 00:07:04.130
+Scott Sherman: And it led to increased rate of cessation medication prescriptions, increased chance of receiving at least one counseling call, but had no effect on abstinence at 6 months.
+
+41
+00:07:04.370 --> 00:07:19.719
+Scott Sherman: Peter Selby did a cluster randomized trial of a smoking cessation decision aid for primary care providers in Europe. Again, increased rate of cessation medications and no effect on abstinence at 6 months.
+
+42
+00:07:20.360 --> 00:07:37.050
+Scott Sherman: So, the first study I'm going to talk about took place in the mental health setting. The contact PI is Erin Rogers, and she and I started this study quite a while ago, so back in 2018.
+
+43
+00:07:37.050 --> 00:07:50.919
+Scott Sherman: And the context for us is we had done a study together of a telephone care coordination for intervention for people who smoke, and that had worked really well in primary care, and then we did it in mental health.
+
+44
+00:07:51.190 --> 00:08:00.560
+Scott Sherman: the intervention was just as effective, but we couldn't get mental health providers to refer anybody. We only got about 10% of the referrals that we thought we would get.
+
+45
+00:08:00.660 --> 00:08:13.299
+Scott Sherman: We did a follow-up study where we bypassed the mental health people altogether and acted like telemarketers, where we reached out proactively to the intervention arm and offered them meds, counseling, and follow-up.
+
+46
+00:08:13.300 --> 00:08:31.210
+Scott Sherman: And the mental health providers loved it, they didn't have to do anything, but it really bothered me that they weren't doing something. They all knew which of their patients smoked, and the message I would get when I talked with… sort of the implicit message I would get is, yes, my patient smokes. Somebody needs to do something about that.
+
+47
+00:08:31.210 --> 00:08:34.540
+Scott Sherman: So this was a chance to get them back in the loop.
+
+48
+00:08:36.010 --> 00:08:48.030
+Scott Sherman: So the specific aims for this study were, first, just to, you know, we… it's going to be comparing an opt-out to an opt-in approach, and looking at the impact of this on the psychiatrists.
+
+49
+00:08:48.030 --> 00:09:03.969
+Scott Sherman: Second aim was to assess the intervention fidelity, provider perceptions, and barriers and facilitators to implementation. And then the third aim was to look at the effect on the patient side on use of cessation treatment and abstinence.
+
+50
+00:09:05.750 --> 00:09:14.610
+Scott Sherman: For the implementation science frameworks, we used, consolidated framework for implementation research and Proctor's framework.
+
+51
+00:09:17.070 --> 00:09:18.720
+Scott Sherman: The…
+
+52
+00:09:18.720 --> 00:09:38.479
+Scott Sherman: This took place at one healthcare facility, the VA New York Harbor Healthcare System, where I am. We attempted to enroll all 24 psychiatrists. They could choose not to participate by opting out of the study. We didn't require… we did not require written informed consent from them, but they could opt out.
+
+53
+00:09:38.530 --> 00:09:58.359
+Scott Sherman: And because in our prior work with psychiatrists, I know that there had been a clinical reminder for smoking cessation initially for primary care providers and for psychiatrists, and it got turned off for mental health, so we got the hospital to agree to turn that clinical reminder back on.
+
+54
+00:09:58.920 --> 00:10:10.470
+Scott Sherman: In our previous work, psychiatrists had told us that they didn't feel comfortable helping people quit smoking, and they weren't comfortable with the medications.
+
+55
+00:10:10.750 --> 00:10:12.450
+Scott Sherman: That,
+
+56
+00:10:12.840 --> 00:10:21.609
+Scott Sherman: I'm a bit skeptical about both of those, because they are the experts at treating addictions, and smoking in some ways is an easier addiction to treat than many others.
+
+57
+00:10:21.610 --> 00:10:33.379
+Scott Sherman: And the medications are nicotine replacement, which is over-the-counter, and medicines like bupropion, which our psychiatrists are much better at than I am.
+
+58
+00:10:33.380 --> 00:10:41.420
+Scott Sherman: And I sort of interpreted the, discomfort as it's just something that they're not routinely doing.
+
+59
+00:10:42.410 --> 00:10:50.020
+Scott Sherman: So, in this study, it's a cluster randomized trial. We randomized the participating psychiatrists to the two arms.
+
+60
+00:10:50.020 --> 00:11:06.020
+Scott Sherman: in the opt-in arm reminder, they… they got… in the opt-in arm, they got a clinical reminder that basically said, you know, your patient smokes, you should order medications and counsel… and provide counseling. If you'd like to order medications, click here.
+
+61
+00:11:06.130 --> 00:11:20.820
+Scott Sherman: Similar thing in the opt-out arm, it's like your patient smokes, but then we've already gone ahead and ordered a referral and combination nicotine replacement therapy, and you can cancel those orders if you or the patient doesn't want them.
+
+62
+00:11:22.760 --> 00:11:32.419
+Scott Sherman: This is the theoretical framework for the implementation strategies, going from knowledge to norms, intentions, and behavior,
+
+63
+00:11:33.970 --> 00:11:48.489
+Scott Sherman: I'll skip to the next one, and, you know, the… the content of this, we, you know, we were targeting different, barriers to, getting people to prescribe. And we figured that the…
+
+64
+00:11:48.600 --> 00:11:55.250
+Scott Sherman: opt-out reminder would help with the cognitive bias to accept the default treatment.
+
+65
+00:11:55.940 --> 00:12:08.040
+Scott Sherman: It addressed the provider's concerns about making this easy, and it also, because this became a mandated clinical reminder, it affected the prioritization of it.
+
+66
+00:12:09.100 --> 00:12:23.260
+Scott Sherman: Our primary outcomes, were assessed using data from the electronic health record, and just simply what percent of people who smoke were referred to counseling, and what percent of people who smoke were actually prescribed nicotine replacement therapy.
+
+67
+00:12:23.950 --> 00:12:43.709
+Scott Sherman: Secondary outcomes, this was an R34, so we weren't powered for these, but they would help to inform a future trial. We wanted to know what percent of patients made a quit attempt by 6 months, and at 6 months follow-up, what percent reported 7-day point prevalent prevalence abstinenced that time.
+
+68
+00:12:43.710 --> 00:13:01.379
+Scott Sherman: And we enrolled 125 patients who had, within 48 hours of their visit with a psychiatrist as a post-visit survey, and the people who did that survey, we followed them up again 6 months later. And as you saw, we got about 70% of them to participate.
+
+69
+00:13:01.900 --> 00:13:15.869
+Scott Sherman: This is the characteristics of the participating psychiatrist. Two of them formerly smoked. Nobody currently smoked, at least based on the survey. A mix of races and ethnicities.
+
+70
+00:13:15.980 --> 00:13:20.460
+Scott Sherman: And people have been in practice for a while, average of 11 years.
+
+71
+00:13:21.160 --> 00:13:37.879
+Scott Sherman: So on to our first, this is the primary outcome, counseling and medications, and we were really excited to see these results. You know, we thought the intervention might work, and here you see that referrals went from about 8% to about 24-25%,
+
+72
+00:13:37.880 --> 00:13:45.939
+Scott Sherman: And nicotine replacement went from 18% to 26%. Both of those were significant, as you can tell from the odds ratios above them.
+
+73
+00:13:47.510 --> 00:13:51.810
+Scott Sherman: We looked at our secondary outcomes, and…
+
+74
+00:13:52.000 --> 00:14:11.270
+Scott Sherman: Again, there's differences between the two, 8% to 21%, 56% to 71% for quit attempts. Neither of those was significant. They both were trending in the right direction, and remember, we weren't powered to look at these outcomes. This was just preliminary data for future studies.
+
+75
+00:14:13.880 --> 00:14:20.300
+Scott Sherman: So, the change was really easy. You know, all we really did, we turned on the reminder.
+
+76
+00:14:20.300 --> 00:14:29.410
+Scott Sherman: We put on a one-hour training for psychiatrists, and we just simply changed the reminder from an opt-in to an opt-out for the intervention arm.
+
+77
+00:14:29.410 --> 00:14:48.160
+Scott Sherman: It certainly increased referrals and treatment, and it seemed like a trend towards more abstinence, and we're planning to follow this up with a multi-site study. I also did, you know, sort of just touched base with psychiatrists after the intervention, you know, towards the end of it, asking them.
+
+78
+00:14:48.230 --> 00:15:03.520
+Scott Sherman: how this was for them. And that, you know, I was worried that they'd feel, oh, this is really terrible, you know, I'm being coerced into doing this, but then they said, you know, this was great. We know we need to do something about this, this made it really easy. So nobody was bothered by it.
+
+79
+00:15:04.370 --> 00:15:11.599
+Scott Sherman: So, that's the end of the first, study, and I think we're going to pause there for some discussion.
+
+80
+00:15:11.780 --> 00:15:15.499
+Scott Sherman: I'll stop sharing… stop sharing my slides at this point.
+
+81
+00:15:17.020 --> 00:15:19.289
+Jamie Hartmann-Boyce: Thanks so much, Scott. So…
+
+82
+00:15:19.590 --> 00:15:32.089
+Jamie Hartmann-Boyce: Please do keep your questions coming through the Q&A, but I would also like to take this moment to introduce our discussant today, Dr. Carrie Ann Mullen, a scientist and program director from the University of Ottawa Heart Institute.
+
+83
+00:15:32.220 --> 00:15:45.149
+Jamie Hartmann-Boyce: Dr. Mullen is a health services and implementation science researcher and one of the developers of the Ottawa Model for Smoking Cessation, a change management approach to implementing systematic smoking cessation programs within healthcare settings.
+
+84
+00:15:45.150 --> 00:15:53.889
+Jamie Hartmann-Boyce: That's been implemented in over 600 sites across Canada, and at least 6 other countries. So thank you so much for joining us, and did you want to…
+
+85
+00:15:53.890 --> 00:15:55.550
+Jamie Hartmann-Boyce: Make any comments or ask any questions.
+
+86
+00:15:55.550 --> 00:16:12.499
+Kerri-Anne Mullen: Sure. Well, thanks very much, and thanks, Scott, for your presentation of this first paper, and congratulations on those results. So, first of all, love… loving the opt-out approach, and that more, research is being done, more people are actually implementing it,
+
+87
+00:16:12.500 --> 00:16:22.569
+Kerri-Anne Mullen: And, I do recall when Kim Richter's first paper came out, and we actually, I think, invited her to speak at our conference about this approach. So it's really nice to see it being applied in other settings.
+
+88
+00:16:22.570 --> 00:16:32.900
+Kerri-Anne Mullen: Great design, nice cluster randomization, and and, you know, your last point about opt-out not appearing to sort of increase.
+
+89
+00:16:33.070 --> 00:16:38.630
+Kerri-Anne Mullen: coercion, or the perceived coercion. I guess that'll lead to maybe my first question.
+
+90
+00:16:38.630 --> 00:16:58.300
+Kerri-Anne Mullen: We, we're actually seeing in some of our psychiatric hospitals, some of our providers going a little bit backward on the smoking cessation, provision, or, you know, certainly maybe with vaping coming to town, just finding it more difficult to deal with nicotine addiction in general.
+
+91
+00:16:58.340 --> 00:17:04.710
+Kerri-Anne Mullen: We… your study just showed that, you know, opt-out approaches work, in… certainly work
+
+92
+00:17:05.220 --> 00:17:19.810
+Kerri-Anne Mullen: from a referral standpoint, an uptake standpoint, and even, I would argue, you know, the effects, or the clinically significant sort of effects you're seeing, while not powered to see those, it's a nice signal of things going in the right direction.
+
+93
+00:17:20.260 --> 00:17:38.999
+Kerri-Anne Mullen: what have you found generally among the psychiatrist population to really help? And now with the results of this study, what do you think are the main, sort of, arguments to build on in terms of building the case for more mental health practitioners to be implementing opt-out approaches?
+
+94
+00:17:43.010 --> 00:17:47.999
+Scott Sherman: Thank you. Great question, and thanks for the kind words. It's…
+
+95
+00:17:48.170 --> 00:18:05.420
+Scott Sherman: really critical to me to figure out how we get this to be part of routine treatment, because ultimately, none of us are very good at doing things that aren't part of our routine. Whether it's primary care doctors, psychiatrists, medical specialists. I think
+
+96
+00:18:05.440 --> 00:18:20.399
+Scott Sherman: probably a big step was just simply turning on the clinical reminder for psychiatrists. We didn't include psychologists in this study because a big focus was prescribing, and psychologists at our facility are not allowed to prescribe
+
+97
+00:18:21.050 --> 00:18:24.740
+Scott Sherman: Nicotine replacement, and… but, so…
+
+98
+00:18:24.920 --> 00:18:30.809
+Scott Sherman: turning it back on basically forces everybody to pay attention to it. The VA has…
+
+99
+00:18:30.810 --> 00:18:52.459
+Scott Sherman: improved its performance tremendously over 30 years… 30 years, really starting 25 years… 25, 30 years ago, when they really adopted clinical reminders, and as, I would say, a pseudo-militaristic system, tied the salary and performance of the hospital director to how well his or her facility did on all their clinical reminders.
+
+100
+00:18:52.590 --> 00:19:00.609
+Scott Sherman: And it's very clear from over the years that what the person at the top cares about gets really conveyed very strongly to people below.
+
+101
+00:19:00.720 --> 00:19:02.869
+Scott Sherman: So, this being measured.
+
+102
+00:19:03.050 --> 00:19:14.509
+Scott Sherman: gets people's attention, says this is important, and it's like the… I said anecdotally, they're like, yeah, we know we should be doing this. It made it easy. And the second part with that is
+
+103
+00:19:14.770 --> 00:19:29.650
+Scott Sherman: In thinking about how much time they spent on the discussion, the medications were already ordered, the referral was ordered, signing them in the electronic health record takes 5-10 seconds to do all that.
+
+104
+00:19:29.650 --> 00:19:51.770
+Scott Sherman: So if they wanted to go ahead with it, it was really easy. We didn't… in that study, we certainly didn't have the budget in that one to do any unpacking of the clinical visit to see what the conversation was like, and I'm really fascinated by that. I think we may come back to that in the second talk, because that's a future direction for us.
+
+105
+00:19:51.770 --> 00:19:53.570
+Scott Sherman: But…
+
+106
+00:19:53.990 --> 00:20:04.080
+Scott Sherman: It… it was easy, and it just made it more salient, and reminded them that this is important to the… both for their patient, and particularly for the institution.
+
+107
+00:20:06.000 --> 00:20:10.140
+Kerri-Anne Mullen: Jamie, I'm seeing some other questions, so feel free to go to Q&A.
+
+108
+00:20:12.230 --> 00:20:14.400
+Jamie Hartmann-Boyce: Okay, thank you so much, Carrie.
+
+109
+00:20:15.000 --> 00:20:31.529
+Jamie Hartmann-Boyce: Alright, so going to the questions, thanks so much for those asking them, do keep them coming. The first question we have is from Scott McIntosh, who asks, how hard was it to convince the clinical persons in charge to allow updates to the EHR symptoms, and what facilitated their cooperation?
+
+110
+00:20:33.040 --> 00:20:36.770
+Scott Sherman: That's a great question, because the…
+
+111
+00:20:36.810 --> 00:20:54.940
+Scott Sherman: My colleague would say there's a getting the grant phase and a doing the grant phase, and they really have little to do with one another, so the fact that people signed a letter when we were submitting this grant saying they would do it doesn't mean that they'll really do it when things happen, and we've had plenty of examples of that where, you know, priorities change.
+
+112
+00:20:55.100 --> 00:21:02.329
+Scott Sherman: It absolutely helps that I had been at this facility, within the VA for,
+
+113
+00:21:03.140 --> 00:21:24.220
+Scott Sherman: over, like, over 10 years by the time we did this study, and really was a very known and trusted quantity by the mental health leadership. The guy who is head of mental health is absolutely wonderful, and so it really… sort of starting with him, it's like, you know, Adam, we really should do this, and he's like, absolutely, that sounds great.
+
+114
+00:21:24.250 --> 00:21:32.319
+Scott Sherman: Then presenting to probably 2 or 3 different committees at the facility that are responsible for clinical reminders.
+
+115
+00:21:32.470 --> 00:21:41.759
+Scott Sherman: again, going and making the case that, as I've had in other studies, not that this is important, which it is, but that this is important
+
+116
+00:21:41.770 --> 00:22:06.440
+Scott Sherman: And also needs to be done, as opposed to the other 20 things that they're being asked to do. And it's a… smoking tends to be an easier one to do, because of the high… high burden, high morbidity and mortality, and a relatively easy intervention on the providers. I certainly would have had a lot more trouble convincing them if I was asking the mental health providers to spend
+
+117
+00:22:06.440 --> 00:22:09.479
+Scott Sherman: 3 minutes extra on something, which they would not have done.
+
+118
+00:22:10.350 --> 00:22:34.290
+Jamie Hartmann-Boyce: Great, thank you so much. And kind of following on from that, this is a question from Sophia Young. Did you receive any pushback from psychiatrists or clinicians about which types of tobacco users should be enrolled? For example, patients with substance use disorders who are undergoing acute drug stabilization, or patients with schizophrenia who may have difficulty sustaining tobacco cessation? And if you did, how to address those concerns?
+
+119
+00:22:35.700 --> 00:22:51.360
+Scott Sherman: We really didn't. So, the way the intervention is structured, I'm not telling them to prescribe it for any individual pay… well, the system isn't telling them, it's just making it easier, and so I didn't try to convince them
+
+120
+00:22:51.360 --> 00:22:58.679
+Scott Sherman: I didn't try to make up their mind about whether or not they should give smoking cessation treatment in someone, for instance, who's
+
+121
+00:22:58.680 --> 00:23:13.010
+Scott Sherman: quitting alcohol at the same time, or quitting drugs at the same time. I have fairly strong feelings about that, but it didn't… didn't… wasn't relevant here, because each provider, each psychiatrist made their own decision about that.
+
+122
+00:23:13.010 --> 00:23:29.719
+Scott Sherman: 3 of the prob… Three or four of the psychiatrists did opt out at the beginning of the study. I didn't ask them why, it's not my business why they chose to participate, but really, it was heartening to see that 85-90% of everybody participated.
+
+123
+00:23:30.390 --> 00:23:31.320
+Scott Sherman: Great.
+
+124
+00:23:31.320 --> 00:23:38.869
+Jamie Hartmann-Boyce: Thank you so much. Alright, next question. How do you get around needing patient consent for referring the patients?
+
+125
+00:23:40.110 --> 00:23:46.319
+Scott Sherman: This is within a healthcare system, so you don't get cons…
+
+126
+00:23:46.490 --> 00:23:56.140
+Scott Sherman: You don't get written consent for referring people to a GI doctor or a cardiologist, or to smoking cessation treatment.
+
+127
+00:23:56.530 --> 00:24:14.610
+Scott Sherman: Clinically, you have to talk with a person about it, as I do with my patients in primary care. And that's the… that's what I assume happened between the psychiatrist and the patient, that they said they were going to refer them, somebody would be contacting them.
+
+128
+00:24:14.610 --> 00:24:20.240
+Scott Sherman: And if they didn't want that, they would just cancel the referral. But you… it's healthcare, so it's not…
+
+129
+00:24:20.300 --> 00:24:28.720
+Scott Sherman: the interaction between the system was changed, but patients were not participating in research. They were just getting routine care.
+
+130
+00:24:29.560 --> 00:24:44.770
+Jamie Hartmann-Boyce: Excellent, thank you. I'm gonna ask a couple more, and then if we hit the 2.30 mark, I'm gonna make sure we turn it on to your next study. So, from Deb Messina, says, they may have missed this in the beginning, but what were the comorbidities of the patients being seen by the psychiatrists?
+
+131
+00:24:46.240 --> 00:25:02.810
+Scott Sherman: I didn't present anything about that, so you didn't miss it. This was, you know, our study participants were really the psychiatrists, not the patients, because we were doing a cluster-level randomization.
+
+132
+00:25:02.810 --> 00:25:24.430
+Scott Sherman: We did not, for that study, collect data on the entire population of patients seen by them. I can tell you it's the VA, so the VA has… the average VA patients are, I think, on average, one standard deviation sicker physically and mentally than the general population, if you look at health status measures.
+
+133
+00:25:24.560 --> 00:25:39.030
+Scott Sherman: There's high rates in the VA of PTSD, depression, serious mental illness. The rates are about double the general population in most healthcare settings. So…
+
+134
+00:25:39.230 --> 00:25:42.739
+Scott Sherman: It's a general answer to your question, but it's a really good question.
+
+135
+00:25:42.860 --> 00:25:45.599
+Scott Sherman: But again, this was not target… this was…
+
+136
+00:25:45.790 --> 00:25:57.739
+Scott Sherman: Everybody who came and see the psychiatrist, this reminder, would turn on, regardless of whether they just had a few mental health issues, or whether they had many, many different mental health issues.
+
+137
+00:25:58.770 --> 00:26:09.759
+Jamie Hartmann-Boyce: Great, thank you so much. I'm going to save the remainder of our questions for a little bit later, because they are broader in scope than this specific study, and hand over to you to tell you… tell us about your next one.
+
+138
+00:26:10.350 --> 00:26:12.990
+Scott Sherman: Great. Let me go back to sharing.
+
+139
+00:26:22.480 --> 00:26:23.620
+Scott Sherman: Okay.
+
+140
+00:26:27.330 --> 00:26:46.090
+Scott Sherman: So, the next study, we had the acronym HERO, and actually it's a bit silly, you know, we've been calling it the HERO study, and when we went to write up the main results, none of us could remember what that actually stood for. It took us a while to figure it out, because we had only written it out one time, so it was not a particularly effective acronym.
+
+141
+00:26:46.090 --> 00:26:50.740
+Scott Sherman: But it's a veteran's hospital, so it wasn't a terrible acronym.
+
+142
+00:26:50.740 --> 00:27:13.540
+Scott Sherman: Again, we are doing a cluster randomized trial, but this time it was with primary care nurses, not with psychiatrists, and being done in primary care, of course. Again, it was a Type 1 hybrid effectiveness implementation study, and this one was funded by the VA Health Systems… VA Health Systems Research. I was a contact PI on this one, and Steve Fu in Minneapolis was the… also PI.
+
+143
+00:27:15.030 --> 00:27:27.860
+Scott Sherman: Design looks pretty much the same as last time, with one difference. We're randomized… all the nurses were asked if they wanted to participate, and they could opt out verbally.
+
+144
+00:27:28.080 --> 00:27:37.090
+Scott Sherman: This time, the referral was to, external treatment, to either the Quitline or a text messaging program.
+
+145
+00:27:37.200 --> 00:27:55.090
+Scott Sherman: And we basically created a paper form. The VA is fully electronic, but we created a paper form, because we want to somehow make this salient for the patient, because here it's the patient that is the one who's opting in or opting out. So, in the opt-in arm, the nurse was told,
+
+146
+00:27:55.090 --> 00:28:08.170
+Scott Sherman: prompted by the clinical reminders, say, to tell the patient, we like to refer all our patients who smoke to either the state Quitline and or a text messaging program, that if they wanted to be referred, they could fill out this form.
+
+147
+00:28:08.270 --> 00:28:17.329
+Scott Sherman: In the opt-out arm, Courage and had the same discussion, but they were told that they were automatically being referred to both unless they filled out the form to opt out.
+
+148
+00:28:17.980 --> 00:28:20.969
+Scott Sherman: Same amount of time, basically, for the nurse.
+
+149
+00:28:22.510 --> 00:28:40.250
+Scott Sherman: We collected data for this study using electronic health records. We did a post-visit survey, like in the previous study, where we surveyed about 20 people per nurse over the course of the study within a day of their visit. And we did a population-based cohort.
+
+150
+00:28:40.250 --> 00:28:45.850
+Scott Sherman: Prior to starting the study, we did the… a survey of,
+
+151
+00:28:45.920 --> 00:29:02.880
+Scott Sherman: over a thousand people, and then we followed up with them at the end of the intervention period. This time, our referrals were, in some ways, more traditional. Did people get referred? Did they engage with treatment? And were they abstinent at the end of the study?
+
+152
+00:29:04.930 --> 00:29:15.429
+Scott Sherman: The treatment we use, you know, they were getting referred… everybody got referred to the New York State Quitline, which gives one proactive call and unlimited reactive calls.
+
+153
+00:29:15.510 --> 00:29:34.950
+Scott Sherman: For text messaging, we worked with Agile Health with their Kick Butts program. We didn't use NCI or the VA's text messaging service because neither of those worked for somebody who wasn't ready to set a quit date immediately. Both expect… both of those text messaging programs require a quit date.
+
+154
+00:29:34.950 --> 00:29:43.450
+Scott Sherman: And we figured that people being referred this way might be more ambivalent, might not be ready to set a quit date immediately. So…
+
+155
+00:29:43.450 --> 00:29:49.200
+Scott Sherman: Agile, the system includes two weeks of motivational enhancement messages.
+
+156
+00:29:49.270 --> 00:29:54.590
+Scott Sherman: To help people get ready to set a quit date, and then 6 months of messages after the quit date.
+
+157
+00:29:55.990 --> 00:29:58.860
+Scott Sherman: So, we started the study in 2020.
+
+158
+00:29:59.080 --> 00:30:01.980
+Scott Sherman: And then we all know what happened.
+
+159
+00:30:02.430 --> 00:30:12.419
+Scott Sherman: we tried doing this virtually, and it really did not work well. So we just restarted the entire invention in 2021 and threw out everything before that.
+
+160
+00:30:13.610 --> 00:30:15.409
+Scott Sherman: And it went for 2 years.
+
+161
+00:30:16.580 --> 00:30:18.740
+Scott Sherman: And moving on to the results.
+
+162
+00:30:19.150 --> 00:30:38.109
+Scott Sherman: This is the flow diagram. We were randomizing, actually, teams of nurses, because there's often a nursing assistant and a registered nurse working together, and it didn't make sense to have people on the same team having different interventions. So we randomized 23 teams, total of 46 nurses.
+
+163
+00:30:39.260 --> 00:30:43.899
+Scott Sherman: 12 teams to the opt-in arm, and 11 teams to the opt-out arm.
+
+164
+00:30:45.590 --> 00:30:46.660
+Scott Sherman: And…
+
+165
+00:30:47.200 --> 00:31:08.850
+Scott Sherman: This is our results for referral. As a PI, you don't really get to see results like this very often. Odds ratios of 26 to 33, and you look at, you know, 49% referral to texting versus 5% in the opt-in arm, and pretty much exactly the same in the… for the Quitline referral.
+
+166
+00:31:08.850 --> 00:31:15.070
+Scott Sherman: So, do you remember our goals were referral, engagement, and abstinence? So, referral, check.
+
+167
+00:31:15.070 --> 00:31:16.290
+Scott Sherman: This worked.
+
+168
+00:31:16.720 --> 00:31:18.559
+Scott Sherman: What about engagement?
+
+169
+00:31:20.810 --> 00:31:37.409
+Scott Sherman: Same… pretty much the same thing for text messaging. An odds ratio of 28, 45% versus 4%. Not so good for Quitline, 5% versus 0.6%. Still an odds ratio of 8.
+
+170
+00:31:37.410 --> 00:31:41.439
+Scott Sherman: But I'm not sure I care that much if it's 5%.
+
+171
+00:31:41.650 --> 00:31:45.180
+Scott Sherman: So… Engagement, also check.
+
+172
+00:31:45.400 --> 00:31:47.660
+Scott Sherman: So then we moved on to abstinence.
+
+173
+00:31:47.710 --> 00:31:50.260
+Scott Sherman: And you see here,
+
+174
+00:31:50.280 --> 00:32:08.749
+Scott Sherman: data from the CERT post-visits, sort of the end of intervention survey, and from the EHR both say the same thing. Odds ratio 0.98, odds ratio 1.13. Neither of them was statistically significant. So I thought, maybe it'll look better if we put this into a table.
+
+175
+00:32:08.950 --> 00:32:19.469
+Scott Sherman: Nope, looks just as bad. It's really the same data, but just a different way of looking at the same data. It also gives you some of the numbers involved here with how many people we looked at.
+
+176
+00:32:20.990 --> 00:32:27.120
+Scott Sherman: So… Yes for referral engagement, but a pretty definite no for abstinence.
+
+177
+00:32:29.410 --> 00:32:54.289
+Scott Sherman: We also asked, in our post-visit questionnaire, that one that was being done within a day of the visit, we asked several questions to try and understand mechanisms here, and also to see if people felt coerced. And nothing here was significant, which we were very happy about. So comparing the opt-in to the opt-out arm, there was no difference in whether they said the nurse's goal was to refer all people
+
+178
+00:32:54.290 --> 00:32:57.170
+Scott Sherman: Blue Smoke, that they felt strongly encouraged.
+
+179
+00:32:57.220 --> 00:33:06.369
+Scott Sherman: There was no difference in people saying they felt forced to receive the referral, and they also didn't have a difference in the quality of discussion, all of which we thought was great.
+
+180
+00:33:07.860 --> 00:33:08.920
+Scott Sherman: So…
+
+181
+00:33:09.080 --> 00:33:20.379
+Scott Sherman: in conclusion, you know, this… this was amazing for referral and engagement, for… with text messaging, amazing for referral engagement.
+
+182
+00:33:20.470 --> 00:33:39.010
+Scott Sherman: for the quit line, it was amazing for referral, but just okay for engagement. And why… I mean, you know, I think these days, who among us takes a call from somebody that they don't really know the number? I think people getting this referral were ambivalent.
+
+183
+00:33:39.010 --> 00:33:54.780
+Scott Sherman: That, probably not as motivated as we often have people going into treatment, and so then when this call from an unknown number, even if it says Quitline, comes in a day or two easy, it's pretty easy to duck that.
+
+184
+00:33:54.810 --> 00:34:07.189
+Scott Sherman: Text messages are sort of less burdened. It's not that hard to just continue receiving messages. And it really had no effect on abstinence rates, and also didn't affect any perception of the visit.
+
+185
+00:34:09.949 --> 00:34:22.459
+Scott Sherman: So why didn't it work? My… in looking at the literature more, I think opt-out approaches work best for low-burden choices, so referral and engagement were pretty low burden.
+
+186
+00:34:22.590 --> 00:34:28.979
+Scott Sherman: We only targeted the nurse in this intervention. This had… the physician wasn't involved anywhere.
+
+187
+00:34:28.980 --> 00:34:47.930
+Scott Sherman: And at the opt-out visit, we went back and looked at the medication… whether people received medications, and at that visit, only 15% got meds, and for two-thirds of them, it wasn't either varenicline or combination nicotine replacement therapy, because we didn't involve the physician in the discussion.
+
+188
+00:34:49.110 --> 00:34:51.659
+Scott Sherman: So, what's next here?
+
+189
+00:34:51.659 --> 00:35:05.599
+Scott Sherman: Oh, sorry, limitations. One hospital, the VA has a really high rate of offering treatment. Like you saw at the beginning, 93% of patients being offered meds, counseling referral every single year in primary care.
+
+190
+00:35:05.600 --> 00:35:13.260
+Scott Sherman: We measured abstinence by self-report and by EHR, both of which have limitations, although different limitations.
+
+191
+00:35:14.660 --> 00:35:23.969
+Scott Sherman: And then for the next steps, we'll be… in September, we'll be resubmitting this to the BA to do a four-facility Type 2 hybrid
+
+192
+00:35:24.240 --> 00:35:27.770
+Scott Sherman: randomized effectiveness implementation study.
+
+193
+00:35:28.080 --> 00:35:39.710
+Scott Sherman: We'll include the provider as well, so the nurse will still get the same… I think we're going to drop the quit line, because it really just wasn't all that good in this case, and stick with text messaging.
+
+194
+00:35:39.830 --> 00:35:58.550
+Scott Sherman: But the provider would also have an opt-out for both combination nicotine replacement therapy and an encouragement to look the person in the eye, say, I see you're getting referred to a text messaging program. This is really important. I really want you to participate in this and do your best at quitting.
+
+195
+00:35:58.640 --> 00:36:16.079
+Scott Sherman: And we would also include equity-focused audit and feedback, targeting both the nurses and the doctor, giving them feedback on how they did on different patient populations, was it different? You know, we'll be looking to see if there are differences by race, ethnicity, gender.
+
+196
+00:36:16.080 --> 00:36:18.830
+Scott Sherman: Whether people have mental health diagnoses.
+
+197
+00:36:18.830 --> 00:36:21.940
+Scott Sherman: And so, we're hoping that that gets funded.
+
+198
+00:36:22.200 --> 00:36:23.920
+Scott Sherman: And that was… oh.
+
+199
+00:36:28.310 --> 00:36:45.590
+Jamie Hartmann-Boyce: Wonderful, thank you so much, Scott. I hope that gets funding, too. I'm gonna hand over to Carrie first, and do keep those questions coming in the Q&A. If we don't get to them, they will be shared with Scott, and there's also an opportunity for y'all to hang on for an extra half an hour in Top of the Tops. So, over to you, Carrie.
+
+200
+00:36:45.860 --> 00:37:00.850
+Kerri-Anne Mullen: Super. Great, I have a lot more questions, that may be apply to both studies, but, best of luck as you get, try to get funding for the next phase. You already mentioned it, the medications. Maybe that's where I'll start.
+
+201
+00:37:00.850 --> 00:37:19.440
+Kerri-Anne Mullen: In the first study, one thing I didn't ask you is, it was quite impressive in a mental health population. I was actually quite impressed by the change in quit rates, even though they weren't statistically significant. So I was going to ask, it was 2018, I believe, that one was published, and what… or was it later than that?
+
+202
+00:37:19.870 --> 00:37:21.060
+Scott Sherman: It's 2018.
+
+203
+00:37:21.610 --> 00:37:22.660
+Kerri-Anne Mullen: 2018.
+
+204
+00:37:22.880 --> 00:37:36.389
+Scott Sherman: published it. The data got stuck at the VA, and we have… we had VA access… data access things for a while, so that one hopefully will be published within the next, 6 to 12 months.
+
+205
+00:37:37.230 --> 00:37:38.619
+Kerri-Anne Mullen: So, I think…
+
+206
+00:37:38.620 --> 00:38:01.160
+Kerri-Anne Mullen: I can imagine that adding medication in this next phase of the study will help improve, quit rates, but can you talk a little bit about that? But specifically, maybe from the fir- or comparisons first study and second study, what, what were the medications used in the first study? And I think you said, just to clarify, it'd be Varenicline and combination NRT that you'd be looking at for the second one?
+
+207
+00:38:01.890 --> 00:38:23.789
+Scott Sherman: Yeah, so in the first study where it was psychiatrists, we made, you know, we just simply put in an order for combination nicotine replacement therapy. If we had data in the EHR about how much this person smoked, we would adjust the prescribing, the automatic order based on that, and they could certainly adjust the order.
+
+208
+00:38:23.790 --> 00:38:34.259
+Scott Sherman: As a reminder, on the side, it had little, like, guidance for the provider about why combination nicotine replacement therapy was a good choice, triples the quit rates, all that stuff.
+
+209
+00:38:34.470 --> 00:38:45.539
+Scott Sherman: We didn't do vareniclin in that one because in our prior studies, it's been really hard to get psychiatrists or primary care providers to prescribe Vareniclin.
+
+210
+00:38:45.620 --> 00:39:00.759
+Scott Sherman: We do much better with nicotine replacement therapy, I think, because it's over-the-counter, and even though the FDA black box warning is gone, there's still that lingering effect of it, I think, and it makes people… makes doctors more scared to prescribe it.
+
+211
+00:39:01.630 --> 00:39:02.020
+Kerri-Anne Mullen: Yep.
+
+212
+00:39:02.020 --> 00:39:04.199
+Scott Sherman: For the second one, I think…
+
+213
+00:39:04.610 --> 00:39:21.320
+Scott Sherman: trended towards abstinence in the first, didn't have any effect in the second, but the first involved prescribing, and the second one did not. So maybe, in this case, meds are more effective than counseling, even though, you know, we all know that, in general.
+
+214
+00:39:21.320 --> 00:39:28.339
+Scott Sherman: Sort of as a sort of approximation. Counseling can double the quit rate, meds double the quit rate.
+
+215
+00:39:28.340 --> 00:39:35.949
+Scott Sherman: Better meds probably gets it more than double, better counseling probably gets it more than double, but it… maybe just that it was…
+
+216
+00:39:35.980 --> 00:39:40.950
+Scott Sherman: for an opt-out type of approach, maybe meds do work better. We're not sure.
+
+217
+00:39:41.060 --> 00:39:50.629
+Scott Sherman: On the other hand, I could say, you know, in Kim's study in Kansas, they increased… and in Peter Selby's one, they increased prescriptions and didn't have an effect on abstinence.
+
+218
+00:39:52.750 --> 00:40:10.749
+Kerri-Anne Mullen: kind of related, but different. So, you know, your last statement, I guess, about the study, not working, let's, let's say study two, I would… I would challenge that and say, you know, I think that the huge, the large effects in both studies on both referral and engagement are certainly the
+
+219
+00:40:10.750 --> 00:40:14.689
+Kerri-Anne Mullen: positive, those were your primary outcomes in these cases.
+
+220
+00:40:14.850 --> 00:40:29.899
+Kerri-Anne Mullen: But in terms of… so, keeping on the topic, I guess, of abstinence, can you discuss this a little bit further? Like, was it… did you expect to see, big changes in abstinence? Is it even appropriate to think that quit rates
+
+221
+00:40:30.000 --> 00:40:46.620
+Kerri-Anne Mullen: might not change in an opt-out study like this, and why would maybe we expect that quit rates not change, using an approach like this? And really, when we think about the impact of interventions, a lot of us like to think of the
+
+222
+00:40:46.790 --> 00:40:57.500
+Kerri-Anne Mullen: equation, impact is reach times effectiveness, you know, it's certain… we certainly see impacts on the reach side of things. So yeah, loaded question, but if you could comment on some of that.
+
+223
+00:41:01.050 --> 00:41:11.350
+Scott Sherman: the effect on referral and engagement. I mean, it's the stuff PIs dream about, to get effects like that, and odds ratios like that.
+
+224
+00:41:11.500 --> 00:41:27.889
+Scott Sherman: Interestingly, I should also mention that, you know, in terms of the coercion issue, the majority of people did not get referred. Even in the opt-out arm, 55% or 52%, filled out those forms to not get referred, and so…
+
+225
+00:41:27.910 --> 00:41:34.140
+Scott Sherman: The people certainly had agency and acted and weren't coerced into doing this.
+
+226
+00:41:34.980 --> 00:41:44.229
+Scott Sherman: I… in terms of the, you know, is it enough if we, get high rates of treatment and don't get anybody to quit?
+
+227
+00:41:45.080 --> 00:41:47.039
+Scott Sherman: I can't get… I couldn't…
+
+228
+00:41:47.040 --> 00:42:06.550
+Scott Sherman: I don't think I could convince a health system to do this then, because it's… it's not salient. It's not meaningful enough for them at the end of the day if everybody… if there's no impact 6 months later. Sort of back to that initial discussion part, where there's a bunch of other competing priorities, and why would they do this if the
+
+229
+00:42:06.650 --> 00:42:09.220
+Scott Sherman: Ultimate,
+
+230
+00:42:09.380 --> 00:42:23.229
+Scott Sherman: impact wasn't that big. And I think that we're still experimenting with this. There's… I guess combining, essentially, the intervention from the two studies hopefully will be better than either one alone.
+
+231
+00:42:25.570 --> 00:42:43.029
+Scott Sherman: It is interesting. This is the first study I'm aware of that has shown with… that is shown within a health system a way to get more people into text messaging. We've had lots of text messaging studies looking at the efficacy or effectiveness of text messaging.
+
+232
+00:42:43.030 --> 00:42:47.890
+Scott Sherman: But I'm not aware of any studies that look at how do you actually get people to refer people to it.
+
+233
+00:42:47.910 --> 00:42:50.229
+Scott Sherman: So, that part was valuable.
+
+234
+00:42:53.100 --> 00:43:08.750
+Kerri-Anne Mullen: Great. And maybe my last question, we'll let others, go for it, is, any more information from this study on whether, from the provider side of things, and I will say, actually maybe two things. A nice number of clusters.
+
+235
+00:43:08.800 --> 00:43:24.350
+Kerri-Anne Mullen: Of course, it being a single site, how did you prevent contamination? Maybe you could comment there if people were, moving from unit to unit, or did any of that happen? But… but was it perceived as simple and easy, and then,
+
+236
+00:43:24.500 --> 00:43:29.099
+Kerri-Anne Mullen: Also, do you have any information, or do you have any plans to look at the cost effectiveness?
+
+237
+00:43:30.280 --> 00:43:33.900
+Scott Sherman: So… Great questions.
+
+238
+00:43:34.040 --> 00:43:42.760
+Scott Sherman: contamination did occur, you know, the rate is low, we measured it. For the primary analyses, we excluded people who switched teams.
+
+239
+00:43:42.760 --> 00:44:05.009
+Scott Sherman: We can also do it by more of an intention-to-treat approach, but it was something in the order of 1% or 2% switch, so it's not going to make a difference. It's certainly not going to turn the lack of effect on abstinence into an effect, and it's not going to touch the 45, 48% versus 5%.
+
+240
+00:44:05.010 --> 00:44:17.810
+Scott Sherman: So we didn't obsess over that. It was just… it was a small amount, but we… and we checked. Perceptions among the nurses, you know, we looked at our post-visit… we had post-visit surveys of… oh, sorry.
+
+241
+00:44:17.830 --> 00:44:33.950
+Scott Sherman: We had baseline surveys of nurses and baseline… and follow-up surveys at the end of the intervention, and their attitudes were pretty similar. That's not in the… I didn't present that. That'll end up being, I think, a separate paper. But again, they were… they were okay with it.
+
+242
+00:44:35.300 --> 00:44:48.879
+Scott Sherman: For the subsequent study, the question will be how we get rid of the paper form, because that's really an anachronism. We sort of, you know, we shouldn't be using paper forms. And your… the other part you asked on blocking, I'm.
+
+243
+00:44:48.880 --> 00:44:51.990
+Kerri-Anne Mullen: Oh, on cost… do you plan on looking at cost effectiveness?
+
+244
+00:44:52.210 --> 00:45:02.890
+Scott Sherman: Yes, we do. It wasn't one of the… we didn't build that into this grant, but we would include that in the multi-site study.
+
+245
+00:45:03.060 --> 00:45:04.799
+Scott Sherman: And it…
+
+246
+00:45:04.800 --> 00:45:29.150
+Scott Sherman: this level of cost is… I mean, you don't have to convince the VA that smoking cessation is important. There's so many national initiatives, this and other studies, so it's really… having data that this works is going to be… would be huge. And they'll want to know about cost, because you want to be wise with spending money, and want to know how this compares to other things.
+
+247
+00:45:29.620 --> 00:45:39.969
+Scott Sherman: But smoking cessation, you know, people have labeled it as the gold standard for cost-effectiveness in general, because it has such a big impact. So thank you for those questions.
+
+248
+00:45:40.790 --> 00:45:46.819
+Kerri-Anne Mullen: Great. Well, congrats on, some great studies, and over to you, Jamie, for other questions.
+
+249
+00:45:46.820 --> 00:46:04.739
+Jamie Hartmann-Boyce: Thank you so much, Carrie. So, Scott, I'm about to ask you three kind of linked questions, which I would say are all related to motivation, but asked by three different people. So, the first one is a comment from Karen Loftus, who says, I technically have an opt-out approach at our FQHC,
+
+250
+00:46:04.740 --> 00:46:12.710
+Jamie Hartmann-Boyce: But at this time, clinicians only refer clients who answer yes, if asked if they want to quit. Do you have any suggestions or thoughts about that?
+
+251
+00:46:16.540 --> 00:46:22.840
+Scott Sherman: So… I might play with the framing a bit, that…
+
+252
+00:46:23.110 --> 00:46:39.120
+Scott Sherman: the, you know, the smoking cessation studies historically have only included people who are… who say they're interested in quitting, but there's really good data from Kim and her colleagues in Kansas and from… and people in Minnesota and others.
+
+253
+00:46:39.120 --> 00:46:51.009
+Scott Sherman: That motivation to quit and interest in quitting is really variable, and somebody may be motivated today and not tomorrow, and often the opposite is true as well.
+
+254
+00:46:51.010 --> 00:46:55.670
+Scott Sherman: So, Steve Fu was PI with me on the second study.
+
+255
+00:46:55.670 --> 00:47:15.179
+Scott Sherman: we've… one of the studies that he and I did together, he went back and published data on how many of the people who quit smoking ultimately were not motivated at the baseline. And it turns out you'd exclude a lot of people, so I'm not sure the question about, are they motivated or interested in quitting is helpful.
+
+256
+00:47:15.180 --> 00:47:21.830
+Scott Sherman: It's really about whether they'll accept the referral, and then I would refer them whether or not they're… they're interested right now.
+
+257
+00:47:23.510 --> 00:47:41.900
+Jamie Hartmann-Boyce: Great, thank you. Next one from Aviva Grasso. How do you think stages of change fit into this opt-out versus opt-in question? She says, we've been promoting the notion of tobacco treatment for people in pre-contemplation. Am I understanding correctly that the opt-out approach goes along with that by providing treatment to everyone who smokes?
+
+258
+00:47:42.910 --> 00:47:57.930
+Scott Sherman: So, I was on the panel that just… that spent a year writing, and then just released a few months ago the VA Department of Defense National Clinical Practice Guidelines for Smoking Cessation, and we talked about that a bunch.
+
+259
+00:47:57.930 --> 00:48:21.040
+Scott Sherman: We didn't directly tie it to stages of change, because then I get into… people end up arguing endlessly about whether this is the best theory out there. When I teach doctors, it's easy to talk to them about stages of change, because it makes sense clinically, you know, is a person interested in quitting or not, despite what I just said before. It's an easy way for doctors to think about what to do with the person sitting in front of them.
+
+260
+00:48:21.390 --> 00:48:28.479
+Scott Sherman: But there are guidelines, you know, we moved away from strictly going by stages, and so if somebody
+
+261
+00:48:28.520 --> 00:48:46.510
+Scott Sherman: it's like, what are you going to do for the person in front of you? If they're not willing to make a quit attempt at this time, you know, and our guidelines would recommend, you know, trying nicotine sampling or something like that. And so I think this goes more with that. Referring them, even if they're in the… not interested in quitting at the time.
+
+262
+00:48:46.670 --> 00:49:00.470
+Scott Sherman: They may be interested… maybe… maybe trying text messaging, trying nicotine replacement, may be sufficient to help get them, to move from not being interested to being interested to quitting.
+
+263
+00:49:01.320 --> 00:49:16.669
+Jamie Hartmann-Boyce: Great. And two linked questions from Mike Cummings. Some have argued opt-out is less cost-effective, because most of the patients identified and referred to care were not interested or ready to quit. Should smoking cessation be the only outcome that matters?
+
+264
+00:49:19.090 --> 00:49:19.890
+Scott Sherman: Nope.
+
+265
+00:49:19.980 --> 00:49:23.019
+Scott Sherman: in general, you know, that I've had
+
+266
+00:49:23.080 --> 00:49:45.070
+Scott Sherman: many conversations with people about, you know, what's an important outcome for smoking cessation. In general, I have always believed that quit attempts is, in a health system, what I look for, because if you get more quit attempts, you ultimately will get more cessation. We didn't report on quit attempts in this one because of the way we structured the study.
+
+267
+00:49:46.250 --> 00:49:58.440
+Scott Sherman: I think Mike's question is a great one. I know Mike and his colleagues in South Carolina have published a bunch of papers on using opt-out within the cancer center there and other things.
+
+268
+00:50:01.290 --> 00:50:11.839
+Scott Sherman: I'm not sure… in terms of cost-effectiveness, I'd be curious about that. We had that from a previous study, a telephone care coordination one, where it was proactive versus reactive referral.
+
+269
+00:50:11.840 --> 00:50:23.070
+Scott Sherman: And one of my co-investigators said, you know, maybe the reactive will actually be more cost-effective, or maybe it'll be better because people will be more motivated. But it turned out at the population level that
+
+270
+00:50:23.070 --> 00:50:32.049
+Scott Sherman: Proactive referral just dwarfed it so much that it really sort of wiped out the… perhaps more motivation.
+
+271
+00:50:32.300 --> 00:50:49.239
+Scott Sherman: I think here that the cost-effectiveness is… well, if we can get… if we can actually show an effect on abstinence, I'm guessing that an opt-out approach will be more cost-effective. Text messaging scales really well and is cheap on a per-person basis.
+
+272
+00:50:49.650 --> 00:51:06.290
+Scott Sherman: we have pretty high rates of prescribing medications. In the VA, it's up now to 30% of people every year get a smoking cessation… 30% of people who are smoking, get a smoke medication prescription. So…
+
+273
+00:51:06.570 --> 00:51:08.880
+Scott Sherman: I'm hopeful that it'll be cost-effective.
+
+274
+00:51:09.040 --> 00:51:11.200
+Scott Sherman: But you gotta have the affected part first.
+
+275
+00:51:11.900 --> 00:51:25.729
+Jamie Hartmann-Boyce: Yeah, I've always been kind of told, obviously, it depends on the intervention, but if it's not some super, super expensive one, if it's effective for smoking cessation, it's going to be cost-effective, simply because of the huge costs associated with smoking and the savings from quitting.
+
+276
+00:51:26.250 --> 00:51:36.000
+Scott Sherman: Yeah, weather ended up… you know, in our studies, we tend to look at what's the cost to produce one person… one person who quit at 6 months or at 12 months.
+
+277
+00:51:36.000 --> 00:51:47.250
+Scott Sherman: And whether that ends up being $200, or $500, or $1,000, I don't think I would have any trouble convincing the VA that this is a worthwhile approach.
+
+278
+00:51:47.480 --> 00:52:06.769
+Jamie Hartmann-Boyce: Totally. Thank you. Okay, so switching gears a little bit from Sophia Young, she says, TRICARE for life patients may face legal or coverage-related limitations in accessing tobacco cessation services and medications. What alternative pathways or solutions are available to help them receive support?
+
+279
+00:52:08.780 --> 00:52:10.750
+Scott Sherman: It's a tough one, it's about to be honest.
+
+280
+00:52:13.470 --> 00:52:25.189
+Scott Sherman: In terms of this, if we went with the Quitline part, every state has a Quitline or had a quit line, which is free and available.
+
+281
+00:52:25.350 --> 00:52:42.120
+Scott Sherman: Same thing with text messaging, although if this does work, I would… I think we'd want to work with NCI and the VA quit line to… to incorporate parts that don't require you to set a quit date right away, because it…
+
+282
+00:52:42.120 --> 00:52:46.170
+Scott Sherman: And based on the literature, I don't think that would be a…
+
+283
+00:52:46.170 --> 00:52:51.519
+Scott Sherman: necessary step. And those are both… so both those options are free.
+
+284
+00:52:51.550 --> 00:53:04.020
+Scott Sherman: whether doing them within a health system always has costs. Medications are usually the big barrier, and this came up as well with the VA Department of Defense practice guidelines.
+
+285
+00:53:04.020 --> 00:53:12.309
+Scott Sherman: Because the rules in the Department of Defense are quite different than the VA as a healthcare system, and the medications and costs came up.
+
+286
+00:53:12.370 --> 00:53:18.489
+Scott Sherman: Again, I come back to the Quitline, where many of the quit lines will provide at least a few weeks of free medications.
+
+287
+00:53:19.350 --> 00:53:33.580
+Scott Sherman: I've tried over the years, convincing people… talking with people about the cost of medications versus the cost of cigarettes, and I've never gotten anywhere with that, unfortunately. Nobody seems to care. It's, you know, they're… they're laying out
+
+288
+00:53:33.590 --> 00:53:40.809
+Scott Sherman: in New York City, $13 for a pack of cigarettes now, versus more than that for medicines, and I think it's…
+
+289
+00:53:40.910 --> 00:53:47.740
+Scott Sherman: Also, buying something that they find pleasurable right now, versus taking something that they often feel scolded to do.
+
+290
+00:53:48.850 --> 00:54:04.300
+Jamie Hartmann-Boyce: Totally makes sense. On that prescribing, Ben, from Zachary Rich, how much of the prescribing of NRT can be transferred to tobacco treatment specialists, and what do you see as the role of tobacco treatment specialists in the VA system?
+
+291
+00:54:05.820 --> 00:54:16.180
+Scott Sherman: So, in my mind, 100%, that this is, you know, nicotine replacements over the counter, the contraindications are really minimal.
+
+292
+00:54:16.190 --> 00:54:34.179
+Scott Sherman: That, one of the studies that we did in the VA back in the 90s, the transcep study, which Ann Joseph led, is the one that led to the nicotine patches going over the counter, because in cardiac patients, there really were little or no effect, adverse effect.
+
+293
+00:54:35.870 --> 00:54:50.519
+Scott Sherman: I'm all about… I'm a primary care provider, and I think this is really important, but, you know, many of our studies look at sort of offloading the primary care provider. The telephone care coordination one did exactly that, where the doctor could just click a couple buttons.
+
+294
+00:54:50.520 --> 00:54:59.280
+Scott Sherman: It would shoot a referral to a tobacco treatment specialist, basically on our team, who would do meds, counseling, and follow-up.
+
+295
+00:54:59.460 --> 00:55:02.530
+Scott Sherman: And so… I…
+
+296
+00:55:02.660 --> 00:55:25.090
+Scott Sherman: the VA has many tobacco treatment specialists, and you know, every… the adage in the VAs, if you've seen one VA, you've seen one VA, because there's these top-down mandates, and facilities have a fair amount of latitude of how they structure most things. So, I think that was usually the message for me when I'm doing multi-site VA studies, or any kind of studies, is
+
+297
+00:55:25.090 --> 00:55:29.890
+Scott Sherman: You start off by understanding the resources available and deciding
+
+298
+00:55:29.900 --> 00:55:36.560
+Scott Sherman: What are the core intervention components, and then who's going to be delivering those core intervention components?
+
+299
+00:55:36.580 --> 00:55:50.319
+Scott Sherman: I made the mistake early on of letting people change those core intervention components, and you ended up with ineffective interventions. So, at this point, it's like, this part's fixed, but let's figure out who's going to be doing what part, because that…
+
+300
+00:55:50.590 --> 00:55:54.219
+Scott Sherman: makes it easier to implement at Site A or Site B.
+
+301
+00:55:55.350 --> 00:56:08.450
+Jamie Hartmann-Boyce: Absolutely. Okay, thank you. How can VA use text messaging to support tobacco users with limited English proficiency? Are there any cultural concerns or considerations there?
+
+302
+00:56:10.640 --> 00:56:30.040
+Scott Sherman: Again, you know, it's… the VA is people who were in the U.S. military, so rates of limited English proficiency are lower than when I worked, for instance, at the city hospital in New York, but they're not zero. And so, for this intervention, we were delivering text messages in English or Spanish.
+
+303
+00:56:30.040 --> 00:56:32.549
+Scott Sherman: And the state Quitline does the same.
+
+304
+00:56:32.600 --> 00:56:49.520
+Scott Sherman: For… if I start branching further than that, you know, for quitlines, if the… if people call the New York State Quitline and speak, for instance, Chinese, I believe they get transferred to the Asian Smokers Helpline out of California.
+
+305
+00:56:49.740 --> 00:56:50.870
+Scott Sherman: And…
+
+306
+00:56:51.370 --> 00:56:59.520
+Scott Sherman: that it's really all about capacity, and my system, English and Spanish, got me 99 plus percent of people.
+
+307
+00:57:00.170 --> 00:57:00.760
+Jamie Hartmann-Boyce: Awesome.
+
+308
+00:57:01.000 --> 00:57:12.849
+Scott Sherman: When we did a previous inpatient study at Bellevue and the VA, that one we did in English, Spanish, and Cantonese, and Chinese, because that, again, got us 99 plus percent of people.
+
+309
+00:57:13.380 --> 00:57:14.230
+Scott Sherman: So…
+
+310
+00:57:14.650 --> 00:57:38.340
+Jamie Hartmann-Boyce: Okay, well, I think I'm gonna start closing us out there, so we end on time. If I didn't get to your questions, I'm so sorry, but they will be shared with Scott afterwards, and thank you all for asking so many wonderful questions that we couldn't get through them all. A reminder to stay on for Top of the Tops, if you'd like to speak to Scott further, that is a separate link, which is in the chat right now, and I'll hand over to our MC to close us out.
+
+311
+00:57:38.340 --> 00:57:41.499
+Jamie Hartmann-Boyce: Scott, once again, thanks so much, and thank you to Karen as well.
+
+312
+00:57:43.930 --> 00:58:00.619
+David Ogunjemilua: Thank you, everyone. Thank you, our speaker, Scott. We're out of time. However, if you still have some questions or thoughts for Scott, you can join us for the thoughts of this talk. So, to join us, please copy the Zoom in the chat and switch rooms.
+
+313
+00:58:00.730 --> 00:58:01.870
+David Ogunjemilua: with us.
+
+314
+00:58:02.050 --> 00:58:08.959
+David Ogunjemilua: Once the event concludes, we will leave the webinar for extra minute after the end to give everyone a chance to copy
+
+315
+00:58:09.140 --> 00:58:14.750
+David Ogunjemilua: the, the link. Thank you, our presenter, our moderator, and discussant.
+
+316
+00:58:14.880 --> 00:58:21.790
+David Ogunjemilua: Thank you to the audience of One Texan people for your participation. Have a top-notch weekend.
+
