@@ -1,0 +1,1578 @@
+WEBVTT
+
+1
+00:00:03.720 --> 00:00:16.610
+Danyi Li: Welcome to the Tobacco Online Policy Seminar, TOPS. Thank you for joining us today. I'm Danny Lee, a PhD candidate in Health Behavior Research at CAICS School of Medicine, University of Southern California.
+
+2
+00:00:17.000 --> 00:00:32.149
+Danyi Li: TOPS is organized by Mike Pascoe at the University of Missouri, Sun Shan at the Ohio State University, Michael Darden at Johns Hopkins University, James Hardman-Boyce at the University of Massachusetts Amherst.
+
+3
+00:00:32.479 --> 00:00:36.550
+Danyi Li: and Justin White at Boston University.
+
+4
+00:00:36.950 --> 00:00:41.520
+Danyi Li: The seminar will be one hour with questions from the moderators and the discussant.
+
+5
+00:00:41.630 --> 00:00:51.129
+Danyi Li: The audience may post questions and comments in the Q&A panel, and the moderator will draw from these questions and comments in conversation with the presenter.
+
+6
+00:00:51.420 --> 00:00:58.190
+Danyi Li: Please review the guidelines on tobaccopolicy.org for acceptable questions.
+
+7
+00:00:58.600 --> 00:01:03.290
+Danyi Li: Please keep the questions professional and related to the research being discussed.
+
+8
+00:01:03.730 --> 00:01:11.510
+Danyi Li: Questions that meet the seminar series guidelines will be shared with the presenter afterwards, even if they were not read aloud.
+
+9
+00:01:11.990 --> 00:01:14.560
+Danyi Li: Your questions are very much appreciated.
+
+10
+00:01:15.050 --> 00:01:24.809
+Danyi Li: This presentation is being video recorded and will be made available along with presentation slides on the TOPS website, tobaccopolicy.org.
+
+11
+00:01:25.530 --> 00:01:33.259
+Danyi Li: I will turn the presentation over to today's moderator, Michael Darden at Johns Hopkins University, to introduce our speaker.
+
+12
+00:01:35.290 --> 00:01:52.240
+Michael Darden: Thank you. So today we're going to continue our summer 2026 season with a single paper presentation by Andreas Stoller entitled Impact of Tobacco Advertising Restrictions in A Quasi-Experimental Study on the Effect of Billboard Bans on Smoking.
+
+13
+00:01:52.240 --> 00:01:57.639
+Michael Darden: The presentation was selected via a competitive review process by submission through the TOPS website.
+
+14
+00:01:57.860 --> 00:02:14.760
+Michael Darden: Andreas Schoeller's research assesses the effectiveness of prevention policies such as tobacco taxes, tobacco billboard bans, and regulations on e-cigarettes and heated tobacco products. He's an applied microeconomist using state-of-the-art econometric methods for policy evaluation with an emphasis
+
+15
+00:02:14.760 --> 00:02:28.530
+Michael Darden: on causal inference and causal machine learning. He previously worked on social security and labor market interventions at the Swiss Federal Statistical Office and the University of Basel. So, Andreas, thank you for presenting us for today.
+
+16
+00:02:31.820 --> 00:02:38.509
+Andreas Stoller: Hello, thanks a lot for the nice introduction. I will share my screen.
+
+17
+00:02:38.910 --> 00:02:39.930
+Andreas Stoller: Up.
+
+18
+00:02:44.520 --> 00:02:52.189
+Andreas Stoller: Now you should be all able to see the screen. Please tell me if not, I cannot see you anymore. So…
+
+19
+00:02:54.470 --> 00:02:54.950
+Michael Darden: Thank you.
+
+20
+00:02:54.950 --> 00:03:02.090
+Andreas Stoller: Thank you all for having me. I really feel honored to present here at the Tobacco Online Policy Seminar.
+
+21
+00:03:02.200 --> 00:03:10.800
+Andreas Stoller: I will proceed to the disclosures slide. So I didn't receive any funding.
+
+22
+00:03:10.920 --> 00:03:14.950
+Andreas Stoller: From tobacco, or pharmaceutical companies.
+
+23
+00:03:16.100 --> 00:03:34.070
+Andreas Stoller: What I received for funding for this work, and which is also the only funding I received over the past 10 years, is funding from the Swiss Tobacco Prevention Fund, where I analyzed tobacco prevention policies in Switzerland and Europe.
+
+24
+00:03:36.600 --> 00:03:55.560
+Andreas Stoller: I think with this audience, I don't have to say it, but tobacco remains a leading preventable risk factor. Despite the declining smoking rates, we have about 8 million deaths worldwide attributed to tobacco.
+
+25
+00:03:55.950 --> 00:04:10.689
+Andreas Stoller: Europe has still the second highest smoking rate, worldwide, with about, 800,000 deaths. So, also in this region, this remains a very important policy question.
+
+26
+00:04:10.950 --> 00:04:17.129
+Andreas Stoller: So, this to say, smoking remains a major public health challenge.
+
+27
+00:04:17.829 --> 00:04:33.870
+Andreas Stoller: Of course, tobacco prevention policy is a big topic in health economics. Many papers focus on analyzing tobacco taxation, also the smoking bans in public areas, sales bans for minors.
+
+28
+00:04:33.870 --> 00:04:41.260
+Andreas Stoller: and advertising bans. Then there are a few interventions or prevention.
+
+29
+00:04:41.600 --> 00:04:56.459
+Andreas Stoller: techniques that are maybe a bit less studied, the information campaigns or school programs, quitlines. Maybe they lack a bit in economic aspects, so they are a bit less represented in the health economics literature.
+
+30
+00:04:56.600 --> 00:05:10.159
+Andreas Stoller: Interestingly, the causal studies, so the studies exploiting a quasi-experimental design, mainly focus on taxation and smoking bans. Maybe there are a few on sales bans, but
+
+31
+00:05:10.170 --> 00:05:23.700
+Andreas Stoller: Then, the causal evidence for advertising restrictions sadly remains limited, especially for, tobacco advertising. I am aware of a few, good, quasi-experimental studies
+
+32
+00:05:23.750 --> 00:05:42.480
+Andreas Stoller: On e-cigarette advertising or e-cigarette advertising bans, however, for tobacco advertising, I'm not aware of such studies and except for mine, of course, which fills that gap. If anyone knows about such studies, please tell me about it.
+
+33
+00:05:43.630 --> 00:06:01.540
+Andreas Stoller: I further want to motivate with this paper by thinking about why a company would even want to advertise their brand. There is one main argument that is typically put forward by the industry, namely they just advertise to increase their own market share.
+
+34
+00:06:01.740 --> 00:06:07.539
+Andreas Stoller: Attracting smokers who already smoke to just smoke their brand instead of another.
+
+35
+00:06:07.690 --> 00:06:18.650
+Andreas Stoller: While the total demand for cigarettes or tobacco products remains the same. So the argument is that consumers would just shift from one brand to the other.
+
+36
+00:06:18.890 --> 00:06:24.540
+Andreas Stoller: However, there is also this market expansion idea that
+
+37
+00:06:24.990 --> 00:06:43.039
+Andreas Stoller: advertising actually persuades people and initiates non-smokers to smoke, or increases the consumption among smokers. And it's mainly this second point that I'm interested in. Can one show that advertising increases consumption?
+
+38
+00:06:43.190 --> 00:06:50.670
+Andreas Stoller: Or the other way around here, like, do advertising bans reduce consumption, and
+
+39
+00:06:50.790 --> 00:06:56.779
+Andreas Stoller: Thus would justify regulating tobacco advertising for public health reasons.
+
+40
+00:06:56.910 --> 00:07:08.999
+Andreas Stoller: This is not like an industrial organization paper, it's really about showing the effect of this policy, and to see if such regulation is warranted or not.
+
+41
+00:07:10.270 --> 00:07:25.390
+Andreas Stoller: So, the main contribution of this paper is that I estimate the effect of cantonal billboard bans, like cantons are sub-regions of Switzerland, as you will see in a moment, and their effect on smoking.
+
+42
+00:07:26.400 --> 00:07:43.559
+Andreas Stoller: I provide causal evidence using individual-level data, and the findings will support the market expansion hypothesis. So, actually showing advertising restrictions can be an important part of a comprehensive tobacco prevention framework.
+
+43
+00:07:46.030 --> 00:07:54.100
+Andreas Stoller: Before I proceed to the data, I want to give you a quick overview on the system that we are
+
+44
+00:07:54.780 --> 00:07:56.490
+Andreas Stoller: analyzing here.
+
+45
+00:07:56.580 --> 00:08:00.490
+Andreas Stoller: It's about Switzerland and but yeah.
+
+46
+00:08:00.510 --> 00:08:16.209
+Andreas Stoller: policies enacted by sub-regions of Switzerland. So, we have three main levels of government. Namely, we have the Copenhagen Federation, which is the national level. Then we have 26 sub-regions, which are called the cantons.
+
+47
+00:08:16.210 --> 00:08:23.270
+Andreas Stoller: And then we have many municipalities at the lowest administrative level or the villages.
+
+48
+00:08:24.110 --> 00:08:28.950
+Andreas Stoller: Tobacco prevention policies can be enacted at all these different levels.
+
+49
+00:08:29.100 --> 00:08:39.339
+Andreas Stoller: But it's mainly at the national level, or then this cantonal level, which also then allows us to, use variation in…
+
+50
+00:08:39.700 --> 00:08:46.020
+Andreas Stoller: tobacco prevention policy across these cantons, which I will effectively do.
+
+51
+00:08:48.000 --> 00:08:55.759
+Andreas Stoller: The tobacco politics, are such that at the national level, we have the tobacco taxes. There is no
+
+52
+00:08:56.000 --> 00:08:58.280
+Andreas Stoller: tobacco tax at the lower level.
+
+53
+00:08:59.120 --> 00:09:03.429
+Andreas Stoller: We have health warnings and the cigarette packages at the national level.
+
+54
+00:09:03.700 --> 00:09:10.389
+Andreas Stoller: also TV and radio advertising bands, and a few other, like… basic regulations.
+
+55
+00:09:11.050 --> 00:09:16.680
+Andreas Stoller: Then at the… Middle level, at the cantonal level, we have
+
+56
+00:09:16.820 --> 00:09:30.550
+Andreas Stoller: billboard bans, so some form of partial advertising restriction, sales bans for minors, and smoking bans, which were mostly enacted at this cantonal level. And typically, it's like.
+
+57
+00:09:30.580 --> 00:09:45.230
+Andreas Stoller: some cantons first introducing it, then others learning from them, introducing very similar policies at a later point in time, and eventually, after many years, it might become a national level. So, there is some
+
+58
+00:09:45.450 --> 00:09:51.560
+Andreas Stoller: A national policy, so there is some sort of learning, going on.
+
+59
+00:09:51.970 --> 00:10:08.059
+Andreas Stoller: And then, of course, we have just interventions that are happening, like information campaigns and other, like, temporarily constrained interventions by either governmental or non-governmental actors.
+
+60
+00:10:08.670 --> 00:10:25.149
+Andreas Stoller: So just to give you a bit an idea about all the different tobacco prevention policy that can happen in Switzerland. Here we have a map of Switzerland and the introduction of these billboard bands graphically represented.
+
+61
+00:10:25.920 --> 00:10:29.609
+Andreas Stoller: About the billboard ban, I want to say that
+
+62
+00:10:29.930 --> 00:10:39.050
+Andreas Stoller: It concerns only billboards that are in public spaces, or that are on private ground, but visible from public spaces.
+
+63
+00:10:39.160 --> 00:10:45.030
+Andreas Stoller: So, typically what you would see at the side of a street or a highway.
+
+64
+00:10:45.190 --> 00:10:49.960
+Andreas Stoller: So something that you can quite frequently encounter.
+
+65
+00:10:51.520 --> 00:11:07.079
+Andreas Stoller: The very first canton introducing this type of ban was the canton of Basel, a very small Swiss-German canton in 1997. The canton of Geneva introduced it in the year 2000.
+
+66
+00:11:07.080 --> 00:11:14.109
+Andreas Stoller: Now, these were a bit the very first ones that introduced this type of ban, and then, over the years, until…
+
+67
+00:11:14.140 --> 00:11:17.890
+Andreas Stoller: Like, mostly between 2005 and 2010,
+
+68
+00:11:18.060 --> 00:11:21.429
+Andreas Stoller: Many of the other cantons followed them.
+
+69
+00:11:21.790 --> 00:11:35.069
+Andreas Stoller: So, what we have here is really a perfect quasi-experimental design. We have some parts of the population exposed to this type of billboard ban, and another part that isn't exposed to this billboard ban.
+
+70
+00:11:35.500 --> 00:11:48.029
+Andreas Stoller: And an important thing to remember here, we don't have much social media yet, and billboards were actually the main advertising channel at that time. So, by,
+
+71
+00:11:48.410 --> 00:11:57.179
+Andreas Stoller: By about 10 times, it was more than all the other media channels that were around at that time.
+
+72
+00:11:57.370 --> 00:11:59.680
+Andreas Stoller: Due to these bands, then the…
+
+73
+00:12:00.430 --> 00:12:05.959
+Andreas Stoller: Advertisement expenditures reduced heavily for tobacco billboards.
+
+74
+00:12:06.070 --> 00:12:14.179
+Andreas Stoller: And interestingly, there was no substitution towards other channels, or almost no. For newspapers, the…
+
+75
+00:12:14.510 --> 00:12:33.249
+Andreas Stoller: advertising expenditures of the industry maybe doubled or tripled, but because the level of newspaper or print media was so low, it hardly substitutes any of the expenditures that were made for tobacco billboards.
+
+76
+00:12:36.760 --> 00:12:44.589
+Andreas Stoller: So, so much about the policy, now more about the data that I will exploit in this analysis.
+
+77
+00:12:44.710 --> 00:12:53.440
+Andreas Stoller: I use the Swiss Health Survey data that is given by the Federal Statistical Office. This is a
+
+78
+00:12:53.640 --> 00:12:59.410
+Andreas Stoller: These are cross-sectional waves that are given every 5 years.
+
+79
+00:12:59.710 --> 00:13:09.850
+Andreas Stoller: The interesting part about these cross-sectional waves is that we know of each individual that was surveyed when they started and stopped smoking, so…
+
+80
+00:13:09.850 --> 00:13:21.520
+Andreas Stoller: This allows to reconstruct the annual smoking status of all these individuals. So we actually have the smoking history of all these individuals.
+
+81
+00:13:23.740 --> 00:13:37.260
+Andreas Stoller: With this reconstruction of the annual smoking rate, we sadly use some information, namely the time variant information cannot be retained.
+
+82
+00:13:37.260 --> 00:13:49.039
+Andreas Stoller: So we can just track the outcome, namely the smoking status of these individuals, if they smoke or not, their gender, and their age. I mean, the age we can just
+
+83
+00:13:49.200 --> 00:13:51.000
+Andreas Stoller: calculate.
+
+84
+00:13:51.820 --> 00:13:59.540
+Andreas Stoller: So, with this, we end up with about 1 million observations between the years 93 and 2017.
+
+85
+00:14:01.030 --> 00:14:14.219
+Andreas Stoller: Just to make the reconstructed panel more credible, here I plot once the smoking rate using the original data where we just have data every five years.
+
+86
+00:14:14.220 --> 00:14:22.789
+Andreas Stoller: and once using the reconstructed panel. And what you see is that the smoking rate is always… is about the same in both.
+
+87
+00:14:24.060 --> 00:14:33.840
+Andreas Stoller: in both datasets. So, structurally, there doesn't seem to be a big change due to this manipulation. So, the…
+
+88
+00:14:34.100 --> 00:14:48.399
+Andreas Stoller: One might… may call it recall bias, isn't that… doesn't seem to impact much, the… the smoking rate on average. Like, the… the fact that people might not remember that well when they exactly stopped smoking.
+
+89
+00:14:49.470 --> 00:14:50.990
+Andreas Stoller: Or started smoking.
+
+90
+00:14:51.610 --> 00:14:59.760
+Andreas Stoller: So, yeah, I think at this point, we will now go to the discussion, so…
+
+91
+00:14:59.760 --> 00:15:16.370
+Michael Darden: Thank you, Andres. That's great. So our discussion today is going to be Christian Saenz, a postdoctoral associate from Yale University School of Public Health. His research examines substance use, health behaviors, and mortality. So Christian, hello.
+
+92
+00:15:18.550 --> 00:15:26.760
+Christian Saenz: Okay, well, thank you very much. Having read this paper, I thought it was well written. The analysis was.
+
+93
+00:15:26.910 --> 00:15:37.110
+Christian Saenz: thorough and appropriate, and, the research question is obviously an interesting one. And as Andreas notes in his paper.
+
+94
+00:15:37.240 --> 00:15:40.759
+Christian Saenz: A lot of the prior evidence may not,
+
+95
+00:15:41.080 --> 00:15:44.209
+Christian Saenz: be the highest quality in terms of
+
+96
+00:15:44.330 --> 00:15:51.290
+Christian Saenz: a causal interpretation of of how these billboard bands may impact
+
+97
+00:15:51.390 --> 00:16:07.459
+Christian Saenz: smoking behaviors, and so I do think that this paper is a unique contribution. I do have a couple of minor points, and this might be putting the cart before the horse.
+
+98
+00:16:07.560 --> 00:16:14.090
+Christian Saenz: But, as it relates to your estimation strategy, so, in…
+
+99
+00:16:14.270 --> 00:16:23.559
+Christian Saenz: this country, you've mentioned canons or provinces, and I believe there's only 25 or 26.
+
+100
+00:16:23.680 --> 00:16:27.320
+Christian Saenz: And so that could potentially be.
+
+101
+00:16:27.460 --> 00:16:44.390
+Christian Saenz: a small cluster problem if we don't have enough geographic clusters, and that might impact our statistical inference. And so, could you perhaps preview if that is a concern or not, and how you
+
+102
+00:16:44.390 --> 00:16:53.170
+Christian Saenz: Address the, 26… provinces in your empirical strategy.
+
+103
+00:16:56.900 --> 00:17:00.970
+Andreas Stoller: Should I respond, like, directly, or do you want to ask all the…
+
+104
+00:17:01.560 --> 00:17:04.560
+Michael Darden: Yeah, you can go one for one. So go ahead. Yes, sure.
+
+105
+00:17:04.730 --> 00:17:22.520
+Andreas Stoller: Yeah, thank you for raising this question, and I, actually, I do not cluster the standard errors at the cantonal level, which might be not that intuitive, because typically in the textbooks, one is advised to cluster at the level of treatment, and
+
+106
+00:17:22.520 --> 00:17:28.889
+Andreas Stoller: The level of treatment is the cantons, or, yeah, the provinces, as you say, and there are only 26 of them.
+
+107
+00:17:30.700 --> 00:17:35.870
+Andreas Stoller: Here, I decided to cluster at the individual level, because, I mean.
+
+108
+00:17:36.380 --> 00:17:48.460
+Andreas Stoller: from my understanding, clustering isn't about confounding. It's more about the observations, not being independent. And when I think about
+
+109
+00:17:48.690 --> 00:18:00.320
+Andreas Stoller: the level of clustering were about independence and not about treatment administration and assignment and confounding, then I would argue that
+
+110
+00:18:00.900 --> 00:18:17.759
+Andreas Stoller: Like as we have here a panel, the past smoking of the individual or like just the smoking status of the individual is the most like dependent, dependent part of this whole regression.
+
+111
+00:18:18.270 --> 00:18:30.940
+Andreas Stoller: And that's why, I mean, I cluster at the individual level, and I have about 90,000 individuals where there is no problem with small clusters.
+
+112
+00:18:31.080 --> 00:18:31.859
+Andreas Stoller: You know.
+
+113
+00:18:32.080 --> 00:18:36.090
+Andreas Stoller: But I know it's not that, yeah… Not that,
+
+114
+00:18:36.410 --> 00:18:41.359
+Andreas Stoller: Popular, but it's just another way of arguing for it.
+
+115
+00:18:42.940 --> 00:18:51.060
+Christian Saenz: Yeah, that's a fair point. I do think a worthwhile robustness check could be done.
+
+116
+00:18:51.200 --> 00:18:58.239
+Christian Saenz: an alternative type of clustering of standard errors at the Canton level.
+
+117
+00:18:58.580 --> 00:19:14.139
+Christian Saenz: and perhaps using like a wild cluster bootstrap or something, and just showing that your the statistical significance and your inference is unaffected. I think that would be
+
+118
+00:19:14.230 --> 00:19:27.750
+Christian Saenz: a worthwhile and relatively simple robustness check that could maybe make my comment moot.
+
+119
+00:19:27.750 --> 00:19:28.709
+Andreas Stoller: Yeah, I agree.
+
+120
+00:19:29.310 --> 00:19:38.620
+Christian Saenz: I guess one other question, and again, you can defer this until after you discuss your estimation strategy.
+
+121
+00:19:38.720 --> 00:19:43.890
+Christian Saenz: So the data we're using, you construct,
+
+122
+00:19:44.160 --> 00:19:48.020
+Christian Saenz: A panel essentially of smoking rates over time.
+
+123
+00:19:48.170 --> 00:19:57.510
+Christian Saenz: But this is a cross-sectional data, right? And so it.
+
+124
+00:19:57.790 --> 00:20:01.729
+Christian Saenz: How do we think about, is the data representative?
+
+125
+00:20:02.020 --> 00:20:21.380
+Christian Saenz: Does it have survey weights where we can weight our analysis in order to make the individuals that we're studying representative of the overall national population or the Canton specific population?
+
+126
+00:20:21.560 --> 00:20:27.429
+Christian Saenz: I assume that currently you don't use survey weights, or perhaps you do, but if you could
+
+127
+00:20:27.660 --> 00:20:37.550
+Christian Saenz: clarify what you think the right approach is for that. And that was my only other comment for the moment.
+
+128
+00:20:38.500 --> 00:20:55.499
+Andreas Stoller: Many thanks for raising the question, and I present often in front of, like, economics and health science publics, and this seems to be really a health science question. They often apply the weights, while in economics it seems to be a bit
+
+129
+00:20:55.520 --> 00:21:12.579
+Andreas Stoller: something that we do less, or maybe I'm not aware of it. As… I mean, here the main point is that I care about internal validity, showing an effect in the sample, but I see the interest of applying weights. I haven't done that yet, and
+
+130
+00:21:12.780 --> 00:21:18.149
+Andreas Stoller: It could be, yeah, maybe it's not even a robustness check, but…
+
+131
+00:21:18.360 --> 00:21:23.100
+Andreas Stoller: Yeah, it could be an interesting addition to see how…
+
+132
+00:21:23.280 --> 00:21:39.339
+Andreas Stoller: if the effect would have actually be present at the country level of Switzerland. And there are survey weights, but of course they relate to the cross section, so maybe…
+
+133
+00:21:39.550 --> 00:21:43.259
+Andreas Stoller: I would have to calculate rates myself, too.
+
+134
+00:21:43.820 --> 00:21:49.760
+Andreas Stoller: Make the results representative, at least by age and gender.
+
+135
+00:21:50.260 --> 00:21:58.129
+Andreas Stoller: So yeah, it's certainly a very valid addition, yeah, for having more external validity.
+
+136
+00:21:59.540 --> 00:22:09.380
+Michael Darden: One quick question from the chat. Can you? And maybe you'll get to this. But do you know anything about like the market for billboards themselves? So the.
+
+137
+00:22:09.380 --> 00:22:11.439
+Andreas Stoller: That's our big one.
+
+138
+00:22:11.440 --> 00:22:21.279
+Michael Darden: Yeah, so the band comes in, these bands come in and change that that market in some interesting ways, potentially. Can you speak to that at all?
+
+139
+00:22:21.390 --> 00:22:33.579
+Andreas Stoller: Yes, what I know about it is that it's a quite intransparent market, like, it's… at least for me, it's difficult to find information, I mean, about the industry.
+
+140
+00:22:35.140 --> 00:22:45.450
+Andreas Stoller: overall. And with the billboards, there is an association that That gives some.
+
+141
+00:22:47.090 --> 00:22:57.330
+Andreas Stoller: very aggregated, like, general information about the… about billboards in Switzerland. However, I don't have the funds to…
+
+142
+00:22:57.520 --> 00:23:02.880
+Andreas Stoller: ask for this information, because it's quite costly, actually. So…
+
+143
+00:23:03.250 --> 00:23:11.309
+Michael Darden: I guess I guess another way of saying the question, like, you know, the the billboards that are specific to tobacco products go away.
+
+144
+00:23:11.730 --> 00:23:13.820
+Michael Darden: Ryan Miller, What takes their place?
+
+145
+00:23:13.950 --> 00:23:20.720
+Andreas Stoller: Yeah, I mean, I think it's a valid question, and I looked into that, but it's…
+
+146
+00:23:20.830 --> 00:23:27.589
+Andreas Stoller: For me, it's not feasible, it was not feasible to get a hold of this information.
+
+147
+00:23:28.800 --> 00:23:36.939
+Andreas Stoller: One might speculate, but… Yeah, here I don't… like, at the moment, I don't feel… but…
+
+148
+00:23:37.390 --> 00:23:50.400
+Andreas Stoller: what could be concerning. For example, one might think that the alcoholic beverages would be advertised instead, like I thought about such
+
+149
+00:23:50.700 --> 00:24:00.340
+Andreas Stoller: potential limitations. And this could drive effects, I mean, this is, like, if I would think about the problematic case, then it would be that
+
+150
+00:24:00.810 --> 00:24:05.179
+Andreas Stoller: However, I… Yeah, sadly, I cannot, like…
+
+151
+00:24:06.510 --> 00:24:11.889
+Andreas Stoller: advocate in favor or against it, because I don't have the information.
+
+152
+00:24:12.650 --> 00:24:20.459
+Michael Darden: Okay, yeah, fair enough. Why don't we move on to the rest of the presentation and we'll hear about the strategy and the results.
+
+153
+00:24:21.560 --> 00:24:22.480
+Andreas Stoller: Sure.
+
+154
+00:24:30.730 --> 00:24:44.130
+Andreas Stoller: Okay, now I should be sharing my screen again, and I can just continue with the estimation part. So, for estimation, I use a difference-in-differences approach.
+
+155
+00:24:44.730 --> 00:24:46.220
+Andreas Stoller: Here we,
+
+156
+00:24:48.770 --> 00:25:04.550
+Andreas Stoller: with an event study design. So this allows me to estimate dynamic effects on the smoking rate up to 5 years after the billboard ban introduction. I will also look at heterogeneous effects by gender and age, and
+
+157
+00:25:04.660 --> 00:25:13.489
+Andreas Stoller: An important part that I haven't mentioned yet, but I will not only control for gender and age, but also for other
+
+158
+00:25:13.720 --> 00:25:22.369
+Andreas Stoller: tobacco prevention policies that happened at the cantonal level. So, there were these sales bans for minors that were introduced.
+
+159
+00:25:22.530 --> 00:25:39.500
+Andreas Stoller: And also, smoking, bans in public spaces that were introduced at similar times. It's not completely overlapping with the billboard bans, but, there is certainly some correlation, present, as…
+
+160
+00:25:39.900 --> 00:25:49.569
+Andreas Stoller: Like between 2000 and 2010, Cantons decided to introduce a few of these tobacco prevention measures.
+
+161
+00:25:50.470 --> 00:25:56.739
+Andreas Stoller: The way I will analyze the data is using a staggered difference-in-differences estimator.
+
+162
+00:25:57.130 --> 00:26:08.929
+Andreas Stoller: this estimator is preferred over the two-way fixed effects estimator because we have a staggered introduction of the treatment. So, some regions
+
+163
+00:26:09.230 --> 00:26:17.490
+Andreas Stoller: apply, introduce the… policy earlier than others, and with two-way fixed effects, we would
+
+164
+00:26:17.810 --> 00:26:32.579
+Andreas Stoller: risk to have negative weights introduced. This is a common problem in economics, so that's why we now use this staggered difference-in-differences estimator, like here, from Callaway and Santana.
+
+165
+00:26:32.700 --> 00:26:45.309
+Andreas Stoller: But there are also others, but this is one of the main estimators one uses for this problem. And, of course, it requires common trends and other, like, standard difference-in-differences.
+
+166
+00:26:45.390 --> 00:26:56.390
+Andreas Stoller: assumptions. And at the end, in the robustness checks, I will talk more about assumptions and how… what are limitations and what I could check.
+
+167
+00:26:58.270 --> 00:27:09.929
+Andreas Stoller: I just very briefly want to look at the event study results based on the staggered difference-in-differences approach, because actually, even though the…
+
+168
+00:27:10.190 --> 00:27:22.180
+Andreas Stoller: The pre-treatment trends look okay. In the event study design, the common trends assumption doesn't hold in this case, so,
+
+169
+00:27:22.600 --> 00:27:27.420
+Andreas Stoller: And this would be required for the validity of this design.
+
+170
+00:27:27.560 --> 00:27:47.369
+Andreas Stoller: But before I talk about this in detail, I will just interpret the results. So what we see is we have an event study design with 6 periods after the treatment. So these are the effects up to 5 years after the treatment.
+
+171
+00:27:47.680 --> 00:27:55.310
+Andreas Stoller: Introduction of these billboards, and… We see here a slight reduction in the…
+
+172
+00:27:56.140 --> 00:28:08.470
+Andreas Stoller: in the smoking rate due to the billboard bans. The strongest reduction is at, at the third, point estimate, namely about 0.9 percentage points.
+
+173
+00:28:08.850 --> 00:28:11.640
+Andreas Stoller: On average, though, like, over the…
+
+174
+00:28:11.750 --> 00:28:18.119
+Andreas Stoller: All the post-treatment periods, the reduction is about 0.4 percentage points.
+
+175
+00:28:20.130 --> 00:28:27.280
+Andreas Stoller: And the point estimates in blue before the introduction of the Billbrook ban are the…
+
+176
+00:28:27.480 --> 00:28:42.069
+Andreas Stoller: pre-treatment trends, so they help us to see if the common trend assumption holds. And actually, here, it looks like the common trend assumption holds, maybe with one or two exceptions, but
+
+177
+00:28:42.870 --> 00:28:51.450
+Andreas Stoller: More strictly speaking, it has to hold in all the treatment groups, so all the regions introducing the
+
+178
+00:28:51.670 --> 00:29:01.580
+Andreas Stoller: Wilburben at a different point in time. For all these regions, the, the common trends assumption must hold, or yeah, the pre-treatment
+
+179
+00:29:01.580 --> 00:29:12.179
+Andreas Stoller: trends must be undistinguishable from zero. And if I run that F-test, the common trends assumption doesn't hold. And my…
+
+180
+00:29:13.260 --> 00:29:18.000
+Andreas Stoller: My interpretation of this is that there is
+
+181
+00:29:18.670 --> 00:29:21.370
+Andreas Stoller: A lot of interventions going on.
+
+182
+00:29:21.550 --> 00:29:26.910
+Andreas Stoller: At the regional level that we cannot capture, we cannot control for.
+
+183
+00:29:27.020 --> 00:29:40.600
+Andreas Stoller: There are leagues… there are organizations, NGOs against cancer, or for the youth, and there are also, like, intervention programs organized by the cantons.
+
+184
+00:29:40.610 --> 00:29:52.159
+Andreas Stoller: And we tried to get a hold of this information, but sadly, it was not feasible to have a systematic collection of this tobacco prevention going on.
+
+185
+00:29:52.230 --> 00:29:59.350
+Andreas Stoller: So, my, assumption, or my guess here would be that
+
+186
+00:29:59.490 --> 00:30:07.020
+Andreas Stoller: this unobserved prevention going on that might be heterogeneous across Switzerland.
+
+187
+00:30:07.180 --> 00:30:10.539
+Andreas Stoller: leads to common trends not holding.
+
+188
+00:30:10.860 --> 00:30:18.729
+Andreas Stoller: And this is why I use another estimator which wants to overcome this problem.
+
+189
+00:30:18.860 --> 00:30:34.239
+Andreas Stoller: Namely, the interactive fixed effects counterfactual estimator. I don't want to go into details with that estimator, but you have to think about it like a synthetic control approach. Actually, you want
+
+190
+00:30:34.420 --> 00:30:38.630
+Andreas Stoller: To, learn a model that explains the,
+
+191
+00:30:39.020 --> 00:30:51.920
+Andreas Stoller: the outcome of the treated observations in the post-treatment period if they were not treated. So, you really want to model this counterfactual of the treated post-treatment observations.
+
+192
+00:30:51.920 --> 00:31:01.269
+Andreas Stoller: And you do that by training a factor model using all control observations and the pre-treatment treated observations.
+
+193
+00:31:01.450 --> 00:31:07.810
+Andreas Stoller: And in this… Using this data, you want to
+
+194
+00:31:08.210 --> 00:31:16.500
+Andreas Stoller: Have a model that explains the outcome within this data that should not be affected by treatment.
+
+195
+00:31:17.780 --> 00:31:30.720
+Andreas Stoller: And the twist here is that you don't only do that, but you allow for latent factors. So you model factors, covariates, that
+
+196
+00:31:31.550 --> 00:31:38.520
+Andreas Stoller: that are discovered by an algorithm. And Which…
+
+197
+00:31:39.210 --> 00:31:49.410
+Andreas Stoller: which will find patterns that are the same for all the individuals, however differ at an individual level. And, for,
+
+198
+00:31:49.750 --> 00:32:06.140
+Andreas Stoller: for this, I want to show you a graphical illustration of what we are actually trying to discover with this latent factor model. So, the assumption is that we have a factor that is the same for all the individuals.
+
+199
+00:32:07.430 --> 00:32:09.290
+Andreas Stoller: And that changes our time.
+
+200
+00:32:10.260 --> 00:32:18.440
+Andreas Stoller: However, this factor is more or less present for each of the individuals, also called, like, the loadings.
+
+201
+00:32:18.590 --> 00:32:34.310
+Andreas Stoller: and this is all hidden. This is all in the in the error for the model without the latent factors, and the this structure is then discovered by by this by this estimator.
+
+202
+00:32:35.000 --> 00:32:50.420
+Andreas Stoller: I want to… I mean, you cannot really know what it's capturing, but just to give you an intuition about it, we might have a change in smoking sentiments across time. However, this says
+
+203
+00:32:50.420 --> 00:33:03.000
+Andreas Stoller: attitudes towards smoking, they… they might be, more changing in some… for some individuals than others. Maybe people who read a lot of media, they,
+
+204
+00:33:03.790 --> 00:33:09.470
+Andreas Stoller: or reliable media, they might be more impacted by that than people who don't.
+
+205
+00:33:10.760 --> 00:33:27.809
+Andreas Stoller: So, this is the main idea of this estimator, that you discover this model of the outcomes, so that you then can impute the counterfactual outcome of the post-treatment treated observations.
+
+206
+00:33:28.540 --> 00:33:39.890
+Andreas Stoller: And the treatment effect then is just calculated taking the difference between observed outcome of the treated and the imputed counterfactual outcome.
+
+207
+00:33:41.620 --> 00:33:55.380
+Andreas Stoller: So, yeah, I know this, method is maybe rather novel in, in economics. However, now Deschez-Martin and Toth-Foy, they… they discuss this estimator in their new, DID book.
+
+208
+00:33:55.470 --> 00:34:08.139
+Andreas Stoller: that is, I think, online… on a repository for the moment, not yet published. I just recommend you to… to read that book. It's a really great one with many Stata applications.
+
+209
+00:34:08.270 --> 00:34:18.389
+Andreas Stoller: And yeah, I'm happy to provide one of the first such applications in economics. The method comes with a drawback.
+
+210
+00:34:19.150 --> 00:34:21.440
+Andreas Stoller: Namely, that we have many
+
+211
+00:34:21.560 --> 00:34:32.400
+Andreas Stoller: pre-treatment periods that we need to learn this model, and also that this latent factor structure must be, like, correct and not too complex.
+
+212
+00:34:32.540 --> 00:34:39.620
+Andreas Stoller: I forgot the most important part about this model, namely…
+
+213
+00:34:39.940 --> 00:34:46.899
+Andreas Stoller: what it tries to capture, and that's why we have these loadings, so the factors, the…
+
+214
+00:34:47.179 --> 00:34:51.250
+Andreas Stoller: The intensity of the factors, how the individuals experience it.
+
+215
+00:34:51.710 --> 00:35:01.409
+Andreas Stoller: differs across the individuals, precisely because we want to relax the difference-in-differences assumption, that… the common trends assumption, that
+
+216
+00:35:01.900 --> 00:35:15.799
+Andreas Stoller: So that now we have common trends that just have to hold at the individual level. We can break it down using this latent factor model.
+
+217
+00:35:15.980 --> 00:35:23.539
+Andreas Stoller: That's the main reason why we want to, to use this, this new estimator in order to, to capture this,
+
+218
+00:35:23.730 --> 00:35:28.999
+Andreas Stoller: these common trends at the individual level.
+
+219
+00:35:30.040 --> 00:35:38.380
+Andreas Stoller: Okay, so I think I talked enough about this method, and I will just jump to the results based on this
+
+220
+00:35:38.520 --> 00:35:45.900
+Andreas Stoller: this latent factor model. And here we see a very different picture. So we still have the
+
+221
+00:35:46.190 --> 00:35:54.419
+Andreas Stoller: pre-treatment trends, which are the differences between observed, treated before treatment, and the
+
+222
+00:35:54.630 --> 00:35:57.850
+Andreas Stoller: counterfactual, based on the latent factor model.
+
+223
+00:35:58.330 --> 00:36:02.499
+Andreas Stoller: And we see that, Then, these effects are…
+
+224
+00:36:03.300 --> 00:36:06.380
+Andreas Stoller: not distinguishable from 0 for the most part.
+
+225
+00:36:06.940 --> 00:36:15.659
+Andreas Stoller: meaning that the latent factor model actually managed to capture quite well the the hidden structures that were around.
+
+226
+00:36:16.790 --> 00:36:24.499
+Andreas Stoller: The outcome doesn't always look like this. Sometimes the pre-treatment trends, they…
+
+227
+00:36:24.940 --> 00:36:26.990
+Andreas Stoller: They they aren't 0 at all.
+
+228
+00:36:27.240 --> 00:36:34.959
+Andreas Stoller: Mostly because one has too little information, so one really needs a lot of pre-treatment strands for applying this technique.
+
+229
+00:36:35.600 --> 00:36:50.059
+Andreas Stoller: Then, I mean, the most interesting part for this seminar, we see that now we have a reduction in the smoking rate of about 0.9 percentage points. That is immediate, and that stays the same.
+
+230
+00:36:50.900 --> 00:36:54.960
+Andreas Stoller: This is about the reduction of 3% in the smoking rate.
+
+231
+00:36:57.180 --> 00:37:00.899
+Andreas Stoller: Yeah, so this is the main result.
+
+232
+00:37:01.630 --> 00:37:06.380
+Andreas Stoller: I can go over to the heterogeneity analysis, and
+
+233
+00:37:06.550 --> 00:37:16.059
+Andreas Stoller: here we see that the… and this is the heterogeneity analysis, all the robustness checks are then all based on the staggered DID estimator.
+
+234
+00:37:16.200 --> 00:37:18.679
+Andreas Stoller: just to disclose this.
+
+235
+00:37:18.870 --> 00:37:22.079
+Andreas Stoller: Here we, we see that
+
+236
+00:37:22.710 --> 00:37:31.879
+Andreas Stoller: The effect is mostly driven by women, individuals aged 25 to 44, and above 65.
+
+237
+00:37:35.710 --> 00:37:39.689
+Andreas Stoller: The heterogeneous effects are a bit puzzling, because
+
+238
+00:37:40.320 --> 00:37:56.209
+Andreas Stoller: One usually would expect an effect among the youth, because the typical argument for these advertising restrictions is that the youth is persuaded, or would be persuaded, to smoke.
+
+239
+00:37:56.410 --> 00:38:03.940
+Andreas Stoller: But this is precisely not the subpopulation where we find any effects.
+
+240
+00:38:04.360 --> 00:38:08.450
+Andreas Stoller: So, how do I explain this? Maybe just…
+
+241
+00:38:08.580 --> 00:38:15.199
+Andreas Stoller: Other factors are more important for the youth, such as the price or social influences.
+
+242
+00:38:16.630 --> 00:38:23.550
+Andreas Stoller: Maybe another one, and I think this is a bit unfair to discuss, and I came up with a few other.
+
+243
+00:38:23.930 --> 00:38:28.600
+Andreas Stoller: thoughts about interpreting this for today's seminar.
+
+244
+00:38:28.990 --> 00:38:38.849
+Andreas Stoller: My… another reason might be that we have substitution from billboards to other advertising channels, even if this is,
+
+245
+00:38:40.160 --> 00:38:48.369
+Andreas Stoller: limited because of the expenditure information that that we have.
+
+246
+00:38:49.030 --> 00:38:59.800
+Andreas Stoller: there might be still some… still such effects going on. I… I don't know if the youth will read newspapers, but,
+
+247
+00:38:59.970 --> 00:39:14.010
+Andreas Stoller: maybe this is still a possibility. Yet, something that just comes to my mind right now, maybe another factor might be that advertising targeted to the youth is already
+
+248
+00:39:14.200 --> 00:39:14.930
+Andreas Stoller: And.
+
+249
+00:39:15.210 --> 00:39:22.540
+Andreas Stoller: banned at the national level, so you are not allowed to have advertising that would be targeted at the youth.
+
+250
+00:39:24.060 --> 00:39:29.109
+Andreas Stoller: However, yeah, that… there I… I like a bit the…
+
+251
+00:39:30.360 --> 00:39:41.520
+Andreas Stoller: The information, again, on how does advertising actually… did actually look like back then, because it's very difficult to, get a hold on this information.
+
+252
+00:39:41.900 --> 00:39:44.540
+Andreas Stoller: So, this would be,
+
+253
+00:39:44.660 --> 00:40:00.230
+Andreas Stoller: my interpretation of why we don't find an effect there among the youth. And I would be really happy to discuss this point because I think it's very important to know how to interpret now these heterogeneous results.
+
+254
+00:40:00.830 --> 00:40:03.439
+Andreas Stoller: And to draw the correct conclusions.
+
+255
+00:40:04.020 --> 00:40:06.890
+Andreas Stoller: And for the second part,
+
+256
+00:40:07.320 --> 00:40:15.060
+Andreas Stoller: Why do we find these effects among women and especially like individuals aged 25 to 44 and
+
+257
+00:40:15.960 --> 00:40:18.650
+Andreas Stoller: They aren't, you know… There.
+
+258
+00:40:19.730 --> 00:40:24.730
+Andreas Stoller: My interpretation would be that, These, these groups are…
+
+259
+00:40:25.030 --> 00:40:36.390
+Andreas Stoller: likely to consider smoking cessation. I mean, if you are… usually people stop smoking once they are older, so this would be a bit this age group, and also the
+
+260
+00:40:36.390 --> 00:40:48.189
+Andreas Stoller: are reasons like family planning or pregnancy, which might make this group especially interested in stopping smoking.
+
+261
+00:40:49.740 --> 00:40:55.850
+Andreas Stoller: And the mechanism there, I mean, and this is just speculation, might be that…
+
+262
+00:40:56.190 --> 00:41:15.730
+Andreas Stoller: less exposure to tobacco advertising may facilitate the smoking cessation. So we have a population that is more likely to want to stop smoking and this type of policy might help them to actually stop smoking by less exposure to advertising.
+
+263
+00:41:15.930 --> 00:41:19.290
+Andreas Stoller: Again, here I'm very happy to discuss this point.
+
+264
+00:41:20.890 --> 00:41:29.210
+Andreas Stoller: So, I see that I have about 5 minutes left, so I want to lose a few words on the robustness checks and limitations.
+
+265
+00:41:29.440 --> 00:41:39.269
+Andreas Stoller: So, as we are looking at this smoking history of the individuals and calculate back their smoking status.
+
+266
+00:41:40.330 --> 00:41:53.960
+Andreas Stoller: I provide a robustness check just calculating back the smoking status for five years, 10 and 15 years and results are very stable across all these specifications.
+
+267
+00:41:54.820 --> 00:42:06.149
+Andreas Stoller: One can also use, instead of the not yet treated, the never treated units as controls using staggered DID, and again, we have similar results.
+
+268
+00:42:07.150 --> 00:42:20.189
+Andreas Stoller: And using different covariate sets, so none, only individual and only policy covariates and a model where all the covariates are interacted.
+
+269
+00:42:20.500 --> 00:42:25.729
+Andreas Stoller: The only sensitivity of the treatment effect is
+
+270
+00:42:26.330 --> 00:42:29.749
+Andreas Stoller: Shown once we add the policy controls.
+
+271
+00:42:32.310 --> 00:42:43.720
+Andreas Stoller: An important part are the spillover effects, or the possible spillover effects. Switzerland is really small, you can cross the country within a few hours.
+
+272
+00:42:43.960 --> 00:42:52.380
+Andreas Stoller: People are very mobile across these continents, so if you are in a population that is,
+
+273
+00:42:52.380 --> 00:43:06.680
+Andreas Stoller: here not considered as exposed to the billboard ban, you might still commute to a city where there is the ban, and the other way around. So, you might have such spillover effects.
+
+274
+00:43:06.820 --> 00:43:09.340
+Andreas Stoller: and the,
+
+275
+00:43:10.800 --> 00:43:20.170
+Andreas Stoller: I, would have assumed an underestimation, due to these spillover effects, and now I just don't… just have to assume it, actually.
+
+276
+00:43:20.400 --> 00:43:32.150
+Andreas Stoller: Like recently, I performed a check for spillovers, adding a dummy variable, which is one if a neighboring Canton introduced the…
+
+277
+00:43:32.360 --> 00:43:46.389
+Andreas Stoller: billboard ban, and providing this, check that, again, wasn't, yet shown to the discussant. Actually, the treatment effect about doubles. So,
+
+278
+00:43:47.330 --> 00:43:54.509
+Andreas Stoller: The spillover effects actually really tend to underestimate the treatment effect.
+
+279
+00:43:55.220 --> 00:44:00.169
+Andreas Stoller: And once we adjust for it, the treatment effect about doubled.
+
+280
+00:44:01.880 --> 00:44:18.740
+Andreas Stoller: Then, for confounding, I mean, I said already enough about the confounding. Sadly, not all prevention efforts can be tracked, and this is, like, a major limitation. Maybe in future, one can come up with such a systematic
+
+281
+00:44:19.070 --> 00:44:21.690
+Andreas Stoller: collection of prevention.
+
+282
+00:44:21.920 --> 00:44:25.199
+Andreas Stoller: So now I want to wrap up. The…
+
+283
+00:44:25.860 --> 00:44:31.029
+Andreas Stoller: Evidence here suggests that I both staggered the ID and this.
+
+284
+00:44:31.150 --> 00:44:38.939
+Andreas Stoller: Other latent factor, model show consistent results, pointing both to a reduction in smoking rates.
+
+285
+00:44:39.460 --> 00:44:48.829
+Andreas Stoller: The reduction is up to 0.9 percentage points, or 3%, as the share of smoking is about 30%.
+
+286
+00:44:49.590 --> 00:45:02.650
+Andreas Stoller: And this effect is comparable to that one of a 12% increase in, I should have written, tobacco cigarette prices. So, the effect is quite substantial. Like, it's really,
+
+287
+00:45:02.980 --> 00:45:06.400
+Andreas Stoller: In my point of view, it's a considerable effect.
+
+288
+00:45:06.740 --> 00:45:08.959
+Andreas Stoller: And we have to discuss them.
+
+289
+00:45:09.370 --> 00:45:18.080
+Andreas Stoller: effect heterogeneities. So finally, we see that there is support of the market expansion hypothesis.
+
+290
+00:45:18.500 --> 00:45:27.789
+Andreas Stoller: So, advertising, or let's say advertising bans, they actually can reduce, the total demand for smoking.
+
+291
+00:45:28.990 --> 00:45:41.990
+Andreas Stoller: And thus, advertising restrictions can be an effective complement to other prevention tools. So, yeah, thank you for your attention, and I'm really looking forward to the discussion and further
+
+292
+00:45:42.320 --> 00:45:44.379
+Andreas Stoller: questions by the public.
+
+293
+00:45:45.820 --> 00:45:52.389
+Michael Darden: Thank you so much, Andreas. That was terrific. We will go to our discussants now, Dr. Christian Seitz.
+
+294
+00:45:53.960 --> 00:45:58.610
+Christian Saenz: Thank you. Really interesting presentation, Andreas.
+
+295
+00:45:58.810 --> 00:46:03.339
+Christian Saenz: A few comments and then a question. So
+
+296
+00:46:03.700 --> 00:46:09.530
+Christian Saenz: I think both in the paper and presentation, it might be, helpful to have
+
+297
+00:46:09.560 --> 00:46:24.549
+Christian Saenz: just an example of a typical tobacco billboard, to better understand what… what, drivers and consumers are exposed to. I know in the U.S, you know, back in the day.
+
+298
+00:46:24.890 --> 00:46:39.190
+Christian Saenz: a lot of tobacco advertising would have, you know, cowboys, you know, with cigarettes, you know, riding in the sunset. So it'd be interesting to know how the, tobacco marketing varies in this country.
+
+299
+00:46:39.190 --> 00:46:47.199
+Christian Saenz: that you study and have a better understanding of what consumers are exposed to.
+
+300
+00:46:47.270 --> 00:46:52.389
+Christian Saenz: I thought you addressed the confounding points.
+
+301
+00:46:52.610 --> 00:47:02.360
+Christian Saenz: In a thoughtful way. I mean, you, you mentioned that, you know, you can't control for every possible confounding policy. I do…
+
+302
+00:47:02.770 --> 00:47:19.660
+Christian Saenz: wonder what your thoughts are, though. So it… let's say that in the absence of other tobacco control policies and public health interventions, that are… that you control for, but do you think that… that your estimates
+
+303
+00:47:19.950 --> 00:47:26.589
+Christian Saenz: Are perhaps an upper bound and that the tobacco, restrictions.
+
+304
+00:47:26.780 --> 00:47:41.280
+Christian Saenz: that they complement these other, interventions. And so, perhaps in the absence of these other interventions, the, policy that you study would have a smaller, effect on smoking.
+
+305
+00:47:41.820 --> 00:47:43.440
+Christian Saenz: Do you have any thoughts on that?
+
+306
+00:47:45.220 --> 00:47:53.020
+Andreas Stoller: Yeah, thank you for the, compliments first, and, the, I mean…
+
+307
+00:47:53.220 --> 00:47:58.130
+Andreas Stoller: I saw a few pictures from back in the times and the
+
+308
+00:47:58.930 --> 00:48:04.399
+Andreas Stoller: I mean, I don't know how it is to live in the US, but…
+
+309
+00:48:04.650 --> 00:48:08.830
+Andreas Stoller: It seemed to me like that the billboards are quite.
+
+310
+00:48:09.210 --> 00:48:17.100
+Andreas Stoller: similar to what you would expect in the US. I mean, now I don't want to say brand names and so on, but,
+
+311
+00:48:17.280 --> 00:48:22.349
+Andreas Stoller: The, yeah, the picture of being.
+
+312
+00:48:22.630 --> 00:48:39.650
+Andreas Stoller: Like, these lifestyle arguments, or these, being, like, back then, a strong man, even though that's a bit now an outdated idea, but this was much put forward there, back then. Like…
+
+313
+00:48:41.180 --> 00:48:42.640
+Andreas Stoller: the type of…
+
+314
+00:48:43.020 --> 00:48:49.609
+Andreas Stoller: advertising that I saw from back then in the US, and here it seems to be fairly similar.
+
+315
+00:48:50.250 --> 00:48:52.470
+Andreas Stoller: I'm… And…
+
+316
+00:48:53.610 --> 00:49:08.440
+Andreas Stoller: Right, yeah, I should show pictures, however, for, like, copyright reasons, I don't know, like, how much one is allowed to share. It would be nice to have one, but these can be quite big pictures, like billboards at,
+
+317
+00:49:08.650 --> 00:49:14.100
+Andreas Stoller: at, at the wall of buildings.
+
+318
+00:49:14.780 --> 00:49:33.000
+Andreas Stoller: It won't be the Times Square, but this can be quite big billboards that are shown, or just, like, smaller ones that you see using the sidewalk. Like, we use quite a lot the sidewalk, so, yeah.
+
+319
+00:49:33.060 --> 00:49:45.470
+Andreas Stoller: Especially in the cities, so, yeah, that's, that's where you would encounter it. Maybe something that has to be specified here, like, it's the public spaces, so…
+
+320
+00:49:46.490 --> 00:49:49.570
+Andreas Stoller: even though I…
+
+321
+00:49:50.070 --> 00:49:57.510
+Andreas Stoller: Yeah, yeah, I would have never, like, seen one, but in commercial centers, in shopping centers, like, you…
+
+322
+00:49:58.240 --> 00:50:07.419
+Andreas Stoller: you might be still able to put on these billboards. However, effectively, I'm not sure if it was actually done. And the…
+
+323
+00:50:07.750 --> 00:50:18.930
+Andreas Stoller: the expenditures for billboards would tell me, like, that they didn't try to substitute, such billboards in shopping centers. Then we'll, yeah.
+
+324
+00:50:19.250 --> 00:50:32.689
+Andreas Stoller: With these, billboards. But yeah, again, I don't know enough about these details. I think this is now clear. It's really difficult to have, like,
+
+325
+00:50:33.560 --> 00:50:39.990
+Andreas Stoller: an accurate idea about how these billboards looked like in these times.
+
+326
+00:50:40.620 --> 00:50:41.440
+Andreas Stoller: And.
+
+327
+00:50:41.710 --> 00:50:45.810
+Andreas Stoller: Then, for the upper bound, I mean, I would rather,
+
+328
+00:50:46.290 --> 00:51:00.820
+Andreas Stoller: argue for estimating a lower bound. I mean one reason is this of the of the spillover effects which tend to underestimate the effect.
+
+329
+00:51:01.020 --> 00:51:04.670
+Andreas Stoller: Now,
+
+330
+00:51:04.990 --> 00:51:20.339
+Andreas Stoller: now I have to think that there were a few reasons why now I sadly cannot remember all of them, but the… there are a few reasons why, I think I rather have an underestimation. I mean, especially the spillover effects, it's a shame that
+
+331
+00:51:20.340 --> 00:51:30.760
+Andreas Stoller: I haven't yet put it into the working paper, but once I adjust for spillover effects, then the effect doubles, so it becomes…
+
+332
+00:51:30.770 --> 00:51:37.600
+Andreas Stoller: An almost 2 percentage points reduction. So
+
+333
+00:51:38.030 --> 00:51:53.309
+Andreas Stoller: If anything, I think that I underestimate the treatment effect. But I see your point. I mean, having these billboard bands plus then other prevention measures.
+
+334
+00:51:53.530 --> 00:51:58.689
+Andreas Stoller: This might rather overestimate the treatment effect.
+
+335
+00:51:59.070 --> 00:52:03.380
+Andreas Stoller: Given the… the big treatment effect that I measure, I…
+
+336
+00:52:05.450 --> 00:52:09.750
+Andreas Stoller: I, I doubt that it would be as much as,
+
+337
+00:52:09.870 --> 00:52:14.329
+Andreas Stoller: Yeah, as to offset the the whole effect.
+
+338
+00:52:14.820 --> 00:52:15.560
+Andreas Stoller: Yeah.
+
+339
+00:52:17.100 --> 00:52:21.669
+Christian Saenz: Okay. And then one other comment was.
+
+340
+00:52:21.830 --> 00:52:32.889
+Christian Saenz: And I think someone in the chat beat me to this, but do you happen to know if e-cigarettes or other nicotine products
+
+341
+00:52:33.060 --> 00:52:40.199
+Christian Saenz: were included in this policy that you study or or.
+
+342
+00:52:42.130 --> 00:52:54.070
+Christian Saenz: Excuse me. Or can you also speak to, overall trends in e-cigarette use? And is it possible that, that this tobacco billboard ban
+
+343
+00:52:54.070 --> 00:53:06.619
+Christian Saenz: Could have been effective at reducing smoking, in part because of the, increasing availability of, of, substitute products to cigarettes.
+
+344
+00:53:07.540 --> 00:53:10.589
+Andreas Stoller: And a very good point, and I think it's something that
+
+345
+00:53:10.700 --> 00:53:15.599
+Andreas Stoller: Yeah, I should make more transparent. In Switzerland.
+
+346
+00:53:15.770 --> 00:53:22.230
+Andreas Stoller: For a long time, e-cigarettes weren't commercially available, like, until 2018, so…
+
+347
+00:53:22.350 --> 00:53:42.120
+Andreas Stoller: However, people could import them. So even though it's not commercially available, we see that people already consume it in the year 2018. Data before on e-cigarette consumption isn't really present.
+
+348
+00:53:42.700 --> 00:53:54.589
+Andreas Stoller: I, and cantonal, like, cantonal legislation on this was only enacted much later, like from 2018 on.
+
+349
+00:53:55.520 --> 00:54:00.069
+Andreas Stoller: Because, I mean, if it's not commercially available, you cannot regulate it.
+
+350
+00:54:02.810 --> 00:54:07.260
+Andreas Stoller: Another detail that I wanted to add is…
+
+351
+00:54:12.060 --> 00:54:16.539
+Andreas Stoller: Oh, sorry. I now forgot my train of thought.
+
+352
+00:54:18.740 --> 00:54:26.289
+Andreas Stoller: But, yeah, e-cigarettes don't seem to, like, be relevant for this, this specific, application.
+
+353
+00:54:27.660 --> 00:54:37.370
+Andreas Stoller: And yeah, the general population, that's it. The general population tends to pick up e-cigarette consumption very slowly.
+
+354
+00:54:37.370 --> 00:54:52.950
+Andreas Stoller: what we see is that rather the youth, like, really the school children, adopt e-cigarette consumption pretty quickly. However, among the general population with newer data, you have maybe consumption rates of a few percent.
+
+355
+00:54:53.690 --> 00:54:56.690
+Andreas Stoller: Yeah, that was the point that I forgot.
+
+356
+00:54:56.690 --> 00:54:57.480
+Christian Saenz: Thank you.
+
+357
+00:55:00.450 --> 00:55:06.810
+Michael Darden: There are several questions in the in the chat. I mean, I'll start by just saying, you know this.
+
+358
+00:55:07.080 --> 00:55:24.350
+Michael Darden: Safer and Chalupka argument about market expansion, right? You would expect to see that in the youth, right? Because they're the ones who initiate tobacco, usage. So, if I… tell me if I'm wrong, but what I… I'm understanding this comment… this,
+
+359
+00:55:24.350 --> 00:55:28.910
+Michael Darden: This this mechanism is more like the billboards are
+
+360
+00:55:28.910 --> 00:55:36.110
+Michael Darden: preventing cessation, and when the billboards go away, more people are quitting. Is that… is that consistent with your results?
+
+361
+00:55:38.310 --> 00:55:50.880
+Andreas Stoller: I think that's the argument I want to make, even though it's rather unconventional, so that's why I'm open to, like, other suggestions that could explain this. Yeah.
+
+362
+00:55:51.220 --> 00:56:03.519
+Michael Darden: Yeah, well, I mean, I think that has to be it, because you're not. It's extremely rare to see someone start using tobacco in middle age. It's almost always at young people, and you find nothing for young people.
+
+363
+00:56:03.560 --> 00:56:22.249
+Michael Darden: The factor model is really interesting to me. And, you know, it's, I think, new for TOPS. And so I want to just clarify that I understand it and maybe clarify for the audience as well. So what you're saying, and so I'm going to try to explain it, and you tell me if I'm right.
+
+364
+00:56:22.250 --> 00:56:32.320
+Michael Darden: What you're saying is that there is a latent factor, a single dimensional factor that is related to the propensity to smoke.
+
+365
+00:56:32.510 --> 00:56:37.859
+Michael Darden: It varies across individuals by a factor loading.
+
+366
+00:56:38.040 --> 00:56:39.830
+Michael Darden: Which you are estimating.
+
+367
+00:56:40.090 --> 00:56:55.220
+Michael Darden: But it's it's a linear term. Right? So my relationship to you is in some way. So we you and I might be different in our factor loadings in a linear way. Is that is that correct?
+
+368
+00:56:57.920 --> 00:57:08.260
+Andreas Stoller: There is some, like, it's all, correct, what you said, I mean, exactly, I couldn't have said it better,
+
+369
+00:57:10.070 --> 00:57:13.260
+Andreas Stoller: There is yet another mechanism there.
+
+370
+00:57:13.700 --> 00:57:19.409
+Andreas Stoller: The this estimator might also end up using no factor.
+
+371
+00:57:19.770 --> 00:57:24.600
+Andreas Stoller: Like, no latent factor. There, there is,
+
+372
+00:57:25.060 --> 00:57:33.069
+Andreas Stoller: There is a procedure there that selects the amount of factors that are included.
+
+373
+00:57:33.250 --> 00:57:44.450
+Andreas Stoller: there can be none, or there can be multiple. And if they… there are, like, way too many, then it becomes too complex. And there is, like,
+
+374
+00:57:44.880 --> 00:57:59.409
+Andreas Stoller: an error between the predicted outcome and the the actual outcome that is used as like a target value. And you just use the amount of latent factors that minimizes this like.
+
+375
+00:57:59.830 --> 00:58:03.120
+Michael Darden: Okay, so that is coming from the data then.
+
+376
+00:58:03.120 --> 00:58:05.490
+Andreas Stoller: If you have multiple ones, then…
+
+377
+00:58:05.670 --> 00:58:11.800
+Andreas Stoller: If I'm not mistaken, it could be also nonlinear, but here it's still… Linear, yeah.
+
+378
+00:58:11.800 --> 00:58:16.630
+Michael Darden: Okay, okay. And then I guess the final thing quickly.
+
+379
+00:58:17.020 --> 00:58:29.200
+Michael Darden: You know you talked. You talked about migration. I think you also should probably talk about mortality. Right? So in a panel you're observing the people who don't die from cigarettes.
+
+380
+00:58:29.690 --> 00:58:30.899
+Michael Darden: And we know that.
+
+381
+00:58:31.100 --> 00:58:36.690
+Michael Darden: Cigarettes are gonna be really… causally related to health.
+
+382
+00:58:36.800 --> 00:58:47.129
+Michael Darden: And so that might be important. I think I think you could do an exercise, though, where you bound how big the migration and mortality effects would have to be to nullify your results.
+
+383
+00:58:48.260 --> 00:58:52.690
+Michael Darden: nick Martorano CWQMC, And and that would be
+
+384
+00:58:52.930 --> 00:58:57.220
+Michael Darden: you know whether or not these things matter.
+
+385
+00:58:59.310 --> 00:59:05.170
+Andreas Stoller: You mean, like, less smokers will end up in the old SEM, like, in the…
+
+386
+00:59:05.330 --> 00:59:05.990
+Michael Darden: Yeah, so…
+
+387
+00:59:05.990 --> 00:59:08.800
+Andreas Stoller: a sample because they just, I mean…
+
+388
+00:59:09.210 --> 00:59:23.460
+Michael Darden: Yeah, so I mean, a couple, yeah, so on a couple of dimensions, right? So like, you know, smokers are dying selectively, but also, you know, we know, at least in the US, and I don't know if this is true in Switzerland, but there's been a growing urban rural gap in smoking.
+
+389
+00:59:23.630 --> 00:59:29.949
+Michael Darden: Nathan Miller, that might be differentially exposed to these band to to billboards.
+
+390
+00:59:29.950 --> 00:59:43.929
+Michael Darden: at least in the context of the US, we think of billboards on highways being more of a rural kind of thing, but there's a growing gap there. So over this long period of time, you might have selective migration.
+
+391
+00:59:44.340 --> 00:59:57.440
+Michael Darden: That, that could matter, and you could model that. But we, we, we're out of time, so, I'm gonna kick it back to, Dan Yi, who will take us out and, and advertise the Top of the Tops, which is coming up next.
+
+392
+00:59:58.290 --> 01:00:15.489
+Danyi Li: Yeah, thank you. We are out of time. However, if you still have burning questions or thoughts for Andrea Stoller, today's presenter, you can join us for Top of the Tops and interactive group discussion. To join, please copy the Zoom meeting room URL posted in the chat.
+
+393
+01:00:15.490 --> 01:00:33.319
+Danyi Li: and switch rooms with us once this event concludes. And I will leave this similar room open for an extra minute after the end to give everyone a chance to copy the URL, which is bit.ly slash topsmeeting, all lowercase.
+
+394
+01:00:33.530 --> 01:00:45.229
+Danyi Li: Thank you to our presenter, moderator, and discussant. Finally, thank you to the audience of 91 people for your participation, and have a top-notch weekend.
+
