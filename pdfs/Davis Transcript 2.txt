@@ -1,0 +1,1626 @@
+WEBVTT
+
+1
+00:00:03.260 --> 00:00:14.010
+Pingchuan Ma: Welcome to the Tobacco Online Policy Seminar Tops. Thank you for joining us today. I'm Pingchuan Ma, a researcher in Dr. Shang's lab at The Ohio State University Center for Tobacco Research.
+
+2
+00:00:14.010 --> 00:00:29.919
+Pingchuan Ma: TOPS is organized by Michael Pesko at University of Missouri, Ce Shang at The Ohio State University, Michael Darden at Johns Hopkins University, Jamie Hartmann-Boyce at the University of Massachusetts Amherst, and Justin White at Boston University.
+
+3
+00:00:30.180 --> 00:00:43.589
+Pingchuan Ma: The seminar will be 1 hour, with questions from the moderator and discussant. The audience may post questions and comments in the Q&A panel, and the moderator will draw from these questions and comments in conversation with the presenter.
+
+4
+00:00:43.990 --> 00:00:48.849
+Pingchuan Ma: Please review the guidelines on TobaccoPolicy.org for acceptable questions.
+
+5
+00:00:49.350 --> 00:00:53.810
+Pingchuan Ma: Please keep the questions professional and related to the research being discussed.
+
+6
+00:00:54.020 --> 00:01:01.269
+Pingchuan Ma: Questions that meet the Seminar series guidelines will be shared with presenter afterwards, even if they're not read aloud.
+
+7
+00:01:01.580 --> 00:01:04.180
+Pingchuan Ma: Your questions are very much appreciated.
+
+8
+00:01:04.709 --> 00:01:14.499
+Pingchuan Ma: This presentation is being video recorded and will be made available, along with the presentation slides, on the TOPS website at TobaccoPolicy.org.
+
+9
+00:01:14.940 --> 00:01:21.719
+Pingchuan Ma: I will turn the presentation over to today's moderator, Ce Shang from The Ohio State University, to introduce our speaker.
+
+10
+00:01:22.370 --> 00:01:23.749
+Ce Shang: Thank you, Pingchuan.
+
+11
+00:01:23.970 --> 00:01:35.939
+Ce Shang: Today, we continue our summer 2026 season with a single paper presentation by Brad Davis, entitled, Restricting Sales of Flavored Nicotine Vaping Products.
+
+12
+00:01:36.190 --> 00:01:46.710
+Ce Shang: effects on nicotine vaping product and cigarette sales in Canada. This presentation was selected via a competitive review process by submission through the TOPS website.
+
+13
+00:01:47.110 --> 00:01:55.640
+Ce Shang: Dr. Brad Davis is a postdoctoral fellow in health economist at the University of Missouri's Social Impact Lab.
+
+14
+00:01:55.830 --> 00:02:06.670
+Ce Shang: His research examines the effects of public policy on health behaviors and outcomes, with recent work focusing on tobacco regulation and cancer screening.
+
+15
+00:02:06.740 --> 00:02:20.170
+Ce Shang: He uses quasi-experimental methods and large administrative and retail data sets to evaluate how policy changes affect consumer behavior, healthcare utilization, and health outcomes.
+
+16
+00:02:20.420 --> 00:02:31.850
+Ce Shang: He serves as an administrator for the Tobacco Online Policy Seminar TOPS, and earned his PhD in economics from Florida State University in May 2024.
+
+17
+00:02:31.940 --> 00:02:43.459
+Ce Shang: Dr. Mike Pesko, a professor at the University of Missouri, is a co-author of the study, and will answer select questions in the Q&A. Dr. Davis, thank you for presenting for us today.
+
+18
+00:03:07.140 --> 00:03:09.220
+Brad Davis: Alright,
+
+19
+00:03:09.380 --> 00:03:18.200
+Brad Davis: First off, thank you to everyone for being here, and thank you to the, POPS Executive Board for having me back to present.
+
+20
+00:03:18.830 --> 00:03:32.030
+Brad Davis: So today I'll be presenting my work on restricting sales of flavored nicotine vaping products, and the effect that that has on vaping product sales and cigarette sales within Canada.
+
+21
+00:03:32.280 --> 00:03:36.949
+Brad Davis: This is joint work with, Mike Pesko and also, Abigail Friedman.
+
+22
+00:03:38.480 --> 00:03:41.720
+Brad Davis: So first off, I'll start with the disclosure.
+
+23
+00:03:41.830 --> 00:03:48.740
+Brad Davis: This work is supported by National Institutes of Health, the FDA, and also Health Canada.
+
+24
+00:03:48.880 --> 00:03:55.809
+Brad Davis: And, the views expressed in this presentation are the views of the authors, and not necessarily the views of the funders.
+
+25
+00:03:56.810 --> 00:04:06.179
+Brad Davis: In addition, I nor my co-authors have received any tobacco or pharmaceutical-related funding in the previous 10 years.
+
+26
+00:04:07.280 --> 00:04:10.239
+Brad Davis: Or I should say, from tobacco and pharmaceutical companies.
+
+27
+00:04:10.360 --> 00:04:23.920
+Brad Davis: And then, also we want to thank Health Canada for providing some of the data we use in these analyses, and then also the University of Missouri Social Impact Lab for programmatic support.
+
+28
+00:04:26.070 --> 00:04:35.309
+Brad Davis: So in recent years, we've seen a number of government entities restrict nicotine vaping products.
+
+29
+00:04:36.270 --> 00:04:41.990
+Brad Davis: Over 40 countries have outright banned nicotine vaping product sales.
+
+30
+00:04:42.210 --> 00:04:48.330
+Brad Davis: 15 countries have flavor restrictions on nicotine vaping products.
+
+31
+00:04:48.540 --> 00:05:01.900
+Brad Davis: And then within the United States, 7 states, have, restrictions on… on, nicotine vaping product flavors, as well as, over… around 200, local governments.
+
+32
+00:05:02.630 --> 00:05:17.969
+Brad Davis: Now, the stated rationale for these policies is often to reduce youth appeal to vaping who might be attracted to it due to the fruity flavors that these vaping products often come in.
+
+33
+00:05:18.790 --> 00:05:34.330
+Brad Davis: Now, we think about the… how consumers might respond to a flavor restriction on, vaping products. There's a number of different responses. One, they could reduce… this could reduce initiation into the… the vaping product market.
+
+34
+00:05:35.270 --> 00:05:40.709
+Brad Davis: If… if… for consumers who might be, tempted to initiate into it due to the flavors.
+
+35
+00:05:40.890 --> 00:05:50.129
+Brad Davis: For consumers that are already in the nicotine vaping product market, they could exit the tobacco market entirely.
+
+36
+00:05:51.430 --> 00:06:00.820
+Brad Davis: They could substitute to a flavor that's not prohibited, such as maybe an unflavored vape product or tobacco-flavored vape product.
+
+37
+00:06:01.960 --> 00:06:14.670
+Brad Davis: Or they could substitute to a tobacco product that is, not within the, the, the vaping category, so… including, combustible tobacco.
+
+38
+00:06:15.640 --> 00:06:22.090
+Brad Davis: Now this fourth possibility is a particular A key public health concern.
+
+39
+00:06:22.190 --> 00:06:27.979
+Brad Davis: Because while vaping is harmful, cigarettes are far more deadly.
+
+40
+00:06:28.840 --> 00:06:47.690
+Brad Davis: So in this paper, it's estimated that the… that vaping has 37% the quality adjusted life years harm of that of smoking, and we know smoking, can have a… an impact on life expectancy, estimated on average to be 4.3 years.
+
+41
+00:06:49.440 --> 00:07:00.789
+Brad Davis: So a key policy concern is, or a key question is, do, vaping product flavor restrictions cause substitution to, combustible cigarettes?
+
+42
+00:07:01.610 --> 00:07:10.419
+Brad Davis: Within the U.S, we have some compelling evidence of this. We have numerous studies that show that these vaping products
+
+43
+00:07:10.680 --> 00:07:17.539
+Brad Davis: Or these vaping flavor restrictions lead to increases in, cigarette smoking.
+
+44
+00:07:18.540 --> 00:07:24.169
+Brad Davis: In addition, Friedman et al. estimates that for one fewer,
+
+45
+00:07:25.160 --> 00:07:34.110
+Brad Davis: vaping cartridge that's sold. Due to a flavor restriction. 12 additional cigarettes are purchased.
+
+46
+00:07:35.270 --> 00:07:46.859
+Brad Davis: So we… so we already see evidence of substitution, within the U.S. market, and then the… the, BAGE systematic review finds that out of 21 population studies.
+
+47
+00:07:47.040 --> 00:07:56.369
+Brad Davis: 15 of these studies report an inverse relationship between vaping product availability and youth cigarette smoking.
+
+48
+00:07:57.340 --> 00:08:06.690
+Brad Davis: So again, there's some… some evidence of here of the substitutability between vaping products and… and cigarettes, even among youth.
+
+49
+00:08:09.640 --> 00:08:25.190
+Brad Davis: So what do we do in this paper? We leverage, provincial variation in the, in flavor… MVP flavor restrictions within Canada to estimate the effect on vaping product sales and cigarette sales.
+
+50
+00:08:25.680 --> 00:08:35.540
+Brad Davis: This is some of the first evidence, causal evidence, outside the U.S. on how vaping product flavor restrictions affect the tobacco product market.
+
+51
+00:08:36.740 --> 00:08:39.299
+Brad Davis: So why do we care about
+
+52
+00:08:39.460 --> 00:08:43.560
+Brad Davis: Canada's regulatory… or about the,
+
+53
+00:08:44.230 --> 00:08:53.289
+Brad Davis: about this study in Canada in particular. Well, one thing that's of note is that Canada has a stricter tobacco regulatory environment.
+
+54
+00:08:54.230 --> 00:09:08.020
+Brad Davis: And so, so with that, some examples of what that looks like, Canada has a national menthol cigarette ban. They have more restrictions on flavored cigars, mandatory plain packaging.
+
+55
+00:09:08.210 --> 00:09:16.410
+Brad Davis: And a nicotine concentration limit within vaping products of 20 milligrams per milliliter.
+
+56
+00:09:17.470 --> 00:09:29.659
+Brad Davis: And so… so these different policies could… can affect the substitutability between vaping products and cigarettes. So let's just take the first one, for example, the national menthol cigarette ban.
+
+57
+00:09:29.930 --> 00:09:33.619
+Brad Davis: Let's… let's say we have a consumer who
+
+58
+00:09:33.760 --> 00:09:42.080
+Brad Davis: Who prefers the flavored vaping products, and maybe their next preferred product might be a menthol cigarette.
+
+59
+00:09:43.190 --> 00:09:55.949
+Brad Davis: In the… in the presence of… and so let's say there's a flavor restriction, maybe they would substitute to that menthol cigarette. But within Canada, where the menthol cigarette is banned.
+
+60
+00:09:56.250 --> 00:10:08.530
+Brad Davis: There's fewer… that option is no longer available, and so maybe they might decide to substitute to a, maybe a tobacco-flavored vape, or maybe they might exit the tobacco market entirely.
+
+61
+00:10:09.220 --> 00:10:16.770
+Brad Davis: So in other words, with fewer combustible alternatives, there might be less substitutability between these two products.
+
+62
+00:10:17.460 --> 00:10:20.920
+Brad Davis: But if we find evidence of substitution.
+
+63
+00:10:21.870 --> 00:10:38.080
+Brad Davis: in Canada, despite its stricter tobacco control environment, it suggests that the substitutability between vaping products and cigarettes may be generalizable across countries, even countries with different tobacco control environments.
+
+64
+00:10:40.040 --> 00:10:51.750
+Brad Davis: So this table here gives an overview of the implementation dates of these different policies across provinces.
+
+65
+00:10:52.630 --> 00:10:59.420
+Brad Davis: So during the time of this study, there are 6 provinces that adopt a vaping product flavor restriction.
+
+66
+00:10:59.690 --> 00:11:19.079
+Brad Davis: Now, there is some variation in the scope of these, of these restrictions, so some of these provinces, such as Nova Scotia, they outright ban the sale of flavored vaping products at all locations, while others limit it to specialty vape shops.
+
+67
+00:11:20.310 --> 00:11:26.020
+Brad Davis: In addition, there are differences in which flavors are exempt from the policy.
+
+68
+00:11:26.070 --> 00:11:41.930
+Brad Davis: So all six of these provinces, they allow sales of unflavored and tobacco-flavored vaping products, but Ontario and Saskatchewan, allow for mint or menthol-flavored sales.
+
+69
+00:11:43.630 --> 00:12:02.470
+Brad Davis: And then there's four provinces that don't adopt a flavor restriction during the time of this study. I should note that Quebec has since adopted a nicotine vaping product flavor restriction, but it was after the time period of this study. I think they… I believe they adopted it in 2023.
+
+70
+00:12:05.440 --> 00:12:12.039
+Brad Davis: So for our data, all of our data is from July 2018 to June 2023.
+
+71
+00:12:12.950 --> 00:12:18.010
+Brad Davis: We get our… vaping product sales from Nilsen IQ.
+
+72
+00:12:18.190 --> 00:12:23.600
+Brad Davis: Our sales data is specific to the gas and convenience store retail sector.
+
+73
+00:12:24.240 --> 00:12:35.209
+Brad Davis: We observe sales in 6,000 stores, which makes up about 20, 24% of the gas and convenience store retail sector.
+
+74
+00:12:36.100 --> 00:12:42.529
+Brad Davis: And this data is by UPC, and province in 4-week time period.
+
+75
+00:12:43.040 --> 00:12:53.860
+Brad Davis: And so UPC is just the barcode that is on the product, and so with the UPC also comes a lot of detailed data on the product characteristics.
+
+76
+00:12:54.010 --> 00:12:59.319
+Brad Davis: And we're able to, categorize these sales into different flavor categories.
+
+77
+00:13:00.780 --> 00:13:07.689
+Brad Davis: Now, there's 9 provinces in this sample, but some of the
+
+78
+00:13:07.800 --> 00:13:14.559
+Brad Davis: Provinces are aggregated to date, or some of the provinces are aggregated within the data.
+
+79
+00:13:14.740 --> 00:13:17.410
+Brad Davis: So there's only 6 panels in total.
+
+80
+00:13:18.520 --> 00:13:22.619
+Brad Davis: So, Alberta and Quebec are our, control groups.
+
+81
+00:13:22.900 --> 00:13:34.260
+Brad Davis: And then we have British Columbia and Ontario, and then two province groups. So, the Maritimes are aggregated together, which includes New Brunswick, Nova Scotia, and Prince Edward Island.
+
+82
+00:13:34.600 --> 00:13:44.860
+Brad Davis: Now, this is just the way the data came, so there's no way for us to disaggregate across those three provinces. I wish we could, but unfortunately we cannot.
+
+83
+00:13:45.840 --> 00:14:03.600
+Brad Davis: And then also another province group made up of Manitoba, which, which did not adopt flavor restriction, and then Saskatchewan, which did. So, I'll describe this more in my analysis, but in our model, this group will receive a partial treatment.
+
+84
+00:14:06.470 --> 00:14:18.999
+Brad Davis: And then our cigarette sales data comes from Health Canada, and this is, this data is on shipments from manufacturers and importers to retailers and wholesalers at the province-by-month year level.
+
+85
+00:14:19.800 --> 00:14:37.820
+Brad Davis: This is high-quality data because it's, mandatory that this be reported under the Tobacco reporting regulation laws within Canada, so it contains the… the universe of, cigarette sales within… with… or of legal… I should say legal cigarette sales within Canada.
+
+86
+00:14:37.820 --> 00:14:39.969
+Brad Davis: And it's available at the province…
+
+87
+00:14:40.270 --> 00:14:44.340
+Brad Davis: Or, yeah, sorry, sorry, it contains all provinces and territories.
+
+88
+00:14:44.550 --> 00:14:57.499
+Brad Davis: For our main analysis, we restrict it to the 9 largest provinces based on recommendations from Health Canada, but we also do include a sensitivity check where we use all provinces and territories.
+
+89
+00:15:00.110 --> 00:15:11.999
+Brad Davis: And then we also utilize data from Google Trends, and this is going to provide a measure, or… yeah, this data provides a measure of Google search intensity for two different outcomes. So we look at
+
+90
+00:15:12.060 --> 00:15:24.160
+Brad Davis: Google searches containing the phrase, vape shop, and then also Google searches that are categorized by Google as being related to NVP or e-cigarette shopping.
+
+91
+00:15:24.970 --> 00:15:35.679
+Brad Davis: And so, while this is not a measure of sales in other retail categories, beyond
+
+92
+00:15:35.680 --> 00:15:44.990
+Brad Davis: gas and convenience store. We do think it is a… it is informative of consumer interest within these other categories.
+
+93
+00:15:46.190 --> 00:15:50.150
+Brad Davis: And is, therefore useful for our analyses.
+
+94
+00:15:52.440 --> 00:15:58.240
+Brad Davis: So I'll start by describing a basic two-way fixed effect model.
+
+95
+00:15:59.480 --> 00:16:06.649
+Brad Davis: Where our outcome is the… is the log of the… or the natural log of the…
+
+96
+00:16:06.870 --> 00:16:10.060
+Brad Davis: A vaping product unit sales per capita.
+
+97
+00:16:10.370 --> 00:16:14.350
+Brad Davis: Or the natural log of cigarette stick sales per capita.
+
+98
+00:16:15.410 --> 00:16:19.640
+Brad Davis: Where flavor restriction is our, variable of interest.
+
+99
+00:16:19.770 --> 00:16:22.219
+Brad Davis: Which is proportional
+
+100
+00:16:22.380 --> 00:16:32.539
+Brad Davis: to, or is equal to the proportion of the province or panel with a flavor restriction in month, year T. So for most of the data, that's a 0-1 binary.
+
+101
+00:16:33.470 --> 00:16:44.080
+Brad Davis: For those, for those panels that are grouped together, it's equal to the proportion of the population with a flavor restriction in place.
+
+102
+00:16:45.430 --> 00:16:59.640
+Brad Davis: And then we also include a vector of covariates that are broadly under two categories, one being other tobacco policies, and then also policies related to the COVID-19 pandemic.
+
+103
+00:17:01.120 --> 00:17:06.900
+Brad Davis: So for tobacco controls, or tobacco covariates, we use, cigarette taxes.
+
+104
+00:17:07.130 --> 00:17:13.380
+Brad Davis: Vaping product taxes with separate variables for ad valorem rates and also excise rates.
+
+105
+00:17:13.869 --> 00:17:18.569
+Brad Davis: E-cigarette, nicotine, concentration limits.
+
+106
+00:17:19.190 --> 00:17:26.950
+Brad Davis: And then for COVID covariates, we… we use… include, COVID-19 deaths per capita,
+
+107
+00:17:27.310 --> 00:17:41.920
+Brad Davis: a measure of non-essential business closures and internal movement restrictions, and then also a binary indicator for the Atlantic bubble, which was a COVID-related policy within the Atlantic region of Canada.
+
+108
+00:17:43.120 --> 00:18:00.419
+Brad Davis: And then our model also includes province-level fixed effects, which are going to control for the time-invariant characteristics of each province, and then month-year fixed effects, which control for national trends or national changes in tobacco sales within Canada.
+
+109
+00:18:02.250 --> 00:18:12.859
+Brad Davis: Now, there are recent advances in the difference-in-difference literature, which highlight that when you have an environment with a staggered adoption policy.
+
+110
+00:18:13.030 --> 00:18:22.409
+Brad Davis: It can bias the estimates due to comparisons between newly treated provinces and provinces that have already been treated.
+
+111
+00:18:23.060 --> 00:18:29.230
+Brad Davis: Now, there's a number of different strategies to try to mitigate this concern.
+
+112
+00:18:29.710 --> 00:18:33.390
+Brad Davis: The one that we go with is called the Stacked Difference in Difference Model.
+
+113
+00:18:34.400 --> 00:18:37.739
+Brad Davis: Essentially what this does is it reconstructs the…
+
+114
+00:18:37.940 --> 00:18:43.169
+Brad Davis: The data into, event time, rather than calendar time.
+
+115
+00:18:43.540 --> 00:18:49.669
+Brad Davis: So for every province that gets treated, we take, 21
+
+116
+00:18:50.190 --> 00:19:00.620
+Brad Davis: Months of data before and after that policy gets adopted for that… for that province, and as well as the controls, and that creates one stack of data.
+
+117
+00:19:02.170 --> 00:19:11.819
+Brad Davis: And then we do that for… for every province that adopts, and then you stack that data on top of each other, and it's now in event time.
+
+118
+00:19:12.250 --> 00:19:16.409
+Brad Davis: So that's kind of a brief one-minute overview.
+
+119
+00:19:16.970 --> 00:19:24.080
+Brad Davis: Now 21 months was chosen just because that's the longest that could be chosen based on the data that we have.
+
+120
+00:19:27.090 --> 00:19:35.309
+Brad Davis: And then, in the stack difference-in-difference model, you also include the stack by unit fixed effects and stack by event time fixed effects.
+
+121
+00:19:35.890 --> 00:19:42.709
+Brad Davis: Now there's… there has been a recent update to the model from the Wing, Friedman and Hollandsworth paper.
+
+122
+00:19:43.350 --> 00:19:57.240
+Brad Davis: Essentially showing, or this, this paper introduces some, some weights that, help properly, properly balance the model, and so that we include those weights in our analyses.
+
+123
+00:19:59.320 --> 00:20:03.909
+Brad Davis: Now we do, a number of robustness and sensitivity checks.
+
+124
+00:20:04.290 --> 00:20:06.759
+Brad Davis: For our sensitivity checks.
+
+125
+00:20:07.280 --> 00:20:24.900
+Brad Davis: We… we do… we use… we do a model where we use volume as the sales outcome. In our main specification, we use units, because volume is missing in about 1% of our sales observations.
+
+126
+00:20:24.990 --> 00:20:28.869
+Brad Davis: And so, and so as a sensitivity, we… we…
+
+127
+00:20:28.990 --> 00:20:45.860
+Brad Davis: use volume as one of the outcome, or as the outcome. For another specification, we exclude March through August 2020, just to ensure that our results are robust to anything that might be happening around the start of the COVID pandemic.
+
+128
+00:20:46.810 --> 00:20:55.550
+Brad Davis: And then we also use a model, or have a model using population weights rather than the stack difference in difference weights.
+
+129
+00:20:56.950 --> 00:21:01.320
+Brad Davis: And then for, for some identification and inference checks.
+
+130
+00:21:01.470 --> 00:21:14.900
+Brad Davis: There is one of our models where we were a little bit concerned about the pre-policy trends, and so we also used the synthetic difference-in-difference model as a robustness check.
+
+131
+00:21:15.390 --> 00:21:32.210
+Brad Davis: What this model does is it re-weights the model, such that the pre-policy trends between the treatment and control group better align, and therefore is more robust to violations of the parallel trends assumption.
+
+132
+00:21:33.990 --> 00:21:35.869
+Brad Davis: And then…
+
+133
+00:21:36.060 --> 00:21:43.179
+Brad Davis: One of the limitations of our data is that we have a small number of panels, and so therefore a small number of clusters.
+
+134
+00:21:43.470 --> 00:21:52.329
+Brad Davis: And when you have a small number of clusters, this can lead to standard errors that over-reject the null hypothesis.
+
+135
+00:21:53.390 --> 00:22:03.359
+Brad Davis: There's a number of ways that can be used to… to address this. We do two sensitivity checks, one using the wild cluster bootstrap.
+
+136
+00:22:03.660 --> 00:22:10.230
+Brad Davis: p-values. And then another using a, doing a placebo test.
+
+137
+00:22:10.420 --> 00:22:17.100
+Brad Davis: And plotting the coefficients of the placebo test and creating p-values based on that distribution.
+
+138
+00:22:17.490 --> 00:22:30.659
+Brad Davis: I don't have these results in my main presentation, but I do have it in the appendix if we wanted to look at that, and then, of course, it's also in the paper, and will be on the presentation slides on the website, too.
+
+139
+00:22:32.920 --> 00:22:38.029
+Brad Davis: Let's go ahead and pause here for any questions.
+
+140
+00:22:42.140 --> 00:22:51.550
+Ce Shang: Thank you, Brad. Our discussion today is Dr. Madeline Dove, an Associate Adjunct professor in the Public Health Sciences Department at UC Davis.
+
+141
+00:22:52.060 --> 00:22:55.179
+Ce Shang: Melanie, do you have any questions for Brett? Thank you.
+
+142
+00:22:57.990 --> 00:23:02.380
+Melanie Dove: Yes, thank you for this opportunity to discuss.
+
+143
+00:23:02.580 --> 00:23:07.690
+Melanie Dove: This is a really interesting study, and you explain it very clearly.
+
+144
+00:23:07.840 --> 00:23:13.530
+Melanie Dove: You know, like you mentioned, there has been, you know, several studies in the U.S. looking at the impact of
+
+145
+00:23:13.730 --> 00:23:21.820
+Melanie Dove: Flavor restrictions on sales, tobacco sales and use, and this is, you know, kind of one of the first in Canada.
+
+146
+00:23:21.900 --> 00:23:34.669
+Melanie Dove: And Canada has a really interesting environment, you know, where they've banned menthol cigarettes, and so the results, I think, can, you know, provide something very new and interesting.
+
+147
+00:23:35.300 --> 00:23:43.720
+Melanie Dove: Let's see… I was wondering, if you could describe the tobacco purchasing?
+
+148
+00:23:43.990 --> 00:23:58.139
+Melanie Dove: patterns in Cal… California… in Canada? You know, where are most vapes sold? Is it convenience stores and gas stations? You know, are the patterns similar to the U.S?
+
+149
+00:24:01.140 --> 00:24:05.790
+Brad Davis: So I can speak to the, to the… To the vaping market.
+
+150
+00:24:06.180 --> 00:24:14.969
+Brad Davis: About a third of sales happen at gas and convenience stores, and then the other two-thirds is from vape shops and online.
+
+151
+00:24:15.500 --> 00:24:22.740
+Brad Davis: So… so we only observe about 10% of the overall, vaping product market sales.
+
+152
+00:24:23.170 --> 00:24:27.949
+Brad Davis: And then what was the first part of your question about… about cigarette sales?
+
+153
+00:24:29.130 --> 00:24:40.709
+Melanie Dove: Let's see, well, I guess I was mainly interested in the vape sales, because the data you have is just from gas and convenience stores, so, yeah, thank you for that.
+
+154
+00:24:41.010 --> 00:24:42.910
+Melanie Dove: Explanation, yeah.
+
+155
+00:24:43.470 --> 00:24:50.739
+Melanie Dove: Is online sales… do, are online vape and cigarette online sales legal?
+
+156
+00:24:50.990 --> 00:24:52.240
+Melanie Dove: In Canada.
+
+157
+00:24:52.450 --> 00:24:55.260
+Brad Davis: Yeah, yes, yes, they are. Yep.
+
+158
+00:24:56.210 --> 00:24:56.670
+Melanie Dove: Okay.
+
+159
+00:24:56.670 --> 00:24:58.340
+Brad Davis: But, but I mean,
+
+160
+00:24:59.190 --> 00:25:12.990
+Brad Davis: You know, the flavor restriction, some of them could apply to the vape shops and online sales as well, but vape shop and online sales are generally permitted for, for vaping products.
+
+161
+00:25:14.180 --> 00:25:15.780
+Melanie Dove: Hmm. Okay.
+
+162
+00:25:18.380 --> 00:25:29.099
+Melanie Dove: Okay, and it looks like you use separate data sources, for the vape sales and cigarette sales. Why did you use separate data sources?
+
+163
+00:25:30.960 --> 00:25:37.360
+Brad Davis: Really, it came down to, availability. I mean, the… the cigarette sales are,
+
+164
+00:25:38.480 --> 00:25:49.090
+Brad Davis: are… are very high quality and contain the universe of legal sales, so, so that… that's obviously a very good data source to have.
+
+165
+00:25:49.570 --> 00:26:00.169
+Brad Davis: I believe our Nielsen IQ data did not contain cigarette sales, as far as I'm aware. I think Mike could, could verify that.
+
+166
+00:26:00.360 --> 00:26:04.609
+Brad Davis: And… Yeah, yeah, so that…
+
+167
+00:26:04.730 --> 00:26:09.330
+Brad Davis: That's the main reason for the differences in the data sources.
+
+168
+00:26:09.880 --> 00:26:12.079
+Brad Davis: And, of course, a limitation
+
+169
+00:26:12.220 --> 00:26:29.460
+Brad Davis: of the Nielsen IQ is that it is restricted to gas and convenience stores, so we want to make sure that we're clear that… that that is the sector that we're… we're measuring effects for. And then also why we try to pull in that Google Trends data
+
+170
+00:26:29.590 --> 00:26:30.640
+Brad Davis: Which
+
+171
+00:26:31.140 --> 00:26:39.409
+Brad Davis: You know, it's not… it's not a substitute for sales data, but might give us some indication of consumer interest in those other categories.
+
+172
+00:26:40.460 --> 00:26:51.530
+Melanie Dove: Right, right. Yeah, it sounds like you have great data sources, you know, yeah, especially with the Google, with the, cigarette sales is very comprehensive, and then
+
+173
+00:26:51.650 --> 00:26:53.549
+Melanie Dove: Adding in the Google sales.
+
+174
+00:26:53.740 --> 00:26:56.090
+Melanie Dove: Google search data as well.
+
+175
+00:26:56.500 --> 00:27:13.110
+Melanie Dove: Okay, one… I have one more question. I recently, you know, I worked on a study, and we used the stacked difference-in-difference approach, and I was just wondering if you had considered other approaches to, kind of deal with the
+
+176
+00:27:13.160 --> 00:27:17.149
+Melanie Dove: The potential bias from staggered policy implementation.
+
+177
+00:27:21.510 --> 00:27:37.459
+Brad Davis: We may have very early on, I… I can't remember the details exactly. I… I like the stacked because it creates a balanced panel for all the treated provinces, and so for that reason, I… I like it.
+
+178
+00:27:39.250 --> 00:27:52.249
+Brad Davis: you know, we… that's something we could consider doing, is… is showing results for some of the other models. I will say, we do… we do show results for all of our outcomes using synthetic difference-in-difference.
+
+179
+00:27:52.790 --> 00:28:00.319
+Brad Davis: Which does not have that staggered adoption, problem, because it does the estimates one at a time for each
+
+180
+00:28:00.450 --> 00:28:01.930
+Brad Davis: Treat… treatment group.
+
+181
+00:28:02.490 --> 00:28:12.440
+Brad Davis: But, you know, we could consider incorporating maybe another model or two from the, Saggered adoption literature.
+
+182
+00:28:14.810 --> 00:28:18.139
+Melanie Dove: Alright, thank you. Excited to see the results.
+
+183
+00:28:19.080 --> 00:28:19.890
+Brad Davis: Thanks.
+
+184
+00:28:20.020 --> 00:28:34.150
+Ce Shang: Thank you. I think I.B. Friedman added some comments. she says the Canadian government data is more comprehensive, but only includes cigarettes, so that answers
+
+185
+00:28:34.440 --> 00:28:40.589
+Ce Shang: Why, you know, you guys use the government data for measuring cigarette sales.
+
+186
+00:28:40.740 --> 00:28:53.280
+Ce Shang: So I see Mike is answering some of the questions, but there are some open ones. One is from Chris Saenz. Should we think of Google search interest as a measure of consumer demand?
+
+187
+00:28:53.490 --> 00:29:01.330
+Ce Shang: Google search interest tracks actual sales or consumption, a reflection of consumer preferences.
+
+188
+00:29:01.520 --> 00:29:06.370
+Ce Shang: Or what consumers are thinking about in their purchasing decisions.
+
+189
+00:29:06.720 --> 00:29:14.660
+Ce Shang: He's wondering what the overlap of this outcome is with your other data outcomes, and how it's different.
+
+190
+00:29:15.710 --> 00:29:16.360
+Ce Shang: Yeah.
+
+191
+00:29:17.660 --> 00:29:24.779
+Brad Davis: That would be very interesting to see, the overlap between the Google search data and an actual,
+
+192
+00:29:25.100 --> 00:29:27.210
+Brad Davis: sales… sales data?
+
+193
+00:29:27.430 --> 00:29:32.579
+Brad Davis: And would maybe… Tell us a little bit more about
+
+194
+00:29:32.760 --> 00:29:47.570
+Brad Davis: what the Google search data could tell us. I don't want to… I want to be very cautious and make sure we don't overstate what the Google Trends data tells us, because I… I don't think it's, you know, it's not a proxy for sales.
+
+195
+00:29:47.630 --> 00:29:54.000
+Brad Davis: The main reason we're using it is because we want to make sure that there… we want to…
+
+196
+00:29:54.550 --> 00:30:01.120
+Brad Davis: Look for evidence of substitution to the vape shop or online market.
+
+197
+00:30:01.740 --> 00:30:12.330
+Brad Davis: And that… and that's really one of the main reasons we're… we're using it, because if… if there was… there were increases in Google searches related to vape shops.
+
+198
+00:30:12.520 --> 00:30:22.609
+Brad Davis: or, online retailers. There might be evidence that consumers are substituting away from the gas and convenience sector to these
+
+199
+00:30:22.670 --> 00:30:35.190
+Brad Davis: another retail sector. I'll go ahead and preview and just say that that's not what our results show. And so, I think of it as, currently, I think of it as…
+
+200
+00:30:35.510 --> 00:30:42.260
+Brad Davis: As a… As an indicator of consumer interest, and maybe you could say preferences.
+
+201
+00:30:42.700 --> 00:30:43.150
+Ce Shang: Yeah.
+
+202
+00:30:43.150 --> 00:30:50.299
+Brad Davis: But I don't want to overstate it and say that it's, you know, a perfect proxy for sales, although, like I said, that would be a very interesting study.
+
+203
+00:30:50.530 --> 00:31:02.649
+Ce Shang: Yeah, Chris also mentioned that, he thinks it would be useful to add the citation of the correlation before… between Google search for nicotine terms and the survey-based measures of use or sales.
+
+204
+00:31:02.650 --> 00:31:03.260
+Brad Davis: Okay.
+
+205
+00:31:03.260 --> 00:31:11.769
+Ce Shang: So, I don't know if there is any study like this, but maybe someone has already done something looking into the correlations.
+
+206
+00:31:12.340 --> 00:31:14.239
+Brad Davis: Yep, yep, no, that's a good thought.
+
+207
+00:31:14.240 --> 00:31:14.920
+Ce Shang: Yep.
+
+208
+00:31:15.030 --> 00:31:21.390
+Ce Shang: So, I don't see any other open questions. Please go ahead and continue the presentation. Thank you.
+
+209
+00:31:39.170 --> 00:31:41.919
+Brad Davis: Alright, so I'll go ahead and,
+
+210
+00:31:42.140 --> 00:31:46.730
+Brad Davis: Getting into the results, we'll start with just looking at the descriptive evidence.
+
+211
+00:31:47.680 --> 00:31:56.249
+Brad Davis: So these are… this is showing, trends in the population-weighted unit sales in the treatment and control provinces.
+
+212
+00:31:57.510 --> 00:32:15.460
+Brad Davis: So we can see prior to adoption of any flavor restrictions, we see that sales were increasing quite rapidly in both treatment and control groups. But then once these flavor restrictions start going into place, we see, sales in the treatment group begin to level out.
+
+213
+00:32:16.440 --> 00:32:30.000
+Brad Davis: Whereas the sales in the control group continued growing, such that after all the flavor restrictions have been adopted, there's now a big gap between the treatment and control
+
+214
+00:32:30.240 --> 00:32:35.129
+Brad Davis: Control groups, where sales are roughly double that.
+
+215
+00:32:35.630 --> 00:32:40.300
+Brad Davis: The sales in the control group are roughly double that of the treatment provinces.
+
+216
+00:32:42.560 --> 00:32:51.830
+Brad Davis: Looking at the cigarette sales trends, we see that in the treatment group, sales were a little bit, le… or were a little bit lower.
+
+217
+00:32:52.100 --> 00:32:57.159
+Brad Davis: Then, in the control groups before the flavor restrictions went into effect.
+
+218
+00:32:57.720 --> 00:33:08.799
+Brad Davis: And then after the policy, after the flavor restrictions go into effect, we see that cigarette sales are roughly on the same level, but actually a little bit,
+
+219
+00:33:08.940 --> 00:33:11.730
+Brad Davis: A little bit higher than the control group.
+
+220
+00:33:11.940 --> 00:33:14.860
+Brad Davis: Right. Something else I think is, you know.
+
+221
+00:33:15.080 --> 00:33:28.419
+Brad Davis: Interest that's important to point out is that cigarette sales are declining over time for both groups, which I think is going to help us at the end when it comes to interpretation of our results.
+
+222
+00:33:31.290 --> 00:33:37.569
+Brad Davis: Alright, so looking at our, formal modeling results, the results of our, of our models,
+
+223
+00:33:37.790 --> 00:33:40.800
+Brad Davis: Looking at the gas and convenience store.
+
+224
+00:33:41.150 --> 00:33:45.259
+Brad Davis: Total MVP sales, unit sales?
+
+225
+00:33:45.490 --> 00:34:02.619
+Brad Davis: We see a 29.5% decrease. Now, it's not, statistically significant, but it is economically meaningful. It's a very, very large but imprecise reduction in sales.
+
+226
+00:34:03.600 --> 00:34:09.260
+Brad Davis: Now, breaking that up into, specific flavor categories.
+
+227
+00:34:09.730 --> 00:34:15.449
+Brad Davis: So looking at the… the flavored… Nicotine vaping product sales.
+
+228
+00:34:15.750 --> 00:34:20.390
+Brad Davis: We estimate a 99.9% reduction
+
+229
+00:34:20.550 --> 00:34:25.509
+Brad Davis: In the flavored cells, right, this is consistent with what we would expect to see.
+
+230
+00:34:25.969 --> 00:34:28.690
+Brad Davis: For the mint and menthol.
+
+231
+00:34:29.350 --> 00:34:36.209
+Brad Davis: sales category. We also estimate a very large decline, about a 90… 97%.
+
+232
+00:34:36.370 --> 00:34:39.120
+Brad Davis: So not as large as the flavored category, but…
+
+233
+00:34:39.239 --> 00:34:48.010
+Brad Davis: That's what we would expect, because there were some provinces that allowed… that continue to allow the mint and menthol sales.
+
+234
+00:34:50.400 --> 00:34:56.699
+Brad Davis: And then looking at, tobacco and unflavored, Sales?
+
+235
+00:34:57.180 --> 00:35:07.779
+Brad Davis: So we… we joined Tobacco and unflavored into one… one category. We estimate very large increases in sales in this category, over… over a 100% increase.
+
+236
+00:35:08.810 --> 00:35:12.790
+Brad Davis: So here we do find evidence of, of substitution from…
+
+237
+00:35:12.920 --> 00:35:18.829
+Brad Davis: The… the categories that are prohibited to categories that are not prohibited.
+
+238
+00:35:23.310 --> 00:35:27.399
+Brad Davis: So here's our, the results from the Google Trends analysis.
+
+239
+00:35:27.760 --> 00:35:34.110
+Brad Davis: So here we have searches related to vaping product shopping.
+
+240
+00:35:34.330 --> 00:35:40.109
+Brad Davis: We estimate about a 22% reduction in those… those Google searches.
+
+241
+00:35:41.560 --> 00:35:44.170
+Brad Davis: And then for, for vape shops.
+
+242
+00:35:44.660 --> 00:35:58.360
+Brad Davis: for our Google searches containing the phrase vape shop. Similarly, we estimate a… about a 17% decrease, although only statistically significant at about the 11% level, so it's just beyond,
+
+243
+00:35:58.640 --> 00:36:03.610
+Brad Davis: would be considered statistically significant. But…
+
+244
+00:36:04.410 --> 00:36:15.729
+Brad Davis: What these results tell us is that these results are not consistent with there being a lot… with there being substitution to other retail, sectors.
+
+245
+00:36:19.700 --> 00:36:29.770
+Brad Davis: And then, looking at our cigarette sales data, we estimate about a 9.6% increase in cigarette sales.
+
+246
+00:36:29.880 --> 00:36:39.879
+Brad Davis: Now, we were a little bit concerned when we… when we first looked at this result, just because some of the… the pre-policy, coefficients are…
+
+247
+00:36:40.330 --> 00:36:48.410
+Brad Davis: Statistically different than zero. And… and so that's why we pulled in the synthetic difference-in-difference model.
+
+248
+00:36:49.380 --> 00:37:00.739
+Brad Davis: Which, again, re-weights the model to better align the pre-policy trends, and is therefore more robust to violations of the parallel trends assumption.
+
+249
+00:37:00.830 --> 00:37:12.690
+Brad Davis: And so here, we do… we do see better parallel trends in the pre-policy period, and then, and then afterwards, we… we also estimate a, positive
+
+250
+00:37:12.860 --> 00:37:22.180
+Brad Davis: increase in cigarette sales. A little bit larger, are about about a 21% increase.
+
+251
+00:37:22.380 --> 00:37:28.529
+Brad Davis: But nevertheless, this is still, you know, this is directionally consistent with our, with our
+
+252
+00:37:29.030 --> 00:37:33.890
+Brad Davis: Early results and boost our confidence of that result.
+
+253
+00:37:35.980 --> 00:37:42.240
+Brad Davis: So, as previously mentioned, we do a number of sensitivity checks.
+
+254
+00:37:42.430 --> 00:37:53.870
+Brad Davis: This is looking at… at the total NVP sales, starting with the… this is our baseline model. Standardized is using, volume as the outcome rather than units.
+
+255
+00:37:54.260 --> 00:38:09.799
+Brad Davis: Then we… then we drop March through August 2020, and then a population-weighted model. All these… these coefficients are, you know, very consistent, and do not meaningfully change the conclusions of our
+
+256
+00:38:10.010 --> 00:38:11.590
+Brad Davis: Of our analyses.
+
+257
+00:38:12.560 --> 00:38:18.689
+Brad Davis: Same thing with the cigarette sales. All these coefficients are fairly, consistent.
+
+258
+00:38:21.370 --> 00:38:34.510
+Brad Davis: Looking at these sensitivity checks within flavor-specific categories, again, all these results, are… are showing very, very fairly consistent, point estimates.
+
+259
+00:38:34.900 --> 00:38:38.159
+Brad Davis: And, do not change the… our conclusions.
+
+260
+00:38:41.450 --> 00:38:45.730
+Brad Davis: And then, if we look over at this left-hand column here.
+
+261
+00:38:46.000 --> 00:38:56.829
+Brad Davis: These are different models that we… that we use, or alternative models. So, starting with the baseline model, it's the stacked difference in difference using a longed outcome.
+
+262
+00:38:57.040 --> 00:38:59.429
+Brad Davis: And then we show that a…
+
+263
+00:38:59.930 --> 00:39:03.260
+Brad Davis: Conventional to a fixed effects model with a logged outcome.
+
+264
+00:39:03.720 --> 00:39:13.090
+Brad Davis: the synthetic DID with the logged outcome, and then stacked difference and difference using… excuse me… using levels instead of logs.
+
+265
+00:39:14.490 --> 00:39:27.129
+Brad Davis: All of these results are, across the different models, are directionally consistent, and there is a little bit of variation in the precision of the estimates, but,
+
+266
+00:39:27.130 --> 00:39:35.269
+Brad Davis: the conclusions are… are the same. So if we just look at this first column, looking at… at the unit sales per capita,
+
+267
+00:39:35.350 --> 00:39:48.209
+Brad Davis: All of these estimates are fairly similar in their magnitude, and actually, in two of these… of these four models, we actually get statistically significant estimates.
+
+268
+00:39:48.630 --> 00:39:51.999
+Brad Davis: going to… The far right column.
+
+269
+00:39:52.310 --> 00:39:55.829
+Brad Davis: Looking at cigarette sticks per capita.
+
+270
+00:39:56.220 --> 00:40:07.339
+Brad Davis: Three of these models estimate about a 10% increase in cigarette sales, and they're one of them that the, synthetic difference-in-difference model is a… is a,
+
+271
+00:40:07.560 --> 00:40:09.580
+Brad Davis: About a 20% increase.
+
+272
+00:40:10.490 --> 00:40:14.470
+Brad Davis: So results are… are very consistent across the modeling.
+
+273
+00:40:14.650 --> 00:40:21.110
+Brad Davis: Now, I do want to mention a few limitations of our data, or of the analyses here.
+
+274
+00:40:21.760 --> 00:40:29.119
+Brad Davis: One, we're using sales data, so… and so we can't say anything
+
+275
+00:40:29.460 --> 00:40:33.160
+Brad Davis: Or we don't… we don't know very much about the…
+
+276
+00:40:33.260 --> 00:40:43.039
+Brad Davis: The margins across where these… these sales are changing, and so we can't say anything about… about youth, so, we can't distinguish between youth or adults.
+
+277
+00:40:43.050 --> 00:40:53.629
+Brad Davis: We can't say anything about initiation or cessation. And then, participation versus the, intensity of use.
+
+278
+00:40:54.840 --> 00:40:57.900
+Brad Davis: Another limitation of our data?
+
+279
+00:40:58.130 --> 00:40:59.580
+Brad Davis: again, we…
+
+280
+00:40:59.800 --> 00:41:13.110
+Brad Davis: Our data for vaping product sales is restricted to the gas and convenience store sector, and so the results may not generalize to sales in other retail channels.
+
+281
+00:41:13.600 --> 00:41:20.339
+Brad Davis: So we tried to mitigate that a little bit with the Google Trends data, but still, it's a limitation of the paper.
+
+282
+00:41:21.280 --> 00:41:34.929
+Brad Davis: And then also, these flavor restrictions do vary a little bit across province in terms of the scope of where sales are permitted, and then… and then what products are, exempt. And so…
+
+283
+00:41:35.770 --> 00:41:44.339
+Brad Davis: Our estimates should be interpreted as the estimated effect as of the average of these policies, and not any one specific,
+
+284
+00:41:44.590 --> 00:41:49.199
+Brad Davis: Of these, not any one specific flavor restriction.
+
+285
+00:41:51.240 --> 00:41:53.880
+Brad Davis: So in summary, we find that
+
+286
+00:41:54.620 --> 00:42:11.860
+Brad Davis: the nicotine vaping product flavor restrictions within Canada nearly eliminated sales within the flavored category, and then also eliminated sales within the mint and menthol category in those provinces that prohibited it.
+
+287
+00:42:12.230 --> 00:42:21.530
+Brad Davis: And then we also find evidence of substitution, with large increases in the tobacco and unflavored
+
+288
+00:42:22.150 --> 00:42:30.800
+Brad Davis: vaping product category. And then we also see evidence of substitution to combustible cigarette sales.
+
+289
+00:42:31.840 --> 00:42:51.179
+Brad Davis: Now, if we remember looking back at the trends, trends were declining in both groups, and so when we say, cigarette sale, we estimate that cigarette sales increased by 9.6%. That should be understood or interpreted as it slowed down the decrease of, cigarette sales.
+
+290
+00:42:52.210 --> 00:42:54.420
+Brad Davis: This…
+
+291
+00:42:55.060 --> 00:43:10.530
+Brad Davis: Our findings in this study are consistent with what we see in the U.S. So this Friedman et al. paper looking at sales within the U.S. similarly finds that the vaping product flavor restrictions decreased
+
+292
+00:43:10.960 --> 00:43:14.169
+Brad Davis: Vaping product sales and increased cigarette sales.
+
+293
+00:43:14.750 --> 00:43:19.050
+Brad Davis: And so because of our… the findings of our paper,
+
+294
+00:43:19.310 --> 00:43:31.930
+Brad Davis: It tells us that this pattern of substitution between vaping products and combustible cigarettes persists in Canada despite its stricter tobacco control environment, and therefore,
+
+295
+00:43:32.480 --> 00:43:38.100
+Brad Davis: This pattern of substitutability, m-might,
+
+296
+00:43:39.500 --> 00:43:44.130
+Brad Davis: Might extend to… to other countries as, of, as well, of varying,
+
+297
+00:43:44.260 --> 00:43:49.179
+Brad Davis: Tobacco… ovarian Tobacco control environments.
+
+298
+00:43:51.060 --> 00:43:54.760
+Brad Davis: So for policy implications,
+
+299
+00:43:55.880 --> 00:43:59.579
+Brad Davis: Right, we present evidence that these flavor restrictions can
+
+300
+00:43:59.950 --> 00:44:10.299
+Brad Davis: Shift consumption towards combustible cigarettes, which are more harmful, and could plausibly reduce welfare and harm public health.
+
+301
+00:44:10.920 --> 00:44:15.510
+Brad Davis: Now there are… there's… Tucson, there's another…
+
+302
+00:44:15.790 --> 00:44:31.109
+Brad Davis: two sides to the, to the public health equation. To understand the total impact or the net impact on welfare and public health, we would also need to know something about what is happening, what impacts they have on youth vaping behavior.
+
+303
+00:44:32.050 --> 00:44:48.559
+Brad Davis: Youth are less likely to internalize the full cost of tobacco consumption, and therefore have more internalities associated with them, and more potential for reductions in welfare.
+
+304
+00:44:49.020 --> 00:44:51.210
+Brad Davis: And so,
+
+305
+00:44:51.420 --> 00:45:03.090
+Brad Davis: And so, again, if the full… the net impact on public… on welfare and public health, it will depend on, the impacts they have on youth vaping behavior, which… which we can't speak to in this study.
+
+306
+00:45:04.450 --> 00:45:19.950
+Brad Davis: Now there are some studies, that, that have, that are looking at this, or have looked at this. So this first paper here was recently, was a… is… was recently published. It's a public health paper looking at, Quebec's flavor restriction.
+
+307
+00:45:20.300 --> 00:45:26.330
+Brad Davis: They find that… that it was not associated with changes in youth vaping behavior.
+
+308
+00:45:27.370 --> 00:45:47.059
+Brad Davis: There's some mixed results within the U.S, so Cotty et al. is a U.S.-based paper that, that finds that flavor restrictions reduce the vaping intensity of adolescents, but did not have impacts on… on overall vaping rates.
+
+309
+00:45:47.140 --> 00:45:55.309
+Brad Davis: And then, Dr. Dove, our discussant, she also has, some work in this category, looking at,
+
+310
+00:45:55.610 --> 00:46:10.599
+Brad Davis: flavored Tobacco restrictions and its impact on adolescents, with some mixed results there. She presented this paper a few years ago, and then also, a couple months ago, presented a more recent paper.
+
+311
+00:46:12.400 --> 00:46:24.299
+Brad Davis: That… the recording from that presentation is not up right now, but it should be up at some point in the fall, so if you're interested in that, be on the lookout for that.
+
+312
+00:46:25.000 --> 00:46:32.750
+Brad Davis: But, in conclusion, given the, the, the evidence here that
+
+313
+00:46:32.860 --> 00:46:48.760
+Brad Davis: that these policies can, increase, sales of, combustible cigarettes. Policy makers should… that are considering adopting these policies should bring that into the… to the,
+
+314
+00:46:48.920 --> 00:46:55.900
+Brad Davis: To the… to the thought process and… and the calculation of… of the potential impacts of these policies.
+
+315
+00:46:57.530 --> 00:47:00.009
+Brad Davis: And that's all I have. Thank you, guys.
+
+316
+00:47:02.120 --> 00:47:03.220
+Ce Shang: Thank you, Brett.
+
+317
+00:47:03.430 --> 00:47:06.359
+Ce Shang: Let's turn to our discussant today.
+
+318
+00:47:06.540 --> 00:47:10.529
+Ce Shang: Dr. Dove to see whether she has any comments. Thank you.
+
+319
+00:47:12.110 --> 00:47:19.609
+Melanie Dove: Thank you. These are, really interesting results, and thank you for including our work in your discussion.
+
+320
+00:47:19.950 --> 00:47:23.830
+Melanie Dove: Let's see, I just have a few questions.
+
+321
+00:47:25.780 --> 00:47:33.619
+Melanie Dove: Let's see, it does seem like the increase in the cigarette sales is a little bit smaller than the…
+
+322
+00:47:34.060 --> 00:47:38.009
+Melanie Dove: You know, the decrease in the flavored vape product sales?
+
+323
+00:47:38.400 --> 00:47:49.080
+Melanie Dove: Is this something that should be emphasized or taken into account, and is… is this something that, you know, the U.S. studies have found as well?
+
+324
+00:47:51.740 --> 00:47:57.940
+Brad Davis: Hmm. So, I mean, one thing we do on our paper is we… we estimate the…
+
+325
+00:47:58.370 --> 00:48:09.420
+Brad Davis: Whether the nicotine content from the change in vaping sales is equivalent to the nicotine content from cigarette sales.
+
+326
+00:48:09.850 --> 00:48:23.379
+Brad Davis: We estimate that it's roughly equivalent. Now, there's a lot of assumptions built in, and so, you know, it's hard to say for certain, but based on that, and that's in the paper, so you can read that if you're
+
+327
+00:48:23.590 --> 00:48:27.919
+Brad Davis: Read about that if you're more interested in it.
+
+328
+00:48:28.150 --> 00:48:31.740
+Brad Davis: So I think that's… that's… it's roughly consistent now.
+
+329
+00:48:31.940 --> 00:48:39.079
+Brad Davis: As far as in the US, I… I'm not… I'm not sure. I think…
+
+330
+00:48:39.200 --> 00:48:43.190
+Brad Davis: So… so, Dr. Friedman, who,
+
+331
+00:48:43.670 --> 00:48:51.119
+Brad Davis: was one of the co-authors on that paper. She might be here, she might be able to comment on that, but I'm not certain offhand.
+
+332
+00:48:53.670 --> 00:48:55.500
+Melanie Dove: Okay, thank you, that,
+
+333
+00:48:55.640 --> 00:49:02.110
+Melanie Dove: Yeah, the calculation that you did for the, yeah, the nicotine content, that sounds interesting.
+
+334
+00:49:04.570 --> 00:49:15.519
+Melanie Dove: Let's see, and then, I was just wondering, you mentioned that some of the provinces allowed, still allowed, mint and menthol vapes?
+
+335
+00:49:15.670 --> 00:49:23.519
+Melanie Dove: And I was wondering if, yeah, if there was a different result for the cigarette sales among those
+
+336
+00:49:23.640 --> 00:49:29.100
+Melanie Dove: Provinces that allowed, mentor mental vibes.
+
+337
+00:49:30.080 --> 00:49:35.810
+Brad Davis: Yep, so we do… we do a… a one-province at a time analysis.
+
+338
+00:49:36.030 --> 00:49:37.270
+Brad Davis: And…
+
+339
+00:49:37.650 --> 00:49:55.979
+Brad Davis: You know, we thought that we might see, if they… if they exempted the mint category, that we'd see, less… a less substitution to combustible cigarettes. It wasn't really clear to us that there was any pattern. Now, across the… across all
+
+340
+00:49:56.170 --> 00:50:06.789
+Brad Davis: provinces that adopted a flavor restriction, the… the coefficient was positive for cigarette sales. But again, it… the magnitudes did not really align with
+
+341
+00:50:07.090 --> 00:50:10.450
+Brad Davis: With any one specific policy type.
+
+342
+00:50:12.330 --> 00:50:13.120
+Melanie Dove: Okay.
+
+343
+00:50:13.350 --> 00:50:14.969
+Brad Davis: So, I don't… yeah.
+
+344
+00:50:20.280 --> 00:50:20.880
+Melanie Dove: Okay.
+
+345
+00:50:21.100 --> 00:50:27.589
+Melanie Dove: I think I saw… did Dr. Friedman, I think… Did she respond?
+
+346
+00:50:27.590 --> 00:50:40.550
+Ce Shang: Yes, she said, it's… to your prior question, this is hard to parse with sales data, since we cannot distinguish intensive versus extensive margin changes.
+
+347
+00:50:43.250 --> 00:50:43.870
+Melanie Dove: Okay.
+
+348
+00:50:47.110 --> 00:50:52.289
+Melanie Dove: I mean… Okay, I just had one more question,
+
+349
+00:50:53.010 --> 00:50:58.699
+Melanie Dove: So you, so there's this… your results show that,
+
+350
+00:50:58.820 --> 00:51:03.369
+Melanie Dove: You know, there's this… this, you found an increase in cigarette sales.
+
+351
+00:51:03.620 --> 00:51:06.230
+Melanie Dove: I was just wondering, you know.
+
+352
+00:51:06.450 --> 00:51:15.229
+Melanie Dove: Can you recommend, like, how would you modify the policy, or can you recommend a different policy to
+
+353
+00:51:16.070 --> 00:51:21.299
+Melanie Dove: That… that might be more effective in reducing to Tobacco use or sales.
+
+354
+00:51:24.430 --> 00:51:41.160
+Brad Davis: Hmm, I don't… I don't know, that's a really, a really challenging question, just because, you know, I… I think we also need… need evidence, more evidence on the impacts on… on youth and their vaping behavior. I mean, I think given the…
+
+355
+00:51:41.220 --> 00:51:45.460
+Brad Davis: the increases in combustible sales, I…
+
+356
+00:51:45.540 --> 00:52:03.949
+Brad Davis: I would be cautious, more cautious about adopting a… a more comprehensive policy that… that bans it across locations. Like, I would be more in favor of some exemptions for mint or mintball categories, and just maybe be a little bit more hesitant about,
+
+357
+00:52:05.650 --> 00:52:20.079
+Brad Davis: about more comprehensive policies, but again, I think we also need more evidence on… on the impacts on youth vaping behavior, to really be able to understand the net impacts of the policy.
+
+358
+00:52:23.250 --> 00:52:23.890
+Melanie Dove: Okay.
+
+359
+00:52:24.100 --> 00:52:27.680
+Melanie Dove: Is there something in particular that you think would help?
+
+360
+00:52:27.800 --> 00:52:31.760
+Melanie Dove: For the evidence on youth vaping behavior.
+
+361
+00:52:32.370 --> 00:52:48.360
+Brad Davis: Well, so, I mean, there is some, right, we have done some studies in the U.S. on this work. I think, and particularly, you know, there's not much within Canada, so I think that would be valuable, but also just to see, you know.
+
+362
+00:52:48.580 --> 00:52:57.829
+Brad Davis: initiation into the… to the vaping product market among youth. Right? If we see that these policies are really
+
+363
+00:52:58.130 --> 00:53:01.490
+Brad Davis: Are really effective at reducing initiation into the vaping
+
+364
+00:53:01.590 --> 00:53:05.119
+Brad Davis: The vaping market, then,
+
+365
+00:53:05.570 --> 00:53:20.870
+Brad Davis: you know, then that might add to some of the public health and welfare benefits of the policy, and at that point, you know, you're just… you're measuring, you know, the trade-off in the two policies.
+
+366
+00:53:22.030 --> 00:53:25.930
+Brad Davis: So, you know, and I… I think…
+
+367
+00:53:27.200 --> 00:53:46.529
+Brad Davis: you know, something I recently thought of that, you know, you asked about maybe other changes to make. Something specific to Canada, and I don't know how much this would make a difference, but Canada has fairly restrictive policies on… on, nicotine pouches.
+
+368
+00:53:46.780 --> 00:53:58.890
+Brad Davis: Right? And, during… during the time of this study, nicotine pouches were not available at all, at least not to be sold legally within Canada, and they only recently became legal.
+
+369
+00:53:59.900 --> 00:54:03.640
+Brad Davis: You know, in the presence…
+
+370
+00:54:03.930 --> 00:54:21.280
+Brad Davis: of nicotine pouches, consumers… some consumers might substitute from… from vaping to pouches rather than to combustible cigarettes. So that, you know, that's also a policy dimension as well. Now, in the U.S,
+
+371
+00:54:21.500 --> 00:54:26.940
+Brad Davis: You know, nicotine pouches are much more broadly available.
+
+372
+00:54:27.720 --> 00:54:32.120
+Brad Davis: And we see that substitution pattern as well.
+
+373
+00:54:32.740 --> 00:54:38.839
+Brad Davis: So… Yeah, I mean, so that's… that's another policy dimension to… to consider.
+
+374
+00:54:40.110 --> 00:54:42.330
+Melanie Dove: Yeah, yeah, that's really interesting.
+
+375
+00:54:42.560 --> 00:54:55.980
+Brad Davis: Yeah. And then again, you know, it presents another trade-off, because nicotine pouches also create a new opportunity for more people to initiate into the nicotine and tobacco market, so…
+
+376
+00:54:57.810 --> 00:55:00.090
+Melanie Dove: Right, right.
+
+377
+00:55:01.150 --> 00:55:05.040
+Melanie Dove: Yeah, thank you for that, and…
+
+378
+00:55:05.530 --> 00:55:09.699
+Melanie Dove: Yeah, those are all of the questions I had.
+
+379
+00:55:09.820 --> 00:55:11.030
+Melanie Dove: Pretty steady.
+
+380
+00:55:11.290 --> 00:55:12.379
+Brad Davis: Yep, thank you.
+
+381
+00:55:13.280 --> 00:55:18.200
+Ce Shang: Thank you. So, I see that there is some discussion in the Q&A, but I think Mike
+
+382
+00:55:18.490 --> 00:55:21.740
+Ce Shang: Had most questions answered.
+
+383
+00:55:21.950 --> 00:55:28.079
+Ce Shang: Okay, so I see another question from Chris. Can we still make a statement, though?
+
+384
+00:55:28.120 --> 00:55:44.729
+Ce Shang: Using, Alcot's estimate of the relative harm of vaping versus smoking about the net public health impact of this policy, using net changes in cigarette versus vape sales that you estimate, or does this require too many assumptions?
+
+385
+00:55:46.470 --> 00:55:49.539
+Brad Davis: I'm sorry, could you, could you read that question again?
+
+386
+00:55:49.540 --> 00:55:53.979
+Ce Shang: It's about the calculation of the net public health.
+
+387
+00:55:54.260 --> 00:56:04.019
+Ce Shang: Eugene Hunt, I'm not probably pronouncing his name wrong. Alcott A-L-L-C-O-T-T, do you remember the paper that,
+
+388
+00:56:04.020 --> 00:56:04.690
+Brad Davis: Yes, yes.
+
+389
+00:56:04.690 --> 00:56:05.170
+Ce Shang: doing the.
+
+390
+00:56:05.170 --> 00:56:05.510
+Brad Davis: Oh.
+
+391
+00:56:05.510 --> 00:56:09.079
+Ce Shang: harms of vaping versus smoking? Yeah.
+
+392
+00:56:09.650 --> 00:56:15.889
+Brad Davis: Yup. Yeah, I mean, I do think, you know, that there are some…
+
+393
+00:56:16.040 --> 00:56:21.990
+Brad Davis: potential for public harm due to the increases in combustible, cigarettes. Now,
+
+394
+00:56:22.200 --> 00:56:27.030
+Brad Davis: It also depends on where the reduction in vaping is taking place.
+
+395
+00:56:27.190 --> 00:56:28.470
+Brad Davis: So…
+
+396
+00:56:29.030 --> 00:56:39.689
+Brad Davis: you know, as I've mentioned, if the reduction in vaping is taking place among adolescents, which, you know, could be, that some of it is.
+
+397
+00:56:39.920 --> 00:56:44.320
+Brad Davis: Right, there could be some public health benefits from that as well.
+
+398
+00:56:44.810 --> 00:56:52.129
+Brad Davis: Right, doing this exact calculation is, is, probably beyond the scope of the paper.
+
+399
+00:56:52.840 --> 00:56:55.710
+Brad Davis: But, you know, perhaps something to think about a little bit more.
+
+400
+00:56:57.630 --> 00:57:07.409
+Ce Shang: Sure, and Doug Levy has shared a recent paper on the potential mortality impacts of vaping versus smoking initiated during adolescence.
+
+401
+00:57:07.560 --> 00:57:15.870
+Ce Shang: So that could also help understanding, the findings in the context. So I think we are about time.
+
+402
+00:57:16.160 --> 00:57:19.709
+Ce Shang: So I'll let our MC, Pingchuan, to take us out.
+
+403
+00:57:20.120 --> 00:57:23.509
+Ce Shang: Thank you, Brad, for the great presentation. Thanks.
+
+404
+00:57:26.400 --> 00:57:45.450
+Pingchuan Ma: Thank you, Ce and Brad. We are out of time, so if you still have burning questions or thoughts for Brad Davis, you can join us for Top of the Tops, an interactive group discussion. To join, please copy the Zoom meeting room URL posted in the chat, and switch rooms with us once this event concludes.
+
+405
+00:57:45.450 --> 00:57:52.109
+Pingchuan Ma: We'll leave the webinar room open for an extra minute after the end to give everyone a chance to copy the URL.
+
+406
+00:57:52.280 --> 00:58:08.169
+Pingchuan Ma: Which is beat.ly slash chopsmeeting, all in lowercase. Thank you to our presenter, moderator, and discussant. And finally, thank you to the audience of 140 people for your participation. Have a chops-notch weekend.
+
