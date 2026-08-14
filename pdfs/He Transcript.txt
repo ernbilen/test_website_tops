@@ -1,0 +1,1358 @@
+WEBVTT
+
+1
+00:00:02.800 --> 00:00:13.489
+Parisa Moghaddam: Welcome to the Tobacco Online Policy Seminar, TOPS. Thank you for joining us today. I'm Parisa Moghaddam, a PhD student in health economics at The Ohio State University.
+
+2
+00:00:14.070 --> 00:00:26.690
+Parisa Moghaddam: TOPS is organized by Mike Pesko at University of Missouri, Seisheng at Ohio State University, Michael Darden at Johns Hopkins University, Jamie Hartmann-Boyce at the University of Los Angeles at Ahmad, and Justin White at Boston University.
+
+3
+00:00:26.690 --> 00:00:38.469
+Parisa Moghaddam: The seminar will be one hour, with questions from the moderator and discussant. The audience may post questions and comments in the Q&A panel, and the moderator will draw from these questions and comments in conversation with the presenter.
+
+4
+00:00:39.100 --> 00:00:47.790
+Parisa Moghaddam: Please review the guidelines on TobaccoPolicy.org for acceptable questions. Please keep the questions professional and related to the research being discussed.
+
+5
+00:00:47.810 --> 00:01:03.480
+Parisa Moghaddam: Questions that meet the Seminar series guidelines will be shared with the presenter afterwards, even if they are not read aloud. Your questions are very much appreciated. This presentation is being video recorded and will be made available along with the presentation slides on the TOPS website, TobaccoPolicy.org.
+
+6
+00:01:03.520 --> 00:01:10.779
+Parisa Moghaddam: I will turn the presentation over to today's moderator, Jamie Hartmann-Boyce from the University of Massachusetts at Amres, to introduce our speaker.
+
+7
+00:01:11.090 --> 00:01:29.399
+Jamie Hartmann-Boyce: Hello, everyone! Today, we continue our Summer 2026 season with a single paper presentation by Julia He, entitled, Standardizing Excise Taxes and Estimating Tax Pass-Through Rate for Oral Nicotine Pouches in the U.S. Market. This presentation was selected by a competitive review process by submission through the TOPS website.
+
+8
+00:01:29.880 --> 00:01:47.230
+Jamie Hartmann-Boyce: Dr. He is a health economist and senior research scientist at the Center for Tobacco Research in the Ohio State University Comprehensive Cancer Center. Her research uses economic analysis and policy evaluation to examine tobacco use in the U.S. and internationally, generating evidence to inform tobacco regulation.
+
+9
+00:01:47.320 --> 00:02:03.109
+Jamie Hartmann-Boyce: Her recent work focuses on oral nicotine pouches, an emerging class of nicotine products. Dr. C. Sheng, an associate professor at The Ohio State University, is a co-author of the study and will answer select questions in the Q&A. Dr. He, thank you so much for presenting for us today.
+
+10
+00:02:05.000 --> 00:02:06.929
+Julia He: Hi, everyone,
+
+11
+00:02:07.110 --> 00:02:18.810
+Julia He: It's my pleasure to be here today. Thank you for the introduction, and thank you for joining my presentation today. Today, let me share my screen first.
+
+12
+00:02:19.360 --> 00:02:23.360
+Julia He: Yeah.
+
+13
+00:02:23.410 --> 00:02:42.400
+Julia He: Today, I will be presenting my study titled, Standardizing Access Taxes and Estimating the Tax Pass-Through Rates for Oral Nicotine Pouches in the U.S. Market. So, oral nicotine pouches are becoming increasingly popular product in the U.S. in recent years.
+
+14
+00:02:42.400 --> 00:02:50.879
+Julia He: However, states use various methods to tax these products, making it difficult to compare tax levels across states.
+
+15
+00:02:51.320 --> 00:03:04.119
+Julia He: In this study, I will introduce a method to the, to standardize OMP access taxes so that all taxes can be compared at this, across states.
+
+16
+00:03:10.190 --> 00:03:22.369
+Julia He: Okay, so this is my founding statement. This study was supported by the OSU T-Course project. I was also supported by the OSU T-Course pilot project.
+
+17
+00:03:22.560 --> 00:03:29.560
+Julia He: I declare that I have never received funding from tobacco, vaping, and pharmaceutical industries.
+
+18
+00:03:30.150 --> 00:03:46.720
+Julia He: This study uses the NielsenIQ retail scanner data. As always, the conclusions drawn from the data are those of the authors and do not represent the views of the NewsIQ, and I have no other conflict of interest to declare.
+
+19
+00:03:48.020 --> 00:03:57.410
+Julia He: So, what are oral nicotine pouches, or OMPs? OMPs are small pouches that contain nicotine, but do not contain tobacco leaf.
+
+20
+00:03:57.660 --> 00:04:03.680
+Julia He: They are placed between the gum and upper lip, allowing nicotine to be absorbed.
+
+21
+00:04:03.680 --> 00:04:22.250
+Julia He: through oral mucosa. Some of the OMTs contain tobacco-derived nicotines, whereas other… others contain non-tobacco nicotine, also called synthetic nicotine. Some of the well-known brands include Zin, Ong, ROG, and Velo.
+
+22
+00:04:22.260 --> 00:04:24.640
+Julia He: OMPs are available, you know.
+
+23
+00:04:24.670 --> 00:04:38.009
+Julia He: range of nicotine concentration, ranging from 1.5mg to 8 mg per pouch. Some of the OMPs contain up to nearly 50 milligram nicotine per pouch.
+
+24
+00:04:38.060 --> 00:04:44.740
+Julia He: OMGs are also available in a wide variety of flavors.
+
+25
+00:04:45.350 --> 00:04:55.860
+Julia He: You can name it, many, many flavors. And, such as mint, Mansaw, wintergreen, spearmint, fruit, to Tobacco, coffee, etc.
+
+26
+00:04:56.140 --> 00:05:06.740
+Julia He: So, usually, you know, generally speaking, OMPs are considered lower-risk nicotine products. However, they still contain nicotine.
+
+27
+00:05:07.050 --> 00:05:12.509
+Julia He: And they have the potential to lead to nicotine addiction.
+
+28
+00:05:14.430 --> 00:05:17.540
+Julia He: So why is it important to study
+
+29
+00:05:17.590 --> 00:05:34.579
+Julia He: OMPs. The primary reason is that the OMP market has grown rapidly in recent years. Since early sales data show that the OMP sales increased from just 163,000
+
+30
+00:05:35.000 --> 00:05:50.950
+Julia He: units in 2016 to 46 million units in 2020. Our more recent work found that the OMP sales has continued to accelerate since 2021, with monthly OMP sales
+
+31
+00:05:50.950 --> 00:06:03.669
+Julia He: Rising from 327 million units in July 2021 to over 1 billion units by May 2024, and similar trends has also been observed globally.
+
+32
+00:06:04.000 --> 00:06:09.849
+Julia He: At the same time, the awareness and OMP use prevalence has also increased.
+
+33
+00:06:10.120 --> 00:06:22.429
+Julia He: National survey data showed that 3% of U.S. adults reported ever use of OMPs in 2021, and nearly 30% of adults who smoked
+
+34
+00:06:22.440 --> 00:06:39.530
+Julia He: had ever seen or heard of OMPs, and 5.6% had ever tried OMPs, and nearly 17% reported interest in using OMPs in the next 6 months. Use use has also increased.
+
+35
+00:06:39.850 --> 00:06:50.790
+Julia He: The past 30-day use among high school students increased from 1.1% in 2021 all the way to 2.4% in 2024.
+
+36
+00:06:51.450 --> 00:06:57.299
+Julia He: These trends highlight the growing public health importance of OMPs.
+
+37
+00:06:59.220 --> 00:07:08.580
+Julia He: So, one of the key questions surrounding OMPs is whether they contribute to harm reduction.
+
+38
+00:07:09.310 --> 00:07:14.140
+Julia He: This discussion is similar to the debate around e-cigarettes.
+
+39
+00:07:14.300 --> 00:07:33.970
+Julia He: So the overall public health impact depends on who use them and how they are used. On one hand, harm may reduce if adults use OMPs to quit smoking, or if individuals who would otherwise initiate cigarette smoking use OMPs instead.
+
+40
+00:07:34.710 --> 00:07:36.719
+Julia He: However, on the other hand.
+
+41
+00:07:36.910 --> 00:07:47.420
+Julia He: harm may increase if people who… if smokers do use OMP, cigarettes and OMPs, rather than quit smoking altogether.
+
+42
+00:07:47.640 --> 00:08:02.400
+Julia He: In addition, if people who never used nicotine, especially adolescents, begin using OMPs and become addicted, the net public health impact could be negative. These competing possibilities
+
+43
+00:08:02.480 --> 00:08:11.909
+Julia He: Highlight the importance for the evidence-based… how evidence-based policies, such as taxisations,
+
+44
+00:08:12.590 --> 00:08:21.700
+Julia He: can, maximize the potential, benefits of OMPs while minimizing the unintended consequences.
+
+45
+00:08:23.520 --> 00:08:35.619
+Julia He: So this figure illustrates the OMP tax landscape in the United States. As of December 2025, no federal tax has been imposed
+
+46
+00:08:35.750 --> 00:08:37.200
+Julia He: on OMPs.
+
+47
+00:08:37.990 --> 00:08:41.749
+Julia He: Taxation was determined at the state level.
+
+48
+00:08:41.919 --> 00:08:45.430
+Julia He: among 50 states and Washington, D.C.
+
+49
+00:08:45.770 --> 00:08:57.410
+Julia He: 30… 29 states and DC do not impose any taxes on OMPs. Among the 20… 21 states.
+
+50
+00:08:57.780 --> 00:09:00.100
+Julia He: that have OMP taxes.
+
+51
+00:09:00.460 --> 00:09:13.349
+Julia He: 3 applied weight-based specific taxes measured at dollar per ounce, and 4 applied uni-based specific taxes measured at
+
+52
+00:09:13.550 --> 00:09:15.180
+Julia He: At dollar per can.
+
+53
+00:09:15.470 --> 00:09:27.050
+Julia He: And 11 applied at volume taxes based on wholesale prices. 3 applied at volume taxes based on manufacturer prices.
+
+54
+00:09:28.320 --> 00:09:30.330
+Julia He: Regarding the product type.
+
+55
+00:09:30.560 --> 00:09:35.960
+Julia He: 15 states tax OMPs containing both TDN and NTN.
+
+56
+00:09:36.080 --> 00:09:38.990
+Julia He: And there is 5 states.
+
+57
+00:09:39.330 --> 00:09:48.459
+Julia He: tax only OMPs with TDN. Nevada is the only state that tax only OMPs with NTN.
+
+58
+00:09:49.340 --> 00:09:56.240
+Julia He: the number of states that imposed excess taxes on OMPs increased from
+
+59
+00:09:56.520 --> 00:10:03.330
+Julia He: 12 in 2017 to 21 in 2025.
+
+60
+00:10:04.730 --> 00:10:20.720
+Julia He: So, regarding the tax pass-through rates, previous literature found that cigarette taxes were fully passed or overshifted to prices, with higher tax pass-through rates observed for higher-priced cigarettes.
+
+61
+00:10:21.050 --> 00:10:27.289
+Julia He: Research on moist enough shows similar pattern. My previous study found that
+
+62
+00:10:27.530 --> 00:10:35.150
+Julia He: Mohamed Nav taxes were fully passed through to prices at the 25th and 50th percentile
+
+63
+00:10:35.370 --> 00:10:45.780
+Julia He: percentiles, and over-shifted at the 75th percentile. However, to date, no evidence exists on OMP,
+
+64
+00:10:45.940 --> 00:10:49.539
+Julia He: on the… on the tax pass-through rates for OMTs.
+
+65
+00:10:50.070 --> 00:10:59.959
+Julia He: So this… based on the… these, research gaps, this study has two main objectives. First, we sought to…
+
+66
+00:11:00.160 --> 00:11:09.889
+Julia He: develop a method to standardize OMP tax… OMP access taxes. Second, we will use the…
+
+67
+00:11:10.490 --> 00:11:17.139
+Julia He: A standardized text measure to assess the tax pass-through rates for OMPs.
+
+68
+00:11:17.920 --> 00:11:23.729
+Julia He: Then I will move to the first objective, standardizing OMP access taxes.
+
+69
+00:11:24.720 --> 00:11:26.450
+Julia He: So, the method…
+
+70
+00:11:26.690 --> 00:11:40.609
+Julia He: So the key idea is to select a single tax base as a common anchor, and convert all other text bases into this shared metric, so that all taxes can be compared.
+
+71
+00:11:41.880 --> 00:11:57.969
+Julia He: So we developed two, standardized tax measures. First, we construct, we convert ad valorem taxes and unit-based, specific taxes to weight-based, taxes.
+
+72
+00:11:58.070 --> 00:12:11.750
+Julia He: We construct both time-invariant and time-varying measures. Time-invariant measures involve using a fixed benchmark price, whereas time-varying measures involve
+
+73
+00:12:11.900 --> 00:12:15.230
+Julia He: Using a, varying prices.
+
+74
+00:12:16.080 --> 00:12:24.170
+Julia He: And then the… And second, we convert all the specific taxes to adolarum taxes.
+
+75
+00:12:24.590 --> 00:12:27.719
+Julia He: So, these standardized tax measures.
+
+76
+00:12:27.910 --> 00:12:39.059
+Julia He: will, support future studies by enabling robust statistical analysis and comparisons of OMP tax levels across states.
+
+77
+00:12:39.650 --> 00:12:50.479
+Julia He: So, the OMP tax data was hand-select, collected through direct communication with each state's tax agencies.
+
+78
+00:12:51.240 --> 00:12:59.490
+Julia He: For those states that did not respond to our email inquiries, we submit a FOIA request.
+
+79
+00:13:00.090 --> 00:13:16.500
+Julia He: And then the… we also used the Nielsen IQ retail scanner data to extract OMP prices and sales. The CPI data was used to calculate the, inflation-adjusted OMP prices.
+
+80
+00:13:18.000 --> 00:13:25.850
+Julia He: So, first, I will discuss the method for converting all other tax bases to weight-based taxes.
+
+81
+00:13:26.070 --> 00:13:43.190
+Julia He: Since, the can weight, vary across brands. For example, a thin can with 0.21 ounces. However, the Ong can with, 0…
+
+82
+00:13:43.310 --> 00:13:56.760
+Julia He: 0.19 ounces. So we, we first, we, calculate the market share weighted average can weight. We call the standard… a standard can weed.
+
+83
+00:13:57.320 --> 00:14:00.130
+Julia He: Based on our previous research.
+
+84
+00:14:00.260 --> 00:14:07.860
+Julia He: The four brands seen on ROG and Velo, accounted for 99% of market share.
+
+85
+00:14:07.990 --> 00:14:10.539
+Julia He: So, we use these four brands.
+
+86
+00:14:10.820 --> 00:14:18.530
+Julia He: And each market share, and then calculate the, standard count weight, which is 0.23.
+
+87
+00:14:19.090 --> 00:14:31.570
+Julia He: Then we use this standard kind weight to convert the unit-based taxes to weight-based taxes. For example, Texas imposed $1.46
+
+88
+00:14:31.790 --> 00:14:43.710
+Julia He: Taxes, or can, which translates to the weight-based taxes is… $6.26… cents per ounce.
+
+89
+00:14:44.470 --> 00:14:46.119
+Julia He: When we,
+
+90
+00:14:47.080 --> 00:15:01.889
+Julia He: convert ad valorem taxes to weight-based taxes. For the time invariant measure, we use the following, formula. So the benchmark price, how we, determine the benchmark price.
+
+91
+00:15:02.070 --> 00:15:15.010
+Julia He: Since 2017, it's the first year that the OMP sales data, sales record is available in the NRSD. Only in three, non-tax states.
+
+92
+00:15:15.050 --> 00:15:17.010
+Julia He: Health sales record.
+
+93
+00:15:17.040 --> 00:15:19.300
+Julia He: And, 3 of the…
+
+94
+00:15:19.300 --> 00:15:43.050
+Julia He: of them had fewer than 3-month sales record. So we consider that it's not, representative of the national data, national price. Therefore, we, extend the year to 2018. So we used the average sales weighted retail prices from 2017 to 2018 across 11 non-
+
+95
+00:15:43.050 --> 00:15:43.870
+Julia He: state.
+
+96
+00:15:44.000 --> 00:15:48.510
+Julia He: non-tax states. Then we calculate the benchmark price.
+
+97
+00:15:48.800 --> 00:15:59.829
+Julia He: Then we use two assumptions for the markup rate. One is 35 markup rate, and the other one is 20% markup rate.
+
+98
+00:16:00.100 --> 00:16:10.629
+Julia He: Then I will give you two examples. The first example, Minnesota imposes taxes at the 95% of wholesale prices.
+
+99
+00:16:10.630 --> 00:16:20.790
+Julia He: So first, we calculate the fixed benchmark price. According to our data, the benchmark price is $4.39 per cap.
+
+100
+00:16:21.700 --> 00:16:26.609
+Julia He: Then translate… we translate this price to… into, weight-based.
+
+101
+00:16:26.770 --> 00:16:32.340
+Julia He: So that corresponds to $18.83 per ounce.
+
+102
+00:16:32.590 --> 00:16:45.580
+Julia He: Then we calculate the benchmark wholesale price according to the markup… the markup rate, 35 markup rate. That is $13.95 per ounce.
+
+103
+00:16:45.810 --> 00:17:01.599
+Julia He: Then we use the formula. We divide this benchmark wholesale price by 1 plus tax rate, and then multiply by tax rate. That is $6.79 per ounce.
+
+104
+00:17:02.180 --> 00:17:15.209
+Julia He: And then the second example is Colorado. Colorado imposed a tax at a 56% of the manufacturer list price. The only difference is…
+
+105
+00:17:15.270 --> 00:17:25.679
+Julia He: We, you know, when we… we need to calculate the benchmark manufacturer price, so we divide the… the… the benchmark retail price
+
+106
+00:17:25.750 --> 00:17:33.169
+Julia He: By 1.35 square. So that's the only difference.
+
+107
+00:17:34.240 --> 00:17:43.129
+Julia He: And then we use the same formula to calculate the standardized way-based taxes, that is $3.71.
+
+108
+00:17:45.970 --> 00:17:51.830
+Julia He: So the methods, to convert to weight-based taxes,
+
+109
+00:17:51.890 --> 00:18:06.300
+Julia He: using, time-varying measures. So, the time invariant measure captures only policy-driven changes. However, it doesn't reflect the actual… actual levels of ad valorem taxes.
+
+110
+00:18:06.420 --> 00:18:12.040
+Julia He: So we, we calculate the, time-varying, weight-based taxes.
+
+111
+00:18:12.280 --> 00:18:19.659
+Julia He: So we replaced the nominator, you know, the benchmark price with the varying price levels.
+
+112
+00:18:20.110 --> 00:18:26.030
+Julia He: So, that… the prevailing, prices. So, it's worth noting that in case
+
+113
+00:18:26.200 --> 00:18:37.700
+Julia He: This measure, you know, if the price data is missing for a given state-month combination, the corresponding standardized specific tax values will be missing.
+
+114
+00:18:39.100 --> 00:18:46.859
+Julia He: And then the, next, we will introduce the… how we convert to add volume taxes.
+
+115
+00:18:47.240 --> 00:18:48.350
+Julia He: So…
+
+116
+00:18:48.530 --> 00:18:59.979
+Julia He: So, there are two, type of specific taxes. One is weight-based taxes, and the other one is unit-based taxes. So, in this case, we first convert
+
+117
+00:19:00.010 --> 00:19:14.289
+Julia He: the wheat-based taxes into unit-based taxes using the standard con wheat, and then we convert the unit-based taxes to add volum taxes at the wholesale level using this formula.
+
+118
+00:19:14.540 --> 00:19:27.949
+Julia He: Basically, the denominator is the unit-based specific taxes, and then the denominator is the benchmark prices exclusive of specific taxes.
+
+119
+00:19:28.560 --> 00:19:39.669
+Julia He: And then for states that impose, ad valorem taxes at the manufacturer level, we just divide this tax rate by 1 plus,
+
+120
+00:19:39.880 --> 00:19:41.969
+Julia He: 1 plus markup rate.
+
+121
+00:19:42.770 --> 00:19:48.719
+Julia He: So I will pause here, and then see if, discussant has any questions.
+
+122
+00:19:49.260 --> 00:19:52.509
+Julia He: And also the audience, if it has any questions.
+
+123
+00:19:52.780 --> 00:20:09.859
+Jamie Hartmann-Boyce: Thank you so much. So yes, audience, please do submit questions through the Q&A, but first, I'm very happy to introduce today's moderator. I mean, today's discussant, sorry. Our discussant is Dr. Lauren Czaplicki, an associate scientist from Johns Hopkins Bloomberg School of Public Health.
+
+124
+00:20:09.940 --> 00:20:19.649
+Jamie Hartmann-Boyce: Lauren studies the content and influence of tobacco marketing, particularly nicotine pouch marketing, in the U.S. Over to you, Lauren, for any initial thoughts or questions.
+
+125
+00:20:19.650 --> 00:20:29.380
+Lauren Czaplicki: Thank you, and thank you so much, Julia, for the amazing, introduction to this topic and setting the stage for how important understanding this is.
+
+126
+00:20:29.380 --> 00:20:54.309
+Lauren Czaplicki: And I think at this point, I just wanted to take a little bit of a bigger picture lens and try to understand, when thinking about tax policy, if you could talk a little bit about how tax policy in the U.S. works, or other international contexts, if that seems relevant. So are there any federally mandated taxes on to Tobacco products currently? I know you said that there's no federal
+
+127
+00:20:54.310 --> 00:21:18.560
+Lauren Czaplicki: excise tax on OMPs, but anything that's relevant for us to know about how other tobacco products are taxed, and also how states or other localities might have authority to, to, have their own, measures, and whether any of that might be preempted by federal law. So, just kind of a broader overview of how taxes as a policy mechanism works.
+
+128
+00:21:19.140 --> 00:21:38.710
+Julia He: Okay, okay, good. That's a great question. So, tobacco taxes actually are very different. For combustible cigarettes, in the U.S, we use a unified tax measure. You know, all taxes are levied on, when,
+
+129
+00:21:39.090 --> 00:21:51.199
+Julia He: one package of 20 cigarettes, right? That's a unified taxes. We don't need to standardize, yeah. And then… but for other to Tobacco and nicotine product.
+
+130
+00:21:51.240 --> 00:21:56.450
+Julia He: Packs are becoming, like, excess taxes are becoming complicated.
+
+131
+00:21:56.490 --> 00:22:15.859
+Julia He: For example, e-cigarettes, you know, because there are many types of e-cigarettes, including open, open cigarettes, and closed system, open system cigarettes, and closed system cigarettes. And then some states tax, you know, on the…
+
+132
+00:22:15.910 --> 00:22:26.289
+Julia He: you know, as we can see, you know, for the OMPs, you know, some states, you know, they just use various methods to tax e-cigarettes.
+
+133
+00:22:26.350 --> 00:22:39.470
+Julia He: And for… for smoke-based Tobacco, you know, it's similar to OMPs, because as I, conducted, you know, the email inquiries to… directly to the, you know.
+
+134
+00:22:39.540 --> 00:22:55.220
+Julia He: each state's, tax agencies, and many states told me that, you know, in their states, OMP taxes are… OMPs are taxed at the, you know, similarly to, moist enough.
+
+135
+00:22:55.220 --> 00:23:06.690
+Julia He: So, you know, for… for moist enough, because, for smoothies to Tobacco, there are many, there are several types of smoothies to Tobacco. For example, they, they have, they include moist enough.
+
+136
+00:23:06.690 --> 00:23:25.300
+Julia He: dry snuff, snooze, right? And, what, what's, what's the other one? Snooze, and also, oh, sorry, yeah, there's four types, yeah, four types. I did a paper on this, on this one. So, so you, yeah, the,
+
+137
+00:23:25.560 --> 00:23:40.609
+Julia He: So the taxes, excess taxes on smallest tobacco need also to be standardized in order, you know, they can be used to examine, okay, what is the tax… tax effects on use behaviors, right, on sales?
+
+138
+00:23:40.610 --> 00:23:45.900
+Julia He: So, without these unified measures, we cannot do the statistical analysis.
+
+139
+00:23:45.900 --> 00:24:00.099
+Julia He: And for OMPs, you know, it's, it's, it is very similar, you know, to, smokeless tobacco. So, in the beginning, you know, many states, they tax OMPs just like, smoke, moist enough.
+
+140
+00:24:00.300 --> 00:24:16.600
+Julia He: But for other states, you know, like, they adopt adolarium taxes, which is the percent of the prices. They can use the manufacturer price as the base price, or the wholesale price as the base price.
+
+141
+00:24:16.600 --> 00:24:25.750
+Julia He: So, yeah, so this variety, you know, they create such a heterogeneity in the PEX methods. So, which…
+
+142
+00:24:26.120 --> 00:24:36.790
+Julia He: you know, make it… makes it very difficult to compare tax levels across states. So that provides the motivation for this, present study.
+
+143
+00:24:37.150 --> 00:24:41.070
+Lauren Czaplicki: Yeah, that's so helpful to kind of have that broader picture of how
+
+144
+00:24:41.420 --> 00:24:59.110
+Lauren Czaplicki: this all works, especially as we're thinking about price as a policy lever, you know, wanting to have a price that's accessible to adults who might want to use this product. If they already are using tobacco, might want to use this product to help quit, versus, you know, maybe making it
+
+145
+00:24:59.110 --> 00:25:10.059
+Lauren Czaplicki: cost enough to deter young people who have less, you know, money to spend on these products. So, really interested to dig into your results and see what you have to say. Yeah.
+
+146
+00:25:10.060 --> 00:25:18.340
+Julia He: Okay, okay, good, good. I will go ahead to present the results. Okay. Let me share my screen first.
+
+147
+00:25:20.040 --> 00:25:21.480
+Julia He: Okay, good.
+
+148
+00:25:22.540 --> 00:25:24.739
+Julia He: I will pre… sorry.
+
+149
+00:25:26.230 --> 00:25:41.280
+Julia He: I will proceed to the… to the results. So this figure shows the, descriptive, results from the, you know, the… our, standardized weight-based taxes. So the first two bars.
+
+150
+00:25:41.500 --> 00:25:53.180
+Julia He: presents the average tax rate, for the… using the time invariant price, which is the benchmark price. And the last two bars presents the results
+
+151
+00:25:53.360 --> 00:25:57.249
+Julia He: The average tax, using the variant price.
+
+152
+00:25:57.350 --> 00:26:16.080
+Julia He: And then we can see that the, Tam invariant, average, whey-based tax is, $4.2 per ounce, ranging from $4.2 per ounce to, $4.6 per ounce.
+
+153
+00:26:16.080 --> 00:26:21.910
+Julia He: Depending on different, you know, markup rate assumption. And then the, average.
+
+154
+00:26:22.880 --> 00:26:31.010
+Julia He: When we use the variant price, price level, the, the average
+
+155
+00:26:31.530 --> 00:26:40.090
+Julia He: Weight-based tax range from 4.7 ounces to 5.1 ounces.
+
+156
+00:26:40.280 --> 00:26:42.019
+Julia He: $1 per ounce.
+
+157
+00:26:42.470 --> 00:26:58.830
+Julia He: And then this figure shows the corresponding, the standardized unit-based taxes. So, roughly speaking, so the time invariant average standardized taxes is about $1 per can, per standard can.
+
+158
+00:27:00.070 --> 00:27:03.169
+Julia He: And then the right figure shows the…
+
+159
+00:27:03.330 --> 00:27:10.219
+Julia He: the standardized OMG taxes from 2017 to 2025.
+
+160
+00:27:10.300 --> 00:27:24.990
+Julia He: So, for… in nominal terms, we can see that the OMG taxes exhibit… exhibit an upward trend. However, in real terms, OMG taxes remain relatively stable.
+
+161
+00:27:25.170 --> 00:27:43.000
+Julia He: Figure in the… on the left shows the… oh, the figure on the right shows the national average time invariant specific taxes. Figure on the left shows the average time invariant standardized specific taxes.
+
+162
+00:27:43.060 --> 00:27:50.319
+Julia He: Which, you know, we restrict sample to only states that, have OMP taxes.
+
+163
+00:27:50.570 --> 00:28:03.460
+Julia He: And then figure on the left shows that, you know, the, the average, when we restrict sample to, those states have… that have OMT taxes, the average
+
+164
+00:28:03.820 --> 00:28:08.000
+Julia He: Standardized OMP taxes exhibit a downward trend.
+
+165
+00:28:09.080 --> 00:28:21.410
+Julia He: And then, these figures shows the standardized ad valorem taxes. So, right figure shows the national average ad valorem taxes. So, the
+
+166
+00:28:21.410 --> 00:28:41.290
+Julia He: assuming a 35% markup rate, the average at Bolarium taxes range from 45% in 2017 to 53% in 2025. However, when we restrict sample to those states that have OMP taxes.
+
+167
+00:28:41.400 --> 00:28:52.969
+Julia He: the average The average, Adler taxes, exhibit a downward trend, you know, declining from.
+
+168
+00:28:52.970 --> 00:29:04.330
+Julia He: 194% in 2017 to 135% in 2025, assuming a 35% markup rate.
+
+169
+00:29:05.080 --> 00:29:12.110
+Julia He: And then this table illustrates the comparison of tax levels between different products.
+
+170
+00:29:12.400 --> 00:29:21.100
+Julia He: the middle… the estimates in the middle three, columns are sourced from Coti's paper, and then the…
+
+171
+00:29:21.340 --> 00:29:30.849
+Julia He: Estimates for the moist NAF, is sourced from, my previous paper published in 2024.
+
+172
+00:29:31.290 --> 00:29:44.679
+Julia He: So, in this paper, assuming a 35% markup rate, OMPs, the standardized OMP, taxes is about, 92 cents.
+
+173
+00:29:45.120 --> 00:29:50.270
+Julia He: 92 cents per can in the fourth quarter of 2023.
+
+174
+00:29:51.760 --> 00:29:57.530
+Julia He: That corresponds to a $3.95 per ounce.
+
+175
+00:29:57.940 --> 00:30:06.030
+Julia He: When expressed as a percentage of the cigarette tax… percentage of cigarette tax rates based on ounces.
+
+176
+00:30:06.600 --> 00:30:13.290
+Julia He: OMPs are taxed at a 86% of cigarette taxes.
+
+177
+00:30:14.560 --> 00:30:20.389
+Julia He: That is substantially higher, substantially higher than e-cigarettes and moist enough.
+
+178
+00:30:20.780 --> 00:30:22.330
+Julia He: Well expressed.
+
+179
+00:30:22.560 --> 00:30:28.709
+Julia He: As a percentage of cigarette tax rates based on equivalent units.
+
+180
+00:30:28.870 --> 00:30:30.589
+Julia He: OMPs are text.
+
+181
+00:30:30.820 --> 00:30:36.680
+Julia He: As a… at a nearly 29% of cigarette tax rates.
+
+182
+00:30:36.790 --> 00:30:42.089
+Julia He: Which is also substantially higher than e-cigarettes and moist enough.
+
+183
+00:30:43.460 --> 00:30:50.689
+Julia He: Then I will, proceed to talk about the OMP tax pass-through rates to prices.
+
+184
+00:30:51.390 --> 00:30:53.169
+Julia He: The method.
+
+185
+00:30:53.460 --> 00:31:06.940
+Julia He: that I use is I conducted 3 separate OIS models. The outcome variables are OMT prices at the 25th, 50th, and 75th percentile.
+
+186
+00:31:07.510 --> 00:31:23.539
+Julia He: percentiles, and then that enables me to examine how the tax rates will vary across products with different price levels. And then the X, the independent variable is the standardized OMP tax measures.
+
+187
+00:31:24.540 --> 00:31:30.050
+Julia He: The… in the primary analysis, I employed a two-way fixed effect.
+
+188
+00:31:30.350 --> 00:31:34.540
+Julia He: And to test the robustness of my findings.
+
+189
+00:31:34.670 --> 00:31:43.309
+Julia He: And we conducted two sensitivity analyses. First, we restrict sample to those states with specific taxes.
+
+190
+00:31:43.810 --> 00:31:51.869
+Julia He: Second… we conducted a DCDH event study with continuous treatment.
+
+191
+00:31:52.350 --> 00:32:00.309
+Julia He: And then these results… This table shows the estimates from the primary analysis.
+
+192
+00:32:00.450 --> 00:32:03.649
+Julia He: So one can see that OMPs are…
+
+193
+00:32:04.350 --> 00:32:14.009
+Julia He: For OMPs priced at the 25th percentile, the taxes were undershifted to prices.
+
+194
+00:32:14.120 --> 00:32:26.240
+Julia He: However, for ONPs priced at 50th percentile, or… and… and 75th percentile, taxes are over-shifted to prices.
+
+195
+00:32:27.840 --> 00:32:33.280
+Julia He: This… Table shows the results from the restricted sample analysis.
+
+196
+00:32:33.500 --> 00:32:44.960
+Julia He: we can see a similar pattern, to, you know, the primary analysis. So, for lower-priced OMPs, taxes are undershifted.
+
+197
+00:32:44.960 --> 00:32:56.110
+Julia He: for higher-priced OMPs, taxes are overshifted, or exactly shifted, even though, you know, these estimates are not statistically significant.
+
+198
+00:32:56.190 --> 00:33:04.529
+Julia He: These results should be viewed with caution, because they are the small, number of observations.
+
+199
+00:33:05.760 --> 00:33:21.350
+Julia He: And then, next, I will show the results from the DCDH approach. So, this graph shows the, we did not observe any significant tax pass-through, to prices, tax effects.
+
+200
+00:33:21.610 --> 00:33:26.430
+Julia He: You know, for OMPs priced at the 25th percentile.
+
+201
+00:33:26.690 --> 00:33:38.829
+Julia He: And then, next one, for the OMPs priced at the 50th percentile, we observed that the, the significant tax effects starting
+
+202
+00:33:39.580 --> 00:33:45.610
+Julia He: Starting with the… the second, post, treatment period.
+
+203
+00:33:45.990 --> 00:33:59.369
+Julia He: And the average cumulative, treatment effect is 0.8. That indicates that the… we observed… that indicates that the taxi effects are significant.
+
+204
+00:33:59.470 --> 00:34:07.610
+Julia He: And then the, taxes are significant… can significantly increase, OMP prices.
+
+205
+00:34:07.760 --> 00:34:17.359
+Julia He: We also observed that the principal tests show no significant pre-treatment effect. That provides the,
+
+206
+00:34:18.050 --> 00:34:34.380
+Julia He: The, the assurance that, you know, the no, par… The assurance for the parallel time trend, parallel trends assumption, and that also strengthens the, validity of our causal estimates.
+
+207
+00:34:34.679 --> 00:34:44.299
+Julia He: And then the next one shows the results for the… for OMPs priced at 75th percentile. And, similar to the…
+
+208
+00:34:44.310 --> 00:35:02.090
+Julia He: the last figure, you know, taxes were exactly shifted, to, retail prices at the 75th percentile, level. And then the cumulative, effect is 0.95.
+
+209
+00:35:03.390 --> 00:35:10.409
+Julia He: And then to conclude, you know, this, I will highlight the two main findings. First.
+
+210
+00:35:10.510 --> 00:35:20.789
+Julia He: Our standardized tax measure showed that OMPs are priced at $4.30 per ounce.
+
+211
+00:35:20.790 --> 00:35:35.840
+Julia He: or about $1 per standard can. This place OMPs, you know, the tax levels of OMPs comparable to cigarettes, and substantially higher than e-cigarettes and smoothies tobacco.
+
+212
+00:35:36.030 --> 00:35:40.809
+Julia He: The… we also observed that the tax pass-through rates
+
+213
+00:35:41.030 --> 00:35:49.819
+Julia He: for OMPs, you know, for lower-priced OMPs, taxes are either not or undershifted to prices.
+
+214
+00:35:50.140 --> 00:36:07.349
+Julia He: depending on the modeling choices. For, middle, you know, for the medium, the, the OMPs at the medium level are, or, 75th, percentile prices, taxes may be under exactly, or over-shifted to prices.
+
+215
+00:36:07.460 --> 00:36:24.830
+Julia He: And these findings are consistent with existing literature, you know, we observed in cigarettes and smokeless tobacco, which, you know, like, generally find that cigarettes are fully or over-shifted to prices, and higher
+
+216
+00:36:25.410 --> 00:36:31.500
+Julia He: Tax pass-through rates are observed for higher-priced, tobacco products.
+
+217
+00:36:32.360 --> 00:36:46.120
+Julia He: And then I would also, you know, discuss the potential, the explain… the explanations of the, the tax pass-through rate that we observed in this study, you know.
+
+218
+00:36:46.210 --> 00:37:02.949
+Julia He: OMP market is highly concentrated, as OMPs are dominated by several large tobacco companies. In such markets, you know, companies may use a similar strategy in their response to
+
+219
+00:37:02.950 --> 00:37:08.889
+Julia He: Cigarette taxes by over-shifting taxes to prices for profit.
+
+220
+00:37:09.230 --> 00:37:17.110
+Julia He: However, you know, OMPs represents a relatively new and rapidly growing market.
+
+221
+00:37:17.540 --> 00:37:22.389
+Julia He: Companies may also have the incentive to undershift taxes.
+
+222
+00:37:22.520 --> 00:37:27.389
+Julia He: So that, you know, they can maintain, pricing, competitiveness.
+
+223
+00:37:28.130 --> 00:37:34.530
+Julia He: and then to, and then to encourage people to use, OMPs.
+
+224
+00:37:34.850 --> 00:37:41.450
+Julia He: And then we, this, this study also, you know, either, highlights the,
+
+225
+00:37:41.510 --> 00:37:54.379
+Julia He: the… the need for future, for future research. You know, the, in the future research, we can examine how the OMP taxes can influence prices.
+
+226
+00:37:54.380 --> 00:38:04.179
+Julia He: how OMP taxis can influence consumer responses, can influence, consume, the use behaviors or product switching behaviors.
+
+227
+00:38:05.330 --> 00:38:11.419
+Julia He: Okay, that's pretty much, all that, all that I have. Thank you so much.
+
+228
+00:38:12.370 --> 00:38:21.340
+Jamie Hartmann-Boyce: Thank you so much! So, I would like to, again, turn over to our discussant, and for people listening, please do put chat questions in the Q&A.
+
+229
+00:38:21.870 --> 00:38:31.230
+Lauren Czaplicki: Great. So thank you so much again, Julia, for preparing, such an engaging kind of conversation and talk on this topic.
+
+230
+00:38:31.230 --> 00:38:52.119
+Lauren Czaplicki: And I think that, what you're saying about the tax rates being, similar to cigarettes is really… is very interesting, both in kind of the… the standardized level and in what maybe we're seeing with over-shifting or undershifting costs to consumers. And I was wondering if you could…
+
+231
+00:38:53.300 --> 00:39:18.119
+Lauren Czaplicki: I take the point that O&Ps are trying to break through, in the marketplace, and so maybe that's why there's some under-shifting. But could you say a little bit more about maybe the brands that we're seeing in the 25, 25th percentile? Are they, like, sort of the market leaders, or are they more, the brands that maybe have less of a market growth?
+
+232
+00:39:18.400 --> 00:39:42.420
+Lauren Czaplicki: Like, kind of… if you're able to parse through, like, why that undershifting might be happening in terms of, trying to, in terms of the brand kind of composition, if that's available in the data that you looked at, as well as kind of what that might be saying about potentially, like, how these products could reach youth or other consumers, with kind of undershifting the cost.
+
+233
+00:39:43.330 --> 00:40:01.219
+Julia He: Yeah, yeah, that's a good question. So, actually, you know, in the, because we extract the OMP prices from the news and retail scanner data, and then when we look at the, the detailed, you know, the each sales record, you know, when we
+
+234
+00:40:01.430 --> 00:40:13.560
+Julia He: actually, you know, we… we aggregate the NRSD, you know, the sales data to state and month level. So, but before the aggregation, I…
+
+235
+00:40:13.960 --> 00:40:20.360
+Julia He: Look at… look at some, you know, sales record, especially for those You know, like,
+
+236
+00:40:20.710 --> 00:40:36.340
+Julia He: The price for each, those sales records that, you know, you can see the price are extremely low. You know, some of the sales records, they even indicate, like, less than $1.
+
+237
+00:40:36.490 --> 00:40:45.269
+Julia He: So that may indicate, you know, in some period, you know, some retailers may have, like, a price promotion.
+
+238
+00:40:45.300 --> 00:40:56.709
+Julia He: So, yeah, some promotions were going on, so that, you know, greatly decreased the, the, the, the price of OMPs.
+
+239
+00:40:57.710 --> 00:41:14.920
+Lauren Czaplicki: Okay, that was another question that I had, was sort of how does the discounting and the promotions get accounted for, in the standardization process? And so, so you can see it in the data, but, so how, like.
+
+240
+00:41:14.920 --> 00:41:25.889
+Lauren Czaplicki: Could you maybe walk us through how… how those… those maybe seasonal, ticks, like, are accounted for, and the process that you use to standardize the… the tax rate?
+
+241
+00:41:31.680 --> 00:41:36.540
+Julia He: When I standardized the OMP taxes,
+
+242
+00:41:36.920 --> 00:41:40.940
+Julia He: Actually, I used the, for the…
+
+243
+00:41:41.130 --> 00:41:48.730
+Julia He: time invariant measure, I… I construct a benchmark price, which is a fixed price level.
+
+244
+00:41:48.980 --> 00:41:55.510
+Julia He: So that benchmark price applies to all states, all time periods.
+
+245
+00:41:55.510 --> 00:41:56.290
+Lauren Czaplicki: Okay.
+
+246
+00:41:56.290 --> 00:42:05.389
+Julia He: Yeah, so that will give us a tax measure that is free of market change, free of tax pass-through change.
+
+247
+00:42:06.580 --> 00:42:10.260
+Julia He: That only reflect the change in tax rates.
+
+248
+00:42:11.370 --> 00:42:20.730
+Julia He: So that, you know, that will not, you know, the, so the product, promotion will not affect the benchmark price.
+
+249
+00:42:21.010 --> 00:42:21.660
+Lauren Czaplicki: Okay.
+
+250
+00:42:21.660 --> 00:42:22.270
+Julia He: Yeah.
+
+251
+00:42:22.920 --> 00:42:34.739
+Julia He: And then… but for the time-varying measures, the price levels, because we use the varying price, right? The prevailing price for each state.
+
+252
+00:42:34.970 --> 00:42:35.330
+Lauren Czaplicki: each month.
+
+253
+00:42:35.330 --> 00:42:49.720
+Julia He: Yeah. And then that, you know, if, the product, there is a product promotion going on, that will greatly affect the, the time-varying measures of, yeah, OMPs.
+
+254
+00:42:50.010 --> 00:42:50.790
+Julia He: Paxis.
+
+255
+00:42:50.790 --> 00:42:52.670
+Lauren Czaplicki: It's a complex marketplace.
+
+256
+00:42:52.670 --> 00:42:53.020
+Julia He: Yes.
+
+257
+00:42:53.360 --> 00:43:02.549
+Julia He: Well, yeah, that's why we observe a great, a greater, you know, variation in the, time-varying measures.
+
+258
+00:43:02.820 --> 00:43:03.600
+Julia He: Yeah.
+
+259
+00:43:04.480 --> 00:43:11.959
+Lauren Czaplicki: Do you, so with Nielsen data, could you talk a little bit about, maybe this, the…
+
+260
+00:43:12.000 --> 00:43:36.950
+Lauren Czaplicki: there are a lot of strengths to it, but maybe some of the limitations, and to the best of my understanding, online sales aren't always accounted for. So do you have any thoughts on how online sales might be the same or different than what we're seeing in the brick-and-mortar retail environment? And any thoughts on how you might want to go about understanding that in your own, like, future research as well?
+
+261
+00:43:37.390 --> 00:43:45.360
+Julia He: Okay, good, good, good question. Yeah, so we use the news IQ Retail Scanner data, that's a,
+
+262
+00:43:45.410 --> 00:43:50.520
+Julia He: rig on the mortar data, right? Because, but, you know, the,
+
+263
+00:43:50.520 --> 00:44:09.789
+Julia He: The, according to a previous literature, I think, a laborer published a paper, you know, talking about the, how representativeness of the, the NRSD data. So, actually, you know, according to what they found on,
+
+264
+00:44:09.790 --> 00:44:18.770
+Julia He: So the NRSD represents, you know, 80… I think it's 84% of total to Tobacco sales in the United States.
+
+265
+00:44:19.290 --> 00:44:25.199
+Julia He: Based on the, you know, because OMPs are dominated by large tobacco companies.
+
+266
+00:44:25.390 --> 00:44:38.460
+Julia He: So we expect that the OMPs have a similar, you know, retail channel than, you know, traditional cigarettes. So that's why we expect, you know, the OMP sales is,
+
+267
+00:44:38.460 --> 00:44:56.380
+Julia He: is well represented in this data set. However, you know, online sales, you know, besides the brick and mortar sales, you know, online sales, you know, we know there are a great portion of OMPs, you know, occurred, you know, online.
+
+268
+00:44:56.380 --> 00:45:07.239
+Julia He: But we do not have the data for online sales… well, for online sales, so we… we are unable to expect… to estimate how large is the online sales.
+
+269
+00:45:09.020 --> 00:45:12.119
+Lauren Czaplicki: Okay, yeah, and any, like…
+
+270
+00:45:12.480 --> 00:45:25.370
+Lauren Czaplicki: Any… any thoughts or any resources you can share on, like, how… how we might even go about understanding the online sales environment? Like, is…
+
+271
+00:45:25.810 --> 00:45:45.060
+Lauren Czaplicki: Yeah, I guess everything is proprietary, I suppose, in terms of that data getting shared, but it seems like such a gap in kind of our understanding, and so, yeah, I don't know if there's anyone… any conversations in your field about, like, how to better characterize the online sales market.
+
+272
+00:45:47.340 --> 00:46:04.780
+Julia He: Actually, I… I'm sorry that I do not have estimates, you know, because the online sales data is not available, so we… we do not have estimates of, you know, how much is the online… how large is the online sales, you know.
+
+273
+00:46:04.990 --> 00:46:11.170
+Julia He: But we do have the, you know, the news and retails, the, you know, the news and sales data.
+
+274
+00:46:11.170 --> 00:46:11.850
+Lauren Czaplicki: Yeah.
+
+275
+00:46:11.850 --> 00:46:23.079
+Julia He: Using this data, we can analyze, you know, how OMP sales has increased, and how this market, you know, we can analyze how much… how many brands in this data.
+
+276
+00:46:23.080 --> 00:46:34.060
+Julia He: And how are the sales volume of each brand, and how this, you know, this market evolves. That's what we can do. But for online sales, you know.
+
+277
+00:46:34.060 --> 00:46:37.150
+Julia He: Just, you know, the inability of the data, you know?
+
+278
+00:46:38.360 --> 00:46:52.710
+Lauren Czaplicki: Yeah. Yeah. I think, like, those, I can pause here if there are any, Q&A questions, I think, Jamie, if you wanted to share. I know maybe some of them have been answered, but we can also have an online discussion.
+
+279
+00:46:52.710 --> 00:46:58.439
+Jamie Hartmann-Boyce: Sure, that sounds great. Thank you both so much for the really interesting discussion. It's such a complex and…
+
+280
+00:46:58.580 --> 00:47:03.790
+Jamie Hartmann-Boyce: highly Highly complex market, so…
+
+281
+00:47:04.210 --> 00:47:20.290
+Jamie Hartmann-Boyce: C has answered a lot of these questions, but I do have a new one that's just come in from Erika Mansur, who's asked, did your data set reveal whether states with more comprehensive nicotine regulation beyond taxation experience different pricing or sales trends than states relying primarily on excise taxes?
+
+282
+00:47:20.290 --> 00:47:25.909
+Jamie Hartmann-Boyce: And as new nicotine analogs and products enter the market, do you believe existing tax structures are flexible enough
+
+283
+00:47:25.910 --> 00:47:31.869
+Jamie Hartmann-Boyce: To capture those products, or will legislatures need to revisit their tax statutes?
+
+284
+00:47:33.510 --> 00:47:34.030
+Jamie Hartmann-Boyce: Okay.
+
+285
+00:47:34.030 --> 00:47:36.799
+Julia He: Oh, it's a long question. It's a long question.
+
+286
+00:47:36.800 --> 00:47:37.350
+Jamie Hartmann-Boyce: You can break it down.
+
+287
+00:47:37.350 --> 00:47:41.339
+Julia He: A lot! Yeah, yeah, yeah. Yeah. Yeah, can you break it down?
+
+288
+00:47:41.340 --> 00:47:42.020
+Jamie Hartmann-Boyce: Yeah, arsen
+
+289
+00:47:42.630 --> 00:48:02.630
+Jamie Hartmann-Boyce: So the first part of that question is whether your dataset reveals if states with more comprehensive nicotine regulations, so not just taxes, but, you know, whatever other regulations might be in place, experience different pricing or sales trends than states that relied primarily on excise taxes as a way to regulate these products.
+
+290
+00:48:03.000 --> 00:48:06.580
+Julia He: Okay, yeah, so, good question. So,
+
+291
+00:48:06.900 --> 00:48:19.960
+Julia He: about the regulation, as far as I know, you know, some states, for example, California, and some, you know, localities, you know, they, imposed the flavor restrictions.
+
+292
+00:48:19.960 --> 00:48:28.679
+Julia He: And that flavor restrictions also includes OMPs. Well, some states, they do have flavor restrictions on other tobacco products.
+
+293
+00:48:28.720 --> 00:48:36.139
+Julia He: However, that flavor restrictions do not apply to OMPs. So that's a big…
+
+294
+00:48:36.250 --> 00:48:45.009
+Julia He: You know, heterogeneity in how those flavor restrictions are applied, what products are, you know.
+
+295
+00:48:45.500 --> 00:48:51.610
+Julia He: do they apply to? So that's, yeah, I think that's,
+
+296
+00:48:51.790 --> 00:49:05.719
+Julia He: And also, you know, in recent years, more researchers, they, they also bring up a question on the, the pack size, how the pack size will influence the OMP sales.
+
+297
+00:49:05.900 --> 00:49:12.460
+Julia He: So… so as far as I know, you know, I…
+
+298
+00:49:12.730 --> 00:49:16.029
+Julia He: I do not know whether FDA has
+
+299
+00:49:16.430 --> 00:49:28.960
+Julia He: ever, you know, like, issued, regulation on park, pack size, that's… I actually… I… I don't know, I don't know, so, yeah, so,
+
+300
+00:49:29.120 --> 00:49:39.000
+Julia He: And then… For the comprehensiveness, of the other… other regulations that's,
+
+301
+00:49:39.690 --> 00:49:44.979
+Julia He: Yeah, so for… yeah, flavor restrictions is a big one, so…
+
+302
+00:49:45.390 --> 00:49:51.160
+Julia He: Yeah, and, many… several states has already have that regulation.
+
+303
+00:49:51.340 --> 00:49:52.100
+Julia He: Yeah.
+
+304
+00:49:52.830 --> 00:50:06.430
+Jamie Hartmann-Boyce: And is that something that we could… that you have, or theoretically could look at in your data set, right? Whether the… that comprehensive nicotine regulation, as opposed to relying primarily on taxes, is impacting pricing or sales of pouches?
+
+305
+00:50:09.270 --> 00:50:25.120
+Julia He: taxes do have an effect on the pricing of OMPs. That's what I did in the… in these present studies, and we observed significant tax effects, right? And for, you know, from the event study.
+
+306
+00:50:25.560 --> 00:50:27.950
+Julia He: But… if other…
+
+307
+00:50:28.500 --> 00:50:40.720
+Julia He: factors also influence the pricing of ONPs. You know, I did another study, you know, which I presented in the Tobacco regulatory science meeting.
+
+308
+00:50:40.720 --> 00:50:41.270
+Jamie Hartmann-Boyce: study.
+
+309
+00:50:41.460 --> 00:50:46.950
+Julia He: Yes, that one, you know, you know, I, I found that the,
+
+310
+00:50:47.140 --> 00:50:50.010
+Julia He: OMPs are, you know, the,
+
+311
+00:50:50.260 --> 00:50:54.940
+Julia He: OMP sales are higher for those flavored products.
+
+312
+00:50:55.260 --> 00:50:58.540
+Julia He: Okay. So, yeah. And also, you know…
+
+313
+00:50:58.870 --> 00:51:06.800
+Julia He: you know, OMP sales are higher, you know, OMP sales per capita are higher in rural areas than in urban areas.
+
+314
+00:51:06.980 --> 00:51:14.829
+Julia He: But… and also, you know, I found that OMPs are priced lower in rural areas than in urban areas.
+
+315
+00:51:14.940 --> 00:51:29.130
+Julia He: So this, but why did, tobacco industry price OMP differently in urban and rural areas? That is a question that we need to examine, right?
+
+316
+00:51:29.380 --> 00:51:31.409
+Julia He: That's a question, yeah.
+
+317
+00:51:31.410 --> 00:51:35.360
+Jamie Hartmann-Boyce: Yeah, really interesting. You've got a busy couple of days presenting today.
+
+318
+00:51:35.360 --> 00:51:36.260
+Julia He: I love it.
+
+319
+00:51:36.260 --> 00:51:36.850
+Jamie Hartmann-Boyce: Yeah.
+
+320
+00:51:37.320 --> 00:51:41.630
+Jamie Hartmann-Boyce: There's another question within this question, so…
+
+321
+00:51:42.190 --> 00:51:59.740
+Jamie Hartmann-Boyce: As new nicotine analogs, or new other variations on products, new products enter the market, do you think that existing tax structures are flexible enough to capture those products, right? To, for example, apply to nicotine analogs, or do you think legislatures might need to revisit their tax statutes?
+
+322
+00:52:01.250 --> 00:52:03.860
+Julia He: You know, as…
+
+323
+00:52:03.980 --> 00:52:10.480
+Julia He: It's unlike cannabis, you know, some of the states tax cannabis based on their potency level.
+
+324
+00:52:10.690 --> 00:52:16.540
+Julia He: However, I… OMPs are not taxed based on the nicotine concentration.
+
+325
+00:52:16.940 --> 00:52:24.250
+Julia He: Right So that's, that's something, you know.
+
+326
+00:52:25.080 --> 00:52:28.019
+Julia He: State legislators may consider, you know.
+
+327
+00:52:28.020 --> 00:52:28.450
+Jamie Hartmann-Boyce: in, you know.
+
+328
+00:52:28.450 --> 00:52:39.950
+Julia He: in the future, you know, whether tobacco products, especially like e-cigarettes, you know, these e-cigarettes also vary by nicotine concentration, right?
+
+329
+00:52:40.290 --> 00:52:46.610
+Julia He: coaching strengths. So… Yeah, that's, and also we need signs from,
+
+330
+00:52:47.050 --> 00:53:03.669
+Julia He: from, biostatistics and, from randomized control trials, you know, whether, you know, how those, nicotine strengths will influence, health outcomes. So we also need data from that part.
+
+331
+00:53:04.110 --> 00:53:04.900
+Julia He: Yeah.
+
+332
+00:53:05.250 --> 00:53:10.300
+Jamie Hartmann-Boyce: Yeah, absolutely, and then you've got nicotine analogs, which might be an even,
+
+333
+00:53:10.530 --> 00:53:13.220
+Jamie Hartmann-Boyce: Different but related part of that picture.
+
+334
+00:53:13.950 --> 00:53:27.229
+Jamie Hartmann-Boyce: Particularly when thinking about nicotine strength. All right, well, thank you so much. I don't think we have any other questions open in the Q&A. Lauren, was there anything else you wanted to add before we close out?
+
+335
+00:53:27.440 --> 00:53:46.179
+Lauren Czaplicki: I did, on the point of standardization, I do think it's interesting to look at other countries. So recently, Bangladesh actually, passed a law to standardize the size and the shape of their smokeless tobacco products.
+
+336
+00:53:46.180 --> 00:54:11.150
+Lauren Czaplicki: They had a wide variety. I think with these nicotine pouches, at least, we're seeing kind of a standard shape and quantity, but other things like gums and lozages, those are, you know, come in variable sizes, and so I think this is a case where looking to, like, what other countries are doing and complementary policies is really interesting, because I can only imagine that standardizing a shape and size of something would harm
+
+337
+00:54:11.150 --> 00:54:29.750
+Lauren Czaplicki: some of the tax structure around how things are implemented, and make it a lot easier, at least, to administer a tax-related system. So that's just a little bit of context from an international perspective as well. So, yeah.
+
+338
+00:54:31.100 --> 00:54:44.739
+Jamie Hartmann-Boyce: Thank you so much for sharing that. Well, I think that closes us out, then. Thank you all so much. Thank you for the wonderful presentation and wonderful discussion and great questions, and I will hand over to our MC.
+
+339
+00:54:46.150 --> 00:54:55.919
+Parisa Moghaddam: We are out of time. Thank you to our presenter, moderator, and discussant. Finally, thank you to the audience of nearly 110 people for your participation. Have a Top Snatch weekend!
+
