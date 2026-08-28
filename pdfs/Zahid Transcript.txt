@@ -1,0 +1,1014 @@
+WEBVTT
+
+1
+00:00:02.850 --> 00:00:15.370
+Maria Robayo: Welcome, everyone, to the Tobacco Online Policy Seminar TOPS. Thank you for joining us today. I'm Maria Robayo, a research associate at Georgetown University Lombardy Comprehensive Cancer Center.
+
+2
+00:00:15.370 --> 00:00:31.499
+Maria Robayo: Dubois is organized by Mai Pesco at the University of Missouri, Shishang at The Ohio State University, Michael Darden at Johns Hopkins University, Jamie Harmony at the University of Massachusetts Amherst, and Justin White at Boston University.
+
+3
+00:00:31.540 --> 00:00:54.509
+Maria Robayo: The seminar will be one hour, with questions from the moderator and discussant. The audience may post questions and comments in the Q&A panel, and the moderator will draw from these questions and comments in conversation with the presenter. Please review the guidelines on TobaccoPolicy.org for acceptable questions. Please keep the questions professional and related to the research being discussed.
+
+4
+00:00:54.510 --> 00:01:03.710
+Maria Robayo: Questions that meet the seminar series guidelines will be shared with the presenter afterwards, even if they are not read out loud. Your questions are very much appreciated.
+
+5
+00:01:04.010 --> 00:01:22.019
+Maria Robayo: This presentation is being video recorded and will be made available, along with presentation slides on the TOPS website, TobaccoPolicy.org. I will turn now the presentation over to today's moderator, Dr. Jamie Harmony from the University of Massachusetts Amherst, to introduce our speaker.
+
+6
+00:01:22.710 --> 00:01:36.729
+Jamie Hartmann-Boyce: Thanks so much, Maria! So today, we continue our Summer 2026 season with a single paper presentation by Maham Zahid entitled, A Cluster Randomized Controlled Trial of an MHealth Intervention for Smoking Cessation in People with Tuberculosis.
+
+7
+00:01:36.930 --> 00:01:42.069
+Jamie Hartmann-Boyce: This presentation was selected by a competitive review process by submission through the TOPS website.
+
+8
+00:01:42.670 --> 00:02:00.800
+Jamie Hartmann-Boyce: Dr. Maham Zahid is a pharmacist, clinical researcher, and public health professional from Pakistan. She recently completed her PhD in public health at Khyber Medical University, and is currently a postdoctoral research fellow at Rifa International University, where she collaborates with the Center for Impact at the University of York, UK.
+
+9
+00:02:01.010 --> 00:02:07.410
+Jamie Hartmann-Boyce: She previously served as a Senior Research Fellow at the Initiative, a public health research organization based in Pakistan.
+
+10
+00:02:07.880 --> 00:02:19.909
+Jamie Hartmann-Boyce: Dr. Kamrad Siddiqi, a professor of global health at the University of York in the UK, is a co-author of the study and will answer selected questions in the Q&A. Dr. Zahid, thank you for presenting for us today.
+
+11
+00:02:27.180 --> 00:02:35.290
+Maham Zahid: Hi, everyone. Thank you so much for giving me the opportunity to present on this platform. So, let me share my screen.
+
+12
+00:02:44.570 --> 00:02:46.509
+Maham Zahid: I hope you can see my slides.
+
+13
+00:02:48.440 --> 00:02:49.300
+Jamie Hartmann-Boyce: We can.
+
+14
+00:02:50.010 --> 00:02:51.349
+Maham Zahid: Okay, thank you.
+
+15
+00:02:52.360 --> 00:03:09.220
+Maham Zahid: Okay, so today I'm going to present a cluster randomized control trial assessing the effectiveness of mHealth intervention for smoking cessation in people with tuberculosis. So, I'm using the RESPIRE template here. The logos of all partners are shown at the bottom.
+
+16
+00:03:09.220 --> 00:03:22.740
+Maham Zahid: So, just to mention here what RESPIRE is, RESPIRE is a consortium of seven low- and middle-income countries, including India, Bangladesh, Pakistan, Malaysia, Indonesia, Bhutan, and Sri Lanka, along with UK.
+
+17
+00:03:22.740 --> 00:03:41.949
+Maham Zahid: So, it is a funded research program, called NIHR, Global Health Research Unit on Respiratory Health. It started in 2019, and it's going to end in September 2026. So, the study that I'm going to present today is one of the studies that are funded under Respire.
+
+18
+00:03:45.300 --> 00:03:46.070
+Maham Zahid: Okay.
+
+19
+00:03:46.540 --> 00:04:04.179
+Maham Zahid: So, this is my brief background. My name is Maham Zahid, and I'm a pharmacist from Pakistan. So, basically, I'm working as a postdoc fellow at Rafa International University, and previously, I have worked as a research fellow in the study that I'm going to present today at the Initiative.
+
+20
+00:04:04.320 --> 00:04:05.910
+Maham Zahid: So,
+
+21
+00:04:06.910 --> 00:04:21.859
+Maham Zahid: This is a disclosure statement from my side. The study is funded by NIHR UK, and I have not received any Tobacco-related research funding over previous 10 years. I have no other conflict of interest to disclose.
+
+22
+00:04:24.570 --> 00:04:40.469
+Maham Zahid: Okay, so before going into the specific paper, I would like to introduce the whole Quit for TB project and the idea behind it. So, basically, the project focused on mHealth intervention for smoking cessation in tuberculosis patients in Bangladesh and Pakistan.
+
+23
+00:04:40.470 --> 00:04:46.419
+Maham Zahid: So, it was a 4-year project, which started in 2022 and ended in June 2026.
+
+24
+00:04:46.420 --> 00:04:56.410
+Maham Zahid: It comprised of four phases that I will explain later, and there were three, principal investigators in the project, Professor Kamran from University of York.
+
+25
+00:04:56.410 --> 00:05:09.880
+Maham Zahid: Dr. Amnah Khan from Pakistan, the initiative, Professor Romana Hak from Arc Foundation Bangladesh. And the project was sponsored by University of Edinburgh UK and funded by Respire NHR UK.
+
+26
+00:05:13.390 --> 00:05:20.989
+Maham Zahid: Okay, so just to build a little bit of, project background, I would like to talk about tuberculosis and tobacco use.
+
+27
+00:05:20.990 --> 00:05:34.659
+Maham Zahid: So, tuberculosis is an infectious disease with high morbidity and mortality. In 2024 alone, 10.7 million new cases of tuberculosis were reported, along with 1.2 million deaths.
+
+28
+00:05:34.660 --> 00:05:51.349
+Maham Zahid: That's a huge number. So, among, around 80% of the whole TB burden is concentrated in lower-middle-income countries, like Bangladesh, Pakistan, China, and Pakistan and Bangladesh, they rank 5th and 6th, respectively, in terms of TB burden.
+
+29
+00:05:51.610 --> 00:05:57.309
+Maham Zahid: With an incidence of more than 300 cases per 100,000 population per year.
+
+30
+00:05:58.430 --> 00:06:17.240
+Maham Zahid: Similarly, there is a high burden of tobacco use globally, where more than 1.3 billion people use tobacco in any form, and the prevalence of tobacco use is quite high in Bangladesh and Pakistan, where latest figures report prevalence up to 27%, and
+
+31
+00:06:17.240 --> 00:06:19.820
+Maham Zahid: 39% in both the countries.
+
+32
+00:06:21.120 --> 00:06:35.089
+Maham Zahid: Also, there is an adverse inverse relationship between tuberculosis and tobacco use, where it is reported that tobacco use can double the risk of acquiring tuberculosis infection. It can worsen the symptoms.
+
+33
+00:06:35.090 --> 00:06:45.940
+Maham Zahid: It can take more time for recovery. It can increase the risk of disease relapse, and also it can double the risk of death among TB patients who are also smokers.
+
+34
+00:06:47.880 --> 00:06:57.179
+Maham Zahid: On the other hand, some benefits of quitting smoking are also noted in TB patients who quit smoking, which includes
+
+35
+00:06:57.910 --> 00:07:21.370
+Maham Zahid: bettering of, the symptoms, they get better. The coughing and breathlessness, it gets reduced in those who quit smoking within one month. And then there are better chances of recovery from tuberculosis disease within, two months of quitting smoking. And also, within a year's time, there is a lower risk of getting, TB relapse or reoccurrence.
+
+36
+00:07:23.290 --> 00:07:40.099
+Maham Zahid: Okay, so why tobacco is important with respect to tuberculosis? So, it is important because a large number of TB patients are smokers, so there's a range of prevalence reported in literature from 17% to 32%. So, it is also important,
+
+37
+00:07:40.350 --> 00:07:56.710
+Maham Zahid: Because quitting show better clinical and health outcomes in such patients. Also, there is… there are many evidence-based smoking cessation interventions available that are being… that have been tested in general population and tuberculosis population.
+
+38
+00:07:56.830 --> 00:08:13.309
+Maham Zahid: But despite of having such interventions, smoking cessation is poorly addressed in TB patients in routine in lower-middle-income countries like Bangladesh and Pakistan. So it's not part of routine TB care due to various barriers that I'm going to discuss later.
+
+39
+00:08:13.310 --> 00:08:26.480
+Maham Zahid: So, therefore, there is a need to explore and overcome these challenges and learn more about some other cost-effective and more feasible interventions, like, for example, mHealth-based interventions.
+
+40
+00:08:27.880 --> 00:08:33.070
+Maham Zahid: Regarding what's already been proven to work in general population, there are
+
+41
+00:08:33.090 --> 00:08:38.519
+Maham Zahid: some pharmacotherapy-related interventions that have been,
+
+42
+00:08:38.530 --> 00:08:58.809
+Maham Zahid: that are known for helping people to quit smoking. Like, there are many different types of medication names mentioned on the slide. And then there are some behavior support or counseling-based interventions that are also reported to help people quit smoking, either given alone or in combination with other cessation support.
+
+43
+00:08:58.940 --> 00:09:09.730
+Maham Zahid: Also, there are some studies reporting, effectiveness of mHealth interventions, but only done in general population, not specifically in TB… TB-related populations.
+
+44
+00:09:12.420 --> 00:09:30.719
+Maham Zahid: So, I would like to mention here some of the previous research work that has been done in Bangladesh and Pakistan in terms of checking the effectiveness of beaver support intervention. So, I would like to mention ASSIST trial, in which there were… it was a cluster randomized control trial with 3 arms.
+
+45
+00:09:30.720 --> 00:09:34.310
+Maham Zahid: behavior support intervention, plus,
+
+46
+00:09:34.380 --> 00:09:41.300
+Maham Zahid: pharmacotherapy and compare with usual care. So, the results reported high quit rate in
+
+47
+00:09:41.590 --> 00:09:52.350
+Maham Zahid: both the groups, behavior support intervention alone, and in combination with, bupropion therapy, compared to usual care, with quite high relative risk.
+
+48
+00:09:52.430 --> 00:10:04.140
+Maham Zahid: Also, there was another trial, published in Lansing Global Health in 2020, conducted in Bangladesh and Pakistan. So, it comprised of two arms, behavior support intervention.
+
+49
+00:10:04.220 --> 00:10:13.049
+Maham Zahid: Plus, cytosine therapy. It's a herbal-based, therapy for smoking cessation and behavior support, plus placebo.
+
+50
+00:10:13.050 --> 00:10:27.679
+Maham Zahid: So, a high quit rate was observed in both the arms, and there was no significant difference in quit rate. So, we can say that behavior support intervention has a significant impact on smoking cessation, irrespective of medication.
+
+51
+00:10:28.810 --> 00:10:35.190
+Maham Zahid: So, after these trials, we tried our, the researchers tried to implement.
+
+52
+00:10:35.190 --> 00:10:53.399
+Maham Zahid: these interventions in routine TB care to provide cessation support to all TB patients, but unfortunately, this couldn't be done due to various challenges. There were many implementation barriers, so this paper, explored, quantitatively and qualitatively, what were the barriers. So, some of the barriers included cost.
+
+53
+00:10:53.400 --> 00:10:57.570
+Maham Zahid: high resor… high, resource,
+
+54
+00:10:57.650 --> 00:11:07.890
+Maham Zahid: Also, there was some barrier of reach, staff changes, lack of space to offer counseling, scalability, and sustainability issues were highlighted.
+
+55
+00:11:08.740 --> 00:11:28.559
+Maham Zahid: So, in order to overcome these challenges, the Quit for TB trial project was proposed to evaluate or explore more cost-effective, scalable interventions to help, quitting in TB patients. So, this was the main gap that we tried to address by designing the Quit for TB trial project.
+
+56
+00:11:29.730 --> 00:11:50.130
+Maham Zahid: So, in this Quit for EB trial, the mHealth intervention used was developed by WHO, World Health Organization, and Tobacco experts from different countries. So, a physician package called MTB Tobacco comprised of information on TB disease awareness, treatment adherence, reminders to visit the clinic.
+
+57
+00:11:50.130 --> 00:12:03.100
+Maham Zahid: And also included some motivational content on tobacco cessation. So it was a whole package that was designed by the WHO in form of SMS text messages that could be delivered to personal mobile phones.
+
+58
+00:12:03.100 --> 00:12:05.339
+Maham Zahid: To the TB patients.
+
+59
+00:12:06.130 --> 00:12:13.150
+Maham Zahid: So we used a very simple unidirectional text messages intervention for the purpose of this trial.
+
+60
+00:12:13.150 --> 00:12:37.209
+Maham Zahid: The Protocol of Fritsch for TB trial was published in BMJ Open in 2025. If you are interested, you can have a look at it. So, I'll just touch the four phases just by name. There were four phases included in the trial. The first phase included a PPI, or Community Engagement Activity, to get feedback on the translated SMS messages and also study procedures. So, it was like a
+
+61
+00:12:37.210 --> 00:12:38.800
+Maham Zahid: Consultation done with
+
+62
+00:12:38.800 --> 00:12:51.400
+Maham Zahid: community. In Phase 2, we conducted a pilot study at four TB clinics, two in Bangladesh and two in Pakistan, to test the feasibility of our mHealth intervention, basically, and to check its acceptability.
+
+63
+00:12:51.400 --> 00:13:05.969
+Maham Zahid: The main phase was the Phase III trial, where we designed a superiority trial to compare mHealth intervention with usual care, so it was a head-to-head comparison, first time being done in TB population.
+
+64
+00:13:06.430 --> 00:13:15.709
+Maham Zahid: And after establishing effectiveness of this intervention, we compared it with behavior support intervention in form of a non-inferiority trial in Phase 4.
+
+65
+00:13:15.740 --> 00:13:30.159
+Maham Zahid: So, just to see, okay, if it's as good as behavior support for smoking cessation. And the results of Phase 4 are not yet published, and the Phase 3 paper is published in JAMA, and that's what I'm going to discuss in detail.
+
+66
+00:13:32.890 --> 00:13:48.499
+Maham Zahid: So, for this superiority trial, our primary objective was to assess the effectiveness of this mHealth intervention in achieving smoking abstinence at 6 months among patients with TB who smoke, compared to usual care or routine care, you can say.
+
+67
+00:13:48.500 --> 00:13:54.319
+Maham Zahid: So, there were, some secondary objectives as well, including point abstinence at 9 weeks.
+
+68
+00:13:54.320 --> 00:14:01.489
+Maham Zahid: Also, comparison of treatment outcomes, TB treatment outcomes in both groups at the end of treatment.
+
+69
+00:14:01.560 --> 00:14:07.259
+Maham Zahid: And to check TB treatment adherence at end of… Tb treatment.
+
+70
+00:14:09.050 --> 00:14:20.130
+Maham Zahid: So, I think before going into details of Phase 3 trial, we can stop here. We can take a pause and, see if there are any questions from the audience.
+
+71
+00:14:20.760 --> 00:14:30.349
+Jamie Hartmann-Boyce: Thank you so much. So, our discussant today is Dr. Sheela Shenoi, an infectious disease specialist and associate professor of medicine and public health from Yale University.
+
+72
+00:14:30.350 --> 00:14:46.700
+Jamie Hartmann-Boyce: Dr. Shenoi has conducted patient-oriented research in the US and globally on improving diagnosis of TB and prevention of TB. So I'm going to invite Dr. Shenoi at this point to ask some questions, and please, audience, do put questions in the Q&A as well as they come up.
+
+73
+00:14:48.610 --> 00:14:54.719
+Sheela Shenoi: Thank you so much. Thank you for the invitation to be here. This is a very exciting study.
+
+74
+00:14:56.490 --> 00:15:15.999
+Sheela Shenoi: Dr. Zahid, thank you very much for your presentation so far. It's been fantastic. You know, I thought that, again, that this was a very rigorous, exciting study that undoubtedly will have tremendous public health impact. I was impressed, with the development of the tailored intervention co-developed, with local stakeholder input.
+
+75
+00:15:16.210 --> 00:15:24.849
+Sheela Shenoi: the use of biochemical verification with the carbon monoxide testing, and particularly with the high retention rates. It was more than 90%.
+
+76
+00:15:25.020 --> 00:15:31.520
+Sheela Shenoi: I did have a couple of questions that I'm hoping you can shed some light on.
+
+77
+00:15:31.520 --> 00:15:32.130
+Maham Zahid: loop.
+
+78
+00:15:32.440 --> 00:15:51.779
+Sheela Shenoi: Thank you. You mentioned the implementation barriers, and I was curious whether education or patient literacy around tobacco use was one of those. I'm curious what the understanding by community members and patients is around tobacco use and smokeless tobacco use. Is there a good understanding of the impact of these substances?
+
+79
+00:15:51.780 --> 00:15:52.780
+Sheela Shenoi: on health.
+
+80
+00:15:52.780 --> 00:16:04.610
+Sheela Shenoi: And is the understanding good, but people still have difficulty quitting? Or is it that the education component is also lacking when we think about implementing interventions?
+
+81
+00:16:06.050 --> 00:16:09.359
+Maham Zahid: Hmm, thank you so much, Dr. Sheela, for your question.
+
+82
+00:16:09.360 --> 00:16:32.889
+Maham Zahid: So, I will… I would like to mention that, basically, there were some feasibility issues, you know, in lower-middle-income countries, in resource-constrained environment, when there is a lot of patient burden in the healthcare setting, and the DOT facilitators are, too much busy in their routine work, so they do not have much time to offer this counseling to each and every patient. So that was the main barrier.
+
+83
+00:16:32.890 --> 00:16:49.430
+Maham Zahid: And then, of course, training need. There were frequent staff changes, so training the staff to, implement or deliver this behavior support intervention was the main barrier. But you are… you rightly said that education might have been another factor,
+
+84
+00:16:49.450 --> 00:17:06.859
+Maham Zahid: that could have been a barrier. I'm not sure about that. Maybe, Professor Kamran can shed more light on this as he and his team conducted this qualitative study. They had some interviews with, TB control program managers and patients, like, what were the
+
+85
+00:17:07.150 --> 00:17:11.040
+Maham Zahid: Other real-time challenges and implementation barriers.
+
+86
+00:17:16.670 --> 00:17:19.759
+Jamie Hartmann-Boyce: Professor Siddiqui, if you'd like to come in, please feel free to.
+
+87
+00:17:19.760 --> 00:17:39.480
+Kamran Siddiqi: Yes, thanks. Thanks very much for your question. So, I think you're absolutely right that the awareness among this population was pretty low in terms of tobacco cessation and tobacco and its arms, but actually, that wasn't a barrier. That helped us to get the high quit rates, because a lot of people were learning for the first time.
+
+88
+00:17:39.900 --> 00:17:43.789
+Kamran Siddiqi: The harms related to tobacco, and especially the links with
+
+89
+00:17:43.870 --> 00:17:55.840
+Kamran Siddiqi: Tuberculosis. So I think in all our trials, we see very high quit rates, and that is, in spite of, poor awareness, people were very receptive and very engaging.
+
+90
+00:17:55.870 --> 00:18:08.680
+Kamran Siddiqi: It wasn't the patients, actually, it was the health professionals who just did not have time amongst seeing so many patients and delivering TB care to also then offer counseling.
+
+91
+00:18:09.870 --> 00:18:23.600
+Sheela Shenoi: Thank you, that makes sense, given what we know about resource-limited settings, the health infrastructure, the taxed healthcare workers, absolutely. So this kind of intervention could certainly make a huge impact.
+
+92
+00:18:23.600 --> 00:18:40.400
+Sheela Shenoi: Thank you. I was also curious, about why, when you designed the intervention, you were using daily SMS messages, or how… what informed, the use of the… or the frequency of the SMS messages. I think there's been…
+
+93
+00:18:40.400 --> 00:18:52.880
+Sheela Shenoi: Certainly in the HIV literature that I'm very familiar with, there's, a lot of papers, including Cochrane reviews, that suggest that daily messages leads to SMS fatigue and ultimately.
+
+94
+00:18:52.910 --> 00:18:56.399
+Sheela Shenoi: Does not have, the intended impact.
+
+95
+00:19:03.440 --> 00:19:18.619
+Maham Zahid: Thank you, Dr. Sheela, for your question. So, we have basically adapted this WHO SMS packet, so it was designed in this way, like, there were, at least one message daily that was delivered for… during the first two months.
+
+96
+00:19:18.620 --> 00:19:23.500
+Maham Zahid: When the patient has to take his medicine daily without any,
+
+97
+00:19:23.500 --> 00:19:42.000
+Maham Zahid: without missing any doors, so these messages were also there to remind them of taking their medication. Also, in the first two months, the daily messages make… made sure that they, they quit and make habit of not smoking. And then, I think,
+
+98
+00:19:42.010 --> 00:20:01.400
+Maham Zahid: In third, fourth, fifth, and sixth month, the frequency of SMS messages is reduced, so the major delivery was in the first two months, and then we just, send them the reminder messages to come and visit the health facility, get their medication refilled, and also to, keep… stay away from, Tobacco use.
+
+99
+00:20:01.970 --> 00:20:03.829
+Maham Zahid: So, yeah, that's it.
+
+100
+00:20:05.500 --> 00:20:06.930
+Sheela Shenoi: Great, thank you so much.
+
+101
+00:20:08.390 --> 00:20:11.309
+Jamie Hartmann-Boyce: Any more questions from you, Dr. Shenoi, at this point?
+
+102
+00:20:12.360 --> 00:20:16.269
+Sheela Shenoi: I think I'll have more questions, after we go through the study in more detail.
+
+103
+00:20:16.270 --> 00:20:23.559
+Jamie Hartmann-Boyce: Absolutely, and I don't see any questions in the Q&A, do keep them coming, but I think, Dr. Zahid, back over to hear about the results.
+
+104
+00:20:25.070 --> 00:20:28.139
+Maham Zahid: Sure, thank you. Let me share my screen again.
+
+105
+00:20:46.350 --> 00:20:47.870
+Maham Zahid: Is my screen visible?
+
+106
+00:20:48.380 --> 00:20:49.830
+Jamie Hartmann-Boyce: It is. It looks great.
+
+107
+00:20:49.830 --> 00:20:51.710
+Maham Zahid: Okay. Okay, thank you.
+
+108
+00:20:52.620 --> 00:21:04.010
+Maham Zahid: Okay, so coming back to our superiority trial, the paper was published in JAMA in January 2026, this year, so it's basically,
+
+109
+00:21:04.180 --> 00:21:13.810
+Maham Zahid: cluster randomized control trial, you can have a detailed look at the paper. Let me just go next. Okay, so,
+
+110
+00:21:14.020 --> 00:21:30.030
+Maham Zahid: So this was a multi-center, cluster randomized control trial conducted at two countries, Pakistan and Bangladesh, at… including 27 TB clinics. And it, was conducted from September 2022 to January 2025.
+
+111
+00:21:30.030 --> 00:21:34.810
+Maham Zahid: The eligibility included adult patients aged 15 or above.
+
+112
+00:21:34.880 --> 00:21:41.390
+Maham Zahid: Either gender, both males and females, diagnosed with drug-sensitive pulmonary tuberculosis.
+
+113
+00:21:43.500 --> 00:21:49.739
+Maham Zahid: The definition of smoking was that they have been smoking for at least 25 days in previous month.
+
+114
+00:21:49.760 --> 00:21:55.179
+Maham Zahid: Before getting, diagnosed with tuberculosis. And also, willing to quit.
+
+115
+00:21:55.180 --> 00:22:11.280
+Maham Zahid: was one of the eligibility criteria, access to text messages, ability to read and understand Urdu and Bangla language, because our messages were translated in Urdu and Bangla, or availability of someone at home who could read the SMS to them.
+
+116
+00:22:11.330 --> 00:22:23.930
+Maham Zahid: And of course, having consent to participate in the trial. So, this was our eligibility. And, the total sample recruited in the trial was 1,080 TB patients.
+
+117
+00:22:23.950 --> 00:22:32.139
+Maham Zahid: There were 1,043 males. Higher proportion was males, like 96.5%, so…
+
+118
+00:22:32.500 --> 00:22:50.240
+Maham Zahid: the prevalence of smoking is more common in males in both the countries, so that's why we had more male enrollments as compared to female. Only 37, 3.5% were females. And the mean age was found to be 48.7 years.
+
+119
+00:22:51.070 --> 00:23:07.560
+Maham Zahid: So, the TB sites were considered as clusters, and the clusters were randomized in 2 is to 1 ratio to either mHealth group or the usual care, or you can say, the control group. So, 720 participants were recruited,
+
+120
+00:23:07.740 --> 00:23:16.469
+Maham Zahid: in… from 18 intervention clusters, and 360 from the remaining 9 control clusters, or TV clinics.
+
+121
+00:23:17.280 --> 00:23:31.260
+Maham Zahid: The participants were followed up at 9 weeks and 6 months, end of the TB treatment, and the primary outcome was biochemically verified smoking… smoking abstinence. So those who self-reported quitting at 6 months.
+
+122
+00:23:31.260 --> 00:23:50.520
+Maham Zahid: they were required to undergo this carbon monoxide breath test. And the definition of quitting was, like, self-report quitting was not, not more than 5 cigarettes smoked since the last quit date. And the quit date was 7 days after getting enrolled in the trial.
+
+123
+00:23:52.750 --> 00:24:01.390
+Maham Zahid: The cutoff that we used, to mark or differentiate between quitter and non-quitter was 10 ppm, 10 parts per million.
+
+124
+00:24:03.730 --> 00:24:16.560
+Maham Zahid: Okay, I would like to talk about the intervention a bit. So, the MTB Tobacco Cesician Package, it comprised of 134 total SMS messages that were translated in local languages, Urdu and Bangla.
+
+125
+00:24:16.560 --> 00:24:27.589
+Maham Zahid: So, a web-based portal was developed to send these auto-generated SMS messages to participants who were registered in the TB treatment from intervention clusters only.
+
+126
+00:24:28.560 --> 00:24:53.369
+Maham Zahid: So, in the back end of the portal, it was synced with our REDCap server. So, basically, we were getting the data on REDCap, it's a data management software, and it was synced with this, the web-based portal. So, when the phone numbers were captured in the screening form for eligible or consented participants, those numbers were directly synced with the portal through
+
+127
+00:24:53.370 --> 00:24:59.100
+Maham Zahid: API tokens. And once a new participant was enrolled, data was entered in REDCap.
+
+128
+00:24:59.170 --> 00:25:13.269
+Maham Zahid: the REDCap server… from the REDCap server, his telephone number or mobile number was captured and synced with the protocol, and SMS text messages were started to deliver. So first, there were some welcome messages, like, welcome to this mHealth.
+
+129
+00:25:13.270 --> 00:25:24.309
+Maham Zahid: program, and we will be sending you messages on a daily basis. And from the next day, some TB awareness messages, messages dreditude, medication, and some smoking cessician advice.
+
+130
+00:25:24.310 --> 00:25:40.219
+Maham Zahid: And at 7th date, the seventh day, a quitting, the quit date was, decided, and it said that you have to now quit smoking, try to keep these things away, and also there were some messages regarding how to deal with the cravings and stuff.
+
+131
+00:25:41.440 --> 00:25:43.959
+Maham Zahid: So, yeah, this was the procedure behind.
+
+132
+00:25:44.090 --> 00:26:02.860
+Maham Zahid: And, we had set a schedule of SMS messages, like Dr. Sheela was mentioning. There was a set schedule, like, how many number of messages were supposed to be sent on a daily basis, at what time, like, for example, starting from 9 in the morning, and then another text in the evening to remind about some important things.
+
+133
+00:26:03.700 --> 00:26:17.320
+Maham Zahid: So, the SMS messages were sent throughout the TB treatment period, where a major chunk of the intervention got delivered in the first 2 months, that are the most crucial for smoking cessation, as well as for TB treatment.
+
+134
+00:26:17.320 --> 00:26:31.399
+Maham Zahid: Yeah, and then some reminder SMS messages were sent in remaining 4 months, like, one message per month, or after every 2 weeks. So the frequency decreased later on, but in the start, there were some daily messages.
+
+135
+00:26:34.990 --> 00:26:55.830
+Maham Zahid: Okay, I would just like to mention before going into this slide, our research assistants from both intervention and control clusters, they used to monitor the participants on a weekly basis to make sure that SMS were going through. Because, you know, in our country, the trend of changing numbers or mobile phones getting off, switched off for
+
+136
+00:26:55.860 --> 00:27:14.509
+Maham Zahid: things like that happened, so they were assigned to monitor on weekly basis, and this practice was, done for both intervention and control. Although, in control, no SMS messages were being sent, but they used to, call the patient and make sure that they're not receiving any message, and also to,
+
+137
+00:27:15.220 --> 00:27:24.160
+Maham Zahid: avoid any buys, introduced by just calling the patient. So, that's why we, followed this monitoring activity.
+
+138
+00:27:25.460 --> 00:27:34.589
+Maham Zahid: Okay, this consort flow shows overall recruitment and follow-up numbers. So, out of total, 249 clusters.
+
+139
+00:27:34.730 --> 00:27:44.789
+Maham Zahid: From selected districts of Bangladesh and Pakistan, 27 clusters were included on the basis of having at least 50 new TB registrations per month, so…
+
+140
+00:27:44.790 --> 00:27:57.169
+Maham Zahid: that was the criteria, and also easy access and functionality of TB clinic was one of the eligibility criteria. So, the selection of clinics was done in collaboration with TB control programs. So, in
+
+141
+00:27:57.170 --> 00:28:10.159
+Maham Zahid: Pakistan and Bangladesh, TV control programs at national and provincial levels are basically managing all the treatments. So, we did this study in… in their… with their collaboration, of course.
+
+142
+00:28:10.630 --> 00:28:24.700
+Maham Zahid: So, a total 9,232, TB patients were screened, to enroll, 1,08 in the trial. So, the rest were excluded due to various reasons, as mentioned here.
+
+143
+00:28:25.480 --> 00:28:39.900
+Maham Zahid: And out of 27 clusters, 18 were dimension clusters, and 9 were control clusters, as I have already mentioned. So, at 6 months, follow-up, there were total 53 participants lost.
+
+144
+00:28:39.940 --> 00:28:54.180
+Maham Zahid: From intervention arm, while 42 were lost from the control. Overall, the loss to follow-up rate was quite low. It was 8.8%, 95 total loss-to-follow-up out of, 1,080.
+
+145
+00:28:54.310 --> 00:29:06.049
+Maham Zahid: And, following the intention-to-treat analysis approach, all the randomized patients were included in the analysis, where the last two follow-ups were imputed as non-quitters.
+
+146
+00:29:06.050 --> 00:29:16.419
+Maham Zahid: considering the worst possible outcome. So, we, did ITT and also per-protocol analysis that I will be showing you in later slides.
+
+147
+00:29:18.280 --> 00:29:32.220
+Maham Zahid: So, now moving on to our primary outcome results. So, it was found that 300 out of 720 participants, with TB, they achieved abstinence at 6 months in the mHealth group.
+
+148
+00:29:32.500 --> 00:29:53.200
+Maham Zahid: As compared to 55 out of 316, the control. So, there was a significantly higher quit rate observed, for mHealth group, which was 41.7%, as compared to 15.3% in the routine or usual care. And the between-group difference, was 26.4, which is quite high.
+
+149
+00:29:53.200 --> 00:29:56.789
+Maham Zahid: And a relative risk of 3 was observed, which means
+
+150
+00:29:56.790 --> 00:30:10.719
+Maham Zahid: that those who received this MHL intervention, they were 3 times more likely to quit as compared to those who belonged to the usual care. So, we provided an educational deflare to both arms.
+
+151
+00:30:10.830 --> 00:30:17.919
+Maham Zahid: To control as well as intervention. And then, SMS messages were only for the mHealth one.
+
+152
+00:30:18.700 --> 00:30:30.929
+Maham Zahid: So, the main analysis that we did was intention to treat and biochemically verified outcome using less than 10 ppm cutoff to label quitting or abstinence.
+
+153
+00:30:31.340 --> 00:30:48.140
+Maham Zahid: In terms of, per-protocol analysis, we also did per-protocol analysis. So, some higher quit rates were, shown by PP intervent, PP analysis. 45% quit rate in the mHealth, compared to 17.3% in the usual care.
+
+154
+00:30:48.150 --> 00:30:51.449
+Maham Zahid: And the difference of, 27.7%.
+
+155
+00:30:51.760 --> 00:30:53.860
+Maham Zahid: Between group difference.
+
+156
+00:30:54.570 --> 00:31:13.079
+Maham Zahid: Okay, so regarding, the self-reported, analysis, a higher quitting rate was observed, because out of these who report… who self-reported quitting, we performed some biochemical verification to make sure that, they have
+
+157
+00:31:13.350 --> 00:31:19.389
+Maham Zahid: genuinely quitted or not. So that's why, for self-report, these quit rates are higher in both terms.
+
+158
+00:31:20.780 --> 00:31:28.979
+Maham Zahid: Okay, also, we did some sensitivity analysis, by keeping cutoff point of, less than 6.
+
+159
+00:31:29.150 --> 00:31:30.880
+Maham Zahid: To,
+
+160
+00:31:31.230 --> 00:31:44.479
+Maham Zahid: Again, we… the same results were, observed, so significantly higher quitting rate in mHealth, using both intention to treat and protocol, with cutoff of less than 6.
+
+161
+00:31:45.250 --> 00:31:57.500
+Maham Zahid: So, these are very promising results that were observed in this trial, a quite high quit rate. And in terms of second, secondary outcomes, so the point abstinence at 9 weeks was reported.
+
+162
+00:31:57.660 --> 00:32:10.380
+Maham Zahid: again, higher in MTB, mHealth intervention, as compared to usual care, and the treatment outcomes, the, successful treatment outcome, like getting cured with… from TB,
+
+163
+00:32:10.440 --> 00:32:25.269
+Maham Zahid: there was no significant difference in both the groups. The height of the blue bar here is somewhat misleading, because I could not adjust the y-axis, so it must be starting from 0 to 100, so there is not much difference.
+
+164
+00:32:25.350 --> 00:32:33.659
+Maham Zahid: Here, 89, and then 85, so no significant difference. So, same sort of TB treatment success was noted in both the groups.
+
+165
+00:32:35.110 --> 00:32:59.220
+Maham Zahid: Deaths have, very interesting findings. So, deaths were significantly higher in the control group as compared to the mHealth group, and the relative risk of 0.4 was obtained, which shows that 60% lower risk of death was noted among mHealth group. And also, we did some survival analysis which showed the Kaplan-Meier plot.
+
+166
+00:32:59.280 --> 00:33:02.929
+Maham Zahid: showed higher survival probabilities in the mHealths.
+
+167
+00:33:03.010 --> 00:33:06.600
+Maham Zahid: mHealth Group as compared to the control.
+
+168
+00:33:09.950 --> 00:33:28.650
+Maham Zahid: So, in the end, of superiority Drive was concluded that mHealth intervention, it was found to be an effective intervention for making smoking cessation possible in TB patients, and it could be a possible candidate for implementation and scale-up in routine care, especially in LMICs.
+
+169
+00:33:28.650 --> 00:33:35.779
+Maham Zahid: Where resource constraint environment is there, and a lot of cost-related issues are there, so…
+
+170
+00:33:35.780 --> 00:33:37.759
+Maham Zahid: This can be a feasible option.
+
+171
+00:33:37.760 --> 00:33:52.610
+Maham Zahid: So, these are some of the recommendations that were made, like, to integrate tobacco use screening in routine care by recording tobacco use and smoking status for all TB patients at the time of registration in the TB.
+
+172
+00:33:53.460 --> 00:34:12.910
+Maham Zahid: Also, to make, tobacco cessation support a standard component of routine TB treatment, offering evidence-based interventions, like, for example, mHealth or behavior support intervention, whatever is feasible, but some intervention or some support must be there in routine TB care.
+
+173
+00:34:13.630 --> 00:34:33.390
+Maham Zahid: Also, it is recommended to adopt the mHealth intervention nationally as a cost-effective and scalable approach, so we are in touch with the collaborators, the TB control programs, and they are quite willing and giving us a positive attitude towards adopting this intervention and making this part of their routine care.
+
+174
+00:34:33.389 --> 00:34:46.829
+Maham Zahid: Also, it was recommended to embed tobacco cessation within National TB Strategic Plan by incorporating, you know, evidence-based cessation interventions and performance indicators into routine.
+
+175
+00:34:46.830 --> 00:34:49.260
+Maham Zahid: Program implementation and monitoring.
+
+176
+00:34:49.260 --> 00:35:12.450
+Maham Zahid: And also to allocate some sustainable resources, and to strengthen partnerships, because in Pakistan, I'm not sure about Bangladesh, but similar situation, I think, is there. There are many donor-funded programs that are handling TB, like Global Fund, and now the fundings are being cut, so there is a need to allocate some sustainable resources.
+
+177
+00:35:12.450 --> 00:35:15.459
+Maham Zahid: By the country to tackle these problems.
+
+178
+00:35:17.080 --> 00:35:21.770
+Maham Zahid: So, yeah, that's all from my side, and if there are any questions, I am happy to answer.
+
+179
+00:35:22.750 --> 00:35:33.630
+Jamie Hartmann-Boyce: Thank you so much, Mahaman. Congratulations on a really impressive trial. First, I'm going to hand back over to Dr. Shenoi for any comments or questions she has at this stage.
+
+180
+00:35:35.050 --> 00:35:39.230
+Sheela Shenoi: Thank you so much for a fantastic presentation, Dr. Zahid.
+
+181
+00:35:39.850 --> 00:35:44.579
+Sheela Shenoi: the… I'm hoping you can comment, the…
+
+182
+00:35:45.420 --> 00:35:57.769
+Sheela Shenoi: mHealth Arms smoked… tended to smoke more tobacco and smokeless tobacco products, but there was… they… that arm… the people on that arm were also more likely to have tried to quit in the past. I think 24%
+
+183
+00:35:57.770 --> 00:36:08.890
+Sheela Shenoi: in the mHealth arm versus 9% in the usual care arm. I'm wondering if that, disparity biases the sample toward responding to the intervention. Can you comment?
+
+184
+00:36:09.470 --> 00:36:33.340
+Maham Zahid: Yeah, thank you so much for the question. So, the results that I have shown in the slides, they are adjusted, results. So, we, performed this multivariate adjusted analysis, keeping in view all these, different covariates or confounding factors that can deviate, our results from the true findings. So, these are adjusted, results that I'm showing you. So, we took,
+
+185
+00:36:33.710 --> 00:36:42.859
+Maham Zahid: These parameters into regard, and we did some, adjusted analysis to make sure that there are no biases or no confounding factors there.
+
+186
+00:36:43.870 --> 00:36:46.900
+Sheela Shenoi: Fantastic, thank you for that clarification.
+
+187
+00:36:47.410 --> 00:36:57.800
+Sheela Shenoi: I recognize that the primary outcome was tobacco cessation, and certainly impressive results, but I'm also quite struck by the mortality results. Can you comment on…
+
+188
+00:36:58.210 --> 00:37:11.410
+Sheela Shenoi: What you think that contributed to a dramatically improved mortality, in the intervention arm, given that the treatment outcomes are… were not significantly different, and the adherence rates were not significantly different.
+
+189
+00:37:12.120 --> 00:37:28.049
+Maham Zahid: Yeah, we were also very surprised because deaths were, part of a secondary outcome, so we cannot, truly say that if the intervention had a positive effect on reducing the deaths, but, you know, when people quit, they're,
+
+190
+00:37:28.540 --> 00:37:44.539
+Maham Zahid: the risk of death decreases in TB patients. There is literature present in, in previous studies. I think we need to explore this further, but, yeah, that's what we got. And maybe Professor Kamran can comment on this better.
+
+191
+00:37:44.980 --> 00:37:46.889
+Maham Zahid: You want to add something, sir?
+
+192
+00:37:48.210 --> 00:37:52.019
+Kamran Siddiqi: Thank you. I think, Maham, you're right, that obviously,
+
+193
+00:37:52.230 --> 00:38:07.300
+Kamran Siddiqi: quitting, even in such a short period of time, can have a positive impact, and it might have contributed to fewer deaths in the intervention arm. The other thing, important thing to note is that the intervention wasn't just about smoking cessation.
+
+194
+00:38:07.590 --> 00:38:13.020
+Kamran Siddiqi: They were receiving messages to adhere to the treatment, and to follow up.
+
+195
+00:38:13.240 --> 00:38:28.499
+Kamran Siddiqi: And although we did not see a big difference in the treatment adherence between the two arms, but this is data that's routinely collected, and when you rely on routinely collected data, you always question, because it wasn't collected for the research purposes.
+
+196
+00:38:28.580 --> 00:38:43.389
+Kamran Siddiqi: So, it is still possible that, people who receive messages, not only they increase… they quit in high numbers, but they also, their TB outcomes, might have… improved TB outcomes might have contributed to
+
+197
+00:38:43.390 --> 00:38:57.630
+Kamran Siddiqi: this reduced mortality because they were taking more medicines and they were following up their clinics. It's possible, although we can't confirm it, to be honest, because I think treatment adherence for TB is mainly relying on.
+
+198
+00:38:57.630 --> 00:38:58.360
+Sheela Shenoi: self-support.
+
+199
+00:38:58.360 --> 00:39:00.260
+Kamran Siddiqi: Routine care, yeah, routine data, which is…
+
+200
+00:39:00.260 --> 00:39:00.620
+Maham Zahid: Yeah.
+
+201
+00:39:00.620 --> 00:39:02.170
+Kamran Siddiqi: Not that reliable.
+
+202
+00:39:02.170 --> 00:39:08.809
+Sheela Shenoi: Right. So you don't have any data on, cause of death amongst the people who experience mortality?
+
+203
+00:39:10.960 --> 00:39:12.389
+Maham Zahid: We… we have.
+
+204
+00:39:12.390 --> 00:39:13.860
+Kamran Siddiqi: Maham, please, go ahead.
+
+205
+00:39:14.070 --> 00:39:29.419
+Maham Zahid: Yeah, so we did capture the cause of death, so I think majority was for, for, severe TB disease, and there were some cardiovascular, causes as well, so we, we have, a supplementary table is there.
+
+206
+00:39:30.080 --> 00:39:32.119
+Maham Zahid: Mentioning all the causes, yeah.
+
+207
+00:39:32.550 --> 00:39:34.090
+Sheela Shenoi: Great, thank you.
+
+208
+00:39:34.180 --> 00:39:46.400
+Sheela Shenoi: Can you share, along those lines, I'm curious whether or not you collected any data on other comorbid conditions other than tobacco use that can contribute to TB outcomes.
+
+209
+00:39:46.400 --> 00:40:02.059
+Sheela Shenoi: you know, I'm thinking of HIV, diabetes, alcohol use, malnutrition. Certainly, I understand that alcohol use, may be atypical in Pakistan and Bangladesh, but it is often linked with… behaviorally with tobacco use.
+
+210
+00:40:02.060 --> 00:40:17.559
+Sheela Shenoi: But certainly, if I recall correctly, HIV rates are rising in this part of the world, and I'm wondering if some of those comorbidities you may have data on, and whether or not those could be contributing to some of the outcomes we're seeing here.
+
+211
+00:40:25.010 --> 00:40:42.680
+Maham Zahid: Yeah, I think we did get some data, the clinic-level data, on comorbid conditions. I'm not sure about HIV or not, but basically the hypertension, diabetes, so these main variables were captured, so…
+
+212
+00:40:43.890 --> 00:40:46.170
+Maham Zahid: But I'm not sure about HIV.
+
+213
+00:40:48.420 --> 00:40:53.100
+Maham Zahid: I would have to look into it in detail, and then… comment here.
+
+214
+00:40:56.800 --> 00:41:00.499
+Maham Zahid: But you're right, yeah, these comorbidities can have a…
+
+215
+00:41:00.860 --> 00:41:03.220
+Maham Zahid: Effect on the outcomes as well.
+
+216
+00:41:05.490 --> 00:41:13.029
+Sheela Shenoi: No, thank you. I'd be curious to hear, about any further analyses you do with that… those… of those comorbidities.
+
+217
+00:41:13.040 --> 00:41:32.570
+Sheela Shenoi: Lastly, I just wanted to ask, you know, what, what would it take to get this kind of intervention implemented into routine care? I mean, you mentioned that you've been in contact with the government who seems supportive. I'm curious about, phone penetration in the community, in the general community.
+
+218
+00:41:32.590 --> 00:41:42.049
+Sheela Shenoi: Does… would there need to be any investment in the, technology infrastructure at a clinic level in order to make this,
+
+219
+00:41:42.240 --> 00:41:44.720
+Sheela Shenoi: In order to implement this strategy.
+
+220
+00:41:46.530 --> 00:42:10.769
+Maham Zahid: Yeah, thank you for this question. So, recently we had this dissemination event that we arranged with TB control program managers and other… because this study was done in Punjab district of Pakistan, but we invited other stakeholders, TB control programs from other provinces as well, and we shared our results with them, just to take their ownership, just to see how they are thinking, what are…
+
+221
+00:42:10.770 --> 00:42:31.240
+Maham Zahid: the possible ways of going forward, because we have this thing in mind. We want to take this forward, and we want to implement this, scale up this intervention, and make it part of the routine care. So, for now, there were many positive initiatives from their side. There were some, you can say they were giving us ideas, like, how we can do this.
+
+222
+00:42:31.240 --> 00:42:35.700
+Maham Zahid: Because this mHealth portal, it can be embedded into the routine, and…
+
+223
+00:42:35.820 --> 00:42:41.890
+Maham Zahid: data, the health information system that is going on at the clinic level, we can integrate it
+
+224
+00:42:42.050 --> 00:42:58.800
+Maham Zahid: in that component as well, and it came from their side. So, this shows that they are keen on, they are thinking about how… how we can strategize, how we can move. So, I think, it's possible. Of course, some resources will be needed, some…
+
+225
+00:42:58.800 --> 00:43:15.300
+Maham Zahid: facility level, health level changes, or ownership will be needed. That can take time, but at least I'm… we are glad that they are thinking of doing something about this. They are taking the ownership, they are happy with the results. That's a big achievement from our side, yeah.
+
+226
+00:43:17.990 --> 00:43:24.569
+Sheela Shenoi: Fantastic We look forward to hearing your progress. Thank you so much.
+
+227
+00:43:25.540 --> 00:43:26.349
+Maham Zahid: Thank you.
+
+228
+00:43:27.350 --> 00:43:43.470
+Jamie Hartmann-Boyce: Thank you. So, if there are more questions, do keep them coming in the Q&A, and I will just take this moment to ask a question as well. So, if I'm remembering correctly from the first half of the presentation, there's a fourth phase, a trial that's comparing to… is that in-person behavioral support?
+
+229
+00:43:43.920 --> 00:43:47.729
+Jamie Hartmann-Boyce: And what's kind of the rationale behind that, and where are you with that now?
+
+230
+00:43:48.340 --> 00:44:06.669
+Maham Zahid: Yeah, so basically, we… first, we wanted to establish… we wanted to see if mHealth intervention is, effective, if it contributes towards achieving smoking cessation among TB patients. Once the effectiveness has been, established, now we want to… we wanted to compare it with already
+
+231
+00:44:06.670 --> 00:44:24.510
+Maham Zahid: available interventions, that the evidence has already been there. So we wanted to, see if it's as good as behavior support intervention. So we hypothesized that it's non-inferior to behavior support. So, we have not published the results yet, but, maybe I can just comment
+
+232
+00:44:24.520 --> 00:44:32.370
+Maham Zahid: A little. A high quit rate in, behavior support intervention has been seen, and,
+
+233
+00:44:32.730 --> 00:44:42.710
+Maham Zahid: there is a significant difference between the quit rate, higher in behavior support as compared to mHealth, but mHealth has, provided us again with a good number. I think it's…
+
+234
+00:44:42.870 --> 00:44:48.870
+Maham Zahid: 35 or 37%, which further confirms whatever we got in this Phase 3.
+
+235
+00:44:48.870 --> 00:45:05.899
+Maham Zahid: it got confirmed in Phase 4, but it's not as good as behavior support. Of course, there is an element of face-to-face human interaction, physically counseling, so… but… but the quit rates are not that bad. Maybe we can… when there is nothing in routine care.
+
+236
+00:45:05.970 --> 00:45:19.380
+Maham Zahid: going with mHealth, it's going to make a difference. So, if not BS, then at least mHealth should be, taken up by the TB program and tried to be, make a part of routine TB care.
+
+237
+00:45:19.500 --> 00:45:26.640
+Maham Zahid: So, our paper will be, inshallah, published soon, and we will share it with you guys, yeah.
+
+238
+00:45:26.640 --> 00:45:29.810
+Jamie Hartmann-Boyce: Look forward to seeing it. Kamran, did you want to come in?
+
+239
+00:45:30.500 --> 00:45:38.460
+Kamran Siddiqi: Yeah, I think we've blown up chances of us for another webinar on this topic by giving away the results.
+
+240
+00:45:39.310 --> 00:45:54.179
+Kamran Siddiqi: Yeah, I mean, I think you asked about the rational, so… so I was actually quite surprised… I mean, Timmy, you've been involved in so many Cochrane reviews, so you know this, that I was quite surprised that actually there are very few head-to-head trials that compare…
+
+241
+00:45:54.180 --> 00:45:54.640
+Jamie Hartmann-Boyce: Yeah.
+
+242
+00:45:54.640 --> 00:46:11.239
+Kamran Siddiqi: And, yeah, I think hardly two or three. So, and it's such an important question for the settings that we work in, because, relying on human-delivered face-to-face intervention is great, but it's problematic, because just
+
+243
+00:46:11.300 --> 00:46:29.189
+Kamran Siddiqi: health professionals don't have time, so mHealth offers an alternative, good alternative, but what's… is it as good, or half as good, or… you know, that question has not been answered. So that's why we were keen to do it, because we can then present both options to our policymakers.
+
+244
+00:46:29.190 --> 00:46:42.140
+Kamran Siddiqi: That here you have a cheaper, scalable intervention, but this is the effect size, and here you've got an intervention that is, probably more effective, but, costs more and relies on Zoom delivery.
+
+245
+00:46:42.770 --> 00:46:45.689
+Jamie Hartmann-Boyce: Do you do any sort of cost-effectiveness analysis alongside that?
+
+246
+00:46:45.690 --> 00:46:47.040
+Kamran Siddiqi: Yeah, yeah.
+
+247
+00:46:47.280 --> 00:46:48.679
+Jamie Hartmann-Boyce: Okay, great. I don't want…
+
+248
+00:46:48.680 --> 00:46:51.389
+Kamran Siddiqi: Then I won't reveal the results. Yeah, exactly.
+
+249
+00:46:51.390 --> 00:46:51.840
+Jamie Hartmann-Boyce: Say that.
+
+250
+00:46:51.840 --> 00:46:55.340
+Kamran Siddiqi: I'll wait for the next invite. Excellent.
+
+251
+00:46:55.340 --> 00:47:03.319
+Jamie Hartmann-Boyce: But you're absolutely right, there's, interestingly, a dearth of head-to-head trials looking at these, so this is going to be a really important contribution to the literature. I look forward to seeing it.
+
+252
+00:47:04.660 --> 00:47:17.940
+Jamie Hartmann-Boyce: Okay, well, if there aren't any more questions from our audience, I will hand over to our MC to close us out. Thank you so much, this was a wonderful presentation, and again, congratulations on a really fantastic trial, and we look forward to seeing the next one as well.
+
+253
+00:47:19.360 --> 00:47:30.139
+Maria Robayo: We're out of time. Thank you to our presenter, moderator, and discussant. Finally, thank you to the audience of 98 people for your participation. Have a Tops Nosh weekend.
+
