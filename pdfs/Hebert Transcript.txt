@@ -1,0 +1,1346 @@
+WEBVTT
+
+1
+00:00:05.230 --> 00:00:13.619
+Rachel Fung: Welcome to the Tobacco Online Policy Seminar, TOPS. Thank you for joining us today. I'm Rachel Fung, a postdoctoral fellow at the University of Missouri.
+
+2
+00:00:14.550 --> 00:00:28.149
+Rachel Fung: TOPS is organized by Mike Pesko at University of Missouri, Xie Zhang at The Ohio State University, Michael Darden at Johns Hopkins University, Jamie Hartmann-Boyce at University of Massachusetts Amherst, and Justin White at Boston University.
+
+3
+00:00:29.010 --> 00:00:32.929
+Rachel Fung: The seminar will be one hour with questions from the moderator and discussant.
+
+4
+00:00:33.040 --> 00:00:40.459
+Rachel Fung: The audience may post questions and comments in the Q&A panel, and the moderator will draw from these questions and comments in conversation with the presenter.
+
+5
+00:00:41.170 --> 00:00:45.560
+Rachel Fung: Please review the guidelines on TobaccoPolicy.org for acceptable questions.
+
+6
+00:00:46.250 --> 00:00:49.849
+Rachel Fung: Please keep the questions professional and related to the research being discussed.
+
+7
+00:00:50.040 --> 00:00:55.999
+Rachel Fung: Questions that meet the seminar series guidelines will be shared with the presenter afterwards, even if they are not read aloud.
+
+8
+00:00:56.170 --> 00:00:58.429
+Rachel Fung: Your questions are very much appreciated.
+
+9
+00:00:59.600 --> 00:01:06.899
+Rachel Fung: This presentation is being video recorded and will be made available along with presentation slides on the TOPS website, TobaccoPolicy.org.
+
+10
+00:01:07.660 --> 00:01:14.169
+Rachel Fung: I will turn the presentation over to today's moderator, Michael Darden from John Hopkins University to introduce our speaker.
+
+11
+00:01:15.550 --> 00:01:28.609
+Michael Darden: Thank you, Rachel. So today we're going to continue our summer 2026 season with a single paper presentation by Reginald Hebert entitled, Differential Effects When E-Cigarette Policies Contribute to Health Inequities.
+
+12
+00:01:28.610 --> 00:01:42.999
+Michael Darden: The presentation was selected via competitive review process submission through the TOPS website. Reginald Hebert is an associate research scientist at the Yale School of Public Health. He holds a PhD in economics from Georgia State University.
+
+13
+00:01:43.000 --> 00:02:02.659
+Michael Darden: His research focuses on the economics of health, public policy, and addictive behaviors, with a focus on tobacco and nicotine products. Dr. Abigail Friedman is an associate professor at Yale University and is a co-author on this study, and will answer questions in the Q&A. Dr. Barron, thank you for presenting for us today.
+
+14
+00:02:10.310 --> 00:02:16.340
+Reginald Hebert: Thank you very much, Michael. So, I'm Reggie Hebert, and let me go ahead and share my screen.
+
+15
+00:02:21.390 --> 00:02:28.869
+Reginald Hebert: And so today, I'm going to be presenting joint work with Abby Friedman and Mike Pesko at Yale and University of Missouri, respectively.
+
+16
+00:02:33.220 --> 00:02:46.230
+Reginald Hebert: This research was supported by awards from the National Institutes of Health's National Cancer Institute, as well as the FDA Center for Tobacco Products, and I personally have not received any tobacco-related funding in the last 10 years.
+
+17
+00:02:46.990 --> 00:02:55.040
+Reginald Hebert: So, I'd like to start with sort of three assertions, and then, look at the questions that are motivated by those assertions today.
+
+18
+00:02:55.930 --> 00:03:08.869
+Reginald Hebert: So first, e-cigarettes are a less harmful substitute for combustible tobacco. Now, there is a bit of disagreement about some of these terms, but I think that both of these are well-evidenced, as I think I'll provide some evidence for.
+
+19
+00:03:08.870 --> 00:03:18.740
+Reginald Hebert: Second, flavor restrictions decrease the appeal of vaping. I think this is self-evident, given that the overwhelming majority of vapes that are used in the United States are flavored.
+
+20
+00:03:18.740 --> 00:03:29.719
+Reginald Hebert: And then finally, tobacco use is higher among lower educated and lower socioeconomic status population groups in the United States. So, given these three facts that we have in evidence.
+
+21
+00:03:29.740 --> 00:03:37.800
+Reginald Hebert: The questions that we want to look at are, does substitution, that is, substitution from e-cigarettes towards combustible cigarettes.
+
+22
+00:03:37.900 --> 00:03:42.949
+Reginald Hebert: Does substitution in response to flavor restrictions differ by education?
+
+23
+00:03:43.100 --> 00:03:55.269
+Reginald Hebert: And if that's the case, then do these policies reduce or exacerbate existing disparities in combustible tobacco use, and therefore in the burden of tobacco-related disease?
+
+24
+00:03:55.830 --> 00:04:04.070
+Reginald Hebert: So, we're going to start by looking at the first of those contentions that I made, which is about e-cigarettes and health. So, broadly speaking.
+
+25
+00:04:04.070 --> 00:04:19.140
+Reginald Hebert: e-cigarettes are understood to be less unhealthy, not healthy, but less unhealthy than combustible tobacco might be. There's a broad range of evidence supporting this contention, which has gone on for quite a number of years across a number of disciplines.
+
+26
+00:04:19.140 --> 00:04:35.109
+Reginald Hebert: In particular, I think evidence on toxicology reports from toxicants exposure in biomarker studies have indicated fairly strongly that e-cigarettes are simply not giving people exposure to carcinogens and other
+
+27
+00:04:35.520 --> 00:04:40.240
+Reginald Hebert: Other volatile organic compounds that will lead to negative health incomes.
+
+28
+00:04:42.060 --> 00:04:56.369
+Reginald Hebert: Smoking cessation. So, this is something where we have a recent Cochrane review of studies showing that e-cigarettes are a useful tool for smoking cessation. So, in context of giving them, like, a positive role.
+
+29
+00:04:56.380 --> 00:05:03.789
+Reginald Hebert: Rather than just a less unhealthy alternative. And then finally, I think most obviously.
+
+30
+00:05:03.790 --> 00:05:18.529
+Reginald Hebert: e-cigarettes do contribute to nicotine initiation, particularly among youth, and they thereby contribute to ongoing nicotine addiction. And as long as that door is open, there's always the possibility that someone will switch to a more harmful substance.
+
+31
+00:05:19.510 --> 00:05:24.089
+Reginald Hebert: So, the complexity of the health issue aside, what about substitution?
+
+32
+00:05:24.850 --> 00:05:44.599
+Reginald Hebert: So we have a number of different lines of evidence that indicate that e-cigarettes function as substitutes for combustible tobacco, and by that I mean that if you, say, raise taxes on e-cigarettes, broadly speaking, what we see as a consequence of that is that people will substitute over to combustible cigarettes.
+
+33
+00:05:44.880 --> 00:06:09.639
+Reginald Hebert: And the lines of evidence we see this from started out with minimum legal sales age laws, showing that among younger individuals who would then lack access to e-cigarettes, they would swap over to combustible cigarettes. Similar evidence was found among adults, youth, and then in the general population across sales data as a consequence of e-cigarette taxes. And then, as the flavor restrictions have rolled out across the country.
+
+34
+00:06:09.750 --> 00:06:14.090
+Reginald Hebert: At the state level, these have also been studied and found that…
+
+35
+00:06:14.220 --> 00:06:26.379
+Reginald Hebert: When individuals are unable to access the flavored cigarettes, e-cigarettes that they prefer, many times they will simply move to substitute toward a combustible cigarette, rather than cease nicotine use entirely.
+
+36
+00:06:28.670 --> 00:06:39.840
+Reginald Hebert: So, about flavor restrictions in particular, which is the policy that we're going to be discussing today, these started out quite early, I believe the earliest is in Rhode Island at the local level in 2012.
+
+37
+00:06:40.480 --> 00:07:01.980
+Reginald Hebert: By the time 2019 came around with the Ivali outbreak, a number of states passed temporary bans, and these were in place many times banning all e-cigarette use. Most of those fell away, but in the wake of that, several states began implementing statewide flavor restriction policies. Some of these include menthol.
+
+38
+00:07:01.980 --> 00:07:03.350
+Reginald Hebert: Some of them do not.
+
+39
+00:07:03.410 --> 00:07:13.590
+Reginald Hebert: At the state level, then, Massachusetts started theirs in 2019, followed by a number of other states, most recently being California in December of 2022.
+
+40
+00:07:13.720 --> 00:07:20.790
+Reginald Hebert: There are also some other policies. The District of Columbia, of course, has a policy in place, although it is not a state.
+
+41
+00:07:20.790 --> 00:07:38.320
+Reginald Hebert: And then Maryland is a bit of a special case, as they do not have a statewide law that prohibits the sale of flavored e-cigarettes, but what they do have instead is a regulatory guideline that extends the FDA's restriction on the sale of flavored pod-based
+
+42
+00:07:38.320 --> 00:07:40.550
+Reginald Hebert: That is rechargeable e-cigarettes.
+
+43
+00:07:40.550 --> 00:07:59.379
+Reginald Hebert: to include disposables, but does not include the open system vapes that are often found at vape specialty stores that you use to refill with e-liquid and the like. So because there's sort of a big sector of the market, the open, the open system e-cigarettes in Maryland, it doesn't really have a full state ban on flavors.
+
+44
+00:08:00.080 --> 00:08:01.000
+Reginald Hebert: So…
+
+45
+00:08:01.880 --> 00:08:19.860
+Reginald Hebert: This is a map of the current landscape of e-cigarette flavor restrictions. Those states that are hashed in red, California, Maine, and then Massachusetts, also have combustible tobacco flavor restrictions, particularly in the case here of cigars.
+
+46
+00:08:21.320 --> 00:08:29.169
+Reginald Hebert: You can see a lot of this is concentrated in California Northeast. We'll talk a little bit more, maybe, about the geographic distribution of these policies in a moment.
+
+47
+00:08:30.030 --> 00:08:36.790
+Reginald Hebert: So, now let's, turn away from just the e-cigarette side of things and look at education and behavior.
+
+48
+00:08:37.880 --> 00:08:44.579
+Reginald Hebert: So, here's a graph from the National Health Interview Survey, 1970 to 2021, of
+
+49
+00:08:44.620 --> 00:09:02.799
+Reginald Hebert: current smoking by level of education. With the exception of that blue line, which is a bit of an outlier showing individuals with less than 8 years of education, what we see is that the lowest group is consistently those with at least a college degree, and that group at the very top is those who have
+
+50
+00:09:02.960 --> 00:09:07.470
+Reginald Hebert: school attendance, but do not have a high school diploma or a GED.
+
+51
+00:09:07.780 --> 00:09:15.929
+Reginald Hebert: And in addition, again, with the exception of that less than 8 years of education line, what we see is kind of a level increase.
+
+52
+00:09:16.440 --> 00:09:33.790
+Reginald Hebert: As you have fewer years of education, you have a higher rate of combustible tobacco use. And in 2024, the gap between those who had no college attendance and those with at least a year of college attendance, for individuals 21 to 29 was about 7.3 percentage points.
+
+53
+00:09:33.920 --> 00:09:40.219
+Reginald Hebert: And for the 30 to 54 group, it was over 12 percentage points, so this is, you know, the equivalent of maybe
+
+54
+00:09:40.360 --> 00:09:45.500
+Reginald Hebert: Two decades' worth of changes in the total rate of decline.
+
+55
+00:09:45.640 --> 00:09:49.879
+Reginald Hebert: that separates these two groups. So it's quite an enormous difference in behavior.
+
+56
+00:09:50.070 --> 00:09:51.270
+Reginald Hebert: by education.
+
+57
+00:09:53.430 --> 00:10:06.010
+Reginald Hebert: So, how does that relate to policy, is the question. The question I told you that we were going to answer was about this kind of response to these flavored restrictions. So, how can we think about how policy might interact with education?
+
+58
+00:10:06.100 --> 00:10:12.269
+Reginald Hebert: We think about it in two primary ways. First is what we think of as differential exposure.
+
+59
+00:10:12.350 --> 00:10:33.300
+Reginald Hebert: So, this is where you have a policy in the first place that could simply be targeted at a particular group. Now, naturally, we wouldn't really have much of an e-cigarette policy that would be targeted in an education group, but what we do have is something like a minimum legal sales age law, for example. This is explicitly targeted at a younger group of individuals, and it does not bind on people who are not affected by the policy.
+
+60
+00:10:33.340 --> 00:10:43.410
+Reginald Hebert: So that would be an example of differential exposure. There's also a more un… or I suppose I should say a less intentional method, which is the sort of differences by jurisdiction that we observe.
+
+61
+00:10:43.540 --> 00:10:49.050
+Reginald Hebert: According to, like, the CDC State System Survey of various policies, and then research on.
+
+62
+00:10:49.150 --> 00:11:00.070
+Reginald Hebert: flavor policies and taxation, there is fairly substantial difference in exposure to tobacco control policies between urban and rural areas in the United States.
+
+63
+00:11:00.190 --> 00:11:12.839
+Reginald Hebert: And that means that if you happen to live in a rural area, then you are simply less likely to face high cigarette taxes, high e-cigarette taxes, or smoke-free worksite laws, for example.
+
+64
+00:11:13.060 --> 00:11:18.630
+Reginald Hebert: And that means that you're going to have a different response simply mechanically because of your exposure.
+
+65
+00:11:18.940 --> 00:11:33.309
+Reginald Hebert: Now, the other side of this is differential responsiveness to a policy, and this is really something that we think deserves a bit of exploration. So, there's a couple ways in which a policy might be implemented, and someone may simply respond differently on the basis of their education.
+
+66
+00:11:33.410 --> 00:11:53.150
+Reginald Hebert: The first is if you imagine there's simply a causal effect of education on health behaviors, which is something that we do see supported in the literature in the context of things like mandatory education studies and, studies that involve the Vietnam War, and we see this around the world, that compulsory education
+
+67
+00:11:53.150 --> 00:11:56.990
+Reginald Hebert: Does seem to at least imply a causal effect on education.
+
+68
+00:11:57.030 --> 00:12:14.129
+Reginald Hebert: That being said, that need not necessarily be the case, that simply having more education leads to better health decision-making or better health behaviors. It could be that there is a common factor, a third factor, that simply influences education and health behavior policy response at the same time.
+
+69
+00:12:14.130 --> 00:12:17.459
+Reginald Hebert: An example of this would just be time preference, so if you just have
+
+70
+00:12:17.650 --> 00:12:30.600
+Reginald Hebert: very forward-looking attitude, and you think strongly about the future, and you're more inclined to weigh it more highly than the present, then if you're in that situation, then you're likely going to be a person who is going to value
+
+71
+00:12:31.070 --> 00:12:45.990
+Reginald Hebert: educational effort that leads to increased income later in life, and you are also likely to be a person who has a similar attitude toward health. So it's not so much that education causes this response, but that education is also being related to something behind that.
+
+72
+00:12:46.120 --> 00:12:49.090
+Reginald Hebert: The third would be…
+
+73
+00:12:49.330 --> 00:13:03.990
+Reginald Hebert: the difference is in choice set by education. So a way to think about this, this is just… there are different options on the table for you, depending on your level of education, in response to a policy. So, for a flavor restriction, say, if you are a person who uses a vape.
+
+74
+00:13:04.220 --> 00:13:06.840
+Reginald Hebert: And a flavor restriction comes in place.
+
+75
+00:13:06.980 --> 00:13:13.610
+Reginald Hebert: you'd no longer want to use the unflavored vape as an option, and you decide, I would just like to…
+
+76
+00:13:13.990 --> 00:13:32.780
+Reginald Hebert: engage in tobacco cessation. I just want to quit. If you want to do that, then you might look to your… look to the options that are available to you and say, I might need nicotine replacement therapy. I may have a really strong addiction, I might need counseling. But those options may be constrained because you might lack access to health insurance.
+
+77
+00:13:32.840 --> 00:13:47.629
+Reginald Hebert: And that access to health insurance could be related to your educational level. So again, this is not a global prescriptive statement, but it's one alternative that could lead to a difference in policy response. And then, related to that.
+
+78
+00:13:47.630 --> 00:14:02.490
+Reginald Hebert: is not that you have different choices available to you, but depending on the choice you make, you could get more of a benefit or less of a penalty. The example here would be, if you smoke more intensively, if you have a stronger addiction, then
+
+79
+00:14:02.630 --> 00:14:17.479
+Reginald Hebert: quitting, if you're quitting, vaping, is just going to have a much more difficult road for you than just substituting with cigarettes, because the withdrawal symptoms are just going to be stronger. And if that kind of
+
+80
+00:14:17.770 --> 00:14:37.200
+Reginald Hebert: If that kind of thing is correlated with education, if we have an overall higher level of intense smoking versus less intense smoking or vape usage by education, that means when they're faced with a policy, the individuals with lower education will be disproportionately likely to choose to substitute to a different nicotine option than they are to quit entirely.
+
+81
+00:14:37.280 --> 00:14:45.340
+Reginald Hebert: So, those are just a few ways to explore this, but in the context of flavor restrictions specifically, there are three points that we think are salient.
+
+82
+00:14:45.890 --> 00:14:57.009
+Reginald Hebert: So, vapor restrictions decrease the appeal of vaping for current vapors, and they could lead to substitution, and we think there are 3 groups of people, based on our earlier discussion of how this could work.
+
+83
+00:14:57.210 --> 00:15:03.340
+Reginald Hebert: That are kind of most at risk of substituting towards cigarettes, rather than simply
+
+84
+00:15:03.430 --> 00:15:10.229
+Reginald Hebert: quitting nicotine entirely. The first group is individuals, like I just mentioned, who have a higher level of nicotine addiction.
+
+85
+00:15:10.290 --> 00:15:19.819
+Reginald Hebert: The second group would be those who have kind of a lower perceived risk of cigarette smoking relative to vaping. So, for example, if you currently vape.
+
+86
+00:15:19.840 --> 00:15:30.499
+Reginald Hebert: And you think vapes are about as dangerous as cigarettes, then substituting to cigarettes is simply not as threatening to you as if you think cigarettes are substantially more dangerous than vaping, for example.
+
+87
+00:15:30.910 --> 00:15:43.900
+Reginald Hebert: And then thirdly, if you face a lower social penalty from smoking. So, this could be maybe people in your household smoke, people in your community smoke, maybe people at your workplace smoke. So.
+
+88
+00:15:44.000 --> 00:15:53.939
+Reginald Hebert: Individuals who fall into these three groups are all going to be just more likely to substitute towards cigarettes, because it's just an easier option for them, and it has a better payoff.
+
+89
+00:15:54.210 --> 00:16:03.310
+Reginald Hebert: The issue is that all three of these groups are going to be disproportionately likely to be lower educated, according to the research that we have.
+
+90
+00:16:03.330 --> 00:16:17.150
+Reginald Hebert: I think maybe the one that you might take issue with the most might be the second point there, about lower perceived risk of cigarettes, but generally speaking, education has been demonstrated to have a fairly strong correlation with, accurate understanding of health risks.
+
+91
+00:16:17.360 --> 00:16:34.639
+Reginald Hebert: So, given that we have all three of these groups who are disproportionately likely to respond to a policy by substituting to cigarettes based on their education, there is the possibility that we could see a real shift if a policy comes into place that would disproportionately harm these individuals.
+
+92
+00:16:34.780 --> 00:16:41.029
+Reginald Hebert: So with all that said, before we move on to our data and methods, I'll go ahead and pause for questions.
+
+93
+00:16:45.020 --> 00:16:56.089
+Michael Darden: Thank you, Dr. Hebert. So our discussant today is Dr. Ben Schue, an assistant professor of economics at the University of New Hampshire.
+
+94
+00:16:56.120 --> 00:17:05.610
+Michael Darden: His recent research focuses on e-cigarette policies and the health outcomes of vulnerable populations, so perfect for this discussion. Ben?
+
+95
+00:17:06.300 --> 00:17:25.090
+Ben Xue: Great, thank you so much, Michael. So, this is a very interesting research, and my research is also related to a lot of health inequality, so, yeah, I'm very impressed with, this topic. So my first question is regarding the policies that you are using. So…
+
+96
+00:17:25.329 --> 00:17:35.710
+Ben Xue: I'm wondering how similar or different are all the policies, all these statewide policies, in terms of maybe comprehensiveness or enforcement?
+
+97
+00:17:36.550 --> 00:17:53.299
+Reginald Hebert: Yeah, so this is an excellent point, and they are quite different. I mean, I pointed out the example of Maryland, which is an extreme outlier by still having flavored vapes available in some form, but then you also have locations like New York that's going to prohibit menthol, for example.
+
+98
+00:17:53.300 --> 00:18:11.669
+Reginald Hebert: Except that they have an exemption, or PMTAs authorized, and now there's a menthol PMTA that's come on the market. In this particular one, I think that the biggest one to be concerned about are places that have comprehensive bans, which would really, in this case, going to be California, and then Massachusetts are going to be the ones that are going to have the most comprehensive.
+
+99
+00:18:11.700 --> 00:18:13.880
+Reginald Hebert: And…
+
+100
+00:18:14.350 --> 00:18:26.240
+Reginald Hebert: in this data, as I'll detail in a minute, California is not part of the panel of observations we use, because it's not consistently sampled in the data. Massachusetts is, and
+
+101
+00:18:26.600 --> 00:18:32.760
+Reginald Hebert: Our approach here is basically to focus on vaping…
+
+102
+00:18:32.960 --> 00:18:52.850
+Reginald Hebert: in the early years, so with Massachusetts being the main issue in that sense, and then we're also going to be trying to control for the combustible tobacco restrictions. So, in this case, we don't separately control for cigarette, like, menthol, versus, just cigars.
+
+103
+00:18:53.050 --> 00:19:09.599
+Reginald Hebert: because I think in all but, like, two places in the United States, everywhere that has a menthol cigar… oh, sorry, menthol cigarette restriction also has a cigar flavor restriction. So, you know, we think that controlling for that is a big part of it, and then I would also say that
+
+104
+00:19:09.670 --> 00:19:14.499
+Reginald Hebert: if we were including California, it would… it would definitely deserve some additional
+
+105
+00:19:14.600 --> 00:19:17.349
+Reginald Hebert: Concern, in that sense, so…
+
+106
+00:19:17.350 --> 00:19:29.989
+Ben Xue: Yeah, that makes sense to me. And also, I know there is probably another category of partial restrictions. So, for example, a lot of states, they're using their own state product list, directory system, right?
+
+107
+00:19:29.990 --> 00:19:37.970
+Ben Xue: So, I wonder if you use those states as… you view them as control group, or do you view them as, exclude them from the sample?
+
+108
+00:19:38.200 --> 00:19:57.459
+Reginald Hebert: Right, so I think, you know, you're asking about, like, tobacco product registries, and there are a few states that have these, which vary widely, as I'm sure you know. Like, you know, California has one that they put in place, and it's a prescriptive list that says you can only sell the items on this list. That doesn't come into place until later, but…
+
+109
+00:19:57.460 --> 00:20:09.440
+Reginald Hebert: Alabama, for example, has one that comes in, I want to say, in, like, 2021. And at least in our analysis of, like, sales data, it does not seem to have a binding effect on sales of flavors.
+
+110
+00:20:09.630 --> 00:20:25.710
+Reginald Hebert: And consequently, we don't really account for tobacco product registries in this analysis, because where they, like, you know, where they seem to work, there's a restriction, and not just a registry. So, that could change over time, though.
+
+111
+00:20:26.300 --> 00:20:43.319
+Ben Xue: Yeah, makes sense. My next question is also related to the policy. This question is related to timing. So, I noticed on your slides you mentioned some years of policy. I wonder if those are announcement year or effective year?
+
+112
+00:20:43.890 --> 00:21:01.059
+Reginald Hebert: So, for these, in the actual analysis, I just listed on the slide, just the, you know, the kind of year these policies were announced. Most of them tend to be enacted relatively quickly. The way we code it at the quarterly level is, whether it is
+
+113
+00:21:01.060 --> 00:21:05.789
+Reginald Hebert: Operating at the beginning of that quarter, essentially, as a treated time period.
+
+114
+00:21:05.790 --> 00:21:12.739
+Reginald Hebert: But, like, Massachusetts, for example, is particularly odd, because they had a kind of comprehensive ban in place.
+
+115
+00:21:12.830 --> 00:21:19.809
+Reginald Hebert: And then, you know, sort of switch over immediately, so you have, like, a full ban on all e-cigarette sales.
+
+116
+00:21:19.810 --> 00:21:39.650
+Reginald Hebert: And then transitioning into this other ban, and then further changing it a few months later. So, for the purposes of the e-cigarettes, that's maybe less difficult to look at than something like cigars. But, yeah, in terms of timing, we try to isolate it down to the quarter level, and it's only in terms of what appears to be legislated to be effective.
+
+117
+00:21:40.650 --> 00:21:49.559
+Ben Xue: I see, yeah. Yeah, that's a good point, and then I think in the paper, so a discussion about the potential anticipation effect would be helpful.
+
+118
+00:21:50.000 --> 00:21:50.700
+Reginald Hebert: Yes.
+
+119
+00:21:51.990 --> 00:21:56.449
+Ben Xue: All right, so those are my questions related to policy. All right, thank you so much.
+
+120
+00:21:56.450 --> 00:21:57.000
+Reginald Hebert: Perfect.
+
+121
+00:21:57.250 --> 00:22:16.000
+Michael Darden: Thanks. Thanks, Ben. Yeah, just one quick question before you move on. You spoke about the correlation between education and the absolute risk associated with cigarettes and the absolute risk associated with vapes. Is it true that more educated people also get the relative risks?
+
+122
+00:22:16.230 --> 00:22:20.040
+Michael Darden: Right, on a high, on a high, you know, a higher percentage.
+
+123
+00:22:20.590 --> 00:22:24.989
+Reginald Hebert: I mean, I don't know that I would even go so far as to unqualifiedly say that
+
+124
+00:22:25.720 --> 00:22:41.439
+Reginald Hebert: you know, the absolute risks are accurately calibrated. I think that there's a lot of confusion in the information environment that people expose… that people are exposed to, and we even played with the idea of kind of an information component to a model to explain this. You know, if you
+
+125
+00:22:41.440 --> 00:22:47.720
+Reginald Hebert: Live in a place that has, like, much heavier levels of advertising, for example, that could strongly color
+
+126
+00:22:47.770 --> 00:22:50.880
+Reginald Hebert: your perception of risk. And…
+
+127
+00:22:50.940 --> 00:23:03.109
+Reginald Hebert: we tend to think of it in terms of absolute perception as just benchmarking. In other words, like, how risky do you think cigarettes are, and then how risky do you think e-cigarettes are relative to that?
+
+128
+00:23:03.130 --> 00:23:11.379
+Reginald Hebert: Rather than the absolute risk of cigarettes, which we tend to think… I tend to think is fairly uniform across the population. That being said…
+
+129
+00:23:11.380 --> 00:23:24.839
+Michael Darden: People get it right. I mean, people get… people correctly say that cigarettes are terrible for you, but I think, you know, Vescuzzi's work says that people dramatically overestimate the likelihood of lung cancer, for example, because.
+
+130
+00:23:24.840 --> 00:23:25.370
+Reginald Hebert: Right.
+
+131
+00:23:25.370 --> 00:23:39.630
+Michael Darden: standard problems with small probabilities. But I was just curious, because, you know, it is the case that so many people think that e-cigarettes are, in fact, worse for your health. And I was just curious if you know whether that cuts by education.
+
+132
+00:23:40.760 --> 00:23:45.839
+Reginald Hebert: So I would say, no, I don't have a definite answer, regrettably.
+
+133
+00:23:46.490 --> 00:23:59.829
+Reginald Hebert: I think that the attitude questions that are available, for example, in the PATH survey give some insight about this, but I don't have, like, a formal answer. My intuition is that…
+
+134
+00:24:00.000 --> 00:24:01.599
+Reginald Hebert: People are going to have…
+
+135
+00:24:01.860 --> 00:24:19.579
+Reginald Hebert: kind of broadly across the education gradient, improperly calibrated expectations. You know, that seems… like you said, that just seems to be the general impression, that it's sort of worse than it might be if you look at the real risk. But I do think, even within that, you would see a gradient in education.
+
+136
+00:24:19.710 --> 00:24:22.270
+Reginald Hebert: But we haven't extended this study to accommodate that.
+
+137
+00:24:23.360 --> 00:24:25.370
+Michael Darden: Well, we look forward to the results.
+
+138
+00:24:34.680 --> 00:24:39.590
+Reginald Hebert: Okay, and so,
+
+139
+00:24:40.560 --> 00:24:54.390
+Reginald Hebert: Going back briefly to our questions, again, does substitution in response to flavor restrictions differ by education, and do these policies reduce or potentially exacerbate the disparities that we already see in the population? So.
+
+140
+00:24:54.390 --> 00:25:05.959
+Reginald Hebert: The way we're going to look at this is to use the Behavioral Risk Factor Surveillance System survey, and that's going to be covering 2016 through 2024, 2024 being the most recent year of data available.
+
+141
+00:25:05.960 --> 00:25:15.699
+Reginald Hebert: 2016 being the first year that we had, kind of, vaping questions. That being said, there is a complication in that vaping questions were not answered, or not asked consistently.
+
+142
+00:25:15.700 --> 00:25:35.249
+Reginald Hebert: by all states throughout all of those years. So, what we do is we restrict only to the 29 states that have vaping questions available in all years, and this is going to exclude a couple of states that have statewide policies, including California and New Jersey, and then also the District of Columbia.
+
+143
+00:25:35.370 --> 00:25:37.989
+Reginald Hebert: So we'll be left with only a few of the statewide coverage.
+
+144
+00:25:38.580 --> 00:25:57.760
+Reginald Hebert: In addition, no state in the BRFSS has data on vaping for 2019. So that's just a limitation that we unfortunately have to deal with, but we believe the BRFS is still useful in this context because it offers such a substantial amount of statistical power to analyze between education groups.
+
+145
+00:25:57.990 --> 00:26:15.479
+Reginald Hebert: For ages, we're going to be restricting to 21 to 29 and 30 to 54. For the former, we're going to be leaving out individuals who do not have legal access to these products, and thereby also leave out some of the complications about the rollout of Tobacco 21 policy laws.
+
+146
+00:26:15.740 --> 00:26:35.270
+Reginald Hebert: For the older age group, we're going to stop the sample at 54 because we are concerned about potential differential mortality effects that begin to arise around age 55 as a consequence of smoking, so that might change the composition of the sample as differential mortality really enters into the equation.
+
+147
+00:26:35.270 --> 00:26:38.940
+Reginald Hebert: But we think these two groups give us a good sense of how, sort of.
+
+148
+00:26:38.940 --> 00:26:49.399
+Reginald Hebert: like, established… people with established behavior over 30, and then people who may still be experimenting in the ages of 21 to 29, how those might respond differently.
+
+149
+00:26:49.800 --> 00:27:04.969
+Reginald Hebert: We're going to classify these individuals into those with no college attendance and any college attendance, and in the BRFS, any college attendance here is going to be individuals who have completed at least one year of college. So, that's what any college means in this context.
+
+150
+00:27:06.910 --> 00:27:25.859
+Reginald Hebert: For our flavor policies, we're going to be using… our primary variation will be the percentage of population covered by a vaping flavor restriction at the state and the sub-state or local level. So, for example, if Rhode Island initially covers 20% of its population with a local mandate, and then they eventually pass a statewide one.
+
+151
+00:27:25.860 --> 00:27:30.409
+Reginald Hebert: When the statewide one passes, this variable will move from 20% to 100%.
+
+152
+00:27:32.580 --> 00:27:44.779
+Reginald Hebert: For state policies, then, we'll have Massachusetts, New York, Rhode Island, and Utah in the sample, and for local policies, a few other states that don't ever acquire a statewide policy in this time frame.
+
+153
+00:27:44.990 --> 00:27:57.810
+Reginald Hebert: And then what we're also going to do, since Maryland is in the sample, is we're going to have a separate coded variable for Maryland's policy, again, because flavored open-system e-cigarettes are still available in Maryland.
+
+154
+00:28:00.610 --> 00:28:18.560
+Reginald Hebert: So, our primary approach here is going to be a difference-in-differences model, and the way this is going to work is we're going to be looking at three outcomes for vaping and smoking. Current, past 30-day use, daily use, and then exclusive, that means smoking but not vaping, and then vaping but not smoking variables.
+
+155
+00:28:18.880 --> 00:28:25.010
+Reginald Hebert: What our main issue here is how to handle these, these different questions about
+
+156
+00:28:25.230 --> 00:28:39.989
+Reginald Hebert: How policies are slightly different between groups, and whether or not they may have different effects by education, and so what we choose to do here is to interact our policy variable with education, so that we can get an estimate of the statistical significance for the education groups.
+
+157
+00:28:40.000 --> 00:28:56.560
+Reginald Hebert: And we will also do that to a subset of the covariates that we include in this model, including things like cigarette taxes, e-cigarette taxes, smoke-free worksite laws. So the sort of tobacco control salient elements of the model are also going to be interacted with education.
+
+158
+00:28:56.940 --> 00:29:07.889
+Reginald Hebert: And our fixed effects are also going to differentiate between the two groups, because their trajectories are so distinct in the context of,
+
+159
+00:29:08.000 --> 00:29:22.670
+Reginald Hebert: of the descriptive data. And so this will allow us to sort of separate the differential effect by education of a flavor policy, while accommodating potential differential effects of these other policies by education as well.
+
+160
+00:29:25.510 --> 00:29:34.530
+Reginald Hebert: And then, using this model, we're going to try to predict just what it would look like if there were a national restriction as of 2024.
+
+161
+00:29:34.530 --> 00:29:47.589
+Reginald Hebert: And the way we do this is fairly straightforward. We're going to run our difference-in-differences model, then we're going to set this variable to 1 for all the states, imagining, then, that every state has a statewide labor restriction policy.
+
+162
+00:29:47.610 --> 00:30:02.349
+Reginald Hebert: Then we're going to predict the outcomes under that model, and then compare those means by education to what the actual means are as of 2024. And that way we can see if, say, for example, there's a 7% percentage point gap
+
+163
+00:30:02.350 --> 00:30:10.389
+Reginald Hebert: between education groups and smoking, does it get larger or smaller if there's a national policy in place? So that's what we'll be looking at.
+
+164
+00:30:10.580 --> 00:30:13.180
+Reginald Hebert: And, now that that is…
+
+165
+00:30:13.370 --> 00:30:17.429
+Reginald Hebert: described. I'll go ahead and pause here for another set of questions before we move on to the results.
+
+166
+00:30:20.920 --> 00:30:23.649
+Michael Darden: Thanks, Dr. Herrera. Dr. Xue.
+
+167
+00:30:25.110 --> 00:30:42.890
+Ben Xue: Thank you so much, Reginald and Michael. So, I… I really like this design, the difference in differences design, and I really appreciate the author has carefully considered all the contaminating… potential contaminating policies and individual controls.
+
+168
+00:30:43.140 --> 00:30:56.830
+Ben Xue: So my first question is about, probably about inference. So because you only have 29, states, which is some… sometimes considered as small, clusters.
+
+169
+00:30:56.830 --> 00:31:04.550
+Ben Xue: So, have you tried alternative ways, of inference instead of just using clustered standard error?
+
+170
+00:31:04.930 --> 00:31:20.470
+Reginald Hebert: So, this is an excellent point, and I have not, although it is something I have penciled in to… before we… before we revise the draft again, I want to try a wild cluster bootstrap for that very reason. Initially, like you said, you know, around 30 sounds
+
+171
+00:31:21.040 --> 00:31:25.599
+Reginald Hebert: Good enough, but it's really not quite good enough, right? So, it's something we'll have to do.
+
+172
+00:31:26.440 --> 00:31:33.579
+Ben Xue: Yep. And another thing, probably I should wait until after the main result, so…
+
+173
+00:31:33.610 --> 00:31:50.079
+Ben Xue: But I will probably put it here. It's about heterogeneity, because I noticed there are enough heterogeneity in the treatment, and also in terms of… because you're using a continuous, treatment variable, it's a percentage of population covered.
+
+174
+00:31:50.180 --> 00:32:01.040
+Ben Xue: Oh, I wonder if you can subside the population by maybe, policy, design differences, or by…
+
+175
+00:32:01.320 --> 00:32:17.599
+Ben Xue: Let me think, so by the intensity of the policy, or by how much they have changed that covered the population. Is it a prominent change, or it's just a minor change? I think those angles will help policymakers to make better decisions.
+
+176
+00:32:18.100 --> 00:32:37.090
+Reginald Hebert: Yeah, I think you're absolutely right to point that out. You know, if you're… especially if you're in a small state, say, like, Rhode Island, then moving from a third of the state being covered to the whole state being covered is a lot different than, like, if, you know, some five counties in Illinois do it, and then it's the entire state. It's just a very different situation, and that's an excellent point. I mean, we do…
+
+177
+00:32:37.210 --> 00:32:50.700
+Reginald Hebert: We do examine this by, you know, relegating the sub-state policies to just a covariate and focus only on the state policies, but even that, as you point out, is not going to really examine the heterogeneity and switching, so I think that's…
+
+178
+00:32:50.700 --> 00:32:51.220
+Ben Xue: Huh.
+
+179
+00:32:51.220 --> 00:32:53.459
+Reginald Hebert: That's definitely worthy of some additional investigation.
+
+180
+00:32:54.250 --> 00:33:12.049
+Ben Xue: And I think it matters more, especially when you are doing counterfactual analysis. You are basically predicting all the other states, so this comment is also related to external validity, so maybe some heterogeneity analysis will help in that aspect.
+
+181
+00:33:12.380 --> 00:33:13.070
+Reginald Hebert: Alright.
+
+182
+00:33:13.180 --> 00:33:15.109
+Reginald Hebert: Yeah, I really appreciate that, thank you.
+
+183
+00:33:15.530 --> 00:33:23.390
+Ben Xue: Robin. And also, I have… my last question is about the coefficients. So…
+
+184
+00:33:23.550 --> 00:33:25.870
+Ben Xue: In your… so this is…
+
+185
+00:33:26.580 --> 00:33:37.679
+Ben Xue: kind of similar to a triple difference design, right? So you have a… yeah, difference in differences for… to capture the, is that the no college group as the baseline?
+
+186
+00:33:37.680 --> 00:33:40.969
+Reginald Hebert: The baseline group is the anti-college group because it's larger.
+
+187
+00:33:41.460 --> 00:33:42.080
+Ben Xue: Oh, I see.
+
+188
+00:33:42.080 --> 00:33:45.980
+Reginald Hebert: So we wanted to use it as the base group, because it is substantially larger in the population.
+
+189
+00:33:46.510 --> 00:33:54.699
+Ben Xue: Yeah, so the any college group will be the baseline, and then Beta 3 will then capture the difference between the two groups.
+
+190
+00:33:54.700 --> 00:33:55.390
+Reginald Hebert: Right.
+
+191
+00:33:55.390 --> 00:34:01.090
+Ben Xue: Is that right? Yeah, and, so… Beta 3 itself will…
+
+192
+00:34:01.870 --> 00:34:16.420
+Ben Xue: probably be the primary focus of your research, because you're interested in the gap, so I wonder if you have some interpretations about just the beta-3 coefficient alone, and whether beta-3 itself is significant or not.
+
+193
+00:34:16.630 --> 00:34:27.239
+Reginald Hebert: Yeah, I think the significance of Beta 3 is really the defining characteristic of whether or not the change is significant between the two groups, right?
+
+194
+00:34:27.429 --> 00:34:30.159
+Reginald Hebert: And that being said, though,
+
+195
+00:34:30.260 --> 00:34:42.540
+Reginald Hebert: you know, it's not going to be significant for all of our outcomes, but even where it's not significant, I think that once I show the results, you know, the pattern of what's happening between the two groups
+
+196
+00:34:42.610 --> 00:34:53.460
+Reginald Hebert: is hard to argue with in terms of what it shows. That being said, though, you're absolutely right that only a subset of these are really going to show a definitely significant
+
+197
+00:34:53.540 --> 00:34:58.829
+Reginald Hebert: policy response difference. And… Given that, you know, the BRFS has
+
+198
+00:34:59.000 --> 00:35:11.759
+Reginald Hebert: pretty wide coverage, you know, this is… it's not just an artifact of a limited sample. Like, this is… this is about as good as we're going to get in terms of separating education groups. So it may just be that it's… it's just harder to distinguish some of these outcomes.
+
+199
+00:35:12.250 --> 00:35:13.370
+Ben Xue: I see. Yeah.
+
+200
+00:35:13.610 --> 00:35:16.259
+Ben Xue: Thank you so much for the clarification.
+
+201
+00:35:16.260 --> 00:35:16.820
+Reginald Hebert: Sure.
+
+202
+00:35:17.440 --> 00:35:31.309
+Michael Darden: One quick question that, I think just adds some context. Do you, do you know, is there a difference in, kind of, the first tobacco product that a person uses by education?
+
+203
+00:35:31.860 --> 00:35:47.600
+Michael Darden: So I think we have this story of, like, you know, everybody starts with cigarettes and then, you know, maybe they also… maybe they substitute e-cigarettes, but maybe that's not true. Is it the case that, like, high-educated people, like, start with cigarettes and then move to e-cigarettes more than…
+
+204
+00:35:47.990 --> 00:35:53.959
+Michael Darden: Low-educated people? I'm just trying to understand, like, how much substitution we should expect here, by group.
+
+205
+00:35:54.330 --> 00:35:55.899
+Reginald Hebert: Yeah, I mean, if you have, like.
+
+206
+00:35:56.230 --> 00:36:10.990
+Reginald Hebert: if initiation is highly differentiated, then you would kind of expect, like, if I just use e-cigarettes from ages 19 to 25, I'm just… how likely am I, really, to want to switch to only cigarettes? And,
+
+207
+00:36:11.070 --> 00:36:24.179
+Reginald Hebert: You know, prior research has shown that, at least in terms of overall use, that the lower educated group, uses e-cigarettes at a lower rate than the higher educated group.
+
+208
+00:36:24.290 --> 00:36:34.799
+Reginald Hebert: So, at least in prior research, like, kind of, that's how it works. Like, higher smoking for the lower educated group, higher vaping for the higher educated group. That's not actually descriptively what we find in the Burfuss.
+
+209
+00:36:34.930 --> 00:36:39.690
+Reginald Hebert: you know, but it has been found elsewhere. I think in terms of initiation.
+
+210
+00:36:40.170 --> 00:36:47.780
+Reginald Hebert: I mean, I think it would be worthy of study before 2020 as a separate matter, and I think post-2020,
+
+211
+00:36:48.000 --> 00:36:53.339
+Reginald Hebert: the product environment has changed so quickly, I don't know that I would want to,
+
+212
+00:36:54.020 --> 00:36:58.280
+Reginald Hebert: Yeah, I don't know that I would necessarily want to make a claim one way or the other, because it feels like.
+
+213
+00:36:58.280 --> 00:37:13.309
+Michael Darden: Yeah, I'm just trying to understand, like, is… are cigarettes kind of like an equally valid kind of substitutable product for both groups, you know? And if… I would imagine that if you've never smoked cigarettes before, and you're 25 years old.
+
+214
+00:37:13.440 --> 00:37:18.800
+Michael Darden: you know, the restriction here might not cause you to go to cigarettes. I mean, I don't.
+
+215
+00:37:18.800 --> 00:37:19.830
+Reginald Hebert: Yeah, exactly.
+
+216
+00:37:19.830 --> 00:37:21.539
+Michael Darden: a question, but I'm just kind of trying.
+
+217
+00:37:21.540 --> 00:37:28.470
+Reginald Hebert: Yeah, and I think part of it is related to the environment, you know? If it's more acceptable to your peers, I feel like
+
+218
+00:37:29.010 --> 00:37:30.570
+Reginald Hebert: You know, you're just more likely.
+
+219
+00:37:30.760 --> 00:37:38.710
+Reginald Hebert: to make it acceptable for yourself, and given that that's highly differentiated by education, I would expect that the response would be also.
+
+220
+00:37:39.190 --> 00:37:41.719
+Michael Darden: Yeah. Great, we're looking forward to the results.
+
+221
+00:37:41.960 --> 00:37:42.480
+Reginald Hebert: Okay.
+
+222
+00:37:48.950 --> 00:37:50.809
+Reginald Hebert: Okay, so…
+
+223
+00:37:51.320 --> 00:37:58.589
+Reginald Hebert: First, just briefly, some descriptive findings. As I just mentioned, there are some, some highly different, highly different,
+
+224
+00:37:58.600 --> 00:38:10.249
+Reginald Hebert: samples here. So, we see higher smoking and higher e-cigarette use among those with less education than more education, which is contrary to some earlier, some earlier studies.
+
+225
+00:38:10.250 --> 00:38:18.719
+Reginald Hebert: The any college group is more likely to be female, it's more likely to be non-Hispanic, and it's more likely to be white. These differences are statistically significant, they're not…
+
+226
+00:38:18.720 --> 00:38:41.600
+Reginald Hebert: huge in absolute terms, but they are salient. The no-college group does face lower tobacco taxes, it faces fewer local flavor restriction policies, and it has much lower exposure to smoke-free workplace and vague-free workplace laws. So there is definitely evidence of some differential exposure with the lower education group just being less exposed to a lot of these policies, so that's definitely a component.
+
+227
+00:38:41.600 --> 00:38:44.700
+Reginald Hebert: That has to be, taken into account.
+
+228
+00:38:45.510 --> 00:38:48.920
+Reginald Hebert: So, let me go ahead and show you the results of the main analysis.
+
+229
+00:38:49.020 --> 00:39:04.890
+Reginald Hebert: So on the left, we have the 21 to 29 year olds, on the right, the 30 to 54 year olds. In red, we have the no college group, and in blue, the any college group, with the top 3 outcomes being for vaping, and the bottom three for smoking.
+
+230
+00:39:04.960 --> 00:39:18.220
+Reginald Hebert: So, I think the first thing that should jump out at you is that the effects are much stronger, or rather, they're much more muted, perhaps, for the 30-54 year old group, and they're stronger for the 21 to 29-year-old group.
+
+231
+00:39:18.380 --> 00:39:26.800
+Reginald Hebert: And what we see among the 21- to 29-year-old group is in line with previous studies of flavor policies, that when you restrict flavors.
+
+232
+00:39:26.800 --> 00:39:44.169
+Reginald Hebert: vaping goes down, and smoking mechanically increases as well. Within those overall trends, though, you can see that the point estimates, although the differences are not always statistically significant between the two, for no college and any college, are going to be
+
+233
+00:39:44.520 --> 00:39:50.180
+Reginald Hebert: different. And so, for example, you know, we see, like, a .035
+
+234
+00:39:50.380 --> 00:40:05.600
+Reginald Hebert: on current vaping, and a .030 for the any college group. Not a statistically significant difference, but still showing that there's a slightly stronger response to decreased vaping. And the same is true for all the vaping outcomes, where we do see
+
+235
+00:40:05.600 --> 00:40:15.730
+Reginald Hebert: Greater decreases among the no-college group, and then in smoking, for all of our outcomes, we see a greater increase in smoking than we do among the any college group.
+
+236
+00:40:15.760 --> 00:40:16.710
+Reginald Hebert: So…
+
+237
+00:40:17.030 --> 00:40:36.099
+Reginald Hebert: There we see the daily vaping, and then exclusive smoking are statistically significantly different, so that beta-3 coefficient is going to be significant in this case. Whereas exclusive vaping and current smoking are only going to be, showing that at, like, the 10%.
+
+238
+00:40:36.120 --> 00:40:53.979
+Reginald Hebert: significance level, so not traditionally statistically significant, but still, quite differentiated. It's also worth noting that not all of these coefficients, so for example, like, daily smoking is not significant for the any college group, but the difference between the two groups can still be instructive.
+
+239
+00:40:53.980 --> 00:41:00.089
+Reginald Hebert: Regardless of that, particularly when we go to projecting this, to look at our counterfactual outcomes.
+
+240
+00:41:00.700 --> 00:41:07.170
+Reginald Hebert: S… So, a few things about this before we move on to our counterfactual prediction.
+
+241
+00:41:07.330 --> 00:41:26.939
+Reginald Hebert: So, we have investigated a number of different checks on the model. Some of them have to do with the inclusion of the extra states that we left out of the balance panel. Some of them are going to have to do with, as I mentioned, restricting only to statewide policies.
+
+242
+00:41:26.940 --> 00:41:37.339
+Reginald Hebert: But before we talk about that, I just want to show you briefly, one of the event studies for the smoking outcomes. You can see that this is for the 21 to 29-year-old group.
+
+243
+00:41:37.340 --> 00:41:53.329
+Reginald Hebert: that these event studies have a fairly messy pre-period. I think the most important takeaway here is to see that there is a real level difference in the post-period, even though the event studies are going to be a little messy.
+
+244
+00:41:54.570 --> 00:42:08.499
+Reginald Hebert: That being said, given that we don't see statistically significant differences for all of these outcomes, and that the point estimates for them can be quite close in some cases, we still think it's instructive to look at the differences for these.
+
+245
+00:42:12.390 --> 00:42:23.070
+Reginald Hebert: So, when we look at our robustness tests generally, I'll just show you a quick overview for our e-cigarette outcomes for current, smoking, or sorry, for current e-cigarette use.
+
+246
+00:42:23.220 --> 00:42:27.350
+Reginald Hebert: And, just to give you a sample of what we've kind of examined.
+
+247
+00:42:27.390 --> 00:42:45.149
+Reginald Hebert: So, for both age groups, you know, we check out the panel composition and whether or not we should be incorporating the sample weights that the purpose includes. And then, after that, we do a test for dropping each of those treated states that have statewide policies out in turn.
+
+248
+00:42:45.460 --> 00:43:03.899
+Reginald Hebert: And, this is just a test for some evidence of potential heterogeneity among the policies. And subsequent to that, we'll try dropping 2019 entirely from the sample, and then also taking the group of highest smoking states. These are, like, the top 10 states in the BRFS that have the highest smoking rates.
+
+249
+00:43:03.900 --> 00:43:10.129
+Reginald Hebert: And just moving those away from the sample, just to see if maybe, like, the scope for change, you know, if there's…
+
+250
+00:43:10.130 --> 00:43:21.409
+Reginald Hebert: if there's 20% smoking rights, then there's a much bigger potential reduction available. So if removing those made any difference. For vaping, you can see outcomes are fairly consistent, with the exception
+
+251
+00:43:21.410 --> 00:43:35.959
+Reginald Hebert: of dropping New York, and this is actually going to be quite similar, for current smoking, where we're going to see a notable change when we drop New York State. So we can see a much stronger effect for both groups when we drop New York State.
+
+252
+00:43:36.370 --> 00:43:53.190
+Reginald Hebert: We do, look into this a little bit, and I think I have enough time just to say briefly that, New York has a pre-existing flavor policy, and we, we generally find that it looks like that policy has a greater effect
+
+253
+00:43:53.190 --> 00:44:06.540
+Reginald Hebert: on use rates than the statewide policy does. And so, when we try to drop just New York City rather than New York State, we find some heterogeneity there within the state, and that maybe speaks
+
+254
+00:44:06.540 --> 00:44:15.920
+Reginald Hebert: To, the discussant's question about whether or not we should explore heterogeneity further, because there's clearly, at least in the case of New York City, something worthy of exploration here.
+
+255
+00:44:17.510 --> 00:44:23.910
+Reginald Hebert: So, for the sake of time, I'll go ahead and move on, but I'll be happy to answer any questions that have to do with this.
+
+256
+00:44:24.740 --> 00:44:34.269
+Reginald Hebert: So, this is a look at our counterfactual national policies education gap. And what we want to look at here is,
+
+257
+00:44:35.060 --> 00:44:51.970
+Reginald Hebert: For vaping outcomes, we see at the top, this is the gap between the no college and any college group in vaping. So you can see that it is positive, in 2024, 7.5 percentage points for current vaping, 4.5 for exclusive vaping. And…
+
+258
+00:44:52.030 --> 00:45:11.520
+Reginald Hebert: what we see is in the absolute change, whenever we predict using a national policy, we see that all three of these gaps shrink. That is, that use rates, current daily and exclusive vaping, are all going to decrease. And this is an artifact of, as you saw, that they're slightly higher
+
+259
+00:45:11.520 --> 00:45:18.469
+Reginald Hebert: e-cigarette use rates in the BRFS among the lower education group, and they also see a larger decrease.
+
+260
+00:45:18.500 --> 00:45:38.360
+Reginald Hebert: In all of those outcomes. So, we see that these gaps shrink. Exclusive vaping is the largest by about 35% of the entire gap as the consequence of a national policy. And I should note, this 2024 gap is inclusive of the states that already have
+
+261
+00:45:38.840 --> 00:45:53.010
+Reginald Hebert: flavor policies in place. So, Massachusetts, New York, etc, you know, those are not… we're not predicting without those states included. So this is, like, the actual 2024 gap, and then if the rest of the states had implemented a national policy.
+
+262
+00:45:53.500 --> 00:45:55.420
+Reginald Hebert: So looking at smoking.
+
+263
+00:45:55.850 --> 00:46:10.419
+Reginald Hebert: What we see here is that these gaps are also, quite sizable, as we pointed out. 7.3 percentage points for current smoking, 4.3 percentage points for daily smoking, so very large gaps, in regular use.
+
+264
+00:46:10.420 --> 00:46:24.490
+Reginald Hebert: And the change in these gaps, the absolute change, is on the order of, like, 1 to 3 percentage points for these outcomes. But the actual gap itself changes in percentage terms, by 25% for current smoking.
+
+265
+00:46:24.490 --> 00:46:40.810
+Reginald Hebert: 31% for daily, and then 79% for exclusive smoking. So what we see is that as the gap in vaping narrows as a consequence of these policies, the gap in smoking is growing, from an already high baseline. So these are increasing quite substantially.
+
+266
+00:46:42.190 --> 00:46:52.910
+Reginald Hebert: And these are for the 21-29 year old group. The 30-54 year old group, because the estimates are so much closer, are less instructive, and so here we focus on these.
+
+267
+00:46:54.890 --> 00:47:11.150
+Reginald Hebert: Now, seeing these in percentage point terms can be a little bit abstruse, so I just want to go ahead and try to characterize this a little bit with the caveat that these are going to be some extrapolations, for illustrative purposes.
+
+268
+00:47:11.740 --> 00:47:28.350
+Reginald Hebert: If we look at the national policy and we take the estimates from the American Community Survey of the size of this population in 2024, we have something like 40 million 21 to 29-year-olds in this country, and something like 23 million of them.
+
+269
+00:47:28.350 --> 00:47:34.059
+Reginald Hebert: are gonna fall in the any college group, and 17 in the no-college group. So…
+
+270
+00:47:34.060 --> 00:47:51.999
+Reginald Hebert: With the understanding that the no college group is slightly smaller, what we see when we translate these percentage point changes into the two groups is we see a change in exclusive vaping, that's slightly more than a half a million decrease for the no college group, and then a smaller decrease for the any college group.
+
+271
+00:47:52.610 --> 00:48:00.989
+Reginald Hebert: for exclusive smoking, also a larger increase in exclusive smoking than what we see for the any college group.
+
+272
+00:48:01.430 --> 00:48:12.689
+Reginald Hebert: And then for the dual users, it's a little bit more of a complicated story. We see a decrease in dual use among the any college group, and an increase in dual use among the no-college group.
+
+273
+00:48:12.910 --> 00:48:30.099
+Reginald Hebert: Dual users, of course, are difficult here, because we are talking about a universe of individuals who could be switching intensity, or in the case of moving to dual use, they could be moving from smoking and, smoking to, smoking and vaping, or vaping to,
+
+274
+00:48:30.140 --> 00:48:49.980
+Reginald Hebert: to dual use directly. But that being said, we're definitely seeing an enormous amount of movement that's highly differentiated between these two groups, and what we see is a really large population of people that are affected, you know, presuming such a policy were to go into place at the national level. And I guess to characterize this just a little bit further.
+
+275
+00:48:50.850 --> 00:48:54.399
+Reginald Hebert: So, if we consider the fact, that
+
+276
+00:48:54.480 --> 00:49:16.659
+Reginald Hebert: cancer accounts for something like a third of all smoking-attributable mortality. If we try to break down this change, we can look at the change in the universe of people who are using these products, that is, the people who currently smoke, currently vape, and currently dual use, and try to… try to see how many people move from any smoking at all
+
+277
+00:49:16.660 --> 00:49:38.120
+Reginald Hebert: to no smoking, or vice versa. So, in other words, if someone moves from exclusive vaping to smoking, then their risk profile is going to change, from the risk of just vaping to the risk of at least some smoking. So, as a course estimate, we can see that, like, 15% of smokers tend to develop lung cancer, and that has a lung cancer survival rate of about 30% over 5 years.
+
+278
+00:49:38.470 --> 00:49:44.389
+Reginald Hebert: If we assume that vaping is about, say, half as likely to result in lung cancer as smoking, which is…
+
+279
+00:49:44.390 --> 00:49:59.950
+Reginald Hebert: pretty generous, given that the Alcott and Rapkin expert survey that I mentioned earlier shows this risk to be estimated at about 37%, so 50% would be considerably higher than that. If we do that, and we imagine these people moving out of the exclusive vaping group.
+
+280
+00:50:00.050 --> 00:50:03.110
+Reginald Hebert: Into dual-use or exclusive smoking.
+
+281
+00:50:03.140 --> 00:50:20.370
+Reginald Hebert: Then these two groups, based on the 2024 population, see increases, both in the order of about 30,000 additional cancer deaths as a result of such a national policy, with a gap, higher for the no-college group of about 5,000 out of
+
+282
+00:50:20.510 --> 00:50:30.699
+Reginald Hebert: 40,000 cancer deaths. So a very notable difference, even in these back-of-the-envelope calculations in terms of the salience of this policy towards
+
+283
+00:50:30.820 --> 00:50:34.230
+Reginald Hebert: The burden of tobacco-related disease for the lower-educated group.
+
+284
+00:50:36.680 --> 00:50:56.570
+Reginald Hebert: So, just briefly, a few limitations here. First, again, the Burpus has limited vaping data. We don't have all of the states included, and then mid-2019, when, you know, the Avali outbreak was going on, and many of these initial policies were coming into force, does not exist in the data.
+
+285
+00:50:56.730 --> 00:51:19.449
+Reginald Hebert: Second, we do have marginal differences in some of these coefficients, and we are making predictions on the basis of them. We think that in terms of projecting what we see at the population level, we're not trying to pin down exact numbers of how these populations would change, but to see whether we can observe a pattern in substitution that's highly differentiated between the two groups, and we think
+
+286
+00:51:19.450 --> 00:51:23.310
+Reginald Hebert: That, these, these coefficient differences support that conclusion.
+
+287
+00:51:23.400 --> 00:51:33.720
+Reginald Hebert: Thirdly is a question about education and urbanicity. I mentioned earlier about differential exposure based on where you live, and how education is also correlated with place.
+
+288
+00:51:33.830 --> 00:51:53.550
+Reginald Hebert: this is challenging. We've done some additional work along this line, so I encourage you to, you know, read the paper if you get a chance once we publish it, but it's something that we want to look at in the context of which of these characteristics is more explanatory of differences. And in our testing, we find that
+
+289
+00:51:53.550 --> 00:51:56.109
+Reginald Hebert: Place is less,
+
+290
+00:51:56.110 --> 00:52:07.790
+Reginald Hebert: less useful as a descriptor of behavior among education than education is of differences among place. So education tends to be the stronger predictor… predictor in our finding.
+
+291
+00:52:07.790 --> 00:52:18.850
+Reginald Hebert: And then finally, I think the major limitation Michael Darden's question pointed to earlier is this question of initiation. You know, there's undoubtedly going to be a significant change
+
+292
+00:52:18.850 --> 00:52:34.679
+Reginald Hebert: in initiation in the absence of flavored vapes. And if that itself is also going to be something that's highly differentiated by education, that's something that policymakers really need to know, and future analyses should definitely try and investigate that Liu group, even though
+
+293
+00:52:34.790 --> 00:52:41.470
+Reginald Hebert: Education differences among such a small group is going to be challenging to tease out in terms of their future life course.
+
+294
+00:52:42.030 --> 00:52:59.500
+Reginald Hebert: So just to summarize, the education disparities in smoking are substantial, even in younger age groups. When flavor restrictions go into place, those with higher education have less substitution to smoking, those with lower education have greater tendency to substitute to smoking.
+
+295
+00:52:59.700 --> 00:53:09.750
+Reginald Hebert: And that ultimately means that this policy that's intended to reduce harm, can increase existing health disparities, especially in the sense of to Tobacco-related disease.
+
+296
+00:53:09.780 --> 00:53:23.170
+Reginald Hebert: Just a couple things we're thinking about, or I'm thinking about, is, you know, does this extend to other policies along the education margin? That's something that's worth considering, things about taxation, for example.
+
+297
+00:53:23.170 --> 00:53:40.400
+Reginald Hebert: And then also, does this occur along the margin of other disparities? I think there are quite a number of them that we might think of, just off the top of our heads, things like income, things like race, and, you know, those are… those are things that are worthy of exploration in their own right, in terms of potential differential policy exposure.
+
+298
+00:53:40.640 --> 00:53:45.300
+Reginald Hebert: All right, and that's all I have for today, so, I'll be happy to take questions. Thank you.
+
+299
+00:53:47.580 --> 00:53:51.429
+Michael Darden: Great, thanks so much, Reggie. We'll go back to our discussant, Ben?
+
+300
+00:53:52.220 --> 00:54:01.810
+Ben Xue: All right, thank you so much. So, I'm going to ask my overarching question. So this is, when I see the title of the paper, I was…
+
+301
+00:54:01.980 --> 00:54:03.100
+Ben Xue: Watering.
+
+302
+00:54:03.270 --> 00:54:07.270
+Ben Xue: Why should policymakers care about the education gap?
+
+303
+00:54:07.470 --> 00:54:10.369
+Ben Xue: In response to, an e-cigarette policy.
+
+304
+00:54:12.240 --> 00:54:17.469
+Reginald Hebert: So, this is a great question. I think that…
+
+305
+00:54:18.000 --> 00:54:34.919
+Reginald Hebert: The reason that they should think about it is that policymakers are trying to minimize harm and maximize well-being on the part of their constituents. And if a policy differentially negatively impacts a group that's already worse off.
+
+306
+00:54:35.160 --> 00:54:50.300
+Reginald Hebert: Along almost every conceivable measure, then it's entirely likely that this is going to have destructive impacts that, although they follow the education margin, are going to follow, you know, implementation on the ground in ways that they really don't like.
+
+307
+00:54:50.580 --> 00:55:01.559
+Reginald Hebert: People with less insurance, people who live in more rural areas, like, all these groups that are going to be correlated with lower education levels that are already higher risk.
+
+308
+00:55:01.560 --> 00:55:05.820
+Reginald Hebert: You know, it's entirely possible that that could just put a disproportionate burden
+
+309
+00:55:05.820 --> 00:55:21.769
+Reginald Hebert: on areas of states or parts of the population that are kind of least able to bear it. And as a policymaker, there's the possibility that there could be some trailing effects from that that could be, you know, really destructive to even something as simple as, like, state budget revenues for Medicaid, for example.
+
+310
+00:55:22.460 --> 00:55:29.849
+Ben Xue: Yeah, makes sense. So, I have a related question, and this is about how much of the difference, or the gap.
+
+311
+00:55:29.850 --> 00:55:48.400
+Ben Xue: You think is attributable to education alone, versus, say, because education is correlated with many other factors, demographic factors, or social economic factors, so how much of it is attributable to education, and is there a way, or can you
+
+312
+00:55:48.410 --> 00:55:50.309
+Ben Xue: Decompose that effect.
+
+313
+00:55:51.050 --> 00:55:59.150
+Reginald Hebert: So, this is something we tried to do with respect to, place, like, urbanicity measures and education, and…
+
+314
+00:55:59.150 --> 00:56:14.350
+Reginald Hebert: It's quite difficult, I think. You know, descriptively, what we tried to do is to examine how much of the variation in smoking by place can we explain with education, and then how much of the variation in education can we explain with place.
+
+315
+00:56:14.350 --> 00:56:15.200
+Reginald Hebert: And…
+
+316
+00:56:15.710 --> 00:56:34.260
+Reginald Hebert: the differences were pretty stark in our testing. What we found was something like 20% of the gap in place-based education, or sorry, place-based smoking differences can be explained by education, but only about, like, 5% of education differences could be explained directly by place.
+
+317
+00:56:34.500 --> 00:56:42.569
+Reginald Hebert: So these are just in, in, like, Oaxaca blinder decomposition analyses that we were looking at. Yeah. But, you know.
+
+318
+00:56:43.200 --> 00:56:58.089
+Reginald Hebert: it was pretty instructive. I do agree, though, that things like racial composition, you know, that are maybe going to be harder to tease out in terms of the place element, maybe. You know, they show significance when we look at these differences, but…
+
+319
+00:56:58.310 --> 00:57:15.650
+Reginald Hebert: how much power do they have to explain? It's hard to say. I mean, certainly to examine them, you need to have a very large sample, unfortunately. Yeah. Certainly, like, for the place-based ones, you know, we had to use the CPS to do that analysis, because it codes urbanicity explicitly, which is something that the BRFS does not.
+
+320
+00:57:16.030 --> 00:57:19.049
+Reginald Hebert: Right. So… No, it's hard to… it's hard to do that.
+
+321
+00:57:19.050 --> 00:57:22.980
+Ben Xue: small dataset for… the smart data set for county level.
+
+322
+00:57:23.330 --> 00:57:28.830
+Reginald Hebert: Which, yeah, we do use that to a degree, but it's… it has its own difficulties, regrettably, so…
+
+323
+00:57:29.090 --> 00:57:38.789
+Ben Xue: Right, I agree. Oh, and another, question, I think it's already answered by the invent study, so…
+
+324
+00:57:39.140 --> 00:57:57.300
+Ben Xue: the question is about… I see your main result is about the gap, and after the policy, alright, it's actually one of your counterfactual analyses, the gap will, decrease for e-cigarette smoking, and will increase for tobacco use, for cigarette smoking. So…
+
+325
+00:57:57.300 --> 00:58:00.749
+Ben Xue: I wonder… so, since this is a gap, I wonder…
+
+326
+00:58:00.920 --> 00:58:12.610
+Ben Xue: if the decrease in the gap is from the top line going down, or from the bottom line going up, right? I think that also matters to policy interpretation.
+
+327
+00:58:12.850 --> 00:58:13.400
+Reginald Hebert: Duck.
+
+328
+00:58:13.440 --> 00:58:17.630
+Reginald Hebert: And it is true that, you know, we do see a bigger decrease
+
+329
+00:58:17.640 --> 00:58:22.720
+Reginald Hebert: In e-cigarette use among the lower educated group, for example, like, in magnitude.
+
+330
+00:58:22.720 --> 00:58:38.650
+Reginald Hebert: And then the gap itself, in terms of smoking, is, you know, we see an increase in smoking among the any college group, but that magnitude is itself necessarily smaller. So the gap increase tends to be the fact that, like, the response from the lower educated group is stronger.
+
+331
+00:58:39.230 --> 00:58:40.080
+Reginald Hebert: Yeah.
+
+332
+00:58:40.140 --> 00:58:46.439
+Ben Xue: Yeah, and it's answered by the event study already, yeah. All right, those are all my questions. Thank you so much, Reginald.
+
+333
+00:58:46.440 --> 00:58:47.100
+Reginald Hebert: Thank you.
+
+334
+00:58:47.710 --> 00:58:55.600
+Michael Darden: Thanks so much, to both of you, it's been a great conversation, and we'll kick it back to the MC, Rachel, for, to take us out.
+
+335
+00:58:56.670 --> 00:59:01.609
+Rachel Fung: Thank you. Well, so we're out of time for today. Thank you to our presenter, moderator, and discussant.
+
+336
+00:59:01.900 --> 00:59:08.069
+Rachel Fung: Finally, thank you to the audience of 137 people for your participation. Have a tops-notch weekend.
+
