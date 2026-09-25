@@ -1,0 +1,1046 @@
+WEBVTT
+
+1
+00:00:03.570 --> 00:00:08.709
+Adrian Ashley: Welcome to the Tobacco Online Policy Seminar. Thank you for joining us today.
+
+2
+00:00:09.210 --> 00:00:22.580
+Adrian Ashley: I'm Adrienne Ashley, a PhD candidate in Health Services and Policy Research at Boston University School of Public Health. OPS is organized by Mike Pesko at the University of Missouri, C. Sheng at The Ohio State University.
+
+3
+00:00:22.680 --> 00:00:25.720
+Adrian Ashley: Michael Darden at Johns Hopkins University.
+
+4
+00:00:25.990 --> 00:00:31.989
+Adrian Ashley: Jamie Hartman-Boyce at University of Massachusetts Amherst, and Justin White at Boston University.
+
+5
+00:00:32.290 --> 00:00:45.870
+Adrian Ashley: The seminar will be one hour with questions from the moderator and discussant. The audience may post questions and comments in the Q&A panel, and the moderator will draw from those questions and comments and conversation with the presenter.
+
+6
+00:00:46.010 --> 00:00:55.819
+Adrian Ashley: Please review the guidelines on TobaccoPolicy.org for acceptable questions, and please keep the questions professional and related to the research being discussed.
+
+7
+00:00:56.100 --> 00:01:06.009
+Adrian Ashley: Questions that meet the seminar series guidelines will be shared with the presenter afterwards, even if they're not read out loud. Your questions are very much appreciated.
+
+8
+00:01:06.300 --> 00:01:16.180
+Adrian Ashley: This presentation is being video recorded and will be made available along with the presentation slides on the TOPS website, TobaccoPolicy.org.
+
+9
+00:01:16.650 --> 00:01:22.919
+Adrian Ashley: I'll now turn the presentation over to today's moderator, Justin White, from Boston University, to introduce our speaker.
+
+10
+00:01:23.700 --> 00:01:32.160
+Justin White: Thanks. Today, we continue our summer 2026 season with a single paper presentation by Chris Lowenstein entitled.
+
+11
+00:01:32.160 --> 00:01:45.240
+Justin White: Synthesizing reduced form estimates from heterogeneous policy instruments, evidence from e-cigarette regulation. This presentation was selected via a competitive review process by submission through the TOPS website.
+
+12
+00:01:45.420 --> 00:02:02.639
+Justin White: Chris Lowenstein is a postdoctoral fellow in the Department of Economics at the University of Missouri, and a researcher in the Social Impact Lab, where his research uses quasi-experimental methods to study how social and economic policies affect substance use and mental health outcomes.
+
+13
+00:02:02.650 --> 00:02:18.840
+Justin White: Prior to his appointment at the University of Missouri, he completed postdoctoral research in the Department of Epidemiology and Population Health at Stanford University School of Medicine. He received his PhD in Health Policy with a concentration in Health Economics, and an MPH degree from the University of California, Berkeley.
+
+14
+00:02:19.030 --> 00:02:34.610
+Justin White: Dr. Mike Pesko, a professor at the University of Missouri, and Dr. Jamie Hartmann-Boyce, an associate professor at the University of Massachusetts Amherst, are co-authors of the study and will answer select questions in the Q&A. Dr. Lowenstein, thank you for presenting for us today.
+
+15
+00:02:34.720 --> 00:02:35.989
+Justin White: The floor is yours.
+
+16
+00:02:39.800 --> 00:02:54.529
+Chris Lowenstein: Great. Well, thank you, so much for joining, everyone. Thank you, Topps, for the invitation. I'm Chris Lowenstein, as Justin mentioned, joined by, my co-authors, Jamie Hartman-Boyce and Mike Pesko.
+
+17
+00:02:54.720 --> 00:03:19.070
+Chris Lowenstein: So, there are, really two themes to this talk, split roughly, equally. The first is introducing everyone to a method for synthesizing evidence across, different policy tools, and then the second is an application of this method to e-cigarette regulation and implications for youth smoking. So, in particular, on this latter point, I'm going to draw on evidence from
+
+18
+00:03:19.070 --> 00:03:23.390
+Chris Lowenstein: Quasi-experimental studies, or natural experiments.
+
+19
+00:03:23.790 --> 00:03:32.870
+Chris Lowenstein: Which I hope to convey to everyone is a very useful evidence base that can complement much of the existing literature that has already been synthesized.
+
+20
+00:03:33.790 --> 00:03:55.340
+Chris Lowenstein: So, just to quickly begin with a few, disclosures, this work was supported by the National Institutes of Health, and the content of this paper and of this presentation is ours and does not necessarily represent the views of the NIH. Also, we are grateful for the programmatic support from the Social Impact Lab at the University of Missouri.
+
+21
+00:03:55.660 --> 00:04:04.110
+Chris Lowenstein: I have not received, any funding from tobacco or pharmaceutical companies in the past, 10 years.
+
+22
+00:04:04.900 --> 00:04:19.770
+Chris Lowenstein: So, let's start, I'll start by telling you where this talk is going. So, the real question that motivates this work is a fairly straightforward one. What happens to youth smoking, when there is policy-induced shock to youth vaping?
+
+23
+00:04:19.769 --> 00:04:31.850
+Chris Lowenstein: So we have about a dozen, more so now, credible studies that speak to this question. Evaluations of age of sale laws, e-cigarette taxes, flavor restrictions, etc.
+
+24
+00:04:32.020 --> 00:04:42.589
+Chris Lowenstein: The problem is that, each one of these evaluates, or many of them evaluate different policies, and these policies, are not measured on a common scale, so it's…
+
+25
+00:04:42.630 --> 00:05:05.030
+Chris Lowenstein: very, very difficult to pool them and harmonize this literature. So what we do in this study is put them, or attempt to put them on a common scale. So we measure each policy specifically by how much it reduces, youth vaping, and then express every estimate in those same units. So what a $1 tax would do.
+
+26
+00:05:05.290 --> 00:05:30.279
+Chris Lowenstein: on youth smoking. Once the evidence… the estimates are on that scale, then they can be pulled into a single estimate. And so what this does is, it adds a magnitude and a confidence interval, where existing syntheses of this literature, has really, in the past, only been able to provide a direction. And importantly, this approach is not specific to e-cigarettes, it can really be applied
+
+27
+00:05:30.280 --> 00:05:39.490
+Chris Lowenstein: In any case where there's diverse policy instruments affecting a downstream outcome through a shared behavioral intermediary.
+
+28
+00:05:40.640 --> 00:05:52.309
+Chris Lowenstein: So, there are two bodies of evidence that this specific application, really speaks to, related to the relationship between e-cigarettes and youth smoking. And these two bodies of evidence kind of go about.
+
+29
+00:05:52.310 --> 00:06:12.830
+Chris Lowenstein: answering this question, in very different ways. So on one hand, there's a very large cohort literature. These studies follow individuals who vape and ask those individuals what they do later, and I think it's fair to say they consistently find that young folks who vape are more likely to go on to smoke
+
+30
+00:06:13.030 --> 00:06:36.619
+Chris Lowenstein: The difficulty, is, is that people, select into vaping, and so the same characteristics that may lead a teenager to try an e-cigarette may also lead them to try a cigarette, and so, this is what the literature refers to as common liabilities. So while these studies do estimate, this real association, it's hard to know how much of this is, is causal.
+
+31
+00:06:36.860 --> 00:06:48.579
+Chris Lowenstein: So, on the other hand, there's a growing set of policy evaluations, that takes a different approach. And this is where researchers use policy changes, like attacks or flavor restriction.
+
+32
+00:06:48.720 --> 00:07:10.859
+Chris Lowenstein: That shift e-cigarette use for reasons that have nothing to do with the individual. And that's specifically, the appeal. We can't randomize youth, to e-cigarette access or not, but these policy experiments approximate that, kind of underlying, RCT, using real-world data, as best we can.
+
+33
+00:07:11.150 --> 00:07:26.020
+Chris Lowenstein: So it's this spec… this second group of studies specifically, and then, more specifically, overcoming that obstacle, of harmonizing across policy instruments that we're gonna tackle, in this presentation.
+
+34
+00:07:26.340 --> 00:07:51.239
+Chris Lowenstein: So, just quickly, where does the policy variation come from in these studies? So, the variation, comes from the fact that states have regulated e-cigarettes differently, and at different times, in different ways. So, some states have minimum legal sale age laws, some have taxed e-cigarettes, etc. The key feature, of these is that these, that there's staggered timing in
+
+35
+00:07:51.240 --> 00:08:03.310
+Chris Lowenstein: the rollout of these policies. So because states act in different years, at any given moment, some states had a policy and others didn't, and that's what makes, a comparison possible.
+
+36
+00:08:03.500 --> 00:08:09.569
+Chris Lowenstein: So, to make this comparison, researchers generally use regression approaches.
+
+37
+00:08:09.570 --> 00:08:34.040
+Chris Lowenstein: to compare states that adopted a policy with states that didn't before and after, the adoption, using, in general, a generalized difference-in-differences approach. So, this assumes that before the policy, the two groups are moving in parallel, and after the policy is implemented, the states without the policy tell us what would have happened in the adopting states if they had not acted.
+
+38
+00:08:34.140 --> 00:08:47.610
+Chris Lowenstein: So this type of approach does two useful things at once. It controls for stable differences between states, so demographics, tobacco control, sentiment, etc.
+
+39
+00:08:47.690 --> 00:08:56.460
+Chris Lowenstein: It also controls for anything that's happening nationally, like the broad decline in youth smoking. And so what we get from this class of studies
+
+40
+00:08:56.460 --> 00:09:21.439
+Chris Lowenstein: is a net effect. So if restricting vaping through one of these policies pushes some youth towards cigarettes and keeps others away from them, what we estimate is the sum, not these two separate channels. Importantly, I should note, and I'll return to this, these designs depend on these two groups of states trending together beforehand, and not every study in this literature assesses the validity
+
+41
+00:09:21.440 --> 00:09:26.970
+Chris Lowenstein: validity, of that assumption, as, as rigorously. So that's something, again, we'll come back to.
+
+42
+00:09:27.500 --> 00:09:41.540
+Chris Lowenstein: So, with that background on the type of studies that we're looking at, where did we start to try to harmonize across them? So luckily, a team of researchers had already been synthesizing this, literature.
+
+43
+00:09:41.640 --> 00:10:06.529
+Chris Lowenstein: So, our starting point for our specific, paper is from a systematic review, by Beg and colleagues, published in 2025 in the journal Addiction. And this was an important study. It was the first, and to my knowledge, the only, still the only systematic assessment of these population-level studies, of which these quasi-experiments are a subset.
+
+44
+00:10:07.180 --> 00:10:21.589
+Chris Lowenstein: So, earlier reviews, of course, and I'll return to this, synthesized, individual-level, cohort studies, and this is distinct, although that… this, study did include an evaluation of… or synthesis of those studies as well.
+
+45
+00:10:21.590 --> 00:10:30.709
+Chris Lowenstein: So this was a pre-registered systematic review, following Cochrane methods, and searches ran through April of 2023.
+
+46
+00:10:30.710 --> 00:10:46.589
+Chris Lowenstein: The authors identified 27 population-level studies, and among those, 21 of them had enough information to classify the direction of the association. Among those 21, 15 found an inverse association.
+
+47
+00:10:46.710 --> 00:10:54.310
+Chris Lowenstein: So, as e-cigarettes became more restricted, smoking went up, and 12 of those were statistically significant.
+
+48
+00:10:54.500 --> 00:11:15.059
+Chris Lowenstein: And, four, found a direct association, two of which were statistically significant. The remaining two, showed no evidence of an association. So important, one important point on context is that, the study graded the evidence as very low certainty,
+
+49
+00:11:15.110 --> 00:11:32.500
+Chris Lowenstein: specifically limited by the risk of bias and inconsistency in the studies. In fact, the authors state in the paper that the only thing that can be said with certainty is that the evidence is not certain. And that was critical for us as we were reviewing this literature,
+
+50
+00:11:32.620 --> 00:11:49.189
+Chris Lowenstein: And perhaps more importantly, that this review only pointed, in a direction, provided a directional assessment of, this important association. There was no pooled magnitude, and no confidence interval to quantify these diverse studies.
+
+51
+00:11:51.770 --> 00:12:16.600
+Chris Lowenstein: And part of the challenge to doing that is exactly what we try to tackle in this paper, which is the heterogeneity of the exposures. These studies, they don't share a common treatment scale. So an age of scale, an age of sale law is on or off, a tax is measured in dollars, a flavor restriction covers some share of the population, so averaging the coefficients from these studies together would be averaging a fundamentally different
+
+52
+00:12:16.600 --> 00:12:18.919
+Chris Lowenstein: Estimate, different things.
+
+53
+00:12:19.250 --> 00:12:43.249
+Chris Lowenstein: And so that's what we mean, and what I'll mean when I refer to the standardization problem. And attempting to solve this is, precisely what this paper does. And we'll do so in three specific… in three parts. Our process has three, components to it. So first, from this universe of studies, we'll keep only those that are… that we consider to be natural experiments.
+
+54
+00:12:43.250 --> 00:13:07.440
+Chris Lowenstein: So those studies with plausibly exogenous variation. We'll then put their estimates on a common scale. And then third, we pool them using standard meta-analytic techniques. And so that lets us build on this prior review, really in two ways. It lets us, more directly answer the question, does the direction of the effect that had been previously identified hold up?
+
+55
+00:13:07.500 --> 00:13:17.230
+Chris Lowenstein: when we restrict to these really well-identified studies and pool them properly? And second, do we gain precision over just a simple directional summary?
+
+56
+00:13:17.820 --> 00:13:42.610
+Chris Lowenstein: The second contribution, then, is that once a conversion exists for a specific policy, a newly evaluated policy that affects cigarette use, think of something new that's coming down the pipe, like a disposable vape van… disposable vape ban, for instance, that can be translated into an implied effect on smoking, as long as it has an estimate on youth vaping.
+
+57
+00:13:42.710 --> 00:13:51.330
+Chris Lowenstein: Even if those studies themselves don't study that outcome, directly. So this could be a very useful approach for policy makers.
+
+58
+00:13:51.990 --> 00:14:03.530
+Chris Lowenstein: So before, digging into the studies specifically from that review, that we use in the study, I'll pause here to see if Dr. Beard has, any questions at this point.
+
+59
+00:14:03.960 --> 00:14:17.449
+Justin White: Yeah, sure. Thanks, Chris. So our discussant today is Dr. Emma Beard, an Associate Professor in statistics and Quantitative Methods in the Department of Epidemiology and Public Health at University College London.
+
+60
+00:14:17.570 --> 00:14:31.580
+Justin White: Her work focuses on epidemiology, behavioral science, and applied statistical modeling, with particular expertise in to Tobacco and alcohol research, population surveillance, and the evaluation of public health interventions.
+
+61
+00:14:31.600 --> 00:14:43.759
+Justin White: So, Dr. Beard, Emma, I'll give you a chance to ask the first questions, and before you do, I'd just like to remind the audience that if they have any questions, they can enter them into the Q&A panel.
+
+62
+00:14:43.980 --> 00:14:44.750
+Justin White: Thanks.
+
+63
+00:14:45.560 --> 00:14:54.700
+Emma Beard: Thank you, Justin, thank you, Chris. I think, first of all, just to say, this sounds amazing. So, I read, obviously, I know I work with Leon Shahab.
+
+64
+00:14:54.700 --> 00:15:11.379
+Emma Beard: who was one of the authors on the previous review, and he's been pushing for a long time for kind of triangulation of evidence, and this is, you know, that feeds in nicely. I think one thing that's always been a problem for us in the research that we've done, and I think it may be a problem here, but I'd like to see your view, is
+
+65
+00:15:11.410 --> 00:15:26.199
+Emma Beard: you're talking about kind of a causal pathway between policy, then, reduction in e-cigarette use, or change in e-cigarette use, and then ultimately smoking. And I just wondered, is it possible that policies can have an impact on smoking outside of that pathway?
+
+66
+00:15:26.200 --> 00:15:31.680
+Emma Beard: So there could be, kind of, I don't know, changes on, kind of, social norms or stigmatization.
+
+67
+00:15:33.470 --> 00:15:48.470
+Chris Lowenstein: Yeah, absolutely. Thanks for that question. I think that's probably the first thing that a lot of folks are thinking about when they see that pathway. And yes, it's absolutely the case that we're making an assumption here that a large,
+
+68
+00:15:48.770 --> 00:15:55.169
+Chris Lowenstein: a large share of the impact on smoking operates through youth, vaping. And…
+
+69
+00:15:55.310 --> 00:16:20.149
+Chris Lowenstein: Yes, it's certainly true that changes in sentiment or other things that are unobservable are not necessarily considered… are not considered in this direct pathway. What I will say is that the underlying studies that we think about, or that we're evaluating in this approach, they are quite rigorous in the extent to which they're thinking about co-occurring policies or other things that, might be
+
+70
+00:16:20.150 --> 00:16:22.030
+Chris Lowenstein: In founding that relationship.
+
+71
+00:16:22.320 --> 00:16:40.040
+Chris Lowenstein: So that is kind of baked into… these study designs are good at kind of netting out those types of potential pathways. That said, I completely agree that that's something that is a limitation of this approach.
+
+72
+00:16:40.700 --> 00:16:58.140
+Emma Beard: Yeah, something that we come across all the time as well. I also appreciate that you, acknowledged the parallel, trends assumption wasn't great for all of the studies or wasn't measured. What implications do you think we should think about going forward before we see your results? Do you have any thoughts at this stage?
+
+73
+00:16:58.360 --> 00:17:04.380
+Chris Lowenstein: Yeah, so, yeah, I did mention that 9 of the 11, of studies that we
+
+74
+00:17:04.380 --> 00:17:28.529
+Chris Lowenstein: include 12 estimates, look at 2 in just a moment. They, they do assess to some degree the parallel trends assumption, and all of them do, quote-unquote, meet it, to the extent that they test it. So this varies by study because of, the time period and the data that's being used in the underlying studies. So, some of the studies, for instance, can't,
+
+75
+00:17:29.090 --> 00:17:46.220
+Chris Lowenstein: estimate full event study specifications, for instance, because the, just because of the time period that they're studying, so they do some sort of, falsification exercise, or perhaps use a, a pre-treatment,
+
+76
+00:17:46.270 --> 00:17:55.940
+Chris Lowenstein: include a pretreatment indicator, for instance. So they, they vary in the degree to which the studies, assess this, the.
+
+77
+00:17:55.940 --> 00:18:12.140
+Chris Lowenstein: assess this, but we have, purposefully selected studies, that, excuse me, purposefully selected estimates within these studies that do meet whatever test the authors are able to, impose in their specific context.
+
+78
+00:18:13.240 --> 00:18:18.250
+Emma Beard: Thank you. And I think I've got one more question before we hand it to the wider audience, I think. So…
+
+79
+00:18:18.560 --> 00:18:25.719
+Emma Beard: Am I right? So you're talking about different policies here, so it could be change in age of sale, it could be flavors, there's various ones.
+
+80
+00:18:26.020 --> 00:18:44.210
+Emma Beard: in the kind of the thought process, does that mean you're assuming that a reduction from one policy is similar to a reduction from another in terms of having the same effect? Because we're talking about this at a population level, I suppose, rather than an individual level, where flavours might change behavior differently to an increase in price, for example.
+
+81
+00:18:44.360 --> 00:18:54.520
+Chris Lowenstein: So that's, that's exactly the challenge. And so we, we are, the… the… the exercise really is to…
+
+82
+00:18:54.640 --> 00:19:04.329
+Chris Lowenstein: to put those two distinct, or three distinct policies on the same, common metric, so that we can compare them directly.
+
+83
+00:19:04.590 --> 00:19:09.559
+Chris Lowenstein: And we're… some of the assumptions included in that are, for example, that…
+
+84
+00:19:09.850 --> 00:19:17.220
+Chris Lowenstein: the effects scale linearly. That's one thing that we're… we're assuming here. But…
+
+85
+00:19:17.230 --> 00:19:33.289
+Chris Lowenstein: I think if I'm understanding the question, that's precisely the challenge that we're facing, is how do these policies compare in terms of their effect on vaping, and how can we use the fact that they all use… look at
+
+86
+00:19:33.560 --> 00:19:39.200
+Chris Lowenstein: This intermediary to then scale the downstream effect on youth smoking.
+
+87
+00:19:39.930 --> 00:19:40.970
+Emma Beard: Thank you.
+
+88
+00:19:42.150 --> 00:19:48.530
+Justin White: So, at this time, we do not have any other… oh, we just got one audience question in that I can ask.
+
+89
+00:19:48.750 --> 00:20:00.559
+Justin White: How do you think about symmetry in this study? For example, with respect to e-cigarette taxes, effects on e-cigarettes versus e-cigarette taxes, effects on smoking?
+
+90
+00:20:01.930 --> 00:20:11.069
+Chris Lowenstein: Yeah, yeah, great, great question. So, let's see, so, all of the…
+
+91
+00:20:11.190 --> 00:20:16.490
+Chris Lowenstein: The studies that contribute to our, underlying,
+
+92
+00:20:17.030 --> 00:20:40.530
+Chris Lowenstein: our underlying meta-analysis, do, control for policies that would, presumably directly affect smoking. So that's one of the particular, like, exclusion, restrictions that, that we impose. So we're, we're specifically looking at policies that move the, the e-cig… as best we can, identify policies that move that, e-
+
+93
+00:20:40.530 --> 00:20:48.729
+Chris Lowenstein: e-cigarette or vaping behavior, and not directly impact the smoking behavior, if that, if that makes sense. Thanks for that question.
+
+94
+00:20:48.730 --> 00:20:55.320
+Justin White: Yeah, and I think I may have misstated that the question was about cigarette taxes on e-cigarettes versus e-cigarettes.
+
+95
+00:20:55.320 --> 00:20:55.870
+Chris Lowenstein: Oh, so…
+
+96
+00:20:55.930 --> 00:21:02.730
+Justin White: on smoking. So I apologize to Reggie for… I actually misstated his question, but if you want to try that one more time.
+
+97
+00:21:02.730 --> 00:21:11.560
+Chris Lowenstein: Sure, I'll just say quickly, to my knowledge, all of the studies that we include in our analysis control for cigarette taxes.
+
+98
+00:21:11.720 --> 00:21:17.530
+Chris Lowenstein: In… in their studies. I think that was maybe more directly addresses the question.
+
+99
+00:21:17.700 --> 00:21:36.439
+Justin White: Okay, and I think you're probably not making any assumption about that there is a symmetry underlying that, right? I had one question about the systematic review, the Cochrane systematic review that you're based the study on, or that you drew from. From what date did that stop?
+
+100
+00:21:36.770 --> 00:21:40.429
+Justin White: Or what is the evidence review? When did it stop?
+
+101
+00:21:40.590 --> 00:21:46.160
+Chris Lowenstein: It, it go… the evidence was drawn up through April of 2023.
+
+102
+00:21:46.580 --> 00:21:56.750
+Justin White: Okay, that's helpful. And then there's one other question here, did you also check if smoking or tobacco was also increasing with the taxes on vaping?
+
+103
+00:21:58.710 --> 00:22:02.310
+Justin White: Which I believe, that is something that I think you're doing, right?
+
+104
+00:22:02.310 --> 00:22:11.700
+Chris Lowenstein: Yes, yes, that's actually our, our main question is, is how, yeah, how, how does the, how do these, these cluster of policies affect, smoking?
+
+105
+00:22:12.700 --> 00:22:16.189
+Justin White: Great. Well, there's no other questions right now, so feel free to proceed.
+
+106
+00:22:16.190 --> 00:22:17.750
+Chris Lowenstein: Okay, great.
+
+107
+00:22:18.020 --> 00:22:42.719
+Chris Lowenstein: Okay, so this, is a perfect segue into the study selection. So, the selection in our particular study from this broader universe of studies is quite narrow. So from that specific existing review, we sought to isolate what we considered to be the strongest natural experiments that actually moved e-cigarette use. So starting from that same,
+
+108
+00:22:42.790 --> 00:22:57.569
+Chris Lowenstein: population of 27 population-level studies. 23 of them, used e-cigarette availability, so we kept those, 21 of which had enough information to classify a direction of ineffect.
+
+109
+00:22:57.980 --> 00:23:07.459
+Chris Lowenstein: And from there, we applied these three rules, that we had fixed in advance. So first, we required there to be a contemporaneous control group.
+
+110
+00:23:07.460 --> 00:23:30.270
+Chris Lowenstein: And so that dropped 6 studies with before and after, policy… before and after designs, with no untreated comparison group. Second, we dropped what we would define as endogenous exposures, so that would include things like e-cigarette prices or sales, which are co-determined, as well, by the policy and by, by consumer demand.
+
+111
+00:23:30.290 --> 00:23:54.640
+Chris Lowenstein: And then third, we, restricted to policy domains in which there was an established first stage in the literature. And by first stage, I mean effect on… of the policy on e-cigarette, use or vaping. And so that dropped, one study looking at aerosol-free laws, where there's no strong evidence base that the law actually changes, e-cigarette use.
+
+112
+00:23:55.230 --> 00:24:07.830
+Chris Lowenstein: Which is precisely what our, our method, depends on. So that left 12 studies contributing, or excuse me, 11 studies contributing 12 estimates, and,
+
+113
+00:24:08.890 --> 00:24:28.170
+Chris Lowenstein: And one… yeah, just one note also to add is that the original review was international, scanned studies from across the world, but every study that happened to survive our criteria was U.S.-based, likely due to the fact of the state policy variation coming about in a staggered manner.
+
+114
+00:24:28.210 --> 00:24:40.309
+Chris Lowenstein: So here's what those policy studies, looked like. Of the 7, 11 looked at, minimum legal sale age laws, or MLSAs. 3 evaluated e-cigarette taxes.
+
+115
+00:24:40.610 --> 00:24:50.010
+Chris Lowenstein: And one evaluated flavor restrictions. The data came from a variety of, major surveillance surveys, as well as,
+
+116
+00:24:50.010 --> 00:25:11.560
+Chris Lowenstein: I believe two that used U.S. natality birth records. Most focused on high school-aged youth. One tax study, looked at adults ages 18 to 25, though, and then, another also used birth records covering pregnant mothers, so there was some heterogeneity in the underlying, study populations.
+
+117
+00:25:12.030 --> 00:25:36.940
+Chris Lowenstein: In terms of the risk of bias, we used the assessment from the review itself, which rated each study across seven domains of bias, and assigned the overall rating to the domain with the highest score. I think that's consistent with Cochrane approaches. Eight of the studies were determined to be at moderate risk, one at serious risk, and two to be at critical
+
+118
+00:25:36.940 --> 00:25:50.400
+Chris Lowenstein: risk, and I should mention that this bias tool was specifically designed for population-level studies, by the authors of the prior study, and specified and published in advance.
+
+119
+00:25:51.440 --> 00:26:04.429
+Chris Lowenstein: So these three… so these, 11 studies each provide standalone estimates of the effect of e-cigarette availability on smoking. The problem then was putting them, together.
+
+120
+00:26:06.350 --> 00:26:21.810
+Chris Lowenstein: So, here's the standardization problem in kind of a stylized form. So, as I mentioned, these policies aren't directly comparable, they're not the same size, and they're not the same treatment. What they do share is that they all affect youth vaping.
+
+121
+00:26:22.010 --> 00:26:37.719
+Chris Lowenstein: So we use each policy's estimated effect on vaping as a common ruler. In particular, we pick the $1 tax change on youth vaping as the unit that we're going to standardize everything against.
+
+122
+00:26:37.720 --> 00:26:47.329
+Chris Lowenstein: So, the dose of any policy is its effect on vaping divided by, a $1 taxes effect on vaping. It's kind of,
+
+123
+00:26:47.520 --> 00:27:03.849
+Chris Lowenstein: hopefully this schematic will help a little bit. So, this bar, for instance, shows the reduction, estimated reduction in youth vaping due to a $1 e-cigarette tax.
+
+124
+00:27:03.850 --> 00:27:10.950
+Chris Lowenstein: The bottom set of bars is, refers to another policy, and it reduces
+
+125
+00:27:11.210 --> 00:27:21.280
+Chris Lowenstein: youth vaping by more than the e-cigarette tax by about 3.5 times. Or, excuse me, two and a half times. So its bar here, is longer.
+
+126
+00:27:21.450 --> 00:27:39.719
+Chris Lowenstein: So that's what we mean, quite simply by its dose. It's simply, the dose of any policy is its effect on vaping divided by the, taxes… the taxes effect on vaping. And so each policy gets, a single dose associated with it.
+
+127
+00:27:39.950 --> 00:27:44.079
+Chris Lowenstein: So that's the, the first solution to the standardization problem.
+
+128
+00:27:44.350 --> 00:28:05.570
+Chris Lowenstein: So let's see how big each policy's dose actually is. So to do that, we, estimated each policy's effect on youth vaping, by pooling these first stage estimates using fixed effects meta-analysis, specifically among the studies that report both effects on vaping and smoking.
+
+129
+00:28:06.100 --> 00:28:30.810
+Chris Lowenstein: So in our set, we have four MLSA estimates for e-cigarette tax estimates and 1 flavor restriction estimate. Within each of those policy groups separately, we estimate, a meta-analysis and calculate that the MLSA reduces youth vaping by about 19%, a $1 tax by about 20%,
+
+130
+00:28:30.810 --> 00:28:36.199
+Chris Lowenstein: 20.3%, and a flavor restriction, by a 55.1%.
+
+131
+00:28:36.200 --> 00:28:42.189
+Chris Lowenstein: So, concretely, what we do to get the dose is we then divide each of these,
+
+132
+00:28:42.220 --> 00:29:05.950
+Chris Lowenstein: each of these estimated effects for flavors and MLSAs by the effect of a $1 e-cigarette tax. So we calculate that a full flavor restriction is about, 2.7 times of a $1 tax in terms of its effect on youth vaping, and an MLSA is nearly 1 to 1 at about 0.94.
+
+133
+00:29:06.780 --> 00:29:31.080
+Chris Lowenstein: I should note that this last column here is, which represents the I-squared, is a measure of how much, it's a measure of heterogeneity across the studies within each policy class, and it just essentially tells us how much each of these studies disagree with each other beyond what you'd expect from chance alone. So part of the reason we use the e-cigarette tax, as our…
+
+134
+00:29:32.240 --> 00:29:40.889
+Chris Lowenstein: As kind of our anchor measure here, is that it is, it has the least heterogeneity, across these within tax studies.
+
+135
+00:29:41.610 --> 00:29:54.279
+Chris Lowenstein: So the next step here is then to apply this policy-specific dose, to each study's estimate. To show you how we did that, I'll just trace a single study from its published results,
+
+136
+00:29:54.280 --> 00:30:08.039
+Chris Lowenstein: to the number that actually feeds into our meta-analysis. So this example is, from one of the 11 studies, Friedman in 2015, uses the National Survey on Drug on Drug Use and Health, from, I believe, 2002 to…
+
+137
+00:30:08.230 --> 00:30:17.010
+Chris Lowenstein: 2013 to estimate, the effect of state bans on e-cigarette sales to minors on past 30-day smoking.
+
+138
+00:30:17.170 --> 00:30:32.469
+Chris Lowenstein: So, as published, the effect is 0.67 percentage points. So our first step, then, is to divide that 0.67 by the outcome mean, which in this study over this time period was about 10.3%.
+
+139
+00:30:32.670 --> 00:30:46.159
+Chris Lowenstein: And this converts the effect into a percentage change relative to the baseline rate of about 6.5%. So, this allows studies to be, using different surveys to be comparable,
+
+140
+00:30:48.190 --> 00:31:13.100
+Chris Lowenstein: to be comparable, and this is not unique to a process in our study, this is commonly done in meta-analyses. The second step, however, is the new step, and that is where we divide this 6.5 by that policy, which we calculated earlier as 0.94, by that policy's dose. So, we calculated that the dose for an MLSA is 0.94.
+
+141
+00:31:13.100 --> 00:31:20.780
+Chris Lowenstein: That gives us an estimate of the MLSA effect, in terms of a $1 tax equivalent
+
+142
+00:31:20.810 --> 00:31:31.250
+Chris Lowenstein: units, which is, we estimate to be 6.9%. Should note that the standard error here for each of these… these estimates each have a standard error around them. We also…
+
+143
+00:31:31.620 --> 00:31:38.260
+Chris Lowenstein: Divide the standard error by the same factor, so this measure of precision is, carried through.
+
+144
+00:31:38.410 --> 00:31:55.809
+Chris Lowenstein: Consistently. So we repeat, all of that, 12 times, so that we have all of these studies on this, on the same, axis, and then can feed that into our meta-analysis. But before that, I will take a quick pause again for, any questions.
+
+145
+00:31:56.540 --> 00:32:02.489
+Justin White: Okay, thank you. Emma, I will turn it back over to you if you have any further questions at this stage.
+
+146
+00:32:03.250 --> 00:32:13.079
+Emma Beard: Yeah, I have to apologize first, I've switched between two computers and a phone because I was thrown out, but I was listening. I think my first question is, is,
+
+147
+00:32:13.320 --> 00:32:23.379
+Emma Beard: Obviously, in the process that you're doing here in calculating this dose in per dollar… $1 tax units has a lot of assumptions under it for a small number of studies.
+
+148
+00:32:23.380 --> 00:32:38.110
+Emma Beard: I just wondered if this is something you've thought about, and whether you've tested if different assumptions have different effects. So, for example, rather than basing it on the $1 tax, maybe focusing more on the MLSA, for example.
+
+149
+00:32:38.670 --> 00:32:54.839
+Chris Lowenstein: Yeah, that's, that's a great question. So… so far, we've only… we've only done this full procedure using the $1 tax as kind of our anchor policy. And part of the reason for that is, as I was mentioning earlier, the,
+
+150
+00:32:55.050 --> 00:33:10.320
+Chris Lowenstein: the… the studies are more homogenous that contribute to that, that effect. But we are… yeah, it's definitely important to kind of think about what we're using to standardize.
+
+151
+00:33:10.320 --> 00:33:34.189
+Chris Lowenstein: as there's… as more and more studies become available, there are, for example, a lot… several more flavor ban restrictions that have… or, sorry, flavor restrictions that have been published since this review was published. We will certainly update those first stage estimates, and I think the more evidence that we can have that feeds into those first stage estimates will probably
+
+152
+00:33:34.190 --> 00:33:40.800
+Chris Lowenstein: We'll change the degree to which we are able to… will change that scaling factor, if that makes sense.
+
+153
+00:33:41.580 --> 00:33:45.000
+Emma Beard: No, I think this is a really clever idea. I think it's… it's brilliant.
+
+154
+00:33:45.470 --> 00:33:46.090
+Chris Lowenstein: Thank you.
+
+155
+00:33:46.770 --> 00:33:49.859
+Emma Beard: I don't think I have any other comments on this particular part.
+
+156
+00:33:50.470 --> 00:34:10.149
+Justin White: Okay, sounds good. I am pleased to hear that you're thinking about updating, these scaling factors based on more evidence. I think, especially for the flavor restrictions, having it sort of all anchored to one study, is particularly, when there are others out there at this stage, I think makes a lot of sense.
+
+157
+00:34:10.150 --> 00:34:16.279
+Justin White: There's one question that Cisheng asked in the chat that I can read off for you.
+
+158
+00:34:16.340 --> 00:34:23.740
+Justin White: Are there considerations of whether the population level data are curated to represent populations?
+
+159
+00:34:23.909 --> 00:34:35.640
+Justin White: Did you evaluate biases in terms of missing data or observations dropped? Was there assessment whether observations dropped were similar to the observations kept in the analytic sample?
+
+160
+00:34:36.310 --> 00:34:42.930
+Chris Lowenstein: Yeah, so thanks for that question. So we, we don't have, or we didn't attempt in this,
+
+161
+00:34:42.929 --> 00:34:48.339
+Chris Lowenstein: In this… this study to look at the underlying data that these studies use.
+
+162
+00:34:48.340 --> 00:35:13.010
+Chris Lowenstein: What we do do is use the bias assessment that the previous study used, which looked at those factors like missing data, selective reporting, other sources of bias, and we, as I'll show you in a few slides, we do explore sensitivity to dropping different studies from our pooled sample, or from our sample that have different levels of
+
+163
+00:35:13.010 --> 00:35:24.439
+Chris Lowenstein: bias according to that, that prior review. So, in our own work, we… we did not assess those, at the kind of study-specific level. We, we drew on the,
+
+164
+00:35:24.990 --> 00:35:30.040
+Chris Lowenstein: on the bias assessment tool from the previous work to do exactly, I think, what you're getting at.
+
+165
+00:35:30.950 --> 00:35:54.229
+Justin White: Great. I want to encourage our audience to continue submitting their questions through the Q&A panel. If we don't have a chance to get to all questions, or if people would like to discuss with the speaker directly with their microphones enabled, they're welcome to attend Top of the Tops immediately following this webinar. If they're interested, you can copy the meeting room URL, which will be posted in the chat now.
+
+166
+00:35:54.230 --> 00:35:59.190
+Justin White: So that you'll be ready to join the live discussion once this webinar concludes.
+
+167
+00:35:59.190 --> 00:36:02.059
+Justin White: But for now, Chris, please feel free to continue.
+
+168
+00:36:03.060 --> 00:36:12.480
+Chris Lowenstein: Great, thanks. Okay, so, I will, jump into the results from our, meta-analysis in just a second. Just a quick slide on how to,
+
+169
+00:36:12.600 --> 00:36:31.039
+Chris Lowenstein: interpret the forest plot that I'm gonna send you, or that I'm gonna show you next, because, in case you're not familiar, I haven't seen one in a while. So, in the forest plot, each, each row is one study's estimate, which is now expressed as, a per $1 tax equivalent effect, on youth vaping.
+
+170
+00:36:31.040 --> 00:36:34.560
+Chris Lowenstein: The square is,
+
+171
+00:36:34.560 --> 00:36:58.990
+Chris Lowenstein: excuse me, the square is that point estimate, and the size of the square is the weight, that the study carries in contributing to the overall pooled result. The horizontal line, running through it is the 95% confidence interval, and on the plot, there's a vertical line, in the center that denotes zero. Anything to the right of that means that the study
+
+172
+00:36:58.990 --> 00:37:05.500
+Chris Lowenstein: found, that restricting e-cigarettes is associated with more smoking. Anything to the left.
+
+173
+00:37:05.500 --> 00:37:07.580
+Chris Lowenstein: Means that, means the opposite.
+
+174
+00:37:07.710 --> 00:37:10.609
+Chris Lowenstein: And the diamond at the bottom is the pooled estimate.
+
+175
+00:37:10.810 --> 00:37:25.399
+Chris Lowenstein: So with that in mind, here are the main results from the fixed effects model. And before jumping directly down to the pool number, I just want to walk you through a few of these rows, so that, in particular, the weighting here is concrete, because that's really important.
+
+176
+00:37:25.400 --> 00:37:50.400
+Chris Lowenstein: So let's take a look at our third study here, Abukin Colleagues 2023B. Point estimate is, about 5.6, and the confidence interval runs from, 1.2 to just about 10. So this is a relatively tight confidence interval in terms of the other estimates, in our set. In the fixed effects model, which is our preferred specification, this is why
+
+177
+00:37:50.400 --> 00:37:55.310
+Chris Lowenstein: this particular square is quite large. This study carries 28%,
+
+178
+00:37:55.660 --> 00:38:19.130
+Chris Lowenstein: of the weight in determining the final pooled, final pooled result. In contrast, let's look at, for example, Pesco 2023, further down. This estimate is 1.77%, with a much larger confidence interval that includes zero, and the associated weight with that study is, about, 1… 1.3.
+
+179
+00:38:19.130 --> 00:38:23.339
+Chris Lowenstein: Or so. So, using the fixed effects model, this,
+
+180
+00:38:23.340 --> 00:38:27.089
+Chris Lowenstein: a fixed effects, meta-analysis model,
+
+181
+00:38:27.430 --> 00:38:37.869
+Chris Lowenstein: the method is agnostic about where an estimate is. So we have several estimates that find a negative association, several that find positive,
+
+182
+00:38:37.870 --> 00:39:01.369
+Chris Lowenstein: A study simply earns influence in determining its overall, impact, by being precise, not by pointing in one direction, or another. So, all in all, our pooled, estimate is 5.2, with a confidence interval from about 3 to just over 7.5. So, in words, a reduction in youth vaping is equivalent to
+
+183
+00:39:01.370 --> 00:39:02.679
+Chris Lowenstein: what,
+
+184
+00:39:02.990 --> 00:39:22.559
+Chris Lowenstein: excuse me, a reduction in youth vaping equivalent to what a $1 tax would produce is, associated with a 5.2% increase in the likelihood of current youth smoking. So two features to flag here. There's substantial heterogeneity, as denoted here by this I squared term.
+
+185
+00:39:22.830 --> 00:39:41.849
+Chris Lowenstein: And also important to note that 4 of these studies, carry more than… cumulatively carry more than 80% of the weight. So you might be wondering, why fixed effects is our primary model. So this was something that we, discussed and would love feedback if there is any,
+
+186
+00:39:41.910 --> 00:40:02.290
+Chris Lowenstein: part of the reason we selected, fixed effects over random effects model here is that our estimates are now standardized into a common policy intensity scale. The empirical strategies are similar, and the populations are, and policy contexts are broadly comparable. But doing this type of,
+
+187
+00:40:02.290 --> 00:40:13.470
+Chris Lowenstein: meta-analysis is, to our knowledge, brand new, so there's no real established precedent for whether to use a fixed effects or a random effects model here. So…
+
+188
+00:40:13.950 --> 00:40:19.710
+Chris Lowenstein: To that end, we do also estimate a random effects model as a sensitivity check.
+
+189
+00:40:20.030 --> 00:40:45.029
+Chris Lowenstein: Which I will show you next. So here's the same set of results under the random effects, weighting model. The point estimate is smaller, it's about 6, 3.7%. Same direction, but the confidence interval is wider, and it includes zero. Heterogeneity is also higher, at about 87%. So, as I mentioned, we do consider the pool… the fixed effects model
+
+190
+00:40:45.030 --> 00:41:07.989
+Chris Lowenstein: model to be our preferred specification, and this to be our sensitivity check, as simply a test of whether the finding survives to a different set of weighting assumptions. And we do see, as you can see in our full set of studies, that it is sensitive to what type of weighting scheme we use. So the obvious question then is.
+
+191
+00:41:09.430 --> 00:41:20.500
+Chris Lowenstein: if the data, underlying data haven't moved at all, what contributes to this slightly different estimated, effect? And the answer is, difference in how the models weight the studies.
+
+192
+00:41:21.880 --> 00:41:44.779
+Chris Lowenstein: So let's take the two studies, that I walked through earlier, Abuk & Colleagues 2023, and, Pesco 2023. So, Abuk and all have the most precise estimate in our entire set. Under fixed effects, it carries, over 28% of the weight. Under random effects, it gets reduced to, 11%, so it loses about half, or over half of its influence.
+
+193
+00:41:44.780 --> 00:41:52.019
+Chris Lowenstein: Pesco 2023, on the other hand, is a… is the imprecise one that I pointed out, with a wide confidence interval.
+
+194
+00:41:52.370 --> 00:42:17.030
+Chris Lowenstein: And it changes, in the fixed effects models from carrying 1.3% of the weight to over 6% of the weight, so roughly 5 times the weight or influence that it previously had. So, without getting too much into the weeds between these two different approaches, the mechanism that is driving this is that under fixed effects, a study's weight is the inverse of its variance.
+
+195
+00:42:17.030 --> 00:42:34.150
+Chris Lowenstein: So the precision is the only thing that determines how much weight, a single estimate gets. The random effects, on the other hand, adds a common between-study variance to every study, and what this means is that the addition matters
+
+196
+00:42:34.400 --> 00:42:47.850
+Chris Lowenstein: is heterogeneity, addition matters proportionally more for the precise studies, so it pulls all of the weights toward equality, and so when the… when we see that the random effects estimate has moved.
+
+197
+00:42:47.850 --> 00:42:58.900
+Chris Lowenstein: It's largely because the influence has shifted from these precise studies to the more imprecise ones, and not because any new information, for instance, has arrived.
+
+198
+00:42:59.570 --> 00:43:14.759
+Chris Lowenstein: So we present both sets in our paper, and the next question then, given that we prefer the fixed effects approach, for the reasons I specified earlier, is whether there's any one single study that is driving the fixed effects result.
+
+199
+00:43:15.450 --> 00:43:27.079
+Chris Lowenstein: So to check that, we drop each of the 12 estimates in turn and re-estimate the model. The resulting pooled fixed effects estimate ranged from about 4.7
+
+200
+00:43:27.080 --> 00:43:37.770
+Chris Lowenstein: to 6.0% across the 12 runs, statistically significant in every one. So no single study is carrying the result.
+
+201
+00:43:37.770 --> 00:43:47.159
+Chris Lowenstein: One interesting thing to point out is that… is the heterogeneity. So in each of these runs, we get a separate… a new estimate of this I-squared heterogeneity.
+
+202
+00:43:47.700 --> 00:44:01.300
+Chris Lowenstein: measure. So, this… this I2 measure drops the most when we drop two specific studies, Dutra 2019 and Ibuk & Adams, 2017. These are also the…
+
+203
+00:44:01.300 --> 00:44:20.539
+Chris Lowenstein: two of the three negative estimates that we just looked at, and also, importantly, these are the two studies that were rated, on the weaker end of the at-risk, the risk of bias assessment. So our obvious next check there is, well, what happens, to our fixed effects results when we drop them from both of the models?
+
+204
+00:44:22.060 --> 00:44:32.740
+Chris Lowenstein: And again, these risk of bias, assessments were the ones from the original Beg and colleagues, paper, so we just take them directly from, from their assessment.
+
+205
+00:44:32.870 --> 00:44:47.490
+Chris Lowenstein: So, again, this just… first row just replicates the study, the estimate from all 11 studies, and this second row here, presents the studies when we exclude the two critical at-risk studies.
+
+206
+00:44:47.490 --> 00:44:56.410
+Chris Lowenstein: under the fixed effects specification and under the random effects model, we can see what's really interesting is that they now converge. So…
+
+207
+00:44:56.410 --> 00:45:21.369
+Chris Lowenstein: Both models, after dropping these two at-risk studies, give a final estimate of about 6.8%, with similar confidence intervals. The I-squared, measure of heterogeneity, falls from 72% from the, in the fixed effects model that included all 11 studies, to about 27% under the fixed effects, or, when excluding these two models.
+
+208
+00:45:21.370 --> 00:45:27.880
+Chris Lowenstein: models, and zero under random effects. So, this suggests that the two studies,
+
+209
+00:45:27.970 --> 00:45:45.699
+Chris Lowenstein: that were at highest risk for bias were also the main source of disagreement between the fixed effect meta-analysis model and the random effects models. Without them, the two models agree on the point estimate, and importantly, the random effects interval no longer includes zero.
+
+210
+00:45:46.910 --> 00:45:50.469
+Chris Lowenstein: So, let's…
+
+211
+00:45:50.650 --> 00:46:15.469
+Chris Lowenstein: Now contextualize this in some other literature that many of you may be thinking about. So, the question is, how does this estimate of a 5.2% increase in used smoking compare with the cohort literature? And the… some of the more recent cohort meta-analyses converge on roughly 3 times the odds of later smoking among non-smoking e-cigarette users, transitioning, to more smoking.
+
+212
+00:46:16.250 --> 00:46:26.110
+Chris Lowenstein: After, choosing to vape. And our estimate points the other way. When a policy reduces youth vaping, smoking goes up. So that's…
+
+213
+00:46:27.240 --> 00:46:51.339
+Chris Lowenstein: that's a diverging set of results. It's really interesting, and we think complementary, not contradictory. So the first point on why these estimates differ is that these types of studies fundamentally ask different questions. These cohort studies ask whether young people who choose to vape are most… are more or less likely to smoke later, so the comparison is between
+
+214
+00:46:51.340 --> 00:47:02.499
+Chris Lowenstein: two different types of youth. We, in these studies, or the authors of these studies, ask, what happens to youth smoking when a policy makes vaping harder for everyone?
+
+215
+00:47:02.730 --> 00:47:06.849
+Chris Lowenstein: So these are different populations with different comparisons.
+
+216
+00:47:06.850 --> 00:47:23.140
+Chris Lowenstein: And the second piece of why these estimates differ, is a structural one. The cohort studies explicitly condition on never-smokers, which rules out any, substitution by construction. So if young people,
+
+217
+00:47:24.760 --> 00:47:38.749
+Chris Lowenstein: if young people vape instead of smoke, this is something… that's a pathway that this literature, cannot observe. The third, as I mentioned earlier, was common liabilities, which I, I, simply is,
+
+218
+00:47:38.750 --> 00:47:48.410
+Chris Lowenstein: If unobserved characteristics predispose some youth to certain behaviors, the estimates in the cohort literature will be pushed, toward…
+
+219
+00:47:48.590 --> 00:47:58.960
+Chris Lowenstein: toward the null. But again, we like to think of these as complementary, not contradictory sets of evidence. The cohort studies, they describe individual trajectories.
+
+220
+00:47:59.280 --> 00:48:09.329
+Chris Lowenstein: a very valuable, set of information. The natural experiments, give these population-level effects, which is often also important for policymakers.
+
+221
+00:48:11.400 --> 00:48:16.569
+Chris Lowenstein: So, I'll wrap up here, pretty quickly. From…
+
+222
+00:48:16.570 --> 00:48:36.469
+Chris Lowenstein: kind of the application standpoint, the bottom line for the tobacco control, audience, here is that we find from this quasi-experimental literature that, restricting youth access to e-cigarettes is associated with more youth smoking. Our central estimate is a 5.2%
+
+223
+00:48:36.510 --> 00:48:52.050
+Chris Lowenstein: per $1 tax equivalent, reduction in youth vaping. And this direction is consistent across, fixed and random effects models. It's also strongest when we drop the two studies that are, at critical risk of, bias.
+
+224
+00:48:52.740 --> 00:49:17.639
+Chris Lowenstein: Of course, to be very clear about what has to hold for this to be true, at least three things. The first is that these policies affect smoking mainly through vaping. So if a tax changes smoking through some other channel, as we discussed earlier, we'd be attributing it to the wrong mechanism. Second, that the effects scale linearly with the size of the vaping
+
+225
+00:49:17.640 --> 00:49:24.559
+Chris Lowenstein: reduction. For instance, that a policy twice as large is gonna have, about twice the effect.
+
+226
+00:49:24.580 --> 00:49:47.060
+Chris Lowenstein: And then third, as we've also discussed, that, each underlying difference and difference estimate that feeds into our, our set of estimates satisfies, to the extent we know, can satisfy the parallel trends assumption. And they… 9 of the 11 do assess this to some degree, of course, with differing, levels of rigor.
+
+227
+00:49:47.730 --> 00:50:00.809
+Chris Lowenstein: So, a few key limitations on the right-hand side, that I do want to flag. First, there's no widely used or widely,
+
+228
+00:50:00.810 --> 00:50:13.540
+Chris Lowenstein: there's no established risk of bias assessment tool for these population-level quasi-experiments. That's something that is really new, and I think at the forefront of some of this evidence synthesis.
+
+229
+00:50:13.740 --> 00:50:22.409
+Chris Lowenstein: so we, we simply review on, on the prior study's assessment, for those bias scores.
+
+230
+00:50:22.550 --> 00:50:34.569
+Chris Lowenstein: as Justin mentioned, the flavor conversion that we use to scale the flavor bands rests on a single study, so of course, with more flavor restriction studies.
+
+231
+00:50:34.570 --> 00:50:43.409
+Chris Lowenstein: that have been released, we could certainly update that. Also, one of the highest weight studies, in the fixed effects model uses,
+
+232
+00:50:43.410 --> 00:51:06.979
+Chris Lowenstein: It's a study of rural pregnant teenagers, but again, our results are robust to dropping it, so not necessarily sure how representative that particular study is of, the underlying youth population. And then the last thing I'd note is that, the two final things is that this is a study of youth only, and
+
+233
+00:51:06.980 --> 00:51:26.740
+Chris Lowenstein: We are currently working on expanding the scope of our search and doing our own draw of the literature to estimate the effect of vaping and e-cigarette restrictions on adult smoking, which is also going to be quite interesting, we think.
+
+234
+00:51:27.100 --> 00:51:42.860
+Chris Lowenstein: And as mentioned before, the search is bounded by this April 2023 review cutoff, and so we're currently, working on acquiring some funding to expand the scope and, as I mentioned, update the evidence base for adults as well.
+
+235
+00:51:44.000 --> 00:52:07.240
+Chris Lowenstein: So, just to conclude, I'll abstract a little bit away from the tobacco control context, since I think the methods takeaways are actually quite general. When policies share an intermediary outcome, but don't share a treatment scale, we think it's possible, and we've shown that it's possible, to normalize each estimate
+
+236
+00:52:07.240 --> 00:52:15.339
+Chris Lowenstein: by its first stage effect, and then pool those estimates. That produces one estimate, then, that is available across studies.
+
+237
+00:52:15.900 --> 00:52:40.760
+Chris Lowenstein: that really synthesizes the totality of the evidence that exists, rather than relying on a single estimate from a single study, that one might or might not find as convincing. We also think this is something that is an approach that's reusable going forward. As new policies are evaluated, their measured effect on vaping or on
+
+238
+00:52:40.760 --> 00:52:54.259
+Chris Lowenstein: Any intermediary outcome can be converted into an implied effect on smoking or some downstream outcome that may be of interest for policymakers and the public health or broader community.
+
+239
+00:52:55.810 --> 00:53:01.430
+Chris Lowenstein: So, with that, I will turn it back over to Emma and the audience for other questions.
+
+240
+00:53:02.180 --> 00:53:06.349
+Justin White: Great. Let's see if our discussant has any further comments at this point.
+
+241
+00:53:07.290 --> 00:53:22.699
+Emma Beard: Thank you. So I'm just going to pick up on the fixed and random effects, because I think it's, you obviously told us that you'd like some kind of feedback on that. I think from reading the previous review and understanding the data that you've used.
+
+242
+00:53:22.700 --> 00:53:30.919
+Emma Beard: my heart would instinctively go towards a random effects model, just because it covers youth, adolescents, I think there were some pregnant…
+
+243
+00:53:30.920 --> 00:53:36.290
+Emma Beard: women and their teenagers, the outcomes are slightly different in terms of how smoking's measured.
+
+244
+00:53:36.400 --> 00:53:53.709
+Emma Beard: So I kind of feel as though it's not just one effect that's underpinning all these studies, there's kind of different effects there. The high level of heterogeneity, the fact that four studies seem to be driving a lot of the effect that you found. But also, thinking about it from the perspective of this being a general method, you building on it, bringing more studies in.
+
+245
+00:53:54.000 --> 00:54:02.030
+Emma Beard: A random effects model allows you to generalise what you find, whereas a fixed effects model is telling you just about the studies that you have.
+
+246
+00:54:02.160 --> 00:54:18.120
+Emma Beard: So, I think with more data that's collected, I think you'd find a similar effect, maybe, that the fixed effects model's finding, but I… in my gut instinct, it feels to me, although you gave a very good, plausible explanation for the fixed effect, to go more towards a random effects model, but…
+
+247
+00:54:19.170 --> 00:54:29.579
+Chris Lowenstein: That's, no, that's, that's really helpful. We, I, I, point very well taken. We had this discussion,
+
+248
+00:54:29.580 --> 00:54:53.090
+Chris Lowenstein: early on, when we were… before running any of these, these models, and to be fully candid, I was very brand new to evidence synthesis and meta-analysis, so my, my, my gut, approach was actually, that because they use similar identification strategies, and we do restrict to a common outcome, and for the most part, with those few exceptions, our… are,
+
+249
+00:54:54.160 --> 00:55:07.930
+Chris Lowenstein: are studying general youth populations in the United States, that a fixed effects model is appropriate, but absolutely, like, point well taken, especially as we're generalizing this, even more. I think the heterogeneity,
+
+250
+00:55:07.930 --> 00:55:16.730
+Chris Lowenstein: piece that we… we find, empirically, that 75%, 80% is something to be, certainly, certainly aware of. So thank you for that.
+
+251
+00:55:17.370 --> 00:55:40.320
+Emma Beard: But, yeah, just to finish up with before we go back to the rest of the audience, I think this is… this is brilliant. I think it can be applied elsewhere, so I was thinking a lot in terms of in the UK, where we have alcohol restriction, and then it, other illicit drug use, and how it could possibly apply there. I think my only other comment was that perhaps this framework could even be extended further with meta-regression, so obviously you could then look at some of that heterogeneity within, kind of, what you specified so far, but yeah.
+
+252
+00:55:40.740 --> 00:55:41.650
+Emma Beard: Brilliant.
+
+253
+00:55:42.120 --> 00:55:43.210
+Chris Lowenstein: Thank you so much.
+
+254
+00:55:46.430 --> 00:55:53.010
+Justin White: Okay, we do not have any further audience questions at the moment, so…
+
+255
+00:55:53.150 --> 00:55:55.780
+Justin White: Unless one comes in in the next,
+
+256
+00:55:56.280 --> 00:56:00.020
+Justin White: couple seconds, I think we might kick it to our MC.
+
+257
+00:56:02.890 --> 00:56:09.690
+Justin White: And as a reminder, we do have Top of the Tops. So, yeah, why don't we pass it to our MC to take us out? Thank you.
+
+258
+00:56:13.890 --> 00:56:20.890
+Adrian Ashley: That sounds good. Yeah, we are out of time. If you all have any more burning questions or thoughts,
+
+259
+00:56:20.920 --> 00:56:37.660
+Adrian Ashley: For Chris Lowenstein, you can join us for Top of the Tops, an interactive group discussion. To join. Please just copy the Zoom meeting room URL posted in the chat and switch rooms with us once this event concludes. We'll leave this webinar room open for an extra minute.
+
+260
+00:56:37.680 --> 00:56:45.319
+Adrian Ashley: for the end, to give everyone a chance to copy the URL, which is bit.ly slash topsmeeting, all lowercase.
+
+261
+00:56:45.420 --> 00:56:55.619
+Adrian Ashley: A thank you to our presenter, moderator, and discussant. Finally, thank you to the audience of 105 people for your participation. I hope you all have a tops-notch weekend.
+
