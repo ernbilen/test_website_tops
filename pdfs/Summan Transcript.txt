@@ -1,0 +1,1814 @@
+WEBVTT
+
+1
+00:00:02.910 --> 00:00:07.289
+Abdullah Dogan: Welcome to the Tobacco Online Policy Seminar, or TAPS.
+
+2
+00:00:07.350 --> 00:00:29.930
+Abdullah Dogan: Thank you for joining us today. I am Abdullah Dawan, a PhD student in Health Economics at the University of Missouri. Tubs is organized by Mike Pesko at University of Missouri, C. Shank at the Ohio State University, Michael Darden at Johns Hopkins University, Jamie Hartman Moss at University of Massachusetts Amherst.
+
+3
+00:00:29.930 --> 00:00:32.920
+Abdullah Dogan: and Justin White at Boston University.
+
+4
+00:00:32.920 --> 00:00:36.810
+Abdullah Dogan: Before we begin, a quick reminder that
+
+5
+00:00:36.810 --> 00:00:51.890
+Abdullah Dogan: TAPS is accepting submissions for next season. If you are interested in presenting, we encourage you to submit a brief proposal on our website, tobaccopolicy.org, by October 12th.
+
+6
+00:00:52.480 --> 00:01:08.309
+Abdullah Dogan: The seminar will be one hour with questions from the moderator and discussant. The audience may post questions and comments in the Q&A panel, and the moderator will draw from these questions and comments in conversation with the presenter.
+
+7
+00:01:08.620 --> 00:01:15.000
+Abdullah Dogan: Please review the guidelines on TobaccoPolicy.org for acceptable questions.
+
+8
+00:01:15.170 --> 00:01:33.750
+Abdullah Dogan: Please keep the questions professional and related to the research being discussed. Questions that meet the seminar series guidelines will be shared with the presenter afterwards, even if they are not read aloud. Your questions are very much appreciated.
+
+9
+00:01:34.100 --> 00:01:45.389
+Abdullah Dogan: This presentation is being video recorded and will be made available along with presentation slides on the TAPS website tobaccopolicy.org.
+
+10
+00:01:46.810 --> 00:02:05.210
+Abdullah Dogan: Before turning things over to today's moderator, we would like to take a moment to recognize Michael Darden, who will be stepping down from the Tufts Executive Board at the end of this season. Michael has served on the Executive Board for more than two years, and
+
+11
+00:02:05.210 --> 00:02:11.630
+Abdullah Dogan: We are grateful for his time, dedication, and contributions to the seminar series.
+
+12
+00:02:11.760 --> 00:02:18.580
+Abdullah Dogan: We are also pleased that he will continue to be involved with TAPS as a member of the advisory board.
+
+13
+00:02:18.740 --> 00:02:26.420
+Abdullah Dogan: With that, I will turn things over to Michael Darden from Johns Hopkins University to introduce today's speaker.
+
+14
+00:02:28.570 --> 00:02:46.610
+Michael Darden: Thanks so much, Abdullah, and thanks to the organizers. It's a great, great thing we're doing with TOPS, and so I'm proud to have been involved. Okay, so today we're going to conclude our summer 2026 season with a single paper presentation by Amit Suman entitled Distinguishing Legalization from Commercialization.
+
+15
+00:02:46.710 --> 00:02:53.729
+Michael Darden: rapid retail cannabis rollout and adolescent tobacco and cannabis use in the United States. So the presentation was.
+
+16
+00:02:53.970 --> 00:02:58.770
+Michael Darden: Selected via a competitive review process by submission through the TOPS website.
+
+17
+00:02:58.780 --> 00:03:23.739
+Michael Darden: Dr. Ahmad Suman is a health economist at Economics for Health at the Johns Hopkins Bloomberg School of Public Health and a visiting fellow at the One Health Trust. His research evaluates effects of tobacco and nicotine tax and regulatory policies in the United States with a focus on e-cigarettes, other emerging nicotine products, and tobacco cannabis co-use. His wider work examines fiscal policies for health.
+
+18
+00:03:23.740 --> 00:03:29.520
+Michael Darden: and their effects on alcohol and tobacco consumption in low and middle income countries and globally.
+
+19
+00:03:29.830 --> 00:03:38.739
+Michael Darden: And his methods combine quasi-experimental policy evaluation, demand estimation, and simulation modeling. Dr. Suman, thank you for presenting for us today.
+
+20
+00:04:02.160 --> 00:04:03.700
+Amit Summan: Hi, everyone.
+
+21
+00:04:04.660 --> 00:04:10.460
+Amit Summan: It's my presentation sharing right now. It's good to go.
+
+22
+00:04:10.460 --> 00:04:12.389
+Michael Darden: It looks great, thank you. Yep.
+
+23
+00:04:12.560 --> 00:04:23.650
+Amit Summan: I'm very excited to present this work, looking at the effects of cannabis policy On adolescent tobacco and cannabis.
+
+24
+00:04:23.840 --> 00:04:27.109
+Amit Summan: use in the United States. This is…
+
+25
+00:04:27.260 --> 00:04:33.290
+Amit Summan: joint work with Sam Sturm, Michael Teenan, and Jeffrey Drope.
+
+26
+00:04:33.400 --> 00:04:35.920
+Amit Summan: This is a working paper.
+
+27
+00:04:36.140 --> 00:04:38.979
+Amit Summan: So, I look forward to everyone's comments.
+
+28
+00:04:39.490 --> 00:04:44.090
+Amit Summan: And any suggestions on how to strengthen this analysis?
+
+29
+00:04:49.960 --> 00:04:58.589
+Amit Summan: So, funding for this work, this is funded by Bloomberg Philanthropies, through Economics for Health at the Johns Hopkins.
+
+30
+00:04:58.750 --> 00:05:03.530
+Amit Summan: Bloomberg School of Public Health, and also, the CC Foundation.
+
+31
+00:05:03.770 --> 00:05:05.650
+Amit Summan: There are no conflicts of interest.
+
+32
+00:05:05.840 --> 00:05:08.390
+Amit Summan: Or, industry funding to declare.
+
+33
+00:05:12.790 --> 00:05:14.030
+Amit Summan: So…
+
+34
+00:05:14.500 --> 00:05:30.440
+Amit Summan: In the past, 15 years, there's been, an increase in, states that have legalized and subsequently allowed for retail sales of.
+
+35
+00:05:30.550 --> 00:05:33.989
+Amit Summan: Of adult use cannabis,
+
+36
+00:05:34.160 --> 00:05:51.170
+Amit Summan: As of now, 24 states and DC have legalized, cannabis, and 23 have allowed for licensed retail sales. I'm going to be referring to this as recreational cannabis laws. I know some people prefer.
+
+37
+00:05:51.260 --> 00:05:57.079
+Amit Summan: Increasingly adult use cannabis laws just keeping with previous literature.
+
+38
+00:05:57.370 --> 00:06:00.819
+Amit Summan: That's how I'm going to be defining my acronyms.
+
+39
+00:06:00.950 --> 00:06:05.500
+Amit Summan: What do we know about, you've,
+
+40
+00:06:05.780 --> 00:06:10.120
+Amit Summan: Cannabis use and tobacco use, in the U.S.
+
+41
+00:06:10.320 --> 00:06:20.140
+Amit Summan: Substance use has decreased generally. Cigarettes has plummeted in the US, cannabis use.
+
+42
+00:06:20.300 --> 00:06:28.929
+Amit Summan: Has decreased, but it's still quite high in 2023, YRPS estimates show 14 to 16%.
+
+43
+00:06:29.410 --> 00:06:37.970
+Amit Summan: e-cigarettes, I've reached a peak in 2019, and now it's kind of stabilized in,
+
+44
+00:06:38.310 --> 00:06:40.080
+Amit Summan: You know, the mid-teens…
+
+45
+00:06:40.250 --> 00:06:50.520
+Amit Summan: So cannabis use is still quite high along with e-cigarette use while cigarettes cigarette use has decreased.
+
+46
+00:06:50.900 --> 00:06:59.820
+Amit Summan: So this audience, of course, is going to be interested in in tobacco. But as public health practitioners you would be interested in
+
+47
+00:07:00.240 --> 00:07:05.160
+Amit Summan: In the deleterious effects of cannabis as well,
+
+48
+00:07:05.800 --> 00:07:11.700
+Amit Summan: Cannabis, adolescence is a critical period of, development,
+
+49
+00:07:12.100 --> 00:07:16.239
+Amit Summan: For the brains, cannabis can have negative effects.
+
+50
+00:07:16.420 --> 00:07:21.640
+Amit Summan: On cognitive effects on on teens that use.
+
+51
+00:07:21.850 --> 00:07:32.600
+Amit Summan: And also, earlier use is a risk factor for more problematic use, cannabis use disorders.
+
+52
+00:07:32.760 --> 00:07:33.949
+Amit Summan: In the future.
+
+53
+00:07:36.530 --> 00:07:41.969
+Amit Summan: What do we know about cannabis and nicotine co-use?
+
+54
+00:07:42.410 --> 00:07:54.270
+Amit Summan: Well, it seems most research suggests that, they're actually complements Or at best, they're unrelated.
+
+55
+00:07:54.850 --> 00:07:56.850
+Amit Summan: A meta-analysis.
+
+56
+00:07:56.990 --> 00:08:04.100
+Amit Summan: From 2019, found that, adolescents who vape were four times
+
+57
+00:08:04.630 --> 00:08:11.880
+Amit Summan: More likely to use cannabis than those who did not vape the 2023.
+
+58
+00:08:12.710 --> 00:08:18.630
+Amit Summan: YRBS study also found that 61% of students who vaped in the past month also used cannabis.
+
+59
+00:08:24.950 --> 00:08:33.960
+Amit Summan: So, as I said, there are increasing number of states that, that are legalizing.
+
+60
+00:08:34.250 --> 00:08:42.450
+Amit Summan: Cannabis use and then subsequently retail. So these are often seen as a single policy event.
+
+61
+00:08:42.710 --> 00:08:45.790
+Amit Summan: But they're very distinct policy events.
+
+62
+00:08:45.980 --> 00:08:56.649
+Amit Summan: And one doesn't guarantee that the other is going to take place immediately or in the near future. There might be a large gap.
+
+63
+00:08:56.930 --> 00:09:05.239
+Amit Summan: between legalization and retail. So there are different decisions that policymakers face.
+
+64
+00:09:05.400 --> 00:09:08.689
+Amit Summan: One is, are we going to legalize?
+
+65
+00:09:09.260 --> 00:09:11.659
+Amit Summan: Are we going to allow for retail sales?
+
+66
+00:09:11.850 --> 00:09:16.669
+Amit Summan: And, if we are allowing for retail sales, how quickly are we going to
+
+67
+00:09:16.990 --> 00:09:22.079
+Amit Summan: Allow for retail sales, once we legalize.
+
+68
+00:09:22.240 --> 00:09:26.530
+Amit Summan: And there's quite a bit of variation, in states
+
+69
+00:09:26.940 --> 00:09:31.629
+Amit Summan: Legalizing to the time that they,
+
+70
+00:09:31.870 --> 00:09:33.420
+Amit Summan: implement retail.
+
+71
+00:09:33.570 --> 00:09:41.370
+Amit Summan: So there's a gap of right now of states that have implemented from.
+
+72
+00:09:41.770 --> 00:09:52.980
+Amit Summan: From no… no gap at all between legalization and retail, all the way to, to 50, a gap of 51 months.
+
+73
+00:09:53.420 --> 00:09:58.919
+Amit Summan: So past studies, you know, they typically just focused on.
+
+74
+00:09:59.370 --> 00:10:09.629
+Amit Summan: On the legalization aspect, but they haven't really separated, What happens… After legalization,
+
+75
+00:10:10.170 --> 00:10:12.990
+Amit Summan: And how, you know, what the policy path is.
+
+76
+00:10:20.500 --> 00:10:23.619
+Amit Summan: So, you know, what are some of the…
+
+77
+00:10:24.040 --> 00:10:28.309
+Amit Summan: Different ways in which, these policies can affect.
+
+78
+00:10:30.380 --> 00:10:32.550
+Amit Summan: affect adolescent use.
+
+79
+00:10:33.080 --> 00:10:50.950
+Amit Summan: Or even, you know, adult use. So, over here, I have, some possible mechanisms. You know, these, these might overlap. One might be stronger in, you know, after legalization versus retail, but there are a number of things that can happen.
+
+80
+00:10:51.150 --> 00:10:55.270
+Amit Summan: So of course there's a change in perceived risk.
+
+81
+00:10:55.440 --> 00:11:00.129
+Amit Summan: And use norms and peer norms shift.
+
+82
+00:11:00.930 --> 00:11:14.050
+Amit Summan: There might be a change in parental monitoring and parental attitudes towards, towards use, after legalization.
+
+83
+00:11:14.300 --> 00:11:26.250
+Amit Summan: There might be a change in the social supply. There's typically home cultivation that's allowed after legalization. There's also been studies that shown that.
+
+84
+00:11:26.720 --> 00:11:30.250
+Amit Summan: Yeah, so the separate… these are separate policies, there's…
+
+85
+00:11:30.370 --> 00:11:40.739
+Amit Summan: Some states might have decriminalization earlier, but, legalization may allow for this kind of gray area where,
+
+86
+00:11:41.110 --> 00:11:45.510
+Amit Summan: There's reduced enforcement of increasing laws.
+
+87
+00:11:45.690 --> 00:11:56.359
+Amit Summan: And for example, when California legalized, there were lower penalties for underage possession.
+
+88
+00:11:56.500 --> 00:12:00.120
+Amit Summan: And, decreases in arrests.
+
+89
+00:12:01.010 --> 00:12:14.790
+Amit Summan: Once, retail opens, now you actually have, You know, you have prices, you have increased availability, a higher retail density, you have marketing.
+
+90
+00:12:15.190 --> 00:12:18.389
+Amit Summan: There might be a displacement of illicit markets.
+
+91
+00:12:18.560 --> 00:12:25.060
+Amit Summan: But also, There's stricter… .
+
+92
+00:12:25.770 --> 00:12:36.800
+Amit Summan: There's perhaps more barriers of entry as these legal markets replace these illicit markets with age verification and also compliance inspections.
+
+93
+00:12:37.710 --> 00:12:47.339
+Amit Summan: So… I already discussed that there's some co-use evidence of these two being complements
+
+94
+00:12:48.060 --> 00:12:53.110
+Amit Summan: There might be shared access channels as well.
+
+95
+00:12:53.280 --> 00:12:58.790
+Amit Summan: So, vape shops, selling cannabis.
+
+96
+00:12:59.020 --> 00:13:12.350
+Amit Summan: And vice versa. And then there might just be shared use norms as well. So perhaps, you know, if legalization
+
+97
+00:13:12.490 --> 00:13:21.410
+Amit Summan: Causes, the perceived risk to cannabis use to be lower amongst adolescents.
+
+98
+00:13:21.680 --> 00:13:25.240
+Amit Summan: I may also do the same for other types of substances.
+
+99
+00:13:38.100 --> 00:13:42.879
+Amit Summan: So, these are states that have YRBS data, and you can see.
+
+100
+00:13:43.430 --> 00:13:53.660
+Amit Summan: The gap, between, between legalization And retail by state.
+
+101
+00:13:54.310 --> 00:13:59.799
+Amit Summan: So, 12 stores opened, within
+
+102
+00:14:00.160 --> 00:14:04.299
+Amit Summan: 12 states opened retail within 14 months.
+
+103
+00:14:04.490 --> 00:14:08.120
+Amit Summan: of, of legalization.
+
+104
+00:14:08.970 --> 00:14:13.979
+Amit Summan: And seven took between 18 months and four years.
+
+105
+00:14:15.990 --> 00:14:21.479
+Amit Summan: Virginia, doesn't have any retail sales, it'll have retail sales
+
+106
+00:14:21.900 --> 00:14:25.219
+Amit Summan: In, July of next year.
+
+107
+00:14:27.530 --> 00:14:31.929
+Amit Summan: So there are some states that YRBS doesn't.
+
+108
+00:14:32.410 --> 00:14:43.709
+Amit Summan: It doesn't, survey, so those include, oregon and Washington, which legalized.
+
+109
+00:14:44.070 --> 00:14:52.290
+Amit Summan: And Colorado is an early legalizer, but data isn't, it didn't participate in YRBS in.
+
+110
+00:14:52.750 --> 00:14:55.759
+Amit Summan: In, 3 of the 7 waves.
+
+111
+00:15:01.030 --> 00:15:04.889
+Amit Summan: So I mentioned some of the past literature.
+
+112
+00:15:06.430 --> 00:15:12.970
+Amit Summan: I'm just highlighting some key literature here. There's, you know, there's a lot of other studies.
+
+113
+00:15:13.560 --> 00:15:22.850
+Amit Summan: looking at associations, and then also, doing state, evaluations. I'm just looking at
+
+114
+00:15:22.950 --> 00:15:30.410
+Amit Summan: Studies that have looked at multiple states and have used these national surveys.
+
+115
+00:15:30.510 --> 00:15:41.969
+Amit Summan: And… What's typical here, and especially beyond, the studies shown here, is that there's a coding where,
+
+116
+00:15:42.320 --> 00:15:50.590
+Amit Summan: Basically, you have legalization. So you have, RCL, if, if the state implemented.
+
+117
+00:15:51.000 --> 00:15:55.509
+Amit Summan: A cannabis law and then after that treatment,
+
+118
+00:15:55.750 --> 00:16:08.170
+Amit Summan: There's… it doesn't distinguish between what other path, that state may have taken, right? Whether they implemented retail along with legalization, or they implemented retail
+
+119
+00:16:08.400 --> 00:16:10.480
+Amit Summan: Much later.
+
+120
+00:16:10.680 --> 00:16:19.680
+Amit Summan: So, there's been, you know, two primary data sets, used in these first set of studies. The YRBS,
+
+121
+00:16:19.920 --> 00:16:23.469
+Amit Summan: Data set… So that's what,
+
+122
+00:16:24.360 --> 00:16:29.900
+Amit Summan: Anderson and these two, studies by Colley and colleagues use.
+
+123
+00:16:30.240 --> 00:16:36.920
+Amit Summan: And basically, they see, anderson sees a slight decrease in,
+
+124
+00:16:37.210 --> 00:16:44.420
+Amit Summan: And cannabis, prevalence, 1.4 percentage points. No change when using.
+
+125
+00:16:44.530 --> 00:16:49.530
+Amit Summan: the national Yrps. Kali looks at
+
+126
+00:16:50.190 --> 00:16:56.389
+Amit Summan: Looks at both intensity and prevalence, and sees, a decrease
+
+127
+00:16:56.570 --> 00:17:04.200
+Amit Summan: In intensity, no change in prevalence, and then also sees a decrease in our latest study of
+
+128
+00:17:04.339 --> 00:17:08.569
+Amit Summan: The latest study of e-cigarettes use.
+
+129
+00:17:09.470 --> 00:17:16.299
+Amit Summan: In a study just a couple of years before that, they actually see an increase In e-cigarette use.
+
+130
+00:17:16.720 --> 00:17:20.669
+Amit Summan: Then there are all these NASDAQ studies, so both of these studies
+
+131
+00:17:21.230 --> 00:17:25.620
+Amit Summan: By Anderson colleague, they also include the COVID,
+
+132
+00:17:26.040 --> 00:17:29.759
+Amit Summan: A COVID period, where BS wave.
+
+133
+00:17:30.190 --> 00:17:36.250
+Amit Summan: Then these NASDAQ studies, they're a bit earlier, pre-COVID.
+
+134
+00:17:37.060 --> 00:17:40.909
+Amit Summan: And, they seem to find,
+
+135
+00:17:42.090 --> 00:17:49.369
+Amit Summan: No change, all the way from no change to, you know, one study finding a slight increase
+
+136
+00:17:49.700 --> 00:17:53.710
+Amit Summan: And they mostly focus on,
+
+137
+00:17:54.340 --> 00:18:02.260
+Amit Summan: On cannabis here, the only study that looks at Tobacco is,
+
+138
+00:18:02.530 --> 00:18:09.550
+Amit Summan: The last study in that first panel there by Wenberger, which shows a decrease in.
+
+139
+00:18:09.720 --> 00:18:19.210
+Amit Summan: Cigarette prevalence, and and also co-use between cigarettes and, and, cannabis.
+
+140
+00:18:19.550 --> 00:18:27.079
+Amit Summan: This… there's a few of these… so, a few of these studies have also included some sort of retail.
+
+141
+00:18:27.640 --> 00:18:28.970
+Amit Summan: Indicator?
+
+142
+00:18:29.310 --> 00:18:41.130
+Amit Summan: on top of on top of Rcl. And they tend to show a decrease in prevalence.
+
+143
+00:18:42.830 --> 00:18:51.250
+Amit Summan: The first two studies, then Hollingsworth and colleagues, they find no change.
+
+144
+00:18:51.720 --> 00:18:53.150
+Amit Summan: And
+
+145
+00:18:53.540 --> 00:18:56.960
+Amit Summan: And then the one increase is,
+
+146
+00:18:57.880 --> 00:19:00.860
+Amit Summan: is the NASDAQ study, which finds,
+
+147
+00:19:01.040 --> 00:19:05.210
+Amit Summan: 1.5 to 1.9 percentage point increase.
+
+148
+00:19:05.470 --> 00:19:12.360
+Amit Summan: If we look at meta-analyses which include, you know, which would include these state valuations and some
+
+149
+00:19:12.630 --> 00:19:23.620
+Amit Summan: Associational studies, there's, there's a slight increase after, legalization in cannabis use. Doesn't distinguish between.
+
+150
+00:19:24.260 --> 00:19:29.150
+Amit Summan: retail in these different environments. So, a policymaker is, you know.
+
+151
+00:19:29.780 --> 00:19:31.400
+Amit Summan: Policymakers.
+
+152
+00:19:32.700 --> 00:19:40.550
+Amit Summan: looking at these studies, and basically they want to know, well, should we legalize? What's going to be the effect of legalization?
+
+153
+00:19:40.660 --> 00:19:44.790
+Amit Summan: Should we implement retail? What's going to be the effect on retail?
+
+154
+00:19:45.690 --> 00:19:50.060
+Amit Summan: And what's the ideal gap?
+
+155
+00:19:50.220 --> 00:19:54.529
+Amit Summan: And that's not very clear amongst all these studies.
+
+156
+00:19:54.730 --> 00:20:01.380
+Amit Summan: You know, what the distinct policy effects are of these decisions.
+
+157
+00:20:04.740 --> 00:20:07.979
+Amit Summan: So basically, what we do is,
+
+158
+00:20:08.840 --> 00:20:17.299
+Amit Summan: We asked this question, what is the effect of cannabis legalization and sales, but what's also the effect of.
+
+159
+00:20:17.610 --> 00:20:18.860
+Amit Summan: Of the gap.
+
+160
+00:20:19.400 --> 00:20:26.199
+Amit Summan: Does… Does the gap matter? And also,
+
+161
+00:20:27.150 --> 00:20:34.380
+Amit Summan: Were the effects spillover effects on cigarettes, e-cigarettes and potential co-use and polysubstance use?
+
+162
+00:20:35.770 --> 00:20:39.760
+Amit Summan: A third thing we look at is also intensity.
+
+163
+00:20:44.550 --> 00:20:48.609
+Amit Summan: So, as I mentioned, to the contributions here.
+
+164
+00:20:48.740 --> 00:20:57.400
+Amit Summan: Is one, being very clear about, what the effects are of these distinct policy windows.
+
+165
+00:20:57.600 --> 00:21:02.329
+Amit Summan: What's the effect of, a fast rollout?
+
+166
+00:21:03.750 --> 00:21:14.980
+Amit Summan: And, you know, in the future, we were looking at, what the effects are with this slow rollout, so it's future work with, the 2025 wave.
+
+167
+00:21:15.820 --> 00:21:23.300
+Amit Summan: And then also, were the effects by, subgroup, and then…
+
+168
+00:21:23.480 --> 00:21:34.520
+Amit Summan: Another contribution is the data extension, which allows for data post-COVID, and also.
+
+169
+00:21:34.780 --> 00:21:40.740
+Amit Summan: second, a second post-retail wave, for Illinois and Michigan.
+
+170
+00:21:45.210 --> 00:21:49.609
+Amit Summan: So the data we use is the YRBS data.
+
+171
+00:21:50.160 --> 00:21:58.090
+Amit Summan: This is a survey that's conducted in high schools.
+
+172
+00:21:58.360 --> 00:22:08.399
+Amit Summan: The way we construct this data, so, basically each, each wave there's a combined, combined data set that's,
+
+173
+00:22:08.670 --> 00:22:23.690
+Amit Summan: That's published and available and that combined data set has historical data, but the historical data may vary from year to year. So basically we construct this by.
+
+174
+00:22:25.030 --> 00:22:30.240
+Amit Summan: Allowing for the maximum number of state wave observations.
+
+175
+00:22:30.610 --> 00:22:38.269
+Amit Summan: From the 2011 to 2023 paper, 2023, period.
+
+176
+00:22:38.500 --> 00:22:44.990
+Amit Summan: So this results in 46 states, 1.1 million, High school students.
+
+177
+00:22:45.140 --> 00:22:56.160
+Amit Summan: So it's conducted every spring, winter semester from January to June. In the COVID period, it was
+
+178
+00:22:56.540 --> 00:23:00.299
+Amit Summan: conducted in, in the fall semester.
+
+179
+00:23:00.780 --> 00:23:07.229
+Amit Summan: And it's unbalanced. Unfortunately, in 2023, there was a drop in,
+
+180
+00:23:07.560 --> 00:23:10.749
+Amit Summan: And the number of states that, that participated.
+
+181
+00:23:10.990 --> 00:23:12.649
+Amit Summan: In this data set.
+
+182
+00:23:13.840 --> 00:23:21.159
+Amit Summan: The 20… 2015 was the first year that they included, The e-cigarette question.
+
+183
+00:23:23.670 --> 00:23:27.340
+Amit Summan: So, how can we look at cannabis, cigarettes.
+
+184
+00:23:27.910 --> 00:23:32.570
+Amit Summan: E-cigarettes, so this is past 30-day, use.
+
+185
+00:23:34.020 --> 00:23:35.089
+Amit Summan: And then.
+
+186
+00:23:35.520 --> 00:23:42.830
+Amit Summan: I hope this is not confusing, so we have tool use, which is cannabis and cigarettes, so that's… so we can have a longer,
+
+187
+00:23:43.700 --> 00:23:47.769
+Amit Summan: A longer period of study, and because 2015
+
+188
+00:23:48.010 --> 00:23:53.139
+Amit Summan: is when e-cigarettes were allowed, we have a polysubstance
+
+189
+00:23:53.300 --> 00:23:56.049
+Amit Summan: Use indicator, which is,
+
+190
+00:23:56.240 --> 00:24:02.030
+Amit Summan: 2 or more of cannabis, e-cigarettes and cigarettes. Additionally, we look at intensity.
+
+191
+00:24:02.630 --> 00:24:04.069
+Amit Summan: Which is defined as?
+
+192
+00:24:04.240 --> 00:24:13.279
+Amit Summan: Greater than 20 days of use of cigarettes or e-cigarettes in the past 30 days, greater than 20 times for cannabis.
+
+193
+00:24:13.610 --> 00:24:17.469
+Amit Summan: So basically, the YRBS
+
+194
+00:24:17.590 --> 00:24:22.970
+Amit Summan: That's the number of days of use in the past 30 days for cigarettes and e-cigarettes.
+
+195
+00:24:23.190 --> 00:24:27.920
+Amit Summan: But for some reason they have for cannabis they have
+
+196
+00:24:28.740 --> 00:24:32.110
+Amit Summan: Only the number of times within the past 30 days.
+
+197
+00:24:32.470 --> 00:24:36.140
+Amit Summan: And the the.
+
+198
+00:24:36.680 --> 00:24:54.840
+Amit Summan: it's 20 to 40 times is the second highest category, and then the highest category is greater than 40 times. So our daily, cannabis is, is actually more than daily, 40 times… greater than 40 times in the past 30 days, and then for cigarettes and e-cigarettes, it's.
+
+199
+00:24:55.280 --> 00:24:57.749
+Amit Summan: It's, every single day.
+
+200
+00:25:03.020 --> 00:25:13.780
+Amit Summan: So… There's, three ways… Actually four ways that we code our Trient variable.
+
+201
+00:25:14.080 --> 00:25:22.179
+Amit Summan: So one is what we call the just Rcl, which is basically
+
+202
+00:25:22.460 --> 00:25:34.779
+Amit Summan: You're… it's equal to zero before legalization, and then it switches on once you legalize, but once you, have retail sales, you leave the sample.
+
+203
+00:25:35.040 --> 00:25:45.690
+Amit Summan: Then you have RCL+, which is pretty much how these other studies have, the conventional kind of treatment, which is
+
+204
+00:25:46.000 --> 00:25:55.110
+Amit Summan: Once you legalize, you're assigned as treated, and it doesn't matter what happens after that.
+
+205
+00:25:55.430 --> 00:26:02.500
+Amit Summan: Then the additional, Treatment we look at is,
+
+206
+00:26:02.740 --> 00:26:11.380
+Amit Summan: What we call rapid recreational cannabis retail, and that's defined.
+
+207
+00:26:11.550 --> 00:26:20.450
+Amit Summan: principally is, as… Legalize retail sales within 18 months of legalization.
+
+208
+00:26:21.050 --> 00:26:24.879
+Amit Summan: And then you, of course, may have a slow retail state.
+
+209
+00:26:25.260 --> 00:26:37.550
+Amit Summan: Which we don't look at here, just because there are very few states that, that have that, but we plan on looking at that, once we use the 2025, YRBS.
+
+210
+00:26:38.080 --> 00:26:43.340
+Amit Summan: Data, which is Basically,
+
+211
+00:26:43.530 --> 00:26:47.259
+Amit Summan: I guess greater than 18 months for the, for the,
+
+212
+00:26:48.160 --> 00:26:52.899
+Amit Summan: For the main kind of RSCR measure we're looking at.
+
+213
+00:26:54.970 --> 00:26:58.569
+Amit Summan: There's… Yeah, fourth,
+
+214
+00:26:58.790 --> 00:27:07.929
+Amit Summan: measure we look at where we have RCR, but the previous wave is… has a legal baseline. So, based… depending on
+
+215
+00:27:08.210 --> 00:27:20.829
+Amit Summan: when the… the state, allowed for retail sales, and when they legalized relative to, when the YRBS wave was, was conducted.
+
+216
+00:27:21.540 --> 00:27:34.729
+Amit Summan: There… there might be some pre-waves that have prohibition, some pre-waves that have, legalization, so that's a separate, kind of treatment that we…
+
+217
+00:27:35.070 --> 00:27:36.440
+Amit Summan: Look at.
+
+218
+00:27:42.200 --> 00:27:50.550
+Amit Summan: So… These are the different, states in our YRPS data, so there are 9 states.
+
+219
+00:27:51.300 --> 00:27:53.259
+Amit Summan: That are included in our…
+
+220
+00:27:53.450 --> 00:28:00.470
+Amit Summan: Main analysis, Colorado drops out because it doesn't have a pre-wave.
+
+221
+00:28:06.560 --> 00:28:10.770
+Amit Summan: So, the… The estimator we start with is,
+
+222
+00:28:11.380 --> 00:28:13.750
+Amit Summan: It is commonly used in, in…
+
+223
+00:28:14.790 --> 00:28:18.560
+Amit Summan: In the past literature is, the…
+
+224
+00:28:19.600 --> 00:28:29.190
+Amit Summan: Two-way fixed effects difference-in-difference model, where the outcome is, Past 30-day prevalence.
+
+225
+00:28:30.100 --> 00:28:39.960
+Amit Summan: those 5 outcomes that I mentioned in the previous slide by state and wave, and that the Policy indicator…
+
+226
+00:28:40.180 --> 00:28:49.619
+Amit Summan: He's going to be one of those three, policies in, treated state waves,
+
+227
+00:28:49.810 --> 00:28:53.769
+Amit Summan: And then the covariates we use, they're…
+
+228
+00:28:54.030 --> 00:29:05.140
+Amit Summan: Pretty, standard, so we actually build on On, on colleagues, controls… so there's a…
+
+229
+00:29:05.860 --> 00:29:11.680
+Amit Summan: Tobacco and e-cigarette controls, cigarette excise tax, e-cigarette excise tax.
+
+230
+00:29:11.860 --> 00:29:15.290
+Amit Summan: Smoke-free laws for cigarettes and e-cigarettes.
+
+231
+00:29:15.530 --> 00:29:21.410
+Amit Summan: Flavored e-cigarette bans, Tobacco 21 laws, PR excise tax.
+
+232
+00:29:23.050 --> 00:29:30.059
+Amit Summan: Medical cannabis laws, cannabis decriminalization dummies.
+
+233
+00:29:30.490 --> 00:29:35.690
+Amit Summan: And then also a COVID activity limitations index.
+
+234
+00:29:36.140 --> 00:29:42.730
+Amit Summan: Only for 2021, and then also, the unemployment rate. So.
+
+235
+00:29:43.000 --> 00:29:47.649
+Amit Summan: The additional controls we add on top of,
+
+236
+00:29:48.740 --> 00:29:53.369
+Amit Summan: Cauli studies are the, flavor restrictions.
+
+237
+00:29:53.600 --> 00:29:57.489
+Amit Summan: Along with the harmonized e-cigarette tax.
+
+238
+00:29:57.940 --> 00:30:15.419
+Amit Summan: And then also the COVID, activity limitation. So we have clustered standard errors, so we present these models with clustered standard errors, and then, also with wild cluster bootstrap p-values, given the small number of,
+
+239
+00:30:16.500 --> 00:30:18.399
+Amit Summan: The treated clusters we have here.
+
+240
+00:30:23.580 --> 00:30:33.480
+Amit Summan: So our main model, so that first model is to see how we compare with previous literature.
+
+241
+00:30:33.800 --> 00:30:41.490
+Amit Summan: But our main model is the staggered difference-in-difference model from CALAWEE and Santa Ana.
+
+242
+00:30:42.610 --> 00:30:46.810
+Amit Summan: So, as we know that, two-way fix effects.
+
+243
+00:30:46.910 --> 00:30:52.419
+Amit Summan: Might not be ideal, when there is staggered
+
+244
+00:30:52.670 --> 00:31:01.509
+Amit Summan: Adoption of a policy, you may have bad comparisons, you may compare.
+
+245
+00:31:03.660 --> 00:31:06.290
+Amit Summan: Already treated states,
+
+246
+00:31:07.640 --> 00:31:16.479
+Amit Summan: You may compare earlier tree estates with later, sorry, later tree estates with earlier tree estates, and, that may…
+
+247
+00:31:16.700 --> 00:31:21.919
+Amit Summan: Allow for biases in the estimate, negative weights.
+
+248
+00:31:22.450 --> 00:31:29.850
+Amit Summan: And even a potential opposite sign of the actual effect. So, These…
+
+249
+00:31:30.130 --> 00:31:40.189
+Amit Summan: there are a number of staggered DID models that we can use. This is the principal model that we use, is the Callaway-Santana model. Our main
+
+250
+00:31:40.660 --> 00:31:45.850
+Amit Summan: Our main, estimate looks at,
+
+251
+00:31:46.620 --> 00:31:50.660
+Amit Summan: Never treated states as the control.
+
+252
+00:31:51.210 --> 00:31:56.790
+Amit Summan: And, we present both the dynamic effects .
+
+253
+00:31:57.600 --> 00:32:03.779
+Amit Summan: And the average effects over time. There are no covariates.
+
+254
+00:32:04.220 --> 00:32:12.470
+Amit Summan: Used in these models, as is typical, but we also have a sensitivity analysis where we include some covariates.
+
+255
+00:32:12.620 --> 00:32:16.620
+Amit Summan: That might be fixed, before…
+
+256
+00:32:17.410 --> 00:32:24.050
+Amit Summan: Before treatment and won't be affected by, by the actual intervention.
+
+257
+00:32:25.810 --> 00:32:29.600
+Amit Summan: Sorry, I see I might be going a bit over in this first section.
+
+258
+00:32:30.160 --> 00:32:34.060
+Amit Summan: But… I'll try to finish my methods.
+
+259
+00:32:35.020 --> 00:32:44.030
+Amit Summan: So the key identifying assumption is parallel trends that Absent, the policy,
+
+260
+00:32:44.150 --> 00:32:49.590
+Amit Summan: Trends in use between treated and never treated states.
+
+261
+00:32:51.200 --> 00:32:54.580
+Amit Summan: Would have moved in parallel, so we test this.
+
+262
+00:32:54.710 --> 00:32:59.490
+Amit Summan: And with event study plots looking at single-year violations.
+
+263
+00:32:59.990 --> 00:33:10.189
+Amit Summan: Before the treatment, single year differences in treated and control states. And then
+
+264
+00:33:10.510 --> 00:33:14.290
+Amit Summan: We also do this joint test.
+
+265
+00:33:14.580 --> 00:33:18.720
+Amit Summan: To make sure that we're not missing anything from the,
+
+266
+00:33:19.370 --> 00:33:24.700
+Amit Summan: That the, the single year violations may may miss.
+
+267
+00:33:25.800 --> 00:33:28.889
+Amit Summan: And the other assumption is no anticipation.
+
+268
+00:33:30.390 --> 00:33:37.069
+Amit Summan: Before… before the, before the policy is actually implemented.
+
+269
+00:33:39.720 --> 00:33:44.069
+Amit Summan: So sub-sample analysis we do is, we look at effects by
+
+270
+00:33:44.490 --> 00:33:54.590
+Amit Summan: By sex, by age group, 14, 16, and 17 to 18 plus, by ethnicity and race, so white, black, and
+
+271
+00:33:54.720 --> 00:33:58.869
+Amit Summan: Hispanic or Latino group subsamples.
+
+272
+00:33:59.300 --> 00:34:04.940
+Amit Summan: And we drop any subsamples that are based on less than 50 respondents.
+
+273
+00:34:05.460 --> 00:34:14.309
+Amit Summan: For intensity, I mentioned the different intensity outcomes. We do those for Each subsample as well.
+
+274
+00:34:14.580 --> 00:34:17.969
+Amit Summan: I sent in sensitivity analysis. We also look at.
+
+275
+00:34:18.330 --> 00:34:24.579
+Amit Summan: The, gap… changed the gap from 18 months to 12 and 24 months.
+
+276
+00:34:24.920 --> 00:34:35.990
+Amit Summan: We also look at… Not yet treated as a control, changing from treated. We dropped 2023.
+
+277
+00:34:36.210 --> 00:34:38.320
+Amit Summan: And.
+
+278
+00:34:38.530 --> 00:34:49.049
+Amit Summan: the 2023 wave, just to see how we compare with, previous studies, and also because 2023 has, much fewer states included in it.
+
+279
+00:34:49.590 --> 00:34:55.049
+Amit Summan: Then we also look at the effects of including controls in the Galois-Santana models.
+
+280
+00:34:55.350 --> 00:35:02.210
+Amit Summan: And then we also do stack DID, and also leave one
+
+281
+00:35:03.030 --> 00:35:05.959
+Amit Summan: Out analysis, dropping each treated state.
+
+282
+00:35:06.650 --> 00:35:09.920
+Amit Summan: Sorry, I think I went a bit long there,
+
+283
+00:35:10.800 --> 00:35:17.249
+Amit Summan: But… I'll take any questions or any comments so far.
+
+284
+00:35:17.430 --> 00:35:30.169
+Michael Darden: So let's introduce our discussant. So today we're going to have Dr. Sarah Stith, who's an associate professor of economics from the University of New Mexico. She has researched
+
+285
+00:35:30.170 --> 00:35:40.790
+Michael Darden: cannabis for more than a decade, including work on state and local cannabis policies and substitution between cannabis and conventional medications. So, Dr. Stith, any comments so far?
+
+286
+00:35:41.220 --> 00:35:53.679
+Sarah Stith: Just, this has been great, really interesting work. I have sort of broader comments that I think are best left for the end, so I think I'll let Amit go ahead and continue with this interesting work.
+
+287
+00:35:55.010 --> 00:36:05.539
+Michael Darden: Great. I think in the interest of time, we'll do that, so let's try to get the results in the next 10 or so minutes. So, Dr. Suman, take it away.
+
+288
+00:36:06.870 --> 00:36:07.599
+Amit Summan: Thank you.
+
+289
+00:36:17.480 --> 00:36:32.409
+Amit Summan: Okay, in the, YRBS data in our study period, we see a general decrease in.
+
+290
+00:36:33.580 --> 00:36:48.400
+Amit Summan: Cannabis use, with… The difference between, so, it seems like… These RCR, states are tracking.
+
+291
+00:36:48.590 --> 00:36:57.659
+Amit Summan: Never legalized states, pretty well here. There is, higher cannabis
+
+292
+00:36:57.810 --> 00:37:02.779
+Amit Summan: use in these States, but the trends seem pretty similar. Cigarettes.
+
+293
+00:37:03.050 --> 00:37:10.559
+Amit Summan: It's the case for most of these substances, and also our, polysubstance and dual use.
+
+294
+00:37:12.230 --> 00:37:17.899
+Amit Summan: Outcomes, trends seem pretty similar, and
+
+295
+00:37:18.520 --> 00:37:23.840
+Amit Summan: And we see decreases in cannabis and cigarettes, as I mentioned.
+
+296
+00:37:24.050 --> 00:37:29.930
+Amit Summan: Also, a potential leveling off of the e-cigarettes after the peak.
+
+297
+00:37:33.940 --> 00:37:40.010
+Amit Summan: getting to the… results… So, over here,
+
+298
+00:37:42.050 --> 00:37:49.000
+Amit Summan: The first two columns present, the,
+
+299
+00:37:50.560 --> 00:37:59.539
+Amit Summan: two-way fixed effects, results. The first, parentheses is the standard error, and the second parentheses has the.
+
+300
+00:38:00.170 --> 00:38:03.920
+Amit Summan: the wild bootstrap p-values.
+
+301
+00:38:04.770 --> 00:38:12.129
+Amit Summan: So we see nothing significant for two-way fixed effects models.
+
+302
+00:38:12.820 --> 00:38:17.280
+Amit Summan: When it comes to the Callaway Santana, the great.
+
+303
+00:38:18.740 --> 00:38:29.269
+Amit Summan: The grayed out text there, that means that it did not pass, past parallel pretense.
+
+304
+00:38:32.130 --> 00:38:35.680
+Amit Summan: So… Basically, the only…
+
+305
+00:38:36.120 --> 00:38:43.679
+Amit Summan: The only significant effect we find that passes pre-trends is RCR, and we see that there's.
+
+306
+00:38:43.820 --> 00:38:46.839
+Amit Summan: A decrease about, 10%.
+
+307
+00:38:47.460 --> 00:38:53.609
+Amit Summan: In, in… Prevalence of past 30-day cannabis use.
+
+308
+00:38:53.820 --> 00:39:01.900
+Amit Summan: When we use both the never treated and then not yet treated states as,
+
+309
+00:39:02.110 --> 00:39:03.270
+Amit Summan: Pest control.
+
+310
+00:39:03.710 --> 00:39:07.949
+Amit Summan: For RCL Plus, there is,
+
+311
+00:39:08.350 --> 00:39:12.640
+Amit Summan: There's a decrease, but pretense are not satisfied.
+
+312
+00:39:24.370 --> 00:39:27.349
+Amit Summan: So, if we're looking at the other substances.
+
+313
+00:39:27.940 --> 00:39:35.030
+Amit Summan: We see no effect, and, and, and, unfortunately,
+
+314
+00:39:36.360 --> 00:39:40.949
+Amit Summan: Free Trends is not satisfied for the RCL and RCL plus.
+
+315
+00:39:41.190 --> 00:39:51.550
+Amit Summan: Estimates for… For, most substances. For RSCR, it is, and there's… but there's no… no significant effect.
+
+316
+00:39:52.890 --> 00:40:02.590
+Amit Summan: I also introduced the RCR, and we limit that to, states that have a legal baseline,
+
+317
+00:40:03.190 --> 00:40:09.400
+Amit Summan: Rather than states that have prohibition. So those are 6 of the 9 states.
+
+318
+00:40:09.620 --> 00:40:14.620
+Amit Summan: And, we do see significant effects, but there's no,
+
+319
+00:40:14.910 --> 00:40:17.540
+Amit Summan: But they don't sell… satisfy pre-trends there.
+
+320
+00:40:22.440 --> 00:40:26.960
+Amit Summan: Are these, sensitive to the… to the gap that we use?
+
+321
+00:40:29.440 --> 00:40:42.169
+Amit Summan: So, the cannabis result is, is, is robust to changing the gap to 12 months and, 24 months. Nothing changes for, the other states.
+
+322
+00:40:43.130 --> 00:40:46.149
+Amit Summan: And then I also changed.
+
+323
+00:40:47.180 --> 00:40:50.480
+Amit Summan: Look at the RCR legal baseline.
+
+324
+00:40:50.840 --> 00:40:57.669
+Amit Summan: Group, and what's interesting there is, so there is…
+
+325
+00:40:58.180 --> 00:41:02.159
+Amit Summan: A decrease found for e-cigarettes for this group.
+
+326
+00:41:04.240 --> 00:41:12.680
+Amit Summan: For 18 months, but the pre-trends are not satisfied, but for the 24-month period, pre-trends are satisfied and it's significant.
+
+327
+00:41:12.920 --> 00:41:14.599
+Amit Summan: There's a decrease as well.
+
+328
+00:41:20.940 --> 00:41:25.489
+Amit Summan: So, these are the event study plots here.
+
+329
+00:41:26.890 --> 00:41:31.059
+Amit Summan: And you can basically see what I mentioned previously.
+
+330
+00:41:31.870 --> 00:41:36.099
+Amit Summan: with RCL plus not satisfying pretense.
+
+331
+00:41:38.610 --> 00:41:46.559
+Amit Summan: There's, if we're talking about dynamic effects, there seems to be… these are very short-term effects,
+
+332
+00:41:47.400 --> 00:41:56.410
+Amit Summan: And hopefully with the 2025 wave, we'll see the effects, you know, four years out and then also eight years out for RCL+.
+
+333
+00:41:56.760 --> 00:42:06.890
+Amit Summan: But there is some indication that these effects may grow, pro over time for RCR.
+
+334
+00:42:11.940 --> 00:42:18.720
+Amit Summan: So this is offense site plots for RCR for all the five outcomes.
+
+335
+00:42:20.650 --> 00:42:24.620
+Amit Summan: But of course, only cannabis has a significant effect.
+
+336
+00:42:31.950 --> 00:42:36.020
+Amit Summan: So this is some sensitivity analysis with.
+
+337
+00:42:36.180 --> 00:42:43.199
+Amit Summan: The stacked, DID, so we… We look at,
+
+338
+00:42:43.540 --> 00:42:49.980
+Amit Summan: The effect from legal… from legalization From prohibition to legalization?
+
+339
+00:42:50.250 --> 00:42:53.250
+Amit Summan: And find no significant effect, but if we look at
+
+340
+00:42:53.390 --> 00:43:00.710
+Amit Summan: So this is somewhat comparable to, to the RCR.
+
+341
+00:43:01.950 --> 00:43:09.050
+Amit Summan: There's a slightly, higher Average effect there with,
+
+342
+00:43:09.190 --> 00:43:13.869
+Amit Summan: with the DID, but mostly the stack DID, but it's mostly consistent.
+
+343
+00:43:24.710 --> 00:43:26.849
+Amit Summan: I'm sorry, I'm just going to…
+
+344
+00:43:26.980 --> 00:43:32.180
+Amit Summan: It looks like my thing just unplugged there. Just give me one second, please.
+
+345
+00:43:55.800 --> 00:43:59.399
+Amit Summan: Sorry, that extension cord's very unreliable.
+
+346
+00:44:02.430 --> 00:44:03.920
+Amit Summan: Stack DID.
+
+347
+00:44:05.180 --> 00:44:10.620
+Amit Summan: What's interesting is we actually find significant effects here.
+
+348
+00:44:10.800 --> 00:44:22.950
+Amit Summan: Significant reductions for, for multiple substances, for e-cigarettes,
+
+349
+00:44:23.380 --> 00:44:26.769
+Amit Summan: And the dual use, which is not surprising,
+
+350
+00:44:27.370 --> 00:44:31.020
+Amit Summan: If, both cannabis and e-cigarettes are,
+
+351
+00:44:31.590 --> 00:44:37.560
+Amit Summan: We're decreasing, and then even the polysubstance use can be driven by the decline there.
+
+352
+00:44:37.780 --> 00:44:39.660
+Amit Summan: With, e-cigarettes.
+
+353
+00:44:47.700 --> 00:44:54.420
+Amit Summan: With Leaf One analysis, you're dropping each of the treated states?
+
+354
+00:44:54.960 --> 00:44:56.740
+Amit Summan: For 3 states.
+
+355
+00:44:56.900 --> 00:45:03.380
+Amit Summan: The results, I mean, there are so few treated states here, but you can see that,
+
+356
+00:45:03.770 --> 00:45:14.250
+Amit Summan: For three of the states, the results become marginally significant. I guess when Michigan's out, they don't quite reach that marginally significant.
+
+357
+00:45:14.850 --> 00:45:25.549
+Amit Summan: And value, but this is the sensitivity of the results to, this analysis here.
+
+358
+00:45:35.120 --> 00:45:46.759
+Amit Summan: So there's nothing when we look at, the sex subsamples, you know, the coefficients are.
+
+359
+00:45:47.460 --> 00:45:57.919
+Amit Summan: We're all, the same direction, but, we only find significance for, for the male students.
+
+360
+00:45:58.040 --> 00:46:01.770
+Amit Summan: When it comes to,
+
+361
+00:46:02.390 --> 00:46:11.239
+Amit Summan: when it comes to cannabis decreases. So they're possibly driving some of the you know, the the main cannabis results here.
+
+362
+00:46:11.670 --> 00:46:16.650
+Amit Summan: With females, it's marginally significant.
+
+363
+00:46:18.240 --> 00:46:21.289
+Amit Summan: Since we've got the 10% level.
+
+364
+00:46:25.800 --> 00:46:34.480
+Amit Summan: For subgroups, what we see is that, it's the younger students and.
+
+365
+00:46:34.840 --> 00:46:39.139
+Amit Summan: White students that, that seem to be,
+
+366
+00:46:39.690 --> 00:46:44.730
+Amit Summan: Potentially driving some of these decreases in use.
+
+367
+00:46:47.210 --> 00:46:48.480
+Amit Summan: For cannabis.
+
+368
+00:46:50.790 --> 00:47:00.640
+Amit Summan: For intensity, we don't find any significant effects for intensity for any of the treatments that we explore.
+
+369
+00:47:04.070 --> 00:47:11.080
+Amit Summan: And then finally, we do subgroup analysis by… We do intensity by subgroup.
+
+370
+00:47:11.310 --> 00:47:20.239
+Amit Summan: Over here, I've only included… so there are different ways to do this. So basically, I just had, you know.
+
+371
+00:47:20.520 --> 00:47:29.810
+Amit Summan: My kind of decision rule for just including results here was, was,
+
+372
+00:47:30.450 --> 00:47:40.689
+Amit Summan: Significance at, 18 months, and then also, significance at,
+
+373
+00:47:41.090 --> 00:47:52.559
+Amit Summan: in one of the other gap periods, so either 12 months or 24 months. If it was only significant, you know, at 12 months or 24 months, I did not show those results.
+
+374
+00:47:52.810 --> 00:47:59.659
+Amit Summan: Also, if the results rest on Fewer than 4 states.
+
+375
+00:48:00.270 --> 00:48:08.000
+Amit Summan: I didn't show those results here. So Given…
+
+376
+00:48:08.420 --> 00:48:13.850
+Amit Summan: Yeah, just because there are so many subgroups and intensities we're looking at and substances.
+
+377
+00:48:16.140 --> 00:48:25.050
+Amit Summan: Given those qualifications, these are the subgroup intensity results we find.
+
+378
+00:48:25.240 --> 00:48:29.490
+Amit Summan: No change in prevalence but potentially.
+
+379
+00:48:29.900 --> 00:48:36.259
+Amit Summan: increases in, in frequency of use amongst,
+
+380
+00:48:36.910 --> 00:48:38.880
+Amit Summan: Hispanic students?
+
+381
+00:48:39.560 --> 00:48:45.449
+Amit Summan: For cannabis and then also there's a decrease in,
+
+382
+00:48:47.620 --> 00:48:54.000
+Amit Summan: In taping frequency by, by students who keep vaping.
+
+383
+00:48:54.870 --> 00:49:01.429
+Amit Summan: And no decrease found for prevalence in, of, of use.
+
+384
+00:49:02.870 --> 00:49:10.859
+Amit Summan: Amongst, students who keep vaping, or sorry, amongst all students, but amongst students who keep vaping, there's a… there's a…
+
+385
+00:49:11.260 --> 00:49:17.190
+Amit Summan: Sorry, who keep using cannabis, there's a decrease in heavy use.
+
+386
+00:49:22.930 --> 00:49:28.590
+Amit Summan: So… What we basically find is that,
+
+387
+00:49:29.370 --> 00:49:33.330
+Amit Summan: The decrease is coming at the,
+
+388
+00:49:34.390 --> 00:49:41.500
+Amit Summan: At the retail, step, there's nothing happening, really, when it comes to legalization.
+
+389
+00:49:41.980 --> 00:49:48.040
+Amit Summan: At least in this analysis, but there's a decrease .
+
+390
+00:49:48.470 --> 00:49:55.340
+Amit Summan: For states who rapidly, implement retail, after legalization.
+
+391
+00:49:55.650 --> 00:49:57.320
+Amit Summan: About a 10%.
+
+392
+00:49:57.490 --> 00:50:06.529
+Amit Summan: Decrease in use… There isn't robust evidence of of,
+
+393
+00:50:06.750 --> 00:50:14.359
+Amit Summan: Changes in tobacco, but there is some weak evidence that e-cigarette use is decreasing.
+
+394
+00:50:14.730 --> 00:50:16.979
+Amit Summan: And there are also changes in,
+
+395
+00:50:17.660 --> 00:50:22.490
+Amit Summan: In dual and polysubstance use, so decreases.
+
+396
+00:50:22.620 --> 00:50:32.160
+Amit Summan: For subsample groups, There might be some indication that the effects are concentrated amongst males.
+
+397
+00:50:32.300 --> 00:50:36.880
+Amit Summan: And younger and white students.
+
+398
+00:50:39.300 --> 00:50:49.770
+Amit Summan: The… Change in intensity of use in Hispanic students might be alarming, but There isn't,
+
+399
+00:50:50.380 --> 00:50:52.890
+Amit Summan: A lot of changes seen in,
+
+400
+00:50:53.330 --> 00:50:56.679
+Amit Summan: In the intensity of, of use generally.
+
+401
+00:51:02.210 --> 00:51:10.100
+Michael Darden: So why don't we… why don't we go to our, thank you, Dr. Suman. Why don't we go to Dr. Stith to get us, have some comments?
+
+402
+00:51:11.410 --> 00:51:36.410
+Sarah Stith: Thank you so much, Amit. This was really interesting. You know, it's an interesting research question with counterintuitive findings. We see this increase in access to cannabis, and then for some reason, the youth are reducing use. And I think this… and I think that your treatment measure is really a very interesting step towards trying to deal with the issue of how do we measure cannabis legalization, because to me, this is a long, sort of continuous process that starts off
+
+403
+00:51:36.410 --> 00:51:49.859
+Sarah Stith: With decriminalization, it works through this whole medical legalization system into the rec legalization. There are all sorts of different characteristics of these laws. And even once the first store opens, how the market evolves from there can vary enormously.
+
+404
+00:51:49.860 --> 00:51:57.320
+Sarah Stith: And so, what I would encourage you to do is to take this idea of the rapid commercialization and try to dig into what
+
+405
+00:51:57.320 --> 00:52:19.739
+Sarah Stith: Specific policy characteristics are driving your different outcomes across these states. So, for example, when I think about different ways that cannabis legalization and the rollout of stores gets delayed from my own experience with these laws, is that one, you get efforts by the legislature, the executive and judicial branches to try to block ballot initiatives passed by citizens.
+
+406
+00:52:19.740 --> 00:52:22.080
+Sarah Stith: And try to prevent these stores from ever opening.
+
+407
+00:52:22.080 --> 00:52:29.149
+Sarah Stith: So in Virginia, the Republican governor just refused to sign the regulations that were needed to set up the retail stores.
+
+408
+00:52:29.150 --> 00:52:44.460
+Sarah Stith: And now they have a Democrat governor, she's agreed to sign it, but she wants to change the tax rate, and so it's all gotten delayed again. Then there are other states where you see a slow rollout, but it has to do with sort of more in the post-store period, so like in Illinois.
+
+409
+00:52:44.460 --> 00:52:57.819
+Sarah Stith: The license fees were something like $60,000 for a dispensary, whereas in New Mexico, for $2,500, you can have a vertically integrated micro-license. And so, in New Mexico, the market opened up and it exploded. There's, like.
+
+410
+00:52:57.820 --> 00:53:04.600
+Sarah Stith: three dispensaries on a block in some places in Albuquerque, whereas in Illinois, the whole south side of Chicago had like one dispensary.
+
+411
+00:53:04.600 --> 00:53:23.339
+Sarah Stith: So there's a really huge differences. And I would encourage you to try to sort of tie it to the youth access. So if we're thinking about, you know, the medical variable, the medical legalization, were, 18 year olds allowed to buy without a chaperon if they had a medical license, for example, the home cultivation components, I think are really important.
+
+412
+00:53:23.340 --> 00:53:47.640
+Sarah Stith: And then I think, you know, there's also issues, too, where sometimes the delays is because the law was really poorly designed. So New York, we saw that no one qualified for the equity licenses. So that delayed everything opening up. And so I just I think this rapid rollout, you're on to something. You're finding different results for these different groups of states. And I would just encourage you to try to dig into sort of what are the components you think are most affecting?
+
+413
+00:53:47.700 --> 00:54:01.060
+Sarah Stith: this youth use, now that you've found there's this negative effect, which is sort of counterintuitive, too. But so let me start off with just that comment on the treatment variable, and then I have some more thoughts, sort of, on the mechanisms, maybe, and kind of where those are going.
+
+414
+00:54:04.160 --> 00:54:06.190
+Amit Summan: Thank you so much.
+
+415
+00:54:06.630 --> 00:54:16.690
+Amit Summan: for your comment, and I've also reviewed some of your work before this talk, and I enjoyed reading some of that.
+
+416
+00:54:17.710 --> 00:54:23.680
+Amit Summan: I think… so I'm hoping, you know, with, so I agree with everything you say.
+
+417
+00:54:23.840 --> 00:54:27.650
+Amit Summan: I'm hoping, you know, as we… as we…
+
+418
+00:54:27.790 --> 00:54:35.299
+Amit Summan: get more data, and perhaps I go into different surveys, and, you know, the 2025 YRBS data, I hope.
+
+419
+00:54:35.470 --> 00:54:40.159
+Amit Summan: You know, a lot of these state-specific, as we get more treated states.
+
+420
+00:54:40.350 --> 00:54:44.240
+Amit Summan: Some of these state specific things that are happening.
+
+421
+00:54:45.230 --> 00:54:52.310
+Amit Summan: kind of average out, but they're very, very important statistically. But they're very, very important.
+
+422
+00:54:54.390 --> 00:55:00.709
+Amit Summan: And I guess, you know, that's stuff that more and more studies now are kind of looking at.
+
+423
+00:55:01.040 --> 00:55:04.949
+Amit Summan: Effects of enforcement.
+
+424
+00:55:05.100 --> 00:55:20.310
+Amit Summan: effects of retail density. That's not something we kind of do here, but I think it's important to look at. So I, you know, I'll see how we can look at some of these other, types of outcomes and kind of look at some of these
+
+425
+00:55:20.580 --> 00:55:23.700
+Amit Summan: These mechanisms.
+
+426
+00:55:23.810 --> 00:55:26.460
+Amit Summan: Because…
+
+427
+00:55:27.090 --> 00:55:44.880
+Amit Summan: Yeah, as you mentioned, the policy pathways and what's happening behind the scenes, beyond that, oh, this state just implemented retail or legalized at this point, there's a lot going on, you know, behind the scenes.
+
+428
+00:55:44.980 --> 00:55:58.219
+Amit Summan: That some of these numbers might hide, and yeah, there's the politics of it, and… and, you know, what's actually happening, and what's… what's the actual, availability.
+
+429
+00:55:59.020 --> 00:56:04.599
+Amit Summan: you know, for youth when it comes to… on the street or wherever, right?
+
+430
+00:56:04.730 --> 00:56:13.370
+Amit Summan: So that's all very interesting, and I want to continue looking at how we can explore those things statistically.
+
+431
+00:56:17.300 --> 00:56:32.370
+Sarah Stith: Amit, I was also thinking that maybe, you know, you could already kind of build off your leave one out analyses you've already done to kind of get an idea of who's driving these effects, and then dig deeper into those states to kind of see what might be the policy levers, rather than just kind of blindly trying to code up a whole bunch of
+
+432
+00:56:32.370 --> 00:56:40.859
+Sarah Stith: stuff. And to be fair, I've talked to two prominent econometricians about this whole issue of how to measure this, and their main response has been, I feel your pain.
+
+433
+00:56:40.860 --> 00:56:41.650
+Sarah Stith: So…
+
+434
+00:56:41.760 --> 00:56:51.569
+Sarah Stith: This is complicated and certainly a difficult econometric question. I'm hoping, actually, I see there's some comments in the Q&A that maybe some of the audience have some good suggestions as well.
+
+435
+00:56:52.590 --> 00:57:05.930
+Michael Darden: Yeah, I mean, I can ask a few of these. So, one is, does your stacked different diff specification include covariates, or does it match the kind of base specification you see with Callaway Santana using no covariates?
+
+436
+00:57:07.000 --> 00:57:11.150
+Amit Summan: It includes covariates and then also the stacked.
+
+437
+00:57:12.870 --> 00:57:14.500
+Amit Summan: DID weights.
+
+438
+00:57:15.240 --> 00:57:17.000
+Amit Summan: From recent literature.
+
+439
+00:57:17.920 --> 00:57:22.369
+Michael Darden: Okay, great. And then, so, like, how should we think about…
+
+440
+00:57:22.440 --> 00:57:40.169
+Michael Darden: some of the adjacent states to RCL states. So, you know, there's a whole literature on kind of cross-border shopping, but in the context of tobacco, but here, it's, like, especially interesting because there might be legal stores across state lines, and Ben Hansen has these great
+
+441
+00:57:40.170 --> 00:57:52.879
+Michael Darden: papers that show that, like, people are willing to commit a felony to drive to another state and bring it back, rather than go to, like, the street corner and buy, decriminalized marijuana. So, how do you think about adjacent states?
+
+442
+00:57:54.920 --> 00:58:09.140
+Amit Summan: Yeah, that's a great point. You know, I guess in in future analysis, we kind of thought about this along with, you know, a number of different things we can do is just dropping out.
+
+443
+00:58:10.420 --> 00:58:22.770
+Amit Summan: states, bordering states that haven't legalized from the control, so perhaps we can look at that, in the future. I do wonder what the effect is, like, is it increasing
+
+444
+00:58:23.460 --> 00:58:25.790
+Amit Summan: You know, is it having,
+
+445
+00:58:25.940 --> 00:58:33.480
+Amit Summan: A different effect on these control states that they're driving over to get… to purchase,
+
+446
+00:58:33.900 --> 00:58:41.820
+Amit Summan: These cannabis products, if that's the case, then that would inflate our, the… the…
+
+447
+00:58:41.980 --> 00:58:48.399
+Amit Summan: the negative, value we have here. So, that would be interesting to check. I'm wondering…
+
+448
+00:58:48.900 --> 00:58:55.510
+Amit Summan: You know, again, I would have to think about the mechanisms a bit, why the control states
+
+449
+00:58:56.120 --> 00:58:59.309
+Amit Summan: Why they would be able to benefit from this, whereas
+
+450
+00:58:59.410 --> 00:59:03.639
+Amit Summan: Those in mistreated states have not.
+
+451
+00:59:03.700 --> 00:59:21.289
+Amit Summan: Maybe their illicit market supply is actually better for them to get, you know, they're not getting ID checked and stuff like that. Maybe that still exists for them, so perhaps it's better for them to stay, but I'm just… you know, this is all conjecture, so that's something I can look at.
+
+452
+00:59:23.570 --> 00:59:36.299
+Michael Darden: Okay, great. I think we're just about out of time, so I want to thank you for your presentation, and thank Dr. Stith for a wonderful discussion, and I will kick it back to Abdullah, who will take us out.
+
+453
+00:59:39.600 --> 00:59:53.510
+Abdullah Dogan: We are out of time. Thank you to our presenter, moderator, and discussant. Finally, thank you to the audience of 128 people for your participation. Have a top-notch weekend!
+
