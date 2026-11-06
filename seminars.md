@@ -229,7 +229,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.Paper }}" download="{{ speaker.Paper }}">Slides</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Transcript }}" download="{{ speaker.Transcript }}">Transcript</a></td>
 
 </tr>
-   {% elsif (speaker.Presenter == 'Bingjin Xue') %}
+   {% elsif (speaker.Presenter == 'Bingjin Xue') or (speaker.Presenter == 'Matthew Farrelly') %}
 <tr>
  <td colspan="2" height="40" valign="top" class="registration">Links: <a href="{{ speaker.Video }}">Video</a>|<a href="{{ speaker.QA }}" download="{{ speaker.QA }}">Q&A</a>|<a href="{{ speaker.Transcript }}" download="{{ speaker.Transcript }}">Transcript</a></td>
 </tr>

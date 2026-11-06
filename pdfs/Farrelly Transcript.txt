@@ -1,0 +1,1438 @@
+WEBVTT
+
+1
+00:00:03.750 --> 00:00:13.339
+Mike Pesko: Welcome to the Tobacco Online Policy Seminar, TOPS. Thank you for joining us today. I'm Mike Pesko, professor of economics at the University of Missouri.
+
+2
+00:00:13.630 --> 00:00:23.690
+Mike Pesko: TOPS is organized by C. Sheng at The Ohio State University, Jamie Hartman-Boyce at the University of Massachusetts Amherst, and Justin White at Boston University.
+
+3
+00:00:24.580 --> 00:00:30.340
+Mike Pesko: Today, we kick off our winter season with a special presentation and Q&A with Dr. Matthew Farrelly.
+
+4
+00:00:30.980 --> 00:00:31.970
+Mike Pesko: Farley.
+
+5
+00:00:32.210 --> 00:00:49.429
+Mike Pesko: Today's event will explore matters of shared interest to the Food and Drug Administration Center for Tobacco Products in the Research Community. Dr. Farrelly has prepared a short presentation, which will be followed by a Q&A session. The moderator will drop from pre-selected questions in conversation with Dr. Farrelly.
+
+6
+00:00:49.650 --> 00:00:52.769
+Mike Pesko: She will also consider questions submitted by the audience.
+
+7
+00:00:52.980 --> 00:01:05.650
+Mike Pesko: Given the nature of today's special presentation, please keep your questions focused on research-related matters of shared interest to the FDA CTP and the broader tobacco research community.
+
+8
+00:01:05.770 --> 00:01:08.809
+Mike Pesko: Please avoid questions unrelated to research.
+
+9
+00:01:09.470 --> 00:01:18.220
+Mike Pesko: This presentation is being video recorded and will be made available along the presentation slides on the TOPS website, TobaccoPolicy.org.
+
+10
+00:01:19.240 --> 00:01:30.690
+Mike Pesko: Our moderator today is Dr. Robin Mermelstein, Distinguished Professor of Psychology and Director of the Institute for Health Research and Policy at the University of Illinois at Chicago. Dr.
+
+11
+00:01:30.690 --> 00:01:49.130
+Mike Pesko: Mermelstein's research has focused on understanding tobacco use, particularly among adolescents and young adults, and on developing interventions to help people quit smoking. She's the past president of the Society for Research on Nicotine and Tobacco, and a former chair of the FDA's Tobacco Products Scientific Advisory Committee.
+
+12
+00:01:49.350 --> 00:02:00.580
+Mike Pesko: More recently, she was the co-recipient of the 2025 Alden Ochsner Award Relating Smoking and Disease, which recognizes major contributions to tobacco research.
+
+13
+00:02:00.780 --> 00:02:04.670
+Mike Pesko: Dr. Mermelstein, thank you for moderating for us today.
+
+14
+00:02:06.530 --> 00:02:08.999
+Robin Mermelstein: Thank you, Mike, for the invitation.
+
+15
+00:02:09.490 --> 00:02:19.690
+Robin Mermelstein: I'm now pleased to introduce Dr. Matthew Farley for his special presentation entitled, Regulatory Science Perspectives from CTP's Office of Science Director.
+
+16
+00:02:19.850 --> 00:02:43.060
+Robin Mermelstein: Dr. Farrelly is an economist specializing in tobacco control and nicotine science. In 2023, he joined the U.S. Food and Drug Administration Center for Tobacco Products to serve as the Director of the Office of Science. In this position, Dr. Farley oversees all aspects of the science related to tobacco products, their use, and the resulting morbidity and mortality
+
+17
+00:02:43.060 --> 00:02:46.760
+Robin Mermelstein: that FDA uses in making regulatory decisions.
+
+18
+00:02:50.260 --> 00:03:03.430
+Robin Mermelstein: Prior to joining the FDA, Dr. Farrelly spent over 26 years at the Nonprofit Research Institute RTI International, where he served as Chief Scientist and Director of the Center for Health Analytics, Media, and Policy.
+
+19
+00:03:03.430 --> 00:03:11.600
+Robin Mermelstein: Over his career, he has secured more than $275 million in research funding, he's published over 120 peer-reviewed articles.
+
+20
+00:03:11.600 --> 00:03:23.459
+Robin Mermelstein: Focusing on the evaluation of tobacco control policies, public health interventions, and mass media campaigns. Dr. Farrelly holds a PhD in economics from the University of Maryland at College Park.
+
+21
+00:03:23.580 --> 00:03:26.629
+Robin Mermelstein: Dr. Farrelly, thank you for joining us today.
+
+22
+00:03:32.770 --> 00:03:33.949
+Matthew Farrelly: Thank you, Robin.
+
+23
+00:03:34.330 --> 00:03:35.850
+Matthew Farrelly: Hello, everyone.
+
+24
+00:03:36.200 --> 00:03:40.699
+Matthew Farrelly: So, to start off today, I want to remind folks
+
+25
+00:03:40.700 --> 00:03:55.090
+Matthew Farrelly: of CTP's unique standard at FDA. Unlike the safe and effective standard for drug review, CTP's regulatory actions are guided by the appropriate for the Protection of Public Health standard.
+
+26
+00:03:55.090 --> 00:04:02.370
+Matthew Farrelly: That calls on us to balance the likelihood that existing tobacco users will stop using tobacco products.
+
+27
+00:04:02.400 --> 00:04:09.550
+Matthew Farrelly: And the likelihood that non-users, such as youth and young adults, will start using tobacco products.
+
+28
+00:04:10.340 --> 00:04:20.720
+Matthew Farrelly: So in the context of pre-market tobacco product applications, or PMTAs that get a lot of attention, for products such as ends, nicotine pouches.
+
+29
+00:04:20.720 --> 00:04:36.669
+Matthew Farrelly: and heated tobacco products. We examined product-specific data on how that product helps users of higher-risk tobacco products switch to lower-risk products and cut back on use of the higher-risk products.
+
+30
+00:04:36.950 --> 00:04:48.000
+Matthew Farrelly: We also must assess the risks of non-users initiating use, which is admittedly more challenging than studying adult smokers switching to a new, lower-risk product.
+
+31
+00:04:48.480 --> 00:05:05.210
+Matthew Farrelly: I emphasize our focus on product-level information, because I know that many of you conduct population-level studies on policies, interventions, and other factors that influence youth initiation and or smokers switching to lower-risk products.
+
+32
+00:05:05.210 --> 00:05:27.160
+Matthew Farrelly: So while CTP and others read the results of such studies with interest, they do not have a direct relevance on product authorizations. That said, they may influence how we approach our decision-making frameworks. For example, what is the role of flavors on smokers switching away from cigarettes to e-cigarettes or ENS products?
+
+33
+00:05:27.950 --> 00:05:38.720
+Matthew Farrelly: So before I discuss how external research informs CTPs work, I want to share a few thoughts on research more broadly in the Office of Science, or OS.
+
+34
+00:05:38.770 --> 00:05:49.099
+Matthew Farrelly: OS funds research through agreements with the FDA's National Center for Toxicological Research and external contractors to fill gaps
+
+35
+00:05:49.100 --> 00:06:10.990
+Matthew Farrelly: with, in the research that informs product review. We also fund a wide array of surveillance and analysis activities that support our regulatory mission. Beyond the National Youth Tobacco Survey and PATH studies, we also work with other parts of FDA to access specialized expertise.
+
+36
+00:06:11.940 --> 00:06:19.650
+Matthew Farrelly: For example, you may have heard recently about an authorization for an ENS product with device access restrictions.
+
+37
+00:06:19.650 --> 00:06:32.820
+Matthew Farrelly: And in that context, we collaborate with those in the Center for Radiological Devices, who can help us with, you know, the technical aspects of those types of things.
+
+38
+00:06:33.580 --> 00:06:44.359
+Matthew Farrelly: So now for the main topic, how external research informs CTP's work, and how researchers can produce evidence that is useful to the agency.
+
+39
+00:06:44.660 --> 00:06:54.770
+Matthew Farrelly: In the Office of Science, we use research to inform our application review work. For a new to Tobacco product under review, we need to conduct a full
+
+40
+00:06:54.770 --> 00:07:06.680
+Matthew Farrelly: toxicological risk profile that includes assessing potential cancer and non-cancer risks, and levels of harmful and potentially harmful constituents, or HPHCs.
+
+41
+00:07:06.780 --> 00:07:17.659
+Matthew Farrelly: There are other potential risks that get less attention, such as products that might involve microbial growth, such as snus, nicotine pouches, and e-liquids.
+
+42
+00:07:17.930 --> 00:07:36.349
+Matthew Farrelly: That can lead to exposures to bacterial endotoxins and fungal glucans. Such exposures can trigger acute and chronic respiratory inflammation and other resp… potential respiratory effects. We assess abuse liability, which has implications for both promoting switching.
+
+43
+00:07:36.620 --> 00:07:41.930
+Matthew Farrelly: But also increasing dependence and poses… can pose an initiation risk.
+
+44
+00:07:42.610 --> 00:07:59.119
+Matthew Farrelly: From a behavioral standpoint, we examine the rate of switching and reductions in use. These data can come from actual use studies or even randomized controlled trials. And these are just some illustrative examples of the kinds of evidence we look at.
+
+45
+00:07:59.120 --> 00:08:05.309
+Matthew Farrelly: Our typical review, application reviews include scientists from 10 different disciplines.
+
+46
+00:08:05.490 --> 00:08:20.330
+Matthew Farrelly: So what does this all mean to you? We need to know how various product characteristics, ingredients, constituents, device and design features can influence the risks and benefits that we assess.
+
+47
+00:08:20.820 --> 00:08:29.900
+Matthew Farrelly: For example, in PMTA reviews, changes in battery power in an ENS product can change both nicotine delivery.
+
+48
+00:08:30.500 --> 00:08:34.909
+Matthew Farrelly: And levels of harmful or potentially harmful constituents.
+
+49
+00:08:34.909 --> 00:08:51.270
+Matthew Farrelly: So in an application that has an ENS product with adjustable power settings, we need to have information on how changes in battery power affect HPHC exposures and abuse liability for that particular product.
+
+50
+00:08:51.340 --> 00:09:01.750
+Matthew Farrelly: It's thanks to previous research that we know that battery power can influence these factors that directly relate to our decision about whether a product is appropriate for the protection of public health.
+
+51
+00:09:03.760 --> 00:09:11.849
+Matthew Farrelly: Other research from Ohio State University's TCORs took this a step further by examining not just how device wattage
+
+52
+00:09:12.010 --> 00:09:20.090
+Matthew Farrelly: affects emissions in an ENS product, but how it influences smoking abstinence in a randomized clinical trial.
+
+53
+00:09:21.030 --> 00:09:32.509
+Matthew Farrelly: Connecting a device design feature to a real-world behavioral outcome is the type of evidence that informs how we think about product characteristics in the context of APPH.
+
+54
+00:09:35.180 --> 00:09:57.249
+Matthew Farrelly: Another example of product characteristic research from the Yale T-Cores that informs reviews, was the identification of neotame, a chemical 7,000 to 13,000 times sweeter than table sugar, in several ENS products currently on the market, none of which have been authorized by FDA.
+
+55
+00:09:58.600 --> 00:10:12.459
+Matthew Farrelly: Research also suggests that neotain may be cytotoxic to oral and epithelial cells at the concentrations present in those products. More recently, the same team found capsaicinoids
+
+56
+00:10:12.520 --> 00:10:26.220
+Matthew Farrelly: The compound responsible for chili pepper heat, and nicotine pouch products marketed as unflavored at pharmacologically active concentrations likely to produce a perceptible heat sensation.
+
+57
+00:10:26.300 --> 00:10:44.930
+Matthew Farrelly: These products have so far been identified primarily in areas with some of the strongest tobacco product flavor bans. This is the kind of constituent-level research that informs how we think about product authorization. Not because it was designed to check a box, but because it was built around the right questions from the start.
+
+58
+00:10:45.470 --> 00:10:51.230
+Matthew Farrelly: Similarly, we know that ENDS ingredients may affect abuse liability, or the addiction potential.
+
+59
+00:10:51.730 --> 00:10:59.790
+Matthew Farrelly: and cancer risks. However, there are some ENS ingredients for which there is little to no research on their inhalation risks.
+
+60
+00:11:01.120 --> 00:11:16.260
+Matthew Farrelly: More recently, we have found that nicotine delivery, and hence abuse liability, of nicotine pouches is not just a function of the nicotine content and the pH level of the product, but may be influenced by other factors… other flavors.
+
+61
+00:11:16.380 --> 00:11:31.640
+Matthew Farrelly: by flavors or other materials in the pouches. Understanding how design and ingredients in nicotine pouches influence nicotine exposure and abuse liability is a central question to, appropriate for the protection of public health.
+
+62
+00:11:31.720 --> 00:11:37.710
+Matthew Farrelly: Ingredients may also affect use behaviors, which also inform abuse liability assessments.
+
+63
+00:11:37.930 --> 00:11:55.340
+Matthew Farrelly: What you all can do is help keep a close eye on how tobacco products are changing. Are there new ingredients or features that may have implications for the risks and benefits we assess? In recent PMTA reviews, approximately 50% of the cited studies
+
+64
+00:11:55.630 --> 00:11:58.260
+Matthew Farrelly: was from CTP-funded research.
+
+65
+00:11:59.960 --> 00:12:02.970
+Matthew Farrelly: So, although PMTA gets a lot of attention.
+
+66
+00:12:03.230 --> 00:12:10.780
+Matthew Farrelly: Because the products that we look at, such as nicotine pouches, heated tobacco products, and e-cigarettes or ends.
+
+67
+00:12:10.780 --> 00:12:33.389
+Matthew Farrelly: There's another pathway to market. It's called the substantial Equivalent pathway, or SE, and also the exemption from the SE pathways that are also informed by research. Now, these are typically for more traditional tobacco products. These are products that were around before 2007, such as cigarettes, smokeless tobacco.
+
+68
+00:12:33.390 --> 00:12:35.270
+Matthew Farrelly: Cigars, water pipes.
+
+69
+00:12:35.910 --> 00:12:42.410
+Matthew Farrelly: So, for example, we must know how certain characteristics in those products, nicotine, humectants, preservatives, the
+
+70
+00:12:42.530 --> 00:12:51.649
+Matthew Farrelly: what we call the container closure system, may affect microbial or chemical stability, TSNA formation, and shelf life.
+
+71
+00:12:52.020 --> 00:13:15.719
+Matthew Farrelly: While this is not unique to the SE pathway, it's an example of how we need to assess whether a new product can be considered substantially equivalent to an existing product or predicate. Specifically, if the difference between the two products is in the inclusion of a preservative, and otherwise they're similar. Does that ingredient meaningfully affect HPHC levels?
+
+72
+00:13:15.720 --> 00:13:18.220
+Matthew Farrelly: Between the new and the predicate product.
+
+73
+00:13:19.190 --> 00:13:27.909
+Matthew Farrelly: So in the early years of CTP, we conducted several foundational projects to establish a baseline of HPHCs in various tobacco products.
+
+74
+00:13:28.010 --> 00:13:47.710
+Matthew Farrelly: Especially those that we saw in the SE or EX programs. So to help address the gaps for specific products, we conducted the following types of projects. For example, the placement of menthol in cigarettes, is it in the filter, the tobacco rod, or the packaging, and the impact on measured menthol yields in smoke.
+
+75
+00:13:47.710 --> 00:14:01.640
+Matthew Farrelly: This is informative for our SEEX pathway to understand whether there's an impact of the placement of menthol, and whether there's any concern about that in terms of impacting abuse liability.
+
+76
+00:14:01.760 --> 00:14:15.450
+Matthew Farrelly: Also, for, like, water pipes and their designs, how does that affect the HPHCs that consumers are exposed to? Understanding those different characteristics and design features helps our… inform our review.
+
+77
+00:14:15.750 --> 00:14:35.090
+Matthew Farrelly: And also, going back to microbial growth, the degree to which humectants influence microbial growth in cigars and smokeless tobacco products is informative for the SE pathway, to understand whether or not changes can result in increased microbial growth, and like I said before, that can lead to
+
+78
+00:14:35.090 --> 00:14:39.380
+Matthew Farrelly: To, exposure… exposure to cytotoxins.
+
+79
+00:14:39.380 --> 00:14:43.649
+Matthew Farrelly: More currently, the research that we're doing
+
+80
+00:14:43.850 --> 00:14:56.609
+Matthew Farrelly: is to understand a subset of the marketplace HPHCs, such as in cigarettes, smokeless roll-your-own, Tobacco, water pipe, and cigars, and how these may change over time, or if they're pretty stable.
+
+81
+00:14:57.070 --> 00:15:11.269
+Matthew Farrelly: We also have to do things like develop a robust pipe smoking regimen, which does not currently exist to measure HPHCs. So, for example, you know, you have to have a consistent measure, or method.
+
+82
+00:15:11.400 --> 00:15:18.940
+Matthew Farrelly: For comparing different types of pipe products, if we're going to be able to fairly compare, you know, across different products.
+
+83
+00:15:21.940 --> 00:15:36.699
+Matthew Farrelly: Another couple of examples, you know, whether certain flavored ingredients at specific concentrations result in specific characterizing flavors, of a product, especially in a complex flavored mixture.
+
+84
+00:15:36.700 --> 00:15:53.039
+Matthew Farrelly: As you know, flavors get a lot of attention, and there isn't really a standardized flavor. You know, you think of cherry, what's the underlying chemical formula for that? Or even tobacco flavor in e-cigarettes. There is no, like, standardized definition for many of these things.
+
+85
+00:15:53.040 --> 00:16:03.249
+Matthew Farrelly: So, we're trying to understand that, as well as just the role of cooling agents, such as menthol, and other similar things, like WS3, which is also a cooling agent.
+
+86
+00:16:04.270 --> 00:16:09.080
+Matthew Farrelly: So… So that's just, you know, some examples of…
+
+87
+00:16:09.920 --> 00:16:34.070
+Matthew Farrelly: the kinds of questions that come up for us in product review, and the reason why I highlight that is that many of you can do research that directly informs the types of evidence that we need, but it's also important for you to make sure that we're aware of your research if you think that it's relevant to PMTA or other review pathways. So you can share manuscripts with your NIH program official.
+
+88
+00:16:34.110 --> 00:16:37.500
+Matthew Farrelly: or the NIH TRISP program,
+
+89
+00:16:37.660 --> 00:16:42.080
+Matthew Farrelly: So that, ultimately, CTP can be aware of the research that you're doing.
+
+90
+00:16:43.420 --> 00:16:51.879
+Matthew Farrelly: So, another thing that I… for those of you who were at the,
+
+91
+00:16:52.060 --> 00:17:04.599
+Matthew Farrelly: there was a meeting at NIH this summer, I talked about this, but another way for y'all to get insight into how we think about the APPH standard and the evidence that we rely on.
+
+92
+00:17:04.599 --> 00:17:18.480
+Matthew Farrelly: We post the technical project lead review reports following our authorizations, and it gives you a lot of detail in terms of the evidence that we reviewed and the way that we think about
+
+93
+00:17:18.650 --> 00:17:26.510
+Matthew Farrelly: the decision to authorize. These reports can give insight into the research and evidence that inform how
+
+94
+00:17:26.780 --> 00:17:37.050
+Matthew Farrelly: how you may structure your next proposed research. The challenge for us, and for you, is anticipating what research will be needed in the future.
+
+95
+00:17:37.480 --> 00:17:48.510
+Matthew Farrelly: So more broadly, research can inform and shape rulemaking and other activity that happens at CTP. For example, there's been significant research on the role of menthol in cigarettes.
+
+96
+00:17:48.640 --> 00:18:01.169
+Matthew Farrelly: on their potential to influence nicotine dependence and initiation. In the proposed rule on menthol, 103 of the 393 references were from CTP-funded research.
+
+97
+00:18:01.740 --> 00:18:10.329
+Matthew Farrelly: So if Congress gives FDA the authority to regulate nicotine analogs, which is another thing that's in the market, but not currently under FDA's authority.
+
+98
+00:18:10.390 --> 00:18:27.959
+Matthew Farrelly: to regulate, FDA will need to understand how they are similar to or different from nicotine to inform potential regulatory actions. In the meantime, NIH and other funders are funding this research, so we review and consider all research literature that's available.
+
+99
+00:18:29.140 --> 00:18:46.040
+Matthew Farrelly: We also use research to support the drafting of rules and to help us respond to comments. Although preliminary or exploratory research can be helpful to inform the focus of future research, what ultimately matters most is the strength of the evidence or the study.
+
+100
+00:18:46.240 --> 00:19:00.670
+Matthew Farrelly: I know that one of the questions for me today was, you know, how we assess the strength of evidence, and that's kind of a tricky question to answer broadly, because as I noted, we have 10 disciplines involved in the review.
+
+101
+00:19:00.760 --> 00:19:10.959
+Matthew Farrelly: So, it's very context-specific, but oftentimes experimental research provides the strongest evidence, but well-done quasi-experimental methods can also be helpful.
+
+102
+00:19:11.390 --> 00:19:22.879
+Matthew Farrelly: But given the need that we… for product-specific evidence in our product reviews, quasi-experimental research may be more relevant in the context of supporting rulemaking.
+
+103
+00:19:23.940 --> 00:19:27.530
+Matthew Farrelly: So just to wrap up, research also informs
+
+104
+00:19:27.590 --> 00:19:47.300
+Matthew Farrelly: public education campaigns. Although I have previous experience in that space, I'll leave it… the details to my colleagues in the Office of Health Communication and Education. That might be a topic for consideration of a future TOPS session. And so with that, I'll turn it back to Robin for the Q&A portion of the session.
+
+105
+00:19:48.070 --> 00:19:52.260
+Robin Mermelstein: Great, thanks so much, Matthew, really appreciate
+
+106
+00:19:52.360 --> 00:20:03.749
+Robin Mermelstein: all… already what you have… have shared with us, and, we're going to transition to the Q&A portion of today's seminar, and mostly we're going to start with pre,
+
+107
+00:20:03.840 --> 00:20:24.460
+Robin Mermelstein: selected questions, and then we'll move to some of the Q&A. So, the very first question, which had to do with how do we make external research useful for CTP, you've already addressed pretty well. So, in terms of… you gave some wonderful examples of using both research from Ohio State and from Yale, that…
+
+108
+00:20:24.690 --> 00:20:28.890
+Robin Mermelstein: To really, consider?
+
+109
+00:20:29.460 --> 00:20:36.949
+Robin Mermelstein: reviews, and… and was highly useful there. So, more… more generally, though,
+
+110
+00:20:37.030 --> 00:20:54.810
+Robin Mermelstein: And then you referred a little bit to it, just at the end, what's making some of the evidence useful, whether it's experimental or quasi-experimental. And I think as researchers, we always want to make sure our research does have value to you as the most, you know, FDA is a key stakeholder, so…
+
+111
+00:20:54.830 --> 00:21:01.449
+Robin Mermelstein: What might make evidence particularly useful, do you think? So, as researchers are designing their study.
+
+112
+00:21:01.560 --> 00:21:13.290
+Robin Mermelstein: What might help them to think about how to make it useful, or conversely, are there limitations in, even well-designed studies that make them
+
+113
+00:21:13.430 --> 00:21:17.680
+Robin Mermelstein: less useful. So are things researchers, kind of do's and don'ts.
+
+114
+00:21:17.680 --> 00:21:18.510
+Matthew Farrelly: Yeah.
+
+115
+00:21:19.010 --> 00:21:20.090
+Matthew Farrelly: So…
+
+116
+00:21:20.360 --> 00:21:39.970
+Matthew Farrelly: You know, one of the things, you know, we have this discussion internally, when our own researchers are proposing research, and I like to ask the question of, so when we're done with the research, how is it going to change the way that we make decisions?
+
+117
+00:21:40.180 --> 00:21:48.840
+Matthew Farrelly: Does it have the potential to influence the way we think about decisions? So, for example, the example I gave
+
+118
+00:21:49.070 --> 00:21:54.500
+Matthew Farrelly: You know, product-specific, like, ingredients.
+
+119
+00:21:57.410 --> 00:22:12.350
+Matthew Farrelly: The best way to understand whether or not your research could be useful for us is to ask yourself, would the inclusion of, let's say, an ingredient in an e-cigarette or a nicotine pouch
+
+120
+00:22:13.090 --> 00:22:18.540
+Matthew Farrelly: Would that potentially change the way consumers use the product?
+
+121
+00:22:19.320 --> 00:22:35.319
+Matthew Farrelly: maybe it leads to more use, you know, for current users. Or maybe it entices non-users to be intrigued and try it, and maybe make it easier to use for the first time, right? So the initiation question, or
+
+122
+00:22:35.320 --> 00:22:44.459
+Matthew Farrelly: Or maybe increased use. In the case of e-cigarettes, are there certain features that help smokers?
+
+123
+00:22:44.560 --> 00:23:04.510
+Matthew Farrelly: switch from smoking to using an ENS product? So… or is the inclusion of some of those ingredients not only… maybe it changes, abuse liability and use behaviors, but maybe it's also exposing someone to a health risk.
+
+124
+00:23:05.040 --> 00:23:11.419
+Matthew Farrelly: So, for example, there's a lot of discussion about
+
+125
+00:23:11.860 --> 00:23:15.670
+Matthew Farrelly: You know, in the world of, you know, harm reduction.
+
+126
+00:23:16.400 --> 00:23:24.910
+Matthew Farrelly: the role of e-cigarettes and products in helping smokers switch. And, you know, there's the perception that
+
+127
+00:23:25.340 --> 00:23:28.269
+Matthew Farrelly: Ends products are safer than cigarettes.
+
+128
+00:23:28.580 --> 00:23:43.300
+Matthew Farrelly: And while we generally find that to be true, we can't make decisions on a generalization. We have to look at all the ingredients in a specific product and calculate the potential cancer risk.
+
+129
+00:23:43.370 --> 00:23:55.510
+Matthew Farrelly: So there are ingredients that are deliberately added to e-cigarettes, e-liquids, for flavors, etc, for which, like, there are the inhalation risks from it.
+
+130
+00:23:55.680 --> 00:23:57.770
+Matthew Farrelly: Are associated with cancer.
+
+131
+00:23:57.940 --> 00:24:08.199
+Matthew Farrelly: So, and then others don't have… don't contribute to cancer risk. So, we have, in our experience, reviewed products that have
+
+132
+00:24:08.380 --> 00:24:27.520
+Matthew Farrelly: estimated lifetime cancer risks that are similar to, or even greater than cigarettes. Now, is that what we normally see? No. But it can happen. And so, and then there's others that… where the lifetime cancer risk, the estimated lifetime cancer risk, is very small compared to cigarettes.
+
+133
+00:24:27.930 --> 00:24:34.249
+Matthew Farrelly: And that variation, and what contributes to that, is a central question.
+
+134
+00:24:34.270 --> 00:24:48.010
+Matthew Farrelly: So… so in terms of, you know, finding things that are useful for us, it's, you know, a lot of these products are evolving. Nicotine pouches in particular. Very, you know, growing market.
+
+135
+00:24:48.600 --> 00:24:56.370
+Matthew Farrelly: Various designs, and there are things about those that we don't know yet, what the role is.
+
+136
+00:24:56.430 --> 00:25:11.100
+Matthew Farrelly: And so, same thing with e-cigarettes. They've been around longer, but there may be features about those that are… that help us decide whether or not it's appropriate for the protection of public health. So, in the context of product review, it's really thinking about
+
+137
+00:25:11.280 --> 00:25:22.590
+Matthew Farrelly: how might it change our calculations of risks and benefits, addiction potential? You know, there's, I think I saw a question about device access restrictions, you know.
+
+138
+00:25:23.560 --> 00:25:24.710
+Matthew Farrelly: are there…
+
+139
+00:25:24.710 --> 00:25:47.130
+Matthew Farrelly: things that mitigate the risk to youth, such as device access restrictions, how well do they work, what are features that are associated with them working well versus poorly? All those things contribute to our decision, and so if you really want to be in the mix in terms of influencing how we make decisions, is to look at those features, especially novel and new
+
+140
+00:25:47.850 --> 00:26:02.119
+Matthew Farrelly: characteristics that we may not be aware of, that's new to the market, that has an unknown influence on those risks and benefits. And that's what's helpful to us, just as I highlighted in my examples from Ohio State and Yale.
+
+141
+00:26:02.930 --> 00:26:04.539
+Robin Mermelstein: Yeah, those are very helpful.
+
+142
+00:26:04.650 --> 00:26:14.700
+Robin Mermelstein: And just out of, kind of contrast, so you highlighted very nicely CTP-funded research, but a lot of research also comes from industry.
+
+143
+00:26:15.330 --> 00:26:25.440
+Robin Mermelstein: And how do you balance or value the industry research and evaluate that compared to, say, independent research?
+
+144
+00:26:25.850 --> 00:26:31.370
+Robin Mermelstein: Does that factor in at all in your utility or value you put on the research?
+
+145
+00:26:32.170 --> 00:26:40.790
+Matthew Farrelly: So, I guess there, it's helpful to contrast the sort of the different ways that we use research. In our application review.
+
+146
+00:26:40.790 --> 00:26:54.739
+Matthew Farrelly: most of the data comes from industry, because it's the applicant. They have to provide, you know, HPHC levels, and they have to do studies of abuse liability for their products. And so…
+
+147
+00:26:54.740 --> 00:26:57.629
+Matthew Farrelly: So… so that's… Part of the job.
+
+148
+00:26:57.810 --> 00:27:06.740
+Matthew Farrelly: I think, you know, a lot of this audience is probably thinking about maybe other… other types of research that might inform,
+
+149
+00:27:06.880 --> 00:27:16.890
+Matthew Farrelly: you know, other bigger picture questions that we grapple with at FDA in terms of, you know, how to regulate products more generally.
+
+150
+00:27:17.800 --> 00:27:20.470
+Matthew Farrelly: And so, you know, I think that…
+
+151
+00:27:21.850 --> 00:27:31.050
+Matthew Farrelly: Obviously, we look to the peer-reviewed literature. Has it been peer-reviewed, for one. The second thing is, you know, I think just… we treat…
+
+152
+00:27:31.350 --> 00:27:39.340
+Matthew Farrelly: I think we try to treat all research similarly in terms of, like, looking at through the lens of, you know, what makes for a good study.
+
+153
+00:27:39.490 --> 00:27:43.449
+Matthew Farrelly: You know, how was the sample for the study recruited?
+
+154
+00:27:43.790 --> 00:27:54.609
+Matthew Farrelly: what have you said about that sample? How have you shown that that sample seems representative of the population you're trying to represent?
+
+155
+00:27:54.610 --> 00:28:09.150
+Matthew Farrelly: And how well have you done that? What evidence can you show, you know, by showing summary statistics for your sample versus a national sample, or whatever, that gives us confidence that it's not some very, you know, select sample, you know.
+
+156
+00:28:09.280 --> 00:28:16.009
+Matthew Farrelly: Younger than the population, more… less addicted than the population, or more addicted, younger, older, those kinds of things.
+
+157
+00:28:16.180 --> 00:28:28.210
+Matthew Farrelly: And then, you know, just like you would peer review yourself, you know, what are the strengths and limitations of that study? And, you know, we try to systematically review
+
+158
+00:28:28.300 --> 00:28:47.790
+Matthew Farrelly: And, you know, parts of the review process, you know, in the context of product review, you know, we try to break it down, you know, very specific questions about, you know, the sample, how much attrition was there? Is there evidence that attrition in the longitudinal study influenced the findings? Have you done tests? You know, is it missing at random?
+
+159
+00:28:47.790 --> 00:28:55.909
+Matthew Farrelly: All the kinds of things that you yourself do when you look at research and strength of evidence, we do the same thing.
+
+160
+00:28:56.050 --> 00:29:03.930
+Matthew Farrelly: And, you know, trying to examine the external validity of the studies. So,
+
+161
+00:29:05.620 --> 00:29:24.530
+Matthew Farrelly: But that… I think where some of the population-level studies that maybe some in the audience do, especially looking at the influence of, say, like, flavor restrictions in certain states, or youth access restrictions, or various policies, you know, there it's often…
+
+162
+00:29:25.500 --> 00:29:37.410
+Matthew Farrelly: quasi-experimental, and those are the types of studies that might go into rulemaking. You know, when we're trying to look at, well, you know, like in the menthol rule.
+
+163
+00:29:37.730 --> 00:29:54.470
+Matthew Farrelly: there was hundreds of studies in trying to understand what is the role of menthol? How does it contribute to, youth initiation? How does it contribute to ongoing addiction? Those types of questions. And sometimes.
+
+164
+00:29:54.470 --> 00:30:05.839
+Matthew Farrelly: You know, either natural variation in policies across states or over time allow researchers to look at the potential role of
+
+165
+00:30:05.940 --> 00:30:11.899
+Matthew Farrelly: of that… Characteristic, because it's been restricted in some places and not in others.
+
+166
+00:30:12.340 --> 00:30:16.310
+Matthew Farrelly: Early in my career, I did that all the time. So,
+
+167
+00:30:16.460 --> 00:30:27.499
+Matthew Farrelly: I definitely look at that research with interest and look at the strengths of that. I certainly think that that kind of research, when done well, can be quite informative.
+
+168
+00:30:29.000 --> 00:30:36.110
+Matthew Farrelly: And so, and we have other staff in our office that have the skills to assess those types of studies. So,
+
+169
+00:30:37.000 --> 00:30:45.920
+Matthew Farrelly: So, when we're trying to, you know, essentially make an argument in the context of rulemaking, we have to have supporting citations.
+
+170
+00:30:46.120 --> 00:31:10.550
+Matthew Farrelly: And we have to look at all the evidence and reconcile it, because they're not always in agreement, right? And then we get questions. You know, people will say, oh, you know, you reviewed this study, but we think you got it wrong, and here's a question. We have to respond to that, right? So that's… and that's the whole rulemaking process, and that's where some of you might be contributing research that's not at the individual product level, but sort of trying to shape
+
+171
+00:31:10.560 --> 00:31:13.119
+Matthew Farrelly: The way the regulation happens.
+
+172
+00:31:14.880 --> 00:31:23.780
+Robin Mermelstein: So that's very helpful in terms of thinking about the different kinds of evidence, and also, it sounds like, from what you've said, real-world data matters.
+
+173
+00:31:23.910 --> 00:31:29.490
+Robin Mermelstein: That's valued greatly, right? In terms of,
+
+174
+00:31:29.640 --> 00:31:49.010
+Robin Mermelstein: of the FDA and product. So, sometimes that's a challenge in terms of actual use, studies, and sometimes it can be challenging if there aren't comparison groups. So, imagine you have a study of how people are actually using it, but there's not really a comparison group,
+
+175
+00:31:49.620 --> 00:31:54.239
+Robin Mermelstein: What would… how would that… might that be evaluated, then, in that context?
+
+176
+00:31:55.730 --> 00:31:57.180
+Matthew Farrelly: Yeah, it… it…
+
+177
+00:31:57.530 --> 00:32:17.120
+Matthew Farrelly: that, you know, certainly, depending on what the question we're trying to ask, you know, that does weaken the, sort of, the strength of the evidence if there isn't a comparison. You know, for example, if you're trying to look at, you know, when we, when we're evaluating whether a non-tobacco-flavored ENS product should be authorized.
+
+178
+00:32:17.120 --> 00:32:21.079
+Matthew Farrelly: For example, we look at evidence
+
+179
+00:32:21.080 --> 00:32:36.940
+Matthew Farrelly: in, you know, real, actual-use studies to see, you know, oftentimes the 3-month, maybe even 6-month long studies to see those using the non-tobacco flavors. Are they switching at higher rates than the tobacco flavor?
+
+180
+00:32:37.230 --> 00:32:41.040
+Matthew Farrelly: So there, it's helpful to see the contrast between
+
+181
+00:32:41.180 --> 00:33:00.560
+Matthew Farrelly: Tobacco and non-tobacco. You know, in absence, if they just… if someone did a study of a tobacco flavor, and then they drew another sample that was a non-tobacco flavor, then you have to deal with, like, reconciling the differences between the samples, and the methods, and the timing, and all that kind of stuff.
+
+182
+00:33:00.560 --> 00:33:08.719
+Matthew Farrelly: Doesn't mean it can't be done, but it certainly adds, you know, extra, uncertainty to the comparison. So,
+
+183
+00:33:10.780 --> 00:33:16.689
+Matthew Farrelly: Not surprisingly, we look at all the strengths and weaknesses like any of you do when you're doing a journal review.
+
+184
+00:33:18.070 --> 00:33:31.810
+Robin Mermelstein: Sounds… sounds good, thanks. So, I'm going to switch gears a little bit and talk about scientific lessons from PMTA reviews. So, the FDA recently announced that it intends to reconsider its PMTA regulatory framework.
+
+185
+00:33:32.100 --> 00:33:51.589
+Robin Mermelstein: So, from a scientific perspective, what have completed PMTA reviews taught CTP about the most consequential weaknesses or gaps in the available evidence? Are there areas in which the types of studies currently conducted by applicants
+
+186
+00:33:51.860 --> 00:33:58.360
+Robin Mermelstein: Consistently leave important questions unanswered, and that could be fertile ground for researchers.
+
+187
+00:33:59.550 --> 00:34:16.200
+Matthew Farrelly: Actually, you know, one of the things that maybe people don't realize, I know everyone's heard about the millions and millions of applications that we've gotten to review, and I think I have shared in the past that
+
+188
+00:34:16.199 --> 00:34:23.329
+Matthew Farrelly: You know, over 9… like, around 90… a little bit over 99% of the applications that have been submitted.
+
+189
+00:34:23.550 --> 00:34:28.120
+Matthew Farrelly: Are just missing entire categories of evidence.
+
+190
+00:34:28.440 --> 00:34:35.559
+Matthew Farrelly: So we can't complete the review. Some don't even make it to… the final stage for us is full scientific review.
+
+191
+00:34:35.580 --> 00:34:55.130
+Matthew Farrelly: To get there, it means you have to have all of the basic elements, the toxicological profile, the abuse liability profile. Is it a non-obacco flavor? You know, are you showing the switching for that compared to tobacco flavor? And… and so few have gotten that far.
+
+192
+00:34:55.600 --> 00:35:05.730
+Matthew Farrelly: That… that, that's really been the struggle for us, is just not having enough high-quality applications.
+
+193
+00:35:05.920 --> 00:35:10.989
+Matthew Farrelly: you know, we think that's improving, you know, with experience.
+
+194
+00:35:10.990 --> 00:35:29.560
+Matthew Farrelly: you know, a lot of the applications were done years ago, and developed quickly to meet deadlines, and, you know, didn't necessarily have all the elements. And some went through the trouble over time to submit amendments to shore up the level of evidence. But, you know, from the researcher's standpoint,
+
+195
+00:35:29.560 --> 00:35:36.629
+Matthew Farrelly: you know, I don't know that that's a big opportunity. I think that, you know, one of the things that,
+
+196
+00:35:37.060 --> 00:35:44.200
+Matthew Farrelly: you know, I think is potentially relevant and fertile ground is just really trying to understand,
+
+197
+00:35:44.490 --> 00:35:52.109
+Matthew Farrelly: especially across different populations, how e-cigarettes, for example, help switching. You know, I think
+
+198
+00:35:52.160 --> 00:35:57.220
+Matthew Farrelly: when I went to the Nicotine Summit, earlier in the year,
+
+199
+00:35:57.220 --> 00:36:15.779
+Matthew Farrelly: Nancy Rigotti did this really interesting… it was small, but it was a sample of older smokers using, ENDS products to switch, you know. So there are certainly gaps in our overall understanding of, you know, why are older smokers less likely to take up reduced harm products?
+
+200
+00:36:16.470 --> 00:36:22.260
+Matthew Farrelly: You know, that's something that is important from a population health standpoint.
+
+201
+00:36:23.430 --> 00:36:33.480
+Matthew Farrelly: You know, so sort of digging deep into that, there's probably still fertile ground that might help shape the way that applicants are thinking about presenting evidence.
+
+202
+00:36:36.190 --> 00:36:53.239
+Robin Mermelstein: So that brings up sort of another question, which I think you've opened the door to, and that's sort of, how do you quantify population health benefits and risks? So CTP has to weigh potential benefits for adults who smoke, like getting older smokers.
+
+203
+00:36:53.240 --> 00:36:58.939
+Robin Mermelstein: To potentially switch against the risk of youth initiation and dependence.
+
+204
+00:36:59.050 --> 00:37:15.690
+Robin Mermelstein: What would you say are the biggest scientific challenges to evaluating those competing effects, and in quantitative frameworks, or are there models that can be used for population health impact models that you would look to?
+
+205
+00:37:15.810 --> 00:37:22.829
+Robin Mermelstein: for assessing You know, these and product standards and balancing. So, from a modeling perspective.
+
+206
+00:37:23.340 --> 00:37:46.840
+Matthew Farrelly: Yeah, so this is where I'll go back to that distinction that I made before. We look at product-specific information, and a lot of times, models are looking at… they're looking at the population, but they're not looking at the role of a specific product. They're talking about, let's say, the existing… the existence of nicotine pouches, and how that might change tobacco product patterns in the population.
+
+207
+00:37:47.790 --> 00:38:04.670
+Matthew Farrelly: Well, that can be interesting to us in the sense of, like, being mindful of, you know, we carefully monitor the National Youth Tobacco Survey, and we're seeing that nicotine pouch use among youth is low and stable, for now.
+
+208
+00:38:05.180 --> 00:38:15.740
+Matthew Farrelly: But I think the distinction of, like, looking at someone who does, like, a simulation model, right? Many of us have seen those.
+
+209
+00:38:16.490 --> 00:38:24.719
+Matthew Farrelly: That, I think, talks about the population level potential, right, of…
+
+210
+00:38:24.950 --> 00:38:28.630
+Matthew Farrelly: A shifting marketplace and shifting use patterns.
+
+211
+00:38:28.780 --> 00:38:40.080
+Matthew Farrelly: But… That doesn't really help us decide whether this specific product, you know, you have a menthol-flavored ENS product.
+
+212
+00:38:40.190 --> 00:38:55.020
+Matthew Farrelly: we have to know what's the risk profile of that? What are the exposures to HPHCs? What's the estimated lifetime cancer risk? And, you know, where I think it's hard, because we don't get studies of
+
+213
+00:38:55.100 --> 00:39:01.949
+Matthew Farrelly: Right? You know, we haven't seen studies of youth risk for that specific product, right?
+
+214
+00:39:02.080 --> 00:39:19.929
+Matthew Farrelly: Because industry's not doing studies of teenagers and doing experimental studies. How much do you like this product, right? So that's where we have to look at, you know, other sources, like the NYTS, and see what are youth reporting in terms of the flavors that they find most appealing.
+
+215
+00:39:19.930 --> 00:39:34.430
+Matthew Farrelly: You know, where does menthol and mint and candy flavors and dessert flavors and things like that. And so we have to look at the role of flavors and what we're seeing in population-level data to assess, you know.
+
+216
+00:39:34.660 --> 00:39:36.510
+Matthew Farrelly: Assess that, and…
+
+217
+00:39:36.560 --> 00:39:58.180
+Matthew Farrelly: for the benefits side, we do see actual use studies. They take that specific product, and they take a comparable one with the same nicotine levels, and they compare switching, and we do get product-specific information for that. And we get all the product-specific information on abuse liability, as well as the, you know, potential health effects, cancer, non-cancer, etc.
+
+218
+00:39:58.180 --> 00:40:01.210
+Matthew Farrelly: So, I think that,
+
+219
+00:40:01.210 --> 00:40:10.349
+Matthew Farrelly: as I said before, where are the population-level modeling of the sorts that you see from different university groups, other publications.
+
+220
+00:40:10.790 --> 00:40:13.389
+Matthew Farrelly: is a way to, you know, I think.
+
+221
+00:40:13.610 --> 00:40:28.460
+Matthew Farrelly: help us think about how do we make those decisions? What is our decision-making framework? How do we… what do we… what weight do we give to that trade-off between you introduce a product into the market.
+
+222
+00:40:28.790 --> 00:40:31.769
+Matthew Farrelly: That both helps adults
+
+223
+00:40:31.780 --> 00:40:50.760
+Matthew Farrelly: move away from cigarettes, but potentially could give rise to more young people using e-cigarettes. And… and so I think that… that some of those population-level studies can help us, in our decision-making frameworks, but it's tricky, because
+
+224
+00:40:50.910 --> 00:41:00.890
+Matthew Farrelly: Ultimately, we have to look at each individual product and what evidence was presented to us in that application that helps us navigate that, and that's…
+
+225
+00:41:00.930 --> 00:41:13.580
+Matthew Farrelly: as I like to say, that's… that puts the regulatory in regulatory science, because we have to just use whatever information we have. We don't always have all the information that we want, but we still are… we have to make decisions.
+
+226
+00:41:13.710 --> 00:41:15.159
+Matthew Farrelly: Okay, I'm good.
+
+227
+00:41:15.400 --> 00:41:16.800
+Matthew Farrelly: Drop the blinds.
+
+228
+00:41:18.900 --> 00:41:20.299
+Matthew Farrelly: That time of day.
+
+229
+00:41:21.480 --> 00:41:22.980
+Robin Mermelstein: So, it sounds like…
+
+230
+00:41:23.190 --> 00:41:29.310
+Robin Mermelstein: You more often get hard data about switching among adults, that that seems to be a
+
+231
+00:41:29.540 --> 00:41:36.599
+Robin Mermelstein: Important component to evaluating the data, and that can be product-specific.
+
+232
+00:41:36.810 --> 00:41:38.190
+Robin Mermelstein: But the…
+
+233
+00:41:38.540 --> 00:41:47.120
+Robin Mermelstein: Other side, which is the youth risk, is not product-specific. That one is based on more assumptions and subjective readings.
+
+234
+00:41:47.920 --> 00:41:52.860
+Matthew Farrelly: It's based on the population-level surveillance data to help us understand what…
+
+235
+00:41:52.930 --> 00:42:11.959
+Matthew Farrelly: what are the characteristics of products that lead to greater youth use? You know, it could be not just flavor, but, you know, you've seen e-cigarette products with screens and games and other youth-appealing features. You know, how are they… you know, are there also packaging features that might
+
+236
+00:42:11.970 --> 00:42:15.609
+Matthew Farrelly: be particularly appealing to youth. So,
+
+237
+00:42:15.910 --> 00:42:22.929
+Matthew Farrelly: So there are product-specific characteristics that are associated with youth appeal, but it's hard to have, you know.
+
+238
+00:42:23.090 --> 00:42:28.850
+Matthew Farrelly: product-specific data from youth. That's submitted in the application for us to consider.
+
+239
+00:42:29.080 --> 00:42:41.350
+Robin Mermelstein: Right, right, they can't really, really do that. But one of the things that actually has been more youth-oriented is, evaluating glasses' age verification technology.
+
+240
+00:42:41.410 --> 00:42:54.999
+Robin Mermelstein: So, FDA publicly released the review of Glass G2 reports, that the age verification technology prevented device activation by all 43 underage participants
+
+241
+00:42:55.090 --> 00:43:00.150
+Robin Mermelstein: Tested. Acknowledging uncertainty about real-world effectiveness.
+
+242
+00:43:00.340 --> 00:43:19.859
+Robin Mermelstein: So, that one actually had some real-world data on at least underage… underage potential users. What types of additional research would provide the most convincing evidence that those technologies reliably prevent underage access and use outside of these controlled studies?
+
+243
+00:43:20.890 --> 00:43:25.510
+Matthew Farrelly: Yeah, I mean, it's tricky, because, you know, you could…
+
+244
+00:43:27.230 --> 00:43:34.830
+Matthew Farrelly: In a real-world setting, you could give youth or young adults those products and see if they have figured out ways to thwart
+
+245
+00:43:35.570 --> 00:43:43.280
+Matthew Farrelly: or hack, the systems to get around it. And, you know, I think that
+
+246
+00:43:44.680 --> 00:43:48.150
+Matthew Farrelly: How you do that in not a controlled setting is…
+
+247
+00:43:48.460 --> 00:43:58.689
+Matthew Farrelly: as a little bit tricky. That might get the… the creative juices flowing from a research design standpoint. So,
+
+248
+00:43:59.000 --> 00:44:04.980
+Matthew Farrelly: you know, I think that those types of strategies, you know, they involve
+
+249
+00:44:05.690 --> 00:44:21.759
+Matthew Farrelly: the checking ID, and there's the connection between the… usually it's the phone and the device, so you're linking that through Bluetooth or what have you. So they're different. They're very complicated, because it's software and hardware.
+
+250
+00:44:21.860 --> 00:44:25.930
+Matthew Farrelly: All together, forming a system
+
+251
+00:44:26.300 --> 00:44:32.300
+Matthew Farrelly: To ensure that those who are not authorized to use the product, and even, like, if it's a…
+
+252
+00:44:32.520 --> 00:44:44.940
+Matthew Farrelly: if it's a system where there's, you know, cartridges that, you know, that you make sure that the whole system is protected. So,
+
+253
+00:44:45.790 --> 00:44:50.260
+Matthew Farrelly: And I think that… that… I'm sure that there are…
+
+254
+00:44:50.460 --> 00:45:06.980
+Matthew Farrelly: clever designs or studies that could be thought of to test it in more real-world settings. You know, our job is also to look… we have lots of surveillance activities funded to look for evidence of, you know, are there people
+
+255
+00:45:07.260 --> 00:45:18.760
+Matthew Farrelly: sharing on social media, posting TikToks about how they thwarted it. Now, currently, with the marketplace having lots of unauthorized products,
+
+256
+00:45:19.610 --> 00:45:34.990
+Matthew Farrelly: youth can get those right now if they figure out ways to purchase them, and so having device access restrictions right now won't necessarily… you know, on one, you know, a few products won't necessarily change the marketplace, but, you know, for,
+
+257
+00:45:35.230 --> 00:45:38.159
+Matthew Farrelly: You know, it could be that smokers
+
+258
+00:45:38.290 --> 00:45:47.629
+Matthew Farrelly: find that appealing if they have children in the home, and they want to make sure that they can use the products and no one in their home can. But in terms of, you know, until…
+
+259
+00:45:48.650 --> 00:46:03.500
+Matthew Farrelly: there's a reduction in the amount of unauthorized products in the marketplace, you know, having device access restrictions won't start to have a population-level impact until they become much more prevalent. Or that the…
+
+260
+00:46:04.060 --> 00:46:11.879
+Matthew Farrelly: point-of-sale systems for restricting youth access, become more effective, like,
+
+261
+00:46:12.080 --> 00:46:15.039
+Matthew Farrelly: what's happening in New Jersey and Nevada with
+
+262
+00:46:15.170 --> 00:46:23.420
+Matthew Farrelly: more enhanced age verification systems. So that, that could also play a role.
+
+263
+00:46:23.650 --> 00:46:33.099
+Matthew Farrelly: If the whole environment shifts, then… then we get to look at youth risks and… dealt benefits differently.
+
+264
+00:46:36.720 --> 00:46:46.610
+Robin Mermelstein: So, as part of their obligations for post-market surveillance, the industry, do they have these data that could be shared, or is it just provided to you?
+
+265
+00:46:48.520 --> 00:46:50.459
+Matthew Farrelly: Just provided to us, you know.
+
+266
+00:46:50.720 --> 00:46:58.780
+Matthew Farrelly: We… I mean, they could choose to share, of course, publicly, whatever they want, but we're not at liberty to share, you know.
+
+267
+00:46:59.200 --> 00:47:01.580
+Matthew Farrelly: Data that's shared with us.
+
+268
+00:47:03.380 --> 00:47:05.690
+Robin Mermelstein: Right, so that's another helping…
+
+269
+00:47:05.770 --> 00:47:12.820
+Robin Mermelstein: to keep some of the… the more openness of… of some of the data would be… we help… would be helping.
+
+270
+00:47:12.830 --> 00:47:21.340
+Robin Mermelstein: You know, with a lot of the newer products that come on the market is trying to figure out long-term disease risks.
+
+271
+00:47:21.340 --> 00:47:34.569
+Robin Mermelstein: you know, even people wonder about, okay, how long do nicotine pouches have to be studied before? But in the recent scientific review supporting the modified risk authorization for ZEN,
+
+272
+00:47:34.630 --> 00:47:45.889
+Robin Mermelstein: The FDA drew on product-specific chemical and biomarker evidence, and then they also had the longer-term epidemiological evidence from Swedish snooze.
+
+273
+00:47:46.040 --> 00:47:53.210
+Robin Mermelstein: So, if you had to think about, you know, the important scientific assumptions involved in extrapolating long-term health risks.
+
+274
+00:47:53.530 --> 00:48:00.820
+Robin Mermelstein: from an established product category to a newer one. So they went from snooze to zinn.
+
+275
+00:48:01.120 --> 00:48:10.420
+Robin Mermelstein: what else would you… would you consider in terms of the really top-line, important.
+
+276
+00:48:10.790 --> 00:48:14.649
+Robin Mermelstein: Scientific assumptions, if you want to extrapolate long-term health risks.
+
+277
+00:48:17.130 --> 00:48:26.219
+Matthew Farrelly: That is… that's a… that's a tricky one. You know, so one of the things that we do now, as I was alluding to, is we look at the ingredients
+
+278
+00:48:26.820 --> 00:48:35.850
+Matthew Farrelly: And all the constituents in products now. And we assess their potential cancer You know, the…
+
+279
+00:48:35.970 --> 00:48:41.849
+Matthew Farrelly: What evidence is there that there's… that's associated… their exposure is associated with cancer or not?
+
+280
+00:48:43.870 --> 00:48:50.120
+Matthew Farrelly: And so, for example, in nicotine pouches, they tend to have
+
+281
+00:48:51.650 --> 00:49:01.709
+Matthew Farrelly: Well, one, they're administered through a different route than inhaling e-cigarettes, right? So that's one difference. It's an oral route, so exposure is different.
+
+282
+00:49:01.710 --> 00:49:12.049
+Matthew Farrelly: The second thing is that, you know, there's a difference between nicotine pouches and their ingredients, since they're not natural products, they're engineered products.
+
+283
+00:49:12.050 --> 00:49:26.640
+Matthew Farrelly: They… they do tend to have lower risks than even snus. That's, you know, there's smokeless… traditional smokeless tobacco, and there's evidence that snus has, you know, fewer carcinogens, and then nicotine pouches,
+
+284
+00:49:26.780 --> 00:49:30.200
+Matthew Farrelly: We look to see if there are even any.
+
+285
+00:49:30.430 --> 00:49:41.980
+Matthew Farrelly: cancer-causing chemicals in pouches, and you can see in our… the statements and our authorizations, we tend to call out, like, what our findings were with respect to that, to the… to the,
+
+286
+00:49:42.720 --> 00:49:46.900
+Matthew Farrelly: You know, the cancer risks of all the products that we authorize.
+
+287
+00:49:47.740 --> 00:49:54.510
+Matthew Farrelly: So, so I think, you know, we… when we try to make…
+
+288
+00:49:54.920 --> 00:50:02.609
+Matthew Farrelly: We call it bridging, you know, bridge from one product or characteristics in one product to another.
+
+289
+00:50:02.800 --> 00:50:06.760
+Matthew Farrelly: We have to do very careful assessments of how applicable
+
+290
+00:50:06.890 --> 00:50:20.620
+Matthew Farrelly: is it, and what data do we have to support that kind of bridging, or, you know, essentially saying the evidence for this product care category helps us understand the other. In terms of, like, the…
+
+291
+00:50:21.400 --> 00:50:27.859
+Matthew Farrelly: estimating long-term risks based on shorter-term measures. I mean…
+
+292
+00:50:27.980 --> 00:50:32.169
+Matthew Farrelly: Not to say that that's the holy grail in, you know.
+
+293
+00:50:32.240 --> 00:50:43.429
+Matthew Farrelly: Tobacco regulatory science, but it's certainly an area of great interest, because, you know, our authorization, you know, our authorities are not to make…
+
+294
+00:50:43.450 --> 00:50:57.710
+Matthew Farrelly: We can't say, oh, well, let's wait 20 years to understand the health risks of products before we start making decisions. So that puts a lot… that means that we're really interested in any studies that
+
+295
+00:50:58.270 --> 00:51:07.140
+Matthew Farrelly: Can, you know, correlate Earlier markers that would be predictive of longer-term consequences.
+
+296
+00:51:07.490 --> 00:51:09.360
+Matthew Farrelly: And that's very challenging.
+
+297
+00:51:09.680 --> 00:51:23.699
+Matthew Farrelly: You know, a lot of try, to look at, you know, exposure, you know, what's going on in lungs, and do you see evidence of something happening that could be indicative of cancer risk in the future?
+
+298
+00:51:23.930 --> 00:51:29.259
+Matthew Farrelly: And that's a very tricky thing to do, so…
+
+299
+00:51:29.750 --> 00:51:40.740
+Matthew Farrelly: The framework that we've looked at is really more of estimating exposures based on use… use data.
+
+300
+00:51:41.190 --> 00:51:45.379
+Matthew Farrelly: How much of an individual chemical reaches the lungs?
+
+301
+00:51:45.730 --> 00:51:59.879
+Matthew Farrelly: So that's something that we get, you know, either we get data from applicants on that estimate, or we make assumptions about how much is reaching, and then what is the strength of the evidence of exposure to that individual ingredient?
+
+302
+00:51:59.880 --> 00:52:09.300
+Matthew Farrelly: in the lungs. And that's where, for us, there are a lot of things put into e-cigarettes for which no one's studied whether or not you've inhaled banana flavor.
+
+303
+00:52:09.300 --> 00:52:15.570
+Matthew Farrelly: Right? Like, there may be studies of banana-flavored candy… And the oral route.
+
+304
+00:52:15.720 --> 00:52:28.149
+Matthew Farrelly: But maybe no one has studied what inhaling banana flavor for 20 years will do to you, right? So that's the challenge, that we have to make decisions based on either
+
+305
+00:52:28.450 --> 00:52:37.010
+Matthew Farrelly: You know, animal studies of exposure, or we even have, you know, computational methods that we use when we don't have clinical
+
+306
+00:52:37.440 --> 00:52:38.850
+Matthew Farrelly: data.
+
+307
+00:52:39.040 --> 00:52:45.459
+Matthew Farrelly: So… Not sure if I answered that question, but I answered at least parts of it.
+
+308
+00:52:45.460 --> 00:52:59.839
+Robin Mermelstein: Yeah, it's helpful, but, so how, from what you're saying, you've got the animal, but then how do you combine that with actual product use data? You know, you're trying to… it's a combination. If somebody doesn't use it, it doesn't matter what the expo… but, you know, how does product use data combine with some of that exposure data?
+
+309
+00:53:00.270 --> 00:53:04.780
+Matthew Farrelly: Yeah, so, so, it's a…
+
+310
+00:53:05.060 --> 00:53:23.920
+Matthew Farrelly: you know, we have sort of standard assumptions about levels of use, and we even have, like, regular use and intensive use regimens that we look at, and sometimes, you know, applicants will submit their own data. They use an actual use study, and they'll say, you know, this population used, you know.
+
+311
+00:53:24.130 --> 00:53:28.420
+Matthew Farrelly: 3 pouches a day over the 3-week course, you know.
+
+312
+00:53:28.540 --> 00:53:45.399
+Matthew Farrelly: So, we look at all the data that's submitted to help us understand and calculate estimated exposures. You know, and that, of course, involves assumptions. You know, you assume, okay, you're going to use it for the next 20 years.
+
+313
+00:53:46.060 --> 00:53:50.830
+Matthew Farrelly: What is the lifetime exposure, and what's the lifetime cancer risk, for example?
+
+314
+00:53:51.700 --> 00:54:08.240
+Matthew Farrelly: So yeah, sometimes we get lots of data submitted, other times we don't, and we have to just use surveillance data, existing data, and consistent assumptions so that we treat, you know, similarly situated products similarly, because,
+
+315
+00:54:08.440 --> 00:54:19.119
+Matthew Farrelly: That is something that if we don't, if we're not consistent, we get sued for not evaluating evidence, fairly and consistently. So that's something we pay great attention to.
+
+316
+00:54:20.710 --> 00:54:28.519
+Robin Mermelstein: Thanks, and I think, we all often, you know, sort of, like, the go-to people think about is, like, cancer exposures and carcinogens.
+
+317
+00:54:28.590 --> 00:54:41.529
+Robin Mermelstein: But people are also concerned about cardiovascular and respiratory. Is there any weighting, or if people only have one kind, how do you evaluate all, kind of, the full array of potential health effects?
+
+318
+00:54:41.530 --> 00:55:00.050
+Matthew Farrelly: So there's non-cancer risks as well, and, you know, some of it is very… is very tricky, and you're starting to push the boundaries of my knowledge. This is usually where I pull in the toxicologists who can talk about non-cancer risks and, and how we… we do that, but,
+
+319
+00:55:00.050 --> 00:55:04.340
+Matthew Farrelly: Yeah, cancer does get a lot of the attention, partly, you know.
+
+320
+00:55:04.340 --> 00:55:20.260
+Matthew Farrelly: That's a big one, and we have methods for estimating it. Some of estimating cardiovascular effects or other non-cancer risks is a little bit trickier. We tend to look at, are there certain exposures that are associated with cardiovascular risk?
+
+321
+00:55:20.810 --> 00:55:34.550
+Matthew Farrelly: So that, that's, you know, one way is you try to look at, are there certain features or ingredients, constituents in a product that, you know, where you have data on exposure, and how that might, you know, increase,
+
+322
+00:55:34.670 --> 00:55:41.480
+Matthew Farrelly: cardiovascular risk, so, we… we do the best we can with the available evidence.
+
+323
+00:55:42.810 --> 00:56:01.589
+Robin Mermelstein: Thanks, so I know we're getting close to time, so just as a quick wrap-up, could you name one or two most important scientific questions, or three questions, that are not yet answered, that CTP would particularly benefit from having external researchers?
+
+324
+00:56:02.320 --> 00:56:03.310
+Matthew Farrelly: Mmm.
+
+325
+00:56:05.700 --> 00:56:07.189
+Matthew Farrelly: That's a tough one.
+
+326
+00:56:07.550 --> 00:56:18.239
+Matthew Farrelly: I mean, I think I'm out, you know, there's recency bias, right? I… we have been doing a lot of… we've been reviewing a lot of applications for nicotine pouches.
+
+327
+00:56:18.360 --> 00:56:29.509
+Matthew Farrelly: And while they… many of them share similar features and ingredients, there seems to be a lot of innovation in that space in terms of…
+
+328
+00:56:29.650 --> 00:56:36.420
+Matthew Farrelly: the… Ingredients and even the sort of formulations of how nicotine is delivered.
+
+329
+00:56:36.670 --> 00:56:45.160
+Matthew Farrelly: And so, that's, to me, an area of great interest, to make sure that
+
+330
+00:56:45.530 --> 00:56:54.629
+Matthew Farrelly: We're armed with the information that we need to understand, well, if you have this ingredient added at this level.
+
+331
+00:56:54.900 --> 00:57:01.150
+Matthew Farrelly: What implications does that have for product use and abuse liability?
+
+332
+00:57:01.660 --> 00:57:11.550
+Matthew Farrelly: And… and I think there's some unanswered questions in that space, and I think there will continue to be as there's innovation in that area. So, I would…
+
+333
+00:57:11.550 --> 00:57:29.670
+Matthew Farrelly: you know, for those who like to keep a close eye on certain product categories and innovation in that space, and, you know, because sometimes in the announcements of new products, they'll say, you know, something about it, I think that's an area that's,
+
+334
+00:57:30.040 --> 00:57:34.619
+Matthew Farrelly: Of great interest, because whenever there's a new product category that takes off.
+
+335
+00:57:35.530 --> 00:57:51.240
+Matthew Farrelly: and there's innovation, it puts a lot of pressure on us in CTP to keep up with and have sufficient evidence to be able to make informed decisions. So that's… that's one thing I would say.
+
+336
+00:57:57.800 --> 00:58:08.340
+Matthew Farrelly: I think that, you know, another thing that I think about a lot is… Understanding the…
+
+337
+00:58:08.590 --> 00:58:26.250
+Matthew Farrelly: not just the product characteristics, but the, you know, the environmental context in which youth initiation happens. It's… it evolved… you know, we're in a pretty good place right now, you know, with where tobacco use rates are with youth, and that's a massive accomplishment.
+
+338
+00:58:26.370 --> 00:58:30.190
+Matthew Farrelly: But, you know, I have a teenager.
+
+339
+00:58:30.360 --> 00:58:42.089
+Matthew Farrelly: And for those who work closely with teenagers or know teenagers well, they're a fickle bunch, and things change really quickly.
+
+340
+00:58:42.310 --> 00:58:49.880
+Matthew Farrelly: And… and so… I think… Making sure that…
+
+341
+00:58:50.360 --> 00:58:59.920
+Matthew Farrelly: we're understanding new products and characteristics of products that may lead to uptake. You know, and also,
+
+342
+00:59:00.020 --> 00:59:13.919
+Matthew Farrelly: you know, what are factors that are discouraging use? Why are we where we are right now? Is it because they're just looking at their phones all the time, and they're doomscrolling, and all that, so that they just don't…
+
+343
+00:59:13.920 --> 00:59:20.459
+Matthew Farrelly: do other things? Who knows? So I think that's another… that's a, you know, always an ongoing
+
+344
+00:59:20.560 --> 00:59:22.630
+Matthew Farrelly: interests,
+
+345
+00:59:23.030 --> 00:59:36.299
+Matthew Farrelly: and part of the ledger that, you know, that we are, you know, that we care about. You know, another sticky wicket that I think is discussed a fair amount is dual use, and, you know, and…
+
+346
+00:59:36.520 --> 00:59:38.519
+Matthew Farrelly: Frankly, poly use.
+
+347
+00:59:38.710 --> 00:59:48.959
+Matthew Farrelly: Because it complicates the picture in terms of health benefits, and assessing benefits, because you have this
+
+348
+00:59:49.400 --> 01:00:06.400
+Matthew Farrelly: complicated mix of products that different people use for different reasons in different contexts, and sort of disentangling all that, and then understanding, you know, maybe in these controlled studies that we tend to get to make decisions, we get a certain picture and potential.
+
+349
+01:00:06.420 --> 01:00:11.129
+Matthew Farrelly: But in the real world, as people go to their day-to-day lives.
+
+350
+01:00:11.370 --> 01:00:16.180
+Matthew Farrelly: Does that match what we see in the applications?
+
+351
+01:00:16.370 --> 01:00:24.740
+Matthew Farrelly: So, you know, Those are the kinds of questions that are always on my mind, because…
+
+352
+01:00:25.750 --> 01:00:35.870
+Matthew Farrelly: You know, it's very challenging and expensive to pull together these applications, and, you know, so you can't… you don't have the luxury of studying people for months and months.
+
+353
+01:00:35.870 --> 01:00:42.880
+Matthew Farrelly: in months, and all these different situations. And so that's where the research world, I think, can be helpful.
+
+354
+01:00:42.880 --> 01:01:06.440
+Matthew Farrelly: And that's where I think the bigger picture perspective is, you know, that can make us question the evidence that's in front of us, and is it really helping us? Is it really informing what's going on in the real world, or do we need to change the way that we're thinking, whether it's youth initiation or smokers transitioning? And that's where I think the space for this group
+
+355
+01:01:06.640 --> 01:01:14.910
+Matthew Farrelly: It's probably the most… Interesting and potentially shaping of the way that we make decisions.
+
+356
+01:01:15.380 --> 01:01:20.959
+Robin Mermelstein: Right. Well, thank you. I know I'm going to turn it over to Mike, because we're probably out of time now.
+
+357
+01:01:21.600 --> 01:01:29.970
+Mike Pesko: Thank you to Dr. Farrelly for joining us today for an engaging and enlightening discussion.
+
+358
+01:01:29.970 --> 01:01:42.109
+Mike Pesko: Thank you to everyone who submitted questions. We will share all of your questions with Dr. Farrelly, and hope to organize future FDA CTP presentations as well, that may allow opportunities for further discussion.
+
+359
+01:01:42.230 --> 01:01:47.920
+Mike Pesko: Thank you to the audience, the 242 people, for your participation. Have a top snotch weekend.
+
