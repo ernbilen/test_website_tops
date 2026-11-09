@@ -17,7 +17,7 @@ Member: Justin White, Boston University <img src="https://upload.wikimedia.org/w
 Warren Bickel (in memoriam), Virginia Tech \\
 Michelle Bloch, National Cancer Institute \\
 Alison Breland, Virginia Commonwealth University \\
-John Cawley, Cornell University \\
+John Cawley, Syracuse University \\
 Christopher Carpenter, Vanderbilt University \\
 Frank Chaloupka, University of Illinois-Chicago \\
 Kenneth Michael Cummings, Medical University of South Carolina \\
@@ -43,7 +43,6 @@ Tessa Langley, University of Nottingham \\
 David Levy, Georgetown University \\
 Rafael Meza, BC Cancer Research \\
 Richard O’Connor, Roswell Park Comprehensive Cancer Center \\
-Barbara Schillo, Truth Initiative \\
 Jody Sindelar, Yale University \\
 Andrew Strasser, University of Pennsylvania \\
 James Thrasher, University of South Carolina \\
