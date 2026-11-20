@@ -1,0 +1,1210 @@
+WEBVTT
+
+1
+00:00:03.050 --> 00:00:12.880
+Brad Davis: Welcome to the Tobacco Online Policy Seminar, TOPS. Thank you for joining us today. I'm Brad Davis, a postdoctoral fellow at the University of Missouri.
+
+2
+00:00:13.410 --> 00:00:23.889
+Brad Davis: POPS is organized by Mike Pesko at the University of Missouri, C. Shang at The Ohio State University, and Jamie Hartman-Boyce at the University of Massachusetts Amherst.
+
+3
+00:00:24.290 --> 00:00:27.050
+Brad Davis: And Justin White at Boston University.
+
+4
+00:00:27.660 --> 00:00:39.980
+Brad Davis: The seminar will be one hour, with questions from the moderator and discussant. The audience may pose questions and comments in the Q&A panel, and the moderator will draw from these questions and comments in the conversation with the presenter.
+
+5
+00:00:40.260 --> 00:00:45.189
+Brad Davis: Please review the guidelines on TobaccoPolicy.org for acceptable questions.
+
+6
+00:00:45.290 --> 00:00:49.339
+Brad Davis: Please keep the questions professional and related to the research being discussed.
+
+7
+00:00:49.800 --> 00:00:58.360
+Brad Davis: Questions that meet the Seminar series guidelines will be shared with the presenter afterwards, even if they are not read aloud. Your questions are very much appreciated.
+
+8
+00:00:59.180 --> 00:01:07.540
+Brad Davis: This presentation is being video recorded and will be made available along with presentation slides on the TOPS website, TobaccoPolicy.org.
+
+9
+00:01:07.760 --> 00:01:14.379
+Brad Davis: I will turn the presentation over to today's moderator, Justin White, from Boston University, to introduce our speaker.
+
+10
+00:01:15.850 --> 00:01:24.879
+Justin White: Today, we continue our winter season with a single paper presentation by Ian Pope, entitled, Cessation of Smoking Trial.
+
+11
+00:01:24.910 --> 00:01:35.439
+Justin White: in the emergency department. Dr. Ian Pope is a general practice academic clinical fellow and honorary associate professor at the University of East Anglia, UK.
+
+12
+00:01:35.440 --> 00:01:50.369
+Justin White: He co-led the cessation of smoking trial in the emergency department, costed a randomized trial of smoking cessation interventions across 6 UK emergency departments, funded by the National Institute for Health and Care Research.
+
+13
+00:01:50.530 --> 00:02:08.710
+Justin White: His PhD research focused on smoking cessation in emergency departments. He's an associate editor of nicotine and Tobacco research, serves on the NIHR Research for Patient Benefit Panel, and co-authored a Cochrane review on vaping cessation interventions.
+
+14
+00:02:08.759 --> 00:02:21.120
+Justin White: His research focuses on tobacco and vaping cessation, particularly among underserved populations, and the effects of vaping on perioperative and anesthetic risk. Dr. Pope, thank you for presenting for us today.
+
+15
+00:02:21.710 --> 00:02:25.480
+Ian Pope: Thank you so much, Justin. Thank you very much for inviting me. Let me see if I can…
+
+16
+00:02:25.590 --> 00:02:27.129
+Ian Pope: Beat the technology.
+
+17
+00:02:29.120 --> 00:02:31.180
+Ian Pope: Super. Can you see that okay?
+
+18
+00:02:31.420 --> 00:02:32.840
+Justin White: We can, yes.
+
+19
+00:02:32.840 --> 00:02:50.510
+Ian Pope: Perfect. Lovely to be here, thank you so much for having me. So, I'm Ian Pope, I'm a, yeah, so general practice, so Family Medicine, academic clinical fellow, at the University of East Anglia. And I'm here to talk to you about the cessation of smoking trial in the MERGE department that I ran with my colleague, Caitlin Notley, also from UEA.
+
+20
+00:02:51.710 --> 00:02:52.980
+Ian Pope: So…
+
+21
+00:02:53.270 --> 00:03:03.569
+Ian Pope: Disclosure, so Costa was funded by an IHR, but, I'm speaking independently. No funding from tobacco or e-cigarettes, and no conflict of interest to declare.
+
+22
+00:03:04.180 --> 00:03:20.580
+Ian Pope: So, plan for this hour is to talk a bit about the ED as a location for smoking station, then a bit… then about the cost of transfer results, have a pause for a bit of discussion, then talk about the economic evaluation, the process evaluation, and implementation briefly.
+
+23
+00:03:20.650 --> 00:03:25.020
+Ian Pope: Then talk about a systematic review about ED smoking cessation trials.
+
+24
+00:03:25.130 --> 00:03:31.839
+Ian Pope: Looking at the methods and results, and then hopefully time for questions at the end. Hope that sounds okay.
+
+25
+00:03:32.770 --> 00:03:51.920
+Ian Pope: So, a bit of background to the ED. Lots of people go to the ED. So you've got some figures, here, so per 100,000 of the population per year, so 28,000 in England, up to 47,000, so almost half the population each year, in the US. So, lots of people going.
+
+26
+00:03:52.550 --> 00:04:11.439
+Ian Pope: But it's not evenly distributed, it's not a random sample who go to ED, so those from lower socioeconomic groups are more likely to attend, so, the most versus least deprived decile in the UK are, so the most deprived are twice as likely to attend, and from the US, so,
+
+27
+00:04:11.620 --> 00:04:16.519
+Ian Pope: that Medicaid are 4 times more likely to attend compared to private insurance.
+
+28
+00:04:16.620 --> 00:04:25.100
+Ian Pope: And those with homelessness, those who experience substance misuse disorder, criminal contact with the criminal justice system, all much more likely to attend the ED.
+
+29
+00:04:25.410 --> 00:04:32.729
+Ian Pope: And therefore, slightly, not surprisingly, lots of people who smoke, go to ED.
+
+30
+00:04:33.780 --> 00:04:51.050
+Ian Pope: So, when people think about ED, this is what they imagine. They imagine the cardiac arrest and the ER type thing, which does happen, but not so often. For most patients, the reality of attending ED is this. It's waiting. It's sat.
+
+31
+00:04:51.160 --> 00:04:58.419
+Ian Pope: Thinking about their health, thinking about what's brought them there, being bored, yeah, thinking… just waiting there.
+
+32
+00:04:58.740 --> 00:05:07.410
+Ian Pope: So I, for some time, had been thinking about utilizing this time that they were waiting, to help improve their health.
+
+33
+00:05:08.190 --> 00:05:12.719
+Ian Pope: So this led to us applying for funding and eventually getting it for costed.
+
+34
+00:05:13.940 --> 00:05:29.240
+Ian Pope: Costed was a two-arm, pragmatic, multi-center, individually randomised controlled trial, so you can see the six, trusts here. So, one in Scotland and the rest in England, two in London. So yeah, so it was a spread across the country.
+
+35
+00:05:30.400 --> 00:05:32.169
+Ian Pope: So we look to recruit
+
+36
+00:05:32.250 --> 00:05:41.010
+Ian Pope: adults who were smoking at least one cigarette a day, who were attending the ED, either as a patient or accompanying a patient.
+
+37
+00:05:41.070 --> 00:05:57.009
+Ian Pope: We didn't care about their motivation, so we wanted everyone. We were intentionally trying to recruit everyone who came who smoked one cigarette a day. So the only exclusion were a CO, a carbon monoxide breath test of less than 8 parts per million.
+
+38
+00:05:57.030 --> 00:06:01.680
+Ian Pope: Which I'll come on to talk about our learning from that.
+
+39
+00:06:01.840 --> 00:06:19.009
+Ian Pope: and dual users, so if they were vaping daily, we excluded them, and those who lacked capacity. But everyone else, those with complex mental health, those experiencing homelessness, everyone else, those who weren't at all motivated, we were trying to recruit all of them, and we worked really hard to try to recruit as many as possible.
+
+40
+00:06:19.920 --> 00:06:36.579
+Ian Pope: So the intervention was brief advice for about 15 minutes, so tailored to the reason they'd come. So if they came with chest pain, we talked about the benefits of quitting or switching, as we referred to. We didn't talk about quitting, we talked about switching to an e-cigarette,
+
+41
+00:06:36.730 --> 00:06:40.249
+Ian Pope: In terms of reducing the, risk of MI, etc.
+
+42
+00:06:40.440 --> 00:06:56.730
+Ian Pope: And then we, provided them with an e-cigarette, so this one pictured, and then 11 pods, so about 2-week supplies, and advice on how to use it. So again, another 15 minutes, so we were advising about how to switch, over.
+
+43
+00:06:56.730 --> 00:07:13.700
+Ian Pope: And we also referred them to local stop-spoking services, which in the UK, each area has one, and they provide, 12 weeks of behavioural support, plus free either nuclear replacement therapy or vape or medication, yeah, so it's… there's a national service.
+
+44
+00:07:14.700 --> 00:07:24.100
+Ian Pope: And then the control group got written materials, so they got a leaflet about local stop smoking service, but they weren't referred, they were just signposted to it.
+
+45
+00:07:25.020 --> 00:07:34.730
+Ian Pope: So, what did we do? So, we went through and screened in the ED waiting room. So, we, went round people, across most of the sites and just asked, do you smoke? Do you smoke? Do you smoke?
+
+46
+00:07:34.890 --> 00:07:41.200
+Ian Pope: And if they said yes, we then asked them to step aside, normally to an area inside of the waiting room.
+
+47
+00:07:41.320 --> 00:07:49.319
+Ian Pope: And then Art gave them more information, asked if they were interested, and then if they were, consented and then randomized them there and then.
+
+48
+00:07:49.700 --> 00:08:02.979
+Ian Pope: And if they were randomized to the intervention, we delivered it immediately. Whilst they were waiting, and whilst they were waiting to be seen, we did that half an hour, normally slightly less, more like 20-minute intervention, whilst they waited.
+
+49
+00:08:04.030 --> 00:08:15.069
+Ian Pope: We then followed them up at 1, 3, and 6 months, which were the plan, pre-planned follow-up, and then we did an add-on and 18-month follow-up, which I'll talk a bit more about.
+
+50
+00:08:15.900 --> 00:08:22.949
+Ian Pope: If they reported abstinence at 6 months, we invited them to undergo a carbon monoxide test.
+
+51
+00:08:23.080 --> 00:08:40.370
+Ian Pope: Yeah, and that was… and that was our primary outcome, and that was really challenging. Actually, we did very well at recruiting hard-to-reach groups, but hard-to-reach groups don't turn up for clinic appointments, and we really struggled,
+
+52
+00:08:40.380 --> 00:08:43.619
+Ian Pope: I got reasonable response rates,
+
+53
+00:08:43.880 --> 00:08:51.070
+Ian Pope: Yeah, for people answering the question, but actually then getting… pinning them down to get to come back for a CO test was really hard.
+
+54
+00:08:52.100 --> 00:09:06.519
+Ian Pope: Recruitment went really well. We opened 3 months late, but we actually finished a month early. So we were recruited much better than we were expecting. Yeah, people were really keen. This was with dedicated staff in the ED, but yeah, it worked really well.
+
+55
+00:09:07.570 --> 00:09:23.909
+Ian Pope: Here's our consort, so, about 1,000 patients, randomized one-to-one, about a 70% follow-up rate, slightly lower in the control group, slightly higher in the intervention group, and we used intention-treat analysis.
+
+56
+00:09:25.380 --> 00:09:33.020
+Ian Pope: So, here are some baseline characteristics of who we recruited. So, 62% male, roughly in keeping with,
+
+57
+00:09:33.020 --> 00:09:46.119
+Ian Pope: Those who smoke in the UK. Mean age of 40, again, about in keeping. A reasonable spread of ethnicities, so slightly more, diverse, probably because of the hospitals we were recruiting from.
+
+58
+00:09:46.190 --> 00:09:55.490
+Ian Pope: And the mean deprivation decile of 4.42, so 1 is the most deprived 10%, and 10 is the least deprived 10%, so this is
+
+59
+00:09:55.490 --> 00:10:09.239
+Ian Pope: More deprived than the general ED population, who are 4.9, and about in keeping with the smoking population, which is 4.4. So we managed to recruit, generally a fairly reasonable cross-section.
+
+60
+00:10:10.950 --> 00:10:26.729
+Ian Pope: And here is the primary outcome. As I said, follow-up rates much lower than we'd hoped. Really struggled to convert people from a reporter to an actual, but we still found a difference. So, 7.2% quit rate in the intervention arm.
+
+61
+00:10:26.820 --> 00:10:39.439
+Ian Pope: 4.1% quit rate in the control arm, giving a relative risk of 1.76, which is significant. So, lower than we powered the study for, but, still a, a great result.
+
+62
+00:10:39.870 --> 00:10:56.189
+Ian Pope: But then, just to give some more context, so this is the self-reported abundance rate, so 23.3%, so almost a quarter in the intervention harm. So, really significant difference here, with a relative risk of 1.8.
+
+63
+00:10:56.680 --> 00:11:13.159
+Ian Pope: Obviously, we don't know how many of these people who reported being abstinent were actually still smoking. I suspect the truth is somewhere in between, that, you know, people did face barriers coming for their CO test, so I doubt
+
+64
+00:11:13.210 --> 00:11:18.870
+Ian Pope: All of them, were back smoking, but yes, some of them probably were.
+
+65
+00:11:19.450 --> 00:11:35.379
+Ian Pope: And then, 18 months for follow-up was just a text message, so we did 2 text messages, so much lower response rate, and obviously it's 18 months later, but still, a significant difference between the group, so 12.8% quit rate in the intervention arm.
+
+66
+00:11:35.850 --> 00:11:46.469
+Ian Pope: So great to still find a difference, this far, from what was a very brief intervention, so 20 minutes, 18 months ago, and there's still a difference being shown.
+
+67
+00:11:48.160 --> 00:12:06.119
+Ian Pope: So I'm just going to show you the data cut a few ways, to try and illustrate a few points. So this is the follow-up rates and the quit rates. So, the brown is the people who didn't respond, and you've seen… you can see it in… by intervention and control, 1 month, 3 months, 6 months, and 18 months.
+
+68
+00:12:06.180 --> 00:12:20.500
+Ian Pope: So brown is those who didn't respond, green is those who hadn't responded but said they were still smoking, yellow were those who have quit, and the orange is those who quit and managed to be biochemically verified.
+
+69
+00:12:20.680 --> 00:12:24.670
+Ian Pope: So, as you can see, there's a difference in the…
+
+70
+00:12:25.060 --> 00:12:38.279
+Ian Pope: response rate between intervention and control, but it's relatively small at each level. 6 months was a bigger data collection, because they… we asked them all the economic questions and things, EQ5D.
+
+71
+00:12:38.280 --> 00:12:57.599
+Ian Pope: So we think that put some people off, so the response rate was slightly lower. But yeah, the difference is there throughout. And then, as you can see, at 18 months, we had a much lower response rate because we weren't following up. We didn't have a voucher, for answering the question, so yes, so a lower response rate at 18 months, as you might expect.
+
+72
+00:12:59.320 --> 00:13:17.010
+Ian Pope: And then, just to slice the data somewhere, this is the relative risk of abstinence over the different time points. So you can see that the confidence intervals cross each other throughout, but that they don't cross 1 at any point. It starts to tail off at 18 months, but still above 1.
+
+73
+00:13:18.880 --> 00:13:34.209
+Ian Pope: So, thinking about e-cigarette use, obviously this was an e-cigarette trial, at 6 months, of those who responded, 40% were daily vapors, at follow-up in the intervention group, compared to 18% in the control group.
+
+74
+00:13:34.410 --> 00:13:52.879
+Ian Pope: And only 15% of the intervention group didn't use a vape at all in the last 6 months, compared to 55% in the control arm. So, we fairly successfully managed to get, those in the intervention arm to have a go, at using a vape to switch away from cigarettes.
+
+75
+00:13:54.370 --> 00:14:12.369
+Ian Pope: So, here is… here are the three trial papers, in case you're interested. So there's one of the main results, one of the long-term follow-up, and those were really keen. There's a synopsis, which is a great long document, with lots and lots of the results in it, that you can also access online.
+
+76
+00:14:13.460 --> 00:14:20.710
+Ian Pope: I've sped through that by speaking very quickly, so we can take a pause, yes, for some questions.
+
+77
+00:14:21.350 --> 00:14:33.480
+Justin White: Great, we're gonna turn it to our discussant. So our discussant today is Dr. Steven Bernstein, a professor of emergency medicine and senior associate dean for Clinical and Translational Research from Yale.
+
+78
+00:14:33.550 --> 00:14:41.610
+Justin White: Dr. Bernstein's research focuses on the development and testing of ED-based interventions for substance use disorders, including tobacco.
+
+79
+00:14:41.710 --> 00:14:49.020
+Justin White: Steve, so if, I'll turn it over to you to, ask any questions or make comments that you have.
+
+80
+00:14:49.980 --> 00:15:08.089
+Steven Bernstein: Thank you, Justin. Good afternoon, everybody. Great to be here. I want to thank the Topps Group for the invitation, and it's great to hear some more terrific work from you, Ian. I've followed your stuff for some time now. So, this is a terrific study. It's an important study. It's near and dear to my heart. I am an emergency physician.
+
+81
+00:15:08.110 --> 00:15:17.729
+Steven Bernstein: And been toiling in this field for some time now. I like a lot of things about this study. I'll get to my questions. First,
+
+82
+00:15:17.730 --> 00:15:28.340
+Steven Bernstein: it's really impressive in scope. Six EDs, it's not easy to do a multicenter trial in general in 6 busy EDs, and to bring it to a successful conclusion, you…
+
+83
+00:15:28.340 --> 00:15:47.889
+Steven Bernstein: recruited wonderfully, like, even faster than what you had anticipated. That's not always easy to do, right? But you did that. That's terrific. And people who've done work in the ED, clinical trials know that we recruit in an opportunistic way, and that's exactly what you did. You sort of go from chair to chair, stretcher to stretcher.
+
+84
+00:15:47.890 --> 00:16:00.350
+Steven Bernstein: Do you smoke? Do you smoke? Do you smoke? And when you have a hit, you know, maybe a nurse or a doc refers somebody to you, and you can recruit them that way. It's very different from other kinds of more scheduled clinical trials. So that was terrific.
+
+85
+00:16:00.350 --> 00:16:16.219
+Steven Bernstein: the pragmatic nature of the trial is important and very useful, a certain kind of flexibility. First, I like that the intervention, the counseling intervention, was tailored to the
+
+86
+00:16:16.310 --> 00:16:28.429
+Steven Bernstein: participant's chief complaint, or whatever they came in for, and sometimes that's obvious, like, if somebody has an exacerbation of asthma, or emphysema, COPD, or… that kind of speaks for itself.
+
+87
+00:16:28.430 --> 00:16:38.000
+Steven Bernstein: But we also treat a lot of injuries in the emergency department, lacerations, fractures, etc, and we know that tobacco can interfere with wound healing, so I… as I think you did, you know, you can…
+
+88
+00:16:38.000 --> 00:16:51.610
+Steven Bernstein: train your counselors how to tailor their advice that way also, and that makes it more salient for the participant, including the young people who may not have lived long enough to get some of the more common cardiovascular complications of long-term
+
+89
+00:16:51.610 --> 00:16:58.639
+Steven Bernstein: Tobacco use, so that was… that was great. You… you did something, you didn't make it explicit, but,
+
+90
+00:16:58.660 --> 00:17:01.819
+Steven Bernstein: You allude to it in the paper, I think you mentioned it.
+
+91
+00:17:02.010 --> 00:17:15.010
+Steven Bernstein: you didn't, make, the stage of change an inclusion criterion. Specifically, you didn't exclude pre-contemplators, as has often been done in tobacco
+
+92
+00:17:15.380 --> 00:17:21.349
+Steven Bernstein: treatment trials. There's certainly a role for… an important role for the trans-theoretical stages of change.
+
+93
+00:17:21.420 --> 00:17:35.320
+Steven Bernstein: transdisciplinary, and that's fine. But I've found, as you did, that just that visit alone to the ED or the hospitalization is truly a teachable moment when, you know, people are really primed
+
+94
+00:17:35.320 --> 00:17:43.380
+Steven Bernstein: For a behavior change, and it seems, to me that we're… you know, why would we deprive pre-contemplators
+
+95
+00:17:43.390 --> 00:17:50.660
+Steven Bernstein: Of the opportunity to, Move away from this life-threatening behavior, you know?
+
+96
+00:17:50.770 --> 00:18:09.489
+Steven Bernstein: And also, when in the ED, there aren't many pre-contemplators also, you know. What the people are often contemplating is their own mortality, actually. So I think that was… that was a nice thing to do, to include pre-contemplators, and it also, of course, makes it easier to recruit.
+
+97
+00:18:10.660 --> 00:18:26.709
+Steven Bernstein: I… so again, congratulations on this. One or two questions. I'll start with this one, and you and I chatted about it briefly before this event. In your, one of your results slides, if I recall.
+
+98
+00:18:26.710 --> 00:18:40.239
+Steven Bernstein: I think 55% of the people in the control arm were not using e-cigs, which means, I guess, that 45% were using e-cigs, either a little or a lot. They didn't get them from you.
+
+99
+00:18:40.300 --> 00:18:59.519
+Steven Bernstein: Where… how did that happen? Was there any possibility of contamination? Did they maybe hear advice, or get advice from people on your team, or maybe a loved one who was with them in the ED? And can you speculate about how that might have attenuated the treatment effect in your study?
+
+100
+00:19:00.290 --> 00:19:03.529
+Ian Pope: Yeah, definitely. So I've got a slide coming on this, but,
+
+101
+00:19:03.580 --> 00:19:21.600
+Ian Pope: So, yeah, Steve, there definitely was some contamination. We know that just the… because they all did a CO test, and they answered lots of questions about their smoking, and so that in itself, I think, was part… was an intervention, was a dose of the effect.
+
+102
+00:19:21.620 --> 00:19:28.760
+Ian Pope: And they also all received text messages at 1, 3, and 6 months asking them about their smoking, so I think that was also had an effect.
+
+103
+00:19:29.140 --> 00:19:35.870
+Ian Pope: they also… staff really struggled, so we were using… generally, ED staff seconded the study.
+
+104
+00:19:36.170 --> 00:19:44.979
+Ian Pope: healthcare workers find it really hard to ask people lots of questions about their smoking, randomizing the control, and then say, okay, I can't say anything else.
+
+105
+00:19:45.530 --> 00:19:56.939
+Ian Pope: So I think what was actually happening was saying, oh, I'm sorry, you've been allocated control, I can't give you, the vape, however, you could go out and buy it yourself, and you could give it a go.
+
+106
+00:19:56.960 --> 00:20:14.480
+Ian Pope: And we know that happened because we heard it from participants, and we heard it from the staff, that they just couldn't resist. It was… it feels counterintuitive for them to know… to know something would help them and not to give that advice. So yeah, there definitely was a significant degree of contamination.
+
+107
+00:20:14.480 --> 00:20:19.439
+Ian Pope: And so the quit rate in the control group was much higher than you'd expect for a population
+
+108
+00:20:19.440 --> 00:20:24.160
+Ian Pope: yeah, population level, so there definitely… there definitely was an effect.
+
+109
+00:20:26.550 --> 00:20:34.359
+Steven Bernstein: Yeah, and I'm not surprised. There's an interesting literature on this. McCambridge has published some very nice papers on,
+
+110
+00:20:34.390 --> 00:20:53.279
+Steven Bernstein: this very narrow delta in trials of behavioral disorders just because of the engagement in the study, speaking with work… you know, speaking with study staff, and so forth. And healthcare workers go into that line of work typically for a reason. They want to help people, and if they don't think there's equal poise.
+
+111
+00:20:53.360 --> 00:20:57.330
+Steven Bernstein: You know, if they think the e-cigs might help, they… they may out of, you know, because they're…
+
+112
+00:20:57.720 --> 00:21:10.689
+Steven Bernstein: coming from a good place to help people about it, so I'm not surprised. One more question for you, and then maybe turn it over to others. Something I found in my own work here in the States, really evolving over the last,
+
+113
+00:21:10.840 --> 00:21:21.599
+Steven Bernstein: probably 10 to 15 years. I noticed in a lot of my trials, which, all were done in the different places in the Northeast U.S, urban areas.
+
+114
+00:21:22.010 --> 00:21:30.349
+Steven Bernstein: As time went on, we seemed to be getting more people who, were self-reporting abstinence, tobacco abstinence.
+
+115
+00:21:30.350 --> 00:21:43.649
+Steven Bernstein: but blew a positive carbon monoxide and insisted that they were not, in fact, using combustible cigarettes. And once we started to tease that apart a little bit, we found out, of course, that they were using cannabis.
+
+116
+00:21:44.070 --> 00:22:02.089
+Steven Bernstein: and smoking marijuana, not just edibles, of course. And so we had to change our methods, actually, to caution people about not using combustible cannabis in the, you know, couple of days prior to coming back for an outcome assessment.
+
+117
+00:22:02.090 --> 00:22:15.079
+Steven Bernstein: Can you give us a sense of… and of course, that coincides with the liberalization of cannabis laws in the U.S. Can you give us a sense, if you know, of how might that have played out in your study?
+
+118
+00:22:15.970 --> 00:22:30.130
+Ian Pope: Yeah, so we didn't collect data on this, we didn't… because we were trying to be as swift as we could, because obviously we need to… we were recruiting in a time-pressured environment, so we didn't collect this data. It would have been interesting to do, but yes, definitely we heard it reported, from recruiters.
+
+119
+00:22:30.130 --> 00:22:37.580
+Ian Pope: People who were saying that they only use tobacco with cannabis, and that's a difficult
+
+120
+00:22:37.580 --> 00:22:44.759
+Ian Pope: question, and we had various discussions about, you know, how… how could they access their cannabis without it, and
+
+121
+00:22:44.760 --> 00:22:46.079
+Ian Pope: And lots of people…
+
+122
+00:22:46.080 --> 00:23:10.430
+Ian Pope: in my clinical practice who think they're addicted to the cannabis, when actually it's the nicotine that they're addicted to, and a really tricky, a patient group to, deal with. So we definitely had some of that, probably not quite as much in the US, but yeah, it definitely is a problem, and I think a clinical challenge about how you respond to them, yeah, because… and obviously from a methodological perspective.
+
+123
+00:23:10.430 --> 00:23:13.639
+Ian Pope: perspective that they then blow a positive CO as well.
+
+124
+00:23:13.930 --> 00:23:15.160
+Ian Pope: It's tricky.
+
+125
+00:23:15.480 --> 00:23:16.399
+Steven Bernstein: Yeah, it is.
+
+126
+00:23:18.650 --> 00:23:29.600
+Justin White: Great, thank you so much. I want to encourage our audience to put any questions that you have in the Q&A panel, which you can find at the bottom of the Zoom window.
+
+127
+00:23:29.600 --> 00:23:44.570
+Justin White: We do have one question, asking about, how you define, I guess this is, biochemically validated abstinence versus the self-reported abstinence. Can you just say, remind us about how you define the outcome measures?
+
+128
+00:23:44.810 --> 00:23:51.880
+Ian Pope: Sure, so self-reported was continuous, so, so no more than 6, no more than 5,
+
+129
+00:23:51.880 --> 00:24:05.760
+Ian Pope: Cigarettes in the past 6 months, so that it was a continuous, abstinence we were after, and, well, so since we lasted up, so for 6 months, it was the 6-month outcome, and it was 6 months of, no more than 5 cigarettes, and none in the last…
+
+130
+00:24:05.760 --> 00:24:14.079
+Ian Pope: since… in the last 3 months. And then the biochemically verified was a CO, of less than 8.
+
+131
+00:24:14.660 --> 00:24:24.409
+Ian Pope: Yeah, it's less than 8, and so, yeah, a CO of 8 or more with, proving, yeah, still smoking, less than 8, being abstinent.
+
+132
+00:24:26.220 --> 00:24:43.209
+Justin White: Great. So I see that we have another question, here, saying, absolutely, a trip to the, EDER is a teachable moment, and pre-contemplation should be included. That's the perfect opportunity for a personalized message that can move many folks from
+
+133
+00:24:43.210 --> 00:24:51.430
+Justin White: PC to contemplation, so glad you did. Patients deserve to know about all of the options available to them that can help them to quit or lower their risk.
+
+134
+00:24:51.430 --> 00:24:57.129
+Justin White: Can salivarycotinine be utilized for those who indicate they smoke cannabis?
+
+135
+00:24:58.550 --> 00:25:16.880
+Ian Pope: Yes, we didn't use… yes, I think, and then also the urinary cotinine as well. Yeah, it's obviously complicated by the nicotine, element as well, but yes, it would be an option. I'll come on to the problems we had with biochemical verification. I don't think there's a perfect method.
+
+136
+00:25:16.880 --> 00:25:19.230
+Ian Pope: And I think it's, yeah, slightly…
+
+137
+00:25:19.360 --> 00:25:34.070
+Ian Pope: I think, in my view, smoking is so stigmatized that if people say, yes, I'm smoking every day, they are smoking every day, and so I'm not sure it's so necessary. But yeah, you obviously could use library codeine for that purpose.
+
+138
+00:25:34.890 --> 00:25:42.680
+Justin White: And then we have one more question at the moment. Is follow-up planned to ask if participants have successfully quit e-cigarettes?
+
+139
+00:25:42.680 --> 00:25:43.590
+Ian Pope: Hmm…
+
+140
+00:25:43.710 --> 00:26:06.069
+Ian Pope: No, it's not, but we… it was a… it's a real regret, because at 18 months, I would have loved to have asked that question, and obviously we didn't have a great rate of return. We were so focused on getting our outcome measure that we didn't. But yeah, in retrospect, we would have asked that, and that would have been an interesting, yeah, data to find out how many of those people were continuing.
+
+141
+00:26:06.070 --> 00:26:09.979
+Ian Pope: And we know that two-thirds continue, in most
+
+142
+00:26:09.980 --> 00:26:15.599
+Ian Pope: population studies, and I suspect it would have been similar, but yeah, that would have been really interesting data.
+
+143
+00:26:15.970 --> 00:26:20.410
+Justin White: Okay, great. There's no more questions at the moment, so feel free to continue.
+
+144
+00:26:20.590 --> 00:26:23.060
+Ian Pope: Great, thank you very much, thank you so much for questions.
+
+145
+00:26:23.260 --> 00:26:27.920
+Ian Pope: So, I'm gonna just run you through some other bits,
+
+146
+00:26:28.070 --> 00:26:46.260
+Ian Pope: That we found. So, this is about engagement with the stop swearing service. So you'll remember that the intervention group were referred, and the control group was signposted. And we thought this would have a really big effect, because we know the stop swearing services are very effective, there's strong evidence for them, but
+
+147
+00:26:46.390 --> 00:26:58.440
+Ian Pope: they had very poor engagement. So, only 3% of the intervention arm participants could remember a one-to-one session, and 2% in the control group, so really low rates of
+
+148
+00:26:58.440 --> 00:27:06.430
+Ian Pope: reporting it from the 6-month follow-up. We asked them all, you know, have you done any of this? And from the data from the services,
+
+149
+00:27:06.570 --> 00:27:19.480
+Ian Pope: So of 461 referrals, only 43 people engaged, so about 10% engagement rate, and of those, 15 went on to quit. That's compared to 113 self-reported
+
+150
+00:27:19.480 --> 00:27:28.740
+Ian Pope: quits at 6 months. So, the vast majority of these people, who we thought would be supported by the stop spending service, weren't. They were doing it themselves.
+
+151
+00:27:28.740 --> 00:27:42.889
+Ian Pope: And we did some qualitative work looking at this, and a lot of it was, that they just didn't remember being contacted, and there definitely is a problem that, stop spending services don't try very often, and there are barriers to engagement.
+
+152
+00:27:42.890 --> 00:27:50.999
+Ian Pope: But lots of people felt that they… it was enough. They'd had their advice, even though only 20 minutes, and they'd got their,
+
+153
+00:27:51.060 --> 00:27:58.469
+Ian Pope: e-cigarette, and they thought, actually, I'm okay, I can use this, which is a really interesting finding, and not what we were expecting.
+
+154
+00:27:58.470 --> 00:28:13.669
+Ian Pope: Also interesting that the referral versus, signposting didn't seem to have much of an effect. We were expecting the referral to, because they were then reached out to proactively, to have a much higher engagement rate, but that isn't what we found. So yeah, an interesting finding.
+
+155
+00:28:14.170 --> 00:28:23.120
+Ian Pope: We also did an economic evaluation, so we showed that the total cost per participant was about 64 US dollars,
+
+156
+00:28:23.260 --> 00:28:38.000
+Ian Pope: the cost per 6-month self-reported quit was $250, and it was cost-effective at the NICE threshold, which is the one we use, so $10,270 US dollars per QALY gained, between the groups.
+
+157
+00:28:40.060 --> 00:28:52.290
+Ian Pope: We also looked at this question of biochemical verification. So we used this, CO cutoff, in order to prove that people were smoking, to be as robust as possible.
+
+158
+00:28:52.930 --> 00:28:57.389
+Ian Pope: However, We found that, lots of people
+
+159
+00:28:57.550 --> 00:29:03.990
+Ian Pope: who were reporting smoking daily were blowing, COs of less than 8.
+
+160
+00:29:04.640 --> 00:29:16.109
+Ian Pope: And this was a real problem, because actually, about 20% of the people who, had agreed to take part were then excluded, because they had a CO of less than 8.
+
+161
+00:29:16.410 --> 00:29:29.029
+Ian Pope: We think this is because they were, they'd been sat in ED for a long period, and so hadn't had the opportunity to smoke, and they'd also been unwell for the previous few days, and thus been less likely to smoke.
+
+162
+00:29:29.130 --> 00:29:41.540
+Ian Pope: And I think my takeaway is actually, unless there's significant incentives why people might lie about their smoking status, I wouldn't use,
+
+163
+00:29:41.780 --> 00:29:56.110
+Ian Pope: biochemical verification as an inclusion criteria. I think it's really important for outcome measurement, but I think as inclusion, if someone says they're smoking daily, they probably are. So yeah, so that's my takeaway from this data.
+
+164
+00:29:58.400 --> 00:30:07.060
+Ian Pope: We also did a process evaluation, so this was interviews with participants, both intervention and control, and also with staff delivering the intervention.
+
+165
+00:30:07.060 --> 00:30:21.910
+Ian Pope: And some really interesting things. So, regarding the mechanism of action, patients said, right time, right place. Kind of, they really record this. I was sat there, bored, thinking about my health, and it did really feel like a teachable moment.
+
+166
+00:30:22.330 --> 00:30:39.160
+Ian Pope: I don't think I would have approached anybody otherwise, so this… these were not people who were about to contact the Stop Smoking service. This was opportunistic engagement. We did reach people who, may well have carried on smoking for years afterwards, if we hadn't seized them in this moment.
+
+167
+00:30:39.740 --> 00:30:45.339
+Ian Pope: I was unsure about using e-cigarettes, so there was… there is, anxiety about e-cigarettes,
+
+168
+00:30:45.620 --> 00:31:00.559
+Ian Pope: And driven by some media reports, in terms of the relative harm compared to smoking, and actually having us say, yes, they're not risk-free, but the risk is much lower than smoking, from a credible source was really helpful.
+
+169
+00:31:00.860 --> 00:31:07.489
+Ian Pope: It was a kickstart I needed, so motivational, I found it very motivating just having that, brief inter… interaction.
+
+170
+00:31:07.620 --> 00:31:21.129
+Ian Pope: the intervention helped distract me. So they found that if the location of the ED was positive, they were there worrying about whatever had brought them, and actually, being… having the chance to chat to someone that they quite liked, it relieved the boredom.
+
+171
+00:31:22.090 --> 00:31:44.450
+Ian Pope: I filled with a study. Someone came to me, not to judge me. They came saying, look, there is a possible solution, so non-judgmental, and this is how we describe all the scripts for the intervention. It was very positive. It was, why not give it a go? Have a go at switching. It wasn't, you need to set a quit date, and you need to stick to it, and you need to get rid of all your Tobacco, and this is,
+
+172
+00:31:44.450 --> 00:31:51.389
+Ian Pope: otherwise you're gonna die. It was all about the positive, non-judgmental, approach.
+
+173
+00:31:53.250 --> 00:32:02.120
+Ian Pope: So there were some barriers to impact. So, some participants' credit members faltered because of limited product availability, so we only gave them 2 weeks.
+
+174
+00:32:02.120 --> 00:32:17.270
+Ian Pope: with a view that they'd then go and, get… buy their own vape, or, you know, use NRT, or whatever. But actually, lots of people ran out after their two weeks, couldn't get the supplies of the device we provided them,
+
+175
+00:32:17.270 --> 00:32:36.299
+Ian Pope: And then went back to smoking, which will be really disappointing. Others didn't find the vape, effective. They, didn't find the hit was enough, they weren't getting enough nicotine, and so they might have relapsed. And yeah, as I've mentioned, the referral to local stock smoking services, which we thought was a really key part of the intervention, was very rarely taken up.
+
+176
+00:32:37.910 --> 00:32:45.359
+Ian Pope: There was some snowballing, interestingly, so 58 participants reported that family or friends had started dual using as a result.
+
+177
+00:32:45.360 --> 00:33:03.899
+Ian Pope: And 38, so 12% of participants, reported that Frumne or friends had quit smoking and switched to vaping. So my mum ended up becoming, buying a vape because of it, and she found it helpful. So all these people, who we hadn't delivered the intervention to, but our participants then went away and delivered it and spread the word.
+
+178
+00:33:05.260 --> 00:33:19.510
+Ian Pope: contamination, as I mentioned. So here's a quote from a control. Having spoken to the people in A&E, it gave me the motivation to do it. So that shows you that, higher rate of, motivation, and that they got a significant dose of the,
+
+179
+00:33:19.510 --> 00:33:33.919
+Ian Pope: of the intervention unintentionally. They didn't receive true usual care, and also these follow-up texts that acted as behavioural prompts, prompting people to quit. Unintentionally, these were probably purely for research purposes, but inevitably they have an effect.
+
+180
+00:33:35.720 --> 00:33:42.499
+Ian Pope: So I did some modelling, looking at, in England, if we implemented costed. So…
+
+181
+00:33:42.520 --> 00:33:52.219
+Ian Pope: if we think about most of the big EDs in England, and doing it during the day, about… you'd expect about 250,000 people who smoke to come through.
+
+182
+00:33:52.220 --> 00:34:04.129
+Ian Pope: about 150,000 would receive the intervention if it was well-staffed, and as a result, you'd get about 23,000 extra quits. So quite a big population change, for England.
+
+183
+00:34:05.380 --> 00:34:07.140
+Ian Pope: So, implementation…
+
+184
+00:34:07.370 --> 00:34:23.120
+Ian Pope: has gone really well. So we have a Costed Action Group, which is a group of 60 trusts who are interested in implementing it in their, emergency departments. 17 trusts have already implemented. You can see the dots on the map here of all the sites that are active.
+
+185
+00:34:23.210 --> 00:34:35.540
+Ian Pope: There's a combination. Some are giving out vapes, as we're constant, some are giving out nuclear replacement therapy, and some are giving out vouchers, for vapes, so you have to then take it away to a shop to,
+
+186
+00:34:35.540 --> 00:34:48.010
+Ian Pope: get a vape, so a whole variety. None of them, as far as I know, are using cytosine or varenicline. Yeah, I don't think that's ever been done in the ED environment, that kind of medication, which is interesting.
+
+187
+00:34:48.060 --> 00:35:01.149
+Ian Pope: But yeah, of the trusts implementing so far that have got, data, they're getting about a 21% quit rate, which is really great, from a business as usual, intervention.
+
+188
+00:35:01.150 --> 00:35:18.989
+Ian Pope: There are these plans for a national rollout. We would hope it was going to be this year, with rollout to half of EDs in the first year, and then all EDs in England in the second year. The money has not appeared for that, but hopefully it will at some point, and then there will be a national rollout, which will be really exciting.
+
+189
+00:35:20.640 --> 00:35:35.930
+Ian Pope: A huge thank you to the whole team, amazing researchers, particularly to my colleague, Caitlin Notley, who is the co-chief Investigator, and to all the members of the team and all the trusts, and of course, all the participants.
+
+190
+00:35:36.100 --> 00:35:47.680
+Ian Pope: I'm now going to show you, as long as it works, a video of, from that process evaluation, the voices of the participants talking about their experiences of receiving the intervention.
+
+191
+00:35:51.160 --> 00:35:51.659
+Ian Pope: double that kick.
+
+192
+00:36:06.010 --> 00:36:14.590
+Audio shared by Ian Pope: Oh, well, I haven't spoken since I was a young. I tried to stop, for the first half lit. He said that little tube tried with patches as well.
+
+193
+00:36:15.580 --> 00:36:16.430
+Audio shared by Ian Pope: There's been someone else.
+
+194
+00:36:17.110 --> 00:36:28.450
+Audio shared by Ian Pope: Back in 2005, I actually ended up having I was in hospital for I've also helped with patches.
+
+195
+00:36:28.850 --> 00:36:32.310
+Audio shared by Ian Pope: about a year, I stopped. I suffered long-term with disorder.
+
+196
+00:36:32.710 --> 00:36:36.770
+Audio shared by Ian Pope: And I just went through a really difficult stage in life, and I then just…
+
+197
+00:36:37.270 --> 00:36:51.249
+Audio shared by Ian Pope: I tried, when I stopped previously, patches. I mean, I was still… when I started broke, I was still not using the patches, but I was actually taking the patches also have a cigarette. To me, the patches didn't work.
+
+198
+00:36:56.970 --> 00:37:04.670
+Audio shared by Ian Pope: I was aware before about the possibility of vaping coming available on the NHS, if that comes along.
+
+199
+00:37:05.020 --> 00:37:27.240
+Audio shared by Ian Pope: That is something I would like to try. When I was approached in A&E, it's like, yeah, definitely. So, I was sitting in the waiting room, a nurse came out, she said that she'd go into my nose, and she saw that I was a smoker. Could she have a tab at night? Did you know, maybe take an hour, and I had another 2 hours to wait for the blood test. I was like, that's fine. I've personally been thinking about trying to quit smoking at some point.
+
+200
+00:37:27.660 --> 00:37:45.460
+Audio shared by Ian Pope: a lot of thought into it, or made any attempts at that stage. Like, it was kind of like a, oh, this could come in handy later on. They just spoke to me, like, Lance truck's working. It's a program for 6 months to try and see how you go. Why not?
+
+201
+00:37:50.320 --> 00:38:01.640
+Audio shared by Ian Pope: The main thing was, the lady said, it's up to you, and it's your choice. It's just like you've given an opportunity to actually make yourself for yourself. No one's ever said that except Claire Kitty.
+
+202
+00:38:02.150 --> 00:38:13.099
+Audio shared by Ian Pope: You know, there was no pressure, but the way… I think the way that she approached it made such a difference, as opposed to… I think, like anything, if somebody tells you a…
+
+203
+00:38:13.230 --> 00:38:25.399
+Audio shared by Ian Pope: You have got to, or you are not certain the bell. I struggle with strangers, so I felt that it was a little bit daunting sort of situation, but they really put me at ease straight away. I did feel comfortable.
+
+204
+00:38:29.420 --> 00:38:51.850
+Audio shared by Ian Pope: I guess being in the hospital, it was sort of like a lifesaver as such, and I think because, you know, I had to continue, I had no option other than to do that for almost a week, that by the time I then got out of hospital, I was then sort of used to it. I came home, and that was one of the first things I'd done. I put my papers, and I boxed them all up and put them in
+
+205
+00:38:51.850 --> 00:39:01.339
+Audio shared by Ian Pope: the back of the drawer, and continued with the vape. Bring up all the shoes and, you know, and I got all the stuff, and the takeaway of this, but…
+
+206
+00:39:01.410 --> 00:39:04.819
+Audio shared by Ian Pope: I can't… I can't promise that I'll do it, and…
+
+207
+00:39:05.380 --> 00:39:13.879
+Audio shared by Ian Pope: Do you know if that's how it reflects. When I came home, I put it in the bottom of our broken wardrobe, and…
+
+208
+00:39:13.930 --> 00:39:28.409
+Audio shared by Ian Pope: Actually, it just… it took right to my mind. It was actually the following Sunday. I thought, I'm gonna take this out and have a look. And I sat down, and I sat and read all the stuff.
+
+209
+00:39:28.570 --> 00:39:32.990
+Audio shared by Ian Pope: and took the… the green paint for both. I thought.
+
+210
+00:39:33.250 --> 00:39:35.630
+Audio shared by Ian Pope: I'm going into that model, because that…
+
+211
+00:39:35.780 --> 00:39:45.030
+Audio shared by Ian Pope: Fitness twice that I was like, ugh, didn't do this last. Within about… And then that's 2 minutes.
+
+212
+00:39:45.810 --> 00:39:52.480
+Audio shared by Ian Pope: I just… I just get to think, and I, you know, go help the lender up to deepen that pattern.
+
+213
+00:39:54.680 --> 00:40:18.479
+Audio shared by Ian Pope: I didn't admittedly start using the e-cigarettes right away. Carried on the smoke and kept the bags. On the day of the Queen's funeral, I had ran out of cigarettes the day before the shops were closed. So, I essentially turned my house upside down, and then I came across the bag, and I thought, let's Jasjit off cold turkey, and I went straight to the e-cigs, and I haven't smoked a cigarette
+
+214
+00:40:18.480 --> 00:40:24.519
+Audio shared by Ian Pope: Since that day. I was in the hospital, then my, like, Tobacco finished, and I thought, hey, hold on.
+
+215
+00:40:24.520 --> 00:40:32.840
+Audio shared by Ian Pope: We need to go, by Montemaca. Let's, do the resting, see how it goes. From there, I'll be honest, he'll stay with it.
+
+216
+00:40:36.750 --> 00:41:00.369
+Audio shared by Ian Pope: That was pretty straightforward, that e-cigarette. I mean, that's one of the reasons why I liked it, because it was so straightforward. I mean, it's just a clicking cartridge, and then inhale, pretty much, and if it doesn't work, charge. And you know when it is charging, because it's got the flashing indicator, so… You know, not even having to sort of press a button, either, and it was just easy to change, didn't have to fill with a liquid or things, I was really impressed.
+
+217
+00:41:00.830 --> 00:41:07.519
+Audio shared by Ian Pope: There's so many people that have actually asked me about this particular date.
+
+218
+00:41:07.540 --> 00:41:13.749
+Audio shared by Ian Pope: Because they tried my tape, and they actually went on as orders kit, because it's not…
+
+219
+00:41:13.750 --> 00:41:27.940
+Audio shared by Ian Pope: I think that's, you know, it's late. Come on, it's expensive as well, on a weekly basis. Like, I smoke roll-ups, and it's £17 something. I got money. It's, £6,
+
+220
+00:41:27.940 --> 00:41:31.399
+Audio shared by Ian Pope: something plots in little pots. That's that we…
+
+221
+00:41:31.910 --> 00:41:37.179
+Audio shared by Ian Pope: really crave for a cigarette or anything. So, through… through the worst time in my life.
+
+222
+00:41:37.850 --> 00:41:57.460
+Audio shared by Ian Pope: I am so shocked, but really proud as well, that I was still continuing to vape. I don't feel you owe me any thanks to take a part or succeed, you know, all the thanks comes from me, because I know, you know, you have done me, you know, a huge service. My GP, who…
+
+223
+00:41:57.460 --> 00:42:14.630
+Audio shared by Ian Pope: I'd known for years, she's saying, and I'm going to read what the renal specialist has said, and one of the things that stopped her smoking. I said, I stopped smoking 5 months ago, and she just… she couldn't speak. She was quiet, and I said to her, it is still there?
+
+224
+00:42:14.900 --> 00:42:19.889
+Audio shared by Ian Pope: David, I cannot believe us, and I'm so friend of you!
+
+225
+00:42:26.530 --> 00:42:32.030
+Ian Pope: So that's hopefully given you a flavor of what it was like. Let's see if I can…
+
+226
+00:42:34.490 --> 00:42:36.260
+Ian Pope: No, alright, let me…
+
+227
+00:42:39.920 --> 00:42:48.939
+Ian Pope: So, just to speak briefly about a systematic review I've subsequently, conducted with colleagues,
+
+228
+00:42:49.030 --> 00:43:07.879
+Ian Pope: So we looked at, ED-based randomized controlled trials that aimed to help people quit smoking with whatever intervention. We identified 19 RCTs, so 11 were behavioural support alone, and that was the first meta-analysis. 6 were behavioral support plus nickel replacement therapy, that was the second.
+
+229
+00:43:07.880 --> 00:43:17.289
+Ian Pope: Then there was costed. Because it included vape, and everything else was NRT, we didn't combine it, and one didn't have data available.
+
+230
+00:43:18.050 --> 00:43:21.090
+Ian Pope: So this is the behavioural sport alone analysis.
+
+231
+00:43:21.200 --> 00:43:35.520
+Ian Pope: So, not a significant effect, an indication of, benefit, but yeah, not a significant effect on this analysis. Obviously, this is the strictest, this is biochemically verified if they had it, and the longest, outcome.
+
+232
+00:43:36.050 --> 00:43:54.269
+Ian Pope: And then this is with NRT, so this is behavioral support and nicotine replacement, with a clear benefit of, benefit from it, a clear effect with a, risk ratio of 1.55. So yeah, so definitely evidence that NRT in the ED environment, is effective.
+
+233
+00:43:55.310 --> 00:43:59.699
+Ian Pope: So, some key messages. Emerging departments, or emergency rooms, offer…
+
+234
+00:43:59.870 --> 00:44:19.449
+Ian Pope: offers an opportunity to reach underserved groups and help them to quit smoking. So, I think ED is an amazing location to reach people who you wouldn't, access otherwise, who aren't going to pitch up to stop smoking services, who aren't motivated, but some of them have the most to gain from quitting, so it's an amazing environment to reach those people.
+
+235
+00:44:19.610 --> 00:44:26.770
+Ian Pope: Brief advice on pharmacotherapy, or a vape, is effective in the ED setting, and effective for sustained abstinence.
+
+236
+00:44:27.630 --> 00:44:29.130
+Ian Pope: Thank you very much!
+
+237
+00:44:30.260 --> 00:44:47.039
+Justin White: Great, thanks. We'll turn it back to our discuss in one second. I want to encourage our audience to keep the questions coming in the Q&A panel, and if we don't have a chance to get to all questions, or if you would like to discuss with the speaker directly with the mics enabled.
+
+238
+00:44:47.040 --> 00:45:05.840
+Justin White: You're welcome to attend Top of the Tops immediately following the webinar. If you're interested, copy the meeting room URL posted in the chat just now, so that you'll be ready to join the live discussion once this webinar concludes. So, with that, Steve, do you have any further questions or comments for Ian?
+
+239
+00:45:06.470 --> 00:45:19.950
+Steven Bernstein: Yeah, again, Ian, thank you. This is really, terrific, so informative, very impressive. I have a question for you. Can you comment on the regulatory status of electronic nicotine delivery devices at this time in the UK?
+
+240
+00:45:19.950 --> 00:45:35.649
+Steven Bernstein: In this country, it would be difficult, likely impossible, to do this study, because our FDA is regulating e-cigarettes as tobacco products, not as cessation devices. There have been experimental e-cigs, you know, made by the feds, as you know.
+
+241
+00:45:35.820 --> 00:45:40.499
+Steven Bernstein: But this would be really hard for us to do here, so what's happening in the UK that way?
+
+242
+00:45:41.430 --> 00:45:52.370
+Ian Pope: Yeah, so it's a very… it is a very different environment in the UK, so obviously we don't regulate them as tobacco, because they don't contain tobacco, and I think it's slightly mad, but there we are.
+
+243
+00:45:52.370 --> 00:46:07.089
+Ian Pope: Yeah, so they're regulated as a commercial product, and there are, obviously, regulations around what can go in them, and the nicotine content, and, but they're currently regulated as that consumer product, because they're bought, over the counter.
+
+244
+00:46:07.090 --> 00:46:17.199
+Ian Pope: But they are not, but there is not a medicinal vape, so not a vape that is, licensed as a medication that can be prescribed.
+
+245
+00:46:17.200 --> 00:46:29.179
+Ian Pope: So that… there's a device that's currently, I think, going through the process, so we might get that, and that would be really interesting to see that prescription model. But currently it is all, commercially available
+
+246
+00:46:29.390 --> 00:46:47.290
+Ian Pope: So, actually, it was relatively simple. Because we weren't using a medicine, it was a relatively simple regulation from a UK perspective. It's, you know, you can walk out and buy it over the counter, therefore, it's relatively simple to use. Yeah. So, actually, from a regulations perspective, it was useful.
+
+247
+00:46:52.970 --> 00:46:55.509
+Justin White: Any other questions or comments, Steve?
+
+248
+00:46:56.800 --> 00:46:57.900
+Steven Bernstein: Not at this time.
+
+249
+00:46:58.150 --> 00:47:11.210
+Justin White: Okay, great. We do have a few audience questions at the moment. The first one is, just to clarify, were other non-smoking cessation supplies offered, in addition to the e-cigarette starter kit?
+
+250
+00:47:11.550 --> 00:47:33.259
+Ian Pope: knows we talked to them about them, we said there were other options, that they, could access NRT or medication through the Stop Smoking service, who we're referring them to, but the intervention was purely, a vape. That was what we provided. The funding call was specifically around, vapes in the NHS for smoking cessation, and so that was what the funder wanted to fund.
+
+251
+00:47:33.260 --> 00:47:39.089
+Ian Pope: And I think… For me, it makes real sense for an unmotivated group.
+
+252
+00:47:39.350 --> 00:47:56.089
+Ian Pope: I think you need a degree of motivation to commit to, certainly, cytosine, you know, 6 tablets a day, and NRT, whereas it's a much easier substitution with a vape. So for this unmotivated population, I think a vape makes sense as the intervention.
+
+253
+00:47:56.880 --> 00:48:02.120
+Justin White: Great, and related to Steve's question about the difference in context.
+
+254
+00:48:02.140 --> 00:48:18.230
+Justin White: Nancy Rigotti says, terrific work. Did any EDs or clinicians object to your not also offering the option of NRT? I suspect that U.S. clinicians and institutions would object to not being offered, not offering any meds.
+
+255
+00:48:18.840 --> 00:48:31.469
+Ian Pope: There was some anxiety about it, yeah, from clinicians, but actually, given… I think most people are convinced about the relative harm, and so, actually.
+
+256
+00:48:31.510 --> 00:48:41.200
+Ian Pope: given these were confirmed people who smoked, so switching them, to vapes, I think most people could see that we were switching them to a lower-risk product.
+
+257
+00:48:41.200 --> 00:48:52.000
+Ian Pope: And then they were going on to have access to whichever product they would like via the stop-smoking service, and so they had that option. So some, but yeah, not much concern.
+
+258
+00:48:52.300 --> 00:49:09.129
+Justin White: Okay, Deb Messina has a question about the qualitative data, and was wondering about quality control and fidelity. How are the staff being trained on the strategies for engaging with patients? And she comments that the non-judgmental approach that you described is key.
+
+259
+00:49:09.820 --> 00:49:29.769
+Ian Pope: Yeah, so we did, some observations, so each of the sites had an observation where a researcher went and observed the intervention delivery against a checklist. There was, obviously, training of the, they had about a day's training, before launching it, and before, and they had the opportunity to practice, and there was also a,
+
+260
+00:49:29.770 --> 00:49:34.089
+Ian Pope: A group where they could come back to and ask any questions and any problems they came to.
+
+261
+00:49:34.090 --> 00:49:46.930
+Ian Pope: And then they were ticking off that, what elements they'd covered to confirm that they had covered everything. Yes, and then there were the interviews with staff to find out how they found delivering the intervention.
+
+262
+00:49:47.970 --> 00:49:57.429
+Justin White: And so then we have a pair of questions that we're asking about which e-cigarette was being provided to patients and how you ended up choosing that one.
+
+263
+00:49:57.430 --> 00:50:13.230
+Justin White: Also, did you say that there is ongoing follow-up with patients in case they want to go to… go nicotine-free? So that's one set of questions, but then there's also a related one about, can you speak more about the flavors that were offered and chosen by the participants?
+
+264
+00:50:13.710 --> 00:50:14.340
+Ian Pope: Cool.
+
+265
+00:50:14.340 --> 00:50:36.270
+Ian Pope: Yeah, so first question about how we chose it. So we started off with, a list of candidate, products that we… so, and the criteria were they couldn't be funded by tobacco industry, so they had to be an independent company, with no tobacco funding, and we identified devices through, polling academics and, various experts.
+
+266
+00:50:36.270 --> 00:50:47.540
+Ian Pope: We then had a PPI panel who trialled them for us, so we sent them all out, and then they scored all the vapes on how effective they were, how the mouthfeel, strength, etc.
+
+267
+00:50:47.540 --> 00:51:06.140
+Ian Pope: We then looked at where you could buy the vapes, because we wanted them to be, accessible around the ED, so we looked… they kind of got scores for that, and then we kind of narrowed it down, to finally the device we used, yeah, which was a non… non-obacco-funded independent, vape.
+
+268
+00:51:06.260 --> 00:51:13.110
+Ian Pope: With regards to flavor, they got a mixture of tobacco, menthol, and fruit.
+
+269
+00:51:13.220 --> 00:51:28.629
+Ian Pope: About equal numbers of each, and we're largely encouraged to try… start with tobacco and have a go, and then experiment with the other two and see how they got on, and then go out and buy, buy other ones as they… as they got on.
+
+270
+00:51:29.430 --> 00:51:47.530
+Justin White: So, one question I had was, you mentioned one of the challenges was non-response, particularly that fall-off at the 18-month follow-up, and I'm curious what lessons, if any, you drew from, sort of, the challenges that you faced in the trial in terms of trying to reach these hard-to-reach populations.
+
+271
+00:51:47.980 --> 00:51:55.320
+Ian Pope: Yeah, they… I mean, they are hard to reach. I mean, I think vouchers have to play a part. I think Steve has,
+
+272
+00:51:55.460 --> 00:52:05.400
+Ian Pope: Yes. If I'd have looked more carefully, I think some of Steve's trials have given bigger vouchers for the carbon monoxide, for the biochemical verification, and if we had a
+
+273
+00:52:05.480 --> 00:52:19.929
+Ian Pope: looked and, yeah, thought about it, I'd have given a bigger voucher for the biochemical verification, and that would have been the, big money item, because it was such an important. But actually we, we didn't, so yeah, so I think that's key.
+
+274
+00:52:19.930 --> 00:52:34.430
+Ian Pope: I think being flexible, so we were… we tried to be as flexible as we could. We… they could either come back to the ED, or they could do it remotely, we could send them out a device, or we would meet them in their home, or we could meet them at their GP surgery, or wherever, and
+
+275
+00:52:34.540 --> 00:52:51.959
+Ian Pope: we had researchers, like, standing on street corners, hoping that the participant would, pitch up for… and yeah, there was a huge amount of effort, but I think they are just a really hard-to-reach group, and it's just the nature of the beast. Yeah, I think the iconic verification is tricky, yeah.
+
+276
+00:52:51.990 --> 00:52:55.559
+Ian Pope: Yeah. Yeah, vouchers, I think, are probably part of it.
+
+277
+00:52:55.730 --> 00:53:10.259
+Justin White: it's not an uncommon challenge. So, another question that I had is, you mentioned at the start that, you know, patients present in the ED for all sorts of reasons, and I'm curious if you looked at whether
+
+278
+00:53:10.260 --> 00:53:16.210
+Justin White: patients who were presenting with certain conditions were more likely to participate. You know, I would imagine, for example, that
+
+279
+00:53:16.210 --> 00:53:33.569
+Justin White: Patients who are going, you know, had acute pain or something might be less interested in, sort of, trying to, be distracted with, sort of your, your, your, whatever, your research staff. But did you look at whether there are certain patients who might be, sort of lower hanging fruit in terms of reaching out to?
+
+280
+00:53:33.760 --> 00:53:46.869
+Ian Pope: Not exactly, but we collected reasons for non-engagement, and one of the reasons was, I'm in too much pain. Yeah, I don't feel like I can do it at the moment, which obviously makes sense for a proportion of, and then some of them were.
+
+281
+00:53:46.870 --> 00:53:56.349
+Ian Pope: I'm not interested in quitting, and so we did lose some people, even though we tried very hard to say, no, no, that's not what this is about, this is about research.
+
+282
+00:53:56.390 --> 00:54:15.509
+Ian Pope: please just have a go. But yeah, some people just weren't good. But yeah, pain definitely rolls a part. We did collect a bit of data on, presenting complaint, but it was fairly broad brush, and I think there was an analysis, but it didn't show very much about link between, reason for attending and,
+
+283
+00:54:15.540 --> 00:54:24.049
+Ian Pope: engagement. I think there has been other data that shows that there… if people perceive it to be,
+
+284
+00:54:24.130 --> 00:54:27.759
+Ian Pope: Smoking-related, they're slightly more motivated, as you might expect.
+
+285
+00:54:28.870 --> 00:54:35.019
+Justin White: One more question, which was placed directly in the chat, didn't make it in the Q&A panel, was.
+
+286
+00:54:35.100 --> 00:54:52.249
+Justin White: Asking about, was there a correlation with patient current health impacts of smoking as a motivation to quitting smoking, and how much nicotine is in the vape pen provided? And is there… are there plans to help them wean to lower nicotine usage and quit all nicotine?
+
+287
+00:54:52.920 --> 00:54:58.509
+Ian Pope: So, first question about, so that was about, sorry.
+
+288
+00:54:58.510 --> 00:55:01.380
+Justin White: There's a correlation, with…
+
+289
+00:55:01.380 --> 00:55:01.980
+Ian Pope: Current house.
+
+290
+00:55:01.980 --> 00:55:09.900
+Justin White: Patient health, yeah, as a motivation to quit smoking, and then how much nicotine was in the bed.
+
+291
+00:55:09.900 --> 00:55:17.760
+Ian Pope: So we didn't really, collect much health data. We were trying to be as efficient as we could, so no, so we couldn't really look at that.
+
+292
+00:55:17.760 --> 00:55:32.809
+Ian Pope: So the… the vape was the highest allowed in the UK, so 20 milligrams per mil. They were encouraged to then go out and experiment with lower doses. If that felt too strong, part of the advice was, it might feel a bit strong,
+
+293
+00:55:32.910 --> 00:55:40.979
+Ian Pope: You can go to a vape shop and try a lower, and the device we gave had a 10 milligram per mil,
+
+294
+00:55:41.020 --> 00:56:03.859
+Ian Pope: option, so they could just reduce the dose if they wanted, but we… because we were targeting possibly quite dependent smokers, we wanted to give them the highest, strength, and we all… we gave them advice. There was a leaflet about quitting vaping as part of the intervention, about… but what we really didn't want people to do was rush into that, because of the risk of relapse, because
+
+295
+00:56:03.860 --> 00:56:09.349
+Ian Pope: We're really focused on keeping them tobacco-free, given that's where a lot of the harms are, so we,
+
+296
+00:56:09.470 --> 00:56:23.559
+Ian Pope: Yeah, we kept… we didn't… we didn't want them to rush into quitting vaping and then relapse smoking, so we, yeah, didn't… didn't pressure that, but we gave… signposted them to resources for if they wanted to in the future.
+
+297
+00:56:24.940 --> 00:56:30.860
+Justin White: Okay, I'm not seeing any other questions, so thanks so much. I'm going to pass it back to our MC to take us out.
+
+298
+00:56:31.270 --> 00:56:32.310
+Ian Pope: Thank you very much!
+
+299
+00:56:44.060 --> 00:56:59.300
+Brad Davis: We are out of time, however, if you still have burning questions or thoughts for Ian Pope, you can join us for Top of the Tops, an interactive group discussion. To join, please copy the Zoom meeting URL posted in the chat, and switch rooms with us once this event concludes.
+
+300
+00:56:59.400 --> 00:57:11.530
+Brad Davis: We'll leave this webinar room open for an extra minute after the end to give everyone a chance to copy the URL, which is bit.yl slash topsmeeting, all lowercase.
+
+301
+00:57:11.930 --> 00:57:21.340
+Brad Davis: Thank you to our presenter, moderator, and discussant, and finally, thank you to our audience of 91 people for your participation. Have a tops-notch weekend.
+
+302
+00:57:23.780 --> 00:57:24.880
+Ian Pope: Thank you very much.
+
